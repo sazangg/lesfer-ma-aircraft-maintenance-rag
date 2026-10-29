@@ -1,0 +1,85 @@
+<?xml version="1.0"?>
+<DIV5 N="39" TYPE="PART" VOLUME="1" hierarchy_metadata="{&amp;quot;path&amp;quot;:&amp;quot;/on/_SUBSTITUTE_DATE_/title-14/part-39&amp;quot;,&amp;quot;citation&amp;quot;:&amp;quot;14 CFR Part 39&amp;quot;,&amp;quot;alternate_reference&amp;quot;:&amp;quot;FAR Part 39&amp;quot;}">
+<HEAD>PART 39&#x2014;AIRWORTHINESS DIRECTIVES
+</HEAD>
+<AUTH>
+<HED>Authority:</HED><PSPACE>49 U.S.C. 106(g), 40113, 44701.
+</PSPACE></AUTH>
+<SOURCE>
+<HED>Source:</HED><PSPACE>Docket No. FAA-2000-8460, 67 FR 48003, July 22, 2002, unless otherwise noted.
+</PSPACE></SOURCE>
+<DIV8 N="39.1" TYPE="SECTION" hierarchy_metadata="{&quot;path&quot;:&quot;/on/_SUBSTITUTE_DATE_/title-14/section-39.1&quot;,&quot;citation&quot;:&quot;14 CFR 39.1&quot;,&quot;alternate_reference&quot;:&quot;FAR 39.1&quot;}">
+<HEAD>&#xA7; 39.1 Purpose of this regulation.</HEAD>
+<P>The regulations in this part provide a legal framework for FAA's system of Airworthiness Directives.</P>
+</DIV8>
+
+<DIV8 N="39.3" TYPE="SECTION" hierarchy_metadata="{&quot;path&quot;:&quot;/on/_SUBSTITUTE_DATE_/title-14/section-39.3&quot;,&quot;citation&quot;:&quot;14 CFR 39.3&quot;,&quot;alternate_reference&quot;:&quot;FAR 39.3&quot;}">
+<HEAD>&#xA7; 39.3 Definition of airworthiness directives.</HEAD>
+<P>FAA's airworthiness directives are legally enforceable rules that apply to the following products: aircraft, aircraft engines, propellers, and appliances.</P>
+</DIV8>
+
+<DIV8 N="39.5" TYPE="SECTION" hierarchy_metadata="{&quot;path&quot;:&quot;/on/_SUBSTITUTE_DATE_/title-14/section-39.5&quot;,&quot;citation&quot;:&quot;14 CFR 39.5&quot;,&quot;alternate_reference&quot;:&quot;FAR 39.5&quot;}">
+<HEAD>&#xA7; 39.5 When does FAA issue airworthiness directives?</HEAD>
+<P>FAA issues an airworthiness directive addressing a product when we find that:</P>
+<P>(a) An unsafe condition exists in the product; and</P>
+<P>(b) The condition is likely to exist or develop in other products of the same type design.</P>
+</DIV8>
+
+<DIV8 N="39.7" TYPE="SECTION" hierarchy_metadata="{&quot;path&quot;:&quot;/on/_SUBSTITUTE_DATE_/title-14/section-39.7&quot;,&quot;citation&quot;:&quot;14 CFR 39.7&quot;,&quot;alternate_reference&quot;:&quot;FAR 39.7&quot;}">
+<HEAD>&#xA7; 39.7 What is the legal effect of failing to comply with an airworthiness directive?</HEAD>
+<P>Anyone who operates a product that does not meet the requirements of an applicable airworthiness directive is in violation of this section.</P>
+</DIV8>
+
+<DIV8 N="39.9" TYPE="SECTION" hierarchy_metadata="{&quot;path&quot;:&quot;/on/_SUBSTITUTE_DATE_/title-14/section-39.9&quot;,&quot;citation&quot;:&quot;14 CFR 39.9&quot;,&quot;alternate_reference&quot;:&quot;FAR 39.9&quot;}">
+<HEAD>&#xA7; 39.9 What if I operate an aircraft or use a product that does not meet the requirements of an airworthiness directive?</HEAD>
+<P>If the requirements of an airworthiness directive have not been met, you violate &#xA7; 39.7 each time you operate the aircraft or use the product.</P>
+</DIV8>
+
+<DIV8 N="39.11" TYPE="SECTION" hierarchy_metadata="{&quot;path&quot;:&quot;/on/_SUBSTITUTE_DATE_/title-14/section-39.11&quot;,&quot;citation&quot;:&quot;14 CFR 39.11&quot;,&quot;alternate_reference&quot;:&quot;FAR 39.11&quot;}">
+<HEAD>&#xA7; 39.11 What actions do airworthiness directives require?</HEAD>
+<P>Airworthiness directives specify inspections you must carry out, conditions and limitations you must comply with, and any actions you must take to resolve an unsafe condition.</P>
+</DIV8>
+
+<DIV8 N="39.13" TYPE="SECTION" hierarchy_metadata="{&quot;path&quot;:&quot;/on/_SUBSTITUTE_DATE_/title-14/section-39.13&quot;,&quot;citation&quot;:&quot;14 CFR 39.13&quot;,&quot;alternate_reference&quot;:&quot;FAR 39.13&quot;}">
+<HEAD>&#xA7; 39.13 Are airworthiness directives part of the Code of Federal Regulations?</HEAD>
+<P>Yes, airworthiness directives are part of the Code of Federal Regulations, but they are not codified in the annual edition. FAA publishes airworthiness directives in full in the <E T="04">Federal Register</E> as amendments to &#xA7; 39.13.</P>
+<EDNOTE>
+<HED>Editorial Note:</HED><PSPACE>For a complete list of citations to airworthiness directives published in the <E T="04">Federal Register,</E> consult the following publications: For airworthiness directives published in the <E T="04">Federal Register</E> since 2001, see the entries for 14 CFR 39.13 in the List of CFR Sections Affected, which appears in the &#x201C;Finding Aids&#x201D; section of the printed volume and at <I>www.govinfo.gov.</I> For citations to prior amendments, see the entries for 14 CFR 39.13 in the separate publications List of CFR Sections Affected, 1973-1985, List of CFR Sections Affected, 1964-1972, and List of CFR Sections Affected, 1986-2000, and the entries for 14 CFR 507.10 in the List of Sections Affected, 1949-1963. See also the annual editions of the Federal Register Index for subject matter references and citations to FAA airworthiness directives.</PSPACE></EDNOTE>
+</DIV8>
+
+<DIV8 N="39.15" TYPE="SECTION" hierarchy_metadata="{&quot;path&quot;:&quot;/on/_SUBSTITUTE_DATE_/title-14/section-39.15&quot;,&quot;citation&quot;:&quot;14 CFR 39.15&quot;,&quot;alternate_reference&quot;:&quot;FAR 39.15&quot;}">
+<HEAD>&#xA7; 39.15 Does an airworthiness directive apply if the product has been changed?</HEAD>
+<P>Yes, an airworthiness directive applies to each product identified in the airworthiness directive, even if an individual product has been changed by modifying, altering, or repairing it in the area addressed by the airworthiness directive.</P>
+</DIV8>
+
+<DIV8 N="39.17" TYPE="SECTION" hierarchy_metadata="{&quot;path&quot;:&quot;/on/_SUBSTITUTE_DATE_/title-14/section-39.17&quot;,&quot;citation&quot;:&quot;14 CFR 39.17&quot;,&quot;alternate_reference&quot;:&quot;FAR 39.17&quot;}">
+<HEAD>&#xA7; 39.17 What must I do if a change in a product affects my ability to accomplish the actions required in an airworthiness directive?</HEAD>
+<P>If a change in a product affects your ability to accomplish the actions required by the airworthiness directive in any way, you must request FAA approval of an alternative method of compliance. Unless you can show the change eliminated the unsafe condition, your request should include the specific actions that you propose to address the unsafe condition. Submit your request in the manner described in &#xA7; 39.19.</P>
+</DIV8>
+
+<DIV8 N="39.19" TYPE="SECTION" hierarchy_metadata="{&quot;path&quot;:&quot;/on/_SUBSTITUTE_DATE_/title-14/section-39.19&quot;,&quot;citation&quot;:&quot;14 CFR 39.19&quot;,&quot;alternate_reference&quot;:&quot;FAR 39.19&quot;}">
+<HEAD>&#xA7; 39.19 May I address the unsafe condition in a way other than that set out in the airworthiness directive?</HEAD>
+<P>Yes, anyone may propose to FAA an alternative method of compliance or a change in the compliance time, if the proposal provides an acceptable level of safety. Unless FAA authorizes otherwise, send your proposal to your principal inspector. Include the specific actions you are proposing to address the unsafe condition. The principal inspector may add comments and will send your request to the manager of the office identified in the airworthiness directive (manager). You may send a copy to the manager at the same time you send it to the principal inspector. If you do not have a principal inspector send your proposal directly to the manager. You may use the alternative you propose only if the manager approves it.</P>
+</DIV8>
+
+<DIV8 N="39.21" TYPE="SECTION" hierarchy_metadata="{&quot;path&quot;:&quot;/on/_SUBSTITUTE_DATE_/title-14/section-39.21&quot;,&quot;citation&quot;:&quot;14 CFR 39.21&quot;,&quot;alternate_reference&quot;:&quot;FAR 39.21&quot;}">
+<HEAD>&#xA7; 39.21 Where can I get information about FAA-approved alternative methods of compliance?</HEAD>
+<P>Each airworthiness directive identifies the office responsible for approving alternative methods of compliance. That office can provide information about alternatives it has already approved.</P>
+</DIV8>
+
+<DIV8 N="39.23" TYPE="SECTION" hierarchy_metadata="{&quot;path&quot;:&quot;/on/_SUBSTITUTE_DATE_/title-14/section-39.23&quot;,&quot;citation&quot;:&quot;14 CFR 39.23&quot;,&quot;alternate_reference&quot;:&quot;FAR 39.23&quot;}">
+<HEAD>&#xA7; 39.23 May I fly my aircraft to a repair facility to do the work required by an airworthiness directive?</HEAD>
+<P>Yes, the operations specifications giving some operators authority to operate include a provision that allow them to fly their aircraft to a repair facility to do the work required by an airworthiness directive. If you do not have this authority, the local Flight Standards District Office of FAA may issue you a special flight permit unless the airworthiness directive states otherwise. To ensure aviation safety, FAA may add special requirements for operating your aircraft to a place where the repairs or modifications can be accomplished. FAA may also decline to issue a special flight permit in particular cases if we determine you cannot move the aircraft safely.</P>
+</DIV8>
+
+<DIV8 N="39.25" TYPE="SECTION" hierarchy_metadata="{&quot;path&quot;:&quot;/on/_SUBSTITUTE_DATE_/title-14/section-39.25&quot;,&quot;citation&quot;:&quot;14 CFR 39.25&quot;,&quot;alternate_reference&quot;:&quot;FAR 39.25&quot;}">
+<HEAD>&#xA7; 39.25 How do I get a special flight permit?</HEAD>
+<P>Apply to FAA for a special flight permit following the procedures in 14 CFR 21.199.</P>
+</DIV8>
+
+<DIV8 N="39.27" TYPE="SECTION" hierarchy_metadata="{&quot;path&quot;:&quot;/on/_SUBSTITUTE_DATE_/title-14/section-39.27&quot;,&quot;citation&quot;:&quot;14 CFR 39.27&quot;,&quot;alternate_reference&quot;:&quot;FAR 39.27&quot;}">
+<HEAD>&#xA7; 39.27 What do I do if the airworthiness directive conflicts with the service document on which it is based?</HEAD>
+<P>In some cases an airworthiness directive incorporates by reference a manufacturer's service document. In these cases, the service document becomes part of the airworthiness directive. In some cases the directions in the service document may be modified by the airworthiness directive. If there is a conflict between the service document and the airworthiness directive, you must follow the requirements of the airworthiness directive.</P>
+</DIV8>
+
+</DIV5>

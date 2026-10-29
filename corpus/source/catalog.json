@@ -1,0 +1,3242 @@
+{
+  "documents": [
+    {
+      "source_id": "ADREC-CN-TFA",
+      "file": "anfa/ad-records/ad-record-CN-TFA.xlsx",
+      "meta": {
+        "publisher": "Anfa Aero Services",
+        "title": "CN-TFA AD compliance record, 26 October 2026",
+        "doc_type": "AD compliance record",
+        "aircraft": "CN-TFA",
+        "as_of": "2026-10-26",
+        "access": "staff"
+      }
+    },
+    {
+      "source_id": "ADREC-CN-TFB",
+      "file": "anfa/ad-records/ad-record-CN-TFB.xlsx",
+      "meta": {
+        "publisher": "Anfa Aero Services",
+        "title": "CN-TFB AD compliance record, 26 October 2026",
+        "doc_type": "AD compliance record",
+        "aircraft": "CN-TFB",
+        "as_of": "2026-10-26",
+        "access": "staff"
+      }
+    },
+    {
+      "source_id": "ADREC-CN-TFC",
+      "file": "anfa/ad-records/ad-record-CN-TFC.xlsx",
+      "meta": {
+        "publisher": "Anfa Aero Services",
+        "title": "CN-TFC AD compliance record, 26 October 2026",
+        "doc_type": "AD compliance record",
+        "aircraft": "CN-TFC",
+        "as_of": "2026-10-26",
+        "access": "staff"
+      }
+    },
+    {
+      "source_id": "ADREC-CN-TFD",
+      "file": "anfa/ad-records/ad-record-CN-TFD.xlsx",
+      "meta": {
+        "publisher": "Anfa Aero Services",
+        "title": "CN-TFD AD compliance record, 26 October 2026",
+        "doc_type": "AD compliance record",
+        "aircraft": "CN-TFD",
+        "as_of": "2026-10-26",
+        "access": "staff"
+      }
+    },
+    {
+      "source_id": "ADREC-CN-TFE",
+      "file": "anfa/ad-records/ad-record-CN-TFE.xlsx",
+      "meta": {
+        "publisher": "Anfa Aero Services",
+        "title": "CN-TFE AD compliance record, 26 October 2026",
+        "doc_type": "AD compliance record",
+        "aircraft": "CN-TFE",
+        "as_of": "2026-10-26",
+        "access": "staff"
+      }
+    },
+    {
+      "source_id": "ADREC-CN-TFF",
+      "file": "anfa/ad-records/ad-record-CN-TFF.xlsx",
+      "meta": {
+        "publisher": "Anfa Aero Services",
+        "title": "CN-TFF AD compliance record, 26 October 2026",
+        "doc_type": "AD compliance record",
+        "aircraft": "CN-TFF",
+        "as_of": "2026-10-26",
+        "access": "staff"
+      }
+    },
+    {
+      "source_id": "ADREC-CN-TFG",
+      "file": "anfa/ad-records/ad-record-CN-TFG.xlsx",
+      "meta": {
+        "publisher": "Anfa Aero Services",
+        "title": "CN-TFG AD compliance record, 26 October 2026",
+        "doc_type": "AD compliance record",
+        "aircraft": "CN-TFG",
+        "as_of": "2026-10-26",
+        "access": "staff"
+      }
+    },
+    {
+      "source_id": "FLEET-2026-10",
+      "file": "anfa/fleet-register-2026-10.xlsx",
+      "meta": {
+        "publisher": "Anfa Aero Services",
+        "title": "Tadla Flight Academy fleet register, 26 October 2026",
+        "doc_type": "fleet register",
+        "as_of": "2026-10-26",
+        "access": "staff"
+      }
+    },
+    {
+      "source_id": "LOG-CN-TFA",
+      "file": "anfa/logbooks/logbook-CN-TFA.pdf",
+      "meta": {
+        "publisher": "Anfa Aero Services",
+        "title": "CN-TFA airframe logbook extract, 2024 to 2026",
+        "doc_type": "logbook",
+        "aircraft": "CN-TFA",
+        "as_of": "2026-10-26",
+        "access": "staff"
+      }
+    },
+    {
+      "source_id": "LOG-CN-TFB",
+      "file": "anfa/logbooks/logbook-CN-TFB.pdf",
+      "meta": {
+        "publisher": "Anfa Aero Services",
+        "title": "CN-TFB airframe logbook extract, 2024 to 2026",
+        "doc_type": "logbook",
+        "aircraft": "CN-TFB",
+        "as_of": "2026-10-26",
+        "access": "staff"
+      }
+    },
+    {
+      "source_id": "LOG-CN-TFC",
+      "file": "anfa/logbooks/logbook-CN-TFC.pdf",
+      "meta": {
+        "publisher": "Anfa Aero Services",
+        "title": "CN-TFC airframe logbook extract, 2024 to 2026",
+        "doc_type": "logbook",
+        "aircraft": "CN-TFC",
+        "as_of": "2026-10-26",
+        "access": "staff"
+      }
+    },
+    {
+      "source_id": "LOG-CN-TFD",
+      "file": "anfa/logbooks/logbook-CN-TFD.pdf",
+      "meta": {
+        "publisher": "Anfa Aero Services",
+        "title": "CN-TFD airframe logbook extract, 2024 to 2026",
+        "doc_type": "logbook",
+        "aircraft": "CN-TFD",
+        "as_of": "2026-10-26",
+        "access": "staff"
+      }
+    },
+    {
+      "source_id": "LOG-CN-TFE",
+      "file": "anfa/logbooks/logbook-CN-TFE.pdf",
+      "meta": {
+        "publisher": "Anfa Aero Services",
+        "title": "CN-TFE airframe logbook extract, 2024 to 2026",
+        "doc_type": "logbook",
+        "aircraft": "CN-TFE",
+        "as_of": "2026-10-26",
+        "access": "staff"
+      }
+    },
+    {
+      "source_id": "LOG-CN-TFF",
+      "file": "anfa/logbooks/logbook-CN-TFF.pdf",
+      "meta": {
+        "publisher": "Anfa Aero Services",
+        "title": "CN-TFF airframe logbook extract, 2024 to 2026",
+        "doc_type": "logbook",
+        "aircraft": "CN-TFF",
+        "as_of": "2026-10-26",
+        "access": "staff"
+      }
+    },
+    {
+      "source_id": "LOG-CN-TFG",
+      "file": "anfa/logbooks/logbook-CN-TFG.pdf",
+      "meta": {
+        "publisher": "Anfa Aero Services",
+        "title": "CN-TFG airframe logbook extract, 2024 to 2026",
+        "doc_type": "logbook",
+        "aircraft": "CN-TFG",
+        "as_of": "2026-10-26",
+        "access": "staff"
+      }
+    },
+    {
+      "source_id": "PRICES-2026",
+      "file": "anfa/price-list-2026.xlsx",
+      "meta": {
+        "publisher": "Anfa Aero Services",
+        "title": "Parts and labour price list 2026",
+        "doc_type": "price list",
+        "access": "management"
+      }
+    },
+    {
+      "source_id": "PROC-R7",
+      "file": "anfa/procedures-manual-r7.docx",
+      "meta": {
+        "publisher": "Anfa Aero Services",
+        "title": "Procedures manual, revision 7 (excerpt)",
+        "doc_type": "procedures manual",
+        "revision": "7",
+        "effective": "2026-06-01",
+        "access": "employees"
+      }
+    },
+    {
+      "source_id": "TRAIN-AD",
+      "file": "anfa/training-airworthiness-directives.pptx",
+      "meta": {
+        "publisher": "Anfa Aero Services",
+        "title": "Airworthiness directives at Anfa: training deck for new mechanics",
+        "doc_type": "training",
+        "access": "employees"
+      }
+    },
+    {
+      "source_id": "WO-SCAN",
+      "file": "anfa/work-orders-scanned.pdf",
+      "meta": {
+        "publisher": "Anfa Aero Services",
+        "title": "Work orders WO-2021-0544, WO-2024-0071, WO-2026-0388 (scanned)",
+        "doc_type": "work orders",
+        "access": "staff"
+      }
+    },
+    {
+      "source_id": "WO-2024-0022",
+      "file": "anfa/work-orders/WO-2024-0022.pdf",
+      "meta": {
+        "publisher": "Anfa Aero Services",
+        "title": "Work order WO-2024-0022: CN-TFD, annual inspection",
+        "doc_type": "work order",
+        "aircraft": "CN-TFD",
+        "date": "2024-01-14",
+        "access": "staff"
+      }
+    },
+    {
+      "source_id": "WO-2024-0036",
+      "file": "anfa/work-orders/WO-2024-0036.pdf",
+      "meta": {
+        "publisher": "Anfa Aero Services",
+        "title": "Work order WO-2024-0036: CN-TFG, 100-hour inspection",
+        "doc_type": "work order",
+        "aircraft": "CN-TFG",
+        "date": "2024-01-22",
+        "access": "staff"
+      }
+    },
+    {
+      "source_id": "WO-2024-0037",
+      "file": "anfa/work-orders/WO-2024-0037.pdf",
+      "meta": {
+        "publisher": "Anfa Aero Services",
+        "title": "Work order WO-2024-0037: CN-TFA, 100-hour inspection",
+        "doc_type": "work order",
+        "aircraft": "CN-TFA",
+        "date": "2024-01-23",
+        "access": "staff"
+      }
+    },
+    {
+      "source_id": "WO-2024-0046",
+      "file": "anfa/work-orders/WO-2024-0046.pdf",
+      "meta": {
+        "publisher": "Anfa Aero Services",
+        "title": "Work order WO-2024-0046: CN-TFB, 100-hour inspection",
+        "doc_type": "work order",
+        "aircraft": "CN-TFB",
+        "date": "2024-01-30",
+        "access": "staff"
+      }
+    },
+    {
+      "source_id": "WO-2024-0059",
+      "file": "anfa/work-orders/WO-2024-0059.pdf",
+      "meta": {
+        "publisher": "Anfa Aero Services",
+        "title": "Work order WO-2024-0059: CN-TFF, 100-hour inspection",
+        "doc_type": "work order",
+        "aircraft": "CN-TFF",
+        "date": "2024-02-06",
+        "access": "staff"
+      }
+    },
+    {
+      "source_id": "WO-2024-0064",
+      "file": "anfa/work-orders/WO-2024-0064.pdf",
+      "meta": {
+        "publisher": "Anfa Aero Services",
+        "title": "Work order WO-2024-0064: CN-TFC, 100-hour inspection",
+        "doc_type": "work order",
+        "aircraft": "CN-TFC",
+        "date": "2024-02-10",
+        "access": "staff"
+      }
+    },
+    {
+      "source_id": "WO-2024-0079",
+      "file": "anfa/work-orders/WO-2024-0079.pdf",
+      "meta": {
+        "publisher": "Anfa Aero Services",
+        "title": "Work order WO-2024-0079: CN-TFD, 100-hour inspection",
+        "doc_type": "work order",
+        "aircraft": "CN-TFD",
+        "date": "2024-02-20",
+        "access": "staff"
+      }
+    },
+    {
+      "source_id": "WO-2024-0087",
+      "file": "anfa/work-orders/WO-2024-0087.pdf",
+      "meta": {
+        "publisher": "Anfa Aero Services",
+        "title": "Work order WO-2024-0087: CN-TFE, 100-hour inspection",
+        "doc_type": "work order",
+        "aircraft": "CN-TFE",
+        "date": "2024-02-25",
+        "access": "staff"
+      }
+    },
+    {
+      "source_id": "WO-2024-0091",
+      "file": "anfa/work-orders/WO-2024-0091.pdf",
+      "meta": {
+        "publisher": "Anfa Aero Services",
+        "title": "Work order WO-2024-0091: CN-TFA, annual inspection",
+        "doc_type": "work order",
+        "aircraft": "CN-TFA",
+        "date": "2024-02-28",
+        "access": "staff"
+      }
+    },
+    {
+      "source_id": "WO-2024-0114",
+      "file": "anfa/work-orders/WO-2024-0114.pdf",
+      "meta": {
+        "publisher": "Anfa Aero Services",
+        "title": "Work order WO-2024-0114: CN-TFD, repair",
+        "doc_type": "work order",
+        "aircraft": "CN-TFD",
+        "date": "2024-03-12",
+        "access": "staff"
+      }
+    },
+    {
+      "source_id": "WO-2024-0117",
+      "file": "anfa/work-orders/WO-2024-0117.pdf",
+      "meta": {
+        "publisher": "Anfa Aero Services",
+        "title": "Work order WO-2024-0117: CN-TFB, 100-hour inspection",
+        "doc_type": "work order",
+        "aircraft": "CN-TFB",
+        "date": "2024-03-15",
+        "access": "staff"
+      }
+    },
+    {
+      "source_id": "WO-2024-0135",
+      "file": "anfa/work-orders/WO-2024-0135.pdf",
+      "meta": {
+        "publisher": "Anfa Aero Services",
+        "title": "Work order WO-2024-0135: CN-TFC, 100-hour inspection",
+        "doc_type": "work order",
+        "aircraft": "CN-TFC",
+        "date": "2024-03-26",
+        "access": "staff"
+      }
+    },
+    {
+      "source_id": "WO-2024-0136",
+      "file": "anfa/work-orders/WO-2024-0136.pdf",
+      "meta": {
+        "publisher": "Anfa Aero Services",
+        "title": "Work order WO-2024-0136: CN-TFG, 100-hour inspection",
+        "doc_type": "work order",
+        "aircraft": "CN-TFG",
+        "date": "2024-03-26",
+        "access": "staff"
+      }
+    },
+    {
+      "source_id": "WO-2024-0142",
+      "file": "anfa/work-orders/WO-2024-0142.pdf",
+      "meta": {
+        "publisher": "Anfa Aero Services",
+        "title": "Work order WO-2024-0142: CN-TFD, 100-hour inspection",
+        "doc_type": "work order",
+        "aircraft": "CN-TFD",
+        "date": "2024-03-30",
+        "access": "staff"
+      }
+    },
+    {
+      "source_id": "WO-2024-0143",
+      "file": "anfa/work-orders/WO-2024-0143.pdf",
+      "meta": {
+        "publisher": "Anfa Aero Services",
+        "title": "Work order WO-2024-0143: CN-TFA, 100-hour inspection",
+        "doc_type": "work order",
+        "aircraft": "CN-TFA",
+        "date": "2024-03-31",
+        "access": "staff"
+      }
+    },
+    {
+      "source_id": "WO-2024-0155",
+      "file": "anfa/work-orders/WO-2024-0155.pdf",
+      "meta": {
+        "publisher": "Anfa Aero Services",
+        "title": "Work order WO-2024-0155: CN-TFB, repair",
+        "doc_type": "work order",
+        "aircraft": "CN-TFB",
+        "date": "2024-04-09",
+        "access": "staff"
+      }
+    },
+    {
+      "source_id": "WO-2024-0184",
+      "file": "anfa/work-orders/WO-2024-0184.pdf",
+      "meta": {
+        "publisher": "Anfa Aero Services",
+        "title": "Work order WO-2024-0184: CN-TFE, 100-hour inspection",
+        "doc_type": "work order",
+        "aircraft": "CN-TFE",
+        "date": "2024-04-27",
+        "access": "staff"
+      }
+    },
+    {
+      "source_id": "WO-2024-0193",
+      "file": "anfa/work-orders/WO-2024-0193.pdf",
+      "meta": {
+        "publisher": "Anfa Aero Services",
+        "title": "Work order WO-2024-0193: CN-TFA, 100-hour inspection",
+        "doc_type": "work order",
+        "aircraft": "CN-TFA",
+        "date": "2024-05-02",
+        "access": "staff"
+      }
+    },
+    {
+      "source_id": "WO-2024-0194",
+      "file": "anfa/work-orders/WO-2024-0194.pdf",
+      "meta": {
+        "publisher": "Anfa Aero Services",
+        "title": "Work order WO-2024-0194: CN-TFB, 100-hour inspection",
+        "doc_type": "work order",
+        "aircraft": "CN-TFB",
+        "date": "2024-05-02",
+        "access": "staff"
+      }
+    },
+    {
+      "source_id": "WO-2024-0203",
+      "file": "anfa/work-orders/WO-2024-0203.pdf",
+      "meta": {
+        "publisher": "Anfa Aero Services",
+        "title": "Work order WO-2024-0203: CN-TFD, 100-hour inspection",
+        "doc_type": "work order",
+        "aircraft": "CN-TFD",
+        "date": "2024-05-09",
+        "access": "staff"
+      }
+    },
+    {
+      "source_id": "WO-2024-0204",
+      "file": "anfa/work-orders/WO-2024-0204.pdf",
+      "meta": {
+        "publisher": "Anfa Aero Services",
+        "title": "Work order WO-2024-0204: CN-TFF, annual inspection",
+        "doc_type": "work order",
+        "aircraft": "CN-TFF",
+        "date": "2024-05-09",
+        "access": "staff"
+      }
+    },
+    {
+      "source_id": "WO-2024-0207",
+      "file": "anfa/work-orders/WO-2024-0207.pdf",
+      "meta": {
+        "publisher": "Anfa Aero Services",
+        "title": "Work order WO-2024-0207: CN-TFC, 100-hour inspection",
+        "doc_type": "work order",
+        "aircraft": "CN-TFC",
+        "date": "2024-05-12",
+        "access": "staff"
+      }
+    },
+    {
+      "source_id": "WO-2024-0210",
+      "file": "anfa/work-orders/WO-2024-0210.pdf",
+      "meta": {
+        "publisher": "Anfa Aero Services",
+        "title": "Work order WO-2024-0210: CN-TFA, altimeter, static system, and transponder tests",
+        "doc_type": "work order",
+        "aircraft": "CN-TFA",
+        "date": "2024-05-14",
+        "access": "staff"
+      }
+    },
+    {
+      "source_id": "WO-2024-0231",
+      "file": "anfa/work-orders/WO-2024-0231.pdf",
+      "meta": {
+        "publisher": "Anfa Aero Services",
+        "title": "Work order WO-2024-0231: CN-TFE, repair",
+        "doc_type": "work order",
+        "aircraft": "CN-TFE",
+        "date": "2024-05-28",
+        "access": "staff"
+      }
+    },
+    {
+      "source_id": "WO-2024-0235",
+      "file": "anfa/work-orders/WO-2024-0235.pdf",
+      "meta": {
+        "publisher": "Anfa Aero Services",
+        "title": "Work order WO-2024-0235: CN-TFG, 100-hour inspection",
+        "doc_type": "work order",
+        "aircraft": "CN-TFG",
+        "date": "2024-05-30",
+        "access": "staff"
+      }
+    },
+    {
+      "source_id": "WO-2024-0242",
+      "file": "anfa/work-orders/WO-2024-0242.pdf",
+      "meta": {
+        "publisher": "Anfa Aero Services",
+        "title": "Work order WO-2024-0242: CN-TFA, 100-hour inspection",
+        "doc_type": "work order",
+        "aircraft": "CN-TFA",
+        "date": "2024-06-03",
+        "access": "staff"
+      }
+    },
+    {
+      "source_id": "WO-2024-0260",
+      "file": "anfa/work-orders/WO-2024-0260.pdf",
+      "meta": {
+        "publisher": "Anfa Aero Services",
+        "title": "Work order WO-2024-0260: CN-TFB, annual inspection",
+        "doc_type": "work order",
+        "aircraft": "CN-TFB",
+        "date": "2024-06-16",
+        "access": "staff"
+      }
+    },
+    {
+      "source_id": "WO-2024-0262",
+      "file": "anfa/work-orders/WO-2024-0262.pdf",
+      "meta": {
+        "publisher": "Anfa Aero Services",
+        "title": "Work order WO-2024-0262: CN-TFD, 100-hour inspection",
+        "doc_type": "work order",
+        "aircraft": "CN-TFD",
+        "date": "2024-06-17",
+        "access": "staff"
+      }
+    },
+    {
+      "source_id": "WO-2024-0268",
+      "file": "anfa/work-orders/WO-2024-0268.pdf",
+      "meta": {
+        "publisher": "Anfa Aero Services",
+        "title": "Work order WO-2024-0268: CN-TFA, repair",
+        "doc_type": "work order",
+        "aircraft": "CN-TFA",
+        "date": "2024-06-21",
+        "access": "staff"
+      }
+    },
+    {
+      "source_id": "WO-2024-0283",
+      "file": "anfa/work-orders/WO-2024-0283.pdf",
+      "meta": {
+        "publisher": "Anfa Aero Services",
+        "title": "Work order WO-2024-0283: CN-TFC, 100-hour inspection",
+        "doc_type": "work order",
+        "aircraft": "CN-TFC",
+        "date": "2024-06-29",
+        "access": "staff"
+      }
+    },
+    {
+      "source_id": "WO-2024-0284",
+      "file": "anfa/work-orders/WO-2024-0284.pdf",
+      "meta": {
+        "publisher": "Anfa Aero Services",
+        "title": "Work order WO-2024-0284: CN-TFE, 100-hour inspection",
+        "doc_type": "work order",
+        "aircraft": "CN-TFE",
+        "date": "2024-06-29",
+        "access": "staff"
+      }
+    },
+    {
+      "source_id": "WO-2024-0292",
+      "file": "anfa/work-orders/WO-2024-0292.pdf",
+      "meta": {
+        "publisher": "Anfa Aero Services",
+        "title": "Work order WO-2024-0292: CN-TFA, 100-hour inspection",
+        "doc_type": "work order",
+        "aircraft": "CN-TFA",
+        "date": "2024-07-05",
+        "access": "staff"
+      }
+    },
+    {
+      "source_id": "WO-2024-0295",
+      "file": "anfa/work-orders/WO-2024-0295.pdf",
+      "meta": {
+        "publisher": "Anfa Aero Services",
+        "title": "Work order WO-2024-0295: CN-TFG, annual inspection",
+        "doc_type": "work order",
+        "aircraft": "CN-TFG",
+        "date": "2024-07-07",
+        "access": "staff"
+      }
+    },
+    {
+      "source_id": "WO-2024-0321",
+      "file": "anfa/work-orders/WO-2024-0321.pdf",
+      "meta": {
+        "publisher": "Anfa Aero Services",
+        "title": "Work order WO-2024-0321: CN-TFD, 100-hour inspection",
+        "doc_type": "work order",
+        "aircraft": "CN-TFD",
+        "date": "2024-07-24",
+        "access": "staff"
+      }
+    },
+    {
+      "source_id": "WO-2024-0331",
+      "file": "anfa/work-orders/WO-2024-0331.pdf",
+      "meta": {
+        "publisher": "Anfa Aero Services",
+        "title": "Work order WO-2024-0331: CN-TFB, 100-hour inspection",
+        "doc_type": "work order",
+        "aircraft": "CN-TFB",
+        "date": "2024-07-30",
+        "access": "staff"
+      }
+    },
+    {
+      "source_id": "WO-2024-0332",
+      "file": "anfa/work-orders/WO-2024-0332.pdf",
+      "meta": {
+        "publisher": "Anfa Aero Services",
+        "title": "Work order WO-2024-0332: CN-TFC, repair",
+        "doc_type": "work order",
+        "aircraft": "CN-TFC",
+        "date": "2024-07-30",
+        "access": "staff"
+      }
+    },
+    {
+      "source_id": "WO-2024-0340",
+      "file": "anfa/work-orders/WO-2024-0340.pdf",
+      "meta": {
+        "publisher": "Anfa Aero Services",
+        "title": "Work order WO-2024-0340: CN-TFA, 100-hour inspection",
+        "doc_type": "work order",
+        "aircraft": "CN-TFA",
+        "date": "2024-08-06",
+        "access": "staff"
+      }
+    },
+    {
+      "source_id": "WO-2024-0351",
+      "file": "anfa/work-orders/WO-2024-0351.pdf",
+      "meta": {
+        "publisher": "Anfa Aero Services",
+        "title": "Work order WO-2024-0351: CN-TFF, 100-hour inspection",
+        "doc_type": "work order",
+        "aircraft": "CN-TFF",
+        "date": "2024-08-13",
+        "access": "staff"
+      }
+    },
+    {
+      "source_id": "WO-2024-0352",
+      "file": "anfa/work-orders/WO-2024-0352.pdf",
+      "meta": {
+        "publisher": "Anfa Aero Services",
+        "title": "Work order WO-2024-0352: CN-TFC, 100-hour inspection",
+        "doc_type": "work order",
+        "aircraft": "CN-TFC",
+        "date": "2024-08-14",
+        "access": "staff"
+      }
+    },
+    {
+      "source_id": "WO-2024-0372",
+      "file": "anfa/work-orders/WO-2024-0372.pdf",
+      "meta": {
+        "publisher": "Anfa Aero Services",
+        "title": "Work order WO-2024-0372: CN-TFG, FADEC backup battery replacement",
+        "doc_type": "work order",
+        "aircraft": "CN-TFG",
+        "date": "2024-08-27",
+        "access": "staff"
+      }
+    },
+    {
+      "source_id": "WO-2024-0374",
+      "file": "anfa/work-orders/WO-2024-0374.pdf",
+      "meta": {
+        "publisher": "Anfa Aero Services",
+        "title": "Work order WO-2024-0374: CN-TFE, 100-hour inspection",
+        "doc_type": "work order",
+        "aircraft": "CN-TFE",
+        "date": "2024-08-28",
+        "access": "staff"
+      }
+    },
+    {
+      "source_id": "WO-2024-0381",
+      "file": "anfa/work-orders/WO-2024-0381.pdf",
+      "meta": {
+        "publisher": "Anfa Aero Services",
+        "title": "Work order WO-2024-0381: CN-TFD, 100-hour inspection",
+        "doc_type": "work order",
+        "aircraft": "CN-TFD",
+        "date": "2024-09-02",
+        "access": "staff"
+      }
+    },
+    {
+      "source_id": "WO-2024-0384",
+      "file": "anfa/work-orders/WO-2024-0384.pdf",
+      "meta": {
+        "publisher": "Anfa Aero Services",
+        "title": "Work order WO-2024-0384: CN-TFB, altimeter, static system, and transponder tests",
+        "doc_type": "work order",
+        "aircraft": "CN-TFB",
+        "date": "2024-09-03",
+        "access": "staff"
+      }
+    },
+    {
+      "source_id": "WO-2024-0391",
+      "file": "anfa/work-orders/WO-2024-0391.pdf",
+      "meta": {
+        "publisher": "Anfa Aero Services",
+        "title": "Work order WO-2024-0391: CN-TFA, 100-hour inspection",
+        "doc_type": "work order",
+        "aircraft": "CN-TFA",
+        "date": "2024-09-07",
+        "access": "staff"
+      }
+    },
+    {
+      "source_id": "WO-2024-0399",
+      "file": "anfa/work-orders/WO-2024-0399.pdf",
+      "meta": {
+        "publisher": "Anfa Aero Services",
+        "title": "Work order WO-2024-0399: CN-TFB, 100-hour inspection",
+        "doc_type": "work order",
+        "aircraft": "CN-TFB",
+        "date": "2024-09-13",
+        "access": "staff"
+      }
+    },
+    {
+      "source_id": "WO-2024-0401",
+      "file": "anfa/work-orders/WO-2024-0401.pdf",
+      "meta": {
+        "publisher": "Anfa Aero Services",
+        "title": "Work order WO-2024-0401: CN-TFG, 100-hour inspection",
+        "doc_type": "work order",
+        "aircraft": "CN-TFG",
+        "date": "2024-09-14",
+        "access": "staff"
+      }
+    },
+    {
+      "source_id": "WO-2024-0406",
+      "file": "anfa/work-orders/WO-2024-0406.pdf",
+      "meta": {
+        "publisher": "Anfa Aero Services",
+        "title": "Work order WO-2024-0406: CN-TFF, repair",
+        "doc_type": "work order",
+        "aircraft": "CN-TFF",
+        "date": "2024-09-17",
+        "access": "staff"
+      }
+    },
+    {
+      "source_id": "WO-2024-0410",
+      "file": "anfa/work-orders/WO-2024-0410.pdf",
+      "meta": {
+        "publisher": "Anfa Aero Services",
+        "title": "Work order WO-2024-0410: CN-TFC, annual inspection",
+        "doc_type": "work order",
+        "aircraft": "CN-TFC",
+        "date": "2024-09-20",
+        "access": "staff"
+      }
+    },
+    {
+      "source_id": "WO-2024-0436",
+      "file": "anfa/work-orders/WO-2024-0436.pdf",
+      "meta": {
+        "publisher": "Anfa Aero Services",
+        "title": "Work order WO-2024-0436: CN-TFA, 100-hour inspection",
+        "doc_type": "work order",
+        "aircraft": "CN-TFA",
+        "date": "2024-10-07",
+        "access": "staff"
+      }
+    },
+    {
+      "source_id": "WO-2024-0439",
+      "file": "anfa/work-orders/WO-2024-0439.pdf",
+      "meta": {
+        "publisher": "Anfa Aero Services",
+        "title": "Work order WO-2024-0439: CN-TFG, altimeter, static system, and transponder tests",
+        "doc_type": "work order",
+        "aircraft": "CN-TFG",
+        "date": "2024-10-08",
+        "access": "staff"
+      }
+    },
+    {
+      "source_id": "WO-2024-0442",
+      "file": "anfa/work-orders/WO-2024-0442.pdf",
+      "meta": {
+        "publisher": "Anfa Aero Services",
+        "title": "Work order WO-2024-0442: CN-TFD, 100-hour inspection",
+        "doc_type": "work order",
+        "aircraft": "CN-TFD",
+        "date": "2024-10-10",
+        "access": "staff"
+      }
+    },
+    {
+      "source_id": "WO-2024-0457",
+      "file": "anfa/work-orders/WO-2024-0457.pdf",
+      "meta": {
+        "publisher": "Anfa Aero Services",
+        "title": "Work order WO-2024-0457: CN-TFE, engine overhaul",
+        "doc_type": "work order",
+        "aircraft": "CN-TFE",
+        "date": "2024-10-21",
+        "access": "staff"
+      }
+    },
+    {
+      "source_id": "WO-2024-0470",
+      "file": "anfa/work-orders/WO-2024-0470.pdf",
+      "meta": {
+        "publisher": "Anfa Aero Services",
+        "title": "Work order WO-2024-0470: CN-TFB, 100-hour inspection",
+        "doc_type": "work order",
+        "aircraft": "CN-TFB",
+        "date": "2024-10-29",
+        "access": "staff"
+      }
+    },
+    {
+      "source_id": "WO-2024-0475",
+      "file": "anfa/work-orders/WO-2024-0475.pdf",
+      "meta": {
+        "publisher": "Anfa Aero Services",
+        "title": "Work order WO-2024-0475: CN-TFE, 100-hour inspection",
+        "doc_type": "work order",
+        "aircraft": "CN-TFE",
+        "date": "2024-10-31",
+        "access": "staff"
+      }
+    },
+    {
+      "source_id": "WO-2024-0479",
+      "file": "anfa/work-orders/WO-2024-0479.pdf",
+      "meta": {
+        "publisher": "Anfa Aero Services",
+        "title": "Work order WO-2024-0479: CN-TFC, 100-hour inspection",
+        "doc_type": "work order",
+        "aircraft": "CN-TFC",
+        "date": "2024-11-04",
+        "access": "staff"
+      }
+    },
+    {
+      "source_id": "WO-2024-0482",
+      "file": "anfa/work-orders/WO-2024-0482.pdf",
+      "meta": {
+        "publisher": "Anfa Aero Services",
+        "title": "Work order WO-2024-0482: CN-TFG, repair",
+        "doc_type": "work order",
+        "aircraft": "CN-TFG",
+        "date": "2024-11-05",
+        "access": "staff"
+      }
+    },
+    {
+      "source_id": "WO-2024-0487",
+      "file": "anfa/work-orders/WO-2024-0487.pdf",
+      "meta": {
+        "publisher": "Anfa Aero Services",
+        "title": "Work order WO-2024-0487: CN-TFA, 100-hour inspection",
+        "doc_type": "work order",
+        "aircraft": "CN-TFA",
+        "date": "2024-11-08",
+        "access": "staff"
+      }
+    },
+    {
+      "source_id": "WO-2024-0491",
+      "file": "anfa/work-orders/WO-2024-0491.pdf",
+      "meta": {
+        "publisher": "Anfa Aero Services",
+        "title": "Work order WO-2024-0491: CN-TFF, 100-hour inspection",
+        "doc_type": "work order",
+        "aircraft": "CN-TFF",
+        "date": "2024-11-11",
+        "access": "staff"
+      }
+    },
+    {
+      "source_id": "WO-2024-0500",
+      "file": "anfa/work-orders/WO-2024-0500.pdf",
+      "meta": {
+        "publisher": "Anfa Aero Services",
+        "title": "Work order WO-2024-0500: CN-TFD, 100-hour inspection",
+        "doc_type": "work order",
+        "aircraft": "CN-TFD",
+        "date": "2024-11-17",
+        "access": "staff"
+      }
+    },
+    {
+      "source_id": "WO-2024-0506",
+      "file": "anfa/work-orders/WO-2024-0506.pdf",
+      "meta": {
+        "publisher": "Anfa Aero Services",
+        "title": "Work order WO-2024-0506: CN-TFG, 100-hour inspection",
+        "doc_type": "work order",
+        "aircraft": "CN-TFG",
+        "date": "2024-11-20",
+        "access": "staff"
+      }
+    },
+    {
+      "source_id": "WO-2024-0509",
+      "file": "anfa/work-orders/WO-2024-0509.pdf",
+      "meta": {
+        "publisher": "Anfa Aero Services",
+        "title": "Work order WO-2024-0509: CN-TFE, annual inspection",
+        "doc_type": "work order",
+        "aircraft": "CN-TFE",
+        "date": "2024-11-22",
+        "access": "staff"
+      }
+    },
+    {
+      "source_id": "WO-2024-0524",
+      "file": "anfa/work-orders/WO-2024-0524.pdf",
+      "meta": {
+        "publisher": "Anfa Aero Services",
+        "title": "Work order WO-2024-0524: CN-TFA, repair",
+        "doc_type": "work order",
+        "aircraft": "CN-TFA",
+        "date": "2024-12-02",
+        "access": "staff"
+      }
+    },
+    {
+      "source_id": "WO-2024-0525",
+      "file": "anfa/work-orders/WO-2024-0525.pdf",
+      "meta": {
+        "publisher": "Anfa Aero Services",
+        "title": "Work order WO-2024-0525: CN-TFE, altimeter, static system, and transponder tests",
+        "doc_type": "work order",
+        "aircraft": "CN-TFE",
+        "date": "2024-12-03",
+        "access": "staff"
+      }
+    },
+    {
+      "source_id": "WO-2024-0535",
+      "file": "anfa/work-orders/WO-2024-0535.pdf",
+      "meta": {
+        "publisher": "Anfa Aero Services",
+        "title": "Work order WO-2024-0535: CN-TFA, 100-hour inspection",
+        "doc_type": "work order",
+        "aircraft": "CN-TFA",
+        "date": "2024-12-10",
+        "access": "staff"
+      }
+    },
+    {
+      "source_id": "WO-2024-0541",
+      "file": "anfa/work-orders/WO-2024-0541.pdf",
+      "meta": {
+        "publisher": "Anfa Aero Services",
+        "title": "Work order WO-2024-0541: CN-TFB, 100-hour inspection",
+        "doc_type": "work order",
+        "aircraft": "CN-TFB",
+        "date": "2024-12-13",
+        "access": "staff"
+      }
+    },
+    {
+      "source_id": "WO-2024-0549",
+      "file": "anfa/work-orders/WO-2024-0549.pdf",
+      "meta": {
+        "publisher": "Anfa Aero Services",
+        "title": "Work order WO-2024-0549: CN-TFC, 100-hour inspection",
+        "doc_type": "work order",
+        "aircraft": "CN-TFC",
+        "date": "2024-12-19",
+        "access": "staff"
+      }
+    },
+    {
+      "source_id": "WO-2024-0560",
+      "file": "anfa/work-orders/WO-2024-0560.pdf",
+      "meta": {
+        "publisher": "Anfa Aero Services",
+        "title": "Work order WO-2024-0560: CN-TFD, 100-hour inspection",
+        "doc_type": "work order",
+        "aircraft": "CN-TFD",
+        "date": "2024-12-25",
+        "access": "staff"
+      }
+    },
+    {
+      "source_id": "WO-2025-0016",
+      "file": "anfa/work-orders/WO-2025-0016.pdf",
+      "meta": {
+        "publisher": "Anfa Aero Services",
+        "title": "Work order WO-2025-0016: CN-TFA, 100-hour inspection",
+        "doc_type": "work order",
+        "aircraft": "CN-TFA",
+        "date": "2025-01-11",
+        "access": "staff"
+      }
+    },
+    {
+      "source_id": "WO-2025-0022",
+      "file": "anfa/work-orders/WO-2025-0022.pdf",
+      "meta": {
+        "publisher": "Anfa Aero Services",
+        "title": "Work order WO-2025-0022: CN-TFC, repair",
+        "doc_type": "work order",
+        "aircraft": "CN-TFC",
+        "date": "2025-01-14",
+        "access": "staff"
+      }
+    },
+    {
+      "source_id": "WO-2025-0032",
+      "file": "anfa/work-orders/WO-2025-0032.pdf",
+      "meta": {
+        "publisher": "Anfa Aero Services",
+        "title": "Work order WO-2025-0032: CN-TFE, 100-hour inspection",
+        "doc_type": "work order",
+        "aircraft": "CN-TFE",
+        "date": "2025-01-21",
+        "access": "staff"
+      }
+    },
+    {
+      "source_id": "WO-2025-0034",
+      "file": "anfa/work-orders/WO-2025-0034.pdf",
+      "meta": {
+        "publisher": "Anfa Aero Services",
+        "title": "Work order WO-2025-0034: CN-TFD, annual inspection",
+        "doc_type": "work order",
+        "aircraft": "CN-TFD",
+        "date": "2025-01-23",
+        "access": "staff"
+      }
+    },
+    {
+      "source_id": "WO-2025-0038",
+      "file": "anfa/work-orders/WO-2025-0038.pdf",
+      "meta": {
+        "publisher": "Anfa Aero Services",
+        "title": "Work order WO-2025-0038: CN-TFG, 100-hour inspection",
+        "doc_type": "work order",
+        "aircraft": "CN-TFG",
+        "date": "2025-01-24",
+        "access": "staff"
+      }
+    },
+    {
+      "source_id": "WO-2025-0044",
+      "file": "anfa/work-orders/WO-2025-0044.pdf",
+      "meta": {
+        "publisher": "Anfa Aero Services",
+        "title": "Work order WO-2025-0044: CN-TFB, 100-hour inspection",
+        "doc_type": "work order",
+        "aircraft": "CN-TFB",
+        "date": "2025-01-28",
+        "access": "staff"
+      }
+    },
+    {
+      "source_id": "WO-2025-0056",
+      "file": "anfa/work-orders/WO-2025-0056.pdf",
+      "meta": {
+        "publisher": "Anfa Aero Services",
+        "title": "Work order WO-2025-0056: CN-TFC, 100-hour inspection",
+        "doc_type": "work order",
+        "aircraft": "CN-TFC",
+        "date": "2025-02-06",
+        "access": "staff"
+      }
+    },
+    {
+      "source_id": "WO-2025-0066",
+      "file": "anfa/work-orders/WO-2025-0066.pdf",
+      "meta": {
+        "publisher": "Anfa Aero Services",
+        "title": "Work order WO-2025-0066: CN-TFA, 100-hour inspection",
+        "doc_type": "work order",
+        "aircraft": "CN-TFA",
+        "date": "2025-02-12",
+        "access": "staff"
+      }
+    },
+    {
+      "source_id": "WO-2025-0067",
+      "file": "anfa/work-orders/WO-2025-0067.pdf",
+      "meta": {
+        "publisher": "Anfa Aero Services",
+        "title": "Work order WO-2025-0067: CN-TFF, 100-hour inspection",
+        "doc_type": "work order",
+        "aircraft": "CN-TFF",
+        "date": "2025-02-12",
+        "access": "staff"
+      }
+    },
+    {
+      "source_id": "WO-2025-0086",
+      "file": "anfa/work-orders/WO-2025-0086.pdf",
+      "meta": {
+        "publisher": "Anfa Aero Services",
+        "title": "Work order WO-2025-0086: CN-TFB, repair",
+        "doc_type": "work order",
+        "aircraft": "CN-TFB",
+        "date": "2025-02-25",
+        "access": "staff"
+      }
+    },
+    {
+      "source_id": "WO-2025-0094",
+      "file": "anfa/work-orders/WO-2025-0094.pdf",
+      "meta": {
+        "publisher": "Anfa Aero Services",
+        "title": "Work order WO-2025-0094: CN-TFD, 100-hour inspection",
+        "doc_type": "work order",
+        "aircraft": "CN-TFD",
+        "date": "2025-03-03",
+        "access": "staff"
+      }
+    },
+    {
+      "source_id": "WO-2025-0095",
+      "file": "anfa/work-orders/WO-2025-0095.pdf",
+      "meta": {
+        "publisher": "Anfa Aero Services",
+        "title": "Work order WO-2025-0095: CN-TFD, oil pressure switch replacement",
+        "doc_type": "work order",
+        "aircraft": "CN-TFD",
+        "date": "2025-03-03",
+        "access": "staff"
+      }
+    },
+    {
+      "source_id": "WO-2025-0107",
+      "file": "anfa/work-orders/WO-2025-0107.pdf",
+      "meta": {
+        "publisher": "Anfa Aero Services",
+        "title": "Work order WO-2025-0107: CN-TFA, annual inspection",
+        "doc_type": "work order",
+        "aircraft": "CN-TFA",
+        "date": "2025-03-11",
+        "access": "staff"
+      }
+    },
+    {
+      "source_id": "WO-2025-0111",
+      "file": "anfa/work-orders/WO-2025-0111.pdf",
+      "meta": {
+        "publisher": "Anfa Aero Services",
+        "title": "Work order WO-2025-0111: CN-TFB, 100-hour inspection",
+        "doc_type": "work order",
+        "aircraft": "CN-TFB",
+        "date": "2025-03-14",
+        "access": "staff"
+      }
+    },
+    {
+      "source_id": "WO-2025-0117",
+      "file": "anfa/work-orders/WO-2025-0117.pdf",
+      "meta": {
+        "publisher": "Anfa Aero Services",
+        "title": "Work order WO-2025-0117: CN-TFC, altimeter, static system, and transponder tests",
+        "doc_type": "work order",
+        "aircraft": "CN-TFC",
+        "date": "2025-03-18",
+        "access": "staff"
+      }
+    },
+    {
+      "source_id": "WO-2025-0122",
+      "file": "anfa/work-orders/WO-2025-0122.pdf",
+      "meta": {
+        "publisher": "Anfa Aero Services",
+        "title": "Work order WO-2025-0122: CN-TFE, 100-hour inspection",
+        "doc_type": "work order",
+        "aircraft": "CN-TFE",
+        "date": "2025-03-22",
+        "access": "staff"
+      }
+    },
+    {
+      "source_id": "WO-2025-0129",
+      "file": "anfa/work-orders/WO-2025-0129.pdf",
+      "meta": {
+        "publisher": "Anfa Aero Services",
+        "title": "Work order WO-2025-0129: CN-TFC, 100-hour inspection",
+        "doc_type": "work order",
+        "aircraft": "CN-TFC",
+        "date": "2025-03-26",
+        "access": "staff"
+      }
+    },
+    {
+      "source_id": "WO-2025-0130",
+      "file": "anfa/work-orders/WO-2025-0130.pdf",
+      "meta": {
+        "publisher": "Anfa Aero Services",
+        "title": "Work order WO-2025-0130: CN-TFG, repair",
+        "doc_type": "work order",
+        "aircraft": "CN-TFG",
+        "date": "2025-03-26",
+        "access": "staff"
+      }
+    },
+    {
+      "source_id": "WO-2025-0137",
+      "file": "anfa/work-orders/WO-2025-0137.pdf",
+      "meta": {
+        "publisher": "Anfa Aero Services",
+        "title": "Work order WO-2025-0137: CN-TFG, 100-hour inspection",
+        "doc_type": "work order",
+        "aircraft": "CN-TFG",
+        "date": "2025-04-01",
+        "access": "staff"
+      }
+    },
+    {
+      "source_id": "WO-2025-0142",
+      "file": "anfa/work-orders/WO-2025-0142.pdf",
+      "meta": {
+        "publisher": "Anfa Aero Services",
+        "title": "Work order WO-2025-0142: CN-TFD, 100-hour inspection",
+        "doc_type": "work order",
+        "aircraft": "CN-TFD",
+        "date": "2025-04-03",
+        "access": "staff"
+      }
+    },
+    {
+      "source_id": "WO-2025-0153",
+      "file": "anfa/work-orders/WO-2025-0153.pdf",
+      "meta": {
+        "publisher": "Anfa Aero Services",
+        "title": "Work order WO-2025-0153: CN-TFA, 100-hour inspection",
+        "doc_type": "work order",
+        "aircraft": "CN-TFA",
+        "date": "2025-04-11",
+        "access": "staff"
+      }
+    },
+    {
+      "source_id": "WO-2025-0172",
+      "file": "anfa/work-orders/WO-2025-0172.pdf",
+      "meta": {
+        "publisher": "Anfa Aero Services",
+        "title": "Work order WO-2025-0172: CN-TFA, engine overhaul",
+        "doc_type": "work order",
+        "aircraft": "CN-TFA",
+        "date": "2025-04-23",
+        "access": "staff"
+      }
+    },
+    {
+      "source_id": "WO-2025-0179",
+      "file": "anfa/work-orders/WO-2025-0179.pdf",
+      "meta": {
+        "publisher": "Anfa Aero Services",
+        "title": "Work order WO-2025-0179: CN-TFB, 100-hour inspection",
+        "doc_type": "work order",
+        "aircraft": "CN-TFB",
+        "date": "2025-04-29",
+        "access": "staff"
+      }
+    },
+    {
+      "source_id": "WO-2025-0185",
+      "file": "anfa/work-orders/WO-2025-0185.pdf",
+      "meta": {
+        "publisher": "Anfa Aero Services",
+        "title": "Work order WO-2025-0185: CN-TFD, 100-hour inspection",
+        "doc_type": "work order",
+        "aircraft": "CN-TFD",
+        "date": "2025-05-02",
+        "access": "staff"
+      }
+    },
+    {
+      "source_id": "WO-2025-0202",
+      "file": "anfa/work-orders/WO-2025-0202.pdf",
+      "meta": {
+        "publisher": "Anfa Aero Services",
+        "title": "Work order WO-2025-0202: CN-TFA, 100-hour inspection",
+        "doc_type": "work order",
+        "aircraft": "CN-TFA",
+        "date": "2025-05-13",
+        "access": "staff"
+      }
+    },
+    {
+      "source_id": "WO-2025-0203",
+      "file": "anfa/work-orders/WO-2025-0203.pdf",
+      "meta": {
+        "publisher": "Anfa Aero Services",
+        "title": "Work order WO-2025-0203: CN-TFC, 100-hour inspection",
+        "doc_type": "work order",
+        "aircraft": "CN-TFC",
+        "date": "2025-05-13",
+        "access": "staff"
+      }
+    },
+    {
+      "source_id": "WO-2025-0204",
+      "file": "anfa/work-orders/WO-2025-0204.pdf",
+      "meta": {
+        "publisher": "Anfa Aero Services",
+        "title": "Work order WO-2025-0204: CN-TFF, annual inspection",
+        "doc_type": "work order",
+        "aircraft": "CN-TFF",
+        "date": "2025-05-14",
+        "access": "staff"
+      }
+    },
+    {
+      "source_id": "WO-2025-0210",
+      "file": "anfa/work-orders/WO-2025-0210.pdf",
+      "meta": {
+        "publisher": "Anfa Aero Services",
+        "title": "Work order WO-2025-0210: CN-TFD, repair",
+        "doc_type": "work order",
+        "aircraft": "CN-TFD",
+        "date": "2025-05-20",
+        "access": "staff"
+      }
+    },
+    {
+      "source_id": "WO-2025-0214",
+      "file": "anfa/work-orders/WO-2025-0214.pdf",
+      "meta": {
+        "publisher": "Anfa Aero Services",
+        "title": "Work order WO-2025-0214: CN-TFE, 100-hour inspection",
+        "doc_type": "work order",
+        "aircraft": "CN-TFE",
+        "date": "2025-05-21",
+        "access": "staff"
+      }
+    },
+    {
+      "source_id": "WO-2025-0227",
+      "file": "anfa/work-orders/WO-2025-0227.pdf",
+      "meta": {
+        "publisher": "Anfa Aero Services",
+        "title": "Work order WO-2025-0227: CN-TFD, 100-hour inspection",
+        "doc_type": "work order",
+        "aircraft": "CN-TFD",
+        "date": "2025-05-31",
+        "access": "staff"
+      }
+    },
+    {
+      "source_id": "WO-2025-0232",
+      "file": "anfa/work-orders/WO-2025-0232.pdf",
+      "meta": {
+        "publisher": "Anfa Aero Services",
+        "title": "Work order WO-2025-0232: CN-TFG, 100-hour inspection",
+        "doc_type": "work order",
+        "aircraft": "CN-TFG",
+        "date": "2025-06-04",
+        "access": "staff"
+      }
+    },
+    {
+      "source_id": "WO-2025-0243",
+      "file": "anfa/work-orders/WO-2025-0243.pdf",
+      "meta": {
+        "publisher": "Anfa Aero Services",
+        "title": "Work order WO-2025-0243: CN-TFF, altimeter, static system, and transponder tests",
+        "doc_type": "work order",
+        "aircraft": "CN-TFF",
+        "date": "2025-06-10",
+        "access": "staff"
+      }
+    },
+    {
+      "source_id": "WO-2025-0248",
+      "file": "anfa/work-orders/WO-2025-0248.pdf",
+      "meta": {
+        "publisher": "Anfa Aero Services",
+        "title": "Work order WO-2025-0248: CN-TFA, 100-hour inspection",
+        "doc_type": "work order",
+        "aircraft": "CN-TFA",
+        "date": "2025-06-14",
+        "access": "staff"
+      }
+    },
+    {
+      "source_id": "WO-2025-0249",
+      "file": "anfa/work-orders/WO-2025-0249.pdf",
+      "meta": {
+        "publisher": "Anfa Aero Services",
+        "title": "Work order WO-2025-0249: CN-TFB, annual inspection",
+        "doc_type": "work order",
+        "aircraft": "CN-TFB",
+        "date": "2025-06-14",
+        "access": "staff"
+      }
+    },
+    {
+      "source_id": "WO-2025-0264",
+      "file": "anfa/work-orders/WO-2025-0264.pdf",
+      "meta": {
+        "publisher": "Anfa Aero Services",
+        "title": "Work order WO-2025-0264: CN-TFE, repair",
+        "doc_type": "work order",
+        "aircraft": "CN-TFE",
+        "date": "2025-06-24",
+        "access": "staff"
+      }
+    },
+    {
+      "source_id": "WO-2025-0272",
+      "file": "anfa/work-orders/WO-2025-0272.pdf",
+      "meta": {
+        "publisher": "Anfa Aero Services",
+        "title": "Work order WO-2025-0272: CN-TFC, 100-hour inspection",
+        "doc_type": "work order",
+        "aircraft": "CN-TFC",
+        "date": "2025-06-29",
+        "access": "staff"
+      }
+    },
+    {
+      "source_id": "WO-2025-0273",
+      "file": "anfa/work-orders/WO-2025-0273.pdf",
+      "meta": {
+        "publisher": "Anfa Aero Services",
+        "title": "Work order WO-2025-0273: CN-TFD, 100-hour inspection",
+        "doc_type": "work order",
+        "aircraft": "CN-TFD",
+        "date": "2025-06-29",
+        "access": "staff"
+      }
+    },
+    {
+      "source_id": "WO-2025-0284",
+      "file": "anfa/work-orders/WO-2025-0284.pdf",
+      "meta": {
+        "publisher": "Anfa Aero Services",
+        "title": "Work order WO-2025-0284: CN-TFF, repair",
+        "doc_type": "work order",
+        "aircraft": "CN-TFF",
+        "date": "2025-07-08",
+        "access": "staff"
+      }
+    },
+    {
+      "source_id": "WO-2025-0293",
+      "file": "anfa/work-orders/WO-2025-0293.pdf",
+      "meta": {
+        "publisher": "Anfa Aero Services",
+        "title": "Work order WO-2025-0293: CN-TFG, annual inspection",
+        "doc_type": "work order",
+        "aircraft": "CN-TFG",
+        "date": "2025-07-13",
+        "access": "staff"
+      }
+    },
+    {
+      "source_id": "WO-2025-0296",
+      "file": "anfa/work-orders/WO-2025-0296.pdf",
+      "meta": {
+        "publisher": "Anfa Aero Services",
+        "title": "Work order WO-2025-0296: CN-TFA, 100-hour inspection",
+        "doc_type": "work order",
+        "aircraft": "CN-TFA",
+        "date": "2025-07-16",
+        "access": "staff"
+      }
+    },
+    {
+      "source_id": "WO-2025-0302",
+      "file": "anfa/work-orders/WO-2025-0302.pdf",
+      "meta": {
+        "publisher": "Anfa Aero Services",
+        "title": "Work order WO-2025-0302: CN-TFE, 100-hour inspection",
+        "doc_type": "work order",
+        "aircraft": "CN-TFE",
+        "date": "2025-07-20",
+        "access": "staff"
+      }
+    },
+    {
+      "source_id": "WO-2025-0315",
+      "file": "anfa/work-orders/WO-2025-0315.pdf",
+      "meta": {
+        "publisher": "Anfa Aero Services",
+        "title": "Work order WO-2025-0315: CN-TFB, 100-hour inspection",
+        "doc_type": "work order",
+        "aircraft": "CN-TFB",
+        "date": "2025-07-28",
+        "access": "staff"
+      }
+    },
+    {
+      "source_id": "WO-2025-0316",
+      "file": "anfa/work-orders/WO-2025-0316.pdf",
+      "meta": {
+        "publisher": "Anfa Aero Services",
+        "title": "Work order WO-2025-0316: CN-TFD, 100-hour inspection",
+        "doc_type": "work order",
+        "aircraft": "CN-TFD",
+        "date": "2025-07-28",
+        "access": "staff"
+      }
+    },
+    {
+      "source_id": "WO-2025-0341",
+      "file": "anfa/work-orders/WO-2025-0341.pdf",
+      "meta": {
+        "publisher": "Anfa Aero Services",
+        "title": "Work order WO-2025-0341: CN-TFF, 100-hour inspection",
+        "doc_type": "work order",
+        "aircraft": "CN-TFF",
+        "date": "2025-08-14",
+        "access": "staff"
+      }
+    },
+    {
+      "source_id": "WO-2025-0342",
+      "file": "anfa/work-orders/WO-2025-0342.pdf",
+      "meta": {
+        "publisher": "Anfa Aero Services",
+        "title": "Work order WO-2025-0342: CN-TFC, 100-hour inspection",
+        "doc_type": "work order",
+        "aircraft": "CN-TFC",
+        "date": "2025-08-15",
+        "access": "staff"
+      }
+    },
+    {
+      "source_id": "WO-2025-0345",
+      "file": "anfa/work-orders/WO-2025-0345.pdf",
+      "meta": {
+        "publisher": "Anfa Aero Services",
+        "title": "Work order WO-2025-0345: CN-TFA, 100-hour inspection",
+        "doc_type": "work order",
+        "aircraft": "CN-TFA",
+        "date": "2025-08-17",
+        "access": "staff"
+      }
+    },
+    {
+      "source_id": "WO-2025-0346",
+      "file": "anfa/work-orders/WO-2025-0346.pdf",
+      "meta": {
+        "publisher": "Anfa Aero Services",
+        "title": "Work order WO-2025-0346: CN-TFG, FADEC backup battery replacement",
+        "doc_type": "work order",
+        "aircraft": "CN-TFG",
+        "date": "2025-08-19",
+        "access": "staff"
+      }
+    },
+    {
+      "source_id": "WO-2025-0356",
+      "file": "anfa/work-orders/WO-2025-0356.pdf",
+      "meta": {
+        "publisher": "Anfa Aero Services",
+        "title": "Work order WO-2025-0356: CN-TFG, engine overhaul",
+        "doc_type": "work order",
+        "aircraft": "CN-TFG",
+        "date": "2025-08-24",
+        "access": "staff"
+      }
+    },
+    {
+      "source_id": "WO-2025-0358",
+      "file": "anfa/work-orders/WO-2025-0358.pdf",
+      "meta": {
+        "publisher": "Anfa Aero Services",
+        "title": "Work order WO-2025-0358: CN-TFD, 100-hour inspection",
+        "doc_type": "work order",
+        "aircraft": "CN-TFD",
+        "date": "2025-08-25",
+        "access": "staff"
+      }
+    },
+    {
+      "source_id": "WO-2025-0359",
+      "file": "anfa/work-orders/WO-2025-0359.pdf",
+      "meta": {
+        "publisher": "Anfa Aero Services",
+        "title": "Work order WO-2025-0359: CN-TFD, engine overhaul",
+        "doc_type": "work order",
+        "aircraft": "CN-TFD",
+        "date": "2025-08-25",
+        "access": "staff"
+      }
+    },
+    {
+      "source_id": "WO-2025-0384",
+      "file": "anfa/work-orders/WO-2025-0384.pdf",
+      "meta": {
+        "publisher": "Anfa Aero Services",
+        "title": "Work order WO-2025-0384: CN-TFB, 100-hour inspection",
+        "doc_type": "work order",
+        "aircraft": "CN-TFB",
+        "date": "2025-09-13",
+        "access": "staff"
+      }
+    },
+    {
+      "source_id": "WO-2025-0389",
+      "file": "anfa/work-orders/WO-2025-0389.pdf",
+      "meta": {
+        "publisher": "Anfa Aero Services",
+        "title": "Work order WO-2025-0389: CN-TFG, 100-hour inspection",
+        "doc_type": "work order",
+        "aircraft": "CN-TFG",
+        "date": "2025-09-15",
+        "access": "staff"
+      }
+    },
+    {
+      "source_id": "WO-2025-0390",
+      "file": "anfa/work-orders/WO-2025-0390.pdf",
+      "meta": {
+        "publisher": "Anfa Aero Services",
+        "title": "Work order WO-2025-0390: CN-TFA, 100-hour inspection",
+        "doc_type": "work order",
+        "aircraft": "CN-TFA",
+        "date": "2025-09-16",
+        "access": "staff"
+      }
+    },
+    {
+      "source_id": "WO-2025-0392",
+      "file": "anfa/work-orders/WO-2025-0392.pdf",
+      "meta": {
+        "publisher": "Anfa Aero Services",
+        "title": "Work order WO-2025-0392: CN-TFC, annual inspection",
+        "doc_type": "work order",
+        "aircraft": "CN-TFC",
+        "date": "2025-09-17",
+        "access": "staff"
+      }
+    },
+    {
+      "source_id": "WO-2025-0396",
+      "file": "anfa/work-orders/WO-2025-0396.pdf",
+      "meta": {
+        "publisher": "Anfa Aero Services",
+        "title": "Work order WO-2025-0396: CN-TFE, 100-hour inspection",
+        "doc_type": "work order",
+        "aircraft": "CN-TFE",
+        "date": "2025-09-20",
+        "access": "staff"
+      }
+    },
+    {
+      "source_id": "WO-2025-0399",
+      "file": "anfa/work-orders/WO-2025-0399.pdf",
+      "meta": {
+        "publisher": "Anfa Aero Services",
+        "title": "Work order WO-2025-0399: CN-TFD, 100-hour inspection",
+        "doc_type": "work order",
+        "aircraft": "CN-TFD",
+        "date": "2025-09-22",
+        "access": "staff"
+      }
+    },
+    {
+      "source_id": "WO-2025-0412",
+      "file": "anfa/work-orders/WO-2025-0412.pdf",
+      "meta": {
+        "publisher": "Anfa Aero Services",
+        "title": "Work order WO-2025-0412: CN-TFA, repair",
+        "doc_type": "work order",
+        "aircraft": "CN-TFA",
+        "date": "2025-09-30",
+        "access": "staff"
+      }
+    },
+    {
+      "source_id": "WO-2025-0436",
+      "file": "anfa/work-orders/WO-2025-0436.pdf",
+      "meta": {
+        "publisher": "Anfa Aero Services",
+        "title": "Work order WO-2025-0436: CN-TFA, 100-hour inspection",
+        "doc_type": "work order",
+        "aircraft": "CN-TFA",
+        "date": "2025-10-18",
+        "access": "staff"
+      }
+    },
+    {
+      "source_id": "WO-2025-0442",
+      "file": "anfa/work-orders/WO-2025-0442.pdf",
+      "meta": {
+        "publisher": "Anfa Aero Services",
+        "title": "Work order WO-2025-0442: CN-TFD, 100-hour inspection",
+        "doc_type": "work order",
+        "aircraft": "CN-TFD",
+        "date": "2025-10-21",
+        "access": "staff"
+      }
+    },
+    {
+      "source_id": "WO-2025-0455",
+      "file": "anfa/work-orders/WO-2025-0455.pdf",
+      "meta": {
+        "publisher": "Anfa Aero Services",
+        "title": "Work order WO-2025-0455: CN-TFB, 100-hour inspection",
+        "doc_type": "work order",
+        "aircraft": "CN-TFB",
+        "date": "2025-10-30",
+        "access": "staff"
+      }
+    },
+    {
+      "source_id": "WO-2025-0460",
+      "file": "anfa/work-orders/WO-2025-0460.pdf",
+      "meta": {
+        "publisher": "Anfa Aero Services",
+        "title": "Work order WO-2025-0460: CN-TFC, 100-hour inspection",
+        "doc_type": "work order",
+        "aircraft": "CN-TFC",
+        "date": "2025-11-01",
+        "access": "staff"
+      }
+    },
+    {
+      "source_id": "WO-2025-0464",
+      "file": "anfa/work-orders/WO-2025-0464.pdf",
+      "meta": {
+        "publisher": "Anfa Aero Services",
+        "title": "Work order WO-2025-0464: CN-TFD, altimeter, static system, and transponder tests",
+        "doc_type": "work order",
+        "aircraft": "CN-TFD",
+        "date": "2025-11-04",
+        "access": "staff"
+      }
+    },
+    {
+      "source_id": "WO-2025-0485",
+      "file": "anfa/work-orders/WO-2025-0485.pdf",
+      "meta": {
+        "publisher": "Anfa Aero Services",
+        "title": "Work order WO-2025-0485: CN-TFC, repair",
+        "doc_type": "work order",
+        "aircraft": "CN-TFC",
+        "date": "2025-11-18",
+        "access": "staff"
+      }
+    },
+    {
+      "source_id": "WO-2025-0486",
+      "file": "anfa/work-orders/WO-2025-0486.pdf",
+      "meta": {
+        "publisher": "Anfa Aero Services",
+        "title": "Work order WO-2025-0486: CN-TFF, 100-hour inspection",
+        "doc_type": "work order",
+        "aircraft": "CN-TFF",
+        "date": "2025-11-18",
+        "access": "staff"
+      }
+    },
+    {
+      "source_id": "WO-2025-0487",
+      "file": "anfa/work-orders/WO-2025-0487.pdf",
+      "meta": {
+        "publisher": "Anfa Aero Services",
+        "title": "Work order WO-2025-0487: CN-TFA, 100-hour inspection",
+        "doc_type": "work order",
+        "aircraft": "CN-TFA",
+        "date": "2025-11-20",
+        "access": "staff"
+      }
+    },
+    {
+      "source_id": "WO-2025-0488",
+      "file": "anfa/work-orders/WO-2025-0488.pdf",
+      "meta": {
+        "publisher": "Anfa Aero Services",
+        "title": "Work order WO-2025-0488: CN-TFD, 100-hour inspection",
+        "doc_type": "work order",
+        "aircraft": "CN-TFD",
+        "date": "2025-11-20",
+        "access": "staff"
+      }
+    },
+    {
+      "source_id": "WO-2025-0489",
+      "file": "anfa/work-orders/WO-2025-0489.pdf",
+      "meta": {
+        "publisher": "Anfa Aero Services",
+        "title": "Work order WO-2025-0489: CN-TFE, annual inspection",
+        "doc_type": "work order",
+        "aircraft": "CN-TFE",
+        "date": "2025-11-21",
+        "access": "staff"
+      }
+    },
+    {
+      "source_id": "WO-2025-0490",
+      "file": "anfa/work-orders/WO-2025-0490.pdf",
+      "meta": {
+        "publisher": "Anfa Aero Services",
+        "title": "Work order WO-2025-0490: CN-TFG, 100-hour inspection",
+        "doc_type": "work order",
+        "aircraft": "CN-TFG",
+        "date": "2025-11-23",
+        "access": "staff"
+      }
+    },
+    {
+      "source_id": "WO-2025-0514",
+      "file": "anfa/work-orders/WO-2025-0514.pdf",
+      "meta": {
+        "publisher": "Anfa Aero Services",
+        "title": "Work order WO-2025-0514: CN-TFD, repair",
+        "doc_type": "work order",
+        "aircraft": "CN-TFD",
+        "date": "2025-12-09",
+        "access": "staff"
+      }
+    },
+    {
+      "source_id": "WO-2025-0524",
+      "file": "anfa/work-orders/WO-2025-0524.pdf",
+      "meta": {
+        "publisher": "Anfa Aero Services",
+        "title": "Work order WO-2025-0524: CN-TFB, 100-hour inspection",
+        "doc_type": "work order",
+        "aircraft": "CN-TFB",
+        "date": "2025-12-14",
+        "access": "staff"
+      }
+    },
+    {
+      "source_id": "WO-2025-0526",
+      "file": "anfa/work-orders/WO-2025-0526.pdf",
+      "meta": {
+        "publisher": "Anfa Aero Services",
+        "title": "Work order WO-2025-0526: CN-TFC, 100-hour inspection",
+        "doc_type": "work order",
+        "aircraft": "CN-TFC",
+        "date": "2025-12-16",
+        "access": "staff"
+      }
+    },
+    {
+      "source_id": "WO-2025-0532",
+      "file": "anfa/work-orders/WO-2025-0532.pdf",
+      "meta": {
+        "publisher": "Anfa Aero Services",
+        "title": "Work order WO-2025-0532: CN-TFD, 100-hour inspection",
+        "doc_type": "work order",
+        "aircraft": "CN-TFD",
+        "date": "2025-12-20",
+        "access": "staff"
+      }
+    },
+    {
+      "source_id": "WO-2025-0534",
+      "file": "anfa/work-orders/WO-2025-0534.pdf",
+      "meta": {
+        "publisher": "Anfa Aero Services",
+        "title": "Work order WO-2025-0534: CN-TFA, 100-hour inspection",
+        "doc_type": "work order",
+        "aircraft": "CN-TFA",
+        "date": "2025-12-21",
+        "access": "staff"
+      }
+    },
+    {
+      "source_id": "WO-2026-0021",
+      "file": "anfa/work-orders/WO-2026-0021.pdf",
+      "meta": {
+        "publisher": "Anfa Aero Services",
+        "title": "Work order WO-2026-0021: CN-TFD, annual inspection",
+        "doc_type": "work order",
+        "aircraft": "CN-TFD",
+        "date": "2026-01-15",
+        "access": "staff"
+      }
+    },
+    {
+      "source_id": "WO-2026-0028",
+      "file": "anfa/work-orders/WO-2026-0028.pdf",
+      "meta": {
+        "publisher": "Anfa Aero Services",
+        "title": "Work order WO-2026-0028: CN-TFE, 100-hour inspection",
+        "doc_type": "work order",
+        "aircraft": "CN-TFE",
+        "date": "2026-01-20",
+        "access": "staff"
+      }
+    },
+    {
+      "source_id": "WO-2026-0029",
+      "file": "anfa/work-orders/WO-2026-0029.pdf",
+      "meta": {
+        "publisher": "Anfa Aero Services",
+        "title": "Work order WO-2026-0029: CN-TFE, repair",
+        "doc_type": "work order",
+        "aircraft": "CN-TFE",
+        "date": "2026-01-20",
+        "access": "staff"
+      }
+    },
+    {
+      "source_id": "WO-2026-0031",
+      "file": "anfa/work-orders/WO-2026-0031.pdf",
+      "meta": {
+        "publisher": "Anfa Aero Services",
+        "title": "Work order WO-2026-0031: CN-TFA, 100-hour inspection",
+        "doc_type": "work order",
+        "aircraft": "CN-TFA",
+        "date": "2026-01-21",
+        "access": "staff"
+      }
+    },
+    {
+      "source_id": "WO-2026-0039",
+      "file": "anfa/work-orders/WO-2026-0039.pdf",
+      "meta": {
+        "publisher": "Anfa Aero Services",
+        "title": "Work order WO-2026-0039: CN-TFG, 100-hour inspection",
+        "doc_type": "work order",
+        "aircraft": "CN-TFG",
+        "date": "2026-01-27",
+        "access": "staff"
+      }
+    },
+    {
+      "source_id": "WO-2026-0041",
+      "file": "anfa/work-orders/WO-2026-0041.pdf",
+      "meta": {
+        "publisher": "Anfa Aero Services",
+        "title": "Work order WO-2026-0041: CN-TFB, 100-hour inspection",
+        "doc_type": "work order",
+        "aircraft": "CN-TFB",
+        "date": "2026-01-29",
+        "access": "staff"
+      }
+    },
+    {
+      "source_id": "WO-2026-0042",
+      "file": "anfa/work-orders/WO-2026-0042.pdf",
+      "meta": {
+        "publisher": "Anfa Aero Services",
+        "title": "Work order WO-2026-0042: CN-TFC, 100-hour inspection",
+        "doc_type": "work order",
+        "aircraft": "CN-TFC",
+        "date": "2026-01-31",
+        "access": "staff"
+      }
+    },
+    {
+      "source_id": "WO-2026-0056",
+      "file": "anfa/work-orders/WO-2026-0056.pdf",
+      "meta": {
+        "publisher": "Anfa Aero Services",
+        "title": "Work order WO-2026-0056: CN-TFF, repair",
+        "doc_type": "work order",
+        "aircraft": "CN-TFF",
+        "date": "2026-02-10",
+        "access": "staff"
+      }
+    },
+    {
+      "source_id": "WO-2026-0061",
+      "file": "anfa/work-orders/WO-2026-0061.pdf",
+      "meta": {
+        "publisher": "Anfa Aero Services",
+        "title": "Work order WO-2026-0061: CN-TFD, 100-hour inspection",
+        "doc_type": "work order",
+        "aircraft": "CN-TFD",
+        "date": "2026-02-13",
+        "access": "staff"
+      }
+    },
+    {
+      "source_id": "WO-2026-0068",
+      "file": "anfa/work-orders/WO-2026-0068.pdf",
+      "meta": {
+        "publisher": "Anfa Aero Services",
+        "title": "Work order WO-2026-0068: CN-TFF, 100-hour inspection",
+        "doc_type": "work order",
+        "aircraft": "CN-TFF",
+        "date": "2026-02-18",
+        "access": "staff"
+      }
+    },
+    {
+      "source_id": "WO-2026-0073",
+      "file": "anfa/work-orders/WO-2026-0073.pdf",
+      "meta": {
+        "publisher": "Anfa Aero Services",
+        "title": "Work order WO-2026-0073: CN-TFA, annual inspection",
+        "doc_type": "work order",
+        "aircraft": "CN-TFA",
+        "date": "2026-02-21",
+        "access": "staff"
+      }
+    },
+    {
+      "source_id": "WO-2026-0099",
+      "file": "anfa/work-orders/WO-2026-0099.pdf",
+      "meta": {
+        "publisher": "Anfa Aero Services",
+        "title": "Work order WO-2026-0099: CN-TFD, 100-hour inspection",
+        "doc_type": "work order",
+        "aircraft": "CN-TFD",
+        "date": "2026-03-13",
+        "access": "staff"
+      }
+    },
+    {
+      "source_id": "WO-2026-0102",
+      "file": "anfa/work-orders/WO-2026-0102.pdf",
+      "meta": {
+        "publisher": "Anfa Aero Services",
+        "title": "Work order WO-2026-0102: CN-TFB, 100-hour inspection",
+        "doc_type": "work order",
+        "aircraft": "CN-TFB",
+        "date": "2026-03-15",
+        "access": "staff"
+      }
+    },
+    {
+      "source_id": "WO-2026-0103",
+      "file": "anfa/work-orders/WO-2026-0103.pdf",
+      "meta": {
+        "publisher": "Anfa Aero Services",
+        "title": "Work order WO-2026-0103: CN-TFB, engine overhaul",
+        "doc_type": "work order",
+        "aircraft": "CN-TFB",
+        "date": "2026-03-17",
+        "access": "staff"
+      }
+    },
+    {
+      "source_id": "WO-2026-0110",
+      "file": "anfa/work-orders/WO-2026-0110.pdf",
+      "meta": {
+        "publisher": "Anfa Aero Services",
+        "title": "Work order WO-2026-0110: CN-TFC, 100-hour inspection",
+        "doc_type": "work order",
+        "aircraft": "CN-TFC",
+        "date": "2026-03-21",
+        "access": "staff"
+      }
+    },
+    {
+      "source_id": "WO-2026-0112",
+      "file": "anfa/work-orders/WO-2026-0112.pdf",
+      "meta": {
+        "publisher": "Anfa Aero Services",
+        "title": "Work order WO-2026-0112: CN-TFE, 100-hour inspection",
+        "doc_type": "work order",
+        "aircraft": "CN-TFE",
+        "date": "2026-03-23",
+        "access": "staff"
+      }
+    },
+    {
+      "source_id": "WO-2026-0115",
+      "file": "anfa/work-orders/WO-2026-0115.pdf",
+      "meta": {
+        "publisher": "Anfa Aero Services",
+        "title": "Work order WO-2026-0115: CN-TFA, 100-hour inspection",
+        "doc_type": "work order",
+        "aircraft": "CN-TFA",
+        "date": "2026-03-24",
+        "access": "staff"
+      }
+    },
+    {
+      "source_id": "WO-2026-0126",
+      "file": "anfa/work-orders/WO-2026-0126.pdf",
+      "meta": {
+        "publisher": "Anfa Aero Services",
+        "title": "Work order WO-2026-0126: CN-TFG, 100-hour inspection",
+        "doc_type": "work order",
+        "aircraft": "CN-TFG",
+        "date": "2026-04-01",
+        "access": "staff"
+      }
+    },
+    {
+      "source_id": "WO-2026-0140",
+      "file": "anfa/work-orders/WO-2026-0140.pdf",
+      "meta": {
+        "publisher": "Anfa Aero Services",
+        "title": "Work order WO-2026-0140: CN-TFD, 100-hour inspection",
+        "doc_type": "work order",
+        "aircraft": "CN-TFD",
+        "date": "2026-04-13",
+        "access": "staff"
+      }
+    },
+    {
+      "source_id": "WO-2026-0146",
+      "file": "anfa/work-orders/WO-2026-0146.pdf",
+      "meta": {
+        "publisher": "Anfa Aero Services",
+        "title": "Work order WO-2026-0146: CN-TFB, repair",
+        "doc_type": "work order",
+        "aircraft": "CN-TFB",
+        "date": "2026-04-16",
+        "access": "staff"
+      }
+    },
+    {
+      "source_id": "WO-2026-0156",
+      "file": "anfa/work-orders/WO-2026-0156.pdf",
+      "meta": {
+        "publisher": "Anfa Aero Services",
+        "title": "Work order WO-2026-0156: CN-TFA, 100-hour inspection",
+        "doc_type": "work order",
+        "aircraft": "CN-TFA",
+        "date": "2026-04-23",
+        "access": "staff"
+      }
+    },
+    {
+      "source_id": "WO-2026-0167",
+      "file": "anfa/work-orders/WO-2026-0167.pdf",
+      "meta": {
+        "publisher": "Anfa Aero Services",
+        "title": "Work order WO-2026-0167: CN-TFB, 100-hour inspection",
+        "doc_type": "work order",
+        "aircraft": "CN-TFB",
+        "date": "2026-05-02",
+        "access": "staff"
+      }
+    },
+    {
+      "source_id": "WO-2026-0172",
+      "file": "anfa/work-orders/WO-2026-0172.pdf",
+      "meta": {
+        "publisher": "Anfa Aero Services",
+        "title": "Work order WO-2026-0172: CN-TFC, 100-hour inspection",
+        "doc_type": "work order",
+        "aircraft": "CN-TFC",
+        "date": "2026-05-06",
+        "access": "staff"
+      }
+    },
+    {
+      "source_id": "WO-2026-0181",
+      "file": "anfa/work-orders/WO-2026-0181.pdf",
+      "meta": {
+        "publisher": "Anfa Aero Services",
+        "title": "Work order WO-2026-0181: CN-TFA, altimeter, static system, and transponder tests",
+        "doc_type": "work order",
+        "aircraft": "CN-TFA",
+        "date": "2026-05-12",
+        "access": "staff"
+      }
+    },
+    {
+      "source_id": "WO-2026-0182",
+      "file": "anfa/work-orders/WO-2026-0182.pdf",
+      "meta": {
+        "publisher": "Anfa Aero Services",
+        "title": "Work order WO-2026-0182: CN-TFD, 100-hour inspection",
+        "doc_type": "work order",
+        "aircraft": "CN-TFD",
+        "date": "2026-05-12",
+        "access": "staff"
+      }
+    },
+    {
+      "source_id": "WO-2026-0189",
+      "file": "anfa/work-orders/WO-2026-0189.pdf",
+      "meta": {
+        "publisher": "Anfa Aero Services",
+        "title": "Work order WO-2026-0189: CN-TFF, annual inspection",
+        "doc_type": "work order",
+        "aircraft": "CN-TFF",
+        "date": "2026-05-19",
+        "access": "staff"
+      }
+    },
+    {
+      "source_id": "WO-2026-0195",
+      "file": "anfa/work-orders/WO-2026-0195.pdf",
+      "meta": {
+        "publisher": "Anfa Aero Services",
+        "title": "Work order WO-2026-0195: CN-TFE, 100-hour inspection",
+        "doc_type": "work order",
+        "aircraft": "CN-TFE",
+        "date": "2026-05-22",
+        "access": "staff"
+      }
+    },
+    {
+      "source_id": "WO-2026-0198",
+      "file": "anfa/work-orders/WO-2026-0198.pdf",
+      "meta": {
+        "publisher": "Anfa Aero Services",
+        "title": "Work order WO-2026-0198: CN-TFA, 100-hour inspection",
+        "doc_type": "work order",
+        "aircraft": "CN-TFA",
+        "date": "2026-05-24",
+        "access": "staff"
+      }
+    },
+    {
+      "source_id": "WO-2026-0208",
+      "file": "anfa/work-orders/WO-2026-0208.pdf",
+      "meta": {
+        "publisher": "Anfa Aero Services",
+        "title": "Work order WO-2026-0208: CN-TFG, repair",
+        "doc_type": "work order",
+        "aircraft": "CN-TFG",
+        "date": "2026-06-02",
+        "access": "staff"
+      }
+    },
+    {
+      "source_id": "WO-2026-0215",
+      "file": "anfa/work-orders/WO-2026-0215.pdf",
+      "meta": {
+        "publisher": "Anfa Aero Services",
+        "title": "Work order WO-2026-0215: CN-TFG, 100-hour inspection",
+        "doc_type": "work order",
+        "aircraft": "CN-TFG",
+        "date": "2026-06-07",
+        "access": "staff"
+      }
+    },
+    {
+      "source_id": "WO-2026-0219",
+      "file": "anfa/work-orders/WO-2026-0219.pdf",
+      "meta": {
+        "publisher": "Anfa Aero Services",
+        "title": "Work order WO-2026-0219: CN-TFD, 100-hour inspection",
+        "doc_type": "work order",
+        "aircraft": "CN-TFD",
+        "date": "2026-06-09",
+        "access": "staff"
+      }
+    },
+    {
+      "source_id": "WO-2026-0232",
+      "file": "anfa/work-orders/WO-2026-0232.pdf",
+      "meta": {
+        "publisher": "Anfa Aero Services",
+        "title": "Work order WO-2026-0232: CN-TFB, annual inspection",
+        "doc_type": "work order",
+        "aircraft": "CN-TFB",
+        "date": "2026-06-18",
+        "access": "staff"
+      }
+    },
+    {
+      "source_id": "WO-2026-0235",
+      "file": "anfa/work-orders/WO-2026-0235.pdf",
+      "meta": {
+        "publisher": "Anfa Aero Services",
+        "title": "Work order WO-2026-0235: CN-TFC, 100-hour inspection",
+        "doc_type": "work order",
+        "aircraft": "CN-TFC",
+        "date": "2026-06-22",
+        "access": "staff"
+      }
+    },
+    {
+      "source_id": "WO-2026-0239",
+      "file": "anfa/work-orders/WO-2026-0239.pdf",
+      "meta": {
+        "publisher": "Anfa Aero Services",
+        "title": "Work order WO-2026-0239: CN-TFA, 100-hour inspection",
+        "doc_type": "work order",
+        "aircraft": "CN-TFA",
+        "date": "2026-06-25",
+        "access": "staff"
+      }
+    },
+    {
+      "source_id": "WO-2026-0256",
+      "file": "anfa/work-orders/WO-2026-0256.pdf",
+      "meta": {
+        "publisher": "Anfa Aero Services",
+        "title": "Work order WO-2026-0256: CN-TFD, 100-hour inspection",
+        "doc_type": "work order",
+        "aircraft": "CN-TFD",
+        "date": "2026-07-07",
+        "access": "staff"
+      }
+    },
+    {
+      "source_id": "WO-2026-0265",
+      "file": "anfa/work-orders/WO-2026-0265.pdf",
+      "meta": {
+        "publisher": "Anfa Aero Services",
+        "title": "Work order WO-2026-0265: CN-TFA, repair",
+        "doc_type": "work order",
+        "aircraft": "CN-TFA",
+        "date": "2026-07-14",
+        "access": "staff"
+      }
+    },
+    {
+      "source_id": "WO-2026-0281",
+      "file": "anfa/work-orders/WO-2026-0281.pdf",
+      "meta": {
+        "publisher": "Anfa Aero Services",
+        "title": "Work order WO-2026-0281: CN-TFE, 100-hour inspection",
+        "doc_type": "work order",
+        "aircraft": "CN-TFE",
+        "date": "2026-07-24",
+        "access": "staff"
+      }
+    },
+    {
+      "source_id": "WO-2026-0282",
+      "file": "anfa/work-orders/WO-2026-0282.pdf",
+      "meta": {
+        "publisher": "Anfa Aero Services",
+        "title": "Work order WO-2026-0282: CN-TFG, annual inspection",
+        "doc_type": "work order",
+        "aircraft": "CN-TFG",
+        "date": "2026-07-25",
+        "access": "staff"
+      }
+    },
+    {
+      "source_id": "WO-2026-0285",
+      "file": "anfa/work-orders/WO-2026-0285.pdf",
+      "meta": {
+        "publisher": "Anfa Aero Services",
+        "title": "Work order WO-2026-0285: CN-TFA, 100-hour inspection",
+        "doc_type": "work order",
+        "aircraft": "CN-TFA",
+        "date": "2026-07-27",
+        "access": "staff"
+      }
+    },
+    {
+      "source_id": "WO-2026-0296",
+      "file": "anfa/work-orders/WO-2026-0296.pdf",
+      "meta": {
+        "publisher": "Anfa Aero Services",
+        "title": "Work order WO-2026-0296: CN-TFB, 100-hour inspection",
+        "doc_type": "work order",
+        "aircraft": "CN-TFB",
+        "date": "2026-08-04",
+        "access": "staff"
+      }
+    },
+    {
+      "source_id": "WO-2026-0297",
+      "file": "anfa/work-orders/WO-2026-0297.pdf",
+      "meta": {
+        "publisher": "Anfa Aero Services",
+        "title": "Work order WO-2026-0297: CN-TFD, 100-hour inspection",
+        "doc_type": "work order",
+        "aircraft": "CN-TFD",
+        "date": "2026-08-05",
+        "access": "staff"
+      }
+    },
+    {
+      "source_id": "WO-2026-0303",
+      "file": "anfa/work-orders/WO-2026-0303.pdf",
+      "meta": {
+        "publisher": "Anfa Aero Services",
+        "title": "Work order WO-2026-0303: CN-TFC, 100-hour inspection",
+        "doc_type": "work order",
+        "aircraft": "CN-TFC",
+        "date": "2026-08-10",
+        "access": "staff"
+      }
+    },
+    {
+      "source_id": "WO-2026-0304",
+      "file": "anfa/work-orders/WO-2026-0304.pdf",
+      "meta": {
+        "publisher": "Anfa Aero Services",
+        "title": "Work order WO-2026-0304: CN-TFG, FADEC backup battery replacement",
+        "doc_type": "work order",
+        "aircraft": "CN-TFG",
+        "date": "2026-08-11",
+        "access": "staff"
+      }
+    },
+    {
+      "source_id": "WO-2026-0323",
+      "file": "anfa/work-orders/WO-2026-0323.pdf",
+      "meta": {
+        "publisher": "Anfa Aero Services",
+        "title": "Work order WO-2026-0323: CN-TFB, altimeter, static system, and transponder tests",
+        "doc_type": "work order",
+        "aircraft": "CN-TFB",
+        "date": "2026-08-25",
+        "access": "staff"
+      }
+    },
+    {
+      "source_id": "WO-2026-0324",
+      "file": "anfa/work-orders/WO-2026-0324.pdf",
+      "meta": {
+        "publisher": "Anfa Aero Services",
+        "title": "Work order WO-2026-0324: CN-TFF, 100-hour inspection",
+        "doc_type": "work order",
+        "aircraft": "CN-TFF",
+        "date": "2026-08-25",
+        "access": "staff"
+      }
+    },
+    {
+      "source_id": "WO-2026-0325",
+      "file": "anfa/work-orders/WO-2026-0325.pdf",
+      "meta": {
+        "publisher": "Anfa Aero Services",
+        "title": "Work order WO-2026-0325: CN-TFA, 100-hour inspection",
+        "doc_type": "work order",
+        "aircraft": "CN-TFA",
+        "date": "2026-08-26",
+        "access": "staff"
+      }
+    },
+    {
+      "source_id": "WO-2026-0335",
+      "file": "anfa/work-orders/WO-2026-0335.pdf",
+      "meta": {
+        "publisher": "Anfa Aero Services",
+        "title": "Work order WO-2026-0335: CN-TFD, 100-hour inspection",
+        "doc_type": "work order",
+        "aircraft": "CN-TFD",
+        "date": "2026-09-02",
+        "access": "staff"
+      }
+    },
+    {
+      "source_id": "WO-2026-0341",
+      "file": "anfa/work-orders/WO-2026-0341.pdf",
+      "meta": {
+        "publisher": "Anfa Aero Services",
+        "title": "Work order WO-2026-0341: CN-TFD, repair",
+        "doc_type": "work order",
+        "aircraft": "CN-TFD",
+        "date": "2026-09-08",
+        "access": "staff"
+      }
+    },
+    {
+      "source_id": "WO-2026-0350",
+      "file": "anfa/work-orders/WO-2026-0350.pdf",
+      "meta": {
+        "publisher": "Anfa Aero Services",
+        "title": "Work order WO-2026-0350: CN-TFC, annual inspection",
+        "doc_type": "work order",
+        "aircraft": "CN-TFC",
+        "date": "2026-09-13",
+        "access": "staff"
+      }
+    },
+    {
+      "source_id": "WO-2026-0360",
+      "file": "anfa/work-orders/WO-2026-0360.pdf",
+      "meta": {
+        "publisher": "Anfa Aero Services",
+        "title": "Work order WO-2026-0360: CN-TFB, 100-hour inspection",
+        "doc_type": "work order",
+        "aircraft": "CN-TFB",
+        "date": "2026-09-20",
+        "access": "staff"
+      }
+    },
+    {
+      "source_id": "WO-2026-0366",
+      "file": "anfa/work-orders/WO-2026-0366.pdf",
+      "meta": {
+        "publisher": "Anfa Aero Services",
+        "title": "Work order WO-2026-0366: CN-TFA, 100-hour inspection",
+        "doc_type": "work order",
+        "aircraft": "CN-TFA",
+        "date": "2026-09-26",
+        "access": "staff"
+      }
+    },
+    {
+      "source_id": "WO-2026-0367",
+      "file": "anfa/work-orders/WO-2026-0367.pdf",
+      "meta": {
+        "publisher": "Anfa Aero Services",
+        "title": "Work order WO-2026-0367: CN-TFE, 100-hour inspection",
+        "doc_type": "work order",
+        "aircraft": "CN-TFE",
+        "date": "2026-09-26",
+        "access": "staff"
+      }
+    },
+    {
+      "source_id": "WO-2026-0371",
+      "file": "anfa/work-orders/WO-2026-0371.pdf",
+      "meta": {
+        "publisher": "Anfa Aero Services",
+        "title": "Work order WO-2026-0371: CN-TFG, 100-hour inspection",
+        "doc_type": "work order",
+        "aircraft": "CN-TFG",
+        "date": "2026-09-30",
+        "access": "staff"
+      }
+    },
+    {
+      "source_id": "WO-2026-0374",
+      "file": "anfa/work-orders/WO-2026-0374.pdf",
+      "meta": {
+        "publisher": "Anfa Aero Services",
+        "title": "Work order WO-2026-0374: CN-TFD, 100-hour inspection",
+        "doc_type": "work order",
+        "aircraft": "CN-TFD",
+        "date": "2026-10-01",
+        "access": "staff"
+      }
+    },
+    {
+      "source_id": "AC-39-7D",
+      "file": "faa/ac/ac-39-7d.pdf",
+      "meta": {
+        "title": "AC 39-7D, Airworthiness Directives",
+        "publisher": "FAA",
+        "doc_type": "advisory circular",
+        "status": "current",
+        "issued": "2012-03-02",
+        "access": "employees"
+      }
+    },
+    {
+      "source_id": "AC-43-9C",
+      "file": "faa/ac/ac-43-9c.pdf",
+      "meta": {
+        "title": "AC 43-9C, Maintenance Records (cancelled 22 September 2025)",
+        "publisher": "FAA",
+        "doc_type": "advisory circular",
+        "status": "cancelled",
+        "issued": "1998-06-08",
+        "access": "employees"
+      }
+    },
+    {
+      "source_id": "AC-43-9D",
+      "file": "faa/ac/ac-43-9d.pdf",
+      "meta": {
+        "title": "AC 43-9D, Maintenance Records",
+        "publisher": "FAA",
+        "doc_type": "advisory circular",
+        "status": "current",
+        "issued": "2025-09-22",
+        "access": "employees"
+      }
+    },
+    {
+      "source_id": "AC-43.13-1B-CH7",
+      "file": "faa/ac/ac-43.13-1b-chapter-7.pdf",
+      "meta": {
+        "title": "AC 43.13-1B, Acceptable Methods, Techniques, and Practices: Aircraft Inspection and Repair, chapter 7 (aircraft hardware, control cables, and turnbuckles)",
+        "publisher": "FAA",
+        "doc_type": "advisory circular",
+        "status": "current",
+        "pages": "313-380 of the full PDF",
+        "access": "employees"
+      }
+    },
+    {
+      "source_id": "AC-43.13-2B",
+      "file": "faa/ac/ac-43.13-2b.pdf",
+      "meta": {
+        "title": "AC 43.13-2B, Acceptable Methods, Techniques, and Practices: Aircraft Alterations",
+        "publisher": "FAA",
+        "doc_type": "advisory circular",
+        "status": "current",
+        "issued": "2008-03-03",
+        "access": "employees"
+      }
+    },
+    {
+      "source_id": "AD-2000-04-01",
+      "file": "faa/ad/ad-2000-04-01.pdf",
+      "meta": {
+        "title": "AD 2000-04-01: Cessna Aircraft Company Models 172R, 172S, 182S, 206H, and T206H Airplanes",
+        "publisher": "FAA",
+        "doc_type": "airworthiness directive",
+        "ad_number": "2000-04-01",
+        "action": "Final rule; request for comments",
+        "published": "2000-02-22",
+        "effective": "2000-03-11",
+        "federal_register": "65 FR 8649 (document 00-3794)",
+        "access": "employees"
+      }
+    },
+    {
+      "source_id": "AD-2001-06-17-CORRECTION",
+      "file": "faa/ad/ad-2001-06-17-correction.pdf",
+      "meta": {
+        "title": "AD 2001-06-17 (correction): Cessna Aircraft Company Models 172R and 172S Airplanes",
+        "publisher": "FAA",
+        "doc_type": "airworthiness directive",
+        "ad_number": "2001-06-17",
+        "action": "Final rule; correction",
+        "published": "2001-04-10",
+        "effective": "2001-04-20",
+        "federal_register": "66 FR 18521 (document 01-8746)",
+        "access": "employees"
+      }
+    },
+    {
+      "source_id": "AD-2001-06-17",
+      "file": "faa/ad/ad-2001-06-17.pdf",
+      "meta": {
+        "title": "AD 2001-06-17: Cessna Aircraft Company Models 172R and 172S Airplanes",
+        "publisher": "FAA",
+        "doc_type": "airworthiness directive",
+        "ad_number": "2001-06-17",
+        "action": "Final rule; request for comments",
+        "published": "2001-03-30",
+        "effective": "2001-04-20",
+        "federal_register": "66 FR 17345 (document 01-7831)",
+        "access": "employees"
+      }
+    },
+    {
+      "source_id": "AD-2003-24-13-CORRECTION",
+      "file": "faa/ad/ad-2003-24-13-correction.pdf",
+      "meta": {
+        "title": "AD 2003-24-13 (correction): Cessna Aircraft Company Models 172R, 172S, 182S, 182T, T182T, 206H, and T206H Airplanes",
+        "publisher": "FAA",
+        "doc_type": "airworthiness directive",
+        "ad_number": "2003-24-13",
+        "action": "Final rule; correction",
+        "published": "2003-12-30",
+        "effective": "2004-01-20",
+        "federal_register": "68 FR 75114 (document 03-31667)",
+        "access": "employees"
+      }
+    },
+    {
+      "source_id": "AD-2003-24-13",
+      "file": "faa/ad/ad-2003-24-13.pdf",
+      "meta": {
+        "title": "AD 2003-24-13: Cessna Aircraft Company Models 172R, 172S, 182S, 182T, T182T, 206H, and T206H Airplanes",
+        "publisher": "FAA",
+        "doc_type": "airworthiness directive",
+        "ad_number": "2003-24-13",
+        "action": "Final rule",
+        "published": "2003-12-04",
+        "effective": "2004-01-20",
+        "federal_register": "68 FR 67789 (document 03-30075)",
+        "access": "employees"
+      }
+    },
+    {
+      "source_id": "AD-2004-10-15",
+      "file": "faa/ad/ad-2004-10-15.pdf",
+      "meta": {
+        "title": "AD 2004-10-15: GARMIN International Inc. GTX 330 Mode S Transponders and GTX 330D Diversity Mode S Transponders",
+        "publisher": "FAA",
+        "doc_type": "airworthiness directive",
+        "ad_number": "2004-10-15",
+        "action": "Final rule",
+        "published": "2004-05-21",
+        "effective": "2004-07-09",
+        "federal_register": "69 FR 29212 (document 04-11438)",
+        "access": "employees"
+      }
+    },
+    {
+      "source_id": "AD-2004-15-18",
+      "file": "faa/ad/ad-2004-15-18.pdf",
+      "meta": {
+        "title": "AD 2004-15-18: Cessna Aircraft Company Models 172R, 172S, 182S, 182T, T182T, 206H, and T206H Airplanes",
+        "publisher": "FAA",
+        "doc_type": "airworthiness directive",
+        "ad_number": "2004-15-18",
+        "action": "Final rule",
+        "published": "2004-07-30",
+        "effective": "2004-09-12",
+        "federal_register": "69 FR 45570 (document 04-17217)",
+        "access": "employees"
+      }
+    },
+    {
+      "source_id": "AD-2005-01-19",
+      "file": "faa/ad/ad-2005-01-19.pdf",
+      "meta": {
+        "title": "AD 2005-01-19: GARMIN International Inc. GTX 33, GTX 33D, GTX 330, and GTX 330D Mode S Transponders",
+        "publisher": "FAA",
+        "doc_type": "airworthiness directive",
+        "ad_number": "2005-01-19",
+        "action": "Final rule",
+        "published": "2005-01-19",
+        "effective": "2005-02-23",
+        "federal_register": "70 FR 2937 (document 05-832)",
+        "access": "employees"
+      }
+    },
+    {
+      "source_id": "AD-2005-05-53-R1",
+      "file": "faa/ad/ad-2005-05-53-r1.pdf",
+      "meta": {
+        "title": "AD 2005-05-53 R1: The Cessna Aircraft Company Models 172R, 172S, 182T, and T182T Airplanes",
+        "publisher": "FAA",
+        "doc_type": "airworthiness directive",
+        "ad_number": "2005-05-53 R1",
+        "action": "Final rule; request for comments",
+        "published": "2005-03-21",
+        "effective": "2005-03-21",
+        "federal_register": "70 FR 13356 (document 05-5385)",
+        "access": "employees"
+      }
+    },
+    {
+      "source_id": "AD-2005-13-10",
+      "file": "faa/ad/ad-2005-13-10.pdf",
+      "meta": {
+        "title": "AD 2005-13-10: Cessna Aircraft Company Models 172R, 172S, 182T, T182T, 206H, and T206H Airplanes",
+        "publisher": "FAA",
+        "doc_type": "airworthiness directive",
+        "ad_number": "2005-13-10",
+        "action": "Final rule",
+        "published": "2005-06-22",
+        "effective": "2005-08-09",
+        "federal_register": "70 FR 35997 (document 05-12175)",
+        "access": "employees"
+      }
+    },
+    {
+      "source_id": "AD-2006-17-04",
+      "file": "faa/ad/ad-2006-17-04.pdf",
+      "meta": {
+        "title": "AD 2006-17-04: The Cessna Aircraft Company Models 172R, 172S, 182T, T182T, 206H, and T206H Airplanes",
+        "publisher": "FAA",
+        "doc_type": "airworthiness directive",
+        "ad_number": "2006-17-04",
+        "action": "Final rule; request for comments",
+        "published": "2006-08-18",
+        "effective": "2006-09-01",
+        "federal_register": "71 FR 47711 (document E6-13442)",
+        "access": "employees"
+      }
+    },
+    {
+      "source_id": "AD-2007-05-10",
+      "file": "faa/ad/ad-2007-05-10.pdf",
+      "meta": {
+        "title": "AD 2007-05-10: Cessna Aircraft Company Models 172R, 172S, 182S, 182T, T182T, 206H, and T206H Airplanes",
+        "publisher": "FAA",
+        "doc_type": "airworthiness directive",
+        "ad_number": "2007-05-10",
+        "action": "Final rule",
+        "published": "2007-03-07",
+        "effective": "2007-04-11",
+        "federal_register": "72 FR 10049 (document E7-3834)",
+        "access": "employees"
+      }
+    },
+    {
+      "source_id": "AD-2007-08-03",
+      "file": "faa/ad/ad-2007-08-03.pdf",
+      "meta": {
+        "title": "AD 2007-08-03: Cessna Aircraft Company Models 172R, 172S, 182T, T182T, 206H, and T206H Airplanes",
+        "publisher": "FAA",
+        "doc_type": "airworthiness directive",
+        "ad_number": "2007-08-03",
+        "action": "Final rule; request for comments",
+        "published": "2007-04-12",
+        "effective": "2007-05-02",
+        "federal_register": "72 FR 18380 (document E7-6826)",
+        "access": "employees"
+      }
+    },
+    {
+      "source_id": "AD-2008-02-18",
+      "file": "faa/ad/ad-2008-02-18.pdf",
+      "meta": {
+        "title": "AD 2008-02-18: Cessna Aircraft Company 172 and 182 Series Airplanes",
+        "publisher": "FAA",
+        "doc_type": "airworthiness directive",
+        "ad_number": "2008-02-18",
+        "action": "Final rule",
+        "published": "2008-01-24",
+        "effective": "2008-02-28",
+        "federal_register": "73 FR 4051 (document E8-1130)",
+        "access": "employees"
+      }
+    },
+    {
+      "source_id": "AD-2008-03-02",
+      "file": "faa/ad/ad-2008-03-02.pdf",
+      "meta": {
+        "title": "AD 2008-03-02: Cessna Aircraft Company Models 172R and 172S Airplanes",
+        "publisher": "FAA",
+        "doc_type": "airworthiness directive",
+        "ad_number": "2008-03-02",
+        "action": "Final rule",
+        "published": "2008-01-31",
+        "effective": "2008-03-06",
+        "federal_register": "73 FR 5737 (document E8-1460)",
+        "access": "employees"
+      }
+    },
+    {
+      "source_id": "AD-2008-05-09",
+      "file": "faa/ad/ad-2008-05-09.pdf",
+      "meta": {
+        "title": "AD 2008-05-09: Cessna Aircraft Company 172, 182, and 206 Series Airplanes",
+        "publisher": "FAA",
+        "doc_type": "airworthiness directive",
+        "ad_number": "2008-05-09",
+        "action": "Final rule",
+        "published": "2008-03-04",
+        "effective": "2008-04-08",
+        "federal_register": "73 FR 11536 (document E8-3771)",
+        "access": "employees"
+      }
+    },
+    {
+      "source_id": "AD-2008-10-02",
+      "file": "faa/ad/ad-2008-10-02.pdf",
+      "meta": {
+        "title": "AD 2008-10-02: Cessna Aircraft Company 172, 175, 180, 182, 185, 206, 207, 208, 210, and 303 Series Airplanes",
+        "publisher": "FAA",
+        "doc_type": "airworthiness directive",
+        "ad_number": "2008-10-02",
+        "action": "Final rule; request for comments",
+        "published": "2008-05-02",
+        "effective": "2008-05-12",
+        "federal_register": "73 FR 24168 (document E8-9719)",
+        "access": "employees"
+      }
+    },
+    {
+      "source_id": "AD-2008-26-10",
+      "file": "faa/ad/ad-2008-26-10.pdf",
+      "meta": {
+        "title": "AD 2008-26-10: Cessna Aircraft Company 172, 175, 177, 180, 182, 185, 188, 206, 207, 208, 210, 303, 336, and 337 Series Airplanes",
+        "publisher": "FAA",
+        "doc_type": "airworthiness directive",
+        "ad_number": "2008-26-10",
+        "action": "Final rule; request for comments",
+        "published": "2008-12-24",
+        "effective": "2009-01-05",
+        "federal_register": "73 FR 78939 (document E8-30465)",
+        "access": "employees"
+      }
+    },
+    {
+      "source_id": "AD-2009-24-10",
+      "file": "faa/ad/ad-2009-24-10.pdf",
+      "meta": {
+        "title": "AD 2009-24-10: Thielert Aircraft Engines GmbH (TAE) Model TAE 125-01 Reciprocating Engines",
+        "publisher": "FAA",
+        "doc_type": "airworthiness directive",
+        "ad_number": "2009-24-10",
+        "action": "Final rule",
+        "published": "2009-11-27",
+        "effective": "2010-01-04",
+        "federal_register": "74 FR 62213 (document E9-28166)",
+        "access": "employees"
+      }
+    },
+    {
+      "source_id": "AD-2010-04-06",
+      "file": "faa/ad/ad-2010-04-06.pdf",
+      "meta": {
+        "title": "AD 2010-04-06: Thielert Aircraft Engines GmbH (TAE) Model TAE 125-01 Reciprocating Engines",
+        "publisher": "FAA",
+        "doc_type": "airworthiness directive",
+        "ad_number": "2010-04-06",
+        "action": "Final rule",
+        "published": "2010-02-23",
+        "effective": "2010-03-30",
+        "federal_register": "75 FR 7947 (document 2010-3117)",
+        "access": "employees"
+      }
+    },
+    {
+      "source_id": "AD-2011-06-02",
+      "file": "faa/ad/ad-2011-06-02.pdf",
+      "meta": {
+        "title": "AD 2011-06-02: Cessna Aircraft Company (Cessna) Model 172 Airplanes Modified by Supplemental Type Certificate (STC) SA01303WI",
+        "publisher": "FAA",
+        "doc_type": "airworthiness directive",
+        "ad_number": "2011-06-02",
+        "action": "Final rule",
+        "published": "2011-04-21",
+        "effective": "2011-05-26",
+        "federal_register": "76 FR 22298 (document 2011-8564)",
+        "access": "employees"
+      }
+    },
+    {
+      "source_id": "AD-2012-02-02",
+      "file": "faa/ad/ad-2012-02-02.pdf",
+      "meta": {
+        "title": "AD 2012-02-02: Cessna Aircraft Company Airplanes",
+        "publisher": "FAA",
+        "doc_type": "airworthiness directive",
+        "ad_number": "2012-02-02",
+        "action": "Final rule",
+        "published": "2012-02-07",
+        "effective": "2012-03-13",
+        "federal_register": "77 FR 6003 (document 2012-1451)",
+        "access": "employees"
+      }
+    },
+    {
+      "source_id": "AD-2012-22-01",
+      "file": "faa/ad/ad-2012-22-01.pdf",
+      "meta": {
+        "title": "AD 2012-22-01: Cessna Aircraft Company Airplanes",
+        "publisher": "FAA",
+        "doc_type": "airworthiness directive",
+        "ad_number": "2012-22-01",
+        "action": "Final rule",
+        "published": "2012-11-23",
+        "effective": "2012-12-28",
+        "federal_register": "77 FR 70114 (document 2012-26500)",
+        "access": "employees"
+      }
+    },
+    {
+      "source_id": "AD-2013-03-15",
+      "file": "faa/ad/ad-2013-03-15.pdf",
+      "meta": {
+        "title": "AD 2013-03-15: Cessna Aircraft Company Airplanes",
+        "publisher": "FAA",
+        "doc_type": "airworthiness directive",
+        "ad_number": "2013-03-15",
+        "action": "Final rule",
+        "published": "2013-02-12",
+        "effective": "2013-03-19",
+        "federal_register": "78 FR 9796 (document 2013-02897)",
+        "access": "employees"
+      }
+    },
+    {
+      "source_id": "AD-2013-11-11",
+      "file": "faa/ad/ad-2013-11-11.pdf",
+      "meta": {
+        "title": "AD 2013-11-11: Cessna Aircraft Company Airplanes",
+        "publisher": "FAA",
+        "doc_type": "airworthiness directive",
+        "ad_number": "2013-11-11",
+        "action": "Final rule",
+        "published": "2013-06-27",
+        "effective": "2013-08-01",
+        "federal_register": "78 FR 38552 (document 2013-14995)",
+        "access": "employees"
+      }
+    },
+    {
+      "source_id": "AD-2018-02-04",
+      "file": "faa/ad/ad-2018-02-04.pdf",
+      "meta": {
+        "title": "AD 2018-02-04: Aerospace Welding Minneapolis, Inc., Mufflers",
+        "publisher": "FAA",
+        "doc_type": "airworthiness directive",
+        "ad_number": "2018-02-04",
+        "action": "Final rule",
+        "published": "2018-01-17",
+        "effective": "2018-02-21",
+        "federal_register": "83 FR 2354 (document 2018-00479)",
+        "access": "employees"
+      }
+    },
+    {
+      "source_id": "AD-2019-01-02",
+      "file": "faa/ad/ad-2019-01-02.pdf",
+      "meta": {
+        "title": "AD 2019-01-02: Aspen Avionics, Inc., Evolution Flight Display Units",
+        "publisher": "FAA",
+        "doc_type": "airworthiness directive",
+        "ad_number": "2019-01-02",
+        "action": "Final rule; request for comments",
+        "published": "2019-01-23",
+        "effective": "2019-02-07",
+        "federal_register": "84 FR 209 (document 2019-00104)",
+        "access": "employees"
+      }
+    },
+    {
+      "source_id": "AD-2020-16-08-CORRECTION",
+      "file": "faa/ad/ad-2020-16-08-correction.pdf",
+      "meta": {
+        "title": "AD 2020-16-08 (correction): Aspen Avionics, Inc.",
+        "publisher": "FAA",
+        "doc_type": "airworthiness directive",
+        "ad_number": "2020-16-08",
+        "action": "Final rule; correction",
+        "published": "2020-08-17",
+        "effective": "2020-08-17",
+        "federal_register": "85 FR 49944 (document 2020-17902)",
+        "access": "employees"
+      }
+    },
+    {
+      "source_id": "AD-2020-16-08",
+      "file": "faa/ad/ad-2020-16-08.pdf",
+      "meta": {
+        "title": "AD 2020-16-08: Aspen Avionics, Inc.",
+        "publisher": "FAA",
+        "doc_type": "airworthiness directive",
+        "ad_number": "2020-16-08",
+        "action": "Final rule; request for comments",
+        "published": "2020-07-31",
+        "effective": "2020-08-17",
+        "federal_register": "85 FR 45990 (document 2020-16592)",
+        "access": "employees"
+      }
+    },
+    {
+      "source_id": "AD-97-12-06",
+      "file": "faa/ad/ad-97-12-06.pdf",
+      "meta": {
+        "title": "AD 97-12-06: Cessna Aircraft Company Model 172R Airplanes",
+        "publisher": "FAA",
+        "doc_type": "airworthiness directive",
+        "ad_number": "97-12-06",
+        "action": "Final rule; request for comments",
+        "published": "1997-07-09",
+        "effective": "1997-07-15",
+        "federal_register": "62 FR 36652 (document 97-17729)",
+        "access": "employees"
+      }
+    },
+    {
+      "source_id": "AD-98-01-01",
+      "file": "faa/ad/ad-98-01-01.pdf",
+      "meta": {
+        "title": "AD 98-01-01: Cessna Aircraft Company Models 172R and 182S Airplanes",
+        "publisher": "FAA",
+        "doc_type": "airworthiness directive",
+        "ad_number": "98-01-01",
+        "action": "Final rule; request for comments",
+        "published": "1998-01-23",
+        "effective": "1998-02-02",
+        "federal_register": "63 FR 3455 (document 98-1297)",
+        "access": "employees"
+      }
+    },
+    {
+      "source_id": "AD-98-02-05",
+      "file": "faa/ad/ad-98-02-05.pdf",
+      "meta": {
+        "title": "AD 98-02-05: Cessna Aircraft Company Model 172R Airplanes",
+        "publisher": "FAA",
+        "doc_type": "airworthiness directive",
+        "ad_number": "98-02-05",
+        "action": "Final rule; request for comments",
+        "published": "1998-02-05",
+        "effective": "1998-02-23",
+        "federal_register": "63 FR 5879 (document 98-2774)",
+        "access": "employees"
+      }
+    },
+    {
+      "source_id": "AD-98-13-41",
+      "file": "faa/ad/ad-98-13-41.pdf",
+      "meta": {
+        "title": "AD 98-13-41: Cessna Aircraft Company Model 172R Airplanes",
+        "publisher": "FAA",
+        "doc_type": "airworthiness directive",
+        "ad_number": "98-13-41",
+        "action": "Final rule; request for comments",
+        "published": "1998-06-26",
+        "effective": "1998-07-20",
+        "federal_register": "63 FR 34800 (document 98-17020)",
+        "access": "employees"
+      }
+    },
+    {
+      "source_id": "AD-98-14-07",
+      "file": "faa/ad/ad-98-14-07.pdf",
+      "meta": {
+        "title": "AD 98-14-07: Cessna Aircraft Company Model 172R Airplanes",
+        "publisher": "FAA",
+        "doc_type": "airworthiness directive",
+        "ad_number": "98-14-07",
+        "action": "Final rule",
+        "published": "1998-07-01",
+        "effective": "1998-08-16",
+        "federal_register": "63 FR 35796 (document 98-17414)",
+        "access": "employees"
+      }
+    },
+    {
+      "source_id": "AD-98-25-03",
+      "file": "faa/ad/ad-98-25-03.pdf",
+      "meta": {
+        "title": "AD 98-25-03: Cessna Aircraft Company Model 172R Airplanes",
+        "publisher": "FAA",
+        "doc_type": "airworthiness directive",
+        "ad_number": "98-25-03",
+        "action": "Final rule; request for comments",
+        "published": "1998-12-03",
+        "effective": "1998-12-18",
+        "federal_register": "63 FR 66744 (document 98-32044)",
+        "access": "employees"
+      }
+    },
+    {
+      "source_id": "AD-99-18-14",
+      "file": "faa/ad/ad-99-18-14.pdf",
+      "meta": {
+        "title": "AD 99-18-14: Cessna Aircraft Company Model 172R Airplanes",
+        "publisher": "FAA",
+        "doc_type": "airworthiness directive",
+        "ad_number": "99-18-14",
+        "action": "Final rule; request for comments",
+        "published": "1999-09-01",
+        "effective": "1999-09-27",
+        "federal_register": "64 FR 47658 (document 99-22536)",
+        "access": "employees"
+      }
+    },
+    {
+      "source_id": "CFR-14-145",
+      "file": "faa/cfr/14-cfr-part-145.xml",
+      "meta": {
+        "title": "14 CFR Part 145: Repair Stations",
+        "publisher": "FAA",
+        "doc_type": "regulation",
+        "as_of": "2026-10-15",
+        "access": "employees"
+      }
+    },
+    {
+      "source_id": "CFR-14-39",
+      "file": "faa/cfr/14-cfr-part-39.xml",
+      "meta": {
+        "title": "14 CFR Part 39: Airworthiness Directives",
+        "publisher": "FAA",
+        "doc_type": "regulation",
+        "as_of": "2026-10-15",
+        "access": "employees"
+      }
+    },
+    {
+      "source_id": "CFR-14-43",
+      "file": "faa/cfr/14-cfr-part-43.xml",
+      "meta": {
+        "title": "14 CFR Part 43: Maintenance, Preventive Maintenance, Rebuilding, and Alteration",
+        "publisher": "FAA",
+        "doc_type": "regulation",
+        "as_of": "2026-10-15",
+        "access": "employees"
+      }
+    },
+    {
+      "source_id": "CFR-14-91E",
+      "file": "faa/cfr/14-cfr-part-91-subpart-e.xml",
+      "meta": {
+        "title": "14 CFR Part 91, subpart E: Maintenance, Preventive Maintenance, and Alterations",
+        "publisher": "FAA",
+        "doc_type": "regulation",
+        "as_of": "2026-10-15",
+        "access": "employees"
+      }
+    },
+    {
+      "source_id": "AMTH-CH13",
+      "file": "faa/handbook/faa-h-8083-30a-chapter-13.pdf",
+      "meta": {
+        "title": "FAA-H-8083-30A, Aviation Maintenance Technician Handbook: General, chapter 13 (mechanic privileges and limitations)",
+        "publisher": "FAA",
+        "doc_type": "handbook",
+        "pages": "633-642 of the full PDF",
+        "access": "employees"
+      }
+    },
+    {
+      "source_id": "AMTH-CH2",
+      "file": "faa/handbook/faa-h-8083-30a-chapter-2.pdf",
+      "meta": {
+        "title": "FAA-H-8083-30A, Aviation Maintenance Technician Handbook: General, chapter 2 (regulations, maintenance forms, records, and publications)",
+        "publisher": "FAA",
+        "doc_type": "handbook",
+        "pages": "55-102 of the full PDF",
+        "access": "employees"
+      }
+    },
+    {
+      "source_id": "NACA-TM-579",
+      "file": "faa/naca/naca-tm-579.pdf",
+      "meta": {
+        "title": "NACA Technical Memorandum 579, Structural Details of German Light Airplanes (1930, scanned)",
+        "publisher": "NACA",
+        "doc_type": "technical memorandum",
+        "issued": "1930-08",
+        "access": "employees"
+      }
+    },
+    {
+      "source_id": "TCDS-3A12-R89",
+      "file": "faa/tcds/tcds-3a12-rev89.pdf",
+      "meta": {
+        "title": "Type Certificate Data Sheet 3A12, revision 89 (Textron Aviation 172 series)",
+        "publisher": "FAA",
+        "doc_type": "type certificate data sheet",
+        "revision": "89",
+        "issued": "2026-09-15",
+        "access": "employees"
+      }
+    }
+  ]
+}

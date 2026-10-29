@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+traces/
+.env
+.venv/
+
+# Downloads kept locally and not committed: the full AC 43.13-1B (corpus/ keeps chapter 7),
+# and data used by later parts.
+seed/
