@@ -1,0 +1,78 @@
+{
+ "request": {
+  "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+  "messages": [
+   {
+    "role": "user",
+    "content": "Answer the question using the supplied passages.\nIdentify the source of your answer.\nIf the passages don't establish an answer, say so.\n\nQuestion:\nWhich of our aircraft are affected by AD 2018-02-04?\n\nSource: AD-2005-05-53-R1, section What\n(c) This AD affects the following airplanes that are certificated in any category:\nModel Serial numbers\n172R ....................... 172S ........................ 182T ........................ T182T ...................... 17281234 through 17281236. 172S9774 through 172S9776, 172S9778 through 172S9781, 172S9783,172S9784, 172S9786, 172S9788 through 172S9791, and 172S9793. 18281522 through 18281525, and 18281537. T18208353 through T18208365, T18208367 through T18208369, T18208371, and T18208372.\n\nSource: AD-2007-05-10, section Applicability\n(c) This AD affects the following airplane models and serial numbers that are certificated in any category:\nModel Serial Nos.\n172R ...... 172S ...... 182S ...... 182T ....... T182T .... 206H ...... T206H .... 17280001 through 17281262. 172S8001 through 172S9994. 18280001 through 18280944. 18280945 through 18281701. T18208001 through T18208453. 20608001 through 20608250. T20608001 through T20608570.\n\nSource: AD-2005-13-10, section What\n(c) This AD affects the following airplane models and serial numbers that are certificated in any category:\nModel Serial Nos.\n172R .... 172S .... 182T .... T182T .. 206H .... T206H 17281186 through 17281232. 172S9476 through 172S9689, and 172S9691 through 172S9770. 18281242 through 18281502, 18281506, and 18281507. T18208212 through T18208357. 20608195 through 20608223, 20608225, and 20608226. T20608410 through T20608475, T20608477 through T20608501, T20608503, and T20608506.\n\nSource: AD-2008-05-09, section Applicability\n(c) This AD applies to the following airplane models and serial numbers that are certificated in any category:\nModels Serial Nos.\n(1) 172R ................. (2) 172S ................. (3) 182T ................. (4) T182T ............... (5) 206H ................. (6) T206H ............... 17281211 through 17281356. 172S9621 through 172S10310, 172S10312 through 172S10324, 172S10327 through 172S10332, 172S10334 through 172S10349, 172S10351 through 172S10374, 172S10376 through 172S10386, 172S10388 through 172S10408, 172S10410 through 172S10412, 172S10414 through 172S10417, and 172S10421 through 172S10423. 18281328 through 18281867, 18281869 through 18281871, 18281873 through 18281875, and 18281877. T18208240 through T18208651, T18208654, T18208656 through T18208659, T18208663, T18208664, and T18208667 through T18208668. 20608216 through 20608283. T20608445 through T20608662, T20608664 through T20608671, T20608673, T20608674, T20608676 through T20608681, T20608683 through T20608689, T20608691, T20608692, T20608694 through T20608696, T20608699 through T20608701, T20608703, and T20608704.\n\nSource: AD-2006-17-04, section Applicability\n(c) This AD affects the following airplane models and serial numbers that are certificated in any category:"
+   }
+  ],
+  "max_tokens": 4000,
+  "temperature": 0
+ },
+ "response": {
+  "id": "gen-1793369153-gJ97DA3cACxSHKP6nGEB",
+  "choices": [
+   {
+    "finish_reason": "stop",
+    "index": 0,
+    "logprobs": null,
+    "message": {
+     "content": "The supplied passages do not contain information about AD 2018-02-04. The sources provided are for AD-2005-05-53-R1, AD-2007-05-10, AD-2005-13-10, AD-2008-05-09, and AD-2006-17-04. None of these documents reference AD 2018-02-04 or list the aircraft affected by it.",
+     "refusal": null,
+     "role": "assistant",
+     "annotations": null,
+     "audio": null,
+     "function_call": null,
+     "tool_calls": null,
+     "reasoning": "The user is asking about AD 2018-02-04, but the provided sources are AD-2005-05-53-R1, AD-2007-05-10, AD-2005-13-10, AD-2008-05-09, and AD-2006-17-04. None of these sources mention AD 2018-02-04. The last source (AD-2006-17-04) cuts off without showing the affected aircraft.\n\nI need to inform the user that the passages don't establish an answer for AD 2018-02-04.",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "The user is asking about AD 2018-02-04, but the provided sources are AD-2005-05-53-R1, AD-2007-05-10, AD-2005-13-10, AD-2008-05-09, and AD-2006-17-04. None of these sources mention AD 2018-02-04. The last source (AD-2006-17-04) cuts off without showing the affected aircraft.\n\nI need to inform the user that the passages don't establish an answer for AD 2018-02-04.",
+       "format": "unknown",
+       "index": 0
+      }
+     ]
+    },
+    "native_finish_reason": "stop"
+   }
+  ],
+  "created": 1793369153,
+  "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+  "object": "chat.completion",
+  "metadata": null,
+  "moderation": null,
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+   "completion_tokens": 283,
+   "prompt_tokens": 1638,
+   "total_tokens": 1921,
+   "completion_tokens_details": {
+    "accepted_prediction_tokens": null,
+    "audio_tokens": 0,
+    "reasoning_tokens": 92,
+    "rejected_prediction_tokens": null,
+    "text_tokens": null,
+    "image_tokens": 0
+   },
+   "prompt_tokens_details": {
+    "audio_tokens": 0,
+    "cache_write_tokens": 0,
+    "cached_tokens": 0,
+    "image_tokens": null,
+    "text_tokens": null,
+    "video_tokens": 0
+   },
+   "cost": 0,
+   "is_byok": false,
+   "cost_details": {
+    "upstream_inference_cost": 0,
+    "upstream_inference_prompt_cost": 0,
+    "upstream_inference_completions_cost": 0
+   }
+  },
+  "provider": "Nvidia"
+ }
+}

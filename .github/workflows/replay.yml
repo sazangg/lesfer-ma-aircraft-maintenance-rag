@@ -27,3 +27,4 @@ jobs:
       - run: uv run python -m anfa ask "What engine does the Cessna 172S have, and what is its rated power?"
       - run: uv run python -m anfa ask "What must a maintenance record entry contain?"
       - run: uv run python -m anfa ask "List all airworthiness directives that apply to the Cessna 172S."
+      - run: uv run python -m anfa check

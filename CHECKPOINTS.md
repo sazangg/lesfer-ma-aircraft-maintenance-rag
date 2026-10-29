@@ -57,3 +57,50 @@ The list question fails as the article predicts: five passages can't hold 26 dir
 - Embedding fixtures store each vector as base64 float32. Live, record, and replay all use those numbers, so a recorded run and its replay rank passages identically.
 
 **Stop here if** your questions are single facts, each document is about one thing, and a person reads each answer together with its source. The engine question shows how quickly a collection breaks the second condition.
+
+## part-02: Known questions and a check runner
+
+**Article:** [When a Useful Answer Isn't a Correct Answer](https://lesfer.ma/academy/reliable-ai-company-knowledge/when-a-useful-answer-isnt-a-correct-answer)
+
+**Lands in:** around the pipeline. The pipeline itself doesn't change.
+
+- `cases/cases.json` records 15 questions a mechanic at Anfa asks, with the behavior a correct system shows and the part meant to handle each one. Each expectation was checked against the documents: the 26 directives that name the 172S, the 5 of them that later directives in the collection supersede, the serial ranges, the hours.
+- `python -m anfa check` runs them and labels each result PASS, KNOWN GAP, EARLY PASS, or REGRESSION. It exits with an error on a regression, so CI runs it.
+- `--save-traces` writes the question, retrieved chunks, prompt, and answer for each case to `traces/`.
+- `cases/eval.json` holds 98 more questions for measuring, from Part 7 on: applicability, records, calculations, lists, regulations, identifiers, access, questions the documents can't answer, records that disagree, and superseded documents. 60 are for tuning and 38 are held out. `scripts/build_eval.py` computes every fleet answer from the same history the company's records are written from, so no answer is typed by hand. The 15 cases find a gap; the 98 questions measure how often it shows.
+
+Most checks look at the evidence that reached the model, not at the answer's wording. Text is compared ignoring case, spacing, and most punctuation, so a check still holds when Part 3 renders a table differently.
+
+**What the runner measured:**
+
+```
+PASS                 C01-record-entry           all 1 supplied; 'A description (...) of work performed' supplied
+PASS                 C02-price-access           none supplied
+KNOWN GAP -> part-03 C03-torque-row             '8-36 12-15 7-9 20 12' not supplied
+KNOWN GAP -> part-03 C04-slide-notes            'applied once' not supplied
+KNOWN GAP -> part-03 C05-scanned-signature      'Approved for return to service: A. Tazi' not supplied
+KNOWN GAP -> part-04 C06-engine-model-context   ['172S', 'Rated 180 Horsepower'] not in the same passage
+KNOWN GAP -> part-05 C07-exact-ad-number        first is AD-2013-11-11
+EARLY PASS           C08-part-number            all 1 supplied
+KNOWN GAP -> part-06 C09-engine-only-172S       a passage with 'IO-360-L2A, Rated' doesn't name '172S'
+KNOWN GAP -> part-06 C10-which-aircraft         status answered
+KNOWN GAP -> part-09 C11-every-ad               missing 17 of 21; completeness not guaranteed
+KNOWN GAP -> part-10 C12-switch-hours           answer lacks ['39.4']
+KNOWN GAP -> part-11 C13-muffler-fleet          answer lacks ['CN-TFA', 'CN-TFF']
+KNOWN GAP -> part-12 C14-records-trail          missing 1 of 3: ['AD-2013-11-11']
+KNOWN GAP -> part-13 C15-revision-diff          missing 1 of 2: ['AC-43-9C']; 'Overview of FAA Form 8130-3' not supplied
+
+3 passing, 12 known gaps, 0 regressions
+```
+
+**What the traces show:**
+- **C10** is the article's lesson on real documents. "Does the oil pressure switch AD apply to our 172S?" retrieves AD 2000-04-01, the directive that AD 2013-11-11 superseded in 2013. The answer gives that old directive's serial numbers with a confident citation. It doesn't ask which aircraft, and it doesn't know the directive is superseded. Useful-looking, and wrong.
+- **C07:** asked about AD 2000-04-01 by number, search ranks AD 2013-11-11 first, because the newer directive quotes the older one's number.
+- **C08** passes early: vector search found part number 2013142-18. The article says vector search can't see exact codes. That's not a rule. The code is rare and its directive's text repeats it, so here the search found it. C07 shows the same kind of search failing on an AD number.
+- **C12** and **C14:** the fleet register's sheets are parsed as separate tables, so the aircraft's current hours and the part's installation hours land in different chunks. The model sees the installation hours and says, correctly, that it can't compute without the current hours. An honest "I can't", and still not an answer.
+- **C04:** the model reaches roughly the right answer, that the 50-hour allowance belonged to 2013, from the directive's own paragraph (g)(6). The speaker notes, which say it plainly, never arrive. The check fails on evidence while the answer is useful. That's the point of checking evidence: this time the model reasoned well, next time it may not.
+- **C02:** the price list never reaches a mechanic's question, because the access filter runs inside the search query. The model says the passages hold no price.
+- **C13:** asked which aircraft AD 2018-02-04 affects, search returns five other directives' applicability paragraphs and not that one. The model says, correctly, that the passages don't mention AD 2018-02-04. Like C07, an exact number that vector search treats as one more similar-looking code.
+- **The work orders compete.** Questions about CN-TFE's oil pressure switch (C05, C12, C14) retrieve WO-2025-0095, which replaced CN-TFD's switch: same part, same directive, same wording, wrong aircraft. With 194 work orders that differ in a date, a registration, and a finding, similar text is the normal case.
+
+**Not a stopping point.** Keep this case file and runner whatever you build next. Every later checkpoint is judged by it.

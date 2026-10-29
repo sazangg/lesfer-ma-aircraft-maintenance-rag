@@ -1,0 +1,1862 @@
+{
+  "about": "Build the evaluation set: about a hundred questions with reference answers and the evidence they need. See scripts/build_eval.py.",
+  "as_of": "2026-10-26",
+  "questions": [
+    {
+      "id": "E001",
+      "split": "tune",
+      "category": "applicability",
+      "question": "Does AD 2012-02-02 apply to CN-TFA?",
+      "reference_answer": "No. CN-TFA is a 172S, serial number 172S9488. Serial number 172S9488 is below group 2 (from 172S9491).",
+      "evidence": [
+        [
+          "AD-2012-02-02"
+        ],
+        [
+          "FLEET-2026-10",
+          "ADREC-CN-TFA"
+        ]
+      ],
+      "expected_status": "answered",
+      "verdict": "no"
+    },
+    {
+      "id": "E002",
+      "split": "holdout",
+      "category": "applicability",
+      "question": "Does AD 2012-02-02 apply to CN-TFB?",
+      "reference_answer": "Yes. CN-TFB is a 172S, serial number 172S10237. Serial number 172S10237 in group 2 (172S9491 to 172S10489).",
+      "evidence": [
+        [
+          "AD-2012-02-02"
+        ],
+        [
+          "FLEET-2026-10",
+          "ADREC-CN-TFB"
+        ]
+      ],
+      "expected_status": "answered",
+      "verdict": "yes"
+    },
+    {
+      "id": "E003",
+      "split": "tune",
+      "category": "applicability",
+      "question": "Does AD 2004-15-18 apply to CN-TFD?",
+      "reference_answer": "No. CN-TFD is a 172R, serial number 17281201. KAP 140 P/N 065-00176-7702 installed, but serial number 17281201 is above the 172R range (to 17281130).",
+      "evidence": [
+        [
+          "AD-2004-15-18"
+        ],
+        [
+          "FLEET-2026-10",
+          "ADREC-CN-TFD"
+        ]
+      ],
+      "expected_status": "answered",
+      "verdict": "no"
+    },
+    {
+      "id": "E004",
+      "split": "holdout",
+      "category": "applicability",
+      "question": "Does AD 2004-15-18 apply to CN-TFE?",
+      "reference_answer": "Yes. CN-TFE is a 172R, serial number 17280744. KAP 140 P/N 065-00176-5402, serial number 17280744 in range.",
+      "evidence": [
+        [
+          "AD-2004-15-18"
+        ],
+        [
+          "FLEET-2026-10",
+          "ADREC-CN-TFE"
+        ]
+      ],
+      "expected_status": "answered",
+      "verdict": "yes"
+    },
+    {
+      "id": "E005",
+      "split": "tune",
+      "category": "applicability",
+      "question": "Does AD 2013-11-11 apply to CN-TFC?",
+      "reference_answer": "No. CN-TFC is a 172S, serial number 172S11290. Serial number 172S11290 is above the 172S range (to 172S11256). Anfa applies the same 3,000-hour switch limit anyway (procedures manual 3.2). CN-TFC's AD compliance record wrongly marks the AD as applicable.",
+      "evidence": [
+        [
+          "AD-2013-11-11"
+        ],
+        [
+          "FLEET-2026-10",
+          "ADREC-CN-TFC"
+        ]
+      ],
+      "expected_status": "answered",
+      "verdict": "no"
+    },
+    {
+      "id": "E006",
+      "split": "tune",
+      "category": "applicability",
+      "question": "Does AD 2013-11-11 apply to CN-TFD?",
+      "reference_answer": "Yes. CN-TFD is a 172R, serial number 17281201. Serial number in range.",
+      "evidence": [
+        [
+          "AD-2013-11-11"
+        ],
+        [
+          "FLEET-2026-10",
+          "ADREC-CN-TFD"
+        ]
+      ],
+      "expected_status": "answered",
+      "verdict": "yes"
+    },
+    {
+      "id": "E007",
+      "split": "holdout",
+      "category": "applicability",
+      "question": "Does AD 2009-24-10 apply to CN-TFG?",
+      "reference_answer": "No. CN-TFG is a 172N, serial number 17272851. Engine is a TAE 125-02-99, not a TAE 125-01.",
+      "evidence": [
+        [
+          "AD-2009-24-10"
+        ],
+        [
+          "FLEET-2026-10",
+          "ADREC-CN-TFG"
+        ]
+      ],
+      "expected_status": "answered",
+      "verdict": "no"
+    },
+    {
+      "id": "E008",
+      "split": "tune",
+      "category": "applicability",
+      "question": "Does AD 2011-06-02 apply to CN-TFG?",
+      "reference_answer": "Yes. CN-TFG is a 172N, serial number 17272851. 172N modified by STC SA01303WI, TAE 125-02-99.",
+      "evidence": [
+        [
+          "AD-2011-06-02"
+        ],
+        [
+          "FLEET-2026-10",
+          "ADREC-CN-TFG"
+        ]
+      ],
+      "expected_status": "answered",
+      "verdict": "yes"
+    },
+    {
+      "id": "E009",
+      "split": "holdout",
+      "category": "applicability",
+      "question": "Does AD 2020-16-08 apply to CN-TFE?",
+      "reference_answer": "Yes. CN-TFE is a 172R, serial number 17280744. EFD1000 PFD P/N 910-00001-011, software 2.10.1, no standby attitude indicator.",
+      "evidence": [
+        [
+          "AD-2020-16-08"
+        ],
+        [
+          "FLEET-2026-10",
+          "ADREC-CN-TFE"
+        ]
+      ],
+      "expected_status": "answered",
+      "verdict": "yes"
+    },
+    {
+      "id": "E010",
+      "split": "tune",
+      "category": "applicability",
+      "question": "Does AD 2019-01-02 apply to CN-TFE?",
+      "reference_answer": "No. CN-TFE is a 172R, serial number 17280744. Aspen EFD1000 software 2.10.1, not 2.9.",
+      "evidence": [
+        [
+          "AD-2019-01-02"
+        ],
+        [
+          "FLEET-2026-10",
+          "ADREC-CN-TFE"
+        ]
+      ],
+      "expected_status": "answered",
+      "verdict": "no"
+    },
+    {
+      "id": "E011",
+      "split": "tune",
+      "category": "applicability",
+      "question": "Does AD 2007-08-03 apply to CN-TFB?",
+      "reference_answer": "Yes. CN-TFB is a 172S, serial number 172S10237. Serial number 172S10237 in range (172S9809 to 172S10349).",
+      "evidence": [
+        [
+          "AD-2007-08-03"
+        ],
+        [
+          "FLEET-2026-10",
+          "ADREC-CN-TFB"
+        ]
+      ],
+      "expected_status": "answered",
+      "verdict": "yes"
+    },
+    {
+      "id": "E012",
+      "split": "holdout",
+      "category": "applicability",
+      "question": "Does AD 2007-08-03 apply to CN-TFD?",
+      "reference_answer": "No. CN-TFD is a 172R, serial number 17281201. Serial number outside the listed 172R and 172S ranges.",
+      "evidence": [
+        [
+          "AD-2007-08-03"
+        ],
+        [
+          "FLEET-2026-10",
+          "ADREC-CN-TFD"
+        ]
+      ],
+      "expected_status": "answered",
+      "verdict": "no"
+    },
+    {
+      "id": "E013",
+      "split": "tune",
+      "category": "applicability",
+      "question": "Does AD 2005-13-10 apply to CN-TFA?",
+      "reference_answer": "Yes. CN-TFA is a 172S, serial number 172S9488. Serial number 172S9488 in range.",
+      "evidence": [
+        [
+          "AD-2005-13-10"
+        ],
+        [
+          "FLEET-2026-10",
+          "ADREC-CN-TFA"
+        ]
+      ],
+      "expected_status": "answered",
+      "verdict": "yes"
+    },
+    {
+      "id": "E014",
+      "split": "holdout",
+      "category": "applicability",
+      "question": "Does AD 2012-22-01 apply to CN-TFA?",
+      "reference_answer": "Yes. CN-TFA is a 172S, serial number 172S9488. Serial number 172S9488 in range, SB04-28-03 and kit MK172-28-01 incorporated in 2005.",
+      "evidence": [
+        [
+          "AD-2012-22-01"
+        ],
+        [
+          "FLEET-2026-10",
+          "ADREC-CN-TFA"
+        ]
+      ],
+      "expected_status": "answered",
+      "verdict": "yes"
+    },
+    {
+      "id": "E015",
+      "split": "tune",
+      "category": "applicability",
+      "question": "Does AD 2012-22-01 apply to CN-TFE?",
+      "reference_answer": "No. CN-TFE is a 172R, serial number 17280744. Serial number in range, but SB04-28-03 and kit MK172-28-01 not incorporated.",
+      "evidence": [
+        [
+          "AD-2012-22-01"
+        ],
+        [
+          "FLEET-2026-10",
+          "ADREC-CN-TFE"
+        ]
+      ],
+      "expected_status": "answered",
+      "verdict": "no"
+    },
+    {
+      "id": "E016",
+      "split": "tune",
+      "category": "applicability",
+      "question": "Does AD 2018-02-04 apply to CN-TFC?",
+      "reference_answer": "No. CN-TFC is a 172S, serial number 172S11290. Muffler A1754001-23 S/N 34729 is not in figure 1 (range 34721 to 34728).",
+      "evidence": [
+        [
+          "AD-2018-02-04"
+        ],
+        [
+          "FLEET-2026-10",
+          "ADREC-CN-TFC"
+        ]
+      ],
+      "expected_status": "answered",
+      "verdict": "no"
+    },
+    {
+      "id": "E017",
+      "split": "holdout",
+      "category": "applicability",
+      "question": "Does AD 2008-05-09 apply to CN-TFD?",
+      "reference_answer": "No. CN-TFD is a 172R, serial number 17281201. Serial number 17281201 is below the 172R range (from 17281211).",
+      "evidence": [
+        [
+          "AD-2008-05-09"
+        ],
+        [
+          "FLEET-2026-10",
+          "ADREC-CN-TFD"
+        ]
+      ],
+      "expected_status": "answered",
+      "verdict": "no"
+    },
+    {
+      "id": "E018",
+      "split": "tune",
+      "category": "applicability",
+      "question": "Does AD 2008-26-10 apply to CN-TFF?",
+      "reference_answer": "No. CN-TFF is a 172S, serial number 172S11845. Delivered after 31 March 2008; no replacement P/N 2013142-18 installed.",
+      "evidence": [
+        [
+          "AD-2008-26-10"
+        ],
+        [
+          "FLEET-2026-10",
+          "ADREC-CN-TFF"
+        ]
+      ],
+      "expected_status": "answered",
+      "verdict": "no"
+    },
+    {
+      "id": "E019",
+      "split": "tune",
+      "category": "records",
+      "question": "When did CN-TFA last have a 100-hour or annual inspection, and at what airframe hours?",
+      "reference_answer": "100-hour inspection on 26 September 2026, at 10,051.3 airframe hours, work order WO-2026-0366.",
+      "evidence": [
+        [
+          "WO-2026-0366",
+          "LOG-CN-TFA"
+        ]
+      ],
+      "expected_status": "answered",
+      "must_include": [
+        "10,051.3"
+      ]
+    },
+    {
+      "id": "E020",
+      "split": "holdout",
+      "category": "records",
+      "question": "When did CN-TFC last have a 100-hour or annual inspection, and at what airframe hours?",
+      "reference_answer": "Annual inspection on 13 September 2026, at 6,138.8 airframe hours, work order WO-2026-0350.",
+      "evidence": [
+        [
+          "WO-2026-0350",
+          "LOG-CN-TFC"
+        ]
+      ],
+      "expected_status": "answered",
+      "must_include": [
+        "6,138.8"
+      ]
+    },
+    {
+      "id": "E021",
+      "split": "tune",
+      "category": "records",
+      "question": "When did CN-TFE last have a 100-hour or annual inspection, and at what airframe hours?",
+      "reference_answer": "100-hour inspection on 26 September 2026, at 13,475.1 airframe hours, work order WO-2026-0367.",
+      "evidence": [
+        [
+          "WO-2026-0367",
+          "LOG-CN-TFE"
+        ]
+      ],
+      "expected_status": "answered",
+      "must_include": [
+        "13,475.1"
+      ]
+    },
+    {
+      "id": "E022",
+      "split": "holdout",
+      "category": "records",
+      "question": "When did CN-TFG last have a 100-hour or annual inspection, and at what airframe hours?",
+      "reference_answer": "100-hour inspection on 30 September 2026, at 14,923.1 airframe hours, work order WO-2026-0371.",
+      "evidence": [
+        [
+          "WO-2026-0371",
+          "LOG-CN-TFG"
+        ]
+      ],
+      "expected_status": "answered",
+      "must_include": [
+        "14,923.1"
+      ]
+    },
+    {
+      "id": "E023",
+      "split": "tune",
+      "category": "records",
+      "question": "Who signed the return to service after CN-TFA's engine overhaul, and when was it?",
+      "reference_answer": "A. Tazi (licence MA-B1-0457), on 23 April 2025, work order WO-2025-0172, at 8,500.0 airframe hours.",
+      "evidence": [
+        [
+          "WO-2025-0172",
+          "LOG-CN-TFA"
+        ]
+      ],
+      "expected_status": "answered",
+      "must_include": [
+        "A. Tazi"
+      ]
+    },
+    {
+      "id": "E024",
+      "split": "tune",
+      "category": "records",
+      "question": "Who signed the return to service after CN-TFD's engine overhaul, and when was it?",
+      "reference_answer": "R. El Fassi (licence MA-B1-0618), on 25 August 2025, work order WO-2025-0359, at 10,500.0 airframe hours.",
+      "evidence": [
+        [
+          "WO-2025-0359",
+          "LOG-CN-TFD"
+        ]
+      ],
+      "expected_status": "answered",
+      "must_include": [
+        "R. El Fassi"
+      ]
+    },
+    {
+      "id": "E025",
+      "split": "holdout",
+      "category": "records",
+      "question": "Who signed the return to service after CN-TFB's engine overhaul, and when was it?",
+      "reference_answer": "R. El Fassi (licence MA-B1-0618), on 17 March 2026, work order WO-2026-0103, at 8,000.0 airframe hours.",
+      "evidence": [
+        [
+          "WO-2026-0103",
+          "LOG-CN-TFB"
+        ]
+      ],
+      "expected_status": "answered",
+      "must_include": [
+        "R. El Fassi"
+      ]
+    },
+    {
+      "id": "E026",
+      "split": "tune",
+      "category": "records",
+      "question": "What was done about CN-TFC's noisy starter?",
+      "reference_answer": "Work order WO-2025-0022, 14 January 2025: Replaced starter with exchange unit. Ground run satisfactory.",
+      "evidence": [
+        [
+          "WO-2025-0022",
+          "LOG-CN-TFC"
+        ]
+      ],
+      "expected_status": "answered",
+      "must_include": [
+        "WO-2025-0022"
+      ]
+    },
+    {
+      "id": "E027",
+      "split": "holdout",
+      "category": "records",
+      "question": "Which work order fixed CN-TFE's pitot heat, and what was replaced?",
+      "reference_answer": "Work order WO-2025-0264, 24 June 2025: Pitot heater element open circuit. Replaced pitot tube assembly. Pitot heat check satisfactory.",
+      "evidence": [
+        [
+          "WO-2025-0264",
+          "LOG-CN-TFE"
+        ]
+      ],
+      "expected_status": "answered",
+      "must_include": [
+        "WO-2025-0264"
+      ]
+    },
+    {
+      "id": "E028",
+      "split": "tune",
+      "category": "records",
+      "question": "Was the bird strike damage on CN-TFB repaired?",
+      "reference_answer": "Work order WO-2025-0086, 25 February 2025: Inspected leading edge: dent 30 mm across, no cracks, within the structural repair manual's limits. No repair required.",
+      "evidence": [
+        [
+          "WO-2025-0086",
+          "LOG-CN-TFB"
+        ]
+      ],
+      "expected_status": "answered",
+      "must_include": [
+        "WO-2025-0086"
+      ]
+    },
+    {
+      "id": "E029",
+      "split": "tune",
+      "category": "records",
+      "question": "What caused the FADEC caution on CN-TFG in November 2024?",
+      "reference_answer": "Work order WO-2024-0482, 5 November 2024: Downloaded FADEC data: intermittent signal from rail pressure sensor B. Cleaned and secured connector. FADEC test passed. Data sent to Technify.",
+      "evidence": [
+        [
+          "WO-2024-0482",
+          "LOG-CN-TFG"
+        ]
+      ],
+      "expected_status": "answered",
+      "must_include": [
+        "WO-2024-0482"
+      ]
+    },
+    {
+      "id": "E030",
+      "split": "holdout",
+      "category": "records",
+      "question": "Was anything found after CN-TFA's hard landing?",
+      "reference_answer": "Work order WO-2026-0265, 14 July 2026: Hard landing inspection per maintenance manual: main gear legs, attach fittings, firewall, and nose gear checked. No damage found.",
+      "evidence": [
+        [
+          "WO-2026-0265",
+          "LOG-CN-TFA"
+        ]
+      ],
+      "expected_status": "answered",
+      "must_include": [
+        "WO-2026-0265"
+      ]
+    },
+    {
+      "id": "E031",
+      "split": "tune",
+      "category": "records",
+      "question": "Why was there water in CN-TFD's right tank?",
+      "reference_answer": "Work order WO-2026-0341, 8 September 2026: Right fuel cap gasket cracked. Replaced gasket; drained sumps until clear.",
+      "evidence": [
+        [
+          "WO-2026-0341",
+          "LOG-CN-TFD"
+        ]
+      ],
+      "expected_status": "answered",
+      "must_include": [
+        "WO-2026-0341"
+      ]
+    },
+    {
+      "id": "E032",
+      "split": "holdout",
+      "category": "records",
+      "question": "How many hours did CN-TFD's previous oil pressure switch have when it was removed?",
+      "reference_answer": "2,951.3 hours since installation, removed on 3 March 2025 (work order WO-2025-0095).",
+      "evidence": [
+        [
+          "WO-2025-0095",
+          "LOG-CN-TFD"
+        ]
+      ],
+      "expected_status": "answered",
+      "must_include": [
+        "2,951.3"
+      ]
+    },
+    {
+      "id": "E033",
+      "split": "tune",
+      "category": "records",
+      "question": "Who approved CN-TFE's oil pressure switch replacement in 2021?",
+      "reference_answer": "A. Tazi, on the paper work order WO-2021-0544 of 30 August 2021.",
+      "evidence": [
+        [
+          "WO-SCAN"
+        ]
+      ],
+      "expected_status": "answered",
+      "must_include": [
+        "Tazi"
+      ]
+    },
+    {
+      "id": "E034",
+      "split": "tune",
+      "category": "records",
+      "question": "When were CN-TFA's and CN-TFF's mufflers replaced under AD 2018-02-04?",
+      "reference_answer": "CN-TFA: 12 March 2018, after an inspection on 22 February 2018 found no leak, with A1754001-25 S/N 39274. CN-TFF: 23 February 2018, replaced in lieu of the inspection with A1754001-25 S/N 39281.",
+      "evidence": [
+        [
+          "ADREC-CN-TFA"
+        ],
+        [
+          "ADREC-CN-TFF"
+        ]
+      ],
+      "expected_status": "answered",
+      "must_include": [
+        "39274",
+        "39281"
+      ]
+    },
+    {
+      "id": "E035",
+      "split": "tune",
+      "category": "calculation",
+      "question": "How many hours remain before CN-TFA's engine oil pressure switch reaches its limit?",
+      "reference_answer": "69.8 hours: the 3,000-hour limit, from AD 2013-11-11, minus 2,930.2 hours used (10,140.6 now minus 7,210.4 at installation).",
+      "evidence": [
+        [
+          "FLEET-2026-10"
+        ]
+      ],
+      "expected_status": "answered",
+      "must_include": [
+        "69.8"
+      ]
+    },
+    {
+      "id": "E036",
+      "split": "holdout",
+      "category": "calculation",
+      "question": "How many hours remain before CN-TFB's engine oil pressure switch reaches its limit?",
+      "reference_answer": "424.9 hours: the 3,000-hour limit, from AD 2013-11-11, minus 2,575.1 hours used (8,455.1 now minus 5,880.0 at installation).",
+      "evidence": [
+        [
+          "FLEET-2026-10"
+        ]
+      ],
+      "expected_status": "answered",
+      "must_include": [
+        "424.9"
+      ]
+    },
+    {
+      "id": "E037",
+      "split": "tune",
+      "category": "calculation",
+      "question": "How many hours remain before CN-TFC's engine oil pressure switch reaches its limit?",
+      "reference_answer": "140.4 hours: the 3,000-hour limit, from the procedures manual (3.2), since the serial number is outside AD 2013-11-11, minus 2,859.6 hours used (6,210.3 now minus 3,350.7 at installation).",
+      "evidence": [
+        [
+          "FLEET-2026-10"
+        ],
+        [
+          "PROC-R7"
+        ]
+      ],
+      "expected_status": "answered",
+      "must_include": [
+        "140.4"
+      ]
+    },
+    {
+      "id": "E038",
+      "split": "holdout",
+      "category": "calculation",
+      "question": "How many hours remain before CN-TFD's engine oil pressure switch reaches its limit?",
+      "reference_answer": "1,069.8 hours: the 3,000-hour limit, from AD 2013-11-11, minus 1,930.2 hours used (11,870.4 now minus 9,940.2 at installation).",
+      "evidence": [
+        [
+          "FLEET-2026-10"
+        ]
+      ],
+      "expected_status": "answered",
+      "must_include": [
+        "1,069.8"
+      ]
+    },
+    {
+      "id": "E039",
+      "split": "tune",
+      "category": "calculation",
+      "question": "How many hours remain before CN-TFF's engine oil pressure switch reaches its limit?",
+      "reference_answer": "1,430.5 hours: the 3,000-hour limit, from the procedures manual (3.2), since the serial number is outside AD 2013-11-11, minus 1,569.5 hours used (3,980.0 now minus 2,410.5 at installation).",
+      "evidence": [
+        [
+          "FLEET-2026-10"
+        ],
+        [
+          "PROC-R7"
+        ]
+      ],
+      "expected_status": "answered",
+      "must_include": [
+        "1,430.5"
+      ]
+    },
+    {
+      "id": "E040",
+      "split": "tune",
+      "category": "calculation",
+      "question": "At what airframe hours is CN-TFB's next 100-hour inspection due?",
+      "reference_answer": "8,481.6 hours: the last inspection (100-hour, WO-2026-0360, 20 September 2026) was at 8,381.6 hours. 14 CFR 91.409(b) allows up to 10 hours more only while en route to the place of inspection.",
+      "evidence": [
+        [
+          "WO-2026-0360",
+          "LOG-CN-TFB"
+        ]
+      ],
+      "expected_status": "answered",
+      "must_include": [
+        "8,481.6"
+      ]
+    },
+    {
+      "id": "E041",
+      "split": "holdout",
+      "category": "calculation",
+      "question": "At what airframe hours is CN-TFD's next 100-hour inspection due?",
+      "reference_answer": "11,890.2 hours: the last inspection (100-hour, WO-2026-0374, 1 October 2026) was at 11,790.2 hours. 14 CFR 91.409(b) allows up to 10 hours more only while en route to the place of inspection.",
+      "evidence": [
+        [
+          "WO-2026-0374",
+          "LOG-CN-TFD"
+        ]
+      ],
+      "expected_status": "answered",
+      "must_include": [
+        "11,890.2"
+      ]
+    },
+    {
+      "id": "E042",
+      "split": "tune",
+      "category": "calculation",
+      "question": "At what airframe hours is CN-TFF's next 100-hour inspection due?",
+      "reference_answer": "4,017.7 hours: the last inspection (100-hour, WO-2026-0324, 25 August 2026) was at 3,917.7 hours. 14 CFR 91.409(b) allows up to 10 hours more only while en route to the place of inspection.",
+      "evidence": [
+        [
+          "WO-2026-0324",
+          "LOG-CN-TFF"
+        ]
+      ],
+      "expected_status": "answered",
+      "must_include": [
+        "4,017.7"
+      ]
+    },
+    {
+      "id": "E043",
+      "split": "holdout",
+      "category": "calculation",
+      "question": "When is CN-TFG's next FADEC backup battery replacement due?",
+      "reference_answer": "By 31 August 2027: AD 2011-06-02 requires replacement every 12 calendar months, and the last one was on 11 August 2026 (WO-2026-0304).",
+      "evidence": [
+        [
+          "WO-2026-0304",
+          "LOG-CN-TFG",
+          "ADREC-CN-TFG"
+        ]
+      ],
+      "expected_status": "answered",
+      "must_include": [
+        "2027"
+      ]
+    },
+    {
+      "id": "E044",
+      "split": "tune",
+      "category": "calculation",
+      "question": "When are CN-TFG's altimeter, static system, and transponder tests next due?",
+      "reference_answer": "By 31 October 2026: 14 CFR 91.411 and 91.413 require them within the preceding 24 calendar months, and they were last done on 8 October 2024 (WO-2024-0439). That is this week.",
+      "evidence": [
+        [
+          "WO-2024-0439",
+          "LOG-CN-TFG"
+        ]
+      ],
+      "expected_status": "answered",
+      "must_include": [
+        "October 2026"
+      ]
+    },
+    {
+      "id": "E045",
+      "split": "tune",
+      "category": "calculation",
+      "question": "When are CN-TFE's altimeter, static system, and transponder tests next due?",
+      "reference_answer": "By 31 December 2026: 14 CFR 91.411 and 91.413 require them within the preceding 24 calendar months, and they were last done on 3 December 2024 (WO-2024-0525).",
+      "evidence": [
+        [
+          "WO-2024-0525",
+          "LOG-CN-TFE"
+        ]
+      ],
+      "expected_status": "answered",
+      "must_include": [
+        "December 2026"
+      ]
+    },
+    {
+      "id": "E046",
+      "split": "holdout",
+      "category": "calculation",
+      "question": "When are CN-TFC's altimeter, static system, and transponder tests next due?",
+      "reference_answer": "By 31 March 2027: 14 CFR 91.411 and 91.413 require them within the preceding 24 calendar months, and they were last done on 18 March 2025 (WO-2025-0117).",
+      "evidence": [
+        [
+          "WO-2025-0117",
+          "LOG-CN-TFC"
+        ]
+      ],
+      "expected_status": "answered",
+      "must_include": [
+        "March 2027"
+      ]
+    },
+    {
+      "id": "E047",
+      "split": "tune",
+      "category": "calculation",
+      "question": "When does CN-TFE's ELT battery need replacing?",
+      "reference_answer": "By 25 November 2026: installed 25 November 2020, with a 6-year limit from the ELT manufacturer.",
+      "evidence": [
+        [
+          "FLEET-2026-10"
+        ]
+      ],
+      "expected_status": "answered",
+      "must_include": [
+        "25 November 2026"
+      ]
+    },
+    {
+      "id": "E048",
+      "split": "holdout",
+      "category": "calculation",
+      "question": "When does CN-TFA's ELT battery need replacing?",
+      "reference_answer": "By 19 January 2027: installed 19 January 2021, with a 6-year limit from the ELT manufacturer.",
+      "evidence": [
+        [
+          "FLEET-2026-10"
+        ]
+      ],
+      "expected_status": "answered",
+      "must_include": [
+        "19 January 2027"
+      ]
+    },
+    {
+      "id": "E049",
+      "split": "tune",
+      "category": "calculation",
+      "question": "When is CN-TFE's next annual inspection due?",
+      "reference_answer": "By 30 November 2026: the last annual was on 21 November 2025 (WO-2025-0489), and 14 CFR 91.409(a) requires one within the preceding 12 calendar months.",
+      "evidence": [
+        [
+          "WO-2025-0489",
+          "LOG-CN-TFE"
+        ]
+      ],
+      "expected_status": "answered",
+      "must_include": [
+        "30 November 2026"
+      ]
+    },
+    {
+      "id": "E050",
+      "split": "tune",
+      "category": "calculation",
+      "question": "How many hours has CN-TFD's engine run since its overhaul?",
+      "reference_answer": "1,370.4 hours: it was overhauled at 10,500.0 airframe hours on 25 August 2025, and the airframe is at 11,870.4 hours.",
+      "evidence": [
+        [
+          "FLEET-2026-10"
+        ]
+      ],
+      "expected_status": "answered",
+      "must_include": [
+        "1,370.4"
+      ]
+    },
+    {
+      "id": "E051",
+      "split": "tune",
+      "category": "aggregation",
+      "question": "Which of our aircraft have a KAP 140 autopilot?",
+      "reference_answer": "CN-TFD and CN-TFE.",
+      "evidence": [
+        [
+          "FLEET-2026-10"
+        ]
+      ],
+      "expected_status": "answered",
+      "must_include": [
+        "CN-TFD",
+        "CN-TFE"
+      ]
+    },
+    {
+      "id": "E052",
+      "split": "holdout",
+      "category": "aggregation",
+      "question": "Which aircraft have a Garmin GTX 330 transponder?",
+      "reference_answer": "CN-TFA, CN-TFD, CN-TFG.",
+      "evidence": [
+        [
+          "FLEET-2026-10"
+        ]
+      ],
+      "expected_status": "answered",
+      "must_include": [
+        "CN-TFA",
+        "CN-TFD",
+        "CN-TFG"
+      ]
+    },
+    {
+      "id": "E053",
+      "split": "tune",
+      "category": "aggregation",
+      "question": "Which aircraft are based in Beni Mellal?",
+      "reference_answer": "CN-TFC, CN-TFF, CN-TFG.",
+      "evidence": [
+        [
+          "FLEET-2026-10"
+        ]
+      ],
+      "expected_status": "answered",
+      "must_include": [
+        "CN-TFC",
+        "CN-TFF",
+        "CN-TFG"
+      ]
+    },
+    {
+      "id": "E054",
+      "split": "holdout",
+      "category": "aggregation",
+      "question": "Which aircraft had an engine overhaul in 2025?",
+      "reference_answer": "CN-TFA (23 April 2025, WO-2025-0172); CN-TFG (24 August 2025, WO-2025-0356); CN-TFD (25 August 2025, WO-2025-0359).",
+      "evidence": [
+        [
+          "WO-2025-0172",
+          "LOG-CN-TFA"
+        ],
+        [
+          "WO-2025-0356",
+          "LOG-CN-TFG"
+        ],
+        [
+          "WO-2025-0359",
+          "LOG-CN-TFD"
+        ]
+      ],
+      "expected_status": "answered",
+      "must_include": [
+        "CN-TFA",
+        "CN-TFG",
+        "CN-TFD"
+      ]
+    },
+    {
+      "id": "E055",
+      "split": "tune",
+      "category": "aggregation",
+      "question": "How many 100-hour and annual inspections did CN-TFD have in 2025?",
+      "reference_answer": "12: WO-2025-0034, WO-2025-0094, WO-2025-0142, WO-2025-0185, WO-2025-0227, WO-2025-0273, WO-2025-0316, WO-2025-0358, WO-2025-0399, WO-2025-0442, WO-2025-0488, WO-2025-0532.",
+      "evidence": [
+        [
+          "WO-2025-0034",
+          "LOG-CN-TFD"
+        ],
+        [
+          "WO-2025-0094",
+          "LOG-CN-TFD"
+        ],
+        [
+          "WO-2025-0142",
+          "LOG-CN-TFD"
+        ],
+        [
+          "WO-2025-0185",
+          "LOG-CN-TFD"
+        ],
+        [
+          "WO-2025-0227",
+          "LOG-CN-TFD"
+        ],
+        [
+          "WO-2025-0273",
+          "LOG-CN-TFD"
+        ],
+        [
+          "WO-2025-0316",
+          "LOG-CN-TFD"
+        ],
+        [
+          "WO-2025-0358",
+          "LOG-CN-TFD"
+        ],
+        [
+          "WO-2025-0399",
+          "LOG-CN-TFD"
+        ],
+        [
+          "WO-2025-0442",
+          "LOG-CN-TFD"
+        ],
+        [
+          "WO-2025-0488",
+          "LOG-CN-TFD"
+        ],
+        [
+          "WO-2025-0532",
+          "LOG-CN-TFD"
+        ]
+      ],
+      "expected_status": "answered",
+      "must_include": [
+        "12"
+      ]
+    },
+    {
+      "id": "E056",
+      "split": "tune",
+      "category": "aggregation",
+      "question": "List the airworthiness directives that apply to CN-TFB.",
+      "reference_answer": "6 directives: AD 2001-06-17, AD 2007-08-03, AD 2008-05-09, AD 2008-26-10, AD 2012-02-02, AD 2013-11-11.",
+      "evidence": [
+        [
+          "ADREC-CN-TFB"
+        ],
+        [
+          "AD-2001-06-17"
+        ],
+        [
+          "AD-2007-08-03"
+        ],
+        [
+          "AD-2008-05-09"
+        ],
+        [
+          "AD-2008-26-10"
+        ],
+        [
+          "AD-2012-02-02"
+        ],
+        [
+          "AD-2013-11-11"
+        ]
+      ],
+      "expected_status": "answered",
+      "must_include": [
+        "2001-06-17",
+        "2007-08-03",
+        "2008-05-09",
+        "2008-26-10",
+        "2012-02-02",
+        "2013-11-11"
+      ]
+    },
+    {
+      "id": "E057",
+      "split": "holdout",
+      "category": "aggregation",
+      "question": "List the airworthiness directives that apply to CN-TFE.",
+      "reference_answer": "6 directives: AD 2001-06-17, AD 2004-15-18, AD 2007-05-10, AD 2008-26-10, AD 2013-11-11, AD 2020-16-08.",
+      "evidence": [
+        [
+          "ADREC-CN-TFE"
+        ],
+        [
+          "AD-2001-06-17"
+        ],
+        [
+          "AD-2004-15-18"
+        ],
+        [
+          "AD-2007-05-10"
+        ],
+        [
+          "AD-2008-26-10"
+        ],
+        [
+          "AD-2013-11-11"
+        ],
+        [
+          "AD-2020-16-08"
+        ]
+      ],
+      "expected_status": "answered",
+      "must_include": [
+        "2001-06-17",
+        "2004-15-18",
+        "2007-05-10",
+        "2008-26-10",
+        "2013-11-11",
+        "2020-16-08"
+      ]
+    },
+    {
+      "id": "E058",
+      "split": "tune",
+      "category": "aggregation",
+      "question": "Which of our aircraft fall under AD 2013-11-11?",
+      "reference_answer": "CN-TFA, CN-TFB, CN-TFD, CN-TFE. CN-TFC and CN-TFF are 172S above the serial number range; Anfa applies the same limit to them through the procedures manual. CN-TFG is a 172N.",
+      "evidence": [
+        [
+          "AD-2013-11-11"
+        ],
+        [
+          "FLEET-2026-10"
+        ]
+      ],
+      "expected_status": "answered",
+      "must_include": [
+        "CN-TFA",
+        "CN-TFB",
+        "CN-TFD",
+        "CN-TFE"
+      ]
+    },
+    {
+      "id": "E059",
+      "split": "holdout",
+      "category": "aggregation",
+      "question": "Which aircraft have an oil pressure switch within 100 hours of its limit?",
+      "reference_answer": "CN-TFA (69.8 hours left), CN-TFE (39.4 hours left). The procedures manual (3.2) says to plan the replacement at 2,900 hours. CN-TFE's figure uses the fleet register's installation hours, the lower of the two recorded (procedures manual 3.3).",
+      "evidence": [
+        [
+          "FLEET-2026-10"
+        ],
+        [
+          "PROC-R7"
+        ]
+      ],
+      "expected_status": "answered",
+      "must_include": [
+        "CN-TFA",
+        "CN-TFE"
+      ]
+    },
+    {
+      "id": "E060",
+      "split": "tune",
+      "category": "aggregation",
+      "question": "List every main wheel tire replacement in 2025, with its aircraft and work order.",
+      "reference_answer": "CN-TFD (WO-2025-0034, 23 January 2025); CN-TFF (WO-2025-0067, 12 February 2025); CN-TFA (WO-2025-0107, 11 March 2025); CN-TFA (WO-2025-0153, 11 April 2025); CN-TFE (WO-2025-0214, 21 May 2025); CN-TFD (WO-2025-0273, 29 June 2025); CN-TFF (WO-2025-0284, 8 July 2025); CN-TFE (WO-2025-0302, 20 July 2025); CN-TFB (WO-2025-0315, 28 July 2025); CN-TFA (WO-2025-0390, 16 September 2025); CN-TFC (WO-2025-0460, 1 November 2025); CN-TFF (WO-2025-0486, 18 November 2025); CN-TFB (WO-2025-0524, 14 December 2025); CN-TFC (WO-2025-0526, 16 December 2025).",
+      "evidence": [
+        [
+          "WO-2025-0034",
+          "LOG-CN-TFD"
+        ],
+        [
+          "WO-2025-0067",
+          "LOG-CN-TFF"
+        ],
+        [
+          "WO-2025-0107",
+          "LOG-CN-TFA"
+        ],
+        [
+          "WO-2025-0153",
+          "LOG-CN-TFA"
+        ],
+        [
+          "WO-2025-0214",
+          "LOG-CN-TFE"
+        ],
+        [
+          "WO-2025-0273",
+          "LOG-CN-TFD"
+        ],
+        [
+          "WO-2025-0284",
+          "LOG-CN-TFF"
+        ],
+        [
+          "WO-2025-0302",
+          "LOG-CN-TFE"
+        ],
+        [
+          "WO-2025-0315",
+          "LOG-CN-TFB"
+        ],
+        [
+          "WO-2025-0390",
+          "LOG-CN-TFA"
+        ],
+        [
+          "WO-2025-0460",
+          "LOG-CN-TFC"
+        ],
+        [
+          "WO-2025-0486",
+          "LOG-CN-TFF"
+        ],
+        [
+          "WO-2025-0524",
+          "LOG-CN-TFB"
+        ],
+        [
+          "WO-2025-0526",
+          "LOG-CN-TFC"
+        ]
+      ],
+      "expected_status": "answered",
+      "must_include": [
+        "WO-2025-0034",
+        "WO-2025-0067",
+        "WO-2025-0107",
+        "WO-2025-0153",
+        "WO-2025-0214",
+        "WO-2025-0273",
+        "WO-2025-0284",
+        "WO-2025-0302",
+        "WO-2025-0315",
+        "WO-2025-0390",
+        "WO-2025-0460",
+        "WO-2025-0486",
+        "WO-2025-0524",
+        "WO-2025-0526"
+      ]
+    },
+    {
+      "id": "E061",
+      "split": "tune",
+      "category": "aggregation",
+      "question": "How many work orders did R. El Fassi sign for return to service in 2025?",
+      "reference_answer": "18.",
+      "evidence": [
+        [
+          "WO-2025-0022",
+          "LOG-CN-TFC"
+        ],
+        [
+          "WO-2025-0044",
+          "LOG-CN-TFB"
+        ],
+        [
+          "WO-2025-0086",
+          "LOG-CN-TFB"
+        ],
+        [
+          "WO-2025-0130",
+          "LOG-CN-TFG"
+        ],
+        [
+          "WO-2025-0137",
+          "LOG-CN-TFG"
+        ],
+        [
+          "WO-2025-0142",
+          "LOG-CN-TFD"
+        ],
+        [
+          "WO-2025-0179",
+          "LOG-CN-TFB"
+        ],
+        [
+          "WO-2025-0249",
+          "LOG-CN-TFB"
+        ],
+        [
+          "WO-2025-0272",
+          "LOG-CN-TFC"
+        ],
+        [
+          "WO-2025-0302",
+          "LOG-CN-TFE"
+        ],
+        [
+          "WO-2025-0316",
+          "LOG-CN-TFD"
+        ],
+        [
+          "WO-2025-0345",
+          "LOG-CN-TFA"
+        ],
+        [
+          "WO-2025-0346",
+          "LOG-CN-TFG"
+        ],
+        [
+          "WO-2025-0356",
+          "LOG-CN-TFG"
+        ],
+        [
+          "WO-2025-0359",
+          "LOG-CN-TFD"
+        ],
+        [
+          "WO-2025-0390",
+          "LOG-CN-TFA"
+        ],
+        [
+          "WO-2025-0436",
+          "LOG-CN-TFA"
+        ],
+        [
+          "WO-2025-0526",
+          "LOG-CN-TFC"
+        ]
+      ],
+      "expected_status": "answered",
+      "must_include": [
+        "18"
+      ]
+    },
+    {
+      "id": "E062",
+      "split": "holdout",
+      "category": "aggregation",
+      "question": "Which of our aircraft are affected by AD 2018-02-04?",
+      "reference_answer": "CN-TFA and CN-TFF had mufflers listed in figure 1; both were replaced in February and March 2018. CN-TFC's muffler, A1754001-23 S/N 34729, is one above the range 34721 to 34728. The fleet register still lists CN-TFF's old muffler.",
+      "evidence": [
+        [
+          "AD-2018-02-04"
+        ],
+        [
+          "FLEET-2026-10"
+        ],
+        [
+          "ADREC-CN-TFA",
+          "ADREC-CN-TFF"
+        ]
+      ],
+      "expected_status": "answered",
+      "must_include": [
+        "CN-TFA",
+        "CN-TFF"
+      ]
+    },
+    {
+      "id": "E063",
+      "split": "tune",
+      "category": "regulation",
+      "question": "What happens if someone operates an aircraft that doesn't meet an applicable AD?",
+      "reference_answer": "Under 14 CFR 39.7, anyone who operates a product that does not meet the requirements of an applicable airworthiness directive is in violation of that section.",
+      "evidence": [
+        [
+          "CFR-14-39"
+        ]
+      ],
+      "expected_status": "answered",
+      "must_include": [
+        "39.7"
+      ]
+    },
+    {
+      "id": "E064",
+      "split": "holdout",
+      "category": "regulation",
+      "question": "Can we fly an aircraft to a repair facility when an AD has not been done yet?",
+      "reference_answer": "Possibly: under 14 CFR 39.23 the FAA may issue a special flight permit unless the AD states otherwise, and may add requirements or decline. 39.25: apply following 14 CFR 21.199.",
+      "evidence": [
+        [
+          "CFR-14-39"
+        ]
+      ],
+      "expected_status": "answered",
+      "must_include": [
+        "special flight permit"
+      ]
+    },
+    {
+      "id": "E065",
+      "split": "tune",
+      "category": "regulation",
+      "question": "If an AD conflicts with the service bulletin it references, which one do we follow?",
+      "reference_answer": "The AD (14 CFR 39.27).",
+      "evidence": [
+        [
+          "CFR-14-39"
+        ]
+      ],
+      "expected_status": "answered",
+      "must_include": [
+        "39.27"
+      ]
+    },
+    {
+      "id": "E066",
+      "split": "holdout",
+      "category": "regulation",
+      "question": "Who can approve an alternative method of compliance with an AD?",
+      "reference_answer": "The office identified in the AD (14 CFR 39.19 and 39.21); proposals go through the principal inspector where there is one.",
+      "evidence": [
+        [
+          "CFR-14-39"
+        ]
+      ],
+      "expected_status": "answered"
+    },
+    {
+      "id": "E067",
+      "split": "tune",
+      "category": "regulation",
+      "question": "Does a flight school aircraft need 100-hour inspections, and can the 100 hours be exceeded?",
+      "reference_answer": "Yes, under 14 CFR 91.409(b) for flight instruction for hire in an aircraft the instructor provides. The limit may be exceeded by not more than 10 hours while en route to a place where the inspection can be done, and the excess counts toward the next 100 hours.",
+      "evidence": [
+        [
+          "CFR-14-91E"
+        ]
+      ],
+      "expected_status": "answered",
+      "must_include": [
+        "10 hours"
+      ]
+    },
+    {
+      "id": "E068",
+      "split": "tune",
+      "category": "regulation",
+      "question": "How often must the altimeter and static system be tested for IFR flight?",
+      "reference_answer": "Within the preceding 24 calendar months, to 14 CFR Part 43 appendices E and F (14 CFR 91.411).",
+      "evidence": [
+        [
+          "CFR-14-91E"
+        ]
+      ],
+      "expected_status": "answered",
+      "must_include": [
+        "24 calendar months"
+      ]
+    },
+    {
+      "id": "E069",
+      "split": "holdout",
+      "category": "regulation",
+      "question": "How long must the record of a 100-hour inspection be kept?",
+      "reference_answer": "Until the work is repeated or superseded by other work, or for 1 year after the work is performed (14 CFR 91.417(b)(1)).",
+      "evidence": [
+        [
+          "CFR-14-91E"
+        ]
+      ],
+      "expected_status": "answered",
+      "must_include": [
+        "1 year"
+      ]
+    },
+    {
+      "id": "E070",
+      "split": "tune",
+      "category": "regulation",
+      "question": "How long must a repair station keep its work records?",
+      "reference_answer": "At least 2 years from the date the article was approved for return to service (14 CFR 145.219(c)).",
+      "evidence": [
+        [
+          "CFR-14-145"
+        ]
+      ],
+      "expected_status": "answered",
+      "must_include": [
+        "2 years"
+      ]
+    },
+    {
+      "id": "E071",
+      "split": "holdout",
+      "category": "regulation",
+      "question": "What does AC 39-7D say about recurring ADs and their intervals?",
+      "reference_answer": "Some ADs require repetitive inspections; an AD may allow the interval to be adjusted to coincide with Part 91 inspections, under conditions stated in the AD. Any other change goes through the AMOC process.",
+      "evidence": [
+        [
+          "AC-39-7D"
+        ]
+      ],
+      "expected_status": "answered",
+      "must_include": [
+        "AMOC"
+      ]
+    },
+    {
+      "id": "E072",
+      "split": "tune",
+      "category": "regulation",
+      "question": "Can AC 43.13-2B be used as approved data for a major alteration?",
+      "reference_answer": "Yes, for non-pressurized areas of aircraft of 12,500 lbs gross weight or less, when the AC chapter, page, and paragraph are listed in block 8 of FAA Form 337 and the user has determined the conditions the AC lists are met.",
+      "evidence": [
+        [
+          "AC-43.13-2B"
+        ]
+      ],
+      "expected_status": "answered",
+      "must_include": [
+        "Form 337"
+      ]
+    },
+    {
+      "id": "E073",
+      "split": "tune",
+      "category": "regulation",
+      "question": "Can a mechanic without an inspection authorization sign off an annual inspection?",
+      "reference_answer": "No. An annual inspection is performed by a mechanic holding an Inspection Authorization (IA), who may also approve major repairs and alterations for return to service.",
+      "evidence": [
+        [
+          "AMTH-CH13"
+        ]
+      ],
+      "expected_status": "answered",
+      "must_include": [
+        "Inspection Authorization"
+      ]
+    },
+    {
+      "id": "E074",
+      "split": "holdout",
+      "category": "regulation",
+      "question": "When is FAA Form 337 used?",
+      "reference_answer": "To document a major repair or major alteration, with supporting approved data. A Part 145 repair station may instead give a signed copy of the work order with a maintenance release for a major repair.",
+      "evidence": [
+        [
+          "AMTH-CH2"
+        ]
+      ],
+      "expected_status": "answered",
+      "must_include": [
+        "major"
+      ]
+    },
+    {
+      "id": "E075",
+      "split": "tune",
+      "category": "regulation",
+      "question": "What engine and rated power does the Cessna 172S have?",
+      "reference_answer": "Lycoming IO-360-L2A, rated 180 horsepower at 2,700 rpm (type certificate data sheet 3A12, section XII).",
+      "evidence": [
+        [
+          "TCDS-3A12"
+        ]
+      ],
+      "expected_status": "answered",
+      "must_include": [
+        "180"
+      ]
+    },
+    {
+      "id": "E076",
+      "split": "holdout",
+      "category": "regulation",
+      "question": "What must a maintenance record entry contain?",
+      "reference_answer": "Under 14 CFR 43.9(a): a description of the work, the date it was completed, the name of the person who did it, and, if the work was approved for return to service, the signature, certificate number, and kind of certificate of the person approving it.",
+      "evidence": [
+        [
+          "CFR-14-43"
+        ]
+      ],
+      "expected_status": "answered",
+      "must_include": [
+        "43.9"
+      ]
+    },
+    {
+      "id": "E077",
+      "split": "tune",
+      "category": "identifier",
+      "question": "Which AD covers AWI muffler P/N A1754001-23?",
+      "reference_answer": "AD 2018-02-04, for listed serial numbers of P/N A1754001-23 and A1754001-25.",
+      "evidence": [
+        [
+          "AD-2018-02-04"
+        ]
+      ],
+      "expected_status": "answered",
+      "must_include": [
+        "2018-02-04"
+      ]
+    },
+    {
+      "id": "E078",
+      "split": "holdout",
+      "category": "identifier",
+      "question": "What part is P/N 83278?",
+      "reference_answer": "The engine oil pressure switch, limited to 3,000 hours by AD 2013-11-11.",
+      "evidence": [
+        [
+          "AD-2013-11-11",
+          "FLEET-2026-10",
+          "PROC-R7"
+        ]
+      ],
+      "expected_status": "answered",
+      "must_include": [
+        "oil pressure switch"
+      ]
+    },
+    {
+      "id": "E079",
+      "split": "tune",
+      "category": "identifier",
+      "question": "What is AD 2011-06-02 about?",
+      "reference_answer": "Cessna 172 airplanes modified by STC SA01303WI (Thielert diesel): install a FADEC backup battery, replace the AFM supplement, and replace the battery every 12 calendar months.",
+      "evidence": [
+        [
+          "AD-2011-06-02"
+        ]
+      ],
+      "expected_status": "answered",
+      "must_include": [
+        "FADEC"
+      ]
+    },
+    {
+      "id": "E080",
+      "split": "holdout",
+      "category": "identifier",
+      "question": "What was work order WO-2024-0406?",
+      "reference_answer": "CN-TFF, 17 September 2024, at 3,206.8 airframe hours: Replaced avionics cooling fan. G1000 NXi system test satisfactory.",
+      "evidence": [
+        [
+          "WO-2024-0406"
+        ]
+      ],
+      "expected_status": "answered",
+      "must_include": [
+        "CN-TFF"
+      ]
+    },
+    {
+      "id": "E081",
+      "split": "tune",
+      "category": "identifier",
+      "question": "What was work order WO-2025-0130?",
+      "reference_answer": "CN-TFG, 26 March 2025, at 14,134.9 airframe hours: Found a seep at the gearbox drain plug. Replaced sealing ring; topped up gearbox oil. Leak check satisfactory.",
+      "evidence": [
+        [
+          "WO-2025-0130"
+        ]
+      ],
+      "expected_status": "answered",
+      "must_include": [
+        "CN-TFG"
+      ]
+    },
+    {
+      "id": "E082",
+      "split": "tune",
+      "category": "identifier",
+      "question": "What was work order WO-2026-0323?",
+      "reference_answer": "CN-TFB, 25 August 2026, at 8,328.6 airframe hours: Static system test and altimeter test per 14 CFR 91.411 and Part 43 Appendix E. Transponder test per 14 CFR 91.413 and Part 43 Appendix F. All tests within limits. Next tests due within 24 calendar months.",
+      "evidence": [
+        [
+          "WO-2026-0323"
+        ]
+      ],
+      "expected_status": "answered",
+      "must_include": [
+        "CN-TFB"
+      ]
+    },
+    {
+      "id": "E083",
+      "split": "tune",
+      "category": "access",
+      "question": "What do we charge a customer for an oil pressure switch?",
+      "reference_answer": "A mechanic may not read the price list (management only): the assistant says it can't answer.",
+      "evidence": [],
+      "expected_status": "refused"
+    },
+    {
+      "id": "E084",
+      "split": "holdout",
+      "category": "access",
+      "question": "What is Anfa's hourly labour rate for the flight school?",
+      "reference_answer": "A mechanic may not read the price list (management only): the assistant says it can't answer.",
+      "evidence": [],
+      "expected_status": "refused"
+    },
+    {
+      "id": "E085",
+      "split": "tune",
+      "category": "access",
+      "question": "What does a KAP 140 exchange unit cost us?",
+      "reference_answer": "A mechanic may not read the price list (management only): the assistant says it can't answer.",
+      "evidence": [],
+      "expected_status": "refused"
+    },
+    {
+      "id": "E086",
+      "split": "tune",
+      "category": "unanswerable",
+      "question": "What is the propeller overhaul interval on CN-TFA?",
+      "reference_answer": "The documents don't say: the assistant says so instead of guessing.",
+      "evidence": [],
+      "expected_status": "not_in_documents"
+    },
+    {
+      "id": "E087",
+      "split": "holdout",
+      "category": "unanswerable",
+      "question": "Which airworthiness directives apply to a Piper PA-28-161?",
+      "reference_answer": "The documents don't say: the assistant says so instead of guessing.",
+      "evidence": [],
+      "expected_status": "not_in_documents"
+    },
+    {
+      "id": "E088",
+      "split": "tune",
+      "category": "unanswerable",
+      "question": "When is CN-TFH's next inspection due?",
+      "reference_answer": "The documents don't say: the assistant says so instead of guessing.",
+      "evidence": [],
+      "expected_status": "not_in_documents"
+    },
+    {
+      "id": "E089",
+      "split": "holdout",
+      "category": "unanswerable",
+      "question": "What torque do the propeller bolts on a 172S take?",
+      "reference_answer": "The documents don't say: the assistant says so instead of guessing.",
+      "evidence": [],
+      "expected_status": "not_in_documents"
+    },
+    {
+      "id": "E090",
+      "split": "tune",
+      "category": "unanswerable",
+      "question": "What did the quality manager decide about CN-TFE's switch installation hours?",
+      "reference_answer": "The documents don't say: the assistant says so instead of guessing.",
+      "evidence": [],
+      "expected_status": "not_in_documents"
+    },
+    {
+      "id": "E091",
+      "split": "tune",
+      "category": "unanswerable",
+      "question": "How many landings does CN-TFB have?",
+      "reference_answer": "The documents don't say: the assistant says so instead of guessing.",
+      "evidence": [],
+      "expected_status": "not_in_documents"
+    },
+    {
+      "id": "E092",
+      "split": "tune",
+      "category": "discrepancy",
+      "question": "At what airframe hours was CN-TFE's current oil pressure switch installed?",
+      "reference_answer": "The records disagree: the fleet register says 10,560.2 hours; the work order WO-2021-0544 and the AD compliance record say 10,650.2. The procedures manual (3.3) says to use the lower figure until the quality manager resolves it.",
+      "evidence": [
+        [
+          "FLEET-2026-10"
+        ],
+        [
+          "WO-SCAN",
+          "ADREC-CN-TFE"
+        ]
+      ],
+      "expected_status": "answered",
+      "must_include": [
+        "10,560.2",
+        "10,650.2"
+      ]
+    },
+    {
+      "id": "E093",
+      "split": "holdout",
+      "category": "discrepancy",
+      "question": "Does CN-TFF still have an affected AWI muffler installed?",
+      "reference_answer": "The records disagree: the fleet register lists muffler A1754001-25 S/N 38190, which AD 2018-02-04 covers; the AD compliance record says it was replaced on 23 February 2018 with S/N 39281. Check the aircraft and correct the register.",
+      "evidence": [
+        [
+          "FLEET-2026-10"
+        ],
+        [
+          "ADREC-CN-TFF"
+        ]
+      ],
+      "expected_status": "answered",
+      "must_include": [
+        "38190",
+        "39281"
+      ]
+    },
+    {
+      "id": "E094",
+      "split": "tune",
+      "category": "discrepancy",
+      "question": "Is CN-TFC's AD compliance record right about AD 2013-11-11?",
+      "reference_answer": "No. It marks the AD as applicable, but CN-TFC's serial number 172S11290 is above the AD's 172S range (to 172S11256). The 3,000-hour switch limit applies through the procedures manual (3.2), not the AD.",
+      "evidence": [
+        [
+          "ADREC-CN-TFC"
+        ],
+        [
+          "AD-2013-11-11"
+        ],
+        [
+          "FLEET-2026-10"
+        ]
+      ],
+      "expected_status": "answered",
+      "verdict": "no",
+      "must_include": [
+        "172S11290"
+      ]
+    },
+    {
+      "id": "E095",
+      "split": "tune",
+      "category": "superseded",
+      "question": "Is AD 2000-04-01 still in effect?",
+      "reference_answer": "No: AD 2013-11-11 superseded it.",
+      "evidence": [
+        [
+          "AD-2013-11-11",
+          "AD-2000-04-01"
+        ]
+      ],
+      "expected_status": "answered",
+      "verdict": "no",
+      "must_include": [
+        "2013-11-11"
+      ]
+    },
+    {
+      "id": "E096",
+      "split": "holdout",
+      "category": "superseded",
+      "question": "Is AD 2008-03-02 still in effect?",
+      "reference_answer": "No: AD 2012-02-02 superseded it.",
+      "evidence": [
+        [
+          "AD-2012-02-02",
+          "AD-2008-03-02"
+        ]
+      ],
+      "expected_status": "answered",
+      "verdict": "no",
+      "must_include": [
+        "2012-02-02"
+      ]
+    },
+    {
+      "id": "E097",
+      "split": "tune",
+      "category": "superseded",
+      "question": "Is AD 2004-10-15 still in effect?",
+      "reference_answer": "No: AD 2005-01-19 superseded it.",
+      "evidence": [
+        [
+          "AD-2005-01-19",
+          "AD-2004-10-15"
+        ]
+      ],
+      "expected_status": "answered",
+      "verdict": "no",
+      "must_include": [
+        "2005-01-19"
+      ]
+    },
+    {
+      "id": "E098",
+      "split": "holdout",
+      "category": "superseded",
+      "question": "Which advisory circular on maintenance records is current, AC 43-9C or AC 43-9D?",
+      "reference_answer": "AC 43-9D. AC 43-9C was cancelled on 22 September 2025.",
+      "evidence": [
+        [
+          "AC-43-9D",
+          "AC-43-9C"
+        ]
+      ],
+      "expected_status": "answered",
+      "must_include": [
+        "43-9D"
+      ]
+    }
+  ]
+}

@@ -2,11 +2,13 @@
 
     python -m anfa ingest                       embed the documents and store them (once)
     python -m anfa ask "question" [--show-prompt]
+    python -m anfa check [--save-traces]         run the cases against this checkpoint
 """
 
 from __future__ import annotations
 
 import argparse
+import sys
 
 from anfa import CHECKPOINT
 
@@ -18,6 +20,8 @@ def main() -> None:
     ask = commands.add_parser("ask", help="answer one question")
     ask.add_argument("question")
     ask.add_argument("--show-prompt", action="store_true")
+    check = commands.add_parser("check", help="run the cases against this checkpoint")
+    check.add_argument("--save-traces", action="store_true", help="write each trace to traces/")
     args = parser.parse_args()
 
     from anfa.corpus import load_corpus
@@ -36,6 +40,18 @@ def main() -> None:
         if args.show_prompt:
             print(f"\nPrompt:\n{trace.prompt}")
         print(f"\nAnswer ({trace.status}):\n{trace.answer}")
+
+    if args.command == "check":
+        from anfa.checks import run
+
+        results = run(Assistant(), save_traces=args.save_traces)
+        print(f"Checkpoint {CHECKPOINT}\n")
+        for r in results:
+            print(f"  {r.label:<20} {r.case_id:<26} {r.detail}")
+        regressions = sum(r.label == "REGRESSION" for r in results)
+        gaps = sum(r.label.startswith("KNOWN GAP") for r in results)
+        print(f"\n{len(results) - regressions - gaps} passing, {gaps} known gaps, {regressions} regressions")
+        sys.exit(1 if regressions else 0)
 
 
 if __name__ == "__main__":
