@@ -1,0 +1,1201 @@
+{
+  "source_id": "AD-2005-13-10",
+  "file": "faa/ad/ad-2005-13-10.pdf",
+  "format": "pdf",
+  "parser": "docling",
+  "meta": {
+    "title": "AD 2005-13-10: Cessna Aircraft Company Models 172R, 172S, 182T, T182T, 206H, and T206H Airplanes",
+    "publisher": "FAA",
+    "doc_type": "airworthiness directive",
+    "ad_number": "2005-13-10",
+    "action": "Final rule",
+    "published": "2005-06-22",
+    "effective": "2005-08-09",
+    "federal_register": "70 FR 35997 (document 05-12175)",
+    "access": "employees"
+  },
+  "elements": [
+    {
+      "id": "e1",
+      "type": "page_header",
+      "page": 1,
+      "text": "Federal Register /Vol. 70, No. 119/Wednesday, June 22, 2005/Rules and Regulations"
+    },
+    {
+      "id": "e2",
+      "type": "page_header",
+      "page": 1,
+      "text": "35997"
+    },
+    {
+      "id": "e3",
+      "type": "paragraph",
+      "page": 1,
+      "text": "responsibilities among the various levels of government."
+    },
+    {
+      "id": "e4",
+      "type": "paragraph",
+      "page": 1,
+      "text": "For the reasons discussed above, I certify that this AD:"
+    },
+    {
+      "id": "e5",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Is not a ''significant regulatory action'' under Executive Order 12866;"
+    },
+    {
+      "id": "e6",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Is not a ''significant rule'' under DOT Regulatory Policies and Procedures (44 FR 11034, February 26, 1979); and"
+    },
+    {
+      "id": "e7",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Will not have a significant economic impact, positive or negative, on a substantial number of small entities under the criteria of the Regulatory Flexibility Act."
+    },
+    {
+      "id": "e8",
+      "type": "paragraph",
+      "page": 1,
+      "text": "We prepared a regulatory evaluation of the estimated costs to comply with this AD. See the ADDRESSES section for a location to examine the regulatory evaluation."
+    },
+    {
+      "id": "e9",
+      "type": "heading",
+      "page": 1,
+      "text": "List of Subjects in 14 CFR Part 39",
+      "level": 2
+    },
+    {
+      "id": "e10",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Air transportation, Aircraft, Aviation safety, Incorporation by reference, Safety."
+    },
+    {
+      "id": "e11",
+      "type": "heading",
+      "page": 1,
+      "text": "Adoption of the Amendment",
+      "level": 2
+    },
+    {
+      "id": "e12",
+      "type": "paragraph",
+      "page": 1,
+      "text": "■ Accordingly, under the authority delegated to me by the Administrator, the FAA amends 14 CFR part 39 as follows:"
+    },
+    {
+      "id": "e13",
+      "type": "heading",
+      "page": 1,
+      "text": "PART 39-AIRWORTHINESS DIRECTIVES",
+      "level": 2
+    },
+    {
+      "id": "e14",
+      "type": "paragraph",
+      "page": 1,
+      "text": "■ 1. The authority citation for part 39 continues to read as follows:"
+    },
+    {
+      "id": "e15",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Authority: 49 U.S.C. 106(g), 40113, 44701."
+    },
+    {
+      "id": "e16",
+      "type": "heading",
+      "page": 1,
+      "text": "§39.13 [Amended]",
+      "level": 2
+    },
+    {
+      "id": "e17",
+      "type": "paragraph",
+      "page": 1,
+      "text": "■ 2. The FAA amends §39.13 by adding the following new airworthiness directive (AD):"
+    },
+    {
+      "id": "e18",
+      "type": "paragraph",
+      "page": 1,
+      "text": "2005-13-08 BAE Systems (Operations) Limited (Formerly British Aerospace Regional Aircraft): Amendment 3914145. Directorate Identifier 2003-NM103-AD."
+    },
+    {
+      "id": "e19",
+      "type": "heading",
+      "page": 1,
+      "text": "Effective Date",
+      "level": 2
+    },
+    {
+      "id": "e20",
+      "type": "paragraph",
+      "page": 1,
+      "text": "(a) This AD becomes effective July 27, 2005."
+    },
+    {
+      "id": "e21",
+      "type": "heading",
+      "page": 1,
+      "text": "Affected ADs",
+      "level": 2
+    },
+    {
+      "id": "e22",
+      "type": "paragraph",
+      "page": 1,
+      "text": "(b) None."
+    },
+    {
+      "id": "e23",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Applicability: (c) This AD applies to all BAE Systems (Operations) Limited Model Jetstream 4101 airplanes, certificated in any category."
+    },
+    {
+      "id": "e24",
+      "type": "heading",
+      "page": 1,
+      "text": "Unsafe Condition",
+      "level": 2
+    },
+    {
+      "id": "e25",
+      "type": "paragraph",
+      "page": 1,
+      "text": "(d) This AD was prompted by manufacturer determination that overhaul limits need to be imposed for certain auxiliary components of the main landing gear (MLG) and nose landing gear (NLG). Components that exceed the established overhaul limits could fail due to fatigue, wear, and age. We are issuing this AD to prevent failure of the MLG or NLG, and consequent damage to the airplane and injury to flightcrew and passengers."
+    },
+    {
+      "id": "e26",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Compliance: (e) You are responsible for having the actions required by this AD"
+    },
+    {
+      "id": "e27",
+      "type": "paragraph",
+      "page": 1,
+      "text": "performed within the compliance times specified, unless the actions have already been done."
+    },
+    {
+      "id": "e28",
+      "type": "heading",
+      "page": 1,
+      "text": "Overhaul of Landing Gear",
+      "level": 2
+    },
+    {
+      "id": "e29",
+      "type": "paragraph",
+      "page": 1,
+      "text": "(f) Within 18 months after the effective date of this AD, overhaul auxiliary components installed on the MLG and NLG, in accordance with the Accomplishment Instructions of BAE Systems (Operations) Limited Service Bulletin J41-32-081, dated August 6, 2002, except as provided by paragraph (g) of this AD; and thereafter as specified in the ''Overhaul Period'' column of Table 1 of the Accomplishment Instructions of the service bulletin."
+    },
+    {
+      "id": "e30",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Note 1: BAE Systems (Operations) Limited Service Bulletin J41-32-081 refers to BAE Systems (Operations) Limited Service Bulletin J41-05-001, Revision 2, dated March 15, 2002, as an additional source of service information for calculating estimated usage of affected auxiliary components."
+    },
+    {
+      "id": "e31",
+      "type": "heading",
+      "page": 1,
+      "text": "No Reporting Requirement",
+      "level": 2
+    },
+    {
+      "id": "e32",
+      "type": "paragraph",
+      "page": 1,
+      "text": "(g) Although the service bulletin referenced in this AD specifies to submit certain information to the manufacturer, this AD does not include that requirement."
+    },
+    {
+      "id": "e33",
+      "type": "heading",
+      "page": 1,
+      "text": "Alternative Methods of Compliance (AMOCs)",
+      "level": 2
+    },
+    {
+      "id": "e34",
+      "type": "paragraph",
+      "page": 1,
+      "text": "(h) The Manager, International Branch, ANM-116, Transport Airplane Directorate, FAA, has the authority to approve AMOCs for this AD, if requested in accordance with the procedures found in 14 CFR 39.19."
+    },
+    {
+      "id": "e35",
+      "type": "heading",
+      "page": 1,
+      "text": "Related Information",
+      "level": 2
+    },
+    {
+      "id": "e36",
+      "type": "paragraph",
+      "page": 1,
+      "text": "(i) British airworthiness directive 006-082002 also addresses the subject of this AD."
+    },
+    {
+      "id": "e37",
+      "type": "heading",
+      "page": 1,
+      "text": "Material Incorporated by Reference",
+      "level": 2
+    },
+    {
+      "id": "e38",
+      "type": "paragraph",
+      "page": 1,
+      "text": "(j) You must use BAE Systems (Operations) Limited Service Bulletin J41-32-081, dated August 6, 2002, to perform the actions that are required by this AD, unless the AD specifies otherwise. The Director of the Federal Register approves the incorporation by reference of this document in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. To get copies of the service information, contact British Aerospace Regional Aircraft American Support, 13850 Mclearen Road, Herndon, Virginia 20171. To view the AD docket, go to the Docket Management Facility, U.S. Department of Transportation, 400 Seventh Street SW., room PL-401, Nassif Building, Washington, DC."
+    },
+    {
+      "id": "e39",
+      "type": "paragraph",
+      "page": 1,
+      "text": "To review copies of the service information, go to the National Archives and Records Administration (NARA). For information on the availability of this material at the NARA, call (202) 741-6030, or go to http://www.archives.gov/ federal_register/code_of_federal_regulations/ ibr_locations.html."
+    },
+    {
+      "id": "e40",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Issued in Renton, Washington, on June 10, 2005."
+    },
+    {
+      "id": "e41",
+      "type": "heading",
+      "page": 1,
+      "text": "Michael J. Kaszycki,",
+      "level": 2
+    },
+    {
+      "id": "e42",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Acting Manager, Transport Airplane Directorate, Aircraft Certification Service. [FR Doc. 05-12150 Filed 6-21-05; 8:45 am]"
+    },
+    {
+      "id": "e43",
+      "type": "paragraph",
+      "page": 1,
+      "text": "BILLING CODE 4910-13-P"
+    },
+    {
+      "id": "e44",
+      "type": "heading",
+      "page": 1,
+      "text": "DEPARTMENT OF TRANSPORTATION",
+      "level": 2
+    },
+    {
+      "id": "e45",
+      "type": "heading",
+      "page": 1,
+      "text": "Federal Aviation Administration",
+      "level": 2
+    },
+    {
+      "id": "e46",
+      "type": "heading",
+      "page": 1,
+      "text": "14 CFR Part 39",
+      "level": 2
+    },
+    {
+      "id": "e47",
+      "type": "paragraph",
+      "page": 1,
+      "text": "[Docket No. FAA-2005-20438; Directorate Identifier 2005-CE-03-AD; Amendment 3914147; AD 2005-13-10]"
+    },
+    {
+      "id": "e48",
+      "type": "heading",
+      "page": 1,
+      "text": "RIN 2120-AA64",
+      "level": 2
+    },
+    {
+      "id": "e49",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Airworthiness Directives; Cessna Aircraft Company Models 172R, 172S, 182T, T182T, 206H, and T206H Airplanes"
+    },
+    {
+      "id": "e50",
+      "type": "paragraph",
+      "page": 1,
+      "text": "AGENCY: Federal Aviation Administration (FAA), DOT. ACTION: Final rule."
+    },
+    {
+      "id": "e51",
+      "type": "paragraph",
+      "page": 1,
+      "text": "SUMMARY: The FAA adopts a new airworthiness directive (AD) for certain Cessna Aircraft Company (Cessna) Models 172R, 172S, 182T, T182T, 206H, and T206H airplanes. This AD requires you to inspect any MC01-3A I.C. 9 or MC01-3A I.C. 10 main electrical power junction box circuit breakers for correct amperage (amp) (a correct 40-amp circuit breaker) and replace any incorrect amp circuit breaker with the correct 40-amp circuit breaker. This AD results from several reports of circuit breakers that are not the correct 40-amp circuit breaker installed in the MC013A main electrical power junction box. We are issuing this AD to replace any incorrect circuit breaker installed in the MC01-3A I.C. 9 or MC01-3A I.C. 10 main electrical power junction box, which could result in premature tripping of the power junction box main feeder circuit breakers and could lead to partial or complete loss of all electrical power on the airplane. This condition could lead to the loss of all navigation and communication equipment and lighting in the cockpit."
+    },
+    {
+      "id": "e52",
+      "type": "paragraph",
+      "page": 1,
+      "text": "DATES: This AD becomes effective on August 9, 2005."
+    },
+    {
+      "id": "e53",
+      "type": "paragraph",
+      "page": 1,
+      "text": "As of August 9, 2005, the Director of the Federal Register approved the incorporation by reference of certain publications listed in the regulation."
+    },
+    {
+      "id": "e54",
+      "type": "paragraph",
+      "page": 1,
+      "text": "ADDRESSES: To get the service information identified in this AD, contact Cessna Aircraft Company, Product Support, P.O. Box 7706, Wichita, Kansas 67277; telephone: (316) 517-5800; facsimile: (316) 942-9006."
+    },
+    {
+      "id": "e55",
+      "type": "paragraph",
+      "page": 1,
+      "text": "To view the AD docket, go to the Docket Management Facility; U.S. Department of Transportation, 400 Seventh Street, SW., Nassif Building, Room PL-401, Washington, DC 20590001 or on the Internet at http:// dms.dot.gov. The docket number is FAA-2005-20438; Directorate Identifier 2005-CE-03-AD."
+    },
+    {
+      "id": "e56",
+      "type": "paragraph",
+      "page": 1,
+      "text": "VerDate jul<14>2003 15:52 Jun 21, 2005 Jkt 205001 PO 00000 Frm 00013 Fmt 4700 Sfmt 4700 E:\\FR\\FM\\22JNR1.SGM 22JNR1"
+    },
+    {
+      "id": "e57",
+      "type": "page_header",
+      "page": 2,
+      "text": "35998"
+    },
+    {
+      "id": "e58",
+      "type": "page_header",
+      "page": 2,
+      "text": "Federal Register /Vol. 70, No. 119/Wednesday, June 22, 2005/Rules and Regulations"
+    },
+    {
+      "id": "e59",
+      "type": "heading",
+      "page": 2,
+      "text": "FOR FURTHER INFORMATION CONTACT: Jose",
+      "level": 2
+    },
+    {
+      "id": "e60",
+      "type": "paragraph",
+      "page": 2,
+      "text": "Flores, Aerospace Engineer, Wichita Aircraft Certification Office (ACO), FAA, 1801 Airport Road, Wichita, Kansas 67209; telephone: (316) 9464133; facsimile: (316) 946-4107."
+    },
+    {
+      "id": "e61",
+      "type": "heading",
+      "page": 2,
+      "text": "SUPPLEMENTARY INFORMATION:",
+      "level": 2
+    },
+    {
+      "id": "e62",
+      "type": "heading",
+      "page": 2,
+      "text": "Discussion",
+      "level": 2
+    },
+    {
+      "id": "e63",
+      "type": "paragraph",
+      "page": 2,
+      "text": "What events have caused this AD? Cessna has reported three cases of incorrect amperage (amp) circuit breakers installed in the MC01-3A I.C. 9 (part number (P/N) S3100-297) or MC01-3A I.C. 10 (P/N S3100-344) main electrical power junction box. The design of the main electrical power junction box requires 40-amp circuit breakers. Two of the three cases of incorrect circuit breakers were found in Cessna production and a third was found in Cessna spares."
+    },
+    {
+      "id": "e64",
+      "type": "paragraph",
+      "page": 2,
+      "text": "What is the potential impact if FAA took no action? Any incorrect circuit breaker installed in the MC01-3A main electrical power junction box could result in premature tripping of the power junction box main feeder circuit breakers, which could lead to partial or complete loss of all electrical power on the airplane. This condition could lead to the loss of all navigation and communication equipment and lighting in the cockpit."
+    },
+    {
+      "id": "e65",
+      "type": "paragraph",
+      "page": 2,
+      "text": "Has FAA taken any action to this point? We issued a proposal to amend part 39 of the Federal Aviation Regulations (14 CFR part 39) to include an AD that would apply to certain Cessna Aircraft Company (Cessna)"
+    },
+    {
+      "id": "e66",
+      "type": "paragraph",
+      "page": 2,
+      "text": "Models 172R, 172S, 182T, T182T, 206H, and T206H airplanes. This proposal was published in the Federal Register as a notice of proposed rulemaking (NPRM) on March 17, 2005 (70 FR 12978). The NPRM proposed to require you to inspect any MC01-3A I.C. 9 or MC013A I.C. 10 main electrical power junction box circuit breakers for correct amperage (amp) (a correct 40-amp circuit breaker) and replace any incorrect amp circuit breaker with the correct 40-amp circuit breaker."
+    },
+    {
+      "id": "e67",
+      "type": "heading",
+      "page": 2,
+      "text": "Comments",
+      "level": 2
+    },
+    {
+      "id": "e68",
+      "type": "paragraph",
+      "page": 2,
+      "text": "Was the public invited to comment? We provided the public the opportunity to participate in developing this AD. We received no comments on the proposal or on the determination of the cost to the public."
+    },
+    {
+      "id": "e69",
+      "type": "heading",
+      "page": 2,
+      "text": "Conclusion",
+      "level": 2
+    },
+    {
+      "id": "e70",
+      "type": "paragraph",
+      "page": 2,
+      "text": "What is FAA's final determination on this issue? We have carefully reviewed the available data and determined that air safety and the public interest require adopting the AD as proposed except for minor editorial corrections. We have determined that these minor corrections:"
+    },
+    {
+      "id": "e71",
+      "type": "paragraph",
+      "page": 2,
+      "text": "-Are consistent with the intent that was proposed in the NPRM for"
+    },
+    {
+      "id": "e72",
+      "type": "paragraph",
+      "page": 2,
+      "text": "correcting the unsafe condition; and"
+    },
+    {
+      "id": "e73",
+      "type": "paragraph",
+      "page": 2,
+      "text": "-Do not add any additional burden upon the public than was already proposed in the NPRM."
+    },
+    {
+      "id": "e74",
+      "type": "heading",
+      "page": 2,
+      "text": "Docket Information",
+      "level": 2
+    },
+    {
+      "id": "e75",
+      "type": "paragraph",
+      "page": 2,
+      "text": "Where can I go to view the docket information? You may view the AD"
+    },
+    {
+      "id": "e76",
+      "type": "paragraph",
+      "page": 2,
+      "text": "docket that contains information relating to this subject in person at the DMS Docket Offices between 9 a.m. and 5 p.m. (eastern standard time), Monday through Friday, except Federal holidays. The Docket Office (telephone 1-800647-5227) is located on the plaza level of the Department of Transportation NASSIF Building at the street address stated in ADDRESSES. You may also view the AD docket on the Internet at http: //dms.dot.gov."
+    },
+    {
+      "id": "e77",
+      "type": "heading",
+      "page": 2,
+      "text": "Changes to 14 CFR Part 39-Effect on the AD",
+      "level": 2
+    },
+    {
+      "id": "e78",
+      "type": "paragraph",
+      "page": 2,
+      "text": "How does the revision to 14 CFR part 39 affect this AD? On July 10, 2002, the FAA published a new version of 14 CFR part 39 (67 FR 47997, July 22, 2002), which governs the FAA's AD system. This regulation now includes material that relates to altered products, special flight permits, and alternative methods of compliance. This material previously was included in each individual AD. Since this material is included in 14 CFR part 39, we will not include it in future AD actions."
+    },
+    {
+      "id": "e79",
+      "type": "heading",
+      "page": 2,
+      "text": "Costs of Compliance",
+      "level": 2
+    },
+    {
+      "id": "e80",
+      "type": "paragraph",
+      "page": 2,
+      "text": "How many airplanes does this AD impact? We estimate that this AD affects 778 airplanes in the U.S. registry."
+    },
+    {
+      "id": "e81",
+      "type": "paragraph",
+      "page": 2,
+      "text": "What is the cost impact of this AD on owners/operators of the affected airplanes? We estimate the following costs to do the inspection:"
+    },
+    {
+      "id": "e82",
+      "type": "table",
+      "header": [
+        "Labor cost",
+        "Parts cost",
+        "Total cost per airplane",
+        "Total cost on U.S. operators"
+      ],
+      "rows": [
+        [
+          "1 work hour × $65 = $65 ...................................................................................................",
+          "None ...........",
+          "$65",
+          "778 × $65 = $50,570."
+        ]
+      ],
+      "page": 2
+    },
+    {
+      "id": "e83",
+      "type": "paragraph",
+      "page": 2,
+      "text": "We estimate the following costs to do any necessary replacements that would be required based on the results of this inspection. We have no way of determining the number of airplanes that may need this replacement:"
+    },
+    {
+      "id": "e84",
+      "type": "table",
+      "header": [
+        "Labor cost",
+        "Parts cost",
+        "Total cost per airplane"
+      ],
+      "rows": [
+        [
+          "1 work hour × $65 = $65 .........................................................................................................................................",
+          "$40",
+          "$105"
+        ]
+      ],
+      "page": 2
+    },
+    {
+      "id": "e85",
+      "type": "heading",
+      "page": 2,
+      "text": "Authority for This Rulemaking",
+      "level": 2
+    },
+    {
+      "id": "e86",
+      "type": "paragraph",
+      "page": 2,
+      "text": "What authority does FAA have for issuing this rulemaking action? Title 49 of the United States Code specifies the FAA's authority to issue rules on aviation safety. Subtitle I, Section 106 describes the authority of the FAA Administrator. Subtitle VII, Aviation Programs, describes in more detail the scope of the agency's authority."
+    },
+    {
+      "id": "e87",
+      "type": "paragraph",
+      "page": 2,
+      "text": "We are issuing this rulemaking under the authority described in Subtitle VII, Part A, Subpart III, Section 44701, ''General requirements.'' Under that section, Congress charges the FAA with promoting safe flight of civil aircraft in air commerce by prescribing regulations for practices, methods, and procedures the Administrator finds necessary for safety in air commerce. This regulation is within the scope of that authority because it addresses an unsafe condition that is likely to exist or develop on products identified in this AD."
+    },
+    {
+      "id": "e88",
+      "type": "heading",
+      "page": 2,
+      "text": "Regulatory Findings",
+      "level": 2
+    },
+    {
+      "id": "e89",
+      "type": "paragraph",
+      "page": 2,
+      "text": "Will this AD impact various entities? We have determined that this AD will not have federalism implications under Executive Order 13132. This AD will not have a substantial direct effect on the States, on the relationship between the National Government and the States, or on the distribution of power and responsibilities among the various levels of government."
+    },
+    {
+      "id": "e90",
+      "type": "paragraph",
+      "page": 2,
+      "text": "VerDate jul<14>2003 15:52 Jun 21, 2005 Jkt 205001 PO 00000 Frm 00014 Fmt 4700 Sfmt 4700 E:\\FR\\FM\\22JNR1.SGM 22JNR1"
+    },
+    {
+      "id": "e91",
+      "type": "page_header",
+      "page": 3,
+      "text": "Federal Register /Vol. 70, No. 119/Wednesday, June 22, 2005/Rules and Regulations"
+    },
+    {
+      "id": "e92",
+      "type": "page_header",
+      "page": 3,
+      "text": "35999"
+    },
+    {
+      "id": "e93",
+      "type": "paragraph",
+      "page": 3,
+      "text": "Will this AD involve a significant rule or regulatory action? For the reasons discussed above, I certify that this AD:"
+    },
+    {
+      "id": "e94",
+      "type": "paragraph",
+      "page": 3,
+      "text": "Is not a ''significant regulatory action'' under Executive Order 12866;"
+    },
+    {
+      "id": "e95",
+      "type": "paragraph",
+      "page": 3,
+      "text": "Is not a ''significant rule'' under the DOT Regulatory Policies and Procedures (44 FR 11034, February 26, 1979); and"
+    },
+    {
+      "id": "e96",
+      "type": "paragraph",
+      "page": 3,
+      "text": "Will not have a significant economic impact, positive or negative, on a substantial number of small entities under the criteria of the Regulatory Flexibility Act."
+    },
+    {
+      "id": "e97",
+      "type": "paragraph",
+      "page": 3,
+      "text": "We prepared a summary of the costs to comply with this AD (and other information as included in the Regulatory Evaluation) and placed it in the AD Docket. You may get a copy of this summary by sending a request to us at the address listed under ADDRESSES. Include ''Docket No. FAA-2005-20438; Directorate Identifier 2005-CE-03-AD'' in your request."
+    },
+    {
+      "id": "e98",
+      "type": "heading",
+      "page": 3,
+      "text": "List of Subjects in 14 CFR Part 39",
+      "level": 2
+    },
+    {
+      "id": "e99",
+      "type": "paragraph",
+      "page": 3,
+      "text": "Air transportation, Aircraft, Aviation safety, Incorporation by reference, Safety."
+    },
+    {
+      "id": "e100",
+      "type": "heading",
+      "page": 3,
+      "text": "Adoption of the Amendment",
+      "level": 2
+    },
+    {
+      "id": "e101",
+      "type": "paragraph",
+      "page": 3,
+      "text": "■ Accordingly, under the authority delegated to me by the Administrator,"
+    },
+    {
+      "id": "e102",
+      "type": "paragraph",
+      "page": 3,
+      "text": "the Federal Aviation Administration amends part 39 of the Federal Aviation Regulations (14 CFR part 39) as follows:"
+    },
+    {
+      "id": "e103",
+      "type": "heading",
+      "page": 3,
+      "text": "PART 39-AIRWORTHINESS DIRECTIVES",
+      "level": 2
+    },
+    {
+      "id": "e104",
+      "type": "paragraph",
+      "page": 3,
+      "text": "■ 1. The authority citation for part 39 continues to read as follows:"
+    },
+    {
+      "id": "e105",
+      "type": "paragraph",
+      "page": 3,
+      "text": "Authority: 49 U.S.C. 106(g), 40113, 44701."
+    },
+    {
+      "id": "e106",
+      "type": "heading",
+      "page": 3,
+      "text": "§39.13 [Amended]",
+      "level": 2
+    },
+    {
+      "id": "e107",
+      "type": "paragraph",
+      "page": 3,
+      "text": "■ 2. FAA amends §39.13 by adding a new AD to read as follows:"
+    },
+    {
+      "id": "e108",
+      "type": "paragraph",
+      "page": 3,
+      "text": "2005-13-10 Cessna Aircraft Company: FAA-2005-20438; Directorate Identifier"
+    },
+    {
+      "id": "e109",
+      "type": "paragraph",
+      "page": 3,
+      "text": "Amendment 39-14147; Docket No. 2005-CE-03-AD."
+    },
+    {
+      "id": "e110",
+      "type": "heading",
+      "page": 3,
+      "text": "When Does This AD Become Effective?",
+      "level": 2
+    },
+    {
+      "id": "e111",
+      "type": "paragraph",
+      "page": 3,
+      "text": "(a) This AD becomes effective on August 9, 2005."
+    },
+    {
+      "id": "e112",
+      "type": "heading",
+      "page": 3,
+      "text": "What Other ADs Are Affected by This Action?",
+      "level": 2
+    },
+    {
+      "id": "e113",
+      "type": "paragraph",
+      "page": 3,
+      "text": "(b) None."
+    },
+    {
+      "id": "e114",
+      "type": "heading",
+      "page": 3,
+      "text": "What Airplanes Are Affected by This AD?",
+      "level": 2
+    },
+    {
+      "id": "e115",
+      "type": "paragraph",
+      "page": 3,
+      "text": "(c) This AD affects the following airplane models and serial numbers that are certificated in any category:"
+    },
+    {
+      "id": "e116",
+      "type": "table",
+      "header": [
+        "Model",
+        "Serial Nos."
+      ],
+      "rows": [
+        [
+          "172R .... 172S .... 182T .... T182T .. 206H .... T206H",
+          "17281186 through 17281232. 172S9476 through 172S9689, and 172S9691 through 172S9770. 18281242 through 18281502, 18281506, and 18281507. T18208212 through T18208357. 20608195 through 20608223, 20608225, and 20608226. T20608410 through T20608475, T20608477 through T20608501, T20608503, and T20608506."
+        ]
+      ],
+      "page": 3
+    },
+    {
+      "id": "e117",
+      "type": "heading",
+      "page": 3,
+      "text": "What Is the Unsafe Condition Presented in This AD?",
+      "level": 2
+    },
+    {
+      "id": "e118",
+      "type": "paragraph",
+      "page": 3,
+      "text": "(d) This AD is the result of several reports of circuit breakers that are not the correct 40amp circuit breaker installed in the MC013A I.C. 9 or MC01-3A I.C. 10 main electrical power junction box. The actions specified in this AD are intended to replace any incorrect circuit breaker installed in the MC01-3A main electrical power junction box, which could result in premature tripping of the power junction box main feeder circuit breakers and could lead to partial or complete loss of all electrical power on the airplane. This condition could lead to the loss of all navigation and communication equipment and lighting in the cockpit."
+    },
+    {
+      "id": "e119",
+      "type": "heading",
+      "page": 3,
+      "text": "What Must I Do To Address This Problem?",
+      "level": 2
+    },
+    {
+      "id": "e120",
+      "type": "paragraph",
+      "page": 3,
+      "text": "(e) To address this problem, you must do the following:"
+    },
+    {
+      "id": "e121",
+      "type": "table",
+      "header": [
+        "Actions",
+        "Compliance",
+        "Procedures"
+      ],
+      "rows": [
+        [
+          "(1) Inspect any MC01-3A I.C. 9 (part number (P/N) S3100-297) or MC01-3A I.C. 10 (P/N S3100-344) main electrical power junction box for any incorrect amperage (amp) circuit beaker installed in place of the required 40- amp circuit breakers.",
+          "Within the next 30 days after August 9, 2005 (the effective dated date of this AD), unless already done.",
+          "Follow Cessna Service Bulletin No. SB05-24- 01, January 31, 2005."
+        ],
+        [
+          "(2) Replace any incorrect amp circuit breaker with the required 40-amp circuit breaker.",
+          "Before further flight after the inspection re- quired by paragraph (e)(1) of this AD.",
+          "Follow Cessna Service Bulletin No. SB05-24- 01, dated January 31, 2005."
+        ],
+        [
+          "(3) Only install in any MC01-3A I.C. 9 (P/N S3100-297) or MC01-3A I.C. 10 (P/N S3100-344) main electrical power junction box the required 40-amp circuit breakers.",
+          "As of August 9, 2005 (the effective date of this AD).",
+          "Not Applicable."
+        ]
+      ],
+      "page": 3
+    },
+    {
+      "id": "e122",
+      "type": "heading",
+      "page": 3,
+      "text": "May I Request an Alternative Method of Compliance?",
+      "level": 2
+    },
+    {
+      "id": "e123",
+      "type": "paragraph",
+      "page": 3,
+      "text": "(f) You may request a different method of compliance or a different compliance time for this AD by following the procedures in 14 CFR 39.19. Unless FAA authorizes otherwise, send your request to your principal inspector. The principal inspector may add comments and will send your request to the Manager, Wichita Aircraft Certification Office (ACO), FAA. For information on any already approved alternative methods of compliance, contact Jose Flores, Aerospace Engineer, Wichita ACO, FAA, 1801 Airport Road, Wichita, Kansas 67209; telephone: (316) 9464133; facsimile: (316) 946-4107."
+    },
+    {
+      "id": "e124",
+      "type": "heading",
+      "page": 3,
+      "text": "May I Obtain a Special Flight Permit for the Initial Inspection Requirement of This AD?",
+      "level": 2
+    },
+    {
+      "id": "e125",
+      "type": "paragraph",
+      "page": 3,
+      "text": "(g) Yes, special flight permits are allowed per 14 CFR 39.19 provided airplane operations are limited to Day and/or visual flight rules (VFR) flight."
+    },
+    {
+      "id": "e126",
+      "type": "heading",
+      "page": 3,
+      "text": "Does This AD Incorporate Any Material by Reference?",
+      "level": 2
+    },
+    {
+      "id": "e127",
+      "type": "paragraph",
+      "page": 3,
+      "text": "(h) You must do the actions required by this AD following the instructions in Cessna Service Bulletin No. SB05-24-01, dated January 31, 2005. The Director of the Federal Register approved the incorporation by reference of this service bulletin in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. To get a copy of this service information, contact Cessna Aircraft Company, Product Support, P.O. Box 7706, Wichita, Kansas 67277; telephone: (316) 517-"
+    },
+    {
+      "id": "e128",
+      "type": "paragraph",
+      "page": 3,
+      "text": "5800; facsimile: (316) 942-9006. To review"
+    },
+    {
+      "id": "e129",
+      "type": "paragraph",
+      "page": 3,
+      "text": "copies of this service information, go to the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, go to: http://www.archives.gov/federal_register/ code_of_federal_regulations/ ibr_locations.html or call (202) 741-6030. To view the AD docket, go to the Docket Management Facility; U.S. Department of Transportation, 400 Seventh Street, SW., Nassif Building, Room PL-401, Washington, DC 20590-001 or on the Internet at http:// dms.dot.gov. The docket number is FAA2005-20438; Directorate Identifier 2005-CE03-AD."
+    },
+    {
+      "id": "e130",
+      "type": "paragraph",
+      "page": 3,
+      "text": "VerDate jul<14>2003 15:52 Jun 21, 2005 Jkt 205001 PO 00000 Frm 00015 Fmt 4700 Sfmt 4700 E:\\FR\\FM\\22JNR1.SGM 22JNR1"
+    },
+    {
+      "id": "e131",
+      "type": "page_header",
+      "page": 4,
+      "text": "36000"
+    },
+    {
+      "id": "e132",
+      "type": "page_header",
+      "page": 4,
+      "text": "Federal Register /Vol. 70, No. 119/Wednesday, June 22, 2005/Rules and Regulations"
+    },
+    {
+      "id": "e133",
+      "type": "paragraph",
+      "page": 4,
+      "text": "Issued in Kansas City, Missouri, on June 14, 2005."
+    },
+    {
+      "id": "e134",
+      "type": "heading",
+      "page": 4,
+      "text": "John R. Colomy,",
+      "level": 2
+    },
+    {
+      "id": "e135",
+      "type": "paragraph",
+      "page": 4,
+      "text": "Acting Manager, Small Airplane Directorate, Aircraft Certification Service."
+    },
+    {
+      "id": "e136",
+      "type": "paragraph",
+      "page": 4,
+      "text": "[FR Doc. 05-12175 Filed 6-21-05; 8:45 am] BILLING CODE 4910-13-P"
+    },
+    {
+      "id": "e137",
+      "type": "heading",
+      "page": 4,
+      "text": "DEPARTMENT OF TRANSPORTATION",
+      "level": 2
+    },
+    {
+      "id": "e138",
+      "type": "heading",
+      "page": 4,
+      "text": "Federal Aviation Administration",
+      "level": 2
+    },
+    {
+      "id": "e139",
+      "type": "heading",
+      "page": 4,
+      "text": "14 CFR Part 39",
+      "level": 2
+    },
+    {
+      "id": "e140",
+      "type": "paragraph",
+      "page": 4,
+      "text": "[Docket No. FAA-2004-19960; Directorate Identifier 2004-CE-47-AD; Amendment 3914153; AD 2005-13-16]"
+    },
+    {
+      "id": "e141",
+      "type": "paragraph",
+      "page": 4,
+      "text": "RIN 2120-AA64"
+    },
+    {
+      "id": "e142",
+      "type": "heading",
+      "page": 4,
+      "text": "Airworthiness Directives; The New Piper Aircraft, Inc. PA-34 Series Airplanes",
+      "level": 2
+    },
+    {
+      "id": "e143",
+      "type": "paragraph",
+      "page": 4,
+      "text": "AGENCY: Federal Aviation Administration (FAA), DOT. ACTION: Final rule."
+    },
+    {
+      "id": "e144",
+      "type": "paragraph",
+      "page": 4,
+      "text": "SUMMARY: The FAA adopts an airworthiness directive to supersede AD 93-24-14 applicable to all The New Piper Aircraft, Inc. (Piper) PA-34 series airplanes. This AD results from many service difficulty reports related to the collapse of the nose landing gear (NLG). Consequently, this AD retains the actions required in AD 93-24-14, requires you to inspect the NLG and components of the NLG using new procedures for rigging the nose gear installation, and requires you to replace unserviceable parts. We are issuing this AD to detect, correct, and prevent failure in certain components of the NLG, lack of cleanliness of the NLG due to inadequate maintenance, or lack of lubricant in the NLG or NLG components. This failure of the NLG could lead to loss of control of the airplane during take-off, landing, or taxiing operations."
+    },
+    {
+      "id": "e145",
+      "type": "paragraph",
+      "page": 4,
+      "text": "DATES: This AD becomes effective on August 8, 2005."
+    },
+    {
+      "id": "e146",
+      "type": "paragraph",
+      "page": 4,
+      "text": "As of August 8, 2005, the Director of the Federal Register approved the incorporation by reference of certain publications listed in the regulation."
+    },
+    {
+      "id": "e147",
+      "type": "paragraph",
+      "page": 4,
+      "text": "ADDRESSES: To get the service information identified in this AD, contact The New Piper Aircraft, Inc., 2926 Piper Drive, Vero Beach, Florida 32960. To review this service information, go to the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, go to: http:// www.archives.gov/federal_register/ code_of_federal_regulations/ ibr_locations.html or call (202) 7416030."
+    },
+    {
+      "id": "e148",
+      "type": "paragraph",
+      "page": 4,
+      "text": "To view the AD docket, go to the Docket Management Facility; U.S. Department of Transportation, 400 Seventh Street, SW., Nassif Building, Room PL-401, Washington, DC 20590001 or on the Internet at http:// dms.dot.gov. The docket number is FAA-2004-19960; Directorate Identifier 2004-CE-47-AD."
+    },
+    {
+      "id": "e149",
+      "type": "heading",
+      "page": 4,
+      "text": "FOR FURTHER INFORMATION CONTACT:",
+      "level": 2
+    },
+    {
+      "id": "e150",
+      "type": "paragraph",
+      "page": 4,
+      "text": "Hassan Amini, Aerospace Engineer, FAA, Atlanta Aircraft Certification Office, One Crown Center, 1895 Phoenix Boulevard, Suite 450, Atlanta, Georgia 30349; telephone: (770) 703-6080; facsimile: (770) 703-6097."
+    },
+    {
+      "id": "e151",
+      "type": "heading",
+      "page": 4,
+      "text": "SUPPLEMENTARY INFORMATION:",
+      "level": 2
+    },
+    {
+      "id": "e152",
+      "type": "heading",
+      "page": 4,
+      "text": "Discussion",
+      "level": 2
+    },
+    {
+      "id": "e153",
+      "type": "paragraph",
+      "page": 4,
+      "text": "What events have caused this AD? Several incidents where the nose landing gear (NLG) on The New Piper Aircraft, Inc. (Piper) PA-34 series airplanes collapsed caused us to issue AD 93-24-14, Amendment 39-8762 (58 FR 65115, December 13, 1993). AD 9324-14 currently requires the repetitive replacement of the bolt and stack up that connect the upper drag link to the nose gear trunnion on all Piper PA-34 series airplanes."
+    },
+    {
+      "id": "e154",
+      "type": "paragraph",
+      "page": 4,
+      "text": "Since AD 93-24-14 was issued, FAA has received 186 service difficulty reports (SDRs) related to the NLG on Piper PA-34 series airplanes. There are 71 SDRs that describe the collapse or involuntary retraction of the NLG."
+    },
+    {
+      "id": "e155",
+      "type": "paragraph",
+      "page": 4,
+      "text": "A review of the SDRs related to the NLG and the collapse or involuntary retraction of the NLG found that one or more of the following conditions could result in collapse of the NLG:"
+    },
+    {
+      "id": "e156",
+      "type": "paragraph",
+      "page": 4,
+      "text": "-Nose gear steering control excessive travel and the disengagement of the tiller roller;"
+    },
+    {
+      "id": "e157",
+      "type": "paragraph",
+      "page": 4,
+      "text": "-Failure or out of tolerances of the retraction links and bolts;"
+    },
+    {
+      "id": "e158",
+      "type": "paragraph",
+      "page": 4,
+      "text": "-Crack(s) in the nose gear trunnion;"
+    },
+    {
+      "id": "e159",
+      "type": "paragraph",
+      "page": 4,
+      "text": "-Failure of the nose gear upper drag link attach bolt;"
+    },
+    {
+      "id": "e160",
+      "type": "paragraph",
+      "page": 4,
+      "text": "-Failure of the nose gear retraction link retention spring;"
+    },
+    {
+      "id": "e161",
+      "type": "paragraph",
+      "page": 4,
+      "text": "-Out of rig and failure of the nose gear down lock link assembly;"
+    },
+    {
+      "id": "e162",
+      "type": "paragraph",
+      "page": 4,
+      "text": "-Failure of the nose gear actuator mounting bracket and its attachments;"
+    },
+    {
+      "id": "e163",
+      "type": "paragraph",
+      "page": 4,
+      "text": "-Failure of the attachment of the retraction link to the actuator mounting bracket;"
+    },
+    {
+      "id": "e164",
+      "type": "paragraph",
+      "page": 4,
+      "text": "-Lack of lubricant in the NLG or NLG components; or"
+    },
+    {
+      "id": "e165",
+      "type": "paragraph",
+      "page": 4,
+      "text": "-Lack of cleanliness of the NLG or the NLG components."
+    },
+    {
+      "id": "e166",
+      "type": "paragraph",
+      "page": 4,
+      "text": "The exact cause of the collapse or involuntary retraction of the NLG cannot be determined."
+    },
+    {
+      "id": "e167",
+      "type": "paragraph",
+      "page": 4,
+      "text": "Consequently, Piper took the following actions to prevent future failure of the NLG:"
+    },
+    {
+      "id": "e168",
+      "type": "paragraph",
+      "page": 4,
+      "text": "-Modified certain components to improve their long-term service life;"
+    },
+    {
+      "id": "e169",
+      "type": "paragraph",
+      "page": 4,
+      "text": "-Corrected and clarified the rigging procedures for the nose gear installation; and"
+    },
+    {
+      "id": "e170",
+      "type": "paragraph",
+      "page": 4,
+      "text": "-Revised the periodic inspection requirements of the applicable maintenance manuals."
+    },
+    {
+      "id": "e171",
+      "type": "paragraph",
+      "page": 4,
+      "text": "What is the potential impact if FAA took no action? Failure in certain components of the NLG, a lack of cleanliness of the NLG, or a lack of lubricant in the NLG or the NLG components could result in failure of the NLG. This failure of the NLG could lead to loss of control of the airplane during take-off, landing, or taxiing operations."
+    },
+    {
+      "id": "e172",
+      "type": "paragraph",
+      "page": 4,
+      "text": "Has FAA taken any action to this point? We issued a proposal to amend part 39 of the Federal Aviation Regulations (14 CFR part 39) to include an AD that would apply to The New Piper Aircraft, Inc. (Piper) PA-34 series airplanes. This proposal was published in the Federal Register as a notice of proposed rulemaking (NPRM) on February 9, 2005 (70 FR 6782). The NPRM proposed to supersede Airworthiness Directive (AD) 93-24-14, which applies to all Piper PA-34 series airplanes. AD 93-24-14 currently requires you to repetitively replace the bolt and stack up that connect the upper drag link to the nose gear trunnion. The NPRM proposed to retain the actions required in AD 93-24-14 and would require you to inspect the NLG and components of the NLG using new procedures for rigging the nose gear installation, and replace unserviceable parts."
+    },
+    {
+      "id": "e173",
+      "type": "heading",
+      "page": 4,
+      "text": "Comments",
+      "level": 2
+    },
+    {
+      "id": "e174",
+      "type": "paragraph",
+      "page": 4,
+      "text": "Was the public invited to comment? We provided the public the opportunity to participate in developing this AD. The following presents the comments received on the proposal and FAA's response to each comment:"
+    },
+    {
+      "id": "e175",
+      "type": "paragraph",
+      "page": 4,
+      "text": "Comment Issue No. 1: No Justification for the NPRM Based on the Types of Operations"
+    },
+    {
+      "id": "e176",
+      "type": "paragraph",
+      "page": 4,
+      "text": "What is the commenter's concern? The commenter states that the NPRM does not distinguish between the types of operations based on the Service Difficulty Reports (SDRs). The commenter specifically states:"
+    },
+    {
+      "id": "e177",
+      "type": "paragraph",
+      "page": 4,
+      "text": "-The incidents are primarily operational and maintenance issues, not design issues."
+    },
+    {
+      "id": "e178",
+      "type": "paragraph",
+      "page": 4,
+      "text": "-The FAA should withdraw the NPRM until a pattern or relationship to the kinds of operations involved is developed."
+    },
+    {
+      "id": "e179",
+      "type": "paragraph",
+      "page": 4,
+      "text": "-The NPRM gives equal weight to improper maintenance with"
+    },
+    {
+      "id": "e180",
+      "type": "paragraph",
+      "page": 4,
+      "text": "VerDate jul<14>2003 15:52 Jun 21, 2005 Jkt 205001 PO 00000 Frm 00016 Fmt 4700 Sfmt 4700 E:\\FR\\FM\\22JNR1.SGM 22JNR1"
+    }
+  ]
+}

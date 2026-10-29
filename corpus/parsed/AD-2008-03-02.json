@@ -1,0 +1,1011 @@
+{
+  "source_id": "AD-2008-03-02",
+  "file": "faa/ad/ad-2008-03-02.pdf",
+  "format": "pdf",
+  "parser": "docling",
+  "meta": {
+    "title": "AD 2008-03-02: Cessna Aircraft Company Models 172R and 172S Airplanes",
+    "publisher": "FAA",
+    "doc_type": "airworthiness directive",
+    "ad_number": "2008-03-02",
+    "action": "Final rule",
+    "published": "2008-01-31",
+    "effective": "2008-03-06",
+    "federal_register": "73 FR 5737 (document E8-1460)",
+    "access": "employees"
+  },
+  "elements": [
+    {
+      "id": "e1",
+      "type": "page_header",
+      "page": 1,
+      "text": "Federal Register /Vol. 73, No. 21/Thursday, January 31, 2008/Rules and Regulations"
+    },
+    {
+      "id": "e2",
+      "type": "page_header",
+      "page": 1,
+      "text": "5737"
+    },
+    {
+      "id": "e3",
+      "type": "paragraph",
+      "page": 1,
+      "text": "pwalker on PROD1PC71 with RULES"
+    },
+    {
+      "id": "e4",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Cessna Model 650; Citations III, VI, and VII Dassault-Aviation 20, 50, 50EX, 900, MF900, and 900EX (900DX) Series"
+    },
+    {
+      "id": "e5",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Gulfstream Aerospace LP (formerly IAI) 1125 Westwind Astra, Astra SPX, Gulfstream 100 Series"
+    },
+    {
+      "id": "e6",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Israel Aircraft Industries (IAI) 1124 Series (Westwind 1124)"
+    },
+    {
+      "id": "e7",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Learjet 31, 35, 36, 45 (or Learjet 40), and 55 Series"
+    },
+    {
+      "id": "e8",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Lockheed-Georgia 3329-25 Series (731 Jetstar, Jetstar II)"
+    },
+    {
+      "id": "e9",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Raytheon Corporate Jets (formerly British Aerospace) Hawker 800 and 850 Series Sabreliner NA-265-65 (Sabreliner 65)"
+    },
+    {
+      "id": "e10",
+      "type": "heading",
+      "page": 1,
+      "text": "Unsafe Condition",
+      "level": 2
+    },
+    {
+      "id": "e11",
+      "type": "paragraph",
+      "page": 1,
+      "text": "(d) This AD results from the manufacturer's report that some HP turbine rotor discs received improperly machined radii in the root of the forward and aft curvic teeth during manufacture. We are issuing this AD to prevent uncontained failure of the HP turbine rotor assembly, which could result in damage to the airplane."
+    },
+    {
+      "id": "e12",
+      "type": "heading",
+      "page": 1,
+      "text": "Compliance",
+      "level": 2
+    },
+    {
+      "id": "e13",
+      "type": "paragraph",
+      "page": 1,
+      "text": "(e) You are responsible for having the actions required by this AD performed within the compliance times specified unless the actions have already been done."
+    },
+    {
+      "id": "e14",
+      "type": "heading",
+      "page": 1,
+      "text": "TFE731-2C, -3B, -3BR, -3C, -3CR, -3D, -3DR, -4R, -5AR, -5BR, and -5R Series Turbofan Engines",
+      "level": 2
+    },
+    {
+      "id": "e15",
+      "type": "paragraph",
+      "page": 1,
+      "text": "(f) For TFE731-2C, -3B, -3BR, -3C, -3CR, -3D, -3DR, -4R, -5AR, -5BR, and -5R series turbofan engines, remove HP turbine rotor assemblies from service containing HP turbine rotor discs, part number (P/N) 3075772-1, having any serial number (SN) in Table 1 of Honeywell Service Bulletin (SB) No. TFE731-72-3720, dated July 5, 2006. Use the following drawdown schedule:"
+    },
+    {
+      "id": "e16",
+      "type": "paragraph",
+      "page": 1,
+      "text": "(1) For HP turbine discs with 4,200 cyclessince-new (CSN) or more on the effective date of this AD, remove HP turbine rotor assemblies within 100 cycles-in-service (CIS) after the effective date of this AD."
+    },
+    {
+      "id": "e17",
+      "type": "paragraph",
+      "page": 1,
+      "text": "(2) For HP turbine discs with fewer than 4,200 CSN on the effective date of this AD, remove HP turbine rotor assemblies at the next access to the HP turbine rotor discs, but not to exceed 4,300 CSN."
+    },
+    {
+      "id": "e18",
+      "type": "heading",
+      "page": 1,
+      "text": "TFE731-20R, -20AR, -20BR, -40, -40AR, -40R, and -60 Series Turbofan Engines",
+      "level": 2
+    },
+    {
+      "id": "e19",
+      "type": "paragraph",
+      "page": 1,
+      "text": "(g) For TFE731-20R, -20AR, -20BR, -40, -40AR, -40R, and -60 series turbofan engines, remove HP turbine rotor assemblies from service containing HP turbine rotor discs, P/N 3060841-1, having any SN in Table 1 of Honeywell Alert SB No. TFE731A72-5185, dated July 5, 2006. Use the following drawdown schedule:"
+    },
+    {
+      "id": "e20",
+      "type": "paragraph",
+      "page": 1,
+      "text": "(1) For HP turbine discs with 3,200 CSN or more on the effective date of this AD, remove HP turbine rotor assemblies within 100 CIS after the effective date of this AD."
+    },
+    {
+      "id": "e21",
+      "type": "paragraph",
+      "page": 1,
+      "text": "(2) For HP turbine discs with fewer than 3,200 CSN on the effective date of this AD, remove HP turbine rotor assemblies at the next access to the turbine rotor discs, but not to exceed 3,300 CSN."
+    },
+    {
+      "id": "e22",
+      "type": "heading",
+      "page": 1,
+      "text": "For All Engines",
+      "level": 2
+    },
+    {
+      "id": "e23",
+      "type": "paragraph",
+      "page": 1,
+      "text": "(h) HP turbine rotor discs removed per paragraphs (f) and (g) of this AD must pass a curvic root radius inspection performed by Honeywell Engines, Systems and Services, Phoenix, Arizona, Certificate Repair Station No. ZN3R030M, before the discs are eligible for reinstallation in an engine."
+    },
+    {
+      "id": "e24",
+      "type": "paragraph",
+      "page": 1,
+      "text": "(i) For the purposes of this AD, access to the HP turbine rotor discs is defined as the removal of the HP turbine rotor assembly from the engine."
+    },
+    {
+      "id": "e25",
+      "type": "heading",
+      "page": 1,
+      "text": "Alternative Methods of Compliance",
+      "level": 2
+    },
+    {
+      "id": "e26",
+      "type": "paragraph",
+      "page": 1,
+      "text": "(j) The Manager, Los Angeles Aircraft Certification Office, has the authority to approve alternative methods of compliance for this AD if requested using the procedures found in 14 CFR 39.19."
+    },
+    {
+      "id": "e27",
+      "type": "heading",
+      "page": 1,
+      "text": "Related Information",
+      "level": 2
+    },
+    {
+      "id": "e28",
+      "type": "paragraph",
+      "page": 1,
+      "text": "(k) Contact Joseph Costa, Aerospace Engineer, Los Angeles Aircraft Certification Office, FAA, Transport Airplane Directorate, 3960 Paramount Blvd., Lakewood, CA 90712-4137; e-mail: joseph.costa@faa.gov; telephone: (562) 627-5246; fax: (562) 6275210, for more information about this AD."
+    },
+    {
+      "id": "e29",
+      "type": "paragraph",
+      "page": 1,
+      "text": "(l) For more information regarding the engine manufacturer's accomplishment instructions or material information, refer to Honeywell Alert SB No. TFE731-A72-5185, dated July 5, 2006, and SB No. TFE731-723720, dated July 5, 2006."
+    },
+    {
+      "id": "e30",
+      "type": "paragraph",
+      "page": 1,
+      "text": "(m) Also, for technical support regarding the curvic root dimensional inspection criteria, contact the Technical Operations Center: telephone: (800) 601-3099 (U.S.) or (602) 365-3099 (International) and press option #9; e-mail:"
+    },
+    {
+      "id": "e31",
+      "type": "paragraph",
+      "page": 1,
+      "text": "AeroTechSupport@Honeywell.com; or fax: (602) 365-3343."
+    },
+    {
+      "id": "e32",
+      "type": "heading",
+      "page": 1,
+      "text": "Material Incorporated by Reference",
+      "level": 2
+    },
+    {
+      "id": "e33",
+      "type": "paragraph",
+      "page": 1,
+      "text": "(n) You must use Table 1 of Honeywell Alert Service Bulletin No. TFE731-A725185, dated July 5, 2006, or Table 1 of Honeywell Service Bulletin No. TFE731-723720, dated July 5, 2006, as applicable, to determine SN applicability of HP turbine rotor discs requiring removal by this AD. The Director of the Federal Register approved the incorporation by reference of these service bulletins in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. Contact Honeywell Technical Publications and Distribution, M/S 2101-201, P.O. Box 52170, Phoenix, AZ 85072-2170; telephone: (602) 365-2493 (General Aviation), (602) 365-5535 (Commercial Aviation), fax: (602) 365-5577 (General Aviation and Commercial Aviation) for a copy of this service information. You may review copies at the FAA, New England Region, 12 New England Executive Park, Burlington, MA; or at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202-741-6030, or go to: http://www.archives.gov/federal-register/ cfr/ibr-locations.html."
+    },
+    {
+      "id": "e34",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Issued in Burlington, Massachusetts, on January 16, 2008."
+    },
+    {
+      "id": "e35",
+      "type": "heading",
+      "page": 1,
+      "text": "Peter A. White,",
+      "level": 2
+    },
+    {
+      "id": "e36",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Assistant Manager, Engine and Propeller"
+    },
+    {
+      "id": "e37",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Directorate, Aircraft Certification Service. [FR Doc. E8-1238 Filed 1-30-08; 8:45 am]"
+    },
+    {
+      "id": "e38",
+      "type": "paragraph",
+      "page": 1,
+      "text": "BILLING CODE 4910-13-P"
+    },
+    {
+      "id": "e39",
+      "type": "heading",
+      "page": 1,
+      "text": "DEPARTMENT OF TRANSPORTATION",
+      "level": 2
+    },
+    {
+      "id": "e40",
+      "type": "heading",
+      "page": 1,
+      "text": "Federal Aviation Administration",
+      "level": 2
+    },
+    {
+      "id": "e41",
+      "type": "heading",
+      "page": 1,
+      "text": "14 CFR Part 39",
+      "level": 2
+    },
+    {
+      "id": "e42",
+      "type": "paragraph",
+      "page": 1,
+      "text": "[Docket No. FAA-2007-29138; Directorate Identifier 2007-CE-073-AD; Amendment 39-15351; AD 2008-03-02]"
+    },
+    {
+      "id": "e43",
+      "type": "heading",
+      "page": 1,
+      "text": "RIN 2120-AA64",
+      "level": 2
+    },
+    {
+      "id": "e44",
+      "type": "heading",
+      "page": 1,
+      "text": "Airworthiness Directives; Cessna Aircraft Company Models 172R and 172S Airplanes",
+      "level": 2
+    },
+    {
+      "id": "e45",
+      "type": "paragraph",
+      "page": 1,
+      "text": "AGENCY: Federal Aviation Administration (FAA), Department of Transportation (DOT)."
+    },
+    {
+      "id": "e46",
+      "type": "paragraph",
+      "page": 1,
+      "text": "ACTION: Final rule."
+    },
+    {
+      "id": "e47",
+      "type": "paragraph",
+      "page": 1,
+      "text": "SUMMARY: We are adopting a new airworthiness directive (AD) for certain Cessna Aircraft Company (Cessna) Models 172R and 172S airplanes. This AD requires you to inspect the fuel return line assembly for chafing; replace the fuel return line assembly if chafing is found; and inspect the clearance between the fuel return line assembly and both the right steering tube assembly and the airplane structure, adjusting as necessary. This AD results from reports of chafed fuel return line assemblies, which were caused by the fuel return line assembly rubbing against the right steering tube assembly during full rudder pedal actuation. We are issuing this AD to detect and correct chafing of the fuel return line assembly, which could result in fuel leaking under the floor and fuel vapors entering the cabin. This condition could lead to fire under the floor or in the cabin area."
+    },
+    {
+      "id": "e48",
+      "type": "paragraph",
+      "page": 1,
+      "text": "DATES: This AD becomes effective on March 6, 2008."
+    },
+    {
+      "id": "e49",
+      "type": "paragraph",
+      "page": 1,
+      "text": "On March 6, 2008, the Director of the Federal Register approved the incorporation by reference of certain publications listed in this AD."
+    },
+    {
+      "id": "e50",
+      "type": "paragraph",
+      "page": 1,
+      "text": "ADDRESSES: For service information identified in this AD, contact Cessna Aircraft Company, Product Support, P.O. Box 7706, Wichita, Kansas 67277; telephone: (316) 517-5800; fax: (316) 942-9006."
+    },
+    {
+      "id": "e51",
+      "type": "paragraph",
+      "page": 1,
+      "text": "To view the AD docket, go to U.S. Department of Transportation, Docket Operations, M-30, West Building Ground Floor, Room W12-140, 1200 New Jersey Avenue, SE., Washington,"
+    },
+    {
+      "id": "e52",
+      "type": "paragraph",
+      "page": 1,
+      "text": "VerDate Aug<31>2005 17:48 Jan 30, 2008 Jkt 214001 PO 00000 Frm 00029 Fmt 4700 Sfmt 4700 E:\\FR\\FM\\31JAR1.SGM 31JAR1"
+    },
+    {
+      "id": "e53",
+      "type": "page_header",
+      "page": 2,
+      "text": "5738"
+    },
+    {
+      "id": "e54",
+      "type": "page_header",
+      "page": 2,
+      "text": "Federal Register /Vol. 73, No. 21/Thursday, January 31, 2008/Rules and Regulations"
+    },
+    {
+      "id": "e55",
+      "type": "paragraph",
+      "page": 2,
+      "text": "pwalker on PROD1PC71 with RULES"
+    },
+    {
+      "id": "e56",
+      "type": "paragraph",
+      "page": 2,
+      "text": "DC 20590, or on the Internet at http:// www.regulations.gov. The docket number is FAA-2007-29138; Directorate Identifier 2007-CE-073AD."
+    },
+    {
+      "id": "e57",
+      "type": "heading",
+      "page": 2,
+      "text": "FOR FURTHER INFORMATION CONTACT: Jeff",
+      "level": 2
+    },
+    {
+      "id": "e58",
+      "type": "paragraph",
+      "page": 2,
+      "text": "Janusz, Aerospace Engineer, 1801 Airport Road, Room 100, Wichita, Kansas 67209; telephone: (316) 9464148; fax: (316) 946-4107; e-mail: jeff.janusz@faa.gov."
+    },
+    {
+      "id": "e59",
+      "type": "heading",
+      "page": 2,
+      "text": "SUPPLEMENTARY INFORMATION:",
+      "level": 2
+    },
+    {
+      "id": "e60",
+      "type": "heading",
+      "page": 2,
+      "text": "Discussion",
+      "level": 2
+    },
+    {
+      "id": "e61",
+      "type": "paragraph",
+      "page": 2,
+      "text": "On October 17, 2007, we issued a proposal to amend part 39 of the Federal Aviation Regulations (14 CFR part 39) to include an AD that would apply to certain Cessna Models 172R and 172S airplanes. This proposal was published in the Federal Register as a notice of proposed rulemaking (NPRM) on October 24, 2007 (72 FR 60291). The NPRM proposed to require you to detect and correct chafing of the fuel return line assembly."
+    },
+    {
+      "id": "e62",
+      "type": "heading",
+      "page": 2,
+      "text": "Comments",
+      "level": 2
+    },
+    {
+      "id": "e63",
+      "type": "paragraph",
+      "page": 2,
+      "text": "We provided the public the opportunity to participate in developing this AD. We received no comments on the proposal or on the determination of the cost to the public."
+    },
+    {
+      "id": "e64",
+      "type": "heading",
+      "page": 2,
+      "text": "Conclusion",
+      "level": 2
+    },
+    {
+      "id": "e65",
+      "type": "paragraph",
+      "page": 2,
+      "text": "We have carefully reviewed the available data and determined that air safety and the public interest require adopting the AD as proposed except for minor editorial corrections. We have determined that these minor corrections:"
+    },
+    {
+      "id": "e66",
+      "type": "paragraph",
+      "page": 2,
+      "text": "Are consistent with the intent that was proposed in the NPRM for correcting the unsafe condition; and"
+    },
+    {
+      "id": "e67",
+      "type": "paragraph",
+      "page": 2,
+      "text": "Do not add any additional burden upon the public than was already proposed in the NPRM."
+    },
+    {
+      "id": "e68",
+      "type": "heading",
+      "page": 2,
+      "text": "Differences Between This AD and the Service Information",
+      "level": 2
+    },
+    {
+      "id": "e69",
+      "type": "paragraph",
+      "page": 2,
+      "text": "The service information permits tube damage up to a depth of 0.0035 inch. There is no known method to accurately measure the thickness damage on a tube. We require replacement of the fuel return line assembly if any damage is found."
+    },
+    {
+      "id": "e70",
+      "type": "paragraph",
+      "page": 2,
+      "text": "If no chafing is found in the inspection of the fuel return line assembly, the service information does not require inspection for clearance around the fuel return line assembly. We require you to inspect the clearance between the fuel return line assembly and both the right steering tube assembly and airplane structure, for all applicable aircraft."
+    },
+    {
+      "id": "e71",
+      "type": "paragraph",
+      "page": 2,
+      "text": "The service information does not specify a minimum clearance requirement between the fuel return line assembly and the right steering tube assembly, only that the fuel return line assembly does not touch either the right steering tube assembly or the airplane structure. We require a minimum of 0.5 inch of clearance between the fuel return line assembly and both the right steering tube assembly and the airplane structure, during full rudder pedal actuation."
+    },
+    {
+      "id": "e72",
+      "type": "paragraph",
+      "page": 2,
+      "text": "The requirements of this AD take precedence over the provisions in the service information."
+    },
+    {
+      "id": "e73",
+      "type": "heading",
+      "page": 2,
+      "text": "Costs of Compliance",
+      "level": 2
+    },
+    {
+      "id": "e74",
+      "type": "paragraph",
+      "page": 2,
+      "text": "We estimate that this AD affects 928 airplanes in the U.S. registry."
+    },
+    {
+      "id": "e75",
+      "type": "paragraph",
+      "page": 2,
+      "text": "We estimate the following costs to do the inspection:"
+    },
+    {
+      "id": "e76",
+      "type": "table",
+      "header": [
+        "Labor cost",
+        "Parts cost",
+        "Total cost per airplane",
+        "Total cost on U.S. operators"
+      ],
+      "rows": [
+        [
+          "1 work-hour × $80 per hour = $80 ..............................................................................................",
+          "N/A",
+          "$80",
+          "$74,240"
+        ]
+      ],
+      "page": 2
+    },
+    {
+      "id": "e77",
+      "type": "paragraph",
+      "page": 2,
+      "text": "We estimate the following costs to do any necessary replacements that will be required based on the results of the inspection. We have no way of determining the number of airplanes that may need this replacement:"
+    },
+    {
+      "id": "e78",
+      "type": "table",
+      "header": [
+        "Labor cost",
+        "Parts cost",
+        "Total cost per airplane"
+      ],
+      "rows": [
+        [
+          "0.5 work-hour × $80 per hour = $40 .......................................................................................................................",
+          "$123",
+          "$163"
+        ]
+      ],
+      "page": 2
+    },
+    {
+      "id": "e79",
+      "type": "heading",
+      "page": 2,
+      "text": "Authority for This Rulemaking",
+      "level": 2
+    },
+    {
+      "id": "e80",
+      "type": "paragraph",
+      "page": 2,
+      "text": "Title 49 of the United States Code specifies the FAA's authority to issue rules on aviation safety. Subtitle I, Section 106 describes the authority of the FAA Administrator. Subtitle VII, Aviation Programs, describes in more detail the scope of the agency's authority."
+    },
+    {
+      "id": "e81",
+      "type": "paragraph",
+      "page": 2,
+      "text": "We are issuing this rulemaking under the authority described in Subtitle VII, Part A, Subpart III, Section 44701, ''General requirements.'' Under that section, Congress charges the FAA with promoting safe flight of civil aircraft in air commerce by prescribing regulations for practices, methods, and procedures the Administrator finds necessary for safety in air commerce. This regulation is within the scope of that authority because it addresses an unsafe condition that is likely to exist or develop on products identified in this AD."
+    },
+    {
+      "id": "e82",
+      "type": "heading",
+      "page": 2,
+      "text": "Regulatory Findings",
+      "level": 2
+    },
+    {
+      "id": "e83",
+      "type": "paragraph",
+      "page": 2,
+      "text": "We have determined that this AD will not have federalism implications under Executive Order 13132. This AD will not have a substantial direct effect on the States, on the relationship between the national government and the States, or on the distribution of power and responsibilities among the various levels of government."
+    },
+    {
+      "id": "e84",
+      "type": "paragraph",
+      "page": 2,
+      "text": "For the reasons discussed above, I certify that this AD:"
+    },
+    {
+      "id": "e85",
+      "type": "paragraph",
+      "page": 2,
+      "text": "Is not a ''significant regulatory action'' under Executive Order 12866;"
+    },
+    {
+      "id": "e86",
+      "type": "paragraph",
+      "page": 2,
+      "text": "Is not a ''significant rule'' under the DOT Regulatory Policies and Procedures (44 FR 11034, February 26, 1979); and"
+    },
+    {
+      "id": "e87",
+      "type": "paragraph",
+      "page": 2,
+      "text": "Will not have a significant economic impact, positive or negative, on a substantial number of small entities"
+    },
+    {
+      "id": "e88",
+      "type": "paragraph",
+      "page": 2,
+      "text": "under the criteria of the Regulatory Flexibility Act."
+    },
+    {
+      "id": "e89",
+      "type": "paragraph",
+      "page": 2,
+      "text": "We prepared a summary of the costs to comply with this AD (and other information as included in the Regulatory Evaluation) and placed it in the AD Docket. You may get a copy of this summary by sending a request to us at the address listed under ADDRESSES. Include ''Docket No. FAA-2007-29138; Directorate Identifier 2007-CE-073AD'' in your request."
+    },
+    {
+      "id": "e90",
+      "type": "heading",
+      "page": 2,
+      "text": "List of Subjects in 14 CFR Part 39",
+      "level": 2
+    },
+    {
+      "id": "e91",
+      "type": "paragraph",
+      "page": 2,
+      "text": "Air transportation, Aircraft, Aviation safety, Incorporation by reference, Safety."
+    },
+    {
+      "id": "e92",
+      "type": "heading",
+      "page": 2,
+      "text": "Adoption of the Amendment",
+      "level": 2
+    },
+    {
+      "id": "e93",
+      "type": "paragraph",
+      "page": 2,
+      "text": "■ Accordingly, under the authority delegated to me by the Administrator, the Federal Aviation Administration"
+    },
+    {
+      "id": "e94",
+      "type": "paragraph",
+      "page": 2,
+      "text": "VerDate Aug<31>2005 17:48 Jan 30, 2008 Jkt 214001 PO 00000 Frm 00030 Fmt 4700 Sfmt 4700 E:\\FR\\FM\\31JAR1.SGM 31JAR1"
+    },
+    {
+      "id": "e95",
+      "type": "page_header",
+      "page": 3,
+      "text": "Federal Register /Vol. 73, No. 21/Thursday, January 31, 2008/Rules and Regulations"
+    },
+    {
+      "id": "e96",
+      "type": "page_header",
+      "page": 3,
+      "text": "5739"
+    },
+    {
+      "id": "e97",
+      "type": "paragraph",
+      "page": 3,
+      "text": "pwalker on PROD1PC71 with RULES"
+    },
+    {
+      "id": "e98",
+      "type": "paragraph",
+      "page": 3,
+      "text": "amends part 39 of the Federal Aviation Regulations (14 CFR part 39) as follows:"
+    },
+    {
+      "id": "e99",
+      "type": "heading",
+      "page": 3,
+      "text": "PART 39-AIRWORTHINESS DIRECTIVES",
+      "level": 2
+    },
+    {
+      "id": "e100",
+      "type": "paragraph",
+      "page": 3,
+      "text": "■ 1. The authority citation for part 39 continues to read as follows:"
+    },
+    {
+      "id": "e101",
+      "type": "paragraph",
+      "page": 3,
+      "text": "Authority: 49 U.S.C. 106(g), 40113, 44701."
+    },
+    {
+      "id": "e102",
+      "type": "heading",
+      "page": 3,
+      "text": "§39.13 [Amended]",
+      "level": 2
+    },
+    {
+      "id": "e103",
+      "type": "paragraph",
+      "page": 3,
+      "text": "■ 2. FAA amends §39.13 by adding the following new AD:"
+    },
+    {
+      "id": "e104",
+      "type": "heading",
+      "page": 3,
+      "text": "2008-03-02 Cessna Aircraft Company:",
+      "level": 2
+    },
+    {
+      "id": "e105",
+      "type": "paragraph",
+      "page": 3,
+      "text": "Amendment 39-15351; Docket No. FAA-2007-29138; Directorate Identifier 2007-CE-073-AD."
+    },
+    {
+      "id": "e106",
+      "type": "heading",
+      "page": 3,
+      "text": "Effective Date",
+      "level": 2
+    },
+    {
+      "id": "e107",
+      "type": "paragraph",
+      "page": 3,
+      "text": "(a) This AD becomes effective on March 6, 2008."
+    },
+    {
+      "id": "e108",
+      "type": "heading",
+      "page": 3,
+      "text": "Affected ADs",
+      "level": 2
+    },
+    {
+      "id": "e109",
+      "type": "paragraph",
+      "page": 3,
+      "text": "(b) None."
+    },
+    {
+      "id": "e110",
+      "type": "heading",
+      "page": 3,
+      "text": "Applicability",
+      "level": 2
+    },
+    {
+      "id": "e111",
+      "type": "paragraph",
+      "page": 3,
+      "text": "(c) This AD applies to the following airplane models and serial numbers that are certificated in any category:"
+    },
+    {
+      "id": "e112",
+      "type": "table",
+      "header": [
+        "Models",
+        "Serial Nos."
+      ],
+      "rows": [
+        [
+          "172R .........",
+          "17281188 through 17281390."
+        ],
+        [
+          "172S .........",
+          "172S9491 through 172S10489."
+        ]
+      ],
+      "page": 3
+    },
+    {
+      "id": "e113",
+      "type": "heading",
+      "page": 3,
+      "text": "Unsafe Condition",
+      "level": 2
+    },
+    {
+      "id": "e114",
+      "type": "paragraph",
+      "page": 3,
+      "text": "(d) This AD results from reports of chafed fuel return line assemblies caused by the fuel return line assembly rubbing against the right steering tube assembly during full rudder pedal actuation. We are issuing this AD to detect and correct chafing of the fuel return line assembly, which could result in fuel leaking under the cabin floor and fuel vapors entering the cabin. This condition could lead to fire under the floor or in the cabin area."
+    },
+    {
+      "id": "e115",
+      "type": "heading",
+      "page": 3,
+      "text": "Compliance",
+      "level": 2
+    },
+    {
+      "id": "e116",
+      "type": "paragraph",
+      "page": 3,
+      "text": "(e) To address this problem, you must do the following, unless already done:"
+    },
+    {
+      "id": "e117",
+      "type": "paragraph",
+      "page": 3,
+      "text": "Note: The requirements of this AD take precedence over the actions required in the service information."
+    },
+    {
+      "id": "e118",
+      "type": "heading",
+      "page": 3,
+      "text": "Actions",
+      "level": 2
+    },
+    {
+      "id": "e119",
+      "type": "heading",
+      "page": 3,
+      "text": "Compliance",
+      "level": 2
+    },
+    {
+      "id": "e120",
+      "type": "heading",
+      "page": 3,
+      "text": "Procedures",
+      "level": 2
+    },
+    {
+      "id": "e121",
+      "type": "paragraph",
+      "page": 3,
+      "text": "Inspect the fuel return line assembly (Cessna part number (P/N) 0500118-49 or FAA-approved equivalent P/N) for chafing."
+    },
+    {
+      "id": "e122",
+      "type": "paragraph",
+      "page": 3,
+      "text": "If chafing is found in the inspection required in paragraph (e)(1) of this AD, replace the fuel return line assembly (Cessna P/N 0500118-49 or FAA-approved equivalent P/ N)."
+    },
+    {
+      "id": "e123",
+      "type": "paragraph",
+      "page": 3,
+      "text": "Inspect for a minimum clearance of 0.5 inch between the following parts throughout the entire range of copilot rudder pedal travel and adjust the clearance as necessary:"
+    },
+    {
+      "id": "e124",
+      "type": "paragraph",
+      "page": 3,
+      "text": "(i) The fuel return line assembly (Cessna P/N 0500118-49 or FAA-approved equivalent P/N) and the steering tube assembly (Cessna P/N MC05430222C); and"
+    },
+    {
+      "id": "e125",
+      "type": "paragraph",
+      "page": 3,
+      "text": "(ii) The fuel return line assembly (Cessna P/N 0500118-49 or FAA-approved equivalent P/N) and the airplane structure."
+    },
+    {
+      "id": "e126",
+      "type": "paragraph",
+      "page": 3,
+      "text": "Within the next 100 hours time-in-service (TIS) after March 6, 2008 (the effective date of this AD) or within the next 12 months after March 6, 2008 (the effective date of this AD), whichever occurs first. Before further flight after the inspection required in paragraph (e)(1) of this AD where evidence of chafing was found."
+    },
+    {
+      "id": "e127",
+      "type": "paragraph",
+      "page": 3,
+      "text": "Before further flight after: (A) The inspection required in paragraph (e)(1) of this AD if no chafing is found; or (B) The replacement required in paragraph (e)(2) of this AD."
+    },
+    {
+      "id": "e128",
+      "type": "paragraph",
+      "page": 3,
+      "text": "Follow Cessna Service Bulletin SB07-28-01, dated June 18, 2007."
+    },
+    {
+      "id": "e129",
+      "type": "paragraph",
+      "page": 3,
+      "text": "Follow Cessna Service Bulletin SB07-28-01, dated June 18, 2007."
+    },
+    {
+      "id": "e130",
+      "type": "paragraph",
+      "page": 3,
+      "text": "Follow paragraph 6 of the Instructions section of Cessna Service Bulletin SB07-28-01, dated June 18, 2007. This AD requires a minimum clearance of 0.5 inch."
+    },
+    {
+      "id": "e131",
+      "type": "heading",
+      "page": 3,
+      "text": "Alternative Methods of Compliance (AMOCs)",
+      "level": 2
+    },
+    {
+      "id": "e132",
+      "type": "paragraph",
+      "page": 3,
+      "text": "(f) The Manager, Wichita Aircraft Certification Office (ACO), FAA, has the authority to approve AMOCs for this AD, if requested using the procedures found in 14 CFR 39.19. Send information to ATTN: Jeff Janusz, Aerospace Engineer, 1801 Airport Road, Room 100, Wichita, Kansas 67209; telephone: (316) 946-4148; fax: (316) 9464107; e-mail: jeff.janusz@faa.gov. Before using any approved AMOC on any airplane to which the AMOC applies, notify your appropriate principal inspector (PI) in the FAA Flight Standards District Office (FSDO), or lacking a PI, your local FSDO."
+    },
+    {
+      "id": "e133",
+      "type": "heading",
+      "page": 3,
+      "text": "Material Incorporated by Reference",
+      "level": 2
+    },
+    {
+      "id": "e134",
+      "type": "paragraph",
+      "page": 3,
+      "text": "(g) You must use Cessna Service Bulletin SB07-28-01, dated June 18, 2007, to do the actions required by this AD, unless the AD specifies otherwise."
+    },
+    {
+      "id": "e135",
+      "type": "paragraph",
+      "page": 3,
+      "text": "The Director of the Federal Register approved the incorporation by reference of this service information under 5 U.S.C. 552(a) and 1 CFR part 51."
+    },
+    {
+      "id": "e136",
+      "type": "paragraph",
+      "page": 3,
+      "text": "For service information identified in this AD, contact Cessna Aircraft Company,"
+    },
+    {
+      "id": "e137",
+      "type": "heading",
+      "page": 3,
+      "text": "DEPARTMENT OF TRANSPORTATION",
+      "level": 2
+    },
+    {
+      "id": "e138",
+      "type": "heading",
+      "page": 3,
+      "text": "Federal Aviation Administration",
+      "level": 2
+    },
+    {
+      "id": "e139",
+      "type": "heading",
+      "page": 3,
+      "text": "14 CFR Part 71",
+      "level": 2
+    },
+    {
+      "id": "e140",
+      "type": "paragraph",
+      "page": 3,
+      "text": "[Docket No. FAA-2007-0276; Airspace Docket No. 07-AEA-16]"
+    },
+    {
+      "id": "e141",
+      "type": "heading",
+      "page": 3,
+      "text": "Establishment of Class E Airspace; Lewisburg, PA",
+      "level": 2
+    },
+    {
+      "id": "e142",
+      "type": "paragraph",
+      "page": 3,
+      "text": "AGENCY: Federal Aviation Administration (FAA), DOT."
+    },
+    {
+      "id": "e143",
+      "type": "paragraph",
+      "page": 3,
+      "text": "ACTION: Direct final rule, request for comments."
+    },
+    {
+      "id": "e144",
+      "type": "paragraph",
+      "page": 3,
+      "text": "SUMMARY: This action establishes Class E Airspace at Lewisburg, PA to support a new Area Navigation (RNAV) Global Positioning System (GPS) Special Instrument Approach Procedure (IAP) that has been developed for medical flight operations into the Evangelical Community Hospital East Heliport. This action enhances the safety and"
+    },
+    {
+      "id": "e145",
+      "type": "paragraph",
+      "page": 3,
+      "text": "VerDate Aug<31>2005 17:48 Jan 30, 2008 Jkt 214001 PO 00000 Frm 00031 Fmt 4700 Sfmt 4700 E:\\FR\\FM\\31JAR1.SGM 31JAR1"
+    },
+    {
+      "id": "e146",
+      "type": "paragraph",
+      "page": 3,
+      "text": "Product Support, P.O. Box 7706, Wichita, Kansas 67277; telephone: (316) 517-5800; fax: (316) 942-9006."
+    },
+    {
+      "id": "e147",
+      "type": "paragraph",
+      "page": 3,
+      "text": "(3) You may review copies at the FAA, Central Region, Office of the Regional Counsel, 901 Locust, Kansas City, Missouri 64106; or at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202-741-6030, or go to: http://www.archives.gov/federal_register/ code_of_federal_regulations/ ibr_locations.html."
+    },
+    {
+      "id": "e148",
+      "type": "paragraph",
+      "page": 3,
+      "text": "Issued in Kansas City, Missouri, on January 22, 2008."
+    },
+    {
+      "id": "e149",
+      "type": "heading",
+      "page": 3,
+      "text": "John Colomy,",
+      "level": 2
+    },
+    {
+      "id": "e150",
+      "type": "paragraph",
+      "page": 3,
+      "text": "Acting Manager, Small Airplane Directorate, Aircraft Certification Service."
+    },
+    {
+      "id": "e151",
+      "type": "paragraph",
+      "page": 3,
+      "text": "[FR Doc. E8-1460 Filed 1-30-08; 8:45 am]"
+    },
+    {
+      "id": "e152",
+      "type": "paragraph",
+      "page": 3,
+      "text": "BILLING CODE 4910-13-P"
+    }
+  ]
+}

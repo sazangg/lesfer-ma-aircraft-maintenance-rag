@@ -1,0 +1,996 @@
+{
+  "source_id": "AD-2008-02-18",
+  "file": "faa/ad/ad-2008-02-18.pdf",
+  "format": "pdf",
+  "parser": "docling",
+  "meta": {
+    "title": "AD 2008-02-18: Cessna Aircraft Company 172 and 182 Series Airplanes",
+    "publisher": "FAA",
+    "doc_type": "airworthiness directive",
+    "ad_number": "2008-02-18",
+    "action": "Final rule",
+    "published": "2008-01-24",
+    "effective": "2008-02-28",
+    "federal_register": "73 FR 4051 (document E8-1130)",
+    "access": "employees"
+  },
+  "elements": [
+    {
+      "id": "e1",
+      "type": "page_header",
+      "page": 1,
+      "text": "4051"
+    },
+    {
+      "id": "e2",
+      "type": "paragraph",
+      "page": 1,
+      "text": "jlentini on PROD1PC65 with RULES"
+    },
+    {
+      "id": "e3",
+      "type": "heading",
+      "page": 1,
+      "text": "Rules and Regulations",
+      "level": 2
+    },
+    {
+      "id": "e4",
+      "type": "heading",
+      "page": 1,
+      "text": "Federal Register",
+      "level": 2
+    },
+    {
+      "id": "e5",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Vol. 73, No. 16"
+    },
+    {
+      "id": "e6",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Thursday, January 24, 2008"
+    },
+    {
+      "id": "e7",
+      "type": "paragraph",
+      "page": 1,
+      "text": "This section of the FEDERAL REGISTER contains regulatory documents having general applicability and legal effect, most of which are keyed to and codified in the Code of Federal Regulations, which is published under 50 titles pursuant to 44 U.S.C. 1510."
+    },
+    {
+      "id": "e8",
+      "type": "paragraph",
+      "page": 1,
+      "text": "The Code of Federal Regulations is sold by the Superintendent of Documents. Prices of new books are listed in the first FEDERAL REGISTER issue of each week."
+    },
+    {
+      "id": "e9",
+      "type": "heading",
+      "page": 1,
+      "text": "DEPARTMENT OF TRANSPORTATION",
+      "level": 2
+    },
+    {
+      "id": "e10",
+      "type": "heading",
+      "page": 1,
+      "text": "Federal Aviation Administration",
+      "level": 2
+    },
+    {
+      "id": "e11",
+      "type": "heading",
+      "page": 1,
+      "text": "14 CFR Part 39",
+      "level": 2
+    },
+    {
+      "id": "e12",
+      "type": "paragraph",
+      "page": 1,
+      "text": "[Docket No. FAA-2007-28843 Directorate Identifier 2007-CE-065-AD; Amendment 39-15317; AD 2007-26-15]"
+    },
+    {
+      "id": "e13",
+      "type": "heading",
+      "page": 1,
+      "text": "RIN 2120-AA64",
+      "level": 2
+    },
+    {
+      "id": "e14",
+      "type": "heading",
+      "page": 1,
+      "text": "Airworthiness Directives; DG Flugzeugbau GmbH Model DG-500MB Gliders",
+      "level": 2
+    },
+    {
+      "id": "e15",
+      "type": "paragraph",
+      "page": 1,
+      "text": "AGENCY: Federal Aviation Administration (FAA), DOT."
+    },
+    {
+      "id": "e16",
+      "type": "paragraph",
+      "page": 1,
+      "text": "ACTION: Final rule; correction."
+    },
+    {
+      "id": "e17",
+      "type": "paragraph",
+      "page": 1,
+      "text": "SUMMARY: This document makes a correction to Airworthiness Directive (AD) 2007-26-15, which was published in the Federal Register on January 3, 2008 (73 FR 400), and applies to all DG Flugzeugbau GmbH Model DG-500MB gliders. AD 2007-26-15 requires that you modify the affected parts and exchange pages in the flight, maintenance, and repair manuals. The FAA incorrectly referenced the AD number as ''2007-26-25'' instead of ''2007-26-15.'' Current language in §39.13 [Amended] of AD 2007-26-15 references ''AD 2007-26-25'' instead of ''2007-26-15.'' This document corrects that paragraph by replacing the reference of ''2007-26-25'' with ''200726-15.''"
+    },
+    {
+      "id": "e18",
+      "type": "paragraph",
+      "page": 1,
+      "text": "DATES: The effective date of this AD (2007-26-15) remains February 7, 2008. FOR FURTHER INFORMATION CONTACT: Greg Davison, Glider Program Manager, FAA, Small Airplane Directorate, 901 Locust, Room 301, Kansas City, Missouri 64106; telephone: (816) 329-4130; fax: (816) 329-4090."
+    },
+    {
+      "id": "e19",
+      "type": "heading",
+      "page": 1,
+      "text": "SUPPLEMENTARY INFORMATION:",
+      "level": 2
+    },
+    {
+      "id": "e20",
+      "type": "heading",
+      "page": 1,
+      "text": "Discussion",
+      "level": 2
+    },
+    {
+      "id": "e21",
+      "type": "paragraph",
+      "page": 1,
+      "text": "On December 20, 2007, the FAA issued AD 2007-26-15, Amendment"
+    },
+    {
+      "id": "e22",
+      "type": "heading",
+      "page": 1,
+      "text": "DEPARTMENT OF TRANSPORTATION",
+      "level": 2
+    },
+    {
+      "id": "e23",
+      "type": "heading",
+      "page": 1,
+      "text": "Federal Aviation Administration",
+      "level": 2
+    },
+    {
+      "id": "e24",
+      "type": "heading",
+      "page": 1,
+      "text": "14 CFR Part 39",
+      "level": 2
+    },
+    {
+      "id": "e25",
+      "type": "paragraph",
+      "page": 1,
+      "text": "[Docket No. FAA-2007-29317; Directorate Identifier 2007-CE-079-AD; Amendment 39-15348; AD 2008-02-18]"
+    },
+    {
+      "id": "e26",
+      "type": "heading",
+      "page": 1,
+      "text": "RIN 2120-AA64",
+      "level": 2
+    },
+    {
+      "id": "e27",
+      "type": "heading",
+      "page": 1,
+      "text": "Airworthiness Directives; Cessna Aircraft Company 172 and 182 Series Airplanes",
+      "level": 2
+    },
+    {
+      "id": "e28",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Administration (FAA), Department of Transportation (DOT)."
+    },
+    {
+      "id": "e29",
+      "type": "paragraph",
+      "page": 1,
+      "text": "AGENCY: Federal Aviation ACTION: Final rule."
+    },
+    {
+      "id": "e30",
+      "type": "paragraph",
+      "page": 1,
+      "text": "SUMMARY: We are adopting a new airworthiness directive (AD) for certain Cessna Aircraft Company 172 series airplanes with the BRS-172 Parachute System installed via Supplemental Type Certificate (STC) No. SA01679CH and Cessna Aircraft Company 182 series airplanes that are equipped with the BRS-182 Parachute System installed via STC No. SA01999CH. This AD requires you to replace the pick-up collar support and nylon screws for the BRS172 and BRS-182 Parachute System. This AD results from notification by Ballistic Recovery Systems, Inc. (BRS) that the pick-up collar assembly may prematurely move off the launch tube and adversely affect rocket trajectory during deployment. We are issuing this AD to prevent premature separation of the collar, which could result in the parachute failing to successfully deploy. DATES: This AD becomes effective on"
+    },
+    {
+      "id": "e31",
+      "type": "paragraph",
+      "page": 1,
+      "text": "February 28, 2008."
+    },
+    {
+      "id": "e32",
+      "type": "paragraph",
+      "page": 1,
+      "text": "On February 28, 2008, the Director of the Federal Register approved the incorporation by reference of certain publications listed in this AD."
+    },
+    {
+      "id": "e33",
+      "type": "paragraph",
+      "page": 1,
+      "text": "ADDRESSES: For service information identified in this AD, contact Ballistic Recovery Systems, Inc., 300 Airport Road, South Saint Paul, MN 550753551; telephone: (651) 457-7491; fax: (651) 457-8651."
+    },
+    {
+      "id": "e34",
+      "type": "paragraph",
+      "page": 1,
+      "text": "To view the AD docket, go to U.S. Department of Transportation, Docket Operations, M-30, West Building Ground Floor, Room W12-140, 1200 New Jersey Avenue, SE., Washington, DC 20590, or on the Internet at http:// www.regulations.gov. The docket number is FAA-2007-29317; Directorate Identifier 2007-CE-079-AD."
+    },
+    {
+      "id": "e35",
+      "type": "paragraph",
+      "page": 1,
+      "text": "VerDate Aug<31>2005 19:26 Jan 23, 2008 Jkt 214001 PO 00000 Frm 00001 Fmt 4700 Sfmt 4700 E:\\FR\\FM\\24JAR1.SGM 24JAR1"
+    },
+    {
+      "id": "e36",
+      "type": "paragraph",
+      "page": 1,
+      "text": "39-15317 (73 FR 400, January 3, 2008), which applies to all DG Flugzeugbau GmbH Model DG-500MB gliders. AD 2007-26-15 requires you to modify the affected parts and exchange pages in the flight, maintenance, and repair manuals. Current language in §39.13 [Amended] of AD 2007-26-15 references ''200726-25'' instead of ''2007-26-15.''"
+    },
+    {
+      "id": "e37",
+      "type": "heading",
+      "page": 1,
+      "text": "Need for the Correction",
+      "level": 2
+    },
+    {
+      "id": "e38",
+      "type": "paragraph",
+      "page": 1,
+      "text": "This correction is needed to specify the correct AD number of AD 2007-2615."
+    },
+    {
+      "id": "e39",
+      "type": "heading",
+      "page": 1,
+      "text": "Correction of Publication",
+      "level": 2
+    },
+    {
+      "id": "e40",
+      "type": "paragraph",
+      "page": 1,
+      "text": "■ Accordingly, the publication of January 3, 2008 (73 FR 400), of Amendment 39-15317; AD 2007-26-15, which was the subject of FR Doc. E725212, is corrected as follows:"
+    },
+    {
+      "id": "e41",
+      "type": "paragraph",
+      "page": 1,
+      "text": "■ On page 400, in the second column, in the third line under the heading 14 CFR Part 39, replace ''2007-26-25'' with ''2007-26-15.''"
+    },
+    {
+      "id": "e42",
+      "type": "heading",
+      "page": 1,
+      "text": "§39.13 [Corrected]",
+      "level": 2
+    },
+    {
+      "id": "e43",
+      "type": "paragraph",
+      "page": 1,
+      "text": "■ On page 401 in the second column, in the third line under the heading §39.13 [Amended], replace ''2007-26-25'' with ''2007-26-15.''"
+    },
+    {
+      "id": "e44",
+      "type": "paragraph",
+      "page": 1,
+      "text": "■ Action is taken herein to correct this reference in AD 2007-26-15 and to add this AD correction to section 39.13 of the Federal Aviation Regulations (14 CFR 39.13)."
+    },
+    {
+      "id": "e45",
+      "type": "paragraph",
+      "page": 1,
+      "text": "■ The effective date remains February 7, 2008."
+    },
+    {
+      "id": "e46",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Issued in Kansas City, Missouri, on January 11, 2008."
+    },
+    {
+      "id": "e47",
+      "type": "heading",
+      "page": 1,
+      "text": "John Colomy,",
+      "level": 2
+    },
+    {
+      "id": "e48",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Acting Manager, Small Airplane Directorate, Aircraft Certification Service."
+    },
+    {
+      "id": "e49",
+      "type": "paragraph",
+      "page": 1,
+      "text": "[FR Doc. E8-830 Filed 1-23-08; 8:45 am]"
+    },
+    {
+      "id": "e50",
+      "type": "paragraph",
+      "page": 1,
+      "text": "BILLING CODE 4910-13-P"
+    },
+    {
+      "id": "e51",
+      "type": "page_header",
+      "page": 2,
+      "text": "4052"
+    },
+    {
+      "id": "e52",
+      "type": "page_header",
+      "page": 2,
+      "text": "Federal Register /Vol. 73, No. 16/Thursday, January 24, 2008/Rules and Regulations"
+    },
+    {
+      "id": "e53",
+      "type": "paragraph",
+      "page": 2,
+      "text": "jlentini on PROD1PC65 with RULES"
+    },
+    {
+      "id": "e54",
+      "type": "heading",
+      "page": 2,
+      "text": "FOR FURTHER INFORMATION CONTACT:",
+      "level": 2
+    },
+    {
+      "id": "e55",
+      "type": "paragraph",
+      "page": 2,
+      "text": "Gregory Michalik, Senior Aerospace Engineer, 2300 East Devon Avenue, Room 107, Des Plaines, Illinois 60018; telephone: (847) 294-7135; fax: (847) 294-7834."
+    },
+    {
+      "id": "e56",
+      "type": "heading",
+      "page": 2,
+      "text": "SUPPLEMENTARY INFORMATION:",
+      "level": 2
+    },
+    {
+      "id": "e57",
+      "type": "heading",
+      "page": 2,
+      "text": "Discussion",
+      "level": 2
+    },
+    {
+      "id": "e58",
+      "type": "paragraph",
+      "page": 2,
+      "text": "On November 2, 2007, we issued a proposal to amend part 39 of the Federal Aviation Regulations (14 CFR part 39) to include an AD that would apply to certain Cessna Aircraft Company 172 and 182 series airplanes that are equipped with the BRS-172 and BRS182 Parachute System. This proposal was published in the Federal Register as a notice of proposed rulemaking (NPRM) on November 2, 2007 (72 FR 62143). The NPRM proposed to require the replacement of the pick-up collar support and screws for the BRS-172 and BRS-182 Parachute System."
+    },
+    {
+      "id": "e59",
+      "type": "heading",
+      "page": 2,
+      "text": "Comments",
+      "level": 2
+    },
+    {
+      "id": "e60",
+      "type": "paragraph",
+      "page": 2,
+      "text": "We provided the public the opportunity to participate in developing this AD. We received no comments on the proposal or on the determination of the cost to the public."
+    },
+    {
+      "id": "e61",
+      "type": "heading",
+      "page": 2,
+      "text": "Conclusion",
+      "level": 2
+    },
+    {
+      "id": "e62",
+      "type": "paragraph",
+      "page": 2,
+      "text": "We have carefully reviewed the available data and determined that air"
+    },
+    {
+      "id": "e63",
+      "type": "paragraph",
+      "page": 2,
+      "text": "safety and the public interest require adopting the AD as proposed except for minor editorial corrections. We have determined that these minor corrections:"
+    },
+    {
+      "id": "e64",
+      "type": "paragraph",
+      "page": 2,
+      "text": "Are consistent with the intent that was proposed in the NPRM for correcting the unsafe condition; and"
+    },
+    {
+      "id": "e65",
+      "type": "paragraph",
+      "page": 2,
+      "text": "Do not add any additional burden upon the public than was already proposed in the NPRM."
+    },
+    {
+      "id": "e66",
+      "type": "heading",
+      "page": 2,
+      "text": "Costs of Compliance",
+      "level": 2
+    },
+    {
+      "id": "e67",
+      "type": "paragraph",
+      "page": 2,
+      "text": "We estimate that this AD affects 54 airplanes in the U.S. registry."
+    },
+    {
+      "id": "e68",
+      "type": "paragraph",
+      "page": 2,
+      "text": "We estimate the following costs to do the modification:"
+    },
+    {
+      "id": "e69",
+      "type": "table",
+      "header": [
+        "Labor cost",
+        "Parts cost",
+        "Total cost per airplane",
+        "Total cost on U.S. operators"
+      ],
+      "rows": [
+        [
+          "1 work-hour × $80 per hour = $80 ...............................",
+          "Not Applicable ..............................................................",
+          "$80",
+          "$4,320"
+        ]
+      ],
+      "page": 2
+    },
+    {
+      "id": "e70",
+      "type": "paragraph",
+      "page": 2,
+      "text": "Note: BRS will provide warranty credit to the extent noted in Ballistic Recovery Systems, Inc. Service Bulletins SB 07-01 and SB 07-02, both dated June 8, 2007."
+    },
+    {
+      "id": "e71",
+      "type": "heading",
+      "page": 2,
+      "text": "Authority for This Rulemaking",
+      "level": 2
+    },
+    {
+      "id": "e72",
+      "type": "paragraph",
+      "page": 2,
+      "text": "Title 49 of the United States Code specifies the FAA's authority to issue rules on aviation safety. Subtitle I, Section 106 describes the authority of the FAA Administrator. Subtitle VII, Aviation Programs, describes in more detail the scope of the agency's authority."
+    },
+    {
+      "id": "e73",
+      "type": "paragraph",
+      "page": 2,
+      "text": "We are issuing this rulemaking under the authority described in Subtitle VII, Part A, Subpart III, Section 44701, ''General requirements.'' Under that section, Congress charges the FAA with promoting safe flight of civil aircraft in air commerce by prescribing regulations for practices, methods, and procedures the Administrator finds necessary for safety in air commerce. This regulation is within the scope of that authority because it addresses an unsafe condition that is likely to exist or develop on products identified in this AD."
+    },
+    {
+      "id": "e74",
+      "type": "heading",
+      "page": 2,
+      "text": "Regulatory Findings",
+      "level": 2
+    },
+    {
+      "id": "e75",
+      "type": "paragraph",
+      "page": 2,
+      "text": "We have determined that this AD will not have federalism implications under Executive Order 13132. This AD will not have a substantial direct effect on the States, on the relationship between the national government and the States, or on the distribution of power and responsibilities among the various levels of government."
+    },
+    {
+      "id": "e76",
+      "type": "paragraph",
+      "page": 2,
+      "text": "For the reasons discussed above, I certify that this AD:"
+    },
+    {
+      "id": "e77",
+      "type": "paragraph",
+      "page": 2,
+      "text": "Is not a ''significant regulatory action'' under Executive Order 12866;"
+    },
+    {
+      "id": "e78",
+      "type": "paragraph",
+      "page": 2,
+      "text": "Is not a ''significant rule'' under the DOT Regulatory Policies and Procedures (44 FR 11034, February 26, 1979); and"
+    },
+    {
+      "id": "e79",
+      "type": "paragraph",
+      "page": 2,
+      "text": "Will not have a significant economic impact, positive or negative, on a substantial number of small entities under the criteria of the Regulatory Flexibility Act."
+    },
+    {
+      "id": "e80",
+      "type": "paragraph",
+      "page": 2,
+      "text": "We prepared a summary of the costs to comply with this AD (and other information as included in the Regulatory Evaluation) and placed it in the AD Docket. You may get a copy of this summary by sending a request to us at the address listed under ADDRESSES. Include ''Docket No. FAA-2007-29317; Directorate Identifier 2007-CE-079AD'' in your request."
+    },
+    {
+      "id": "e81",
+      "type": "heading",
+      "page": 2,
+      "text": "List of Subjects in 14 CFR Part 39",
+      "level": 2
+    },
+    {
+      "id": "e82",
+      "type": "paragraph",
+      "page": 2,
+      "text": "Air transportation, Aircraft, Aviation safety, Incorporation by reference, Safety."
+    },
+    {
+      "id": "e83",
+      "type": "heading",
+      "page": 2,
+      "text": "Adoption of the Amendment",
+      "level": 2
+    },
+    {
+      "id": "e84",
+      "type": "paragraph",
+      "page": 2,
+      "text": "■ Accordingly, under the authority delegated to me by the Administrator, the Federal Aviation Administration amends part 39 of the Federal Aviation Regulations (14 CFR part 39) as follows:"
+    },
+    {
+      "id": "e85",
+      "type": "heading",
+      "page": 2,
+      "text": "PART 39-AIRWORTHINESS DIRECTIVES",
+      "level": 2
+    },
+    {
+      "id": "e86",
+      "type": "paragraph",
+      "page": 2,
+      "text": "■ 1. The authority citation for part 39 continues to read as follows:"
+    },
+    {
+      "id": "e87",
+      "type": "paragraph",
+      "page": 2,
+      "text": "Authority: 49 U.S.C. 106(g), 40113, 44701."
+    },
+    {
+      "id": "e88",
+      "type": "heading",
+      "page": 2,
+      "text": "§39.13 [Amended]",
+      "level": 2
+    },
+    {
+      "id": "e89",
+      "type": "paragraph",
+      "page": 2,
+      "text": "■ 2. FAA amends §39.13 by adding the following new AD:"
+    },
+    {
+      "id": "e90",
+      "type": "heading",
+      "page": 2,
+      "text": "2008-02-18 Cessna Aircraft Company:",
+      "level": 2
+    },
+    {
+      "id": "e91",
+      "type": "paragraph",
+      "page": 2,
+      "text": "Amendment 39-15348; Docket No. FAA-2007-29317; Directorate Identifier 2007-CE-079-AD."
+    },
+    {
+      "id": "e92",
+      "type": "heading",
+      "page": 2,
+      "text": "Effective Date",
+      "level": 2
+    },
+    {
+      "id": "e93",
+      "type": "paragraph",
+      "page": 2,
+      "text": "(a) This AD becomes effective on February 28, 2008."
+    },
+    {
+      "id": "e94",
+      "type": "heading",
+      "page": 2,
+      "text": "Affected ADs",
+      "level": 2
+    },
+    {
+      "id": "e95",
+      "type": "paragraph",
+      "page": 2,
+      "text": "(b) None."
+    },
+    {
+      "id": "e96",
+      "type": "heading",
+      "page": 2,
+      "text": "Applicability",
+      "level": 2
+    },
+    {
+      "id": "e97",
+      "type": "paragraph",
+      "page": 2,
+      "text": "(c) This AD applies to the following airplane models, all serial numbers, certificated in any category, that are equipped with:"
+    },
+    {
+      "id": "e98",
+      "type": "paragraph",
+      "page": 2,
+      "text": "BRS-172 Parachute System installed via Supplemental Type Certificate (STC) No. SA01679CH, or"
+    },
+    {
+      "id": "e99",
+      "type": "paragraph",
+      "page": 2,
+      "text": "(2) BRS-182 Parachute System installed via STC No. SA01999CH."
+    },
+    {
+      "id": "e100",
+      "type": "table",
+      "header": [
+        "Cessna 172 models",
+        "Cessna 182 models"
+      ],
+      "rows": [
+        [
+          "172 172A 172B 172C 172D 172E 172F (USAF T-41A) 172G 172H (USAF T-41A) 172I 172K 172L 172M 172N 172P 172Q 172R 172S R172J R172K",
+          "182G 182H 182J 182K 182L 182M 182N 182P 182Q 182R 182S 182T T182 T182T"
+        ]
+      ],
+      "page": 2
+    },
+    {
+      "id": "e101",
+      "type": "heading",
+      "page": 2,
+      "text": "Unsafe Condition",
+      "level": 2
+    },
+    {
+      "id": "e102",
+      "type": "paragraph",
+      "page": 2,
+      "text": "(d) This AD results from notification by Ballistic Recovery Systems, Inc. (BRS) that the pick-up collar assembly may prematurely move off the launch tube and adversely affect rocket trajectory during deployment. We are issuing this AD to prevent premature separation of the collar. This condition could"
+    },
+    {
+      "id": "e103",
+      "type": "paragraph",
+      "page": 2,
+      "text": "VerDate Aug<31>2005 19:26 Jan 23, 2008 Jkt 214001 PO 00000 Frm 00002 Fmt 4700 Sfmt 4700 E:\\FR\\FM\\24JAR1.SGM 24JAR1"
+    },
+    {
+      "id": "e104",
+      "type": "page_header",
+      "page": 3,
+      "text": "Federal Register /Vol. 73, No. 16/Thursday, January 24, 2008/Rules and Regulations"
+    },
+    {
+      "id": "e105",
+      "type": "page_header",
+      "page": 3,
+      "text": "4053"
+    },
+    {
+      "id": "e106",
+      "type": "paragraph",
+      "page": 3,
+      "text": "jlentini on PROD1PC65 with RULES"
+    },
+    {
+      "id": "e107",
+      "type": "paragraph",
+      "page": 3,
+      "text": "result in the parachute failing to successfully deploy."
+    },
+    {
+      "id": "e108",
+      "type": "heading",
+      "page": 3,
+      "text": "Compliance",
+      "level": 2
+    },
+    {
+      "id": "e109",
+      "type": "paragraph",
+      "page": 3,
+      "text": "(e) To address this problem, you must do the following, unless already done:"
+    },
+    {
+      "id": "e110",
+      "type": "table",
+      "header": [
+        "Actions",
+        "Compliance",
+        "Procedures"
+      ],
+      "rows": [
+        [
+          "Remove and replace the pick-up collar support and two retaining screws.",
+          "Within the next 25 hours time-in-service after February 28, 2008 (the effective date of this AD).",
+          "(i) For Cessna 172 series airplanes follow BRS SB 07-01, dated June 8, 2007. (ii) For Cessna 182 series airplanes, follow BRS SB 07-02, dated June 8, 2007."
+        ]
+      ],
+      "page": 3
+    },
+    {
+      "id": "e111",
+      "type": "heading",
+      "page": 3,
+      "text": "Alternative Methods of Compliance (AMOCs)",
+      "level": 2
+    },
+    {
+      "id": "e112",
+      "type": "paragraph",
+      "page": 3,
+      "text": "(f) The Manager, Chicago Aircraft Certification Office, FAA, has the authority to approve AMOCs for this AD, if requested using the procedures found in 14 CFR 39.19. Send information to ATTN: Gregory Michalik, Senior Aerospace Engineer, FAA, 2300 East Devon Avenue, Des Plaines, Illinois, 60018; telephone: (847) 294-7135; fax: (847) 294-7834; e-mail: gregory.michalik@faa.gov. Before using any approved AMOC on any airplane to which the AMOC applies, notify your appropriate principal inspector (PI) in the FAA Flight Standards District Office (FSDO), or lacking a PI, your local FSDO."
+    },
+    {
+      "id": "e113",
+      "type": "heading",
+      "page": 3,
+      "text": "Material Incorporated by Reference",
+      "level": 2
+    },
+    {
+      "id": "e114",
+      "type": "paragraph",
+      "page": 3,
+      "text": "(g) You must use Ballistic Recovery Systems, Inc. Service Bulletin No. 07-01, dated June 8, 2007, for Cessna 172 series airplanes; or Ballistic Recovery Systems, Inc. Service Bulletin No. 07-02, dated June 8, 2007, for Cessna 182 series airplanes; to do the actions required by this AD, unless the AD specifies otherwise."
+    },
+    {
+      "id": "e115",
+      "type": "paragraph",
+      "page": 3,
+      "text": "The Director of the Federal Register approved the incorporation by reference of this service information under 5 U.S.C. 552(a) and 1 CFR part 51."
+    },
+    {
+      "id": "e116",
+      "type": "paragraph",
+      "page": 3,
+      "text": "For service information identified in this AD, contact Ballistic Recovery Systems, Inc., 300 Airport Road, South Saint Paul, MN 55075-3551; telephone: (651) 457-7491; fax: (651) 457-8651."
+    },
+    {
+      "id": "e117",
+      "type": "paragraph",
+      "page": 3,
+      "text": "(3) You may review copies at the FAA, Central Region, Office of the Regional Counsel, 901 Locust, Kansas City, Missouri 64106; or at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202-741-6030, or go to: http://www.archives.gov/federal_register/ code_of_federal_regulations/ ibr_locations.html."
+    },
+    {
+      "id": "e118",
+      "type": "paragraph",
+      "page": 3,
+      "text": "Issued in Kansas City, Missouri, on January 16, 2008."
+    },
+    {
+      "id": "e119",
+      "type": "heading",
+      "page": 3,
+      "text": "James E. Jackson,",
+      "level": 2
+    },
+    {
+      "id": "e120",
+      "type": "paragraph",
+      "page": 3,
+      "text": "Acting Manager, Small Airplane Directorate, Aircraft Certification Service."
+    },
+    {
+      "id": "e121",
+      "type": "paragraph",
+      "page": 3,
+      "text": "[FR Doc. E8-1130 Filed 1-23-08; 8:45 am]"
+    },
+    {
+      "id": "e122",
+      "type": "paragraph",
+      "page": 3,
+      "text": "BILLING CODE 4910-13-P"
+    },
+    {
+      "id": "e123",
+      "type": "heading",
+      "page": 3,
+      "text": "DEPARTMENT OF TRANSPORTATION",
+      "level": 2
+    },
+    {
+      "id": "e124",
+      "type": "heading",
+      "page": 3,
+      "text": "Federal Aviation Administration",
+      "level": 2
+    },
+    {
+      "id": "e125",
+      "type": "heading",
+      "page": 3,
+      "text": "14 CFR Part 39",
+      "level": 2
+    },
+    {
+      "id": "e126",
+      "type": "paragraph",
+      "page": 3,
+      "text": "[Docket No. FAA-2007-28884; Directorate Identifier 2007-NM-116-AD; Amendment 39-15343; AD 2008-02-13]"
+    },
+    {
+      "id": "e127",
+      "type": "paragraph",
+      "page": 3,
+      "text": "RIN 2120-AA64"
+    },
+    {
+      "id": "e128",
+      "type": "heading",
+      "page": 3,
+      "text": "Airworthiness Directives; Boeing Model 727 Airplanes",
+      "level": 2
+    },
+    {
+      "id": "e129",
+      "type": "paragraph",
+      "page": 3,
+      "text": "AGENCY: Federal Aviation Administration (FAA), DOT. ACTION: Final rule."
+    },
+    {
+      "id": "e130",
+      "type": "paragraph",
+      "page": 3,
+      "text": "SUMMARY: We are adopting a new airworthiness directive (AD) for all Boeing Model 727 airplanes. This AD requires repetitive external high frequency eddy current (HFEC) inspections of the crown skin for cracks at certain stringer attachment holes, and repair if necessary. This AD results from a report of cracks at multiple locations on certain areas of the crown skin. We are issuing this AD to detect and correct fatigue cracks of the crown skin, which could result in rapid decompression of the airplane."
+    },
+    {
+      "id": "e131",
+      "type": "paragraph",
+      "page": 3,
+      "text": "DATES: This AD is effective February 28, 2008."
+    },
+    {
+      "id": "e132",
+      "type": "paragraph",
+      "page": 3,
+      "text": "The Director of the Federal Register approved the incorporation by reference of a certain publication listed in this AD as of February 28, 2008."
+    },
+    {
+      "id": "e133",
+      "type": "paragraph",
+      "page": 3,
+      "text": "ADDRESSES: For service information identified in this AD, contact Boeing Commercial Airplanes, P.O. Box 3707, Seattle, Washington 98124-2207."
+    },
+    {
+      "id": "e134",
+      "type": "heading",
+      "page": 3,
+      "text": "Examining the AD Docket",
+      "level": 2
+    },
+    {
+      "id": "e135",
+      "type": "paragraph",
+      "page": 3,
+      "text": "You may examine the AD docket on the Internet at http:// www.regulations.gov; or in person at the Docket Management Facility between 9 a.m. and 5 p.m., Monday through Friday, except Federal holidays. The AD docket contains this AD, the regulatory evaluation, any comments received, and other information. The address for the Docket Office (telephone 800-647-5527) is the Document Management Facility, U.S. Department of Transportation, Docket Operations, M-30, West Building Ground Floor, Room W12-140,"
+    },
+    {
+      "id": "e136",
+      "type": "paragraph",
+      "page": 3,
+      "text": "1200 New Jersey Avenue, SE., Washington, DC 20590."
+    },
+    {
+      "id": "e137",
+      "type": "heading",
+      "page": 3,
+      "text": "FOR FURTHER INFORMATION CONTACT:",
+      "level": 2
+    },
+    {
+      "id": "e138",
+      "type": "paragraph",
+      "page": 3,
+      "text": "Berhane Alazar, Aerospace Engineer, Airframe Branch, ANM-120S, FAA, Seattle Aircraft Certification Office, 1601 Lind Avenue, SW., Renton, Washington 98057-3356; telephone (425) 917-6577; fax (425) 917-6590."
+    },
+    {
+      "id": "e139",
+      "type": "heading",
+      "page": 3,
+      "text": "SUPPLEMENTARY INFORMATION:",
+      "level": 2
+    },
+    {
+      "id": "e140",
+      "type": "heading",
+      "page": 3,
+      "text": "Discussion",
+      "level": 2
+    },
+    {
+      "id": "e141",
+      "type": "paragraph",
+      "page": 3,
+      "text": "We issued a notice of proposed rulemaking (NPRM) to amend 14 CFR part 39 to include an airworthiness directive (AD) that would apply to all Boeing Model 727 airplanes. That NPRM was published in the Federal Register on August 8, 2007 (72 FR 44433). That NPRM proposed to require repetitive external high frequency eddy current (HFEC) inspections of the crown skin for cracks at certain stringer attachment holes, and repair if necessary."
+    },
+    {
+      "id": "e142",
+      "type": "heading",
+      "page": 3,
+      "text": "Comments",
+      "level": 2
+    },
+    {
+      "id": "e143",
+      "type": "paragraph",
+      "page": 3,
+      "text": "We gave the public the opportunity to participate in developing this AD. We considered the comment received from the commenter."
+    },
+    {
+      "id": "e144",
+      "type": "heading",
+      "page": 3,
+      "text": "Request to Delegate Approval of Alternative Methods of Compliance (AMOC) for Repairs",
+      "level": 2
+    },
+    {
+      "id": "e145",
+      "type": "paragraph",
+      "page": 3,
+      "text": "Boeing requests that paragraph (h) of the NPRM be revised to allow AMOCs for any required repair to be approved by an Authorized Representative for the Boeing Commercial Airplanes Delegation Option Authorization Organization who has been authorized by the Manager, Seattle Aircraft Certification Office."
+    },
+    {
+      "id": "e146",
+      "type": "paragraph",
+      "page": 3,
+      "text": "We agree with Boeing's request and have revised paragraph (h) of the AD accordingly."
+    },
+    {
+      "id": "e147",
+      "type": "heading",
+      "page": 3,
+      "text": "Conclusion",
+      "level": 2
+    },
+    {
+      "id": "e148",
+      "type": "paragraph",
+      "page": 3,
+      "text": "We reviewed the relevant data, considered the comment received, and determined that air safety and the public interest require adopting the AD with the change described previously. We also determined that this change will not increase the economic burden"
+    },
+    {
+      "id": "e149",
+      "type": "paragraph",
+      "page": 3,
+      "text": "VerDate Aug<31>2005 19:26 Jan 23, 2008 Jkt 214001 PO 00000 Frm 00003 Fmt 4700 Sfmt 4700 E:\\FR\\FM\\24JAR1.SGM 24JAR1"
+    }
+  ]
+}

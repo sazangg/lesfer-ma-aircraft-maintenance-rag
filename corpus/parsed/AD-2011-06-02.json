@@ -1,0 +1,1032 @@
+{
+  "source_id": "AD-2011-06-02",
+  "file": "faa/ad/ad-2011-06-02.pdf",
+  "format": "pdf",
+  "parser": "docling",
+  "meta": {
+    "title": "AD 2011-06-02: Cessna Aircraft Company (Cessna) Model 172 Airplanes Modified by Supplemental Type Certificate (STC) SA01303WI",
+    "publisher": "FAA",
+    "doc_type": "airworthiness directive",
+    "ad_number": "2011-06-02",
+    "action": "Final rule",
+    "published": "2011-04-21",
+    "effective": "2011-05-26",
+    "federal_register": "76 FR 22298 (document 2011-8564)",
+    "access": "employees"
+  },
+  "elements": [
+    {
+      "id": "e1",
+      "type": "page_header",
+      "page": 1,
+      "text": "22298"
+    },
+    {
+      "id": "e2",
+      "type": "page_header",
+      "page": 1,
+      "text": "Federal Register /Vol. 76, No. 77/Thursday, April 21, 2011/Rules and Regulations"
+    },
+    {
+      "id": "e3",
+      "type": "paragraph",
+      "page": 1,
+      "text": "WReier-Aviles on DSKGBLS3C1PROD with RULES"
+    },
+    {
+      "id": "e4",
+      "type": "paragraph",
+      "page": 1,
+      "text": "2, 3, 4, 5, and 7 of BAE Systems (Operations) Limited Inspection Service Bulletin ISB.53167, including Appendix 2, Revision 4, dated June 10, 2010, and at intervals not to exceed 4,600 flight cycles for areas specified in Drawings 1, 6, 8, and 9 of BAE Systems (Operations) Limited Inspection Service Bulletin ISB.53-167, including Appendix 2, Revision 4, dated June 10, 2010. Doing the inspection required by this paragraph terminates the requirements of paragraph (g) of this AD for that airplane."
+    },
+    {
+      "id": "e5",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Before the accumulation of 16,000 total flight cycles."
+    },
+    {
+      "id": "e6",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Within 2,000 flight cycles after the effective date of this AD."
+    },
+    {
+      "id": "e7",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Within the applicable times specified in paragraphs (j)(3)(i) and (j)(3)(ii) of this AD."
+    },
+    {
+      "id": "e8",
+      "type": "paragraph",
+      "page": 1,
+      "text": "(i) For areas specified in Drawings 2, 3, 4, 5, and 7 of BAE Systems (Operations) Limited Inspection Service Bulletin ISB.53167, including Appendix 2, Revision 4, dated June 10, 2010: Within 3,600 flight cycles after the last inspection done in accordance with paragraph (g) of this AD."
+    },
+    {
+      "id": "e9",
+      "type": "paragraph",
+      "page": 1,
+      "text": "(ii) For areas specified in Drawings 1, 6, 8, and 9 of BAE Systems (Operations) Limited Inspection Service Bulletin ISB.53-167, including Appendix 2, Revision 4, dated June 10, 2010: Within 4,600 flight cycles after the last inspection done in accordance with paragraph (g) of this AD."
+    },
+    {
+      "id": "e10",
+      "type": "paragraph",
+      "page": 1,
+      "text": "(k) For Model Avro 146-RJ airplanes: At the latest of the times specified in paragraph (k)(1), (k)(2), and (k)(3) of this AD, do an external eddy current inspection of the forward fuselage skin to detect cracking, in accordance with the Accomplishment Instructions of BAE Systems (Operations) Limited Inspection Service Bulletin ISB.53167, including Appendix 2, Revision 4, dated June 10, 2010. Repeat the inspection thereafter at intervals not to exceed 2,400 flight cycles for areas specified in Drawings 2, 3, 4, 5, and 7 of BAE Systems (Operations) Limited Inspection Service Bulletin ISB.53167, including Appendix 2, Revision 4, dated June 10, 2010, and 3,000 flight cycles for areas specified in Drawings 1, 6, 8, and 9 of BAE Systems (Operations) Limited Inspection Service Bulletin ISB.53-167, including Appendix 2, Revision 4, dated June 10, 2010. Doing the inspection required by this paragraph terminates the requirements of paragraph (g) of this AD for that airplane."
+    },
+    {
+      "id": "e11",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Before the accumulation of 10,000 total flight cycles."
+    },
+    {
+      "id": "e12",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Within 1,000 flight cycles after the effective date of this AD."
+    },
+    {
+      "id": "e13",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Within the applicable times specified in paragraphs (k)(3)(i) and (k)(3)(ii) of this AD."
+    },
+    {
+      "id": "e14",
+      "type": "paragraph",
+      "page": 1,
+      "text": "(i) For areas specified in Drawings 2, 3, 4, 5, and 7 of BAE Systems (Operations) Limited Inspection Service Bulletin ISB.53167, including Appendix 2, Revision 4, dated June 10, 2010: Within 3,600 flight cycles after the last inspection done in accordance with paragraph (g) of this AD."
+    },
+    {
+      "id": "e15",
+      "type": "paragraph",
+      "page": 1,
+      "text": "(ii) For areas specified in Drawings 1, 6, 8, and 9 of BAE Systems (Operations) Limited Inspection Service Bulletin ISB.53-167, including Appendix 2, Revision 4, dated June 10, 2010: Within 4,600 flight cycles after the last inspection done in accordance with paragraph (g) of this AD."
+    },
+    {
+      "id": "e16",
+      "type": "paragraph",
+      "page": 1,
+      "text": "(l) If any cracking is found during any inspection required by paragraph (j) or (k) of"
+    },
+    {
+      "id": "e17",
+      "type": "paragraph",
+      "page": 1,
+      "text": "this AD, before further flight, accomplish the repair in accordance with a method approved by the FAA or EASA (or its delegated agent). Repair of an airplane in accordance with the requirements of this paragraph of this AD does not constitute terminating action for the inspection requirements of this AD."
+    },
+    {
+      "id": "e18",
+      "type": "heading",
+      "page": 1,
+      "text": "Credit for Actions Accomplished in Accordance With Previous Service Information",
+      "level": 2
+    },
+    {
+      "id": "e19",
+      "type": "paragraph",
+      "page": 1,
+      "text": "(m) Inspections done before the effective date of this AD in accordance with BAE Systems (Operations) Limited Inspection Service Bulletin ISB.53-167, including Appendix 2, Revision 2, dated November 17, 2008; or Revision 3, dated June 17, 2009; are acceptable for compliance with the corresponding requirements of paragraphs (j) and (k) of this AD."
+    },
+    {
+      "id": "e20",
+      "type": "heading",
+      "page": 1,
+      "text": "FAA AD Differences",
+      "level": 2
+    },
+    {
+      "id": "e21",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Note 1: This AD differs from the MCAI and/or service information as follows: No differences."
+    },
+    {
+      "id": "e22",
+      "type": "heading",
+      "page": 1,
+      "text": "Other FAA AD Provisions",
+      "level": 2
+    },
+    {
+      "id": "e23",
+      "type": "paragraph",
+      "page": 1,
+      "text": "(n) The following provisions also apply to this AD:"
+    },
+    {
+      "id": "e24",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Alternative Methods of Compliance (AMOCs): The Manager, International Branch, ANM-116, FAA, has the authority to approve AMOCs for this AD, if requested using the procedures found in 14 CFR 39.19. In accordance with 14 CFR 39.19, send your request to your principal inspector or local Flight Standards District Office, as appropriate. If sending information directly to the International Branch, send it to Attn: Todd Thompson, Aerospace Engineer, International Branch, ANM-116, Transport Airplane Directorate, FAA, 1601 Lind Avenue, SW., Renton, Washington 980573356; telephone (425) 227-1175; fax (425) 227-1149. Information may be e-mailed to: 9ANM-116-AMOC-REQUESTS@faa.gov. Before using any approved AMOC, notify your appropriate principal inspector, or lacking a principal inspector, the manager of the local flight standards district office/ certificate holding district office. The AMOC approval letter must specifically reference this AD."
+    },
+    {
+      "id": "e25",
+      "type": "paragraph",
+      "page": 1,
+      "text": "(2) Airworthy Product: For any requirement in this AD to obtain corrective actions from a manufacturer or other source, use these actions if they are FAA-approved. Corrective actions are considered FAAapproved if they are approved by the State of Design Authority (or their delegated agent). You are required to assure the product is airworthy before it is returned to service."
+    },
+    {
+      "id": "e26",
+      "type": "heading",
+      "page": 1,
+      "text": "Related Information",
+      "level": 2
+    },
+    {
+      "id": "e27",
+      "type": "paragraph",
+      "page": 1,
+      "text": "(o) Refer to MCAI EASA Airworthiness Directive 2009-0070R1, dated July 2, 2010; BAE Systems (Operations) Limited Modification Service Bulletin ISB.53-167, including Appendix 2, Revision 1, dated May 18, 2004; and BAE Systems (Operations) Limited Inspection Service Bulletin ISB.53167, including Appendix 2, Revision 4, dated June 10, 2010; for related information."
+    },
+    {
+      "id": "e28",
+      "type": "heading",
+      "page": 1,
+      "text": "Material Incorporated by Reference",
+      "level": 2
+    },
+    {
+      "id": "e29",
+      "type": "paragraph",
+      "page": 1,
+      "text": "(p) You must use BAE Systems (Operations) Limited Modification Service Bulletin ISB.53-167, including Appendix 2, Revision 1, dated May 18, 2004; and BAE Systems (Operations) Limited Inspection Service Bulletin ISB.53-167, including Appendix 2, Revision 4, dated June 10, 2010; as applicable; to do the actions required by this AD, unless the AD specifies otherwise."
+    },
+    {
+      "id": "e30",
+      "type": "paragraph",
+      "page": 1,
+      "text": "(1) The Director of the Federal Register approved the incorporation by reference of BAE Systems (Operations) Limited Modification Service Bulletin ISB.53-167, including Appendix 2, Revision 4, dated June 10, 2010, under 5 U.S.C. 552(a) and 1 CFR part 51."
+    },
+    {
+      "id": "e31",
+      "type": "paragraph",
+      "page": 1,
+      "text": "The Director of the Federal Register previously approved the incorporation by reference of BAE Systems (Operations) Limited Modification Service Bulletin ISB.53-167, including Appendix 2, Revision 1, dated May 18, 2004, on August 2, 2005 (70 FR 37022, June 28, 2005)."
+    },
+    {
+      "id": "e32",
+      "type": "paragraph",
+      "page": 1,
+      "text": "For service information identified in this AD, contact BAE SYSTEMS (OPERATIONS) LIMITED, Customer Information Department, Prestwick International Airport, Ayrshire, KA9 2RW, Scotland, United Kingdom; telephone +44 1292 675207; fax +44 1292 675704; e-mail RApublications@baesystems.com; Internet http://www.baesystems.com/Businesses/ RegionalAircraft/index.htm."
+    },
+    {
+      "id": "e33",
+      "type": "paragraph",
+      "page": 1,
+      "text": "You may review copies of the service information at the FAA, Transport Airplane Directorate, 1601 Lind Avenue, SW., Renton, Washington. For information on the availability of this material at the FAA, call 425-227-1221."
+    },
+    {
+      "id": "e34",
+      "type": "paragraph",
+      "page": 1,
+      "text": "You may also review copies of the service information that is incorporated by reference at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202-741-6030, or go to: http://www.archives.gov/federal_register/ code_of_federal_regulations/ ibr_locations.html."
+    },
+    {
+      "id": "e35",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Issued in Renton, Washington, on April 4, 2011."
+    },
+    {
+      "id": "e36",
+      "type": "heading",
+      "page": 1,
+      "text": "Ali Bahrami,",
+      "level": 2
+    },
+    {
+      "id": "e37",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Manager, Transport Airplane Directorate, Aircraft Certification Service."
+    },
+    {
+      "id": "e38",
+      "type": "paragraph",
+      "page": 1,
+      "text": "[FR Doc. 2011-8667 Filed 4-20-11; 8:45 am]"
+    },
+    {
+      "id": "e39",
+      "type": "paragraph",
+      "page": 1,
+      "text": "BILLING CODE 4910-13-P"
+    },
+    {
+      "id": "e40",
+      "type": "heading",
+      "page": 1,
+      "text": "DEPARTMENT OF TRANSPORTATION",
+      "level": 2
+    },
+    {
+      "id": "e41",
+      "type": "heading",
+      "page": 1,
+      "text": "Federal Aviation Administration",
+      "level": 2
+    },
+    {
+      "id": "e42",
+      "type": "heading",
+      "page": 1,
+      "text": "14 CFR Part 39",
+      "level": 2
+    },
+    {
+      "id": "e43",
+      "type": "paragraph",
+      "page": 1,
+      "text": "[Docket No. FAA-2010-1243; Directorate Identifier 2010-CE-058-AD; Amendment 39-16626; AD 2011-06-02]"
+    },
+    {
+      "id": "e44",
+      "type": "heading",
+      "page": 1,
+      "text": "RIN 2120-AA64",
+      "level": 2
+    },
+    {
+      "id": "e45",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Airworthiness Directives; Cessna Aircraft Company (Cessna) Model 172 Airplanes Modified by Supplemental Type Certificate (STC) SA01303WI"
+    },
+    {
+      "id": "e46",
+      "type": "paragraph",
+      "page": 1,
+      "text": "AGENCY: Federal Aviation"
+    },
+    {
+      "id": "e47",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Administration (FAA), DOT."
+    },
+    {
+      "id": "e48",
+      "type": "paragraph",
+      "page": 1,
+      "text": "ACTION: Final rule."
+    },
+    {
+      "id": "e49",
+      "type": "paragraph",
+      "page": 1,
+      "text": "VerDate Mar<15>2010 15:00 Apr 20, 2011 Jkt 223001 PO 00000 Frm 00006 Fmt 4700 Sfmt 4700 E:\\FR\\FM\\21APR1.SGM 21APR1"
+    },
+    {
+      "id": "e50",
+      "type": "page_header",
+      "page": 2,
+      "text": "Federal Register /Vol. 76, No. 77/Thursday, April 21, 2011/Rules and Regulations"
+    },
+    {
+      "id": "e51",
+      "type": "page_header",
+      "page": 2,
+      "text": "22299"
+    },
+    {
+      "id": "e52",
+      "type": "paragraph",
+      "page": 2,
+      "text": "WReier-Aviles on DSKGBLS3C1PROD with RULES"
+    },
+    {
+      "id": "e53",
+      "type": "paragraph",
+      "page": 2,
+      "text": "SUMMARY: We are adopting a new airworthiness directive (AD) for the products listed above. This AD requires installing a full authority digital engine control (FADEC) backup battery, replacing the supplement pilot's operating handbook and FAA approved airplane flight manual, and replacing the FADEC backup battery every 12 calendar months. This AD was prompted by an incident where an airplane experienced an in-flight engine shutdown caused by a momentary loss of electrical power to the FADEC. We are issuing this AD to prevent interruption of electrical power to the FADEC, which could result in an uncommanded engine shutdown. This failure could lead to a loss of engine power."
+    },
+    {
+      "id": "e54",
+      "type": "paragraph",
+      "page": 2,
+      "text": "DATES: This AD is effective May 26, 2011."
+    },
+    {
+      "id": "e55",
+      "type": "paragraph",
+      "page": 2,
+      "text": "Director of the Federal Register approved the incorporation by reference of certain publications listed in the AD as of May 26, 2011."
+    },
+    {
+      "id": "e56",
+      "type": "paragraph",
+      "page": 2,
+      "text": "ADDRESSES: For service information identified in this AD, contact Thielert Aircraft Engines Service GmbH, Platanenstra+e 14, D-09350 Lichtenstein, Deutschland; telephone: +49 (37204) 696-1474; fax: +49 (37204) 696-1910; Internet: http:// www.thielert.com/. You may review copies of the referenced service information at the FAA, Small Airplane Directorate, 901 Locust, Kansas City, Missouri 64106. For information on the availability of this material at the FAA, call 816-329-4148."
+    },
+    {
+      "id": "e57",
+      "type": "heading",
+      "page": 2,
+      "text": "Examining the AD Docket",
+      "level": 2
+    },
+    {
+      "id": "e58",
+      "type": "paragraph",
+      "page": 2,
+      "text": "You may examine the AD docket on the Internet at http:// www.regulations.gov; or in person at the Docket Management Facility between 9 a.m. and 5 p.m., Monday through Friday, except Federal holidays. The AD docket contains this AD, the regulatory evaluation, any comments received, and other information. The address for the Docket Office (phone: 800-647-5527) is Document Management Facility, U.S. Department of Transportation, Docket Operations, M-30, West Building Ground Floor, Room W12-140, 1200 New Jersey Avenue, SE., Washington, DC 20590."
+    },
+    {
+      "id": "e59",
+      "type": "heading",
+      "page": 2,
+      "text": "FOR FURTHER INFORMATION CONTACT:",
+      "level": 2
+    },
+    {
+      "id": "e60",
+      "type": "paragraph",
+      "page": 2,
+      "text": "Richard Rejniak, Aerospace Engineer, Wichita Aircraft Certification Office (ACO), FAA, 1801 Airport Road, Room 100; phone: (316) 946-4128; fax: (316) 946-4107; e-mail:"
+    },
+    {
+      "id": "e61",
+      "type": "paragraph",
+      "page": 2,
+      "text": "richard.rejniak@faa.gov."
+    },
+    {
+      "id": "e62",
+      "type": "heading",
+      "page": 2,
+      "text": "SUPPLEMENTARY INFORMATION:",
+      "level": 2
+    },
+    {
+      "id": "e63",
+      "type": "heading",
+      "page": 2,
+      "text": "Discussion",
+      "level": 2
+    },
+    {
+      "id": "e64",
+      "type": "paragraph",
+      "page": 2,
+      "text": "We issued a notice of proposed rulemaking (NPRM) to amend 14 CFR part 39 to include an airworthiness directive (AD) that would apply to the specified products. That NPRM published in the Federal Register on December 15, 2010 (75 FR 78177). That NPRM proposed to require installing a FADEC backup battery, replacing the supplement pilot's operating handbook and FAA approved airplane flight manual, and replacing the FADEC backup battery every 12 calendar months."
+    },
+    {
+      "id": "e65",
+      "type": "heading",
+      "page": 2,
+      "text": "Comments",
+      "level": 2
+    },
+    {
+      "id": "e66",
+      "type": "paragraph",
+      "page": 2,
+      "text": "We gave the public the opportunity to participate in developing this AD. The following presents the comment received on the proposal and the FAA's response to the comment."
+    },
+    {
+      "id": "e67",
+      "type": "heading",
+      "page": 2,
+      "text": "Request",
+      "level": 2
+    },
+    {
+      "id": "e68",
+      "type": "paragraph",
+      "page": 2,
+      "text": "Rob van den Bosch, Thielert Aircraft Engines GmbH, when referring to the airplane maintenance manual (AMM)"
+    },
+    {
+      "id": "e69",
+      "type": "heading",
+      "page": 2,
+      "text": "ESTIMATED COSTS",
+      "level": 2
+    },
+    {
+      "id": "e70",
+      "type": "table",
+      "header": [
+        "Action",
+        "Labor cost",
+        "Parts cost",
+        "Cost per product",
+        "Cost on U.S. operators"
+      ],
+      "rows": [
+        [
+          "For airplanes with a 14-volt battery system; installation of a 14-volt FADEC backup battery.",
+          "24 work-hours × $85 per hour = $2,040.",
+          "$820",
+          "$2,860",
+          "$14,300"
+        ],
+        [
+          "For airplanes with a 28-volt battery system; installation of a 28-volt FADEC backup battery.",
+          "24 work-hours × $85 per hour = $2,040.",
+          "1,160",
+          "3,200",
+          "28,800"
+        ]
+      ],
+      "page": 2
+    },
+    {
+      "id": "e71",
+      "type": "heading",
+      "page": 2,
+      "text": "Authority for This Rulemaking",
+      "level": 2
+    },
+    {
+      "id": "e72",
+      "type": "paragraph",
+      "page": 2,
+      "text": "Title 49 of the United States Code specifies the FAA's authority to issue rules on aviation safety. Subtitle I, section 106, describes the authority of the FAA Administrator. Subtitle VII: Aviation Programs, describes in more detail the scope of the Agency's authority."
+    },
+    {
+      "id": "e73",
+      "type": "paragraph",
+      "page": 2,
+      "text": "We are issuing this rulemaking under the authority described in subtitle VII, part A, subpart III, section 44701: ''General requirements.'' Under that section, Congress charges the FAA with promoting safe flight of civil aircraft in air commerce by prescribing regulations for practices, methods, and procedures the Administrator finds necessary for safety in air commerce. This regulation is within the scope of that authority because it addresses an unsafe condition that is likely to exist or develop on products identified in this rulemaking action."
+    },
+    {
+      "id": "e74",
+      "type": "heading",
+      "page": 2,
+      "text": "Regulatory Findings",
+      "level": 2
+    },
+    {
+      "id": "e75",
+      "type": "paragraph",
+      "page": 2,
+      "text": "This AD will not have federalism implications under Executive Order 13132. This AD will not have a"
+    },
+    {
+      "id": "e76",
+      "type": "paragraph",
+      "page": 2,
+      "text": "VerDate Mar<15>2010 15:00 Apr 20, 2011 Jkt 223001 PO 00000 Frm 00007 Fmt 4700 Sfmt 4700 E:\\FR\\FM\\21APR1.SGM 21APR1"
+    },
+    {
+      "id": "e77",
+      "type": "paragraph",
+      "page": 2,
+      "text": "and airplane flight manual (AFM) supplement, recommended adding ''or later approved issue or revision.'' The commenter reasoned that future changes to the AMM or AFM would require additional work by the FAA to update the AD."
+    },
+    {
+      "id": "e78",
+      "type": "paragraph",
+      "page": 2,
+      "text": "We disagree with the recommendation. If we would include such language, it would violate regulation, specifically 1 CFR 51.1, paragraph (f), which states ''Incorporation by reference of a publication is limited to the edition of the publication that is approved. Future amendments or revisions of the publication are not included.''. Service information that we incorporate by reference in an AD is often revised after we issue the AD. We can approve later revisions of service information as an alternative method of compliance (AMOC)."
+    },
+    {
+      "id": "e79",
+      "type": "paragraph",
+      "page": 2,
+      "text": "The FAA is not changing this AD as a result of this comment."
+    },
+    {
+      "id": "e80",
+      "type": "heading",
+      "page": 2,
+      "text": "Conclusion",
+      "level": 2
+    },
+    {
+      "id": "e81",
+      "type": "paragraph",
+      "page": 2,
+      "text": "We reviewed the relevant data, considered the comment received, and determined that air safety and the public interest require adopting the AD as proposed except for minor editorial changes. We have determined that these minor changes:"
+    },
+    {
+      "id": "e82",
+      "type": "paragraph",
+      "page": 2,
+      "text": "Are consistent with the intent that was proposed in the NPRM for correcting the unsafe condition; and"
+    },
+    {
+      "id": "e83",
+      "type": "paragraph",
+      "page": 2,
+      "text": "Do not add any additional burden upon the public than was already proposed in the NPRM."
+    },
+    {
+      "id": "e84",
+      "type": "heading",
+      "page": 2,
+      "text": "Costs of Compliance",
+      "level": 2
+    },
+    {
+      "id": "e85",
+      "type": "paragraph",
+      "page": 2,
+      "text": "We estimate that this AD affects 14 airplanes of U.S. registry."
+    },
+    {
+      "id": "e86",
+      "type": "paragraph",
+      "page": 2,
+      "text": "We estimate the following costs to comply with this AD:"
+    },
+    {
+      "id": "e87",
+      "type": "page_header",
+      "page": 3,
+      "text": "22300"
+    },
+    {
+      "id": "e88",
+      "type": "page_header",
+      "page": 3,
+      "text": "Federal Register /Vol. 76, No. 77/Thursday, April 21, 2011/Rules and Regulations"
+    },
+    {
+      "id": "e89",
+      "type": "paragraph",
+      "page": 3,
+      "text": "WReier-Aviles on DSKGBLS3C1PROD with RULES"
+    },
+    {
+      "id": "e90",
+      "type": "paragraph",
+      "page": 3,
+      "text": "substantial direct effect on the States, on the relationship between the national government and the States, or on the distribution of power and responsibilities among the various levels of government."
+    },
+    {
+      "id": "e91",
+      "type": "paragraph",
+      "page": 3,
+      "text": "For the reasons discussed above, I certify that this AD:"
+    },
+    {
+      "id": "e92",
+      "type": "paragraph",
+      "page": 3,
+      "text": "Is not a ''significant regulatory action'' under Executive Order 12866,"
+    },
+    {
+      "id": "e93",
+      "type": "paragraph",
+      "page": 3,
+      "text": "Is not a ''significant rule'' under DOT Regulatory Policies and Procedures (44 FR 11034, February 26, 1979),"
+    },
+    {
+      "id": "e94",
+      "type": "paragraph",
+      "page": 3,
+      "text": "Will not affect intrastate aviation in Alaska, and"
+    },
+    {
+      "id": "e95",
+      "type": "paragraph",
+      "page": 3,
+      "text": "Will not have a significant economic impact, positive or negative, on a substantial number of small entities under the criteria of the Regulatory Flexibility Act."
+    },
+    {
+      "id": "e96",
+      "type": "heading",
+      "page": 3,
+      "text": "List of Subjects in 14 CFR Part 39",
+      "level": 2
+    },
+    {
+      "id": "e97",
+      "type": "paragraph",
+      "page": 3,
+      "text": "Air transportation, Aircraft, Aviation safety, Incorporation by reference, Safety."
+    },
+    {
+      "id": "e98",
+      "type": "heading",
+      "page": 3,
+      "text": "Adoption of the Amendment",
+      "level": 2
+    },
+    {
+      "id": "e99",
+      "type": "paragraph",
+      "page": 3,
+      "text": "Accordingly, under the authority delegated to me by the Administrator, the FAA amends 14 CFR part 39 as follows:"
+    },
+    {
+      "id": "e100",
+      "type": "heading",
+      "page": 3,
+      "text": "PART 39-AIRWORTHINESS DIRECTIVES",
+      "level": 2
+    },
+    {
+      "id": "e101",
+      "type": "paragraph",
+      "page": 3,
+      "text": "■ 1. The authority citation for part 39 continues to read as follows:"
+    },
+    {
+      "id": "e102",
+      "type": "paragraph",
+      "page": 3,
+      "text": "Authority: 49 U.S.C. 106(g), 40113, 44701."
+    },
+    {
+      "id": "e103",
+      "type": "table",
+      "header": [
+        "Model",
+        "Engine",
+        "Group"
+      ],
+      "rows": [
+        [
+          "(1) 172F, 172G, 172H, 172I, 172K, 172L, 172M, F172F, F172G, F172H, F172K, F172L, and F172M .. (2) 172F, 172G, 172H, 172I, 172K, 172L, 172M, F172F, F172G, F172H, F172K, F172L, and F172M .. (3) 172N, 172P, F172N, and F172P .......................................................................................................... (4) 172N, 172P, F172N, and F172P .......................................................................................................... (5) 172R and 172S ..................................................................................................................................... (6) 172R and 172S .....................................................................................................................................",
+          "TAE 125-01 ................... TAE 125-02-99 ............. TAE 125-01 ................... TAE 125-02-99 ............. TAE 125-01 ................... TAE 125-02-99 .............",
+          "1 2 3 4 5 6"
+        ]
+      ],
+      "page": 3
+    },
+    {
+      "id": "e104",
+      "type": "paragraph",
+      "page": 3,
+      "text": "TABLE 1"
+    },
+    {
+      "id": "e105",
+      "type": "heading",
+      "page": 3,
+      "text": "Subject",
+      "level": 2
+    },
+    {
+      "id": "e106",
+      "type": "paragraph",
+      "page": 3,
+      "text": "(d) Joint Aircraft System Component (JASC)/Air Transport Association (ATA) of America Code 72: Engine."
+    },
+    {
+      "id": "e107",
+      "type": "heading",
+      "page": 3,
+      "text": "Unsafe Condition",
+      "level": 2
+    },
+    {
+      "id": "e108",
+      "type": "paragraph",
+      "page": 3,
+      "text": "(e) This AD was prompted by an incident where an airplane experienced an in-flight engine shutdown caused by a momentary loss of electrical power to the FADEC. We are issuing this AD to prevent interruption of electrical power to the FADEC, which could result in an uncommanded engine shutdown. This failure could lead to a loss of engine power."
+    },
+    {
+      "id": "e109",
+      "type": "heading",
+      "page": 3,
+      "text": "Compliance",
+      "level": 2
+    },
+    {
+      "id": "e110",
+      "type": "paragraph",
+      "page": 3,
+      "text": "(f) Comply with this AD within the compliance times specified, unless already done."
+    },
+    {
+      "id": "e111",
+      "type": "table",
+      "header": [
+        "Actions",
+        "Compliance",
+        "Procedures"
+      ],
+      "rows": [
+        [
+          "(1) For all airplanes: Modify the engine elec- trical system by installing a backup battery system and associated wiring and circuitry.",
+          "Within the next 100 hours time-in-service after May 26, 2011 (the effective date of this AD) or within 30 days after May 26, 2011 (the effective date of this AD), whichever occurs first.",
+          "(i) For groups 1, 3, and 5 airplanes: Follow Thielert Aircraft Engines GmbH Service Bul- letin TM TAE 601-0007, Revision 8, dated October 14, 2010. (ii) For groups 2, 4, and 6 airplanes: Follow Thielert Aircraft Engines GmbH Service Bul- letin TM TAE 601-1001 P1, Revision 8, dated October 14, 2010."
+        ],
+        [
+          "(2) For all airplanes: Replace the FADEC backup battery.",
+          "Within 12 calendar months after doing the modification required in paragraph (f)(1) of this AD and repetitively thereafter within 12 calendar months after the previous replace- ment.",
+          "(i) For groups 1, 3, and 5 airplanes: Follow Page 8, Revison 2, dated October 8, 2010, from Chapter 24 ''Electrical Power'' (Chap- ter 20-AMM-24-01-US) of Thielert Aircraft Engines GmbH Supplement Airplane Main- tenance Manual Cessna 172 & Reims F172 TAE 125-01, Doc. No.: AMM-20-01 (US- Version) Version: 2/4. (ii) For groups 2, 4, and 6 airplanes: Follow page 7, Revision 1, dated October 8, 2010, from Chapter 24 ''Electrical Power'' (Chap- ter 20-AMM-24-02-US) of Thielert Aircraft Engines GmbH Supplement Airplane Main- tenance Manual Cessna 172 & Reims F172 CENTURION 2.0 (TAE 125-02-99), Doc. No.: AMM-20-02 (US-Version) Version: 1/ 1."
+        ]
+      ],
+      "page": 3
+    },
+    {
+      "id": "e112",
+      "type": "paragraph",
+      "page": 3,
+      "text": "VerDate Mar<15>2010 15:00 Apr 20, 2011 Jkt 223001 PO 00000 Frm 00008 Fmt 4700 Sfmt 4700 E:\\FR\\FM\\21APR1.SGM 21APR1"
+    },
+    {
+      "id": "e113",
+      "type": "heading",
+      "page": 3,
+      "text": "§39.13 [Amended]",
+      "level": 2
+    },
+    {
+      "id": "e114",
+      "type": "paragraph",
+      "page": 3,
+      "text": "■ 2. The FAA amends §39.13 by adding the following new airworthiness directive (AD):"
+    },
+    {
+      "id": "e115",
+      "type": "heading",
+      "page": 3,
+      "text": "2011-06-02 Cessna Aircraft Company:",
+      "level": 2
+    },
+    {
+      "id": "e116",
+      "type": "paragraph",
+      "page": 3,
+      "text": "Amendment 39-16626; Docket No. FAA-2010-1243; Directorate Identifier 2010-CE-058-AD."
+    },
+    {
+      "id": "e117",
+      "type": "heading",
+      "page": 3,
+      "text": "Effective Date",
+      "level": 2
+    },
+    {
+      "id": "e118",
+      "type": "paragraph",
+      "page": 3,
+      "text": "(a) This AD is effective May 26, 2011."
+    },
+    {
+      "id": "e119",
+      "type": "heading",
+      "page": 3,
+      "text": "Affected ADs",
+      "level": 2
+    },
+    {
+      "id": "e120",
+      "type": "paragraph",
+      "page": 3,
+      "text": "(b) None."
+    },
+    {
+      "id": "e121",
+      "type": "heading",
+      "page": 3,
+      "text": "Applicability",
+      "level": 2
+    },
+    {
+      "id": "e122",
+      "type": "paragraph",
+      "page": 3,
+      "text": "(c) This AD applies to all serial numbers of the following airplanes, certified in any category, that are modified by Supplemental Type Certificate (STC) SA01303WI, as identified in Table 1 of this AD:"
+    },
+    {
+      "id": "e123",
+      "type": "page_header",
+      "page": 4,
+      "text": "Federal Register /Vol. 76, No. 77/Thursday, April 21, 2011/Rules and Regulations"
+    },
+    {
+      "id": "e124",
+      "type": "page_header",
+      "page": 4,
+      "text": "22301"
+    },
+    {
+      "id": "e125",
+      "type": "paragraph",
+      "page": 4,
+      "text": "WReier-Aviles on DSKGBLS3C1PROD with RULES"
+    },
+    {
+      "id": "e126",
+      "type": "table",
+      "header": [
+        "Actions",
+        "Compliance",
+        "Procedures"
+      ],
+      "rows": [
+        [
+          "(3) For groups 1 and 2 airplanes: Incorporate Thielert Aircraft Engines GmbH ''Supple- mental Airplane Flight Manual or Pilot's Oper- ating Handbook and FAA Approved Airplane Flight Manual Supplement (as applicable) for the Cessna 172 F, G, H, I, K, L, M, Reims Cessna F172 F, G, H, K, L, M, Equipped with TAE 125-01 or TAE 125-02-99 Installation,'' Issue 2-1, TAE-Nr.: 20-0310-21042, dated October 4, 2010, into the pilot's operating",
+          "Before further flight after doing the modifica- tion required in paragraph (f)(1) of this AD.",
+          "Not applicable."
+        ],
+        [
+          "handbook. (4) For groups 3 and 4 airplanes: Incorporate Thielert Aircraft Engines GmbH ''Supple- mental Airplane Flight Manual or Pilot's Oper- ating Handbook and FAA Approved Airplane Flight Manual Supplement (as applicable) for the Cessna 172 N & P, Reims Cessna F172 N & P, Equipped with TAE 125-01 or TAE 125-02-99 Installation,'' Issue 2-1, TAE-Nr.: 20-0310-20042, dated October 4, 2010, into",
+          "Before further flight after doing the modifica- tion required in paragraph (f)(1) of this AD.",
+          "Not applicable."
+        ],
+        [
+          "the pilot's operating handbook. (5) For groups 5 and 6 airplanes: Incorporate Thielert Aircraft Engines GmbH ''Supple- mental Pilot's Operating Handbook and FAA Approved Airplane Flight Manual Supplement for the Cessna 172 R & S, Equipped with TAE 125-01 or TAE 125-02-99 Installation,'' Issue 2-1, TAE-Nr.: 20-0310-22042, dated October 4, 2010, into the pilot's operating handbook.",
+          "Before further flight after doing the modifica- tion required in paragraph (f)(1) of this AD.",
+          "Not applicable."
+        ]
+      ],
+      "page": 4
+    },
+    {
+      "id": "e127",
+      "type": "heading",
+      "page": 4,
+      "text": "Alternative Methods of Compliance (AMOCs)",
+      "level": 2
+    },
+    {
+      "id": "e128",
+      "type": "paragraph",
+      "page": 4,
+      "text": "(g)(1) The Manager, Wichita Aircraft Certification Office (ACO), FAA, has the authority to approve AMOCs for this AD, if requested using the procedures found in 14 CFR 39.19. In accordance with 14 CFR 39.19, send your request to your principal inspector or local Flight Standards District Office, as appropriate. If sending information directly to the manager of the ACO, send it to the attention of the person identified in the Related Information section of this AD."
+    },
+    {
+      "id": "e129",
+      "type": "paragraph",
+      "page": 4,
+      "text": "(2) Before using any approved AMOC, notify your Principal Maintenance Inspector or Principal Avionics Inspector, as appropriate, or lacking a principal inspector, your local Flight Standards District Office."
+    },
+    {
+      "id": "e130",
+      "type": "heading",
+      "page": 4,
+      "text": "Related Information",
+      "level": 2
+    },
+    {
+      "id": "e131",
+      "type": "paragraph",
+      "page": 4,
+      "text": "(h) For more information about this AD, contact Richard Rejniak, Aerospace Engineer, Wichita ACO, FAA, 1801 Airport Road, Room 100; phone: (316) 946-4128; fax: (316) 946-4107; e-mail: richard.rejniak@faa.gov."
+    },
+    {
+      "id": "e132",
+      "type": "heading",
+      "page": 4,
+      "text": "Material Incorporated by Reference",
+      "level": 2
+    },
+    {
+      "id": "e133",
+      "type": "paragraph",
+      "page": 4,
+      "text": "(i) You must use the following information to do the actions required by this AD, unless the AD specifies otherwise:"
+    },
+    {
+      "id": "e134",
+      "type": "paragraph",
+      "page": 4,
+      "text": "(1) Thielert Aircraft Engines GmbH Service Bulletin TM TAE 601-0007, Revision 8, dated October 14, 2010;"
+    },
+    {
+      "id": "e135",
+      "type": "paragraph",
+      "page": 4,
+      "text": "(2) Thielert Aircraft Engines GmbH Service Bulletin TM TAE 601-1001 P1, Revision 8, dated October 14, 2010;"
+    },
+    {
+      "id": "e136",
+      "type": "paragraph",
+      "page": 4,
+      "text": "(3) Chapter 24 ''Electrical Power'' (Chapter 20-AMM-24-01-US), Issue 2, Revision No.: 2, dated October 8, 2010, of Thielert Aircraft Engines GmbH Supplement Airplane"
+    },
+    {
+      "id": "e137",
+      "type": "paragraph",
+      "page": 4,
+      "text": "Maintenance Manual Cessna 172 & Reims F172 TAE 125-01, Doc. No.: AMM-20-01 (US-Version) Version: 2/4;"
+    },
+    {
+      "id": "e138",
+      "type": "paragraph",
+      "page": 4,
+      "text": "Chapter 24 ''Electrical Power'' (Chapter 20-AMM-24-02-US), Issue: 1, Rev. No: 1, dated October 8, 2010, of Thielert Aircraft Engines GmbH Supplement Airplane Maintenance Manual Cessna 172 & Reims F172 CENTURION 2.0 (TAE 125-02-99), Doc. No.: AMM-20-02 (US-Version) Version: 1/1;"
+    },
+    {
+      "id": "e139",
+      "type": "paragraph",
+      "page": 4,
+      "text": "(5) Thielert Aircraft Engines GmbH ''Supplemental Airplane Flight Manual or Pilot's Operating Handbook and FAA Approved Airplane Flight Manual Supplement (as applicable) for the Cessna 172 F, G, H, I, K, L, M, Reims Cessna F172 F, G, H, K, L, M, Equipped with TAE 12501 or TAE 125-02-99 Installation,'' Issue 21, TAE-Nr.: 20-0310-21042, dated October 4, 2010; and"
+    },
+    {
+      "id": "e140",
+      "type": "paragraph",
+      "page": 4,
+      "text": "(6) Thielert Aircraft Engines GmbH ''Supplemental Airplane Flight Manual or Pilot's Operating Handbook and FAA Approved Airplane Flight Manual Supplement (as applicable) for the Cessna 172 N & P, Reims Cessna F172 N & P, Equipped with TAE 125-01 or TAE 125-0299 Installation,'' Issue 2-1, TAE-Nr.: 200310-20042, dated October 4, 2010; and"
+    },
+    {
+      "id": "e141",
+      "type": "paragraph",
+      "page": 4,
+      "text": "(7) Thielert Aircraft Engines GmbH ''Supplemental Pilot's Operating Handbook and FAA Approved Airplane Flight Manual Supplement for the Cessna 172 R & S, Equipped with TAE 125-01 or TAE 125-0299 Installation,'' Issue 2-1, TAE-Nr.: 200310-22042, dated October 4, 2010."
+    },
+    {
+      "id": "e142",
+      "type": "paragraph",
+      "page": 4,
+      "text": "(j) The Director of the Federal Register approved the incorporation by reference of this service information under 5 U.S.C. 552(a) and 1 CFR part 51."
+    },
+    {
+      "id": "e143",
+      "type": "paragraph",
+      "page": 4,
+      "text": "VerDate Mar<15>2010 15:00 Apr 20, 2011 Jkt 223001 PO 00000 Frm 00009 Fmt 4700 Sfmt 9990 E:\\FR\\FM\\21APR1.SGM 21APR1"
+    },
+    {
+      "id": "e144",
+      "type": "paragraph",
+      "page": 4,
+      "text": "For service information identified in this AD, contact Thielert Aircraft Engines Service GmbH, Platanenstra+e 14, D-09350 Lichtenstein, Deutschland; telephone: +49 (37204) 696-1474; fax: +49 (37204) 6961910; Internet: http://www.thielert.com/."
+    },
+    {
+      "id": "e145",
+      "type": "paragraph",
+      "page": 4,
+      "text": "You may review copies of the service information at the FAA, Small Airplane Directorate, 901 Locust, Kansas City, Missouri 64106. For information on the availability of this material at the FAA, call 816-329-4148."
+    },
+    {
+      "id": "e146",
+      "type": "paragraph",
+      "page": 4,
+      "text": "You may also review copies of the service information that is incorporated by reference at the National Archives and Records Administration (NARA). For information on the availability of this material at an NARA facility, call 202-7416030, or go to http://www.archives.gov/ federal_register/code_of_federal_regulations/ ibr_locations.html."
+    },
+    {
+      "id": "e147",
+      "type": "paragraph",
+      "page": 4,
+      "text": "Issued in Kansas City, Missouri, on April 5, 2011."
+    },
+    {
+      "id": "e148",
+      "type": "heading",
+      "page": 4,
+      "text": "Earl Lawrence,",
+      "level": 2
+    },
+    {
+      "id": "e149",
+      "type": "paragraph",
+      "page": 4,
+      "text": "Manager, Small Airplane Directorate, Aircraft Certification Service."
+    },
+    {
+      "id": "e150",
+      "type": "paragraph",
+      "page": 4,
+      "text": "[FR Doc. 2011-8564 Filed 4-20-11; 8:45 am]"
+    },
+    {
+      "id": "e151",
+      "type": "heading",
+      "page": 4,
+      "text": "BILLING CODE 4910-13-P",
+      "level": 2
+    }
+  ]
+}

@@ -1,0 +1,1913 @@
+{
+  "source_id": "AD-2008-26-10",
+  "file": "faa/ad/ad-2008-26-10.pdf",
+  "format": "pdf",
+  "parser": "docling",
+  "meta": {
+    "title": "AD 2008-26-10: Cessna Aircraft Company 172, 175, 177, 180, 182, 185, 188, 206, 207, 208, 210, 303, 336, and 337 Series Airplanes",
+    "publisher": "FAA",
+    "doc_type": "airworthiness directive",
+    "ad_number": "2008-26-10",
+    "action": "Final rule; request for comments",
+    "published": "2008-12-24",
+    "effective": "2009-01-05",
+    "federal_register": "73 FR 78939 (document E8-30465)",
+    "access": "employees"
+  },
+  "elements": [
+    {
+      "id": "e1",
+      "type": "page_header",
+      "page": 1,
+      "text": "Federal Register /Vol. 73, No. 248/Wednesday, December 24, 2008/Rules and Regulations"
+    },
+    {
+      "id": "e2",
+      "type": "page_header",
+      "page": 1,
+      "text": "78939"
+    },
+    {
+      "id": "e3",
+      "type": "paragraph",
+      "page": 1,
+      "text": "pwalker on PROD1PC71 with RULES"
+    },
+    {
+      "id": "e4",
+      "type": "table",
+      "header": [
+        "Service information",
+        "Revision level",
+        "Date"
+      ],
+      "rows": [
+        [
+          "McDonnell Douglas Report No. L26-011, ''DC-8 Supplemental Inspection Document (SID),'' Volume III-91",
+          "Original .............",
+          "April 1991."
+        ]
+      ],
+      "page": 1
+    },
+    {
+      "id": "e5",
+      "type": "paragraph",
+      "page": 1,
+      "text": "TABLE 2-MATERIAL INCORPORATED BY REFERENCE-Continued"
+    },
+    {
+      "id": "e6",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Boeing Report No. L26-011, ''DC-8 All Series Supplemental Inspection Document (SID),'' Volume I, Revision 7, dated March 2008, contains the following effective pages:"
+    },
+    {
+      "id": "e7",
+      "type": "table",
+      "header": [
+        "Pages",
+        "Revision",
+        "Date"
+      ],
+      "rows": [
+        [
+          "List of Effective Pages, Pages A through C.",
+          "7",
+          "March 2008."
+        ]
+      ],
+      "page": 1
+    },
+    {
+      "id": "e8",
+      "type": "paragraph",
+      "page": 1,
+      "text": "McDonnell Douglas Report No. L26-011, ''DC-8 Supplemental Inspection Document (SID),'' Volume II, Revision 8, dated January 2005, contains the following effective pages:"
+    },
+    {
+      "id": "e9",
+      "type": "table",
+      "header": [
+        "Pages",
+        "Revision",
+        "Date"
+      ],
+      "rows": [
+        [
+          "List of Effective Pages, Pages A through L.",
+          "8",
+          "March 2008."
+        ]
+      ],
+      "page": 1
+    },
+    {
+      "id": "e10",
+      "type": "paragraph",
+      "page": 1,
+      "text": "(1) The Director of the Federal Register approved the incorporation by reference of Boeing Report No. L26-011, ''DC-8 All Series Supplemental Inspection Document (SID),'' Volume I, Revision 7, dated March 2008; and McDonnell Douglas Report No. L26-011, ''DC-8 Supplemental Inspection Document (SID),'' Volume II, Revision 8, dated January 2005; in accordance with 5 U.S.C. 552(a) and 1 CFR part 51."
+    },
+    {
+      "id": "e11",
+      "type": "paragraph",
+      "page": 1,
+      "text": "(2) On February 26, 1993 (58 FR 5576, January 22, 1993), the Director of the Federal Register approved the incorporation by reference of McDonnell Douglas Report No. L26-011, ''DC-8 Supplemental Inspection Document (SID),'' Volume I, Revision 3, dated March 1991; and McDonnell Douglas Report No. L26-011, ''DC-8 Supplemental Inspection Document (SID),'' Volume III-91, dated April 1991."
+    },
+    {
+      "id": "e12",
+      "type": "paragraph",
+      "page": 1,
+      "text": "(3) Contact Boeing Commercial Airplanes, Attention: Data & Services Management, 3855 Lakewood Boulevard, MC D800-0019, Long Beach, California 90846-0001; telephone 206-544-5000, extension 2; fax 206-7665683; e-mail dse.boecom@boeing.com; Internet https://www.myboeingfleet.com."
+    },
+    {
+      "id": "e13",
+      "type": "paragraph",
+      "page": 1,
+      "text": "(4) You may review copies of the service information that is incorporated by reference at the FAA, Transport Airplane Directorate, 1601 Lind Avenue, SW., Renton, Washington. For information on the availability of this material at the FAA, call 425-227-1221 or 425-227-1152."
+    },
+    {
+      "id": "e14",
+      "type": "paragraph",
+      "page": 1,
+      "text": "(5) You may also review copies of the service information at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202-741-6030, or go to: http://www.archives.gov/federal_register/ code_of_federal_regulations/ ibr_locations.html."
+    },
+    {
+      "id": "e15",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Issued in Renton, Washington, on November 26, 2008."
+    },
+    {
+      "id": "e16",
+      "type": "heading",
+      "page": 1,
+      "text": "Ali Bahrami,",
+      "level": 2
+    },
+    {
+      "id": "e17",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Manager, Transport Airplane Directorate, Aircraft Certification Service."
+    },
+    {
+      "id": "e18",
+      "type": "paragraph",
+      "page": 1,
+      "text": "[FR Doc. E8-29233 Filed 12-23-08; 8:45 am] BILLING CODE 4910-13-P"
+    },
+    {
+      "id": "e19",
+      "type": "heading",
+      "page": 1,
+      "text": "DEPARTMENT OF TRANSPORTATION",
+      "level": 2
+    },
+    {
+      "id": "e20",
+      "type": "heading",
+      "page": 1,
+      "text": "Federal Aviation Administration",
+      "level": 2
+    },
+    {
+      "id": "e21",
+      "type": "heading",
+      "page": 1,
+      "text": "14 CFR Part 39",
+      "level": 2
+    },
+    {
+      "id": "e22",
+      "type": "paragraph",
+      "page": 1,
+      "text": "[Docket No. FAA-2008-1328; Directorate Identifier 2008-CE-066-AD; Amendment 39-15776; AD 2008-26-10]"
+    },
+    {
+      "id": "e23",
+      "type": "paragraph",
+      "page": 1,
+      "text": "RIN 2120-AA64"
+    },
+    {
+      "id": "e24",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Airworthiness Directives; Cessna Aircraft Company 172, 175, 177, 180, 182, 185, 188, 206, 207, 208, 210, 303, 336, and 337 Series Airplanes"
+    },
+    {
+      "id": "e25",
+      "type": "paragraph",
+      "page": 1,
+      "text": "AGENCY: Federal Aviation"
+    },
+    {
+      "id": "e26",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Administration (FAA), DOT."
+    },
+    {
+      "id": "e27",
+      "type": "paragraph",
+      "page": 1,
+      "text": "ACTION: Final rule; request for comments."
+    },
+    {
+      "id": "e28",
+      "type": "paragraph",
+      "page": 1,
+      "text": "SUMMARY: The FAA is adopting a new airworthiness directive (AD) for certain Cessna Aircraft Company (Cessna) 172, 175, 177, 180, 182, 185, 188, 206, 207, 208, 210, 303, 336, and 337 series airplanes. This AD requires you to inspect the alternate static air source selector valve to assure that the part number identification placard does not obstruct the alternate static air source selector valve port. If the part number identification placard obstructs the port, this AD also requires you to remove the placard, assure that the port is unobstructed, and report to the FAA if obstruction is found. This AD results from reports of airplanes found with alternate static air source selector valve port obstruction caused by improper installation of the part number identification placard. The actions specified by this AD are intended to prevent erroneous indications from the altimeter, airspeed, and vertical speed indicators, which could cause the pilot to react to incorrect flight information and possibly result in loss of control. DATES: This AD becomes effective on January 5, 2009."
+    },
+    {
+      "id": "e29",
+      "type": "paragraph",
+      "page": 1,
+      "text": "On January 5, 2009, the Director of the Federal Register approved the incorporation by reference of certain publications listed in this AD."
+    },
+    {
+      "id": "e30",
+      "type": "paragraph",
+      "page": 1,
+      "text": "We must receive any comments on this AD by February 23, 2009."
+    },
+    {
+      "id": "e31",
+      "type": "paragraph",
+      "page": 1,
+      "text": "ADDRESSES: Use one of the following addresses to comment on this AD."
+    },
+    {
+      "id": "e32",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Federal eRulemaking Portal: Go to http://www.regulations.gov. Follow the instructions for submitting comments."
+    },
+    {
+      "id": "e33",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Fax: (202) 493-2251."
+    },
+    {
+      "id": "e34",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Mail: U.S. Department of"
+    },
+    {
+      "id": "e35",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Transportation, Docket Operations, M30, West Building Ground Floor, Room W12-140, 1200 New Jersey Avenue, SE., Washington, DC 20590."
+    },
+    {
+      "id": "e36",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Hand Delivery: U.S. Department of Transportation, Docket Operations, M30, West Building Ground Floor, Room W12-140, 1200 New Jersey Avenue, SE., Washington, DC 20590, between 9 a.m. and 5 p.m., Monday through Friday, except Federal holidays."
+    },
+    {
+      "id": "e37",
+      "type": "paragraph",
+      "page": 1,
+      "text": "To get the service information identified in this AD, contact Cessna Aircraft Company, P.O. Box 7704, Wichita, Kansas 67277; telephone: (800) 423-7762 or (316) 517-6056; Internet: http://www.cessna.com."
+    },
+    {
+      "id": "e38",
+      "type": "paragraph",
+      "page": 1,
+      "text": "To view the comments to this AD, go to http://www.regulations.gov. The docket number is FAA-2008-1328; Directorate Identifier 2008-CE-066-AD."
+    },
+    {
+      "id": "e39",
+      "type": "paragraph",
+      "page": 1,
+      "text": "FOR FURTHER INFORMATION CONTACT: Ann Johnson, Aerospace Engineer, FAA, Wichita Aircraft Certification Office, 1801 Airport Road, Room 100, Wichita, Kansas 67209; telephone: 316-9464105; fax: 316-946-4107; e-mail address: ann.johnson@faa.gov."
+    },
+    {
+      "id": "e40",
+      "type": "heading",
+      "page": 1,
+      "text": "SUPPLEMENTARY INFORMATION:",
+      "level": 2
+    },
+    {
+      "id": "e41",
+      "type": "heading",
+      "page": 1,
+      "text": "Discussion",
+      "level": 2
+    },
+    {
+      "id": "e42",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Reports of improper installation of the part number (P/N) identification placard on P/N 2013142-18 alternate static air source selector valves prompted us to issue AD 98-01-01, Amendment 3910286 (63 FR 3455, January 23, 1998), which applies to certain Cessna Aircraft Company (Cessna) Models 172R and 182S airplanes, and AD 2008-10-02, Amendment 39-155508 (73 FR 24168, May 2, 2008), which applies to certain Cessna 172, 175, 180, 182, 185, 206, 207, 208, 210, and 303 series airplanes."
+    },
+    {
+      "id": "e43",
+      "type": "paragraph",
+      "page": 1,
+      "text": "These ADs require inspecting the alternate static air source selector valve to determine if the P/N identification placard obstructs the alternate static air source selector valve port and removing"
+    },
+    {
+      "id": "e44",
+      "type": "paragraph",
+      "page": 1,
+      "text": "VerDate Aug<31>2005 19:28 Dec 23, 2008 Jkt 217001 PO 00000 Frm 00023 Fmt 4700 Sfmt 4700 E:\\FR\\FM\\24DER1.SGM 24DER1"
+    },
+    {
+      "id": "e45",
+      "type": "page_header",
+      "page": 2,
+      "text": "78940 Federal Register /Vol. 73, No. 248/Wednesday, December 24, 2008/Rules and Regulations"
+    },
+    {
+      "id": "e46",
+      "type": "paragraph",
+      "page": 2,
+      "text": "pwalker on PROD1PC71 with RULES"
+    },
+    {
+      "id": "e47",
+      "type": "paragraph",
+      "page": 2,
+      "text": "the placard if obstruction is found. These ADs also require reporting to the FAA if obstruction is found."
+    },
+    {
+      "id": "e48",
+      "type": "paragraph",
+      "page": 2,
+      "text": "These assemblies are required for flight into instrument flight rules (IFR) conditions as defined in Sec. 91.411 of the Federal Aviation Regulations (14 CFR 91.411). Use of these assemblies is optional in visual flight rules (VFR) conditions."
+    },
+    {
+      "id": "e49",
+      "type": "paragraph",
+      "page": 2,
+      "text": "After issuing AD 98-01-01 and AD 2008-10-02, we received reports of 15 airplanes not previously affected by either AD with a P/N 2013142-18 installed and the alternate static air source selector valve port was found obstructed by the P/N identification placard."
+    },
+    {
+      "id": "e50",
+      "type": "paragraph",
+      "page": 2,
+      "text": "We have been informed that all P/N 2013142-18 alternate static air source selector valves shipped from Cessna Parts Distribution between January 1, 1993, and March 31, 2008, may have port obstruction caused by the P/N identification placard."
+    },
+    {
+      "id": "e51",
+      "type": "paragraph",
+      "page": 2,
+      "text": "This condition, if not corrected, could result in the altimeter, airspeed, and vertical speed indicators displaying erroneous indications. This could cause the pilot to react to incorrect flight information and possibly result in loss of control."
+    },
+    {
+      "id": "e52",
+      "type": "heading",
+      "page": 2,
+      "text": "Relevant Service Information",
+      "level": 2
+    },
+    {
+      "id": "e53",
+      "type": "paragraph",
+      "page": 2,
+      "text": "We reviewed Cessna Single Engine Service Bulletin, SB08-34-02, Revision 1, and Cessna Caravan Service Bulletin CAB08-4, Revision 1, both dated October 6, 2008; Cessna Single Engine Service Bulletin SEB08-5 and Cessna Multi-engine Service Bulletin MEB08-6, both dated October 13, 2008."
+    },
+    {
+      "id": "e54",
+      "type": "paragraph",
+      "page": 2,
+      "text": "The service information describes procedures for inspecting the alternate static air source selector valve to assure that the P/N identification placard does not obstruct the alternate static air source selector valve port."
+    },
+    {
+      "id": "e55",
+      "type": "heading",
+      "page": 2,
+      "text": "FAA's Determination and Requirements of This AD",
+      "level": 2
+    },
+    {
+      "id": "e56",
+      "type": "paragraph",
+      "page": 2,
+      "text": "We are issuing this AD because we evaluated all the information and determined the unsafe condition described previously is likely to exist or develop on other products of the same type design. This AD requires inspecting the alternate static air source selector valve to assure that the P/N identification placard does not obstruct the alternate static air source selector valve port. If the P/N identification placard obstructs the port, this AD requires you to remove the placard, assure that the port is unobstructed, and report to the FAA if obstruction is found."
+    },
+    {
+      "id": "e57",
+      "type": "heading",
+      "page": 2,
+      "text": "FAA's Determination of the Effective Date",
+      "level": 2
+    },
+    {
+      "id": "e58",
+      "type": "paragraph",
+      "page": 2,
+      "text": "Since an unsafe condition exists that requires the immediate adoption of this AD, we determined that notice and opportunity for public comment before issuing this AD are impracticable, and that good cause exists for making this amendment effective in fewer than 30 days."
+    },
+    {
+      "id": "e59",
+      "type": "heading",
+      "page": 2,
+      "text": "Comments Invited",
+      "level": 2
+    },
+    {
+      "id": "e60",
+      "type": "paragraph",
+      "page": 2,
+      "text": "This AD is a final rule that involves requirements affecting flight safety, and we did not precede it by notice and an opportunity for public comment. We invite you to send any written relevant data, views, or arguments regarding this AD. Send your comments to an address listed under the ADDRESSES section. Include the docket number ''FAA2008-1328; Directorate Identifier 2008CE-066-AD'' at the beginning of your comments. We specifically invite comments on the overall regulatory, economic, environmental, and energy aspects of the AD. We will consider all comments received by the closing date and may amend the AD in light of those comments."
+    },
+    {
+      "id": "e61",
+      "type": "paragraph",
+      "page": 2,
+      "text": "We will post all comments we receive, without change, to http:// www.regulations.gov, including any personal information you provide. We will also post a report summarizing each substantive verbal contact we receive concerning this AD."
+    },
+    {
+      "id": "e62",
+      "type": "heading",
+      "page": 2,
+      "text": "Authority for This Rulemaking",
+      "level": 2
+    },
+    {
+      "id": "e63",
+      "type": "paragraph",
+      "page": 2,
+      "text": "Title 49 of the United States Code specifies the FAA's authority to issue rules on aviation safety. Subtitle I, Section 106, describes the authority of the FAA Administrator. Subtitle VII, Aviation Programs, describes in more detail the scope of the Agency's authority."
+    },
+    {
+      "id": "e64",
+      "type": "paragraph",
+      "page": 2,
+      "text": "We are issuing this rulemaking under the authority described in Subtitle VII, Part A, Subpart III, Section 44701, ''General requirements.'' Under that section, Congress charges the FAA with promoting safe flight of civil aircraft in air commerce by prescribing regulations for practices, methods, and procedures the Administrator finds necessary for safety in air commerce. This regulation is within the scope of that authority because it addresses an unsafe condition that is likely to exist or develop on products identified in this rulemaking action."
+    },
+    {
+      "id": "e65",
+      "type": "heading",
+      "page": 2,
+      "text": "Regulatory Findings",
+      "level": 2
+    },
+    {
+      "id": "e66",
+      "type": "paragraph",
+      "page": 2,
+      "text": "We determined that this AD will not have federalism implications under Executive Order 13132. This AD will not have a substantial direct effect on the States, on the relationship between the national government and the States, or on the distribution of power and responsibilities among the various levels of government."
+    },
+    {
+      "id": "e67",
+      "type": "paragraph",
+      "page": 2,
+      "text": "For the reasons discussed above, I certify that this AD:"
+    },
+    {
+      "id": "e68",
+      "type": "paragraph",
+      "page": 2,
+      "text": "Is not a ''significant regulatory action'' under Executive Order 12866;"
+    },
+    {
+      "id": "e69",
+      "type": "paragraph",
+      "page": 2,
+      "text": "Is not a ''significant rule'' under DOT Regulatory Policies and Procedures (44 FR 11034, February 26, 1979); and"
+    },
+    {
+      "id": "e70",
+      "type": "paragraph",
+      "page": 2,
+      "text": "Will not have a significant economic impact, positive or negative, on a substantial number of small entities under the criteria of the Regulatory Flexibility Act."
+    },
+    {
+      "id": "e71",
+      "type": "paragraph",
+      "page": 2,
+      "text": "We prepared a regulatory evaluation of the estimated costs to comply with this AD and placed it in the AD docket."
+    },
+    {
+      "id": "e72",
+      "type": "heading",
+      "page": 2,
+      "text": "Examining the AD Docket",
+      "level": 2
+    },
+    {
+      "id": "e73",
+      "type": "paragraph",
+      "page": 2,
+      "text": "You may examine the AD docket that contains the AD, the regulatory evaluation, any comments received, and other information on the Internet at http://www.regulations.gov; or in person at the Docket Management Facility between 9 a.m. and 5 p.m., Monday through Friday, except Federal holidays. The Docket Office (telephone (800) 6475527) is located at the street address stated in the ADDRESSES section. Comments will be available in the AD docket shortly after receipt."
+    },
+    {
+      "id": "e74",
+      "type": "heading",
+      "page": 2,
+      "text": "List of Subjects in 14 CFR Part 39",
+      "level": 2
+    },
+    {
+      "id": "e75",
+      "type": "paragraph",
+      "page": 2,
+      "text": "Air transportation, Aircraft, Aviation safety, Incorporation by reference, Safety."
+    },
+    {
+      "id": "e76",
+      "type": "heading",
+      "page": 2,
+      "text": "Adoption of the Amendment",
+      "level": 2
+    },
+    {
+      "id": "e77",
+      "type": "paragraph",
+      "page": 2,
+      "text": "■ Accordingly, under the authority delegated to me by the Administrator, the FAA amends 14 CFR part 39 as follows:"
+    },
+    {
+      "id": "e78",
+      "type": "heading",
+      "page": 2,
+      "text": "PART 39-AIRWORTHINESS DIRECTIVES",
+      "level": 2
+    },
+    {
+      "id": "e79",
+      "type": "paragraph",
+      "page": 2,
+      "text": "■ 1. The authority citation for part 39 continues to read as follows:"
+    },
+    {
+      "id": "e80",
+      "type": "paragraph",
+      "page": 2,
+      "text": "Authority: 49 U.S.C. 106(g), 40113, 44701."
+    },
+    {
+      "id": "e81",
+      "type": "heading",
+      "page": 2,
+      "text": "§39.13 [Amended]",
+      "level": 2
+    },
+    {
+      "id": "e82",
+      "type": "paragraph",
+      "page": 2,
+      "text": "■ 2. The FAA amends §39.13 by adding a new AD to read as follows:"
+    },
+    {
+      "id": "e83",
+      "type": "paragraph",
+      "page": 2,
+      "text": "2008-26-10 Cessna Aircraft Company: Amendment 39-15776; Docket No. FAA-2008-1328; Directorate Identifier 2008-CE-066-AD."
+    },
+    {
+      "id": "e84",
+      "type": "heading",
+      "page": 2,
+      "text": "Effective Date",
+      "level": 2
+    },
+    {
+      "id": "e85",
+      "type": "paragraph",
+      "page": 2,
+      "text": "(a) This AD becomes effective on January 5, 2009."
+    },
+    {
+      "id": "e86",
+      "type": "heading",
+      "page": 2,
+      "text": "Affected ADs",
+      "level": 2
+    },
+    {
+      "id": "e87",
+      "type": "paragraph",
+      "page": 2,
+      "text": "(b) This AD relates to AD 98-01-01, Amendment 39-10287 and AD 2008-10-02, Amendment 39-15508. These ADs can be found on the Internet at the following Web site: http://rgl.faa.gov/."
+    },
+    {
+      "id": "e88",
+      "type": "paragraph",
+      "page": 2,
+      "text": "VerDate Aug<31>2005 19:28 Dec 23, 2008 Jkt 217001 PO 00000 Frm 00024 Fmt 4700 Sfmt 4700 E:\\FR\\FM\\24DER1.SGM 24DER1"
+    },
+    {
+      "id": "e89",
+      "type": "page_header",
+      "page": 3,
+      "text": "Federal Register /Vol. 73, No. 248/Wednesday, December 24, 2008/Rules and Regulations"
+    },
+    {
+      "id": "e90",
+      "type": "page_header",
+      "page": 3,
+      "text": "78941"
+    },
+    {
+      "id": "e91",
+      "type": "paragraph",
+      "page": 3,
+      "text": "pwalker on PROD1PC71 with RULES"
+    },
+    {
+      "id": "e92",
+      "type": "heading",
+      "page": 3,
+      "text": "Applicability",
+      "level": 2
+    },
+    {
+      "id": "e93",
+      "type": "paragraph",
+      "page": 3,
+      "text": "(c) This AD applies to all serial numbers (S/Ns) of the airplanes listed in Table 1 of this AD, certificated in any category, that:"
+    },
+    {
+      "id": "e94",
+      "type": "paragraph",
+      "page": 3,
+      "text": "(1) Were initially delivered from the manufacturer between January 1, 1993, and March 31, 2008, unless the modification/"
+    },
+    {
+      "id": "e95",
+      "type": "paragraph",
+      "page": 3,
+      "text": "rework required in AD 2008-10-02 has been done and you remain in compliance with that AD; or"
+    },
+    {
+      "id": "e96",
+      "type": "paragraph",
+      "page": 3,
+      "text": "(2) Have a part number (P/N) 2013142-18 installed as a replacement part anytime after January 1, 1993, unless the modification/ rework required in AD 2008-10-02 has been"
+    },
+    {
+      "id": "e97",
+      "type": "heading",
+      "page": 3,
+      "text": "TABLE 1-APPLICABLE AIRPLANE MODELS",
+      "level": 2
+    },
+    {
+      "id": "e98",
+      "type": "paragraph",
+      "page": 3,
+      "text": "done and you remain in compliance with that AD."
+    },
+    {
+      "id": "e99",
+      "type": "paragraph",
+      "page": 3,
+      "text": "Note 1: The affected part was shipped from Cessna Parts Distribution (CPD) between January 1, 1993, and March 31, 2008."
+    },
+    {
+      "id": "e100",
+      "type": "paragraph",
+      "page": 3,
+      "text": "Note 2: P/N 2013142-18 replaced P/Ns 2013142-9, -13, and -17."
+    },
+    {
+      "id": "e101",
+      "type": "paragraph",
+      "page": 3,
+      "text": "172"
+    },
+    {
+      "id": "e102",
+      "type": "paragraph",
+      "page": 3,
+      "text": "172A"
+    },
+    {
+      "id": "e103",
+      "type": "paragraph",
+      "page": 3,
+      "text": "172B"
+    },
+    {
+      "id": "e104",
+      "type": "paragraph",
+      "page": 3,
+      "text": "172C"
+    },
+    {
+      "id": "e105",
+      "type": "paragraph",
+      "page": 3,
+      "text": "172D"
+    },
+    {
+      "id": "e106",
+      "type": "paragraph",
+      "page": 3,
+      "text": "172E"
+    },
+    {
+      "id": "e107",
+      "type": "paragraph",
+      "page": 3,
+      "text": "172F (USAF T-41A)"
+    },
+    {
+      "id": "e108",
+      "type": "paragraph",
+      "page": 3,
+      "text": "172G"
+    },
+    {
+      "id": "e109",
+      "type": "paragraph",
+      "page": 3,
+      "text": "172H (USAF T-41A)"
+    },
+    {
+      "id": "e110",
+      "type": "paragraph",
+      "page": 3,
+      "text": "172I"
+    },
+    {
+      "id": "e111",
+      "type": "paragraph",
+      "page": 3,
+      "text": "172K"
+    },
+    {
+      "id": "e112",
+      "type": "paragraph",
+      "page": 3,
+      "text": "172L"
+    },
+    {
+      "id": "e113",
+      "type": "paragraph",
+      "page": 3,
+      "text": "172M"
+    },
+    {
+      "id": "e114",
+      "type": "paragraph",
+      "page": 3,
+      "text": "172N"
+    },
+    {
+      "id": "e115",
+      "type": "paragraph",
+      "page": 3,
+      "text": "172P"
+    },
+    {
+      "id": "e116",
+      "type": "paragraph",
+      "page": 3,
+      "text": "172Q"
+    },
+    {
+      "id": "e117",
+      "type": "paragraph",
+      "page": 3,
+      "text": "172R"
+    },
+    {
+      "id": "e118",
+      "type": "paragraph",
+      "page": 3,
+      "text": "172S"
+    },
+    {
+      "id": "e119",
+      "type": "paragraph",
+      "page": 3,
+      "text": "F172D"
+    },
+    {
+      "id": "e120",
+      "type": "paragraph",
+      "page": 3,
+      "text": "F172E"
+    },
+    {
+      "id": "e121",
+      "type": "paragraph",
+      "page": 3,
+      "text": "F172F"
+    },
+    {
+      "id": "e122",
+      "type": "paragraph",
+      "page": 3,
+      "text": "F172G"
+    },
+    {
+      "id": "e123",
+      "type": "paragraph",
+      "page": 3,
+      "text": "F172H"
+    },
+    {
+      "id": "e124",
+      "type": "paragraph",
+      "page": 3,
+      "text": "182G"
+    },
+    {
+      "id": "e125",
+      "type": "paragraph",
+      "page": 3,
+      "text": "182H"
+    },
+    {
+      "id": "e126",
+      "type": "paragraph",
+      "page": 3,
+      "text": "182J"
+    },
+    {
+      "id": "e127",
+      "type": "paragraph",
+      "page": 3,
+      "text": "182K"
+    },
+    {
+      "id": "e128",
+      "type": "paragraph",
+      "page": 3,
+      "text": "182L"
+    },
+    {
+      "id": "e129",
+      "type": "paragraph",
+      "page": 3,
+      "text": "182M"
+    },
+    {
+      "id": "e130",
+      "type": "paragraph",
+      "page": 3,
+      "text": "182N"
+    },
+    {
+      "id": "e131",
+      "type": "paragraph",
+      "page": 3,
+      "text": "182P"
+    },
+    {
+      "id": "e132",
+      "type": "paragraph",
+      "page": 3,
+      "text": "182Q"
+    },
+    {
+      "id": "e133",
+      "type": "paragraph",
+      "page": 3,
+      "text": "182R"
+    },
+    {
+      "id": "e134",
+      "type": "paragraph",
+      "page": 3,
+      "text": "182S"
+    },
+    {
+      "id": "e135",
+      "type": "paragraph",
+      "page": 3,
+      "text": "182T"
+    },
+    {
+      "id": "e136",
+      "type": "paragraph",
+      "page": 3,
+      "text": "F182P"
+    },
+    {
+      "id": "e137",
+      "type": "paragraph",
+      "page": 3,
+      "text": "F182Q"
+    },
+    {
+      "id": "e138",
+      "type": "paragraph",
+      "page": 3,
+      "text": "FR182"
+    },
+    {
+      "id": "e139",
+      "type": "paragraph",
+      "page": 3,
+      "text": "R182"
+    },
+    {
+      "id": "e140",
+      "type": "paragraph",
+      "page": 3,
+      "text": "T182"
+    },
+    {
+      "id": "e141",
+      "type": "paragraph",
+      "page": 3,
+      "text": "T182T"
+    },
+    {
+      "id": "e142",
+      "type": "paragraph",
+      "page": 3,
+      "text": "TR182"
+    },
+    {
+      "id": "e143",
+      "type": "paragraph",
+      "page": 3,
+      "text": "185"
+    },
+    {
+      "id": "e144",
+      "type": "paragraph",
+      "page": 3,
+      "text": "185A"
+    },
+    {
+      "id": "e145",
+      "type": "paragraph",
+      "page": 3,
+      "text": "185B"
+    },
+    {
+      "id": "e146",
+      "type": "paragraph",
+      "page": 3,
+      "text": "185C"
+    },
+    {
+      "id": "e147",
+      "type": "paragraph",
+      "page": 3,
+      "text": "185D"
+    },
+    {
+      "id": "e148",
+      "type": "paragraph",
+      "page": 3,
+      "text": "185E"
+    },
+    {
+      "id": "e149",
+      "type": "paragraph",
+      "page": 3,
+      "text": "A185E"
+    },
+    {
+      "id": "e150",
+      "type": "paragraph",
+      "page": 3,
+      "text": "210-5A (205A)"
+    },
+    {
+      "id": "e151",
+      "type": "paragraph",
+      "page": 3,
+      "text": "T210F"
+    },
+    {
+      "id": "e152",
+      "type": "paragraph",
+      "page": 3,
+      "text": "T210G"
+    },
+    {
+      "id": "e153",
+      "type": "paragraph",
+      "page": 3,
+      "text": "T210H"
+    },
+    {
+      "id": "e154",
+      "type": "paragraph",
+      "page": 3,
+      "text": "T210J"
+    },
+    {
+      "id": "e155",
+      "type": "paragraph",
+      "page": 3,
+      "text": "T210K"
+    },
+    {
+      "id": "e156",
+      "type": "paragraph",
+      "page": 3,
+      "text": "T210L"
+    },
+    {
+      "id": "e157",
+      "type": "paragraph",
+      "page": 3,
+      "text": "T210M"
+    },
+    {
+      "id": "e158",
+      "type": "paragraph",
+      "page": 3,
+      "text": "T210N"
+    },
+    {
+      "id": "e159",
+      "type": "paragraph",
+      "page": 3,
+      "text": "T210R"
+    },
+    {
+      "id": "e160",
+      "type": "paragraph",
+      "page": 3,
+      "text": "T303"
+    },
+    {
+      "id": "e161",
+      "type": "paragraph",
+      "page": 3,
+      "text": "336"
+    },
+    {
+      "id": "e162",
+      "type": "paragraph",
+      "page": 3,
+      "text": "337"
+    },
+    {
+      "id": "e163",
+      "type": "paragraph",
+      "page": 3,
+      "text": "337A (USAF 02B)"
+    },
+    {
+      "id": "e164",
+      "type": "heading",
+      "page": 3,
+      "text": "Models",
+      "level": 2
+    },
+    {
+      "id": "e165",
+      "type": "table",
+      "header": null,
+      "rows": [
+        [
+          "F172K",
+          "177"
+        ],
+        [
+          "F172L",
+          "177A"
+        ],
+        [
+          "F172M",
+          "177B"
+        ],
+        [
+          "F172N",
+          "177RG"
+        ],
+        [
+          "F172P",
+          "F177RG"
+        ],
+        [
+          "FR172E",
+          "180"
+        ],
+        [
+          "FR172F",
+          "180A"
+        ],
+        [
+          "FR172G",
+          "180B"
+        ],
+        [
+          "FR172H",
+          "180C"
+        ],
+        [
+          "FR172J",
+          "180D"
+        ],
+        [
+          "FR172K",
+          "180E"
+        ],
+        [
+          "P172D",
+          "180F"
+        ],
+        [
+          "R172E (USAF T-41B), (USAF T-41C and D)",
+          "180G"
+        ],
+        [
+          "R172F (USAF",
+          "180H"
+        ],
+        [
+          "T-41) R172G (USAF T-41C or D)",
+          "180J"
+        ],
+        [
+          "R172H (USAF T-41D)",
+          "180K"
+        ],
+        [
+          "R172J",
+          "182"
+        ],
+        [
+          "R172K",
+          "182A"
+        ],
+        [
+          "172RG",
+          "182B"
+        ],
+        [
+          "175",
+          "182C"
+        ],
+        [
+          "175A",
+          "182D"
+        ],
+        [
+          "175B",
+          "182E"
+        ],
+        [
+          "175C",
+          "182F"
+        ],
+        [
+          "A185F",
+          "U206D"
+        ],
+        [
+          "206",
+          "U206E"
+        ],
+        [
+          "206H",
+          "U206F"
+        ],
+        [
+          "P206 P206A",
+          "U206G 207"
+        ],
+        [
+          "P206B",
+          "207A"
+        ],
+        [
+          "P206C",
+          "T207"
+        ],
+        [
+          "P206D",
+          "T207A"
+        ],
+        [
+          "P206E",
+          "208"
+        ],
+        [
+          "T206H",
+          "208B"
+        ],
+        [
+          "TP206A",
+          "210"
+        ],
+        [
+          "TP206B",
+          "210A"
+        ],
+        [
+          "TP206C",
+          ""
+        ],
+        [
+          "TP206D",
+          "210B 210C"
+        ],
+        [
+          "TP206E TU206A",
+          "210D 210E"
+        ],
+        [
+          "TU206B",
+          ""
+        ],
+        [
+          "TU206C",
+          "210F 210G"
+        ],
+        [
+          "TU206D",
+          "210H"
+        ],
+        [
+          "TU206E",
+          "210J"
+        ],
+        [
+          "TU206F",
+          "210K"
+        ],
+        [
+          "TU206G",
+          "210L"
+        ],
+        [
+          "U206",
+          "210M"
+        ],
+        [
+          "U206A",
+          "210N"
+        ],
+        [
+          "U206B",
+          "210R"
+        ],
+        [
+          "",
+          "210-5"
+        ],
+        [
+          "U206C",
+          ""
+        ],
+        [
+          "FT337F",
+          "(205)"
+        ],
+        [
+          "M337B (USAF 02A)",
+          ""
+        ],
+        [
+          "T337B",
+          ""
+        ],
+        [
+          "T337C",
+          ""
+        ],
+        [
+          "T337D",
+          ""
+        ],
+        [
+          "T337E",
+          ""
+        ],
+        [
+          "T337F",
+          ""
+        ],
+        [
+          "T337H",
+          ""
+        ],
+        [
+          "T337H-SP",
+          ""
+        ]
+      ],
+      "page": 3
+    },
+    {
+      "id": "e166",
+      "type": "paragraph",
+      "page": 3,
+      "text": "VerDate Aug<31>2005 19:28 Dec 23, 2008 Jkt 217001 PO 00000 Frm 00025 Fmt 4700 Sfmt 4700 E:\\FR\\FM\\24DER1.SGM 24DER1"
+    },
+    {
+      "id": "e167",
+      "type": "page_header",
+      "page": 4,
+      "text": "78942 Federal Register /Vol. 73, No. 248/Wednesday, December 24, 2008/Rules and Regulations"
+    },
+    {
+      "id": "e168",
+      "type": "paragraph",
+      "page": 4,
+      "text": "pwalker on PROD1PC71 with RULES"
+    },
+    {
+      "id": "e169",
+      "type": "heading",
+      "page": 4,
+      "text": "TABLE 1-APPLICABLE AIRPLANE MODELS-Continued",
+      "level": 2
+    },
+    {
+      "id": "e170",
+      "type": "paragraph",
+      "page": 4,
+      "text": "337B 337C 337D 337E 337F 337G 337H F337E F337F F337G F337H FT337E"
+    },
+    {
+      "id": "e171",
+      "type": "heading",
+      "page": 4,
+      "text": "Unsafe Condition",
+      "level": 2
+    },
+    {
+      "id": "e172",
+      "type": "paragraph",
+      "page": 4,
+      "text": "(e) This AD is the result of reports of improper installation of the part number identification placard on the alternate static air source selector valve. We are issuing this AD to prevent erroneous indications from the altimeter, airspeed, and vertical speed indicators, which could cause the pilot to react to incorrect flight information and possibly result in loss of control."
+    },
+    {
+      "id": "e173",
+      "type": "heading",
+      "page": 4,
+      "text": "Compliance",
+      "level": 2
+    },
+    {
+      "id": "e174",
+      "type": "paragraph",
+      "page": 4,
+      "text": "(e) To address this problem, you must do the following, unless already done. A person"
+    },
+    {
+      "id": "e175",
+      "type": "paragraph",
+      "page": 4,
+      "text": "authorized to perform maintenance as specified in 14 CFR section 43.3 of the Federal Aviation Administration Regulations (14 CFR 43.3) is required to do all the actions required in this AD."
+    },
+    {
+      "id": "e176",
+      "type": "heading",
+      "page": 4,
+      "text": "Actions",
+      "level": 2
+    },
+    {
+      "id": "e177",
+      "type": "heading",
+      "page": 4,
+      "text": "Compliance",
+      "level": 2
+    },
+    {
+      "id": "e178",
+      "type": "heading",
+      "page": 4,
+      "text": "Procedures",
+      "level": 2
+    },
+    {
+      "id": "e179",
+      "type": "paragraph",
+      "page": 4,
+      "text": "For all affected airplanes that are not equipped for flight under instrument flight rules (IFR): Inspect the alternate static air source selector valve to assure that the part number identification placard is not obstructing the port."
+    },
+    {
+      "id": "e180",
+      "type": "paragraph",
+      "page": 4,
+      "text": "For all affected airplanes that are equipped for flight under instrument flight rules (IFR):"
+    },
+    {
+      "id": "e181",
+      "type": "paragraph",
+      "page": 4,
+      "text": "(i) Inspect the alternate static air source selector valve to assure that the part number identification placard is not obstructing the port; or"
+    },
+    {
+      "id": "e182",
+      "type": "paragraph",
+      "page": 4,
+      "text": "(ii) Fabricate a placard that incorporates the following words (using at least 1 /8inch letters) and install this placard on the instrument panel within the pilot's clear view: ''IFR OPERATION IS PROHIBITED'' and ''USE OF THE ALTERNATE STATIC AIR SOURCE IS PROHIBITED.''"
+    },
+    {
+      "id": "e183",
+      "type": "paragraph",
+      "page": 4,
+      "text": "For all affected airplanes that are equipped for flight under instrument flight rules (IFR): If placards were installed in accordance with paragraph (e)(2)(ii) of this AD, inspect the alternate static air source selector valve to assure that the part number identification placard is not obstructing the port."
+    },
+    {
+      "id": "e184",
+      "type": "paragraph",
+      "page": 4,
+      "text": "For all affected airplanes: If the alternate static air source selector valve port is found obstructed by the part number identification placard during the inspection required in paragraphs (e)(1), (e)(2)(i), and (e)(3) of this AD, remove the placard from the valve body, discard the placard, and assure that the port is open and unobstructed."
+    },
+    {
+      "id": "e185",
+      "type": "paragraph",
+      "page": 4,
+      "text": "Within the next 100 hours time-in-service (TIS) after January 5, 2009 (the effective date of this AD) or within the next 4 months after January 5, 2009 (the effective date of this AD), whichever occurs first."
+    },
+    {
+      "id": "e186",
+      "type": "paragraph",
+      "page": 4,
+      "text": "(A) Inspect within the next 10 days after January 5, 2009 (the effective date of this AD); or"
+    },
+    {
+      "id": "e187",
+      "type": "paragraph",
+      "page": 4,
+      "text": "(B) Install placards before further flight after January 5, 2009 (the effective date of this AD)."
+    },
+    {
+      "id": "e188",
+      "type": "paragraph",
+      "page": 4,
+      "text": "Within the next 100 hours TIS after January 5, 2009 (the effective date of this AD) or within the next 4 months after January 5, 2009 (the effective date of this AD), whichever occurs first. After doing the inspection, remove the placards installed in accordance with paragraph (e)(2)(ii) of this AD before further flight."
+    },
+    {
+      "id": "e189",
+      "type": "paragraph",
+      "page": 4,
+      "text": "Before further flight after the inspection required in paragraphs (e)(1), (e)(2)(i), and (e)(3) of this AD."
+    },
+    {
+      "id": "e190",
+      "type": "paragraph",
+      "page": 4,
+      "text": "Following the procedures in Cessna Single Engine Service Bulletin SB08-34-02, Revision 1, dated October 6, 2008; Cessna Caravan Service Bulletin CAB08-4, Revision 1, dated October 6, 2008; Cessna Single Engine Service Bulletin SEB08-5, dated October 13, 2008; or Cessna Multi-engine Service Bulletin MEB08-6, dated October 13, 2008, as applicable."
+    },
+    {
+      "id": "e191",
+      "type": "paragraph",
+      "page": 4,
+      "text": "Following the procedures in Cessna Single Engine Service Bulletin SB08-34-02, Revision 1, dated October 6, 2008; Cessna Caravan Service Bulletin CAB08-4, Revision 1, dated October 6, 2008; Cessna Single Engine Service Bulletin SEB08-5, dated October 13, 2008; or Cessna Multi-engine Service Bulletin MEB08-6, dated October 13, 2008, as applicable."
+    },
+    {
+      "id": "e192",
+      "type": "paragraph",
+      "page": 4,
+      "text": "Following the procedures in Cessna Single Engine Service Bulletin SB08-34-02, Revision 1, dated October 6, 2008; Cessna Caravan Service Bulletin CAB08-4, Revision 1, dated October 6, 2008; Cessna Single Engine Service Bulletin SEB08-5, dated October 13, 2008; or Cessna Multi-engine Service Bulletin MEB08-6, dated October 13, 2008, as applicable."
+    },
+    {
+      "id": "e193",
+      "type": "paragraph",
+      "page": 4,
+      "text": "Following the procedures in Cessna Single Engine Service Bulletin SB08-34-02, Revision 1, dated October 6, 2008; Cessna Caravan Service Bulletin CAB08-04, Revision 1, dated October 6, 2008; Cessna Single Engine Service Bulletin SEB08-5, dated October 13, 2008; or Cessna Multi-engine Service Bulletin MEB08-6, dated October 13, 2008, as applicable."
+    },
+    {
+      "id": "e194",
+      "type": "paragraph",
+      "page": 4,
+      "text": "VerDate Aug<31>2005 19:28 Dec 23, 2008 Jkt 217001 PO 00000 Frm 00026 Fmt 4700 Sfmt 4700 E:\\FR\\FM\\24DER1.SGM 24DER1"
+    },
+    {
+      "id": "e195",
+      "type": "page_header",
+      "page": 5,
+      "text": "Federal Register /Vol. 73, No. 248/Wednesday, December 24, 2008/Rules and Regulations",
+      "ocr_confidence": 0.99
+    },
+    {
+      "id": "e196",
+      "type": "page_header",
+      "page": 5,
+      "text": "78943",
+      "ocr_confidence": 0.99
+    },
+    {
+      "id": "e197",
+      "type": "paragraph",
+      "page": 5,
+      "text": "pwalker on PROD1PC71 with RULES",
+      "ocr_confidence": 0.99
+    },
+    {
+      "id": "e198",
+      "type": "table",
+      "header": [
+        "Actions",
+        "Compliance",
+        "Procedures"
+      ],
+      "rows": [
+        [
+          "(5) For all affected airplanes: When a replace- ment valve is needed, only install a P/N 2013142-18 alternate static air source selec- tor valve that has been inspected and the port is found free from obstruction.",
+          "As of 10 days after January 5, 2009 (the ef- fective date of this AD).",
+          "A person authorized to perform maintenance as specified in 14 CFR section 43.3 of the Federal Aviation Administration Regulations (14 CFR 43.3) is required to do the inspec- tion."
+        ],
+        [
+          "(f) Report to the FAA the results of the inspection required by this AD where an obstruction was found. (1) Submit this report within 10 days after the inspection or 10 days after the effective date of this AD, whichever occurs later.",
+          "(2) Use the form in Figure 1 of this AD and submit it to FAA, Manufacturing Inspection District Office, Mid-Continent Airport, 1804 Airport Road, Room 101, Wichita, Kansas 67209; or fax to (316) 946-4189. (3) The Office of Management and Budget (OMB) approved the information collection",
+          "requirements contained in this regulation under the provisions of the Paperwork Reduction Act of 1980 (44 U.S.C. 3501 et seq.) and assigned OMB Control Number 2120-0056. BILLING CODE 4910-13-P"
+        ]
+      ],
+      "page": 5,
+      "ocr_confidence": 0.99
+    },
+    {
+      "id": "e199",
+      "type": "heading",
+      "page": 5,
+      "text": "AD 2008-26-10 INSPECTION REPORT",
+      "level": 2,
+      "ocr_confidence": 0.99
+    },
+    {
+      "id": "e200",
+      "type": "heading",
+      "page": 5,
+      "text": "(REPORT ONLY IF A PART NUMBER IDENTIFICATION PLACARD IS OBSTRUCTING THE STATIC AIR SOURCE SELECTOR VALVE PORT)",
+      "level": 2,
+      "ocr_confidence": 0.99
+    },
+    {
+      "id": "e201",
+      "type": "paragraph",
+      "page": 5,
+      "text": "Inspection Performed By:",
+      "ocr_confidence": 0.99
+    },
+    {
+      "id": "e202",
+      "type": "paragraph",
+      "page": 5,
+      "text": "Phone:",
+      "ocr_confidence": 0.99
+    },
+    {
+      "id": "e203",
+      "type": "paragraph",
+      "page": 5,
+      "text": "Airplane Model:",
+      "ocr_confidence": 0.99
+    },
+    {
+      "id": "e204",
+      "type": "paragraph",
+      "page": 5,
+      "text": "Airplane Serial Number:",
+      "ocr_confidence": 0.99
+    },
+    {
+      "id": "e205",
+      "type": "paragraph",
+      "page": 5,
+      "text": "Airplane Total Hours TIS:",
+      "ocr_confidence": 0.99
+    },
+    {
+      "id": "e206",
+      "type": "paragraph",
+      "page": 5,
+      "text": "Date of AD inspection:",
+      "ocr_confidence": 0.99
+    },
+    {
+      "id": "e207",
+      "type": "paragraph",
+      "page": 5,
+      "text": "Inspection Results: (Note: Report only if a part number identification placard is obstructing static air source valve port.)",
+      "ocr_confidence": 0.99
+    },
+    {
+      "id": "e208",
+      "type": "paragraph",
+      "page": 5,
+      "text": "Corrective Action Taken:",
+      "ocr_confidence": 0.99
+    },
+    {
+      "id": "e209",
+      "type": "paragraph",
+      "page": 5,
+      "text": "Mail report to: Wichita Manufacturing Inspection District Office, Mid-Continent Airport, 1804 Airport Road, Room 101, Wichita, Kansas, 67209; or fax to (316) 946-4189",
+      "ocr_confidence": 0.99
+    },
+    {
+      "id": "e210",
+      "type": "paragraph",
+      "page": 5,
+      "text": "VerDate Aug<31>2005 19:28 Dec 23, 2008 Jkt 217001 PO 00000 Frm 00027 Fmt 4700 Sfmt 4700 E:\\FR\\FM\\24DER1.SGM 24DER1",
+      "ocr_confidence": 0.99
+    },
+    {
+      "id": "e211",
+      "type": "paragraph",
+      "page": 5,
+      "text": "ER24DE08.000</GPH>",
+      "ocr_confidence": 0.99
+    },
+    {
+      "id": "e212",
+      "type": "page_footer",
+      "page": 5,
+      "text": "BILLING CODE 4910-13-C",
+      "ocr_confidence": 0.99
+    },
+    {
+      "id": "e213",
+      "type": "page_footer",
+      "page": 5,
+      "text": "Figure 1",
+      "ocr_confidence": 0.99
+    },
+    {
+      "id": "e214",
+      "type": "page_header",
+      "page": 6,
+      "text": "78944 Federal Register /Vol. 73, No. 248/Wednesday, December 24, 2008/Rules and Regulations"
+    },
+    {
+      "id": "e215",
+      "type": "paragraph",
+      "page": 6,
+      "text": "pwalker on PROD1PC71 with RULES"
+    },
+    {
+      "id": "e216",
+      "type": "heading",
+      "page": 6,
+      "text": "Alternative Methods of Compliance (AMOCs)",
+      "level": 2
+    },
+    {
+      "id": "e217",
+      "type": "paragraph",
+      "page": 6,
+      "text": "(g) The Manager, Wichita Aircraft Certification Office (ACO), FAA, has the authority to approve AMOCs for this AD, if requested using the procedures found in 14 CFR 39.19. Send information to ATTN: Ann Johnson, Aerospace Engineer, FAA, Wichita ACO, 1801 Airport Road, Room 100, Wichita, Kansas 67209; telephone: 316-946-4105; fax:"
+    },
+    {
+      "id": "e218",
+      "type": "paragraph",
+      "page": 6,
+      "text": "316-946-4107; e-mail address: ann.johnson@faa.gov. Before using any approved AMOC on any airplane to which the AMOC applies, notify your appropriate principal inspector (PI) in the FAA Flight Standards District Office (FSDO), or lacking a PI, your local FSDO."
+    },
+    {
+      "id": "e219",
+      "type": "paragraph",
+      "page": 6,
+      "text": "(h) AMOCs approved for AD 2008-10-02 are approved for this AD."
+    },
+    {
+      "id": "e220",
+      "type": "heading",
+      "page": 6,
+      "text": "Material Incorporated by Reference",
+      "level": 2
+    },
+    {
+      "id": "e221",
+      "type": "paragraph",
+      "page": 6,
+      "text": "(i) You must use Cessna Single Engine Service Bulletin, SB08-34-02, Revision 1, dated October 6, 2008; Cessna Caravan Service Bulletin CAB08-4, Revision 1, dated October 6, 2008; Cessna Single Engine Service Bulletin SEB08-5, dated October 13, 2008; and Cessna Multi-engine Service Bulletin MEB08-6, dated October 13, 2008, to do the actions required by this AD, unless the AD specifies otherwise."
+    },
+    {
+      "id": "e222",
+      "type": "paragraph",
+      "page": 6,
+      "text": "The Director of the Federal Register approved the incorporation by reference of this service information under 5 U.S.C. 552(a) and 1 CFR part 51."
+    },
+    {
+      "id": "e223",
+      "type": "paragraph",
+      "page": 6,
+      "text": "For service information identified in this AD, contact Cessna Aircraft Company, P.O. Box 7704, Wichita, Kansas 67277; telephone: (800) 423-7762 or (316) 517-6056; Internet: http://www.cessna.com."
+    },
+    {
+      "id": "e224",
+      "type": "paragraph",
+      "page": 6,
+      "text": "You may review copies at the FAA, Central Region, Office of the Regional Counsel, 901 Locust, Kansas City, Missouri 64106; or at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202-741-6030, or go to: http://www.archives.gov/federal_register/ code_of_federal_regulations/ ibr_locations.html."
+    },
+    {
+      "id": "e225",
+      "type": "paragraph",
+      "page": 6,
+      "text": "Issued in Kansas City, Missouri, on December 15, 2008."
+    },
+    {
+      "id": "e226",
+      "type": "heading",
+      "page": 6,
+      "text": "Kim Smith,",
+      "level": 2
+    },
+    {
+      "id": "e227",
+      "type": "paragraph",
+      "page": 6,
+      "text": "Manager, Small Airplane Directorate, Aircraft Certification Service."
+    },
+    {
+      "id": "e228",
+      "type": "paragraph",
+      "page": 6,
+      "text": "[FR Doc. E8-30465 Filed 12-23-08; 8:45 am]"
+    },
+    {
+      "id": "e229",
+      "type": "paragraph",
+      "page": 6,
+      "text": "BILLING CODE 4910-13-P"
+    },
+    {
+      "id": "e230",
+      "type": "heading",
+      "page": 6,
+      "text": "DEPARTMENT OF TRANSPORTATION",
+      "level": 2
+    },
+    {
+      "id": "e231",
+      "type": "heading",
+      "page": 6,
+      "text": "Federal Aviation Administration",
+      "level": 2
+    },
+    {
+      "id": "e232",
+      "type": "heading",
+      "page": 6,
+      "text": "14 CFR Part 39",
+      "level": 2
+    },
+    {
+      "id": "e233",
+      "type": "paragraph",
+      "page": 6,
+      "text": "[Docket No. FAA-2008-1120; Directorate Identifier 2008-CE-064-AD; Amendment 39-15767; AD 2008-26-01]"
+    },
+    {
+      "id": "e234",
+      "type": "paragraph",
+      "page": 6,
+      "text": "RIN 2120-AA64"
+    },
+    {
+      "id": "e235",
+      "type": "paragraph",
+      "page": 6,
+      "text": "Airworthiness Directives; Air Tractor, Inc. Models AT-200, AT-300, AT-400, AT-500, AT-600, and AT-800 Series Airplanes"
+    },
+    {
+      "id": "e236",
+      "type": "paragraph",
+      "page": 6,
+      "text": "AGENCY: Federal Aviation Administration (FAA), Department of Transportation (DOT)."
+    },
+    {
+      "id": "e237",
+      "type": "paragraph",
+      "page": 6,
+      "text": "ACTION: Final rule."
+    },
+    {
+      "id": "e238",
+      "type": "paragraph",
+      "page": 6,
+      "text": "SUMMARY: We are adopting a new airworthiness directive (AD) to supersede AD 2008-11-17, which applies to certain Air Tractor, Inc. Models AT-200, AT-300, AT-400, AT500, AT-600, and AT-800 series airplanes. AD 2008-11-17 currently requires you to install an overturn skid plate kit or a modification to the overturn skid plate already installed. Since we issued AD 2008-11-17, the manufacturer has notified us that Model AT-401B airplanes also need a modification to the overturn skid plate. Consequently, this AD would retain the actions of AD 2008-11-17 and add the requirement to modify the overturn skid plate installed on Model AT-401B airplanes. We are issuing this AD to prevent the front and rear connections of the overturn skid plate to the airplane from breaking, which could allow foreign debris to enter the cockpit during an airplane overturn. This condition, if not corrected, could lead to pilot injury."
+    },
+    {
+      "id": "e239",
+      "type": "paragraph",
+      "page": 6,
+      "text": "DATES: This AD becomes effective on January 28, 2009."
+    },
+    {
+      "id": "e240",
+      "type": "paragraph",
+      "page": 6,
+      "text": "On January 28, 2009, the Director of the Federal Register approved the incorporation by reference of Snow Engineering Co. Service Letter #97, revised September 19, 2008, listed in this AD."
+    },
+    {
+      "id": "e241",
+      "type": "paragraph",
+      "page": 6,
+      "text": "As of July 7, 2008 (73 FR 31351, June 2, 2008), the Director of the Federal Register approved the incorporation by reference of Snow Engineering Co. Service Letter #97, revised November 7, 2007, listed in this AD."
+    },
+    {
+      "id": "e242",
+      "type": "paragraph",
+      "page": 6,
+      "text": "ADDRESSES: For service information identified in this AD, contact Air Tractor Inc., P.O. Box 485, Olney, Texas 76374; telephone: (940) 564-5616; fax: (940) 564-5612; e-mail: airmail@airtractor.com; Internet: http://"
+    },
+    {
+      "id": "e243",
+      "type": "paragraph",
+      "page": 6,
+      "text": "www.airtractor.com."
+    },
+    {
+      "id": "e244",
+      "type": "paragraph",
+      "page": 6,
+      "text": "To view the AD docket, go to U.S. Department of Transportation, Docket Operations, M-30, West Building Ground Floor, Room W12-140, 1200 New Jersey Avenue, SE., Washington, DC 20590, or on the Internet at http:// www.regulations.gov. The docket number is FAA-2008-1120; Directorate Identifier 2008-CE-064-AD."
+    },
+    {
+      "id": "e245",
+      "type": "heading",
+      "page": 6,
+      "text": "FOR FURTHER INFORMATION CONTACT:",
+      "level": 2
+    },
+    {
+      "id": "e246",
+      "type": "paragraph",
+      "page": 6,
+      "text": "Andy McAnaul, Aerospace Engineer, ASW-150, FAA San Antonio MIDO-43, 10100 Reunion Pl., Ste. 650, San Antonio, Texas 78216; telephone: (210) 308-3365; fax: (210) 308-3370."
+    },
+    {
+      "id": "e247",
+      "type": "heading",
+      "page": 6,
+      "text": "SUPPLEMENTARY INFORMATION:",
+      "level": 2
+    },
+    {
+      "id": "e248",
+      "type": "heading",
+      "page": 6,
+      "text": "Discussion",
+      "level": 2
+    },
+    {
+      "id": "e249",
+      "type": "paragraph",
+      "page": 6,
+      "text": "On October 14, 2008, we issued a proposal to amend part 39 of the Federal Aviation Regulations (14 CFR part 39) to include an AD that would apply to certain Air Tractor, Inc. Models AT200, AT-300, AT-400, AT-500, AT600, and AT-800 series airplanes. This proposal was published in the Federal Register as a notice of proposed rulemaking (NPRM) on October 23, 2008 (73 FR 63096). The NPRM proposed to supersede AD 2008-11-17 with a new AD that would retain the actions of AD 2008-11-17 and add the requirement to modify the overturn skid plate installed on Model AT-401B airplanes."
+    },
+    {
+      "id": "e250",
+      "type": "heading",
+      "page": 6,
+      "text": "Comments",
+      "level": 2
+    },
+    {
+      "id": "e251",
+      "type": "paragraph",
+      "page": 6,
+      "text": "We provided the public the opportunity to participate in developing this AD. We received no comments on the proposal or on the determination of the cost to the public."
+    },
+    {
+      "id": "e252",
+      "type": "heading",
+      "page": 6,
+      "text": "Conclusion",
+      "level": 2
+    },
+    {
+      "id": "e253",
+      "type": "paragraph",
+      "page": 6,
+      "text": "We have carefully reviewed the available data and determined that air safety and the public interest require adopting the AD as proposed except for minor editorial corrections. We have determined that these minor corrections:"
+    },
+    {
+      "id": "e254",
+      "type": "paragraph",
+      "page": 6,
+      "text": "Are consistent with the intent that was proposed in the NPRM for correcting the unsafe condition; and"
+    },
+    {
+      "id": "e255",
+      "type": "paragraph",
+      "page": 6,
+      "text": "Do not add any additional burden upon the public than was already proposed in the NPRM."
+    },
+    {
+      "id": "e256",
+      "type": "heading",
+      "page": 6,
+      "text": "Costs of Compliance",
+      "level": 2
+    },
+    {
+      "id": "e257",
+      "type": "paragraph",
+      "page": 6,
+      "text": "We estimate that this AD affects 1,309 airplanes in the U.S. registry."
+    },
+    {
+      "id": "e258",
+      "type": "paragraph",
+      "page": 6,
+      "text": "In determining the total cost on U.S. operators, we presume all airplanes in the U.S. fleet have an overturn skid plate installed (as required by AD 200225-09) and the only cost is to incorporate the modification kit P/N 11411-1-501. We estimate the following costs to do the modification of installing the overturn skid plate modification kit P/N 11411-1-501 to those planes that"
+    },
+    {
+      "id": "e259",
+      "type": "paragraph",
+      "page": 6,
+      "text": "VerDate Aug<31>2005 19:28 Dec 23, 2008 Jkt 217001 PO 00000 Frm 00028 Fmt 4700 Sfmt 4700 E:\\FR\\FM\\24DER1.SGM 24DER1"
+    }
+  ]
+}

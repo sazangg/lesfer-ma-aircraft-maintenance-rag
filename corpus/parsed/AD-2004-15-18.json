@@ -1,0 +1,881 @@
+{
+  "source_id": "AD-2004-15-18",
+  "file": "faa/ad/ad-2004-15-18.pdf",
+  "format": "pdf",
+  "parser": "docling",
+  "meta": {
+    "title": "AD 2004-15-18: Cessna Aircraft Company Models 172R, 172S, 182S, 182T, T182T, 206H, and T206H Airplanes",
+    "publisher": "FAA",
+    "doc_type": "airworthiness directive",
+    "ad_number": "2004-15-18",
+    "action": "Final rule",
+    "published": "2004-07-30",
+    "effective": "2004-09-12",
+    "federal_register": "69 FR 45570 (document 04-17217)",
+    "access": "employees"
+  },
+  "elements": [
+    {
+      "id": "e1",
+      "type": "page_header",
+      "page": 1,
+      "text": "45570"
+    },
+    {
+      "id": "e2",
+      "type": "page_header",
+      "page": 1,
+      "text": "Federal Register /Vol. 69, No. 146/Friday, July 30, 2004/Rules and Regulations"
+    },
+    {
+      "id": "e3",
+      "type": "table",
+      "header": [
+        "Affected models and serial nos.",
+        "Inspection compliance times",
+        "Procedures"
+      ],
+      "rows": [
+        [
+          "(9) AT-802 and AT-802A, S/Ns 0119 through 0139.",
+          "Initially inspect upon the accumulation of 1,750 total hours TIS or within the next 100 hours TIS after the last inspection required by AD 2002-19-10, whichever occurs later. Repetitively inspect thereafter at intervals not to exceed 100 hours TIS until the upper longeron is replaced and modified. Replac- ing and modifying the upper longeron is the terminating action for the repetitive inspec- tion requirement in this AD.",
+          "Inspect following Snow Engineering Co. Serv- ice Letter #217A, dated November 10, 2003, as specified in Snow Engineering Co. Service Letter #195, reissued November 10, 2003. Replace and modify following Snow Engineering Co. Service Letter #217B, re- vised November 10, 2003."
+        ]
+      ],
+      "page": 1
+    },
+    {
+      "id": "e4",
+      "type": "paragraph",
+      "page": 1,
+      "text": "(f) You may replace and modify the upper and diagonal longeron (as applicable) at any time as a terminating action for the repetitive inspection requirement in this AD. However, you must replace and modify the upper and diagonal longeron (as applicable) before further flight after any inspection in which cracks are found."
+    },
+    {
+      "id": "e5",
+      "type": "heading",
+      "page": 1,
+      "text": "May I Request an Alternative Method of Compliance?",
+      "level": 2
+    },
+    {
+      "id": "e6",
+      "type": "paragraph",
+      "page": 1,
+      "text": "(g) You may request a different method of compliance or a different compliance time for this AD by following the procedures in 14 CFR 39.19. Unless FAA authorizes otherwise, send your request to your principal inspector. The principal inspector may add comments and will send your request to the Manager, Fort Worth Aircraft Certification Office (ACO), FAA. For information on any already approved alternative methods of compliance, contact Andrew D. McAnaul, Aerospace Engineer, FAA, Fort Worth ACO, 2601 Meacham Boulevard, Fort Worth, Texas 76193-0150. Current duty station: San Antonio Manufacturing Inspection District Office (MIDO), 10100 Reunion Place, Suite 650, San Antonio, Texas 78216; telephone: (210) 308-3365; facsimile: (210) 308-3370."
+    },
+    {
+      "id": "e7",
+      "type": "heading",
+      "page": 1,
+      "text": "Does This AD Incorporate Any Material by Reference?",
+      "level": 2
+    },
+    {
+      "id": "e8",
+      "type": "paragraph",
+      "page": 1,
+      "text": "(h) You must do the actions required by this AD following the instructions in Snow Engineering Co. Service Letter #195, reissued November 10, 2003; Snow Engineering Co. Service Letter #195A, revised November 10, 2003; Snow Engineering Co. Service Letter #195B, dated November 10, 2003; Snow Engineering Co. Service Letter #213A, dated November 10, 2003; Snow Engineering Co. Service Letter #213B, revised November 10, 2003; Snow Engineering Co. Service Letter #217A, dated November 10, 2003; Snow Engineering Co. Service Letter #217B, revised November 10, 2003; Snow Engineering Co. Service Letter #218A, dated November 10, 2003; and Snow Engineering Co. Service Letter #218B, dated November 10, 2003. The Director of the Federal Register approved the incorporation by reference of this service bulletin in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. You may get a copy from Air Tractor, Incorporated, P.O. Box 485, Olney, Texas 76374. You may review copies at FAA, Central Region, Office of the Regional Counsel, 901 Locust, Room 506, Kansas City, Missouri 64106; or at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call"
+    },
+    {
+      "id": "e9",
+      "type": "paragraph",
+      "page": 1,
+      "text": "(202) 741-6030, or go to: http:// www.archives.gov/federal_register/ code_of_federal_regulations/ ibr_locations.html."
+    },
+    {
+      "id": "e10",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Issued in Kansas City, Missouri, on July 20, 2004."
+    },
+    {
+      "id": "e11",
+      "type": "heading",
+      "page": 1,
+      "text": "Dorenda D. Baker,",
+      "level": 2
+    },
+    {
+      "id": "e12",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Manager, Small Airplane Directorate, Aircraft Certification Service."
+    },
+    {
+      "id": "e13",
+      "type": "paragraph",
+      "page": 1,
+      "text": "[FR Doc. 04-17119 Filed 7-29-04; 8:45 am]"
+    },
+    {
+      "id": "e14",
+      "type": "paragraph",
+      "page": 1,
+      "text": "BILLING CODE 4910-13-P"
+    },
+    {
+      "id": "e15",
+      "type": "heading",
+      "page": 1,
+      "text": "DEPARTMENT OF TRANSPORTATION",
+      "level": 2
+    },
+    {
+      "id": "e16",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Federal Aviation Administration"
+    },
+    {
+      "id": "e17",
+      "type": "heading",
+      "page": 1,
+      "text": "14 CFR Part 39",
+      "level": 2
+    },
+    {
+      "id": "e18",
+      "type": "paragraph",
+      "page": 1,
+      "text": "[Docket No. 2004-CE-03-AD; Amendment 39-13752; AD 2004-15-18]"
+    },
+    {
+      "id": "e19",
+      "type": "paragraph",
+      "page": 1,
+      "text": "RIN 2120-AA64"
+    },
+    {
+      "id": "e20",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Airworthiness Directives; Cessna Aircraft Company Models 172R, 172S, 182S, 182T, T182T, 206H, and T206H Airplanes"
+    },
+    {
+      "id": "e21",
+      "type": "paragraph",
+      "page": 1,
+      "text": "AGENCY: Federal Aviation Administration (FAA), DOT. ACTION: Final rule."
+    },
+    {
+      "id": "e22",
+      "type": "paragraph",
+      "page": 1,
+      "text": "SUMMARY: The FAA supersedes Airworthiness Directive (AD) 2003-2413, which applies to certain Cessna Aircraft Company (Cessna) Models 172R, 172S, 182S, 182T, T182T, 206H, and T206H airplanes that are equipped with a certain Honeywell KAP 140 autopilot computer system installed on the center instrument control panel near the throttle. AD 2003-24-13 currently requires you to install an update to the operating software of certain KAP 140 autopilot computer system, change the unit's part number, and change the software modification identification tab. This AD is the result of the FAA inadvertently omitting four affected Honeywell KAP 140 autopilot computer system part numbers and an affected airplane serial number from the applicability section of AD 2003-24-13. This AD retains the actions required in AD 2003-24-13, corrects the applicability section, and incorporates a revised installation bulletin issued by Honeywell."
+    },
+    {
+      "id": "e23",
+      "type": "paragraph",
+      "page": 1,
+      "text": "DATES: This AD becomes effective on September 12, 2004."
+    },
+    {
+      "id": "e24",
+      "type": "paragraph",
+      "page": 1,
+      "text": "As of September 12, 2004, the Director of the Federal Register approved the incorporation by reference of certain publications listed in the regulation."
+    },
+    {
+      "id": "e25",
+      "type": "paragraph",
+      "page": 1,
+      "text": "ADDRESSES: You may get the service information identified in this AD from Cessna Aircraft Company, Product Support, P.O. Box 7706, Wichita, Kansas 67277; telephone: (316) 5175800; facsimile: (316) 942-9006 and Honeywell, Business, Regional, and General Aviation, 23500 W. 105th Street, Olathe, Kansas 66061."
+    },
+    {
+      "id": "e26",
+      "type": "paragraph",
+      "page": 1,
+      "text": "You may view the AD docket at FAA, Central Region, Office of the Regional Counsel, Attention: Rules Docket No. 2004-CE-03-AD, 901 Locust, Room 506, Kansas City, Missouri 64106. Office hours are 8 a.m. to 4 p.m., Monday through Friday, except Federal holidays. FOR FURTHER INFORMATION CONTACT: Dan Withers, Aerospace Engineer, Wichita Aircraft Certification Office (ACO), FAA, 1801 Airport Road, Mid-Continent Airport, Wichita, Kansas 67209; telephone: (316) 946-4196; facsimile: (316) 946-4407."
+    },
+    {
+      "id": "e27",
+      "type": "heading",
+      "page": 1,
+      "text": "SUPPLEMENTARY INFORMATION:",
+      "level": 2
+    },
+    {
+      "id": "e28",
+      "type": "heading",
+      "page": 1,
+      "text": "Discussion",
+      "level": 2
+    },
+    {
+      "id": "e29",
+      "type": "paragraph",
+      "page": 1,
+      "text": "What events have caused this AD? Reports of an unsafe condition on certain Cessna Models 172R, 172S, 182S, 182T, T182T, 206H, and T206H airplanes that are equipped with a Honeywell KAP 140 autopilot computer system caused us to issue AD 2003-2413, Amendment 39-13382 (68 FR 67789, December 3, 2003)."
+    },
+    {
+      "id": "e30",
+      "type": "paragraph",
+      "page": 1,
+      "text": "The KAP 140 autopilot computer system is located on the lower portion of the center instrument control panel near the throttle on these Cessna airplanes. Because of this location on the instrument control panel of the affected Cessna airplanes, the Autopilot Engage (AP) button could"
+    },
+    {
+      "id": "e31",
+      "type": "paragraph",
+      "page": 1,
+      "text": "VerDate jul<14>2003 17:20 Jul 29, 2004 Jkt 203001 PO 00000 Frm 00016 Fmt 4700 Sfmt 4700 E:\\FR\\FM\\30JYR1.SGM 30JYR1"
+    },
+    {
+      "id": "e32",
+      "type": "page_header",
+      "page": 2,
+      "text": "Federal Register /Vol. 69, No. 146/Friday, July 30, 2004/Rules and Regulations"
+    },
+    {
+      "id": "e33",
+      "type": "page_header",
+      "page": 2,
+      "text": "45571"
+    },
+    {
+      "id": "e34",
+      "type": "paragraph",
+      "page": 2,
+      "text": "unintentionally be depressed when the pilot pushes the throttle knob forward. The pilot could also unintentionally engage the autopilot system by inadvertently bumping the Heading (HDG) button, Altitude (ALT) modeselect button, or Autopilot Engage (AP) button on the KAP 140 computer. Unless intentionally engaged, the pilot may not know that the autopilot system is engaged."
+    },
+    {
+      "id": "e35",
+      "type": "paragraph",
+      "page": 2,
+      "text": "The Honeywell KAP 140 autopilot computer system is also installed in the New Piper, Inc. Model PA-28-181 airplanes. This AD will not affect these airplanes because of the location of the equipment. The equipment is installed on the center instrument panel near the throttle on the affected airplanes, but is installed in the upper half of the instrument control panel on the Piper airplanes. The unsafe condition only exists on certain Cessna airplanes."
+    },
+    {
+      "id": "e36",
+      "type": "paragraph",
+      "page": 2,
+      "text": "Honeywell has updated the operating software for the KAP 140 autopilot computer system, which will now allow only the AP button on the instrument control panel to engage the autopilot system. This update also adds two voice messages if auto trim operation is detected, lengthens the amount of time that the autopilot button must be depressed in order for it to engage, and changes how the flight control display shows that the AP has been engaged."
+    },
+    {
+      "id": "e37",
+      "type": "paragraph",
+      "page": 2,
+      "text": "AD 2003-24-13 currently requires the following on certain Cessna Aircraft Company Models 172R, 172S, 182S, 182T, T182T, 206H, and T206H airplanes that are equipped with a Honeywell KAP 140 autopilot computer system, part number (P/N) 065-001762602, P/N 065-00176-5402, or P/N 06500176-7702 installed on the center instrument control panel near the throttle:"
+    },
+    {
+      "id": "e38",
+      "type": "paragraph",
+      "page": 2,
+      "text": "Installing an update to the autopilot computer system operating software;"
+    },
+    {
+      "id": "e39",
+      "type": "paragraph",
+      "page": 2,
+      "text": "Changing the unit part number;"
+    },
+    {
+      "id": "e40",
+      "type": "paragraph",
+      "page": 2,
+      "text": "Placing an M tag on the unit serial number tag; and"
+    },
+    {
+      "id": "e41",
+      "type": "paragraph",
+      "page": 2,
+      "text": "Changing the unit's software modification tag."
+    },
+    {
+      "id": "e42",
+      "type": "paragraph",
+      "page": 2,
+      "text": "What has happened since AD 200324-13 to initiate this action? We inadvertently omitted four affected Honeywell KAP 140 autopilot computer systems and an affected serial number for Model 182T airplanes from the applicability section. Honeywell revised Installation Bulletin No. 491 to the Rev."
+    },
+    {
+      "id": "e43",
+      "type": "paragraph",
+      "page": 2,
+      "text": "3 level (dated April 2003). We will incorporate this bulletin into this AD."
+    },
+    {
+      "id": "e44",
+      "type": "paragraph",
+      "page": 2,
+      "text": "What is the potential impact if FAA took no action? If not corrected, inadvertent and undetected engagement of the autopilot system could cause the pilot to take inappropriate actions."
+    },
+    {
+      "id": "e45",
+      "type": "paragraph",
+      "page": 2,
+      "text": "Has FAA taken any action to this point? We issued a proposal to amend part 39 of the Federal Aviation Regulations (14 CFR part 39) to include an AD that would apply to certain Cessna Models 172R, 172S, 182S, 182T, T182T, 206H, and T206H airplanes that are equipped with a certain Honeywell KAP 140 autopilot computer system installed on the center instrument control panel near the throttle. This proposal was published in the Federal Register as a notice of proposed rulemaking (NPRM) on March 10, 2004 (69 FR 11346). The NPRM proposed to supersede AD 2003-24-13 with a new AD that would retain the actions required in AD 2003-24-13, would add four additional affected Honeywell KAP 140 autopilot computer system part numbers and an affected airplane serial number to the applicability section, and would incorporate a revised Honeywell installation bulletin."
+    },
+    {
+      "id": "e46",
+      "type": "heading",
+      "page": 2,
+      "text": "Comments",
+      "level": 2
+    },
+    {
+      "id": "e47",
+      "type": "paragraph",
+      "page": 2,
+      "text": "Was the public invited to comment? We provided the public the opportunity to participate in the development of this AD. The following presents the comments received on the proposal and FAA's response to each comment:"
+    },
+    {
+      "id": "e48",
+      "type": "heading",
+      "page": 2,
+      "text": "Comment Issue: AD Action Is Not Necessary",
+      "level": 2
+    },
+    {
+      "id": "e49",
+      "type": "paragraph",
+      "page": 2,
+      "text": "What is the commenter's concern? The commenter states that FAA's discussion about the cause of the unsafe condition addressed in the proposed AD is unjustifiable."
+    },
+    {
+      "id": "e50",
+      "type": "paragraph",
+      "page": 2,
+      "text": "The commenter states that an attentive pilot would know if the autopilot has been unintentionally engaged. The commenter also states that it is a convenience to the pilot to have the autopilot mode selector near the throttle while maneuvering during an approach or a go around that may necessitate a change in function."
+    },
+    {
+      "id": "e51",
+      "type": "paragraph",
+      "page": 2,
+      "text": "The commenter states that the proposed AD is not necessary; therefore, the cost to have the software upgraded should be paid for by Honeywell."
+    },
+    {
+      "id": "e52",
+      "type": "paragraph",
+      "page": 2,
+      "text": "We infer that the commenter want us to withdraw the NPRM and current AD 2003-24-13."
+    },
+    {
+      "id": "e53",
+      "type": "paragraph",
+      "page": 2,
+      "text": "What is FAA's response to the concern? We do not agree with that we should withdraw the NPRM or AD 2003-24-13. The changes to the KC 140 autopilot computer system operating software required by this AD and AD 2003-24-13 will greatly limit the ability of the pilot to unintentionally engage the autopilot. The changes will also provide additional indications to the pilot that the autopilot has been engaged."
+    },
+    {
+      "id": "e54",
+      "type": "paragraph",
+      "page": 2,
+      "text": "Because we continue to receive reports of related accidents involving pilots with experience ranging from novice to certified flight instructors, it is an indication that it is not obvious to all pilots that the autopilot is engaged."
+    },
+    {
+      "id": "e55",
+      "type": "paragraph",
+      "page": 2,
+      "text": "We are not changing the final rule AD based on these comments."
+    },
+    {
+      "id": "e56",
+      "type": "heading",
+      "page": 2,
+      "text": "Conclusion",
+      "level": 2
+    },
+    {
+      "id": "e57",
+      "type": "paragraph",
+      "page": 2,
+      "text": "What is FAA's final determination on this issue? We have carefully reviewed the available data and determined that air safety and the public interest require adopting the AD as proposed except for minor editorial corrections. We have determined that these minor corrections:"
+    },
+    {
+      "id": "e58",
+      "type": "paragraph",
+      "page": 2,
+      "text": "Are consistent with the intent that was proposed in the NPRM for correcting the unsafe condition; and"
+    },
+    {
+      "id": "e59",
+      "type": "paragraph",
+      "page": 2,
+      "text": "Do not add any additional burden upon the public than was already proposed in the NPRM."
+    },
+    {
+      "id": "e60",
+      "type": "heading",
+      "page": 2,
+      "text": "Changes to 14 CFR Part 39-Effect on the AD",
+      "level": 2
+    },
+    {
+      "id": "e61",
+      "type": "paragraph",
+      "page": 2,
+      "text": "How does the revision to 14 CFR part 39 affect this AD? On July 10, 2002, the FAA published a new version of 14 CFR part 39 (67 FR 47997, July 22, 2002), which governs the FAA's AD system. This regulation now includes material that relates to altered products, special flight permits, and alternative methods of compliance. This material previously was included in each individual AD. Since this material is included in 14 CFR part 39, we will not include it in future AD actions."
+    },
+    {
+      "id": "e62",
+      "type": "heading",
+      "page": 2,
+      "text": "Costs of Compliance",
+      "level": 2
+    },
+    {
+      "id": "e63",
+      "type": "paragraph",
+      "page": 2,
+      "text": "How many airplanes does this AD impact? We estimate that this AD affects 3,681 airplanes in the U.S. registry."
+    },
+    {
+      "id": "e64",
+      "type": "paragraph",
+      "page": 2,
+      "text": "What is the cost impact of this AD on owners/operators of the affected airplanes? We estimate the following costs to accomplish the modification:"
+    },
+    {
+      "id": "e65",
+      "type": "table",
+      "header": [
+        "Labor cost",
+        "Parts cost",
+        "Total cost per airplane",
+        "Total cost on U.S. opera- tors"
+      ],
+      "rows": [
+        [
+          "7 workhours × $65 per hour = $455 ...............................",
+          "Not applicable ....................",
+          "$455 ...................................",
+          "$455 × 3,681 = $1,674,855"
+        ]
+      ],
+      "page": 2
+    },
+    {
+      "id": "e66",
+      "type": "paragraph",
+      "page": 2,
+      "text": "VerDate jul<14>2003 17:20 Jul 29, 2004 Jkt 203001 PO 00000 Frm 00017 Fmt 4700 Sfmt 4700 E:\\FR\\FM\\30JYR1.SGM 30JYR1"
+    },
+    {
+      "id": "e67",
+      "type": "page_header",
+      "page": 3,
+      "text": "45572"
+    },
+    {
+      "id": "e68",
+      "type": "page_header",
+      "page": 3,
+      "text": "Federal Register /Vol. 69, No. 146/Friday, July 30, 2004/Rules and Regulations"
+    },
+    {
+      "id": "e69",
+      "type": "paragraph",
+      "page": 3,
+      "text": "Not all Cessna Models 172R, 172S, 182S, 182T, T182T, 206H, and T206H airplanes on the U.S. registry have a KAP 140 autopilot computer system installed."
+    },
+    {
+      "id": "e70",
+      "type": "paragraph",
+      "page": 3,
+      "text": "Honeywell will provide warranty credit for labor and parts to the extent noted under WARRANTY INFORMATION in Honeywell Service Bulletin No: KC 140-M1, dated August 2002, and Honeywell Installation Bulletin No. 491, Rev. 3, dated April 2003."
+    },
+    {
+      "id": "e71",
+      "type": "paragraph",
+      "page": 3,
+      "text": "What is the difference between the cost impact of this AD and the cost impact of AD 2003-24-13? The difference is the addition of four KC 140 autopilot systems and one airplane serial number to the applicability section of this AD. There is no difference in cost to perform the modification."
+    },
+    {
+      "id": "e72",
+      "type": "heading",
+      "page": 3,
+      "text": "Regulatory Findings",
+      "level": 2
+    },
+    {
+      "id": "e73",
+      "type": "paragraph",
+      "page": 3,
+      "text": "Will this AD impact various entities? We have determined that this AD will not have federalism implications under Executive Order 13132. This AD will not have a substantial direct effect on the States, on the relationship between the national government and the States, or on the distribution of power and responsibilities among the various levels of government."
+    },
+    {
+      "id": "e74",
+      "type": "paragraph",
+      "page": 3,
+      "text": "Will this AD involve a significant rule or regulatory action? For the reasons discussed above, I certify that this AD:"
+    },
+    {
+      "id": "e75",
+      "type": "paragraph",
+      "page": 3,
+      "text": "Is not a ''significant regulatory action'' under Executive Order 12866;"
+    },
+    {
+      "id": "e76",
+      "type": "paragraph",
+      "page": 3,
+      "text": "Is not a ''significant rule'' under the DOT Regulatory Policies and Procedures (44 FR 11034, February 26, 1979); and"
+    },
+    {
+      "id": "e77",
+      "type": "paragraph",
+      "page": 3,
+      "text": "Will not have a significant economic impact, positive or negative, on a substantial number of small entities under the criteria of the Regulatory Flexibility Act."
+    },
+    {
+      "id": "e78",
+      "type": "paragraph",
+      "page": 3,
+      "text": "We prepared a summary of the costs to comply with this AD and placed it in the AD Docket. You may get a copy of this summary by sending a request to us at the address listed under ADDRESSES. Include ''AD Docket No. 2004-CE-03AD'' in your request."
+    },
+    {
+      "id": "e79",
+      "type": "heading",
+      "page": 3,
+      "text": "List of Subjects in 14 CFR Part 39",
+      "level": 2
+    },
+    {
+      "id": "e80",
+      "type": "paragraph",
+      "page": 3,
+      "text": "Air transportation, Aircraft, Aviation safety, Incorporation by reference, Safety."
+    },
+    {
+      "id": "e81",
+      "type": "heading",
+      "page": 3,
+      "text": "Adoption of the Amendment",
+      "level": 2
+    },
+    {
+      "id": "e82",
+      "type": "paragraph",
+      "page": 3,
+      "text": "■ Accordingly, under the authority delegated to me by the Administrator, the Federal Aviation Administration amends part 39 of the Federal Aviation Regulations (14 CFR part 39) as follows:"
+    },
+    {
+      "id": "e83",
+      "type": "heading",
+      "page": 3,
+      "text": "PART 39-AIRWORTHINESS DIRECTIVES",
+      "level": 2
+    },
+    {
+      "id": "e84",
+      "type": "paragraph",
+      "page": 3,
+      "text": "■ 1. The authority citation for part 39 continues to read as follows:"
+    },
+    {
+      "id": "e85",
+      "type": "paragraph",
+      "page": 3,
+      "text": "Authority: 49 U.S.C. 106(g), 40113, 44701."
+    },
+    {
+      "id": "e86",
+      "type": "heading",
+      "page": 3,
+      "text": "§39.13 [Amended]",
+      "level": 2
+    },
+    {
+      "id": "e87",
+      "type": "paragraph",
+      "page": 3,
+      "text": "■ 2. The FAA amends §39.13 by removing Airworthiness Directive (AD) 2003-24-13, Amendment 39-13382 (68 FR 67789, December 4, 2003), and by adding a new AD to read as follows:"
+    },
+    {
+      "id": "e88",
+      "type": "paragraph",
+      "page": 3,
+      "text": "2004-15-18 Cessna Aircraft Company: Amendment 39-13752; Docket No. 2004-CE-03-AD."
+    },
+    {
+      "id": "e89",
+      "type": "heading",
+      "page": 3,
+      "text": "When Does This AD Become Effective?",
+      "level": 2
+    },
+    {
+      "id": "e90",
+      "type": "paragraph",
+      "page": 3,
+      "text": "(a) This AD becomes effective on September 12, 2004."
+    },
+    {
+      "id": "e91",
+      "type": "heading",
+      "page": 3,
+      "text": "What Other ADs Are Affected by This Action?",
+      "level": 2
+    },
+    {
+      "id": "e92",
+      "type": "paragraph",
+      "page": 3,
+      "text": "(b) This AD supersedes AD 2003-24-13."
+    },
+    {
+      "id": "e93",
+      "type": "heading",
+      "page": 3,
+      "text": "What Airplanes Are Affected by This AD?",
+      "level": 2
+    },
+    {
+      "id": "e94",
+      "type": "paragraph",
+      "page": 3,
+      "text": "(c) This AD affects the following airplane models and serial numbers that are:"
+    },
+    {
+      "id": "e95",
+      "type": "paragraph",
+      "page": 3,
+      "text": "equipped with a KAP 140 autopilot computer system, part number (P/N) 065-00176-2501, P/N 065-00176-2602 , P/N 065-00176-5001, P/N 065-00176-5101, P/N 065-00176-5201, P/N 065-00176-5402, or P/ N 065-00176-7702, all serial numbers; and (2) certificated in any category."
+    },
+    {
+      "id": "e96",
+      "type": "table",
+      "header": [
+        "Model",
+        "Serial Nos."
+      ],
+      "rows": [
+        [
+          "172R ................................................ 172S ................................................ 182S ................................................ 182T ................................................ T182T .............................................. 206H ................................................ T206H .............................................",
+          "17280001 through 17281073, 17281075 through 17281127, and 17281130. 172S8001 through 172S9195, 172S9197, 172S9198, and 172S9200 through 172S9203. 18280001 through 18280944. 18280945 through 18281065, 18281067 through 18281145, 18281147 through 18281163, 18281165 through 18281167, and 18281172. T18208001 through T18208109, and T18208111 through T18208177. 20608001 through 20608183, 20608185, 20608187, and 20608188. T20608001 through T20608039, T20608041 through T20608367, T20608369 through T20608379, T20608381, T20608382, and T20608385."
+        ]
+      ],
+      "page": 3
+    },
+    {
+      "id": "e97",
+      "type": "heading",
+      "page": 3,
+      "text": "What Is the Unsafe Condition Presented in This AD?",
+      "level": 2
+    },
+    {
+      "id": "e98",
+      "type": "paragraph",
+      "page": 3,
+      "text": "(d) This AD is the result of reports of inadvertent and undetected engagement of the autopilot system. The actions"
+    },
+    {
+      "id": "e99",
+      "type": "paragraph",
+      "page": 3,
+      "text": "specified in this AD are intended to prevent unintentionally engaging the KAP 140 autopilot computer system, which could cause the pilot to take inappropriate actions."
+    },
+    {
+      "id": "e100",
+      "type": "heading",
+      "page": 3,
+      "text": "What Must I Do To Address This Problem?",
+      "level": 2
+    },
+    {
+      "id": "e101",
+      "type": "paragraph",
+      "page": 3,
+      "text": "(e) To address this problem, you must do the following:"
+    },
+    {
+      "id": "e102",
+      "type": "table",
+      "header": [
+        "Actions",
+        "Compliance",
+        "Procedures"
+      ],
+      "rows": [
+        [
+          "(1) For airplanes previously affected by AD 2003-24-13: install the update to the KC 140 autopilot computer system operating soft- ware.",
+          "Within the next 100 hours time-in-service (TIS) after January 20, 2004 (the effective date of AD 2003-24-13), unless already done.",
+          "Follow Cessna Service Bulletin SB02-22-01, dated November 25, 2002, and Honeywell Service Bulletin No: KC 140-M1, dated Au- gust 2002, as specified in Honeywell Instal- lation Bulletin No. 491, Rev. 3, dated April 2003."
+        ]
+      ],
+      "page": 3
+    },
+    {
+      "id": "e103",
+      "type": "paragraph",
+      "page": 3,
+      "text": "VerDate jul<14>2003 17:20 Jul 29, 2004 Jkt 203001 PO 00000 Frm 00018 Fmt 4700 Sfmt 4700 E:\\FR\\FM\\30JYR1.SGM 30JYR1"
+    },
+    {
+      "id": "e104",
+      "type": "page_header",
+      "page": 4,
+      "text": "Federal Register /Vol. 69, No. 146/Friday, July 30, 2004/Rules and Regulations"
+    },
+    {
+      "id": "e105",
+      "type": "page_header",
+      "page": 4,
+      "text": "45573"
+    },
+    {
+      "id": "e106",
+      "type": "table",
+      "header": [
+        "Actions",
+        "Compliance",
+        "Procedures"
+      ],
+      "rows": [
+        [
+          "(2) For airplanes previously affected by AD 2003-24-13: do the following: (i) Change the unit part number by attaching flavor sticker, part number (P/N) 057-02203- 0003, on the unit's serial tag; (ii) Attach an M decal, P/N 057-02984-0501, in front of the unit serial number (this indicates that the unit's P/N has been changed); and (iii) Attach a software mod tag, P/N 057- 05287-0301, in place of the old tag to indi- cate the software change to SW MOD 03/01.",
+          "Prior to further flight after installing the update to the KC 140 autopilot computer system operating software as specified in para- graph (e)(1) of this AD, unless already done.",
+          "Follow Honeywell Service Bulletin No: KC 140-M1, dated August 2002, as specified in Cessna Service Bulletin SB02-22-01, dated November 25, 2002."
+        ],
+        [
+          "(3) For airplanes not affected by AD 2003-24- 13: install the update to the KC 140 autopilot computer system operating software.",
+          "Within the next 100 hours time-in-service (TIS) after September 12, 2004 (the effec- tive date of this AD).",
+          "Follow Honeywell Installation Bulletin No. 491, Rev. 3, dated April 2003; Cessna Service Bulletin SB02-22-01, dated November 25, 2002; Honeywell Service Bulletin No: KC 140-M1, dated August 2002; and Cessna Single Engine Service Bulletin SB98-22- 01, dated May 18, 1998, as applicable."
+        ],
+        [
+          "(4) For all affected airplanes: install only KC 140 autopilot computer systems, part number (P/N) 065-00176-2501, P/N 065-00176- 2602 , P/N 065-00176-5001, P/N 065- 00176-5101, P/N 065-00176-5201, P/N 065-00176-5402, or P/N 065-00176-7702, that have been modified as specified in para- graphs (e)(1), (e)(2), and (e)(3) of this AD.",
+          "As of September 12, 2004 (the effective date of this AD).",
+          "Not applicable."
+        ]
+      ],
+      "page": 4
+    },
+    {
+      "id": "e107",
+      "type": "paragraph",
+      "page": 4,
+      "text": "(f) You may request a revised flight manual supplement from Cessna at the address specified in paragraph (h) of this AD."
+    },
+    {
+      "id": "e108",
+      "type": "heading",
+      "page": 4,
+      "text": "May I Request an Alternative Method of Compliance?",
+      "level": 2
+    },
+    {
+      "id": "e109",
+      "type": "paragraph",
+      "page": 4,
+      "text": "(g) You may request a different method of compliance or a different compliance time for this AD by following the procedures in 14 CFR 39.19."
+    },
+    {
+      "id": "e110",
+      "type": "paragraph",
+      "page": 4,
+      "text": "Unless FAA authorizes otherwise, send your request to your principal inspector. The principal inspector may add comments and will send your request to the Manager, Wichita Aircraft Certification (ACO), FAA. For information on any already approved alternative methods of compliance, contact Dan Withers, Aerospace Engineer, Wichita Aircraft Certification Office (ACO), FAA, 1801 Airport Road, Mid-Continent Airport, Wichita, Kansas 67209; telephone: (316) 946-4196; facsimile: (316) 946-4407."
+    },
+    {
+      "id": "e111",
+      "type": "paragraph",
+      "page": 4,
+      "text": "Alternative methods of compliance approved in accordance with AD 200324-13, which is superseded by this AD, are approved as alternative methods of compliance with this AD."
+    },
+    {
+      "id": "e112",
+      "type": "heading",
+      "page": 4,
+      "text": "Does This AD Incorporate Any Material by Reference?",
+      "level": 2
+    },
+    {
+      "id": "e113",
+      "type": "paragraph",
+      "page": 4,
+      "text": "(h) You must do the actions required by this AD following the instructions in Cessna Single Engine Service Bulletin SB98-22-01, dated May 18, 1998; Cessna Single Engine Service Bulletin"
+    },
+    {
+      "id": "e114",
+      "type": "paragraph",
+      "page": 4,
+      "text": "SB02-22-01, dated November 25, 2002; Honeywell Service Bulletin No: KC 140-M1, dated August 2002; and Honeywell Installation Bulletin No. 491, Rev. 3, dated April 2003. The Director of the Federal Register approved the incorporation by reference of this service bulletin in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. You may get a copy from Cessna Aircraft Company, Product Support, P.O. Box 7706, Wichita, Kansas 67277; telephone: (316) 517-5800; facsimile: (316) 9429006 and Honeywell, Business, Regional, and General Aviation, 23500 W. 105th Street, Olathe, Kansas 66061. You may review copies at FAA, Central Region, Office of the Regional Counsel, 901 Locust, Room 506, Kansas City, Missouri 64106; or at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call (202) 741-6030, or go to: http:// www.archives.gov/federal_register/ code_of_federal_regulations/ibr_ locations.html."
+    },
+    {
+      "id": "e115",
+      "type": "paragraph",
+      "page": 4,
+      "text": "Issued in Kansas City, Missouri, on July 21, 2004."
+    },
+    {
+      "id": "e116",
+      "type": "heading",
+      "page": 4,
+      "text": "Dorenda D. Baker,",
+      "level": 2
+    },
+    {
+      "id": "e117",
+      "type": "paragraph",
+      "page": 4,
+      "text": "Manager, Small Airplane Directorate, Aircraft Certification Service."
+    },
+    {
+      "id": "e118",
+      "type": "paragraph",
+      "page": 4,
+      "text": "[FR Doc. 04-17217 Filed 7-29-04; 8:45 am]"
+    },
+    {
+      "id": "e119",
+      "type": "paragraph",
+      "page": 4,
+      "text": "BILLING CODE 4910-13-P"
+    },
+    {
+      "id": "e120",
+      "type": "heading",
+      "page": 4,
+      "text": "DEPARTMENT OF TRANSPORTATION",
+      "level": 2
+    },
+    {
+      "id": "e121",
+      "type": "heading",
+      "page": 4,
+      "text": "Federal Aviation Administration",
+      "level": 2
+    },
+    {
+      "id": "e122",
+      "type": "heading",
+      "page": 4,
+      "text": "14 CFR Part 39",
+      "level": 2
+    },
+    {
+      "id": "e123",
+      "type": "paragraph",
+      "page": 4,
+      "text": "[Docket No. 2003-CE-52-AD; Amendment 39-13753; AD 2004-15-19]"
+    },
+    {
+      "id": "e124",
+      "type": "paragraph",
+      "page": 4,
+      "text": "RIN 2120-AA64"
+    },
+    {
+      "id": "e125",
+      "type": "heading",
+      "page": 4,
+      "text": "Airworthiness Directives; The New Piper Aircraft, Inc. Model PA-46-500TP Airplanes",
+      "level": 2
+    },
+    {
+      "id": "e126",
+      "type": "paragraph",
+      "page": 4,
+      "text": "AGENCY: Federal Aviation Administration (FAA), DOT. ACTION: Final rule."
+    },
+    {
+      "id": "e127",
+      "type": "paragraph",
+      "page": 4,
+      "text": "SUMMARY: The FAA adopts a new airworthiness directive (AD) for certain the New Piper Aircraft, Inc. (Piper) Model PA-46-500TP airplanes. This AD requires you to inspect (one-time) for the existence of any protective cover over the percussion caps or silicon tube installed over the end of the trigger mechanism pin of the oxygen generators, and remove any protective cover or silicon tube found. This AD is the result of reports of the above conditions found on the affected airplanes. We are issuing this AD to detect and remove any protective cover over the percussion cap, or any silicon tube over the end of the trigger mechanism pin, which could result in failure of the emergency oxygen system. This failure could lead to the crew and passengers not being able to get oxygen in an emergency situation."
+    },
+    {
+      "id": "e128",
+      "type": "paragraph",
+      "page": 4,
+      "text": "VerDate jul<14>2003 17:20 Jul 29, 2004 Jkt 203001 PO 00000 Frm 00019 Fmt 4700 Sfmt 4700 E:\\FR\\FM\\30JYR1.SGM 30JYR1"
+    }
+  ]
+}

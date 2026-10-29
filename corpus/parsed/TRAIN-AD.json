@@ -1,0 +1,62 @@
+{
+  "source_id": "TRAIN-AD",
+  "file": "anfa/training-airworthiness-directives.pptx",
+  "format": "pptx",
+  "parser": "docling",
+  "meta": {
+    "publisher": "Anfa Aero Services",
+    "title": "Airworthiness directives at Anfa: training deck for new mechanics",
+    "doc_type": "training",
+    "access": "employees"
+  },
+  "elements": [
+    {
+      "id": "e1",
+      "type": "slide",
+      "slide": 1,
+      "title": "Airworthiness directives at Anfa",
+      "text": "New mechanics, first month Quality: Karim Bennani",
+      "notes": ""
+    },
+    {
+      "id": "e2",
+      "type": "slide",
+      "slide": 2,
+      "title": "Where directives come from",
+      "text": "The state of design issues them: the FAA for our Cessnas Published in the Federal Register Revisions and corrections follow",
+      "notes": ""
+    },
+    {
+      "id": "e3",
+      "type": "slide",
+      "slide": 3,
+      "title": "Check applicability before you sign",
+      "text": "Model and serial number range Installed equipment and part number Software version, modifications",
+      "notes": ""
+    },
+    {
+      "id": "e4",
+      "type": "slide",
+      "slide": 4,
+      "title": "The engine oil pressure switch",
+      "text": "P/N 83278, 3,000 hours Replace with a new, zero-time switch Record part number, date, and airframe hours",
+      "notes": ""
+    },
+    {
+      "id": "e5",
+      "type": "slide",
+      "slide": 5,
+      "title": "Torque",
+      "text": "Maintenance manual first AC 43.13-1B Table 7-1 when it gives no value Record the wrench number",
+      "notes": ""
+    },
+    {
+      "id": "e6",
+      "type": "slide",
+      "slide": 6,
+      "title": "Records",
+      "text": "14 CFR 43.9 content in every entry AD compliance record for each aircraft Hours to one decimal place",
+      "notes": ""
+    }
+  ]
+}

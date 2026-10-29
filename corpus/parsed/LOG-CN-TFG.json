@@ -1,0 +1,226 @@
+{
+  "source_id": "LOG-CN-TFG",
+  "file": "anfa/logbooks/logbook-CN-TFG.pdf",
+  "format": "pdf",
+  "parser": "docling",
+  "meta": {
+    "publisher": "Anfa Aero Services",
+    "title": "CN-TFG airframe logbook extract, 2024 to 2026",
+    "doc_type": "logbook",
+    "aircraft": "CN-TFG",
+    "as_of": "2026-10-26",
+    "access": "staff"
+  },
+  "elements": [
+    {
+      "id": "e1",
+      "type": "heading",
+      "page": 1,
+      "text": "CN-TFG airframe logbook: entries from 1 January 2024 to 26 October 2026 (printed extract)",
+      "level": 2
+    },
+    {
+      "id": "e2",
+      "type": "table",
+      "header": [
+        "Date",
+        "Airframe hours",
+        "Work order",
+        "Entry",
+        "Signed"
+      ],
+      "rows": [
+        [
+          "2024-01-22",
+          "13,523.9",
+          "WO-2024-0036",
+          "100-hour inspection per 14 CFR 91.409(b). Replaced right main tire. Replaced left main tire. Serviced nose strut with hydraulic fluid and air. Oil and filter changed.",
+          "R. El Fassi, MA-B1-0618"
+        ],
+        [
+          "2024-03-26",
+          "13,615.1",
+          "WO-2024-0136",
+          "100-hour inspection per 14 CFR 91.409(b). Replaced induction air filter. Replaced left brake linings. Oil and filter changed.",
+          "R. El Fassi, MA-B1-0618"
+        ],
+        [
+          "2024-05-30",
+          "13,707.6",
+          "WO-2024-0235",
+          "100-hour inspection per 14 CFR 91.409(b). Removed corrosion, treated and painted battery box; neutralized battery area. Oil and filter changed.",
+          "R. El Fassi, MA-B1-0618"
+        ],
+        [
+          "2024-07-07",
+          "13,761.8",
+          "WO-2024-0295",
+          "Annual inspection per 14 CFR 91.409(a) and the scope and detail of 14 CFR Part 43 Appendix D. Replaced trim tab actuator rod end bearings; free play within limits. Replaced left cabin door seal. Oil and filter changed.",
+          "R. El Fassi, MA-B1-0618"
+        ],
+        [
+          "2024-08-27",
+          "13,834.4",
+          "WO-2024-0372",
+          "Replaced FADEC backup battery per AD 2011-06-02. Battery test satisfactory. Next replacement due within 12 calendar months.",
+          "R. El Fassi, MA-B1-0618"
+        ],
+        [
+          "2024-09-14",
+          "13,860.0",
+          "WO-2024-0401",
+          "100-hour inspection per 14 CFR 91.409(b). Replaced right main tire. Oil and filter changed.",
+          "R. El Fassi, MA-B1-0618"
+        ],
+        [
+          "2024-10-08",
+          "13,894.2",
+          "WO-2024-0439",
+          "Static system test and altimeter test per 14 CFR 91.411 and Part 43 Appendix E. Transponder test per 14 CFR 91.413 and Part 43 Appendix F. All tests within limits. Next tests due within 24 calendar months.",
+          "R. El Fassi, MA-B1-0618"
+        ],
+        [
+          "2024-11-05",
+          "13,934.1",
+          "WO-2024-0482",
+          "Downloaded FADEC data: intermittent signal from rail pressure sensor B. Cleaned and secured connector. FADEC test passed. Data sent to Technify.",
+          "R. El Fassi, MA-B1-0618"
+        ],
+        [
+          "2024-11-20",
+          "13,955.5",
+          "WO-2024-0506",
+          "100-hour inspection per 14 CFR 91.409(b). Replaced left main tire. Serviced nose strut with hydraulic fluid and air. Oil and filter changed.",
+          "R. El Fassi, MA-B1-0618"
+        ],
+        [
+          "2025-01-24",
+          "14,048.0",
+          "WO-2025-0038",
+          "100-hour inspection per 14 CFR 91.409(b). Replaced induction air filter. Oil and filter changed.",
+          "A. Tazi, MA-B1-0457"
+        ],
+        [
+          "2025-03-26",
+          "14,134.9",
+          "WO-2025-0130",
+          "Found a seep at the gearbox drain plug. Replaced sealing ring; topped up gearbox oil. Leak check satisfactory.",
+          "R. El Fassi, MA-B1-0618"
+        ],
+        [
+          "2025-04-01",
+          "14,143.5",
+          "WO-2025-0137",
+          "100-hour inspection per 14 CFR 91.409(b). Oil and filter changed.",
+          "R. El Fassi, MA-B1-0618"
+        ],
+        [
+          "2025-06-04",
+          "14,234.6",
+          "WO-2025-0232",
+          "100-hour inspection per 14 CFR 91.409(b). Removed corrosion, treated and painted battery box; neutralized battery area. Oil and filter changed.",
+          "A. Tazi, MA-B1-0457"
+        ]
+      ],
+      "page": 1
+    },
+    {
+      "id": "e3",
+      "type": "table",
+      "header": [
+        "Date",
+        "Airframe hours",
+        "Work order",
+        "Entry",
+        "Signed"
+      ],
+      "rows": [
+        [
+          "2025-07-13",
+          "14,290.2",
+          "WO-2025-0293",
+          "Annual inspection per 14 CFR 91.409(a) and the scope and detail of 14 CFR Part 43 Appendix D. Replaced trim tab actuator rod end bearings; free play within limits. Oil and filter changed.",
+          "A. Tazi, MA-B1-0457"
+        ],
+        [
+          "2025-08-19",
+          "14,342.9",
+          "WO-2025-0346",
+          "Replaced FADEC backup battery per AD 2011-06-02. Battery test satisfactory. Next replacement due within 12 calendar months.",
+          "R. El Fassi, MA-B1-0618"
+        ],
+        [
+          "2025-08-24",
+          "14,350.0",
+          "WO-2025-0356",
+          "Removed engine for overhaul. Engine sent to the Technify factory for overhaul. Reinstalled the overhauled engine, same serial number. Engine time since overhaul reset to 0.0. Ground run and leak check satisfactory. Engine logbook updated.",
+          "R. El Fassi, MA-B1-0618"
+        ],
+        [
+          "2025-09-15",
+          "14,381.4",
+          "WO-2025-0389",
+          "100-hour inspection per 14 CFR 91.409(b). Replaced left cabin door seal. Oil and filter changed.",
+          "A. Tazi, MA-B1-0457"
+        ],
+        [
+          "2025-11-23",
+          "14,479.7",
+          "WO-2025-0490",
+          "100-hour inspection per 14 CFR 91.409(b). Replaced left brake linings. Oil and filter changed.",
+          "K. Bennani, MA-B1-0212"
+        ],
+        [
+          "2026-01-27",
+          "14,572.4",
+          "WO-2026-0039",
+          "100-hour inspection per 14 CFR 91.409(b). Replaced left main tire. Replaced right main tire. Oil and filter changed.",
+          "A. Tazi, MA-B1-0457"
+        ],
+        [
+          "2026-04-01",
+          "14,663.7",
+          "WO-2026-0126",
+          "100-hour inspection per 14 CFR 91.409(b). Replaced induction air filter. Oil and filter changed.",
+          "K. Bennani, MA-B1-0212"
+        ],
+        [
+          "2026-06-02",
+          "14,752.0",
+          "WO-2026-0208",
+          "Induction air filter partly blocked by debris. Replaced air filter. Load check satisfactory.",
+          "K. Bennani, MA-B1-0212"
+        ],
+        [
+          "2026-06-07",
+          "14,759.2",
+          "WO-2026-0215",
+          "100-hour inspection per 14 CFR 91.409(b). Removed corrosion, treated and painted battery box; neutralized battery area. Serviced nose strut with hydraulic fluid and air. Oil and filter changed.",
+          "A. Tazi, MA-B1-0457"
+        ],
+        [
+          "2026-07-25",
+          "14,827.6",
+          "WO-2026-0282",
+          "Annual inspection per 14 CFR 91.409(a) and the scope and detail of 14 CFR Part 43 Appendix D. Replaced trim tab actuator rod end bearings; free play within limits. Replaced left cabin door seal. Oil and filter changed.",
+          "K. Bennani, MA-B1-0212"
+        ],
+        [
+          "2026-08-11",
+          "14,851.8",
+          "WO-2026-0304",
+          "Replaced FADEC backup battery per AD 2011-06-02. Battery test satisfactory. Next replacement due within 12 calendar months.",
+          "R. El Fassi, MA-B1-0618"
+        ],
+        [
+          "2026-09-30",
+          "14,923.1",
+          "WO-2026-0371",
+          "100-hour inspection per 14 CFR 91.409(b). Replaced left main tire. Replaced left brake linings. Oil and filter changed.",
+          "K. Bennani, MA-B1-0212"
+        ]
+      ],
+      "page": 2
+    }
+  ]
+}

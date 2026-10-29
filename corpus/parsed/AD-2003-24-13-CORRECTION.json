@@ -1,0 +1,629 @@
+{
+  "source_id": "AD-2003-24-13-CORRECTION",
+  "file": "faa/ad/ad-2003-24-13-correction.pdf",
+  "format": "pdf",
+  "parser": "docling",
+  "meta": {
+    "title": "AD 2003-24-13 (correction): Cessna Aircraft Company Models 172R, 172S, 182S, 182T, T182T, 206H, and T206H Airplanes",
+    "publisher": "FAA",
+    "doc_type": "airworthiness directive",
+    "ad_number": "2003-24-13",
+    "action": "Final rule; correction",
+    "published": "2003-12-30",
+    "effective": "2004-01-20",
+    "federal_register": "68 FR 75114 (document 03-31667)",
+    "access": "employees"
+  },
+  "elements": [
+    {
+      "id": "e1",
+      "type": "page_header",
+      "page": 1,
+      "text": "75114 Federal Register /Vol. 68, No. 249/Tuesday, December 30, 2003/Rules and Regulations"
+    },
+    {
+      "id": "e2",
+      "type": "paragraph",
+      "page": 1,
+      "text": "instances where NCUA issues a final rule as defined by Section 551 of the Administrative Procedure Act. 5 U.S.C. 551. The Office of Management and Budget has determined that this rule is not a major rule for purposes of the Small Business Regulatory Enforcement Fairness Act of 1996."
+    },
+    {
+      "id": "e3",
+      "type": "heading",
+      "page": 1,
+      "text": "List of Subjects in 12 CFR Part 745",
+      "level": 2
+    },
+    {
+      "id": "e4",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Credit unions, Share insurance."
+    },
+    {
+      "id": "e5",
+      "type": "paragraph",
+      "page": 1,
+      "text": "By the National Credit Union Administration Board on December 18, 2003."
+    },
+    {
+      "id": "e6",
+      "type": "heading",
+      "page": 1,
+      "text": "Becky Baker,",
+      "level": 2
+    },
+    {
+      "id": "e7",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Secretary of the Board."
+    },
+    {
+      "id": "e8",
+      "type": "paragraph",
+      "page": 1,
+      "text": "■ Accordingly, NCUA amends 12 CFR part 745 as follows:"
+    },
+    {
+      "id": "e9",
+      "type": "heading",
+      "page": 1,
+      "text": "PART 745-SHARE INSURANCE AND APPENDIX",
+      "level": 2
+    },
+    {
+      "id": "e10",
+      "type": "paragraph",
+      "page": 1,
+      "text": "■ 1. The authority citation for part 745 continues to read as follows:"
+    },
+    {
+      "id": "e11",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Authority: 12 U.S.C. 1752(5), 1757, 1765, 1766, 1781, 1782, 1787, 1789."
+    },
+    {
+      "id": "e12",
+      "type": "paragraph",
+      "page": 1,
+      "text": "■ 2. Section 745.2 is amended by adding paragraphs (e) and (f) to read as follows:"
+    },
+    {
+      "id": "e13",
+      "type": "heading",
+      "page": 1,
+      "text": "§745.2 General principles applicable in determining insurance of accounts.",
+      "level": 2
+    },
+    {
+      "id": "e14",
+      "type": "paragraph",
+      "page": 1,
+      "text": "* * * * *"
+    },
+    {
+      "id": "e15",
+      "type": "paragraph",
+      "page": 1,
+      "text": "(e) Continuation of insurance coverage following the death of a member. The death of a member will not affect the member's share insurance coverage for a period of six months following death unless the member's share accounts are restructured in that time period. If the accounts are restructured during the six-month grace period, or upon the expiration of the six months if not restructured, the share insurance coverage will be provided on the basis of actual ownership of the accounts in accordance with the provisions of this part. The operation of this grace period, however, will not result in a reduction of coverage."
+    },
+    {
+      "id": "e16",
+      "type": "paragraph",
+      "page": 1,
+      "text": "(f) Continuation of separate share insurance coverage after merger of insured credit unions. Whenever the liability to pay the member accounts of one or more insured credit unions is assumed by another insured credit union, whether by merger, consolidation, other statutory assumption or contract: The insured status of the credit unions whose member account liability has been assumed terminates, for purposes of this section, on the date of receipt by NCUA of satisfactory evidence of the assumption; and the separate insurance of member accounts assumed continues for six months from the date the assumption takes effect or, in the case of a share certificate, the earliest maturity date after the six-month period. In the case of a share certificate that matures within the six-month grace period that is renewed at the same dollar amount, either with or without accrued dividends having been added to the principal amount, and for the same term as the original share certificate, the separate insurance applies to the renewed share certificate until the first maturity date after the six-month period. A share certificate that matures within the six-month grace period that is renewed on any other basis, or that is not renewed, is separately insured only until the end of the six-month grace period."
+    },
+    {
+      "id": "e17",
+      "type": "paragraph",
+      "page": 1,
+      "text": "■ 3. Section 745.4 is amended by revising paragraph (c) to read as follows:"
+    },
+    {
+      "id": "e18",
+      "type": "heading",
+      "page": 1,
+      "text": "§745.4 Revocable trust accounts.",
+      "level": 2
+    },
+    {
+      "id": "e19",
+      "type": "paragraph",
+      "page": 1,
+      "text": "* * * * *"
+    },
+    {
+      "id": "e20",
+      "type": "paragraph",
+      "page": 1,
+      "text": "(c) If the named beneficiary of a revocable trust account is other than the spouse, child, grandchild, parent, brother or sister of the account owner, the funds corresponding to that beneficiary shall be treated as an individually owned account of the owner, aggregated with any other individually owned accounts of the owner, and insured up to $100,000. For example, if A establishes an account payable upon death to his nephew, the account would be insured as an individual account owned by A. Similarly, if B establishes an account payable upon death to her husband, son and nephew, two-thirds of the account balance would be eligible for revocable trust account coverage up to $200,000 corresponding to the two qualifying beneficiaries, the spouse and child. The amount corresponding to the nonqualifying beneficiary, the nephew, would be deemed to be owned by B as an individual account and insured accordingly."
+    },
+    {
+      "id": "e21",
+      "type": "paragraph",
+      "page": 1,
+      "text": "* * * * *"
+    },
+    {
+      "id": "e22",
+      "type": "paragraph",
+      "page": 1,
+      "text": "■ 4. Section 745.9-1 is amended by revising paragraph (c) to read as follows:"
+    },
+    {
+      "id": "e23",
+      "type": "heading",
+      "page": 1,
+      "text": "§745.9-1 Trust accounts.",
+      "level": 2
+    },
+    {
+      "id": "e24",
+      "type": "paragraph",
+      "page": 1,
+      "text": "* * * * *"
+    },
+    {
+      "id": "e25",
+      "type": "paragraph",
+      "page": 1,
+      "text": "(c) This section applies to trust interests created in Coverdell Education Savings Accounts, formerly Education IRAs, established in connection with section 530 of the Internal Revenue Code (26 U.S.C. 530)."
+    },
+    {
+      "id": "e26",
+      "type": "paragraph",
+      "page": 1,
+      "text": "■ 5. Section 745.9-2 is amended by revising paragraph (a) to read as follows:"
+    },
+    {
+      "id": "e27",
+      "type": "heading",
+      "page": 1,
+      "text": "§745.9-2 IRA/Keogh accounts.",
+      "level": 2
+    },
+    {
+      "id": "e28",
+      "type": "paragraph",
+      "page": 1,
+      "text": "(a) The present vested ascertainable interest of a participant or designated beneficiary in a trust or custodial account maintained pursuant to a pension or profit-sharing plan described under section 401(d) (Keogh account), section 408(a) (IRA) and section 408A (Roth IRA) of the Internal Revenue Code (26 U.S.C. 401(d), 408(a) and 408A), or similar provisions of law applicable to a U.S. territory or possession, will be insured up to $100,000 separately from other accounts of the participant or designated beneficiary. For insurance purposes, IRA and Roth IRA accounts will be combined together and insured in the aggregate up to $100,000. A Keogh account will be separately insured from an IRA account, Roth IRA account or, where applicable, aggregated IRA and Roth IRA accounts."
+    },
+    {
+      "id": "e29",
+      "type": "paragraph",
+      "page": 1,
+      "text": "* * * * *"
+    },
+    {
+      "id": "e30",
+      "type": "paragraph",
+      "page": 1,
+      "text": "■ 6. The Appendix to part 745 is amended by revising the third sentence of Section B to read as follows:"
+    },
+    {
+      "id": "e31",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Appendix to Part 745-Examples of Insurance Coverage Afforded Accounts in Credit Unions Insured by the National Credit Union Share Insurance Fund"
+    },
+    {
+      "id": "e32",
+      "type": "paragraph",
+      "page": 1,
+      "text": "* * * * *"
+    },
+    {
+      "id": "e33",
+      "type": "heading",
+      "page": 1,
+      "text": "B. How Are Revocable Trust Accounts Insured?",
+      "level": 2
+    },
+    {
+      "id": "e34",
+      "type": "paragraph",
+      "page": 1,
+      "text": "* * If the named beneficiary of a revocable trust account is other than the spouse, child, grandchild, parent, brother or sister of the account owner, the funds corresponding to that beneficiary shall be treated as an individually owned account of the owner, aggregated with any other individually owned accounts of the owner, and insured up to $100,000. * * *"
+    },
+    {
+      "id": "e35",
+      "type": "paragraph",
+      "page": 1,
+      "text": "* * * * *"
+    },
+    {
+      "id": "e36",
+      "type": "paragraph",
+      "page": 1,
+      "text": "[FR Doc. 03-31844 Filed 12-29-03; 8:45 am] BILLING CODE 7535-01-U"
+    },
+    {
+      "id": "e37",
+      "type": "heading",
+      "page": 1,
+      "text": "DEPARTMENT OF TRANSPORTATION",
+      "level": 2
+    },
+    {
+      "id": "e38",
+      "type": "heading",
+      "page": 1,
+      "text": "Federal Aviation Administration",
+      "level": 2
+    },
+    {
+      "id": "e39",
+      "type": "heading",
+      "page": 1,
+      "text": "14 CFR Part 39",
+      "level": 2
+    },
+    {
+      "id": "e40",
+      "type": "paragraph",
+      "page": 1,
+      "text": "[Docket No. 2003-CE-28-AD; Amendment 39-13382; AD 2003-24-13]"
+    },
+    {
+      "id": "e41",
+      "type": "heading",
+      "page": 1,
+      "text": "RIN 2120-AA64",
+      "level": 2
+    },
+    {
+      "id": "e42",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Airworthiness Directives; Cessna Aircraft Company Models 172R, 172S, 182S, 182T, T182T, 206H, and T206H Airplanes"
+    },
+    {
+      "id": "e43",
+      "type": "paragraph",
+      "page": 1,
+      "text": "AGENCY: Federal Aviation"
+    },
+    {
+      "id": "e44",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Administration, DOT."
+    },
+    {
+      "id": "e45",
+      "type": "paragraph",
+      "page": 1,
+      "text": "ACTION: Final rule; correction."
+    },
+    {
+      "id": "e46",
+      "type": "paragraph",
+      "page": 1,
+      "text": "SUMMARY: This document makes a correction to Airworthiness Directive (AD) 2003-24-13, which was published in the Federal Register on December 4, 2003 (68 FR 67789), and applies to certain Cessna Aircraft Company (Cessna) Models 172R, 172S, 182S, 182T, T182T, 206H, and T206H"
+    },
+    {
+      "id": "e47",
+      "type": "paragraph",
+      "page": 1,
+      "text": "VerDate jul<14>2003 16:03 Dec 29, 2003 Jkt 203001 PO 00000 Frm 00008 Fmt 4700 Sfmt 4700 E:\\FR\\FM\\30DER1.SGM 30DER1"
+    },
+    {
+      "id": "e48",
+      "type": "page_header",
+      "page": 2,
+      "text": "Federal Register /Vol. 68, No. 249/Tuesday, December 30, 2003/Rules and Regulations"
+    },
+    {
+      "id": "e49",
+      "type": "page_header",
+      "page": 2,
+      "text": "75115"
+    },
+    {
+      "id": "e50",
+      "type": "paragraph",
+      "page": 2,
+      "text": "airplanes that are equipped with a Honeywell KAP 140 autopilot computer system installed on the center instrument control panel near the throttle. We inadvertently duplicated affected airplane serial numbers and included a serial number that should not be affected by this AD in the applicability section. This action corrects the applicability section of AD 2003-24-13, Amendment 39-13382."
+    },
+    {
+      "id": "e51",
+      "type": "paragraph",
+      "page": 2,
+      "text": "EFFECTIVE DATE: The effective date of this AD remains January 20, 2004."
+    },
+    {
+      "id": "e52",
+      "type": "paragraph",
+      "page": 2,
+      "text": "FOR FURTHER INFORMATION CONTACT: Dan Withers, Aerospace Engineer, Wichita Aircraft Certification Office (ACO), FAA, 1801 Airport Road, Mid-Continent Airport, Wichita, Kansas 67209; telephone: (316) 946-4196; facsimile: (316) 946-4407."
+    },
+    {
+      "id": "e53",
+      "type": "heading",
+      "page": 2,
+      "text": "SUPPLEMENTARY INFORMATION:",
+      "level": 2
+    },
+    {
+      "id": "e54",
+      "type": "heading",
+      "page": 2,
+      "text": "Discussion",
+      "level": 2
+    },
+    {
+      "id": "e55",
+      "type": "paragraph",
+      "page": 2,
+      "text": "On November 25, 2003, FAA issued AD 2003-24-13, Amendment 39-13382 (68 FR 67789, December 4, 2003), which applies to certain Cessna Models 172R, 172S, 182S, 182T, T182T, 206H, and T206H airplanes that are equipped with a Honeywell KAP 140 autopilot computer system installed on the center instrument control panel near the throttle. This AD requires you to install an update to the operating software of the KAP 140 autopilot computer system, change the unit's part number, and change the software modification identification tag."
+    },
+    {
+      "id": "e56",
+      "type": "heading",
+      "page": 2,
+      "text": "Need for the Correction",
+      "level": 2
+    },
+    {
+      "id": "e57",
+      "type": "paragraph",
+      "page": 2,
+      "text": "The FAA inadvertently duplicated affected airplane serial numbers for Model T206H airplanes in the applicability section of this AD. We also inadvertently included serial number T20608368 for Model T206H airplanes in the applicability section of this AD"
+    },
+    {
+      "id": "e58",
+      "type": "paragraph",
+      "page": 2,
+      "text": "that is not affected by this AD. This correction is needed to ensure that the affected airplane owners/operators do not have unnecessary action performed on their airplanes."
+    },
+    {
+      "id": "e59",
+      "type": "heading",
+      "page": 2,
+      "text": "Correction of Publication",
+      "level": 2
+    },
+    {
+      "id": "e60",
+      "type": "paragraph",
+      "page": 2,
+      "text": "■ Accordingly, the publication of December 4, 2003 (68 FR 67789), of Amendment 39-13382; AD 2003-24-13, which was the subject of FR Doc. 0330075, is corrected as follows:"
+    },
+    {
+      "id": "e61",
+      "type": "heading",
+      "page": 2,
+      "text": "§39.13 [Corrected]",
+      "level": 2
+    },
+    {
+      "id": "e62",
+      "type": "paragraph",
+      "page": 2,
+      "text": "■ On page 67791, in section 39.13 [Amended], 2., replace paragraph (c) of the AD with the following text:"
+    },
+    {
+      "id": "e63",
+      "type": "heading",
+      "page": 2,
+      "text": "''What Airplanes Are Affected by This AD?",
+      "level": 2
+    },
+    {
+      "id": "e64",
+      "type": "paragraph",
+      "page": 2,
+      "text": "(c) This AD affects the following airplane models and serial numbers that are:"
+    },
+    {
+      "id": "e65",
+      "type": "paragraph",
+      "page": 2,
+      "text": "equipped with a KAP 140 autopilot computer system, part number (P/N) 06500176-2602, P/N 065-00176-5402, or P/N 065-00176-7702; and"
+    },
+    {
+      "id": "e66",
+      "type": "paragraph",
+      "page": 2,
+      "text": "(2) certificated in any category;"
+    },
+    {
+      "id": "e67",
+      "type": "table",
+      "header": [
+        "Model",
+        "Serial No."
+      ],
+      "rows": [
+        [
+          "172R ................................................ 172S ................................................ 182S ................................................ 182T ................................................ T182T .............................................. 206H ................................................ T206H .............................................",
+          "17280001 through 17281073, 17281075 through 17281127, and 17281130 172S8001 through 172S9195, 172S9197, 172S9198, and 172S9200 through 172S9203 18280001 through 18280944 18280945 through 18281064, 18281067 through 18281145,18281147 through 18281163, 18281165 through 18281167, and 18281172 T18208001 through T18208109, and T18208111 throughT18208177 20608001 through 20608183, 20608185, 20608187, and 20608188 T20608001 through T20608039, T20608041 through T20608367, T20608369 through T20608379, T20608381, T20608382, and T20608385''"
+        ]
+      ],
+      "page": 2
+    },
+    {
+      "id": "e68",
+      "type": "paragraph",
+      "page": 2,
+      "text": "Action is taken herein to correct this reference in AD 2003-24-13 and to add this AD correction to §39.13 of the Federal Aviation Regulations (14 CFR 39.13)."
+    },
+    {
+      "id": "e69",
+      "type": "paragraph",
+      "page": 2,
+      "text": "The effective date remains January 20, 2004."
+    },
+    {
+      "id": "e70",
+      "type": "paragraph",
+      "page": 2,
+      "text": "Issued in Kansas City, Missouri, on December 16, 2003."
+    },
+    {
+      "id": "e71",
+      "type": "heading",
+      "page": 2,
+      "text": "Michael Gallagher,",
+      "level": 2
+    },
+    {
+      "id": "e72",
+      "type": "paragraph",
+      "page": 2,
+      "text": "Manager, Small Airplane Directorate, Aircraft Certification Service."
+    },
+    {
+      "id": "e73",
+      "type": "paragraph",
+      "page": 2,
+      "text": "[FR Doc. 03-31667 Filed 12-29-03; 8:45 am]"
+    },
+    {
+      "id": "e74",
+      "type": "paragraph",
+      "page": 2,
+      "text": "BILLING CODE 4910-13-P"
+    },
+    {
+      "id": "e75",
+      "type": "heading",
+      "page": 2,
+      "text": "DEPARTMENT OF TRANSPORTATION",
+      "level": 2
+    },
+    {
+      "id": "e76",
+      "type": "heading",
+      "page": 2,
+      "text": "Federal Aviation Administration",
+      "level": 2
+    },
+    {
+      "id": "e77",
+      "type": "heading",
+      "page": 2,
+      "text": "14 CFR Part 39",
+      "level": 2
+    },
+    {
+      "id": "e78",
+      "type": "paragraph",
+      "page": 2,
+      "text": "[Docket No. 2002-NE-22-AD; Amendment 39-13369; AD 2003-23-05]"
+    },
+    {
+      "id": "e79",
+      "type": "paragraph",
+      "page": 2,
+      "text": "RIN 2120-AA64"
+    },
+    {
+      "id": "e80",
+      "type": "heading",
+      "page": 2,
+      "text": "Airworthiness Directives; Titeflex Corporation; Correction",
+      "level": 2
+    },
+    {
+      "id": "e81",
+      "type": "paragraph",
+      "page": 2,
+      "text": "AGENCY: Federal Aviation"
+    },
+    {
+      "id": "e82",
+      "type": "paragraph",
+      "page": 2,
+      "text": "Administration, DOT."
+    },
+    {
+      "id": "e83",
+      "type": "paragraph",
+      "page": 2,
+      "text": "ACTION: Final rule; correction."
+    },
+    {
+      "id": "e84",
+      "type": "paragraph",
+      "page": 2,
+      "text": "SUMMARY: This document makes corrections to Airworthiness Directive (AD) 2003-23-05 applicable to certain Titeflex Corporation hoses installed on Boeing 737-300, -400, -500, -600, -700, -700C, -800, -900, 747-400, 757200, -300, 767-200, -300, and -300F airplanes, that was published in the Federal Register on November 19, 2003 (68 FR 65157). The AD number is incorrect in the Preamble Section and in the Regulatory Section five corrections are needed in Table 1. This document corrects these errors. In all other respects, the original document remains the same."
+    },
+    {
+      "id": "e85",
+      "type": "paragraph",
+      "page": 2,
+      "text": "EFFECTIVE DATE: Effective December 30, 2003."
+    },
+    {
+      "id": "e86",
+      "type": "heading",
+      "page": 2,
+      "text": "FOR FURTHER INFORMATION CONTACT:",
+      "level": 2
+    },
+    {
+      "id": "e87",
+      "type": "paragraph",
+      "page": 2,
+      "text": "Terry Fahr, Aerospace Engineer, Boston Aircraft Certification Office, FAA, Engine and Propeller Directorate, 12 New England Executive Park, Burlington, MA 01803-5299; telephone (781) 238-7155; fax (781) 238-7199."
+    },
+    {
+      "id": "e88",
+      "type": "paragraph",
+      "page": 2,
+      "text": "SUPPLEMENTARY INFORMATION: A final rule AD, FR Doc. 03-28730, applicable to certain Titeflex Corporation hoses installed on Boeing 737-300, -400, -500, -600, -700, -700C, -800, -900,"
+    },
+    {
+      "id": "e89",
+      "type": "paragraph",
+      "page": 2,
+      "text": "747-400, 757-200, -300, 767-200, -300, and -300F airplanes, was published in the Federal Register on November 19, 2003 (68 FR 65157). The following corrections are needed:"
+    },
+    {
+      "id": "e90",
+      "type": "heading",
+      "page": 2,
+      "text": "§39.13 [Corrected]",
+      "level": 2
+    },
+    {
+      "id": "e91",
+      "type": "paragraph",
+      "page": 2,
+      "text": "■ On page 65157, in the first column, in the Preamble Section, in the fifth line, ''39-13369; AD 2003-23-05-AD ''is corrected to read ''39-13369; AD 200323-05''. Also, on page 65158, in Table 1, the following changes are made:"
+    },
+    {
+      "id": "e92",
+      "type": "paragraph",
+      "page": 2,
+      "text": "■ In the fifth column, for item (2) 737600, -700, -700C, -800, and -900 airplanes, first line, ''737-26A1109, Revision 12, dated May 8, 2003'' is corrected to read ''737-26A1109, Revision 2, dated May 8, 2003''."
+    },
+    {
+      "id": "e93",
+      "type": "paragraph",
+      "page": 2,
+      "text": "■ In the second column, for item (3) 747400 airplanes, ''BACH5R0186XX'' is corrected to read ''BACH5S0186XX'' and ''BACH5S0080YY'' is deleted."
+    },
+    {
+      "id": "e94",
+      "type": "paragraph",
+      "page": 2,
+      "text": "■ In the second column, for item (4) 757200 airplanes, under BACH5S0110XN, add ''No number'' and add in the third column on the same line, ''109422''."
+    },
+    {
+      "id": "e95",
+      "type": "paragraph",
+      "page": 2,
+      "text": "■ Also, on page 65159, in Table 1, in the second column, for item (5) 757-300"
+    },
+    {
+      "id": "e96",
+      "type": "paragraph",
+      "page": 2,
+      "text": "VerDate jul<14>2003 16:03 Dec 29, 2003 Jkt 203001 PO 00000 Frm 00009 Fmt 4700 Sfmt 4700 E:\\FR\\FM\\30DER1.SGM 30DER1"
+    }
+  ]
+}

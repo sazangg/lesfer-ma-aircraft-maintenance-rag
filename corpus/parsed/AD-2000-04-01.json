@@ -1,0 +1,775 @@
+{
+  "source_id": "AD-2000-04-01",
+  "file": "faa/ad/ad-2000-04-01.pdf",
+  "format": "pdf",
+  "parser": "docling",
+  "meta": {
+    "title": "AD 2000-04-01: Cessna Aircraft Company Models 172R, 172S, 182S, 206H, and T206H Airplanes",
+    "publisher": "FAA",
+    "doc_type": "airworthiness directive",
+    "ad_number": "2000-04-01",
+    "action": "Final rule; request for comments",
+    "published": "2000-02-22",
+    "effective": "2000-03-11",
+    "federal_register": "65 FR 8649 (document 00-3794)",
+    "access": "employees"
+  },
+  "elements": [
+    {
+      "id": "e1",
+      "type": "page_header",
+      "page": 1,
+      "text": "Federal Register /Vol. 65, No. 35/Tuesday, February 22, 2000/Rules and Regulations"
+    },
+    {
+      "id": "e2",
+      "type": "page_header",
+      "page": 1,
+      "text": "8649"
+    },
+    {
+      "id": "e3",
+      "type": "paragraph",
+      "page": 1,
+      "text": "wires with new varglas layer, and repair and wrap the wire expando sleeve in accordance with the alert service bulletin or Revision 1."
+    },
+    {
+      "id": "e4",
+      "type": "paragraph",
+      "page": 1,
+      "text": "(B) If any discrepancy of the wire bundles is detected, prior to further flight, repair the wires, rewrap the wire bundles with new varglas layer, and repair and wrap the wire expando sleeve in accordance with the alert service bulletin or Revision 1."
+    },
+    {
+      "id": "e5",
+      "type": "heading",
+      "page": 1,
+      "text": "Alternative Methods of Compliance",
+      "level": 2
+    },
+    {
+      "id": "e6",
+      "type": "paragraph",
+      "page": 1,
+      "text": "(b) An alternative method of compliance or adjustment of the compliance time that provides an acceptable level of safety may be used if approved by the Manager, Seattle Aircraft Certification Office (ACO), FAA, Transport Airplane Directorate. Operators shall submit their requests through an appropriate FAA Principal Maintenance Inspector, who may add comments and then send it to the Manager, Seattle ACO."
+    },
+    {
+      "id": "e7",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Note 4: Information concerning the existence of approved alternative methods of compliance with this AD, if any, may be obtained from the Seattle ACO."
+    },
+    {
+      "id": "e8",
+      "type": "heading",
+      "page": 1,
+      "text": "Special Flight Permits",
+      "level": 2
+    },
+    {
+      "id": "e9",
+      "type": "paragraph",
+      "page": 1,
+      "text": "(c) Special flight permits may be issued in accordance with sections 21.197 and 21.199 of the Federal Aviation Regulations (14 CFR 21.197 and 21.199) to operate the airplane to a location where the requirements of this AD can be accomplished."
+    },
+    {
+      "id": "e10",
+      "type": "heading",
+      "page": 1,
+      "text": "Incorporation by Reference",
+      "level": 2
+    },
+    {
+      "id": "e11",
+      "type": "paragraph",
+      "page": 1,
+      "text": "(d) The actions shall be done in accordance with Boeing Alert Service Bulletin 76732A0163, dated March 5, 1998, or Boeing Service Bulletin 767-32A0163, Revision 1, dated October 1, 1998. This incorporation by reference was approved by the Director of the Federal Register in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. Copies may be obtained from Boeing Commercial Airplane Group, P.O. Box 3707, Seattle, Washington 98124-2207. Copies may be inspected at the FAA, Transport Airplane Directorate, 1601 Lind Avenue, SW., Renton, Washington; or at the Office of the Federal Register, 800 North Capitol Street, NW., suite 700, Washington, DC."
+    },
+    {
+      "id": "e12",
+      "type": "paragraph",
+      "page": 1,
+      "text": "(e) This amendment becomes effective on March 28, 2000."
+    },
+    {
+      "id": "e13",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Issued in Renton, Washington, on February 11, 2000."
+    },
+    {
+      "id": "e14",
+      "type": "heading",
+      "page": 1,
+      "text": "Donald L. Riggin,",
+      "level": 2
+    },
+    {
+      "id": "e15",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Acting Manager, Transport Airplane Directorate, Aircraft Certification Service. [FR Doc. 00-3795 Filed 2-18-00; 8:45 am]"
+    },
+    {
+      "id": "e16",
+      "type": "paragraph",
+      "page": 1,
+      "text": "BILLING CODE 4910-13-U"
+    },
+    {
+      "id": "e17",
+      "type": "heading",
+      "page": 1,
+      "text": "DEPARTMENT OF TRANSPORTATION",
+      "level": 2
+    },
+    {
+      "id": "e18",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Federal Aviation Administration"
+    },
+    {
+      "id": "e19",
+      "type": "heading",
+      "page": 1,
+      "text": "14 CFR Part 39",
+      "level": 2
+    },
+    {
+      "id": "e20",
+      "type": "paragraph",
+      "page": 1,
+      "text": "[Docket No. 2000-CE-07-AD; Amendment 39-11583; AD 2000-04-01]"
+    },
+    {
+      "id": "e21",
+      "type": "paragraph",
+      "page": 1,
+      "text": "RIN 2120-AA64"
+    },
+    {
+      "id": "e22",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Airworthiness Directives; Cessna Aircraft Company Models 172R, 172S, 182S, 206H, and T206H Airplanes"
+    },
+    {
+      "id": "e23",
+      "type": "paragraph",
+      "page": 1,
+      "text": "AGENCY: Federal Aviation Administration, DOT."
+    },
+    {
+      "id": "e24",
+      "type": "paragraph",
+      "page": 1,
+      "text": "ACTION: Final rule; request for comments."
+    },
+    {
+      "id": "e25",
+      "type": "paragraph",
+      "page": 1,
+      "text": "SUMMARY: This amendment adopts a new airworthiness directive (AD) that applies to certain Cessna Aircraft Company (Cessna) Models 172R, 172S, 182S, 206H, and T206H airplanes. This AD requires that you accomplish the following:"
+    },
+    {
+      "id": "e26",
+      "type": "paragraph",
+      "page": 1,
+      "text": "-Inspect the oil pressure switch to determine if the oil pressure switch is part-number (P/N) 77041 or P/N 83278; and"
+    },
+    {
+      "id": "e27",
+      "type": "paragraph",
+      "page": 1,
+      "text": "-Replace any P/N 77041 oil pressure switch with a P/N 83278 switch."
+    },
+    {
+      "id": "e28",
+      "type": "paragraph",
+      "page": 1,
+      "text": "This AD is the result of reports of failure of the oil pressure switch diaphragm. The actions specified by this AD are intended to prevent loss of engine oil through the failure of the oil pressure switch diaphragm, which could result in partial or complete loss of engine power."
+    },
+    {
+      "id": "e29",
+      "type": "paragraph",
+      "page": 1,
+      "text": "DATES: Effective March 11, 2000."
+    },
+    {
+      "id": "e30",
+      "type": "paragraph",
+      "page": 1,
+      "text": "The Director of the Federal Register approved the incorporation by reference of certain publications listed in the regulation as of March 11, 2000."
+    },
+    {
+      "id": "e31",
+      "type": "paragraph",
+      "page": 1,
+      "text": "The FAA must receive any comments on this rule on or before April 17, 2000."
+    },
+    {
+      "id": "e32",
+      "type": "paragraph",
+      "page": 1,
+      "text": "ADDRESSES: Submit comments in triplicate to the Federal Aviation Administration (FAA), Central Region, Office of the Regional Counsel, Attention: Rules Docket No. 2000-CE07-AD, 901 Locust, Room 506, Kansas City, Missouri 64106."
+    },
+    {
+      "id": "e33",
+      "type": "paragraph",
+      "page": 1,
+      "text": "You may get the service information referenced in this AD from the Cessna Aircraft Company, Product Support, P.O. Box 7706, Wichita, Kansas"
+    },
+    {
+      "id": "e34",
+      "type": "paragraph",
+      "page": 1,
+      "text": "67277; telephone: (316) 517-5800; facsimile: (316) 942-9006. You may examine this information at the FAA, Central Region, Office of the Regional Counsel, Attention: Rules Docket No. 2000-CE-07-AD, 901 Locust, Room 506, Kansas City, Missouri 64106; or at the Office of the Federal Register, 800 North Capitol Street, NW, suite 700, Washington, DC."
+    },
+    {
+      "id": "e35",
+      "type": "paragraph",
+      "page": 1,
+      "text": "FOR FURTHER INFORMATION CONTACT: Paul Pendleton, Aerospace Engineer, Wichita Aircraft Certification Office, FAA, 1801 Airport Road, Mid-Continent Airport, Wichita, Kansas 67209; telephone: (316) 946-4143; facsimile: (316) 946-4407."
+    },
+    {
+      "id": "e36",
+      "type": "heading",
+      "page": 1,
+      "text": "SUPPLEMENTARY INFORMATION:",
+      "level": 2
+    },
+    {
+      "id": "e37",
+      "type": "heading",
+      "page": 1,
+      "text": "Discussion",
+      "level": 2
+    },
+    {
+      "id": "e38",
+      "type": "paragraph",
+      "page": 1,
+      "text": "What events have caused this AD?: We have received three reports of the diaphragm of the oil pressure switch failing on Cessna Modesl 172R, 182S, and 206H airplanes. The part number (P/N) of the failed oil pressure switch is 77041. The P/N 77041 oil pressure switch is utilized on the following Cessna airplanes:"
+    },
+    {
+      "id": "e39",
+      "type": "table",
+      "header": [
+        "Model",
+        "Serial Nos."
+      ],
+      "rows": [
+        [
+          "172R ................................................ 172S ................................................ 182S ................................................ 206H ................................................ T206H .............................................",
+          "17280001 through 17280830. 172S8001 through 172S8324, 172S8326 through 172S8333, 172S8340, 172S8342, 172S8344, 172S8345, and 172S8347. 18280001 through 18280660. 20608001 through 20608053, 20608055 through 20608071, and 20608073 through 20608076. T20608001 through T20608093, T20608095 through T20608103, T20608105 through T20608131, T20608133 through T20608137, T20608139, T20608141, T20608144, and T20608145."
+        ]
+      ],
+      "page": 1
+    },
+    {
+      "id": "e40",
+      "type": "paragraph",
+      "page": 1,
+      "text": "What are the consequences if the condition is not corrected?: Failure of the engine oil pressure switch diaphragm results in loss of engine oil through the vent hole. This could lead to partial or complete loss of engine power."
+    },
+    {
+      "id": "e41",
+      "type": "heading",
+      "page": 1,
+      "text": "Relevant Service Information",
+      "level": 2
+    },
+    {
+      "id": "e42",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Is there service information that applies to this subject?: Yes. Cessna has issued Service Bulletin No. SB00-7901, dated January 31, 2000."
+    },
+    {
+      "id": "e43",
+      "type": "paragraph",
+      "page": 1,
+      "text": "What are the provisions of this service bulletin?: The service bulletin specifies and includes procedures for accomplishing the following:"
+    },
+    {
+      "id": "e44",
+      "type": "paragraph",
+      "page": 1,
+      "text": "VerDate 16<FEB>2000 18:29 Feb 18, 2000 Jkt 190000 PO 00000 Frm 00017 Fmt 4700 Sfmt 4700 E:\\FR\\FM\\22FER1.SGM pfrm08 PsN: 22FER1"
+    },
+    {
+      "id": "e45",
+      "type": "paragraph",
+      "page": 1,
+      "text": "-Inspecting the oil pressure switch to determine if the oil pressure switch is P/N 77041 or P/N 83278; and"
+    },
+    {
+      "id": "e46",
+      "type": "paragraph",
+      "page": 1,
+      "text": "-Replacing any P/N 77041 oil pressure switch with a P/N 83278 switch."
+    },
+    {
+      "id": "e47",
+      "type": "page_header",
+      "page": 2,
+      "text": "8650"
+    },
+    {
+      "id": "e48",
+      "type": "page_header",
+      "page": 2,
+      "text": "Federal Register /Vol. 65, No. 35/Tuesday, February 22, 2000/Rules and Regulations"
+    },
+    {
+      "id": "e49",
+      "type": "heading",
+      "page": 2,
+      "text": "The FAA's Determination and an Explanation of the Provisions of the AD",
+      "level": 2
+    },
+    {
+      "id": "e50",
+      "type": "paragraph",
+      "page": 2,
+      "text": "What has the FAA decided?: After examining the circumstances and reviewing all available information related to the incidents described above, including the relevant service information, the FAA has determined that:"
+    },
+    {
+      "id": "e51",
+      "type": "paragraph",
+      "page": 2,
+      "text": "-An unsafe condition exists or could develop on Cessna Models 172R, 172S, 182S, 206H, and T206H airplanes;"
+    },
+    {
+      "id": "e52",
+      "type": "paragraph",
+      "page": 2,
+      "text": "-The actions of the above-referenced service bulletin should be accomplished on the affected airplanes; and"
+    },
+    {
+      "id": "e53",
+      "type": "paragraph",
+      "page": 2,
+      "text": "-AD action should be taken in order to prevent loss of engine oil through the failure of the oil pressure switch diaphragm, which could result in partial or complete loss of engine power."
+    },
+    {
+      "id": "e54",
+      "type": "paragraph",
+      "page": 2,
+      "text": "What does this AD require?: This AD requires you to accomplish the following:"
+    },
+    {
+      "id": "e55",
+      "type": "paragraph",
+      "page": 2,
+      "text": "-Inspect the oil pressure switch to determine if the oil pressure switch is P/N 77041 or P/N 83278; and -Replace any P/N 77041 oil pressure switch with a P/N 83278 switch."
+    },
+    {
+      "id": "e56",
+      "type": "paragraph",
+      "page": 2,
+      "text": "What is the compliance time of this AD?: Within the next 25 hours time-inservice (TIS) after the effective date of this AD."
+    },
+    {
+      "id": "e57",
+      "type": "paragraph",
+      "page": 2,
+      "text": "Will the public have the opportunity to comment prior to the issuance of the rule?: No. Since a situation exists that requires the immediate adoption of this regulation, the FAA finds that notice and opportunity for public prior comment hereon are impracticable, and that good cause exists for making this amendment effective in less than 30 days."
+    },
+    {
+      "id": "e58",
+      "type": "heading",
+      "page": 2,
+      "text": "Comments Invited",
+      "level": 2
+    },
+    {
+      "id": "e59",
+      "type": "paragraph",
+      "page": 2,
+      "text": "Although this action is in the form of a final rule and was not preceded by notice and opportunity for public comment, the FAA invites comments on this rule. You may submit whatever written data, views, or arguments you choose. You need to include the rule's docket number and submit your comments in triplicate to the address specified under the caption ADDRESSES. The FAA will consider all comments received on or before the closing date. We may amend this rule in light of comments received. Factual information that supports your ideas and suggestions is extremely helpful in evaluating the effectiveness of the AD action and determining whether we need to take additional rulemaking action."
+    },
+    {
+      "id": "e60",
+      "type": "paragraph",
+      "page": 2,
+      "text": "The FAA is re-examining the writing style we currently use in regulatory documents, in response to the Presidential memorandum of June 1, 1998. That memorandum requires federal agencies to communicate more clearly with the public. We are interested in your comments on whether the style of this document is clearer, and any other suggestions you might have to improve the clarity of FAA communications that affect you. You can get more information about the Presidential memorandum and the plain language initiative at http:// www.plainlanguage.gov."
+    },
+    {
+      "id": "e61",
+      "type": "paragraph",
+      "page": 2,
+      "text": "The FAA specifically invites comments on the overall regulatory, economic, environmental, and energy aspects of the rule that might suggest a need to modify the rule. You may examine all comments we receive before and after the closing date of the rule in the Rules Docket. We will file a report in the Rules Docket that summarizes each FAA contact with the public that concerns the substantive parts of this AD."
+    },
+    {
+      "id": "e62",
+      "type": "paragraph",
+      "page": 2,
+      "text": "If you want us to acknowledge the receipt of your comments, you must include a self-addressed, stamped postcard. On the postcard, write ''Comments to Docket No. 2000-CE-07AD.'' We will date stamp and mail the postcard back to you."
+    },
+    {
+      "id": "e63",
+      "type": "heading",
+      "page": 2,
+      "text": "Regulatory Impact",
+      "level": 2
+    },
+    {
+      "id": "e64",
+      "type": "paragraph",
+      "page": 2,
+      "text": "These regulations will not have a substantial direct effect on the States, on the relationship between the national Government and the States, or on the distribution of power and responsibilities among the various levels of government. Therefore, the FAA has determined that this final rule does not have federalism implications under Executive Order 13132."
+    },
+    {
+      "id": "e65",
+      "type": "paragraph",
+      "page": 2,
+      "text": "The FAA has determined that this regulation is an emergency regulation that must be issued immediately to correct an unsafe condition in aircraft, and is not a significant regulatory action under Executive Order 12866. It has been determined further that this action involves an emergency regulation under DOT Regulatory Policies and Procedures (44 FR 11034, February 26, 1979). If it is determined that this emergency regulation otherwise would be significant under DOT Regulatory Policies and Procedures, a final regulatory evaluation will be prepared and placed in the Rules Docket (otherwise, an evaluation is not required). A copy of it, if filed, may be obtained from the Rules Docket."
+    },
+    {
+      "id": "e66",
+      "type": "heading",
+      "page": 2,
+      "text": "List of Subjects in 14 CFR Part 39",
+      "level": 2
+    },
+    {
+      "id": "e67",
+      "type": "paragraph",
+      "page": 2,
+      "text": "Air transportation, Aircraft, Aviation safety, Incorporation by reference, Safety."
+    },
+    {
+      "id": "e68",
+      "type": "heading",
+      "page": 2,
+      "text": "Adoption of the Amendment",
+      "level": 2
+    },
+    {
+      "id": "e69",
+      "type": "paragraph",
+      "page": 2,
+      "text": "Accordingly, pursuant to the authority delegated to me by the Administrator, the Federal Aviation Administration amends part 39 of the Federal Aviation Regulations (14 CFR part 39) as follows:"
+    },
+    {
+      "id": "e70",
+      "type": "heading",
+      "page": 2,
+      "text": "PART 39-AIRWORTHINESS DIRECTIVES",
+      "level": 2
+    },
+    {
+      "id": "e71",
+      "type": "paragraph",
+      "page": 2,
+      "text": "The authority citation for part 39 continues to read as follows:"
+    },
+    {
+      "id": "e72",
+      "type": "paragraph",
+      "page": 2,
+      "text": "Authority: 49 U.S.C. 106(g), 40113, 44701."
+    },
+    {
+      "id": "e73",
+      "type": "heading",
+      "page": 2,
+      "text": "§39.13 [Amended]",
+      "level": 2
+    },
+    {
+      "id": "e74",
+      "type": "paragraph",
+      "page": 2,
+      "text": "Section 39.13 is amended by adding a new airworthiness directive (AD) to read as follows:"
+    },
+    {
+      "id": "e75",
+      "type": "paragraph",
+      "page": 2,
+      "text": "2000-04-01 Cessna Aircraft Company: Amendment 39-11583; Docket No. 2000-CE-07-AD."
+    },
+    {
+      "id": "e76",
+      "type": "paragraph",
+      "page": 2,
+      "text": "(a) What airplanes are affected by this AD?: The following model and serial number airplanes, certificated in any category:"
+    },
+    {
+      "id": "e77",
+      "type": "table",
+      "header": [
+        "Model",
+        "Serial Nos."
+      ],
+      "rows": [
+        [
+          "172R ................................................ 172S ................................................ 182S ................................................ 206H ................................................ T206H .............................................",
+          "17280001 through 17280830. 172S8001 through 172S8324, 172S8326 through 172S8333, 172S8340, 172S8342, 172S8344, 172S8345, and 172S8347. 18280001 through 18280660. 20608001 through 20608053, 20608055 through 20608071, and 20608073 through 20608076. T20608001 through T20608093, T20608095 through T20608103, T20608105 through T20608131, T20608133 through T20608137, T20608139, T20608141, T20608144, and T20608145."
+        ]
+      ],
+      "page": 2
+    },
+    {
+      "id": "e78",
+      "type": "paragraph",
+      "page": 2,
+      "text": "VerDate 16<FEB>2000 18:29 Feb 18, 2000 Jkt 190000 PO 00000 Frm 00018 Fmt 4700 Sfmt 4700 E:\\FR\\FM\\22FER1.SGM pfrm08 PsN: 22FER1"
+    },
+    {
+      "id": "e79",
+      "type": "page_header",
+      "page": 3,
+      "text": "Federal Register /Vol. 65, No. 35/Tuesday, February 22, 2000/Rules and Regulations"
+    },
+    {
+      "id": "e80",
+      "type": "page_header",
+      "page": 3,
+      "text": "8651"
+    },
+    {
+      "id": "e81",
+      "type": "paragraph",
+      "page": 3,
+      "text": "(b) Who must comply with this AD?: Anyone who wishes to operate any of the above airplanes on the U.S. Register."
+    },
+    {
+      "id": "e82",
+      "type": "paragraph",
+      "page": 3,
+      "text": "(c) What problem does this AD address?: The actions of this AD are intended to prevent failure of the engine oil pressure switch diaphragm, which results in loss of"
+    },
+    {
+      "id": "e83",
+      "type": "paragraph",
+      "page": 3,
+      "text": "engine oil through the vent hole. This could lead to partial or complete loss of engine power."
+    },
+    {
+      "id": "e84",
+      "type": "paragraph",
+      "page": 3,
+      "text": "(d) What must I do to address this problem?: Within the next 25 hours time-inservice after the effective date of this AD, inspect the oil pressure switch to determine"
+    },
+    {
+      "id": "e85",
+      "type": "paragraph",
+      "page": 3,
+      "text": "if it is part-number (P/N) 77041 (or FAAapproved equivalent part number) or P/N 83278 (or FAA-approved equivalent part number). Then accomplish the following, as applicable:"
+    },
+    {
+      "id": "e86",
+      "type": "paragraph",
+      "page": 3,
+      "text": "If Then"
+    },
+    {
+      "id": "e87",
+      "type": "paragraph",
+      "page": 3,
+      "text": "P/N 77041 (or FAA-approved equivalent part number) oil pressure switch is installed,"
+    },
+    {
+      "id": "e88",
+      "type": "paragraph",
+      "page": 3,
+      "text": "P/N 83278 (or FAA-approved equivalent part number) oil pressure switch is installed,"
+    },
+    {
+      "id": "e89",
+      "type": "paragraph",
+      "page": 3,
+      "text": "Prior to further flight after inspection, replace this switch with a P/N 83278 (or FAA-approved equivalent part number) oil pressure switch; and"
+    },
+    {
+      "id": "e90",
+      "type": "paragraph",
+      "page": 3,
+      "text": "As of the effective date of this AD, do not install a P/N 77041 (or FAA-approved equivalent part number) oil pressure switch on any affected airplane."
+    },
+    {
+      "id": "e91",
+      "type": "paragraph",
+      "page": 3,
+      "text": "No further action is required by this AD except that, as of the effective date of this AD, do not install a P/N 77041 (or FAA-approved equivalent part number) oil pressure switch on any affected airplane."
+    },
+    {
+      "id": "e92",
+      "type": "paragraph",
+      "page": 3,
+      "text": "(e) What procedures must be used to accomplish the actions of this AD?: You must use the procedures in Cessna Service Bulletin SB00-79-01, dated January 31, 2000, to accomplish this action."
+    },
+    {
+      "id": "e93",
+      "type": "paragraph",
+      "page": 3,
+      "text": "(f) Can I comply with this AD in any other way?: Yes."
+    },
+    {
+      "id": "e94",
+      "type": "paragraph",
+      "page": 3,
+      "text": "You may use an alternative method of compliance or adjust the compliance time if:"
+    },
+    {
+      "id": "e95",
+      "type": "paragraph",
+      "page": 3,
+      "text": "(i) Your alternative method of compliance provides an equivalent level of safety; and"
+    },
+    {
+      "id": "e96",
+      "type": "paragraph",
+      "page": 3,
+      "text": "(ii) The Manager, Wichita Aircraft Certification Office (ACO), approves your alternative. Submit your request through an FAA Principal Maintenance Inspector, who may add comments and then send it to the Manager, Wichita ACO."
+    },
+    {
+      "id": "e97",
+      "type": "paragraph",
+      "page": 3,
+      "text": "This AD applies to each airplane identified in the preceding applicability provision, regardless of whether it has been modified, altered, or repaired in the area subject to the requirements of this AD. For airplanes that have been modified, altered, or repaired so that the performance of the requirements of this AD is affected, the owner/operator must request approval for an alternative method of compliance in accordance with paragraph (f)(1) of this AD. The request should include an assessment of the effect of the modification, alteration, or repair on the unsafe condition addressed by this AD; and, if you have not eliminated the unsafe condition, specific actions you propose to address it."
+    },
+    {
+      "id": "e98",
+      "type": "paragraph",
+      "page": 3,
+      "text": "(g) Where can I get information about any already-approved alternative methods of compliance?: Contact Paul Pendleton, Aerospace Engineer, Wichita Aircraft Certification Office, FAA, 1801 Airport Road, Mid-Continent Airport, Wichita, Kansas 67209; telephone: (316) 946-4143; facsimile: (316) 946-4407."
+    },
+    {
+      "id": "e99",
+      "type": "paragraph",
+      "page": 3,
+      "text": "(h) What if I need to fly the airplane to another location to comply with this AD?: The FAA can issue a special flight permit under sections 21.197 and 21.199 of the Federal Aviation Regulations (14 CFR 21.197 and 21.199) to operate your airplane to a location where you can accomplish the requirements of this AD."
+    },
+    {
+      "id": "e100",
+      "type": "paragraph",
+      "page": 3,
+      "text": "(i) Are any service bulletins incorporated into this AD by reference?: Yes. Actions required by this AD must be done in accordance with Cessna Service Bulletin SB00-79-01, dated January 31, 2000. The Director of the Federal Register approved this incorporation by reference under 5 U.S.C. 552(a) and 1 CFR part 51. You can get copies from the Cessna Aircraft Company, Product Support, P.O. Box 7706, Wichita, Kansas 67277. You can look at copies at the FAA, Central Region, Office of the Regional Counsel, 901 Locust, Room 506, Kansas City, Missouri, or at the Office of the Federal Register, 800 North Capitol Street, NW, suite 700, Washington, DC."
+    },
+    {
+      "id": "e101",
+      "type": "paragraph",
+      "page": 3,
+      "text": "(j) When does this amendment become effective?: This amendment becomes effective on March 11, 2000."
+    },
+    {
+      "id": "e102",
+      "type": "paragraph",
+      "page": 3,
+      "text": "Issued in Kansas City, Missouri, on February 11, 2000."
+    },
+    {
+      "id": "e103",
+      "type": "paragraph",
+      "page": 3,
+      "text": "Michael K. Dahl,"
+    },
+    {
+      "id": "e104",
+      "type": "paragraph",
+      "page": 3,
+      "text": "Acting Manager, Small Airplane Directorate, Aircraft Certification Service."
+    },
+    {
+      "id": "e105",
+      "type": "paragraph",
+      "page": 3,
+      "text": "[FR Doc. 00-3794 Filed 2-18-00; 8:45 am] BILLING CODE 4910-13-P"
+    },
+    {
+      "id": "e106",
+      "type": "heading",
+      "page": 3,
+      "text": "DEPARTMENT OF TRANSPORTATION",
+      "level": 2
+    },
+    {
+      "id": "e107",
+      "type": "paragraph",
+      "page": 3,
+      "text": "Federal Aviation Administration"
+    },
+    {
+      "id": "e108",
+      "type": "paragraph",
+      "page": 3,
+      "text": "14 CFR Part 39"
+    },
+    {
+      "id": "e109",
+      "type": "paragraph",
+      "page": 3,
+      "text": "[Docket No. 99-NM-139-AD; Amendment 39-11585; AD 2000-04-03]"
+    },
+    {
+      "id": "e110",
+      "type": "paragraph",
+      "page": 3,
+      "text": "RIN 2120-AA64"
+    },
+    {
+      "id": "e111",
+      "type": "paragraph",
+      "page": 3,
+      "text": "Airworthiness Directives; McDonnell Douglas Models DC-3 and DC-4 Series Airplanes"
+    },
+    {
+      "id": "e112",
+      "type": "paragraph",
+      "page": 3,
+      "text": "AGENCY: Federal Aviation Administration, DOT."
+    },
+    {
+      "id": "e113",
+      "type": "paragraph",
+      "page": 3,
+      "text": "ACTION: Final rule."
+    },
+    {
+      "id": "e114",
+      "type": "paragraph",
+      "page": 3,
+      "text": "SUMMARY: This amendment adopts a new airworthiness directive (AD), applicable to certain McDonnell Douglas Models DC-3 and DC-4 series airplanes that requires an inspection to determine the type of airframe pneumatic deicing boots installed. This amendment also requires revising the Airplane Flight Manual (AFM) to include requirements for activation of the pneumatic deicing boots for those airplanes equipped with ''modern'' boots. This amendment is prompted by reports of inflight incidents and an accident that occurred in icing conditions where the airframe pneumatic deicing boots were not activated. The actions specified by this AD are intended to ensure that flightcrews activate the pneumatic wing and tail deicing boots at the first signs of ice accumulation. This action will prevent reduced controllability of the aircraft due to adverse aerodynamic effects of ice adhering to the airplane prior to the first deicing cycle."
+    },
+    {
+      "id": "e115",
+      "type": "paragraph",
+      "page": 3,
+      "text": "EFFECTIVE DATE: Effective March 28, 2000."
+    },
+    {
+      "id": "e116",
+      "type": "paragraph",
+      "page": 3,
+      "text": "ADDRESSES: Information pertaining to this amendment may be examined at the Federal Aviation Administration (FAA), Transport Airplane Directorate, Rules Docket, 1601 Lind Avenue, SW., Renton, Washington; or at the FAA, Transport Airplane Directorate, Los Angeles Aircraft Certification Office, 3960 Paramount Boulevard, Lakewood, California."
+    },
+    {
+      "id": "e117",
+      "type": "heading",
+      "page": 3,
+      "text": "FOR FURTHER INFORMATION CONTACT:",
+      "level": 2
+    },
+    {
+      "id": "e118",
+      "type": "paragraph",
+      "page": 3,
+      "text": "Albert Lam, Aerospace Engineer, Systems and Equipment Branch, ANM130L, FAA, Transport Airplane Directorate, Los Angeles Aircraft Certification Office, 3960 Paramount Boulevard, Lakewood, California 90712-4137; telephone (562) 627-5346; fax (562) 627-5210."
+    },
+    {
+      "id": "e119",
+      "type": "paragraph",
+      "page": 3,
+      "text": "SUPPLEMENTARY INFORMATION: A proposal to amend part 39 of the Federal Aviation Regulations (14 CFR part 39) to include an airworthiness directive (AD) that is applicable to certain McDonnell Douglas Models DC-3 and DC-4 series airplanes was published as a supplemental notice of proposed rulemaking (NPRM) in the Federal Register on November 18, 1999 (64 FR 62993). That action proposed to require"
+    },
+    {
+      "id": "e120",
+      "type": "paragraph",
+      "page": 3,
+      "text": "VerDate 16<FEB>2000 18:29 Feb 18, 2000 Jkt 190000 PO 00000 Frm 00019 Fmt 4700 Sfmt 4700 E:\\FR\\FM\\22FER1.SGM pfrm08 PsN: 22FER1"
+    }
+  ]
+}

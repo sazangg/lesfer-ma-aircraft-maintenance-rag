@@ -1,0 +1,348 @@
+{
+  "source_id": "AD-2001-06-17-CORRECTION",
+  "file": "faa/ad/ad-2001-06-17-correction.pdf",
+  "format": "pdf",
+  "parser": "docling",
+  "meta": {
+    "title": "AD 2001-06-17 (correction): Cessna Aircraft Company Models 172R and 172S Airplanes",
+    "publisher": "FAA",
+    "doc_type": "airworthiness directive",
+    "ad_number": "2001-06-17",
+    "action": "Final rule; correction",
+    "published": "2001-04-10",
+    "effective": "2001-04-20",
+    "federal_register": "66 FR 18521 (document 01-8746)",
+    "access": "employees"
+  },
+  "elements": [
+    {
+      "id": "e1",
+      "type": "page_header",
+      "page": 1,
+      "text": "18521"
+    },
+    {
+      "id": "e2",
+      "type": "heading",
+      "page": 1,
+      "text": "Rules and Regulations",
+      "level": 2
+    },
+    {
+      "id": "e3",
+      "type": "heading",
+      "page": 1,
+      "text": "Federal Register",
+      "level": 2
+    },
+    {
+      "id": "e4",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Vol. 66, No. 69"
+    },
+    {
+      "id": "e5",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Tuesday, April 10, 2001"
+    },
+    {
+      "id": "e6",
+      "type": "paragraph",
+      "page": 1,
+      "text": "This section of the FEDERAL REGISTER contains regulatory documents having general applicability and legal effect, most of which are keyed to and codified in the Code of Federal Regulations, which is published under 50 titles pursuant to 44 U.S.C. 1510."
+    },
+    {
+      "id": "e7",
+      "type": "paragraph",
+      "page": 1,
+      "text": "The Code of Federal Regulations is sold by the Superintendent of Documents. Prices of new books are listed in the first FEDERAL REGISTER issue of each week."
+    },
+    {
+      "id": "e8",
+      "type": "heading",
+      "page": 1,
+      "text": "DEPARTMENT OF TRANSPORTATION",
+      "level": 2
+    },
+    {
+      "id": "e9",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Federal Aviation Administration"
+    },
+    {
+      "id": "e10",
+      "type": "heading",
+      "page": 1,
+      "text": "14 CFR Part 39",
+      "level": 2
+    },
+    {
+      "id": "e11",
+      "type": "paragraph",
+      "page": 1,
+      "text": "[Docket No. 2001-CE-14-AD; Amendment 39-12164; AD 2001-06-17]"
+    },
+    {
+      "id": "e12",
+      "type": "paragraph",
+      "page": 1,
+      "text": "RIN 2120-AA64"
+    },
+    {
+      "id": "e13",
+      "type": "heading",
+      "page": 1,
+      "text": "Airworthiness Directives; Cessna Aircraft Company Models 172R and 172S Airplanes",
+      "level": 2
+    },
+    {
+      "id": "e14",
+      "type": "paragraph",
+      "page": 1,
+      "text": "AGENCY: Federal Aviation Administration, DOT."
+    },
+    {
+      "id": "e15",
+      "type": "paragraph",
+      "page": 1,
+      "text": "ACTION: Final rule; correction."
+    },
+    {
+      "id": "e16",
+      "type": "paragraph",
+      "page": 1,
+      "text": "SUMMARY: This document makes a correction to Airworthiness Directive (AD) 2001-06-17, which was published in the Federal Register on March 30, 2001 (66 FR 17345), and concerns certain Cessna Aircraft Company (Cessna) Models 172R and 172S airplanes. The FAA incorrectly referenced the AD number as ''AD 2001-06-14'' instead of ''AD 2001-0617.'' This AD requires a one-time inspection for proper engine idle speed and fuel control mixture setting, adjustment as necessary, and incorporation of engine operating procedures into the pilots operating handbook (POH) and FAA-approved airplane flight manual (AFM). This action corrects the AD to reflect the correct AD number."
+    },
+    {
+      "id": "e17",
+      "type": "paragraph",
+      "page": 1,
+      "text": "EFFECTIVE DATE: The effective date of this AD remains April 20, 2001."
+    },
+    {
+      "id": "e18",
+      "type": "heading",
+      "page": 1,
+      "text": "FOR FURTHER INFORMATION CONTACT: Mr.",
+      "level": 2
+    },
+    {
+      "id": "e19",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Paul Pendleton, Aerospace Engineer, Wichita Aircraft Certification Office, FAA, 1801 Airport Road, Mid-Continent Airport, Wichita, Kansas 67209; telephone: (316) 946-4143; facsimile: (316) 946-4407."
+    },
+    {
+      "id": "e20",
+      "type": "heading",
+      "page": 1,
+      "text": "SUPPLEMENTARY INFORMATION:",
+      "level": 2
+    },
+    {
+      "id": "e21",
+      "type": "heading",
+      "page": 1,
+      "text": "DEPARTMENT OF TRANSPORTATION",
+      "level": 2
+    },
+    {
+      "id": "e22",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Federal Aviation Administration"
+    },
+    {
+      "id": "e23",
+      "type": "heading",
+      "page": 1,
+      "text": "14 CFR Part 39",
+      "level": 2
+    },
+    {
+      "id": "e24",
+      "type": "paragraph",
+      "page": 1,
+      "text": "[Docket No. 2000-NM-63-AD; Amendment 39-12169; AD 2001-07-04]"
+    },
+    {
+      "id": "e25",
+      "type": "paragraph",
+      "page": 1,
+      "text": "RIN 2120-AA64"
+    },
+    {
+      "id": "e26",
+      "type": "heading",
+      "page": 1,
+      "text": "Airworthiness Directives; Cessna Model 750 Airplanes",
+      "level": 2
+    },
+    {
+      "id": "e27",
+      "type": "paragraph",
+      "page": 1,
+      "text": "AGENCY: Federal Aviation Administration, DOT."
+    },
+    {
+      "id": "e28",
+      "type": "paragraph",
+      "page": 1,
+      "text": "ACTION: Final rule."
+    },
+    {
+      "id": "e29",
+      "type": "paragraph",
+      "page": 1,
+      "text": "SUMMARY: This amendment adopts a new airworthiness directive (AD), applicable to certain Cessna Model 750 airplanes, that requires removal of a certain existing bulkhead web doubler, installation of left and right bulkhead web doublers, and enlargement of the lightening holes. This action is necessary to prevent jamming of the roll control system, due to inadequate clearance between the control cable and the web, which could result in reduced controllability of the airplane."
+    },
+    {
+      "id": "e30",
+      "type": "paragraph",
+      "page": 1,
+      "text": "DATES: Effective May 15, 2001."
+    },
+    {
+      "id": "e31",
+      "type": "paragraph",
+      "page": 1,
+      "text": "The incorporation by reference of certain publications listed in the regulations is approved by the Director of the Federal Register as of May 15, 2001."
+    },
+    {
+      "id": "e32",
+      "type": "paragraph",
+      "page": 1,
+      "text": "ADDRESSES: The service information referenced in this AD may be obtained from Cessna Aircraft Company, P.O. Box 7706, Wichita, Kansas 67277. This information may be examined at the Federal Aviation Administration (FAA), Transport Airplane Directorate, Rules Docket, 1601 Lind Avenue, SW., Renton, Washington; or at the FAA, Wichita Aircraft Certification Office, 1801 Airport Road, Room 100, MidContinent Airport, Wichita, Kansas; or at the Office of the Federal Register, 800 North Capitol Street, NW., suite 700, Washington, DC."
+    },
+    {
+      "id": "e33",
+      "type": "heading",
+      "page": 1,
+      "text": "FOR FURTHER INFORMATION CONTACT:",
+      "level": 2
+    },
+    {
+      "id": "e34",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Shane Bertish, Aerospace Engineer, Systems and Propulsion Branch, ACE116W, FAA, Wichita Aircraft Certification Office, 1801 Airport Road, Room 100, Mid-Continent Airport, Wichita, Kansas 67209; telephone (316) 946-4156; fax (316) 946-4407."
+    },
+    {
+      "id": "e35",
+      "type": "heading",
+      "page": 1,
+      "text": "SUPPLEMENTARY INFORMATION: A",
+      "level": 2
+    },
+    {
+      "id": "e36",
+      "type": "paragraph",
+      "page": 1,
+      "text": "proposal to amend part 39 of the Federal Aviation Regulations (14 CFR part 39) to"
+    },
+    {
+      "id": "e37",
+      "type": "paragraph",
+      "page": 1,
+      "text": "VerDate 11<MAY>2000 17:09 Apr 09, 2001 Jkt 194001 PO 00000 Frm 00001 Fmt 4700 Sfmt 4700 E:\\FR\\FM\\10APR1.SGM pfrm04 PsN: 10APR1"
+    },
+    {
+      "id": "e38",
+      "type": "heading",
+      "page": 1,
+      "text": "Discussion",
+      "level": 2
+    },
+    {
+      "id": "e39",
+      "type": "paragraph",
+      "page": 1,
+      "text": "On March 24, 2001, FAA issued AD 2001-06-17, Amendment 39-12164 (66 FR 17345, March 30, 2001), which applies to certain Cessna Models 172R and 172S airplanes. The AD currently requires a one-time inspection for proper engine idle speed and fuel control mixture setting and adjustment, as necessary. This AD also requires incorporating engine operating procedures into the POH/AFM."
+    },
+    {
+      "id": "e40",
+      "type": "heading",
+      "page": 1,
+      "text": "Need for the Correction",
+      "level": 2
+    },
+    {
+      "id": "e41",
+      "type": "paragraph",
+      "page": 1,
+      "text": "We incorrectly referenced the AD number as ''AD 2001-06-14'' instead of ''AD 2001-06-17.'' If we did not correct the AD number, then the logbooks of the affected airplane would reference compliance with the wrong AD."
+    },
+    {
+      "id": "e42",
+      "type": "heading",
+      "page": 1,
+      "text": "Correction of Publication",
+      "level": 2
+    },
+    {
+      "id": "e43",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Accordingly, the publication of March 30, 2001 (66 FR 17345), of Amendment 39-12164; AD 2001-06-17, which was the subject of FR Doc. 01-7831, is corrected as follows:"
+    },
+    {
+      "id": "e44",
+      "type": "heading",
+      "page": 1,
+      "text": "§39.13 [Corrected]",
+      "level": 2
+    },
+    {
+      "id": "e45",
+      "type": "paragraph",
+      "page": 1,
+      "text": "On page 17346, in §39.13, in the third column, the 22nd line from the bottom of the page, correct ''2001-06-14'' to ''2001-06-17''."
+    },
+    {
+      "id": "e46",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Action is taken herein to correct this reference in AD 2001-06-17 and to add this AD correction to §39.13 of the Federal Aviation Regulations (14 CFR 39.13)."
+    },
+    {
+      "id": "e47",
+      "type": "paragraph",
+      "page": 1,
+      "text": "The effective date remains April 20, 2001."
+    },
+    {
+      "id": "e48",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Issued in Kansas City, Missouri, on April 4, 2001."
+    },
+    {
+      "id": "e49",
+      "type": "heading",
+      "page": 1,
+      "text": "Michael Gallagher,",
+      "level": 2
+    },
+    {
+      "id": "e50",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Manager, Small Airplane Directorate, Aircraft Certification Service."
+    },
+    {
+      "id": "e51",
+      "type": "paragraph",
+      "page": 1,
+      "text": "[FR Doc. 01-8746 Filed 4-9-01; 8:45 am]"
+    },
+    {
+      "id": "e52",
+      "type": "paragraph",
+      "page": 1,
+      "text": "BILLING CODE 4910-13-P"
+    }
+  ]
+}

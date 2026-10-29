@@ -1,0 +1,582 @@
+{
+  "source_id": "AD-97-12-06",
+  "file": "faa/ad/ad-97-12-06.pdf",
+  "format": "pdf",
+  "parser": "docling",
+  "meta": {
+    "title": "AD 97-12-06: Cessna Aircraft Company Model 172R Airplanes",
+    "publisher": "FAA",
+    "doc_type": "airworthiness directive",
+    "ad_number": "97-12-06",
+    "action": "Final rule; request for comments",
+    "published": "1997-07-09",
+    "effective": "1997-07-15",
+    "federal_register": "62 FR 36652 (document 97-17729)",
+    "access": "employees"
+  },
+  "elements": [
+    {
+      "id": "e1",
+      "type": "page_header",
+      "page": 1,
+      "text": "36652 Federal Register / Vol. 62, No. 131 / Wednesday, July 9, 1997 / Rules and Regulations"
+    },
+    {
+      "id": "e2",
+      "type": "paragraph",
+      "page": 1,
+      "text": "administrative appeal or longer pursuant to §1381.5(b), be placed in an escrow account established by the Commission. If a request for escrow is made, petitioner may make payment into a Commission established escrow account while the Commission rules upon petitioner's request in accordance with §1381.4(b)(5). Any petitioner who refuses to make payment during this period shall be liable for payment of interest on such withheld funds, at the federal statutory rate set forth in 28 U.S.C 1961, plus such additional penalties as are appropriate under Article VI, Section 17 of the Compact. Daniel Smith,"
+    },
+    {
+      "id": "e3",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Executive Director."
+    },
+    {
+      "id": "e4",
+      "type": "paragraph",
+      "page": 1,
+      "text": "[FR Doc. 97-17846 Filed 7-8-97; 8:45 am] BILLING CODE 1650-01-P"
+    },
+    {
+      "id": "e5",
+      "type": "heading",
+      "page": 1,
+      "text": "DEPARTMENT OF TRANSPORTATION",
+      "level": 2
+    },
+    {
+      "id": "e6",
+      "type": "heading",
+      "page": 1,
+      "text": "Federal Aviation Administration",
+      "level": 2
+    },
+    {
+      "id": "e7",
+      "type": "heading",
+      "page": 1,
+      "text": "14 CFR Part 39",
+      "level": 2
+    },
+    {
+      "id": "e8",
+      "type": "paragraph",
+      "page": 1,
+      "text": "[Docket No. 97-CE-35-AD; Amendment 3910070; AD 97-12-06]"
+    },
+    {
+      "id": "e9",
+      "type": "heading",
+      "page": 1,
+      "text": "RIN 2120-AA64",
+      "level": 2
+    },
+    {
+      "id": "e10",
+      "type": "heading",
+      "page": 1,
+      "text": "Airworthiness Directives; Cessna Aircraft Company Model 172R Airplanes",
+      "level": 2
+    },
+    {
+      "id": "e11",
+      "type": "paragraph",
+      "page": 1,
+      "text": "AGENCY: Federal Aviation Administration, DOT. ACTION: Final rule; request for"
+    },
+    {
+      "id": "e12",
+      "type": "paragraph",
+      "page": 1,
+      "text": "comments."
+    },
+    {
+      "id": "e13",
+      "type": "paragraph",
+      "page": 1,
+      "text": "SUMMARY: This document publishes in the Federal Register an amendment adopting Airworthiness Directive (AD) 97-12-06, which was sent previously to known U.S. owners and operators of certain Cessna Aircraft Company (Cessna) Model 172R airplanes. This AD requires checking the clearance between both the gascolator and cowling area and the tailpipe and cowling area, and modifying these areas immediately if any evidence of rubbing at either location is found or modifying the gascolator to cowling area within a certain time period if no evidence of rubbing at either location is found. This AD results from an occurrence of fuel loss on a Cessna Model 172R airplane, which was severe enough to force an emergency landing. Investigation of the occurrence reveals that the cowling knocked the gascolator drain valve off the gascolator. The actions specified by this AD are intended to prevent the cowling from rubbing against the gascolator drain valve or the tailpipe, which could result in fuel loss and engine stoppage."
+    },
+    {
+      "id": "e14",
+      "type": "paragraph",
+      "page": 1,
+      "text": "DATES: Effective July 15, 1997, to all persons except those to whom it was made immediately effective by priority letter AD 97-12-06, issued June 6, 1997, which contained the requirements of this amendment."
+    },
+    {
+      "id": "e15",
+      "type": "paragraph",
+      "page": 1,
+      "text": "The incorporation by reference of certain publications listed in the regulations is approved by the Director of the Federal Register as of July 15, 1997."
+    },
+    {
+      "id": "e16",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Comments for inclusion in the Rules Docket must be received on or before September 12, 1997."
+    },
+    {
+      "id": "e17",
+      "type": "paragraph",
+      "page": 1,
+      "text": "ADDRESSES: Submit comments in triplicate to the Federal Aviation Administration (FAA), Central Region, Office of the Assistant Chief Counsel, Attention: Rules Docket 97-CE-35-AD, Room 1558, 601 E. 12th Street, Kansas City, Missouri 64106."
+    },
+    {
+      "id": "e18",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Service information that applies to this AD may be obtained from the Cessna Aircraft Company, Product Support, P.O. Box 7706, Wichita, Kansas 67277. This information may also be examined at the Rules Docket at the address above, or at the Office of the Federal Register, 800 North Capitol Street, NW., 7th Floor, suite 700, Washington, DC."
+    },
+    {
+      "id": "e19",
+      "type": "paragraph",
+      "page": 1,
+      "text": "FOR FURTHER INFORMATION CONTACT: Mr. Paul O. Pendleton, Aerospace Engineer, FAA, Wichita Aircraft Certification Office, 1801 Airport Road, Room 100, Wichita, Kansas 67209; telephone (316) 946-4143; facsimile (316) 946-4407."
+    },
+    {
+      "id": "e20",
+      "type": "heading",
+      "page": 1,
+      "text": "SUPPLEMENTARY INFORMATION:",
+      "level": 2
+    },
+    {
+      "id": "e21",
+      "type": "heading",
+      "page": 1,
+      "text": "Discussion",
+      "level": 2
+    },
+    {
+      "id": "e22",
+      "type": "paragraph",
+      "page": 1,
+      "text": "On June 6, 1997, the FAA issued priority letter AD 97-12-06, which applies to certain Cessna Model 172R airplanes. That AD resulted from an occurrence of fuel loss on one of these airplanes, which was severe enough to force an emergency landing. Investigation of the occurrence revealed that the cowling knocked the gascolator"
+    },
+    {
+      "id": "e23",
+      "type": "paragraph",
+      "page": 1,
+      "text": "drain valve off the gascolator."
+    },
+    {
+      "id": "e24",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Further examination of the design of the Model 172R airplanes shows that this condition exists when the tailpipe vibrates, during some starting conditions, into the cowling. The cowling then rubs against the gascolator drain valve, knocking the gascolator drain valve off the gascolator, and causing fuel to drain from the airplane at an extremely high flow rate. This results in engine stoppage with consequent forced landing or crash landing."
+    },
+    {
+      "id": "e25",
+      "type": "heading",
+      "page": 1,
+      "text": "Discussion of the Applicable Service Information",
+      "level": 2
+    },
+    {
+      "id": "e26",
+      "type": "paragraph",
+      "page": 1,
+      "text": "The FAA has reviewed and approved Cessna Service Bulletin SB97-28-01, dated June 6, 1997. This service bulletin includes procedures for modifying the gascolator to cowling clearance and tailpipe to cowling clearance."
+    },
+    {
+      "id": "e27",
+      "type": "heading",
+      "page": 1,
+      "text": "The FAA's Determination and Explanation of the AD",
+      "level": 2
+    },
+    {
+      "id": "e28",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Since an unsafe condition has been identified that is likely to exist or develop in other Cessna Model 172R airplanes of the same type design, the FAA issued priority letter AD 97-12-06 to prevent the cowling from rubbing against the gascolator drain valve or the tailpipe, which could result in fuel loss and engine stoppage. The AD requires checking the clearance between both the gascolator and cowling area and the tailpipe and cowling area, and modifying these areas immediately if any evidence of rubbing at either location is found or modifying the gascolator to cowling area within 10 hours time-in-service (TIS) if no evidence of rubbing at either location is found. Accomplishment of the modifications is in accordance with Cessna Service Bulletin SB97-28-01 if rubbing is evident, or in accordance with Figure 1 of this AD if no rubbing is evident."
+    },
+    {
+      "id": "e29",
+      "type": "heading",
+      "page": 1,
+      "text": "Determination of the Effective Date of the AD",
+      "level": 2
+    },
+    {
+      "id": "e30",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Since it was found that immediate corrective action was required, notice and opportunity for prior public comment thereon were impracticable and contrary to the public interest, and good cause existed to make the AD effective immediately by individual lettters issued on June 6, 1997, to known U.S. operators of certain Cessna Models 172R airplanes. These conditions still exist, and the AD is hereby published in the Federal Register as an amendment to section 39.13 of the Federal Aviation Regulations (14 CFR 39.13) to make it effective as to all persons."
+    },
+    {
+      "id": "e31",
+      "type": "heading",
+      "page": 1,
+      "text": "Comments Invited",
+      "level": 2
+    },
+    {
+      "id": "e32",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Although this action is in the form of a final rule that involves requirements affecting immediate flight safety and, thus, was not preceded by notice and opportunity to comment, comments are invited on this rule. Interested persons are invited to comment on this rule by submitting such written data, views, or arguments as they may desire. Communications should identify the Rules Docket number and be submitted in triplicate to the address specified above. All communications received on or before the closing date for comments will be considered, and this rule may be amended in light of the comments received. Factual information that supports the commenter's ideas and suggestions is extremely helpful in evaluating the effectiveness of the AD action and determining whether additional rulemaking action would be needed."
+    },
+    {
+      "id": "e33",
+      "type": "page_header",
+      "page": 2,
+      "text": "Federal Register / Vol. 62, No. 131 / Wednesday, July 9, 1997 / Rules and Regulations"
+    },
+    {
+      "id": "e34",
+      "type": "page_header",
+      "page": 2,
+      "text": "36653"
+    },
+    {
+      "id": "e35",
+      "type": "paragraph",
+      "page": 2,
+      "text": "Comments are specifically invited on the overall regulatory, economic, environmental, and energy aspects of the rule that might suggest a need to modify the rule. All comments submitted will be available, both before and after the closing date for comments, in the Rules Docket for examination by interested persons. A report that summarizes each FAA-public contact concerned with the substance of this AD will be filed in the Rules Docket."
+    },
+    {
+      "id": "e36",
+      "type": "paragraph",
+      "page": 2,
+      "text": "Commenters wishing the FAA to acknowledge receipt of their comments submitted in response to this rule must submit a self-addressed, stamped postcard on which the following statement is made: ''Comments to Docket No. 97-CE-35-AD.'' The postcard will be date stamped and returned to the commenter."
+    },
+    {
+      "id": "e37",
+      "type": "heading",
+      "page": 2,
+      "text": "Regulatory Impact",
+      "level": 2
+    },
+    {
+      "id": "e38",
+      "type": "paragraph",
+      "page": 2,
+      "text": "The regulations adopted herein will not have substantial direct effects on the States, on the relationship between the national government and the States, or on the distribution of power and responsibilities among the various levels of government. Therefore, in accordance with Executive Order 12612, it is determined that this final rule does not have sufficient federalism implications to warrant the preparation of a Federalism Assessment."
+    },
+    {
+      "id": "e39",
+      "type": "paragraph",
+      "page": 2,
+      "text": "The FAA has determined that this regulation is an emergency regulation that must be issued immediately to correct an unsafe condition in aircraft, and is not a ''significant regulatory action'' under Executive Order 12866. It has been determined further that this action involves an emergency regulation under DOT Regulatory Policies and Procedures (44 FR 11034, February 26, 1979). If it is determined that this emergency regulation otherwise would be significant under DOT Regulatory Policies and Procedures, a final regulatory evaluation will be prepared and placed in the Rules Docket. A copy of it, if filed, may be obtained from the Rules Docket at the location provided under the caption ADDRESSES."
+    },
+    {
+      "id": "e40",
+      "type": "heading",
+      "page": 2,
+      "text": "List of Subjects in 14 CFR Part 39",
+      "level": 2
+    },
+    {
+      "id": "e41",
+      "type": "paragraph",
+      "page": 2,
+      "text": "Air transportation, Aircraft, Aviation safety, Incorporation by reference, Safety."
+    },
+    {
+      "id": "e42",
+      "type": "heading",
+      "page": 2,
+      "text": "Adoption of the Amendment",
+      "level": 2
+    },
+    {
+      "id": "e43",
+      "type": "paragraph",
+      "page": 2,
+      "text": "Accordingly, pursuant to the authority delegated to me by the Administrator, the Federal Aviation Administration amends part 39 of the Federal Aviation Regulations (14 CFR part 39) as follows:"
+    },
+    {
+      "id": "e44",
+      "type": "heading",
+      "page": 2,
+      "text": "PART 39-AIRWORTHINESS DIRECTIVES",
+      "level": 2
+    },
+    {
+      "id": "e45",
+      "type": "paragraph",
+      "page": 2,
+      "text": "1. The authority citation for part 39 continues to read as follows:"
+    },
+    {
+      "id": "e46",
+      "type": "paragraph",
+      "page": 2,
+      "text": "Authority: 49 USC 106(g), 40113, 44701."
+    },
+    {
+      "id": "e47",
+      "type": "heading",
+      "page": 2,
+      "text": "§39.13 [Amended]",
+      "level": 2
+    },
+    {
+      "id": "e48",
+      "type": "paragraph",
+      "page": 2,
+      "text": "2. Section 39.13 is amended by adding a new airworthiness directive (AD) to read as follows:"
+    },
+    {
+      "id": "e49",
+      "type": "paragraph",
+      "page": 2,
+      "text": "97-12-06 Cessna Aircraft Company: Amendment 39-10070; Docket No. 97-CE35-AD."
+    },
+    {
+      "id": "e50",
+      "type": "paragraph",
+      "page": 2,
+      "text": "Applicability: Model 172 airplanes, serial numbers 17280001 through 17280081, certificated in any category."
+    },
+    {
+      "id": "e51",
+      "type": "paragraph",
+      "page": 2,
+      "text": "Note 1: This AD applies to each airplane identified in the preceding applicability provision, regardless of whether it has been modified, altered, or repaired in the area subject to the requirements of this AD. For airplanes that have been modified, altered, or repaired so that the performance of the requirements of this AD is affected, the owner/operator must request approval for an alternative method of compliance in accordance with paragraph (e) of this AD. The request should include an assessment of the effect of the modification, alteration, or repair on the unsafe condition addressed by this AD; and, if the unsafe condition has not been eliminated, the request should include specific proposed actions to address it."
+    },
+    {
+      "id": "e52",
+      "type": "paragraph",
+      "page": 2,
+      "text": "Compliance: Required as indicated in the body of this AD, unless already accomplished, except to those operators receiving this action by priority letter issued June 6, 1997, which made these actions effective immediately upon receipt."
+    },
+    {
+      "id": "e53",
+      "type": "paragraph",
+      "page": 2,
+      "text": "To prevent the cowling from rubbing against the gascolator drain valve or the tailpipe, which could result in fuel loss and engine stoppage, accomplish the following:"
+    },
+    {
+      "id": "e54",
+      "type": "paragraph",
+      "page": 2,
+      "text": "(a) Prior to further flight after the effective date of this AD, check the clearance between both the gascolator and cowling area and the tailpipe and cowling area for evidence of rubbing."
+    },
+    {
+      "id": "e55",
+      "type": "paragraph",
+      "page": 2,
+      "text": "(1) If any evidence of rubbing is found, prior to further flight, modify both the gascolator and cowling area and tailpipe and cowling area in accordance with Cessna Service Bulletin SB97-28-01, dated June 6, 1997."
+    },
+    {
+      "id": "e56",
+      "type": "paragraph",
+      "page": 2,
+      "text": "(2) If no evidence of rubbing is found, repeat the check in paragraph (a) before each flight, and within the next 10 hours time-inservice (TIS) after the effective date of this AD, modify the gascolator and cowling area in accordance with Figure 1 of this AD."
+    },
+    {
+      "id": "e57",
+      "type": "paragraph",
+      "page": 2,
+      "text": "BILLING CODE 4910-13-U"
+    },
+    {
+      "id": "e58",
+      "type": "page_header",
+      "page": 3,
+      "text": "36654 Federal Register / Vol. 62, No. 131 / Wednesday, July 9, 1997 / Rules and Regulations",
+      "ocr_confidence": 0.99
+    },
+    {
+      "id": "e59",
+      "type": "figure",
+      "page": 3,
+      "caption": "",
+      "image": "figures/AD-97-12-06-fig1.png",
+      "ocr_confidence": 0.99
+    },
+    {
+      "id": "e60",
+      "type": "page_footer",
+      "page": 3,
+      "text": "BILLING CODE 4910-13-C",
+      "ocr_confidence": 0.99
+    },
+    {
+      "id": "e61",
+      "type": "page_header",
+      "page": 4,
+      "text": "Federal Register / Vol. 62, No. 131 / Wednesday, July 9, 1997 / Rules and Regulations"
+    },
+    {
+      "id": "e62",
+      "type": "page_header",
+      "page": 4,
+      "text": "36655"
+    },
+    {
+      "id": "e63",
+      "type": "paragraph",
+      "page": 4,
+      "text": "(b) Modifying both the gascolator and cowling area and tailpipe and cowling area in accordance with Cessna Service Bulletin SB97-28-01, dated June 6, 1997, satisfies all the requirements of this AD, and may be accomplished in place of the check required by paragraph (a) of this AD."
+    },
+    {
+      "id": "e64",
+      "type": "paragraph",
+      "page": 4,
+      "text": "(c) The check required by paragraph (a) of this AD may be performed by the owner/ operator holding at least a private pilot certificate as authorized by section 43.7 of the Federal Aviation Regulations (14 CFR 43.7), and must be entered into the aircraft records showing compliance with this AD in accordance with section 43.11 of the Federal Aviation Regulations (14 CFR 43.11)."
+    },
+    {
+      "id": "e65",
+      "type": "paragraph",
+      "page": 4,
+      "text": "(d) Special flight permits may be issued in accordance with sections 21.197 and 21.199 of the Federal Aviation Regulations (14 CFR 21.197 and 21.199) to operate the airplane to a location to accomplish the modification requirements of this AD provided no evidence of rubbing is found during the check required by paragraph (a) of this AD."
+    },
+    {
+      "id": "e66",
+      "type": "paragraph",
+      "page": 4,
+      "text": "If evidence of rubbing is found in either the gascolator to cowling area or the tailpipe to cowling area during the check required by paragraph (a) of this AD, then no special flight permits will be granted."
+    },
+    {
+      "id": "e67",
+      "type": "paragraph",
+      "page": 4,
+      "text": "Prior to any flight granted through a special flight permit, the check required by paragraph (a) of this AD must be accomplished again to assure that no evidence of rubbing exists in either the gascolator to cowling area or the tailpipe to cowling area. If evidence of rubbing is found in either the gascolator to cowling area or the tailpipe to cowling area, then the special flight permit is not valid."
+    },
+    {
+      "id": "e68",
+      "type": "paragraph",
+      "page": 4,
+      "text": "(e) An alternative method of compliance or adjustment of the compliance time that provides an equivalent level of safety may be approved by the Manager, Wichita Aircraft Certification Office (ACO), 1801 Airport Road, Room 100, Mid-Continent Airport, Wichita, Kansas 67209. The request shall be forwarded through an appropriate FAA Maintenance Inspector, who may add comments and then send it to the Manager, Wichita ACO."
+    },
+    {
+      "id": "e69",
+      "type": "paragraph",
+      "page": 4,
+      "text": "Note 2: Information concerning the existence of approved alternative methods of compliance with this AD, if any, may be obtained from the Wichita ACO."
+    },
+    {
+      "id": "e70",
+      "type": "paragraph",
+      "page": 4,
+      "text": "(f) The modifications required by this AD (if evidence of rubbing is found) shall be done in accordance with Cessna Service Bulletin SB97-28-01, dated June 6, 1997. This incorporation by reference was approved by the Director of the Federal Register in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. Copies may be obtained from the the Cessna Aircraft Company, Product Support, P.O. Box 7706, Wichita, Kansas 67277. Copies may be inspected at the FAA, Central Region, Office of the Assistant Chief Counsel, Room 1558, 601 E. 12th Street, Kansas City, Missouri, or at the Office of the Federal Register, 800 North Capitol Street, NW., suite 700, Washington, DC."
+    },
+    {
+      "id": "e71",
+      "type": "paragraph",
+      "page": 4,
+      "text": "(g) This amendment (39-10070) becomes effective on July 15, 1997, to all persons except those persons to whom it was made immediately effective by priority letter AD 97-12-06, issued June 6, 1997, which"
+    },
+    {
+      "id": "e72",
+      "type": "paragraph",
+      "page": 4,
+      "text": "contained the requirements of this amendment."
+    },
+    {
+      "id": "e73",
+      "type": "paragraph",
+      "page": 4,
+      "text": "Issued in Kansas City, Missouri, on June 30, 1997."
+    },
+    {
+      "id": "e74",
+      "type": "paragraph",
+      "page": 4,
+      "text": "Michael Gallagher,"
+    },
+    {
+      "id": "e75",
+      "type": "paragraph",
+      "page": 4,
+      "text": "Manager, Small Airplane Directorate, Aircraft Certification Service."
+    },
+    {
+      "id": "e76",
+      "type": "paragraph",
+      "page": 4,
+      "text": "[FR Doc. 97-17729 Filed 7-8-97; 8:45 am] BILLING CODE 4910-13-U"
+    },
+    {
+      "id": "e77",
+      "type": "heading",
+      "page": 4,
+      "text": "DEPARTMENT OF COMMERCE",
+      "level": 2
+    },
+    {
+      "id": "e78",
+      "type": "paragraph",
+      "page": 4,
+      "text": "National Oceanic and Atmospheric Administration"
+    },
+    {
+      "id": "e79",
+      "type": "paragraph",
+      "page": 4,
+      "text": "15 CFR Part 922 [Docket No. 960712192-7160-02]"
+    },
+    {
+      "id": "e80",
+      "type": "paragraph",
+      "page": 4,
+      "text": "RIN 0648-AD85"
+    },
+    {
+      "id": "e81",
+      "type": "heading",
+      "page": 4,
+      "text": "Florida Keys National Marine Sanctuary; Supplemental Final Regulatory Flexibility Analysis: Commercial Treasure Salvors",
+      "level": 2
+    },
+    {
+      "id": "e82",
+      "type": "paragraph",
+      "page": 4,
+      "text": "AGENCY: Office of Ocean and Coastal Resource Management (OCRM), National Ocean Service (NOS), National Oceanic and Atmospheric Administration (NOAA), Department of Commerce."
+    },
+    {
+      "id": "e83",
+      "type": "paragraph",
+      "page": 4,
+      "text": "ACTION: Final rule; availability of Supplemental Final Regulatory Flexibility Analysis (Supplemental FRFA)."
+    },
+    {
+      "id": "e84",
+      "type": "paragraph",
+      "page": 4,
+      "text": "SUMMARY: Pursuant to the Florida Keys National Marine Sanctuary and Protection Act and the National Marine Sanctuaries Act, NOAA developed a comprehensive final management plan for the Florida Keys National Marine Sanctuary (FKNMS or the Sanctuary). NOAA issued final regulations on January 30, 1997, to implement that plan and govern the conduct of activities within the Sanctuary, and modified them on June 12, 1997."
+    },
+    {
+      "id": "e85",
+      "type": "paragraph",
+      "page": 4,
+      "text": "A Final Regulatory Flexibility Analysis (FRFA) was prepared for the final regulations. The FRFA was summarized in the Federal Register document issuing the final Sanctuary regulations (62 FR 4578, January 30, 1997), and its availability announced. The Office of the Chief Counsel for Advocacy of the Small Business Administration (SBA) reviewed the FRFA and received several comments critical of certain portions of the FRFA, mainly with regard to the discussion of submerged cultural resources and the impacts on treasure salvors. The Office of the Chief Counsel for Advocacy informally suggested to NOAA that the portion of the FRFA on treasure salvage be supplemented. Consequently, prior to the effective date of the final Sanctuary regulations (July 1, 1997) NOAA prepared a Supplemental FRFA covering commercial treasure salvage. The Assistant Administrator for Ocean Services and Coastal Zone Management upon reviewing the Supplemental FRFA concluded that it presented no information warranting modifications to the final regulations. Consequently, the Assistant Administrator has ratified the final regulations. This document summarizes and announces the availability of the Supplemental FRFA. ADDRESSES: Requests for a copy of the Supplemental Final Regulatory Flexibility Analysis: Commercial Treasure Salvage, the Final Regulatory Flexibility Analysis, or the Final Management Plan/Environmental Impact Statement should be submitted to the Sanctuary Superintendent, Florida Keys National Marine Sanctuary, P.O. Box 500368, Marathon, Florida 33050."
+    },
+    {
+      "id": "e86",
+      "type": "paragraph",
+      "page": 4,
+      "text": "FOR FURTHER INFORMATION CONTACT: Billy Causey, Sanctuary Superintendent, 305/743-2437 or Edward Lindelof, East Coast Branch Chief, Sanctuaries and Reserves Division, 301/713-3137 Extension 131."
+    },
+    {
+      "id": "e87",
+      "type": "heading",
+      "page": 4,
+      "text": "SUPPLEMENTARY INFORMATION:",
+      "level": 2
+    },
+    {
+      "id": "e88",
+      "type": "paragraph",
+      "page": 4,
+      "text": "I. Introduction"
+    },
+    {
+      "id": "e89",
+      "type": "paragraph",
+      "page": 4,
+      "text": "The FKNMS was designated by an act of Congress entitled the Florida Keys National Marine Sanctuary and Protection Act (FKNMSPA, Pub. L. No. 101-605) which was signed into law on November 16, 1990. The FKNMSPA directed the Secretary of Commerce to develop a comprehensive management plan and regulations for the Sanctuary pursuant to sections 303 and 304 of the National Marine Sanctuaries Act (NMSA) (also known as Title III of the Marine Protection, Research, and Sanctuaries Act of 1972), as amended, 16 U.S.C. 1431 et seq.). The NMSA authorizes the development of management plans and regulations for national marine sanctuaries to protect their conservation, recreational, ecological, historical, research, educational, or aesthetic qualities."
+    },
+    {
+      "id": "e90",
+      "type": "paragraph",
+      "page": 4,
+      "text": "The authority of the Secretary to designate national marine sanctuaries and implement designated sanctuaries was delegated to the Under Secretary of Commerce for Oceans and Atmosphere by the Department of Commerce, Organization Order 10-15, §3.01(z) (Jan. 11, 1988). The authority to administer the other provisions of the NMSA was delegated to the Assistant Administrator for Ocean Services and Coastal Zone Management of NOAA by NOAA Circular 83-38, Directive 05-50 (Sept. 21, 1983, as amended)."
+    }
+  ]
+}

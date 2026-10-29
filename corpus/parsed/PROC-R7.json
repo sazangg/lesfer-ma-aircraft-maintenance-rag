@@ -1,0 +1,175 @@
+{
+  "source_id": "PROC-R7",
+  "file": "anfa/procedures-manual-r7.docx",
+  "format": "docx",
+  "parser": "docling",
+  "meta": {
+    "publisher": "Anfa Aero Services",
+    "title": "Procedures manual, revision 7 (excerpt)",
+    "doc_type": "procedures manual",
+    "revision": "7",
+    "effective": "2026-06-01",
+    "access": "employees"
+  },
+  "elements": [
+    {
+      "id": "e1",
+      "type": "heading",
+      "text": "Anfa Aero Services: procedures manual, revision 7 (excerpt)",
+      "level": 2
+    },
+    {
+      "id": "e2",
+      "type": "paragraph",
+      "text": "Effective 1 June 2026. Controlled copy: print only for use on the hangar floor."
+    },
+    {
+      "id": "e3",
+      "type": "table",
+      "header": [
+        "Revision",
+        "Date",
+        "Change"
+      ],
+      "rows": [
+        [
+          "7",
+          "2026-06-01",
+          "Section 3.2 extended to every Cessna 172R and 172S; section 3.3 added."
+        ],
+        [
+          "6",
+          "2025-09-29",
+          "Section 2.4 and section 7 refer to AC 43-9D, which replaced AC 43-9C."
+        ],
+        [
+          "5",
+          "2024-01-15",
+          "Section 4.2: torque wrench calibration every 12 months instead of 24."
+        ]
+      ]
+    },
+    {
+      "id": "e4",
+      "type": "heading",
+      "text": "1 Purpose and scope",
+      "level": 3
+    },
+    {
+      "id": "e5",
+      "type": "paragraph",
+      "text": "This manual describes how Anfa Aero Services maintains the aircraft it looks after. It covers the Cessna 172 fleet of Tadla Flight Academy, based in Casablanca and Beni Mellal. This excerpt holds the sections that mechanics use every week; the full manual is kept by the quality manager."
+    },
+    {
+      "id": "e6",
+      "type": "paragraph",
+      "text": "Where this manual and a manufacturer's instruction or an airworthiness directive differ, the directive comes first, then the manufacturer's instruction, then this manual. This manual may be stricter than either; it may never be less strict."
+    },
+    {
+      "id": "e7",
+      "type": "heading",
+      "text": "2 Airworthiness directives",
+      "level": 3
+    },
+    {
+      "id": "e8",
+      "type": "paragraph",
+      "text": "2.1 Weekly review. Every Monday the quality manager checks the FAA's list of new and revised airworthiness directives for the Cessna 172 series, the engines, propellers, and appliances installed in the fleet. The FAA is the state of design for every type we maintain, and its directives are applied as mandatory."
+    },
+    {
+      "id": "e9",
+      "type": "paragraph",
+      "text": "2.2 Corrections. A directive can be corrected after publication, in a separate Federal Register notice. Always read a directive together with its corrections before deciding whether it applies."
+    },
+    {
+      "id": "e10",
+      "type": "paragraph",
+      "text": "2.3 Applicability. A directive applies to an aircraft only when every condition in its applicability paragraph is met: model, serial number range, installed equipment, part number, software version, and any modification or service bulletin it names. Check each condition against the fleet register and the aircraft records, and write down which conditions you checked."
+    },
+    {
+      "id": "e11",
+      "type": "paragraph",
+      "text": "2.4 Records. Each aircraft has an AD compliance record in the format suggested in AC 43-9D, appendix A: the directive number and revision, the method of compliance, the date and hours, and for recurring directives the next time due. A directive found not applicable is recorded too, with the reason."
+    },
+    {
+      "id": "e12",
+      "type": "heading",
+      "text": "3 Life-limited and time-controlled parts",
+      "level": 3
+    },
+    {
+      "id": "e13",
+      "type": "paragraph",
+      "text": "3.1 Tracking. Time-controlled parts are listed in the fleet register, sheet Time-controlled parts, with the airframe hours at installation. The hours used on a part are the airframe's current total time minus the airframe hours at installation."
+    },
+    {
+      "id": "e14",
+      "type": "paragraph",
+      "text": "3.2 Engine oil pressure switch. AD 2013-11-11 limits the engine oil pressure switch, P/N 83278, to 3,000 hours time-in-service on the airplanes within its applicability. Anfa applies the same 3,000-hour limit to every Cessna 172R and 172S it maintains, including those outside the directive's serial number ranges. Plan the replacement when a switch reaches 2,900 hours. Keep two switches in stock."
+    },
+    {
+      "id": "e15",
+      "type": "paragraph",
+      "text": "3.3 When the records disagree. If the fleet register and a work order or logbook give different hours for the same installation, use the lower airframe hours at installation until the quality manager has resolved the difference. Never use the figure that gives the part more time."
+    },
+    {
+      "id": "e16",
+      "type": "heading",
+      "text": "4 Torque",
+      "level": 3
+    },
+    {
+      "id": "e17",
+      "type": "paragraph",
+      "text": "4.1 Use the manufacturer's maintenance manual for the torque of any fastener it lists. When it gives no value, use AC 43.13-1B, chapter 7, Table 7-1, and read the notes printed with that table: they limit when its values apply."
+    },
+    {
+      "id": "e18",
+      "type": "paragraph",
+      "text": "4.2 Record the torque wrench's identification number on the work order. Wrenches are calibrated every 12 months; a wrench past its calibration date is not used."
+    },
+    {
+      "id": "e19",
+      "type": "heading",
+      "text": "5 Maintenance records and return to service",
+      "level": 3
+    },
+    {
+      "id": "e20",
+      "type": "paragraph",
+      "text": "5.1 Every maintenance record entry contains what 14 CFR 43.9 requires: a description of the work, the date it was completed, the name of the person who did it, and the signature and certificate number of the person approving the aircraft for return to service."
+    },
+    {
+      "id": "e21",
+      "type": "paragraph",
+      "text": "5.2 Write airframe hours as read from the aircraft's hour meter, to one decimal place, and check the figure you copied from the work order into the register before signing."
+    },
+    {
+      "id": "e22",
+      "type": "paragraph",
+      "text": "5.3 Work orders are scanned and kept with the aircraft records. The paper originals are kept for two years."
+    },
+    {
+      "id": "e23",
+      "type": "heading",
+      "text": "6 Defect reporting",
+      "level": 3
+    },
+    {
+      "id": "e24",
+      "type": "paragraph",
+      "text": "6.1 Any failure, malfunction, or defect that could affect safety is reported to the quality manager the same day. The quality manager reports it to the authority and, for FAA type-certificated products, through the FAA's Service Difficulty Reporting System."
+    },
+    {
+      "id": "e25",
+      "type": "heading",
+      "text": "7 Receiving parts",
+      "level": 3
+    },
+    {
+      "id": "e26",
+      "type": "paragraph",
+      "text": "7.1 A new or overhauled part is accepted only with an authorized release certificate, such as FAA Form 8130-3. Check that the part number and serial number on the certificate match the part."
+    }
+  ]
+}

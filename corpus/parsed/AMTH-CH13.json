@@ -1,0 +1,1246 @@
+{
+  "source_id": "AMTH-CH13",
+  "file": "faa/handbook/faa-h-8083-30a-chapter-13.pdf",
+  "format": "pdf",
+  "parser": "docling",
+  "meta": {
+    "title": "FAA-H-8083-30A, Aviation Maintenance Technician Handbook: General, chapter 13 (mechanic privileges and limitations)",
+    "publisher": "FAA",
+    "doc_type": "handbook",
+    "pages": "633-642 of the full PDF",
+    "access": "employees"
+  },
+  "elements": [
+    {
+      "id": "e1",
+      "type": "heading",
+      "page": 1,
+      "text": "Chapter 13",
+      "level": 2
+    },
+    {
+      "id": "e2",
+      "type": "heading",
+      "page": 1,
+      "text": "Mechanic Privileges and Limitations",
+      "level": 2
+    },
+    {
+      "id": "e3",
+      "type": "heading",
+      "page": 1,
+      "text": "Introduction",
+      "level": 2
+    },
+    {
+      "id": "e4",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Since Title 14 of the Code of Federal Regulations (14 CFR) part 65 was covered only briefly in Chapter 2, Regulations, Maintenance Forms, Records, and Publications, it is discussed in greater detail in this chapter. This chapter discusses the Federal Aviation Administration (FAA) regulation governing the certification of airmen other than flight crew members. This chapter is based on the material contained in 14 CFR part 65, which has the following subparts:"
+    },
+    {
+      "id": "e5",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Subpart A-General"
+    },
+    {
+      "id": "e6",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Subpart B-Air Traffic Control Tower Operators"
+    },
+    {
+      "id": "e7",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Subpart C-Aircraft Dispatchers"
+    },
+    {
+      "id": "e8",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Subpart D-Mechanics"
+    },
+    {
+      "id": "e9",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Subpart E-Repairmen"
+    },
+    {
+      "id": "e10",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Subpart F-Parachute Riggers"
+    },
+    {
+      "id": "e11",
+      "type": "paragraph",
+      "page": 1,
+      "text": "This chapter only focuses on the certification of maintenance technicians and, therefore, subparts B, C, E, and F are not addressed."
+    },
+    {
+      "id": "e12",
+      "type": "figure",
+      "page": 1,
+      "caption": "",
+      "image": "figures/AMTH-CH13-fig1.png"
+    },
+    {
+      "id": "e13",
+      "type": "paragraph",
+      "page": 1,
+      "text": "13-1"
+    },
+    {
+      "id": "e14",
+      "type": "paragraph",
+      "page": 2,
+      "text": "The FAA certificates two separate categories of maintenance technicians: mechanic and repairman. The fundamental difference between these two is that the mechanic certificate is transportable, is issued to the technician based upon his or her training and knowledge, and is not dependent on the technician's location. Although the repairman certificate is also based upon the training and knowledge of the technician, it is specifically issued to that technician while he or she is employed at a distinct location of a specific company. This certificate carries a literal address where he or she is authorized to work using his or her repairman skills. When the technician is no longer employed there, the repairman certificate must be returned to the Flight Standards District Office (FSDO) that issued it."
+    },
+    {
+      "id": "e15",
+      "type": "heading",
+      "page": 2,
+      "text": "Mechanic Certification: Subpart AGeneral (by 14 CFR Section)",
+      "level": 2
+    },
+    {
+      "id": "e16",
+      "type": "heading",
+      "page": 2,
+      "text": "Section 65.3, Certification of Foreign Airmen Other Than Flight Crewmembers",
+      "level": 2
+    },
+    {
+      "id": "e17",
+      "type": "paragraph",
+      "page": 2,
+      "text": "Normally, the FAA issues these certificates only to United States (U.S.) citizens or resident aliens residing in the United States. However, if the FAA determines that the issuance of a certificate to a person located outside of the United States is necessary for the operation and continued airworthiness of a U.S.-registered civil aircraft, it will issue a certificate to that person, providing they meet the necessary requirements."
+    },
+    {
+      "id": "e18",
+      "type": "heading",
+      "page": 2,
+      "text": "Section 65.11, Application and Issue",
+      "level": 2
+    },
+    {
+      "id": "e19",
+      "type": "paragraph",
+      "page": 2,
+      "text": "Any person who meets the criteria for obtaining a mechanic certificate must apply by means of FAA Form 8610-2, Airman Certificate and/or Rating Application. If a mechanic has had a certificate suspended, they may not apply for additional ratings during the time of suspension. A revocation of a mechanic certificate prevents that person from applying for a certificate within a period of 1 year after the revocation."
+    },
+    {
+      "id": "e20",
+      "type": "heading",
+      "page": 2,
+      "text": "Section 65.12, Offenses Involving Alcohol and Drugs",
+      "level": 2
+    },
+    {
+      "id": "e21",
+      "type": "paragraph",
+      "page": 2,
+      "text": "Any person, who has been convicted of violating federal or state statutes relating to drug offenses, can be denied their application for a certificate or rating up to 1 year after the date of conviction. The violation can be relating to any one or more of the following actions: growing, processing, manufacturing, selling, disposing, possessing, transporting, or importing narcotic drugs, marijuana, depressants, or stimulants. They may also face the suspension or revocation of any certificate that they currently hold."
+    },
+    {
+      "id": "e22",
+      "type": "heading",
+      "page": 2,
+      "text": "Section 65.13, Temporary Certificate",
+      "level": 2
+    },
+    {
+      "id": "e23",
+      "type": "paragraph",
+      "page": 2,
+      "text": "A qualified applicant who successfully passes all required tests with a minimum score of 70 percent may be issued a temporary certificate, which is valid for not more than 120 days. During this time, the FAA will review the application and any supplementary documentation and will issue the official certificate and rating."
+    },
+    {
+      "id": "e24",
+      "type": "heading",
+      "page": 2,
+      "text": "Section 65.14, Security Disqualification",
+      "level": 2
+    },
+    {
+      "id": "e25",
+      "type": "paragraph",
+      "page": 2,
+      "text": "This section was added following the terrorist attacks of September 11, 2001. It basically states that anyone determined by the Transportation Security Administration (TSA) to be a security threat will either have their application held if they are applying for a certificate, or have the certificate that they do hold revoked."
+    },
+    {
+      "id": "e26",
+      "type": "heading",
+      "page": 2,
+      "text": "Section 65.15, Duration of Certificates",
+      "level": 2
+    },
+    {
+      "id": "e27",
+      "type": "paragraph",
+      "page": 2,
+      "text": "Mechanic's certificates are effective until they are surrendered, suspended, or revoked. The difference in these terms can be summarized in the following manner:"
+    },
+    {
+      "id": "e28",
+      "type": "paragraph",
+      "page": 2,
+      "text": "Surrendered means given up voluntarily."
+    },
+    {
+      "id": "e29",
+      "type": "paragraph",
+      "page": 2,
+      "text": "Suspended means the FAA temporarily removes the certificate from the holder."
+    },
+    {
+      "id": "e30",
+      "type": "paragraph",
+      "page": 2,
+      "text": "Revoked means the FAA permanently removes the certificate from the holder."
+    },
+    {
+      "id": "e31",
+      "type": "heading",
+      "page": 2,
+      "text": "Section 65.16, Change of Name: Replacement of Lost or Destroyed Certificate",
+      "level": 2
+    },
+    {
+      "id": "e32",
+      "type": "paragraph",
+      "page": 2,
+      "text": "An application for a change of name on a certificate issued under this part must be accompanied by the applicant's current certificate and the marriage license, court order, or other document verifying the change."
+    },
+    {
+      "id": "e33",
+      "type": "paragraph",
+      "page": 2,
+      "text": "If the technician changes his or her name, or is seeking a replacement certificate, an application must be submitted to the FAA at the following address:"
+    },
+    {
+      "id": "e34",
+      "type": "paragraph",
+      "page": 2,
+      "text": "Federal Aviation Administration Airmen Certification Branch (AFB-720) P.O. Box 25082 Oklahoma City, OK 73125"
+    },
+    {
+      "id": "e35",
+      "type": "paragraph",
+      "page": 2,
+      "text": "It should be noted that there is a nominal charge for this service."
+    },
+    {
+      "id": "e36",
+      "type": "heading",
+      "page": 2,
+      "text": "Section 65.17, Test: General Procedure",
+      "level": 2
+    },
+    {
+      "id": "e37",
+      "type": "paragraph",
+      "page": 2,
+      "text": "The FAA has designated certain persons to administer tests associated with obtaining a mechanic certificate. The minimum passing score for these tests is 70 percent."
+    },
+    {
+      "id": "e38",
+      "type": "heading",
+      "page": 2,
+      "text": "Section 65.18, Written Tests: Cheating or Other Unauthorized Content",
+      "level": 2
+    },
+    {
+      "id": "e39",
+      "type": "paragraph",
+      "page": 2,
+      "text": "If the mechanic or repairmen applicant is determined to be cheating, or otherwise involved in unauthorized conduct, they are not eligible for any certificate or rating under this chapter for a period of 1 year. Furthermore, current ratings the person already holds may also be suspended or revoked. Examples of unacceptable conduct for written tests are:"
+    },
+    {
+      "id": "e40",
+      "type": "page_footer",
+      "page": 2,
+      "text": "13-2"
+    },
+    {
+      "id": "e41",
+      "type": "paragraph",
+      "page": 3,
+      "text": "Copying or intentionally removing the test."
+    },
+    {
+      "id": "e42",
+      "type": "paragraph",
+      "page": 3,
+      "text": "Giving or receiving any part of a copy of the test."
+    },
+    {
+      "id": "e43",
+      "type": "paragraph",
+      "page": 3,
+      "text": "Federal Aviation Administration Airmen Certification Branch (AFB-720) P.O. Box 25082"
+    },
+    {
+      "id": "e44",
+      "type": "paragraph",
+      "page": 3,
+      "text": "Giving or receiving help during the test taking period. Oklahoma City, OK 73125"
+    },
+    {
+      "id": "e45",
+      "type": "paragraph",
+      "page": 3,
+      "text": "Take any part of the test on behalf of another person."
+    },
+    {
+      "id": "e46",
+      "type": "paragraph",
+      "page": 3,
+      "text": "Using any material or aid during the test taking period Any technician who refuses to submit to a drug test, which that is not provided by authorized test administrators."
+    },
+    {
+      "id": "e47",
+      "type": "heading",
+      "page": 3,
+      "text": "Refusal to Submit to a Drug or Alcohol Test",
+      "level": 2
+    },
+    {
+      "id": "e48",
+      "type": "paragraph",
+      "page": 3,
+      "text": "is required by 14 CFR part 120, section 120.15, is subject · Intentionally causing, assisting, or participating in any to denial by the FAA of any application for additional of the previous acts. certification or ratings, as well as suspension or revocation of any existing certificate or rating he or she currently holds. Part Section 65.19, Retesting After Failure 120, section 120.117, Implementing a Drug Testing Program, Should the mechanic or repairman fail to achieve the required requires a urine sample from the employee. Part 120, section minimum passing grade, there are two options they may 120.37, Misuse of Alcohol, requires that the employee consider when desiring to apply for retesting: submit to a breath test. Each section contains a \"Definitions\" · Wait a period of 30 days after the date of test failure section and a section titled \"Employees who must be tested.\" and then take the test again. Persons involved with \"Aircraft maintenance or preventative maintenance duties\" are listed in both sections. There are"
+    },
+    {
+      "id": "e49",
+      "type": "paragraph",
+      "page": 3,
+      "text": "Random"
+    },
+    {
+      "id": "e50",
+      "type": "paragraph",
+      "page": 3,
+      "text": "Seek additional instruction in the subject matter various types (or rather times) when testing is required: areas failed and provide a signed statement from the certificated technician providing the instruction stating · Pre-employment the applicant has received necessary instruction and · Periodic is ready for testing."
+    },
+    {
+      "id": "e51",
+      "type": "heading",
+      "page": 3,
+      "text": "Section 65.20, Applications, Certificates, Logbooks, Reports, and Records: Falsification, Reproduction, or Alteration",
+      "level": 2
+    },
+    {
+      "id": "e52",
+      "type": "paragraph",
+      "page": 3,
+      "text": "Post-accident"
+    },
+    {
+      "id": "e53",
+      "type": "paragraph",
+      "page": 3,
+      "text": "Testing based upon reasonable cause"
+    },
+    {
+      "id": "e54",
+      "type": "paragraph",
+      "page": 3,
+      "text": "Return to duty testing"
+    },
+    {
+      "id": "e55",
+      "type": "paragraph",
+      "page": 3,
+      "text": "is a professional career choice that demands the highest caliber technical person to be capable of functioning at · Makes fraudulent or intentionally false statement on his or her maximum potential. There is no room in this an application. profession for a person to be involved with substance abuse. · Makes fraudulent or intentionally false statement By doing so, the technician not only endangers themselves, in any logbook, record, or report required to show but their co-workers, and ultimately the customer who is compliance with any certificate requirements. expecting to have an airworthy aircraft delivered following"
+    },
+    {
+      "id": "e56",
+      "type": "paragraph",
+      "page": 3,
+      "text": "14 CFR part 43, sections 43.9 and 43.11 define the requirements for a technician to make appropriate entries · Follow-up testing in the maintenance/inspection records for the work performed. This proper documentation is fundamental to The numerous test methods and the harsh penalty imposed safe and efficient operation of the U.S. civil aircraft fleet. by the FAA on those who involve themselves with these Therefore, the FAA takes strong action against those who unauthorized substances or abuse the allowable use of would participate in the falsification of those records. The alcohol indicates the concern that the FAA has for the following actions are the basis for suspending or revoking possible impairment of technicians. Aviation maintenance any certificate or rating held by the person who:"
+    },
+    {
+      "id": "e57",
+      "type": "paragraph",
+      "page": 3,
+      "text": "Reproduces a certificate or rating for fraudulent a maintenance activity. purposes."
+    },
+    {
+      "id": "e58",
+      "type": "paragraph",
+      "page": 3,
+      "text": "Alters any certificate or rating under this part."
+    },
+    {
+      "id": "e59",
+      "type": "heading",
+      "page": 3,
+      "text": "Section 65.21, Change of Address",
+      "level": 2
+    },
+    {
+      "id": "e60",
+      "type": "paragraph",
+      "page": 3,
+      "text": "If the technician changes his or her address, the FAA (at the address shown below) must be notified in writing within 30 days after the change of permanent residence:"
+    },
+    {
+      "id": "e61",
+      "type": "page_footer",
+      "page": 3,
+      "text": "13-3"
+    },
+    {
+      "id": "e62",
+      "type": "heading",
+      "page": 4,
+      "text": "Mechanic Certification: Subpart DMechanics (by 14 CFR Section)",
+      "level": 2
+    },
+    {
+      "id": "e63",
+      "type": "heading",
+      "page": 4,
+      "text": "Section 65.71, Eligibility Requirements: General",
+      "level": 2
+    },
+    {
+      "id": "e64",
+      "type": "paragraph",
+      "page": 4,
+      "text": "The requirements for obtaining a mechanic certificate are:"
+    },
+    {
+      "id": "e65",
+      "type": "paragraph",
+      "page": 4,
+      "text": "Be at least 18 years of age."
+    },
+    {
+      "id": "e66",
+      "type": "paragraph",
+      "page": 4,
+      "text": "Be able to read, write, speak, and understand the English language. (Note: If the applicant does not meet this requirement and is employed outside the United States by a U.S. carrier, the certificate will be endorsed \"valid only outside the United States.\")"
+    },
+    {
+      "id": "e67",
+      "type": "paragraph",
+      "page": 4,
+      "text": "Have passed all the required tests (written, oral, and practical) within the preceding 24 months from application."
+    },
+    {
+      "id": "e68",
+      "type": "paragraph",
+      "page": 4,
+      "text": "Possess and demonstrate the appropriate knowledge and skill for the certificate rating being sought."
+    },
+    {
+      "id": "e69",
+      "type": "paragraph",
+      "page": 4,
+      "text": "If a technician has one of the ratings and desires to add the other, he or she must meet the requirements set forth in section 65.77, and take the written, oral, and practical tests within 24 months."
+    },
+    {
+      "id": "e70",
+      "type": "heading",
+      "page": 4,
+      "text": "Section 65.73, Ratings",
+      "level": 2
+    },
+    {
+      "id": "e71",
+      "type": "paragraph",
+      "page": 4,
+      "text": "The FAA recognizes two ratings: airframe and powerplant. These may be attained by a person upon successful application and testing either individually or as a combined certificate."
+    },
+    {
+      "id": "e72",
+      "type": "paragraph",
+      "page": 4,
+      "text": "Any person holding an aircraft (A) or aircraft engine (E) certificate prior to June 15, 1952, and which was valid on that date, may exchange it for the corresponding current certificate. If both ratings were held, the A & E certificate may be exchanged for an Airframe and Powerplant (A&P)."
+    },
+    {
+      "id": "e73",
+      "type": "heading",
+      "page": 4,
+      "text": "Section 65.75, Knowledge Requirements",
+      "level": 2
+    },
+    {
+      "id": "e74",
+      "type": "paragraph",
+      "page": 4,
+      "text": "Any applicant meeting the experience requirements listed in section 65.77 must pass a written test (minimum passing score of 70% as described in section 65.17) covering the construction and maintenance of aircraft. There are three separate tests that the applicant for the A&P certificate must pass: General (60 questions), Airframe (100 questions), and Powerplant (100 questions). Applicable portions of 14 CFR 43 and 91 are also included in the testing. Basic principles for the installation and maintenance of propellers are included with the testing that is administered for the powerplant rating. Successful completion of the written test is required before the candidate may apply for the oral and practical tests identified in section 65.79."
+    },
+    {
+      "id": "e75",
+      "type": "heading",
+      "page": 4,
+      "text": "Section 65.77, Experience Requirements",
+      "level": 2
+    },
+    {
+      "id": "e76",
+      "type": "paragraph",
+      "page": 4,
+      "text": "Each mechanic applicant must have a certificate of completion from a certificated aviation maintenance technician school (AMTS) (14 CFR part 147) or provide documented evidence of a minimum of 18 months practical experience related to either airframe or powerplant maintenance (30 months required if applying for certification for both airframe and powerplant)."
+    },
+    {
+      "id": "e77",
+      "type": "heading",
+      "page": 4,
+      "text": "Section 65.79, Skill Requirements",
+      "level": 2
+    },
+    {
+      "id": "e78",
+      "type": "paragraph",
+      "page": 4,
+      "text": "Oral and practical tests to determine the applicant's basic knowledge and skills necessary for the certificate or rating sought are required to be completed after the applicant has successfully completed the written test. The practical test additionally requires minor repairs and minor alterations to propellers to be demonstrated as part of the powerplant rating. To assist the applicant, the Aviation Mechanic Practical Test Standards (PTS) have been published by the FAA to provide standards for testing in which the applicant for the A&P certificate should be familiar. The Aviation Mechanic PTS include the subject areas of knowledge and skill for the issuance of an aviation mechanic certificate and/or the addition of a rating. The subject areas are the topics in which aviation mechanic applicants must have knowledge and/or demonstrate skill. The PTS are available on the FAA website at www.faa.gov."
+    },
+    {
+      "id": "e79",
+      "type": "heading",
+      "page": 4,
+      "text": "Section 65.80, Certificated Aviation Maintenance Technician School Students",
+      "level": 2
+    },
+    {
+      "id": "e80",
+      "type": "paragraph",
+      "page": 4,
+      "text": "Whenever satisfactory evidence is shown to the FAA that a student enrolled in an aviation maintenance technician school (certificated under part 147) is making satisfactory progress, that student may take the oral and practical tests required by section 65.79, prior to completing the school's approved curriculum (as required by section 65.77) and prior to taking the written test required by section 65.75."
+    },
+    {
+      "id": "e81",
+      "type": "heading",
+      "page": 4,
+      "text": "Section 65.81, General Privileges and Limitations",
+      "level": 2
+    },
+    {
+      "id": "e82",
+      "type": "paragraph",
+      "page": 4,
+      "text": "Once a technician becomes a certificated mechanic, he or she may perform or supervise the maintenance, preventive maintenance, or alterations of an aircraft or appliance (or part thereof) for which he or she is rated. However, he or she is not permitted to perform major repair or major alterations to propellers nor accomplish any repair to or alteration of instruments. These activities are reserved for certificated repairmen at an authorized repair station. Also, he or she may not supervise the maintenance, preventive maintenance, or alteration of any aircraft or appliance (or part thereof) for which he or she is rated, unless he or she has satisfactorily performed this work at an earlier date. This is where the benefit of keeping an on the job training (OJT) log cannot be overemphasized. Whether the technician attends a part 147 maintenance training school or receives the required number of months as practical experience, he or she has only scratched the surface of the tremendously complex world of aviation maintenance. The technician must either work with someone (like a shop mentor) or must perform the task satisfactorily for the FAA. The certified mechanic must have and be able to comprehend the maintenance manuals and/ or instructions for continued airworthiness for the task he or she is accomplishing."
+    },
+    {
+      "id": "e83",
+      "type": "page_footer",
+      "page": 4,
+      "text": "13-4"
+    },
+    {
+      "id": "e84",
+      "type": "heading",
+      "page": 5,
+      "text": "Section 65.83, Recent Experience Requirements",
+      "level": 2
+    },
+    {
+      "id": "e85",
+      "type": "paragraph",
+      "page": 5,
+      "text": "In addition to having the proper documentation, the mechanic is required by this regulation to have recent and relevant work experience. Although, as it was stated earlier in this chapter, the A&P certificate is valid until it is surrendered, suspended, or revoked, it may not be exercised if the holder has not been actively working as a mechanic for at least 6 of the preceding 24 months."
+    },
+    {
+      "id": "e86",
+      "type": "paragraph",
+      "page": 5,
+      "text": "This activity can be any one or a combination of the following:"
+    },
+    {
+      "id": "e87",
+      "type": "paragraph",
+      "page": 5,
+      "text": "Served as a mechanic under the certificate and rating"
+    },
+    {
+      "id": "e88",
+      "type": "paragraph",
+      "page": 5,
+      "text": "Technically supervised other mechanics"
+    },
+    {
+      "id": "e89",
+      "type": "paragraph",
+      "page": 5,
+      "text": "Supervised (in an executive capacity) the maintenance or alteration of an aircraft"
+    },
+    {
+      "id": "e90",
+      "type": "heading",
+      "page": 5,
+      "text": "Section 65.85, Airframe Rating: Additional Privileges",
+      "level": 2
+    },
+    {
+      "id": "e91",
+      "type": "paragraph",
+      "page": 5,
+      "text": "A mechanic who holds an airframe rating may approve and return to service an airframe, an appliance, or any related part after he or she has performed, supervised, or inspected minor repairs or alterations. He or she may also perform the maintenance actions required for a major repair or alteration, and should initiate the appropriate form (FAA Form 337, Major Repair and Alteration) associated with that work. However, the return to service action must be accomplished by a certificated A&P technician holding an Inspection Authorization (IA). (Refer to 14 CFR section 65.95.) The airframe mechanic is also authorized to perform the 100-hour inspection (if required per 14 CFR part 91 section 91.409) on the airframe."
+    },
+    {
+      "id": "e92",
+      "type": "paragraph",
+      "page": 5,
+      "text": "A certificated mechanic with an airframe rating can approve and return to service the airframe of an aircraft with a special airworthiness certificate, in the light-sport category (refer to 14 CFR part 21, section 21.190) after performing and inspecting a major repair or major alteration. The work must have been done on products that are not produced under FAA approval (i.e., are not type certificated) and must have been performed in accordance with instructions developed by the manufacturer or person acceptable to the FAA."
+    },
+    {
+      "id": "e93",
+      "type": "heading",
+      "page": 5,
+      "text": "Section 65.87, Powerplant Rating: Additional Privileges",
+      "level": 2
+    },
+    {
+      "id": "e94",
+      "type": "paragraph",
+      "page": 5,
+      "text": "Similarly, a mechanic holding a powerplant rating has the same limitations imposed regarding the powerplant and propeller as the airframe technician has on the airframe rating."
+    },
+    {
+      "id": "e95",
+      "type": "paragraph",
+      "page": 5,
+      "text": "He or she may perform and return to service minor repairs or alterations. He or she may also accomplish the work activities required for a major repair or alteration, but the work must be signed off for return to service by an IA. The privilege of performing a 100-hour inspection (if required by 14 CFR part 91) on a powerplant or propeller is also authorized."
+    },
+    {
+      "id": "e96",
+      "type": "paragraph",
+      "page": 5,
+      "text": "A certificated mechanic with a powerplant rating can approve and return to service the powerplant or propeller of an aircraft with a special airworthiness certificate, in the light-sport category (refer to 14 CFR part 21, section 21.190) after performing and inspecting a major repair or major alteration. The work must have been done on products that are not produced under FAA approval (i.e., are not type certificated) and must have been performed in accordance with instructions developed by the manufacturer or person acceptable to the FAA."
+    },
+    {
+      "id": "e97",
+      "type": "heading",
+      "page": 5,
+      "text": "Section 65.89, Display of Certificate",
+      "level": 2
+    },
+    {
+      "id": "e98",
+      "type": "paragraph",
+      "page": 5,
+      "text": "Once a technician receives his or her mechanic certificate, the certificate must be kept in the immediate area where he or she normally conducts work and exercises the privileges of the certificate. When requested, the technician is required to present the certificate for inspection to the FAA, or any authorized representation from the National Transportation Safety Board (NTSB), or any federal, state, or local law enforcement officer."
+    },
+    {
+      "id": "e99",
+      "type": "heading",
+      "page": 5,
+      "text": "Inspection Authorization (IA) (by 14 CFR Section)",
+      "level": 2
+    },
+    {
+      "id": "e100",
+      "type": "heading",
+      "page": 5,
+      "text": "Section 65.91, Inspection Authorization",
+      "level": 2
+    },
+    {
+      "id": "e101",
+      "type": "paragraph",
+      "page": 5,
+      "text": "An A&P mechanic who has held his or her certificate for at least 3 years, and has been active for the last 2 years, may submit application using FAA Form 8610-1, Mechanic's Application for Inspection Authorization, to the FAA for consideration as an IA. In addition to the preceding time requirements, the IA candidate must have:"
+    },
+    {
+      "id": "e102",
+      "type": "paragraph",
+      "page": 5,
+      "text": "A fixed base of operation where he or she can be located in person or by phone during a normal working week but it need not be the place where he will exercise his inspection authority."
+    },
+    {
+      "id": "e103",
+      "type": "paragraph",
+      "page": 5,
+      "text": "Available equipment, facilities, and inspection data necessary to properly inspect the airframe, powerplants, propellers, or any related part or appliance he or she is approving for return to service."
+    },
+    {
+      "id": "e104",
+      "type": "paragraph",
+      "page": 5,
+      "text": "The applicant who meets all the above criteria must then pass a written test (or computerized version of the test) to determine his or her ability to inspect the airworthiness of an aircraft following either a major repair or alteration action or the performance of an annual or progressive inspection."
+    },
+    {
+      "id": "e105",
+      "type": "page_footer",
+      "page": 5,
+      "text": "13-5"
+    },
+    {
+      "id": "e106",
+      "type": "paragraph",
+      "page": 6,
+      "text": "The minimum passing score for the computer test is 70 percent. If the applicant fails the test, retesting cannot be attempted until a minimum of 90 days have elapsed from the failure date. Unlike the A&P test, there is no reduction in this time if the applicant receives additional training."
+    },
+    {
+      "id": "e107",
+      "type": "heading",
+      "page": 6,
+      "text": "Section 65.92, Inspection Authorization: Duration",
+      "level": 2
+    },
+    {
+      "id": "e108",
+      "type": "paragraph",
+      "page": 6,
+      "text": "An IA certificate expires on March 31 of each odd-numbered year, but may only be exercised during the time the technician holds a currently effective mechanic certificate. The IA ceases to be effective if:"
+    },
+    {
+      "id": "e109",
+      "type": "paragraph",
+      "page": 6,
+      "text": "The technician surrenders it, or it is suspended or revoked."
+    },
+    {
+      "id": "e110",
+      "type": "paragraph",
+      "page": 6,
+      "text": "The technician no longer has a fixed base of operations."
+    },
+    {
+      "id": "e111",
+      "type": "paragraph",
+      "page": 6,
+      "text": "The technician no longer has the required facilities, equipment, or inspection data available."
+    },
+    {
+      "id": "e112",
+      "type": "paragraph",
+      "page": 6,
+      "text": "Whenever the certificate is suspended or revoked, the technician must return it to the Administrator when requested by the FAA to do so."
+    },
+    {
+      "id": "e113",
+      "type": "heading",
+      "page": 6,
+      "text": "Section 65.93, Inspection Authorization: Renewal",
+      "level": 2
+    },
+    {
+      "id": "e114",
+      "type": "paragraph",
+      "page": 6,
+      "text": "An IA certificate may be renewed in one of the following ways each year the technician is seeking renewal:"
+    },
+    {
+      "id": "e115",
+      "type": "paragraph",
+      "page": 6,
+      "text": "The performance of at least one annual inspection for each 90 days the technician has held the IA rating."
+    },
+    {
+      "id": "e116",
+      "type": "paragraph",
+      "page": 6,
+      "text": "The performance of the inspections of at least two major repairs or alterations for each 90 days the technician has held the IA rating. (Note: The inspections can be counted regardless of the approval or disapproval of the work.)"
+    },
+    {
+      "id": "e117",
+      "type": "paragraph",
+      "page": 6,
+      "text": "The performance (or supervision) and approval of at least one progressive inspection."
+    },
+    {
+      "id": "e118",
+      "type": "paragraph",
+      "page": 6,
+      "text": "The attendance and successful completion of a refresher course (acceptable to the Administrator) that is at least 8 hours of instruction. This can be either a single day seminar or a combination of individual classes acceptable to the Administrator. Some seminars are sponsored by the FAA FSDO and are free; others are low cost. Private industry also frequently conducts one-day sessions and usually charge for their efforts. Regardless of who is conducting the seminar, it is usually an excellent way to accomplish renewal, learn about new issues, and develop a network among peers."
+    },
+    {
+      "id": "e119",
+      "type": "paragraph",
+      "page": 6,
+      "text": "Passed an oral test by an FAA inspector to determine that the applicant's knowledge of applicable regulations and standards is current."
+    },
+    {
+      "id": "e120",
+      "type": "paragraph",
+      "page": 6,
+      "text": "Because all IA certificates expire in the first quarter of each calendar year (March 31), and the regulation states that anyone holding an IA for less than 90 days need not meet the preceding renewal requirements, no renewal is required for someone who received the IA during the first quarter of the calendar year."
+    },
+    {
+      "id": "e121",
+      "type": "paragraph",
+      "page": 6,
+      "text": "The technician with IA should note that regulations clearly state the number of annual inspections (four) and major repair or alteration inspections (eight) are required for each 90-day period prior to March 31 st . This does not mean in each previous 90-day period the technician must have conducted either an annual or two major repair or alteration inspections, but rather their cumulative number by March 31 st . Therefore, an IA could actually go 11 months without performing any inspection activity relative to renewal. Then in March, he or she could conduct all four necessary annual inspections, or all eight 337-related inspections. However, the regulations do not provide for the mixing of any of these renewal activities (i.e., two annual inspections and four Major Repair and Alteration forms)."
+    },
+    {
+      "id": "e122",
+      "type": "paragraph",
+      "page": 6,
+      "text": "Another method of renewal is to meet with the FAA-assigned FSDO inspector who will determine that the applicant possesses current knowledge of the applicable regulations and standards. Although this is often considered the renewal method of last resort, it should not be considered a negative experience. If the IA has been performing his or her activities in a professional manner throughout the year, this session can be considered a professional follow-up or consultation. Proper IA-to-FSDO inspector interaction can be enhanced with such a meeting."
+    },
+    {
+      "id": "e123",
+      "type": "heading",
+      "page": 6,
+      "text": "Section 65.95, Inspection Authorization: Privileges and Limitations",
+      "level": 2
+    },
+    {
+      "id": "e124",
+      "type": "paragraph",
+      "page": 6,
+      "text": "The IA may perform an annual inspection or perform or supervise a progressive inspection. He or she may also approve for return to service any aircraft-related part or appliance that has undergone a major repair or alteration (except aircraft maintained in accordance with a continuous airworthiness program operated under 14 CFR part 121)."
+    },
+    {
+      "id": "e125",
+      "type": "paragraph",
+      "page": 6,
+      "text": "The IA must keep his or her certificate available for inspection by any one of the following persons:"
+    },
+    {
+      "id": "e126",
+      "type": "paragraph",
+      "page": 6,
+      "text": "Aircraft owner"
+    },
+    {
+      "id": "e127",
+      "type": "paragraph",
+      "page": 6,
+      "text": "A&P technician"
+    },
+    {
+      "id": "e128",
+      "type": "paragraph",
+      "page": 6,
+      "text": "FAA Administrator"
+    },
+    {
+      "id": "e129",
+      "type": "paragraph",
+      "page": 6,
+      "text": "Authorized representative of the NTSB"
+    },
+    {
+      "id": "e130",
+      "type": "paragraph",
+      "page": 6,
+      "text": "Any federal, state, local, or law enforcement officer"
+    },
+    {
+      "id": "e131",
+      "type": "page_footer",
+      "page": 6,
+      "text": "13-6"
+    },
+    {
+      "id": "e132",
+      "type": "paragraph",
+      "page": 7,
+      "text": "Significant impact damage to the ice shield was observed and recorded."
+    },
+    {
+      "id": "e133",
+      "type": "paragraph",
+      "page": 7,
+      "text": "The company inspector reviewed and instructed the technician to replace the ice shield."
+    },
+    {
+      "id": "e134",
+      "type": "paragraph",
+      "page": 7,
+      "text": "Availability of the replacement part was confirmed by computer."
+    },
+    {
+      "id": "e135",
+      "type": "paragraph",
+      "page": 7,
+      "text": "If the holder of an IA moves his or her fixed base of operation, The actual sequence of events is as follows: he or she must notify in writing the FSDO responsible for the location he or she is moving to before beginning to exercise the privileges of an IA. Although it is not required, good business etiquette and professional responsibility would suggest that a similar letter be written to the responsible FAA Principal Maintenance Inspector (PMI) at the FSDO in the area he or she is leaving."
+    },
+    {
+      "id": "e136",
+      "type": "heading",
+      "page": 7,
+      "text": "Ethics",
+      "level": 2
+    },
+    {
+      "id": "e137",
+      "type": "paragraph",
+      "page": 7,
+      "text": "This is a tremendously broad and diverse area of study. It is also an area that is coming under more scrutiny by consumers, individual watchdog groups, and government review committees. Ethics, or more appropriately the lack of ethics, has caused the loss of millions of dollars through fraudulent accounting practices, shoddy workmanship, etc. This chapter examines some definitions of ethics and some examples of poor business ethics in order to raise the awareness of the technician to the importance of ethics."
+    },
+    {
+      "id": "e138",
+      "type": "paragraph",
+      "page": 7,
+      "text": "The word \"ethics\" is actually a philosophical term that comes from the Greek word \"ethos,\" which means character or custom. So, it is logical that a current definition of ethics is \"the study of standards of conduct and moral judgment.\" Although situations involving questionable ethics can exist wherever and whenever business decisions are made, the scope of this discussion is limited to areas with which the technician is probably associated."
+    },
+    {
+      "id": "e139",
+      "type": "heading",
+      "page": 7,
+      "text": "A Scenario",
+      "level": 2
+    },
+    {
+      "id": "e140",
+      "type": "paragraph",
+      "page": 7,
+      "text": "The following incident illustrates one way that both personal ethics and technician knowledge of regulations can work together to provide him or her with the ability to make the right decision. Unfortunately, others in the shop did not appear as concerned as the technician sharing the incident."
+    },
+    {
+      "id": "e141",
+      "type": "paragraph",
+      "page": 7,
+      "text": "A technician working for an airline was involved in a situation that required a repair or replacement of a fuselage ice shield. The computer inventory indicated that a replacement part was in stock, so the technician removed the damaged component. It was then found that the replacement part was not actually in stock. At this point, a crucial decision was to be made: Can the damaged item be reinstalled? The steps in properly documenting a maintenance event are to record the removal of the damaged part, then document the installation of an airworthy part. Once the technician has committed to removing the damaged part, it becomes unairworthy and cannot be reinstalled regardless of its deferability in the minimum equipment list (MEL)."
+    },
+    {
+      "id": "e142",
+      "type": "paragraph",
+      "page": 7,
+      "text": "The damaged part was removed, and the technician prepared the surface for the replacement part."
+    },
+    {
+      "id": "e143",
+      "type": "paragraph",
+      "page": 7,
+      "text": "The new part was ordered from inventory, but the part was not in stock (inventory error)."
+    },
+    {
+      "id": "e144",
+      "type": "paragraph",
+      "page": 7,
+      "text": "The inspector instructed the technician to reinstall the old one."
+    },
+    {
+      "id": "e145",
+      "type": "paragraph",
+      "page": 7,
+      "text": "The technician refused."
+    },
+    {
+      "id": "e146",
+      "type": "paragraph",
+      "page": 7,
+      "text": "The inspector instructed the technician to repair it."
+    },
+    {
+      "id": "e147",
+      "type": "paragraph",
+      "page": 7,
+      "text": "The technician researched the structural repair manual (SRM) and found that the facility did not have the proper facility authorization to repair the damaged part."
+    },
+    {
+      "id": "e148",
+      "type": "paragraph",
+      "page": 7,
+      "text": "The company inspector told the technician to apply 5-minute epoxy to the area, sand it down, and paint it."
+    },
+    {
+      "id": "e149",
+      "type": "paragraph",
+      "page": 7,
+      "text": "The technician walked away."
+    },
+    {
+      "id": "e150",
+      "type": "paragraph",
+      "page": 7,
+      "text": "The company inspector found someone else to compromise standards. The aircraft departed on time-illegally and unairworthy."
+    },
+    {
+      "id": "e151",
+      "type": "paragraph",
+      "page": 7,
+      "text": "This happens more often than one would like, is probably overlooked by many people, and, unfortunately, might be considered standard operating procedure (SOP) for some maintenance facilities. It is the responsibility of the mechanic to follow regulations and to question the actions of his or her supervisors if the policy is circumvented to make an on-time departure."
+    },
+    {
+      "id": "e152",
+      "type": "paragraph",
+      "page": 7,
+      "text": "This incident provides some valuable insights into how dayto-day events can lead to pressure to produce and ultimately compromise the decision-making."
+    },
+    {
+      "id": "e153",
+      "type": "paragraph",
+      "page": 7,
+      "text": "The incident occurred while working for a commercial airline. The pressure for getting the aircraft in the air is tremendous in this environment."
+    },
+    {
+      "id": "e154",
+      "type": "paragraph",
+      "page": 7,
+      "text": "Inventory error added to the pressure. The damaged part had been removed because the technician had queried and believed a replacement part was immediately available."
+    },
+    {
+      "id": "e155",
+      "type": "page_footer",
+      "page": 7,
+      "text": "13-7"
+    },
+    {
+      "id": "e156",
+      "type": "paragraph",
+      "page": 8,
+      "text": "The company inspector was either unaware of regulatory requirements or simply did not care."
+    },
+    {
+      "id": "e157",
+      "type": "paragraph",
+      "page": 8,
+      "text": "The second technician was either unaware of regulatory requirements or simply did not care."
+    },
+    {
+      "id": "e158",
+      "type": "heading",
+      "page": 8,
+      "text": "Final Observation",
+      "level": 2
+    },
+    {
+      "id": "e159",
+      "type": "paragraph",
+      "page": 8,
+      "text": "The underlying company culture was apparently lacking concern for ethical decisions and regulatory compliance. An effective organizational culture should always encourage ethical behavior and discourage unethical behavior. This means that not only does the upper management of an organization say that they conduct themselves ethically, they must do it consistently; employees, customers, vendors, and even competitors should know this company has \"high ethical standards.\""
+    },
+    {
+      "id": "e160",
+      "type": "paragraph",
+      "page": 8,
+      "text": "This latter issue may sometimes have painful consequences, if the businesses are competing for a customer's business. The ethical company may estimate the maintenance activities to take 8 weeks and quotes that time frame to the customer. The unethical company may also know the work takes 8 weeks, but tells the customer only 6 weeks, hoping to get the job. Once the plane is \"captured\" and maintenance has begun, explanations and excuses extend the original time estimate of 6 weeks to the actual 8 weeks or longer. Although the customer would be disappointed in this situation, few customers would be able to remove an aircraft undergoing maintenance. This \"bait and switch\" tactic is often used by unscrupulous companies to get an aircraft into their shop no matter what it takes. Although the shop's retention of clients is frequently very low, there always seem to be new ones willing to accept a shorter-than-normal turnaround time quote. Often these same shops underbid the job, and then continually add extra costs as the work progresses. The technician is encouraged to avoid employment at maintenance facilities that do not think twice about trying to deceive the customer."
+    },
+    {
+      "id": "e161",
+      "type": "paragraph",
+      "page": 8,
+      "text": "Since companies are usually in business to make money, the \"bottom line\" mentality frequently drives management and, ultimately, technician decisions. But short-term, quick-fix solutions that focus only on immediate financial success promote the idea that everything boils down to monetary gain. Ethical behavior is not about monetary gain."
+    },
+    {
+      "id": "e162",
+      "type": "paragraph",
+      "page": 8,
+      "text": "In addition to monetary gain, there are other common ways that unethical behavior is rationalized:"
+    },
+    {
+      "id": "e163",
+      "type": "paragraph",
+      "page": 8,
+      "text": "Pretending that the behavior is not unethical or illegal."
+    },
+    {
+      "id": "e164",
+      "type": "paragraph",
+      "page": 8,
+      "text": "Excusing the behavior by saying it is really in the organization's (or the technician's) best interest."
+    },
+    {
+      "id": "e165",
+      "type": "paragraph",
+      "page": 8,
+      "text": "Assuming the behavior is okay, because no one else would even be expected to find out about it."
+    },
+    {
+      "id": "e166",
+      "type": "paragraph",
+      "page": 8,
+      "text": "Expecting your superiors to support and protect you if anything should go wrong (Gellerman 1986)."
+    },
+    {
+      "id": "e167",
+      "type": "paragraph",
+      "page": 8,
+      "text": "This latter point often leads to a significant surprise for the individual technician if he or she compromised his or her standards at the encouragement of management to get the job done. Should there be a problem with maintenance and subsequent airworthiness of the aircraft, the very same managers or superiors who directed that technician to shortcut proper maintenance procedures would testify in court that they always encouraged their employees to work \"by the book\" and never encouraged unauthorized shortcuts."
+    },
+    {
+      "id": "e168",
+      "type": "paragraph",
+      "page": 8,
+      "text": "Ultimately, every organization establishes a climate or culture regarding honesty, integrity, and ethical behavior. This corporate climate sets the tone for decision making at all levels and in all circumstances. This leads to the second business example, the Aircraft Brake Scandal. Although this incident occurred at the B.F. Goodrich Wheel and Brake Plant in Troy, Ohio, and is therefore focused on the design, manufacture, and test of wheels and brakes for the U.S. Air Force A-7D, it is a classic case of both personal ethics and \"whistle blowing.\" A brief review of the pertinent facts in the incident follows."
+    },
+    {
+      "id": "e169",
+      "type": "paragraph",
+      "page": 8,
+      "text": "A young engineering technician is in charge of conducting the required qualification testing for a newly designed brake and rotor system awarded to the B.F. Goodrich Co. by L.T.V. Aerospace. An aggressive time schedule and an upper management mindset of not wanting to hear bad news (i.e., the brakes are failing test), a senior engineer who is not willing to have his computations challenged, and a project manager who states the brake will be qualified \"no matter what,\" ultimately lead to a congressional oversight hearing in 1969. Along the way, the brake system is tested (and fails 14 times), no one wants to write the required test report, low level employees seek legal advice, and the aircraft suffers serious damage during landing while conducting initial flight testing due to unsatisfactory braking. (The reader is encouraged to look up this now famous case on the Internet to obtain more details.)"
+    },
+    {
+      "id": "e170",
+      "type": "paragraph",
+      "page": 8,
+      "text": "Some of the ethical conflicts that are evident in this situation are:"
+    },
+    {
+      "id": "e171",
+      "type": "paragraph",
+      "page": 8,
+      "text": "Young engineer (newly hired) feels intimidated by senior level engineer."
+    },
+    {
+      "id": "e172",
+      "type": "paragraph",
+      "page": 8,
+      "text": "Early brake failure during development testing is excused away because \"they are not representative of the final design.\""
+    },
+    {
+      "id": "e173",
+      "type": "page_footer",
+      "page": 8,
+      "text": "13-8"
+    },
+    {
+      "id": "e174",
+      "type": "paragraph",
+      "page": 9,
+      "text": "A company culture of intimidation and distrust."
+    },
+    {
+      "id": "e175",
+      "type": "paragraph",
+      "page": 9,
+      "text": "Most of these conflicts could have easily occurred in the maintenance realm if the specifics are broadened, even a little."
+    },
+    {
+      "id": "e176",
+      "type": "paragraph",
+      "page": 9,
+      "text": "Change the word \"engineer\" to \"maintenance technician.\""
+    },
+    {
+      "id": "e177",
+      "type": "paragraph",
+      "page": 9,
+      "text": "Instead of brake failure during development testing, think of component test failure (with the shop norm of \"we don't follow the manual on this step; we have developed our own (unauthorized) procedure here.\")"
+    },
+    {
+      "id": "e178",
+      "type": "paragraph",
+      "page": 9,
+      "text": "The existence of a company culture of intimidation and distrust transcends all lines of business."
+    },
+    {
+      "id": "e179",
+      "type": "paragraph",
+      "page": 9,
+      "text": "For a company to nurture a healthy ethical climate and longterm success, the element of trust is fundamental both inside and outside the organization. This trust boosts employee morale and usually boosts productivity and, therefore, profitability. It also aids and enhances long-term business relationships with customers and vendors."
+    },
+    {
+      "id": "e180",
+      "type": "paragraph",
+      "page": 9,
+      "text": "When differences of opinion do exist, ethical organizations pay close attention to those who are dissenting. Those companies that are committed to promoting an ethical climate encourage rather than punish dialogue and debate about policies and practices."
+    },
+    {
+      "id": "e181",
+      "type": "paragraph",
+      "page": 9,
+      "text": "It is encouraging to note that more and more institutions of learning, whether business schools or technical colleges, are adding ethics courses into their required curriculum. More and more organizations are developing a corporate \"code of ethics.\" Some are using the following seven-step checklist to help employees deal with an ethical decision:"
+    },
+    {
+      "id": "e182",
+      "type": "paragraph",
+      "page": 9,
+      "text": "Recognize and clarify the dilemma."
+    },
+    {
+      "id": "e183",
+      "type": "paragraph",
+      "page": 9,
+      "text": "Get all the possible facts."
+    },
+    {
+      "id": "e184",
+      "type": "paragraph",
+      "page": 9,
+      "text": "List options-all of them."
+    },
+    {
+      "id": "e185",
+      "type": "paragraph",
+      "page": 9,
+      "text": "Test each option by asking such questions as:"
+    },
+    {
+      "id": "e186",
+      "type": "paragraph",
+      "page": 9,
+      "text": "-Is it legal?"
+    },
+    {
+      "id": "e187",
+      "type": "paragraph",
+      "page": 9,
+      "text": "-Is it right?"
+    },
+    {
+      "id": "e188",
+      "type": "paragraph",
+      "page": 9,
+      "text": "-Is it beneficial?"
+    },
+    {
+      "id": "e189",
+      "type": "paragraph",
+      "page": 9,
+      "text": "Make your decision."
+    },
+    {
+      "id": "e190",
+      "type": "paragraph",
+      "page": 9,
+      "text": "Double check your decision by asking:"
+    },
+    {
+      "id": "e191",
+      "type": "paragraph",
+      "page": 9,
+      "text": "-How would I feel if my family found out about this?"
+    },
+    {
+      "id": "e192",
+      "type": "paragraph",
+      "page": 9,
+      "text": "-How would I feel if my decision is printed in the local newspaper?"
+    },
+    {
+      "id": "e193",
+      "type": "paragraph",
+      "page": 9,
+      "text": "Take action (Schermerhorn 1989)."
+    },
+    {
+      "id": "e194",
+      "type": "paragraph",
+      "page": 9,
+      "text": "Finally, the technician is encouraged to read the following code of ethics developed by Professional Aviation Maintenance Association (PAMA), Inc. and consider adopting it as their own."
+    },
+    {
+      "id": "e195",
+      "type": "paragraph",
+      "page": 9,
+      "text": "\"As a certified technician, my performance is a public service and, as such, I have a responsibility to the United States Government and its citizens. I must ensure that all citizens have confidence in my integrity, and that I will perform my work according to the highest principles of ethical conduct. Therefore, I swear that I shall hold in sacred trust the rights and privileges conferred upon me as a certified technician. The safety and lives of others are dependent on my skill and judgment; therefore, I shall never knowingly subject others to risks which I would not be willing to assume for myself or those who are dear to me.\""
+    },
+    {
+      "id": "e196",
+      "type": "paragraph",
+      "page": 9,
+      "text": "\"As a certified technician, I am aware that it is not possible to have knowledge and skill in every aspect of aviation maintenance for every airplane, so I pledge that I will never undertake work or approve work which I believe to be beyond the limits of my knowledge. I shall not allow any superior to persuade me to approve aircraft or equipment as airworthy when there is doubt in my mind as to the validity of my action. Under no circumstances will I permit the offer of money or other personal favors to influence me to act contrary to my best judgment, nor to pass as airworthy aircraft or equipment about which I am in doubt.\""
+    },
+    {
+      "id": "e197",
+      "type": "paragraph",
+      "page": 9,
+      "text": "\"The responsibility that I have accepted as a certified technician demands that I exercise my judgment on the airworthiness of aircraft and equipment; therefore, I pledge unyielding adherence to these precepts for the advancement of aviation and for the dignity of my vocation.\""
+    },
+    {
+      "id": "e198",
+      "type": "page_footer",
+      "page": 9,
+      "text": "13-9"
+    },
+    {
+      "id": "e199",
+      "type": "page_footer",
+      "page": 10,
+      "text": "13-10"
+    }
+  ]
+}

@@ -1,41 +1,46 @@
-# Atlas Bikes: a knowledge assistant, one gap at a time
+# Aircraft maintenance assistant, with real models
 
-Reference code for the series *Building Reliable AI Over Company Knowledge*.
+The assistant from the series *[Building Reliable AI Over Company Knowledge](https://lesfer.ma/academy/reliable-ai-company-knowledge)*, rebuilt on real components over real documents.
 
-Atlas Bikes is a fictional e-bike company. This repository builds an assistant over its documents, starting from naive RAG. Each article in the series closes one gap with one change, and each change is a tagged checkpoint here.
+The series builds its assistant for Atlas Bikes, a fictional company, with stand-in models, in the [companion repository](https://github.com/sazangg/lesfer-ma-atlas-bikes-rag). This repository builds it again for **Anfa Aero Services**, a fictional aircraft maintenance shop, over documents that are not fictional: 36 FAA airworthiness directives, four advisory circulars, a type certificate data sheet, four regulations, two handbook chapters, and a 1930 scan. The shop's own documents are fictional and written to fit the real ones: a fleet register, a procedures manual, a training deck, 197 work orders (three of them scanned paper), a logbook extract and an AD compliance record per aircraft, and a price list. 262 documents in all: 49 from the FAA and NACA, 213 from Anfa. See [corpus/README.md](corpus/README.md).
 
-**The system evolves to close a gap. It is not a destination.** Every checkpoint is a complete system for the questions it answers. If your users' questions stop at Part 5, Part 5 is your system. See [CHECKPOINTS.md](CHECKPOINTS.md) for what each one answers and what it still can't.
+It has one tagged checkpoint per part, like the companion repository, and records at each one what the real system measured. See [CHECKPOINTS.md](CHECKPOINTS.md).
 
-## Run it
+| Part | Article | Tag |
+| --- | --- | --- |
+| 1 | How an AI assistant answers from company documents | `part-01` |
+| 2–14 | | coming |
 
-Python 3.11+, no dependencies.
+## Run it without a key
 
-```bash
-python -m atlas ask "What battery warranty applies to a C-3 bought on 15 March 2026?"
-python -m atlas ask "What does error E-417 mean?" --show-prompt
-```
-
-Move between checkpoints with git:
+Every model response is recorded in `fixtures/`, so each checkpoint runs offline, free, and gives the same result every time. You need [uv](https://docs.astral.sh/uv/) and Docker.
 
 ```bash
-git checkout part-03
-git diff part-02 part-03
+cp .env.example .env          # ANFA_MODE=replay by default
+docker compose up -d --wait   # Postgres with pgvector and BM25
+uv run python -m anfa ingest
+uv run python -m anfa ask "What must a maintenance record entry contain?"
 ```
 
-## Offline by default
+## Run it live
 
-The documents in `corpus/parsed/` are the output of a document parser for PDFs, a scanned assembly guide, a training slide deck, a web page, and Word files. They ship instead of the originals so nothing needs installing. See [corpus/README.md](corpus/README.md).
+Set `OPENROUTER_API_KEY` in `.env` and `ANFA_MODE=live`. The default models are free on OpenRouter; OpenRouter allows 50 requests a day to them (1,000 once an account has bought 10 credits, which free models don't spend), and ingesting the corpus takes 34. The code calls only models whose name ends in `:free`. Free endpoints may keep what you send: fine for public FAA documents and a fictional company, not for real company documents. With `ANFA_MODE=record`, responses are saved to `fixtures/`.
 
-The model-backed parts sit behind small interfaces in `atlas/providers.py`. The defaults in `atlas/toy.py` are deterministic stand-ins, so every example runs without an API key and gives the same result each time:
+A changed question, prompt, or model misses its recorded response, so replay mode stops with a message instead of answering something else.
 
-- The **toy embedder** maps words to a tiny set of concepts. It stands in for what a trained embedding model learns, and it deliberately ignores tokens containing digits, exaggerating a real weakness of dense retrieval with identifiers like `E-417`.
-- The **toy generator** doesn't write prose. It repeats the first sentence of each supplied source with its label, so you can see exactly what a real model would receive.
-
-Implement the same methods to plug in a real parser, embedding model, or LLM. The checks inspect evidence, not prose, so they stay meaningful with the toys.
-
-## Layout
+## What's in here
 
 ```
-corpus/        parser output for the Atlas documents, plus figures
-atlas/         the assistant
+corpus/source/faa/    the FAA documents, unchanged (SOURCES.md says where each comes from)
+corpus/source/anfa/   the fictional company's documents, built by scripts/build_anfa.py
+corpus/parsed/        the parser's output, committed so you don't need Docling installed
+scripts/              build_anfa.py and anfa_history.py (the company's documents), parse_sources.py (Docling), excerpt_pdf.py
+fixtures/             recorded model responses
+anfa/                 the assistant
 ```
+
+To rebuild the company documents or the parse: `uv run --group corpus python scripts/build_anfa.py` and `uv run --group parse python scripts/parse_sources.py` (Docling downloads its models on first use; the full parse takes about an hour on a CPU).
+
+## License
+
+The code and the Anfa Aero Services documents: MIT, see [LICENSE](LICENSE). The FAA and NACA documents are US government works.

@@ -1,0 +1,362 @@
+{
+  "source_id": "FLEET-2026-10",
+  "file": "anfa/fleet-register-2026-10.xlsx",
+  "format": "xlsx",
+  "parser": "docling",
+  "meta": {
+    "publisher": "Anfa Aero Services",
+    "title": "Tadla Flight Academy fleet register, 26 October 2026",
+    "doc_type": "fleet register",
+    "as_of": "2026-10-26",
+    "access": "staff"
+  },
+  "elements": [
+    {
+      "id": "e1",
+      "type": "table",
+      "header": [
+        "Registration",
+        "Model",
+        "Serial number",
+        "Year",
+        "Airframe total time (h)",
+        "Engine",
+        "Engine serial number",
+        "Engine time since overhaul (h)",
+        "Base",
+        "Notes"
+      ],
+      "rows": [
+        [
+          "CN-TFA",
+          "172S",
+          "172S9488",
+          "2003",
+          "10140.6",
+          "Lycoming IO-360-L2A",
+          "L-31456-51A",
+          "1640.6",
+          "Casablanca",
+          "Cessna SB04-28-03 and fuel return kit MK172-28-01 incorporated in 2005."
+        ],
+        [
+          "CN-TFB",
+          "172S",
+          "172S10237",
+          "2006",
+          "8455.1",
+          "Lycoming IO-360-L2A",
+          "L-33872-51A",
+          "455.1",
+          "Casablanca",
+          ""
+        ],
+        [
+          "CN-TFC",
+          "172S",
+          "172S11290",
+          "2013",
+          "6210.3",
+          "Lycoming IO-360-L2A",
+          "L-37115-51A",
+          "2210.3",
+          "Beni Mellal",
+          ""
+        ],
+        [
+          "CN-TFD",
+          "172R",
+          "17281201",
+          "2003",
+          "11870.4",
+          "Lycoming IO-360-L2A",
+          "L-31377-51A",
+          "1370.4",
+          "Casablanca",
+          ""
+        ],
+        [
+          "CN-TFE",
+          "172R",
+          "17280744",
+          "1999",
+          "13520.8",
+          "Lycoming IO-360-L2A",
+          "L-28940-51A",
+          "1120.8",
+          "Casablanca",
+          ""
+        ],
+        [
+          "CN-TFF",
+          "172S",
+          "172S11845",
+          "2017",
+          "3980",
+          "Lycoming IO-360-L2A",
+          "L-39552-51A",
+          "3980",
+          "Beni Mellal",
+          ""
+        ],
+        [
+          "CN-TFG",
+          "172N",
+          "17272851",
+          "1978",
+          "14960.2",
+          "Technify (Thielert) TAE 125-02-99",
+          "02-02-1173",
+          "610.2",
+          "Beni Mellal",
+          "Converted from Lycoming O-320-H2AD under STC SA01303WI in 2011."
+        ]
+      ],
+      "page": 1
+    },
+    {
+      "id": "e2",
+      "type": "table",
+      "header": [
+        "Registration",
+        "Item",
+        "Manufacturer",
+        "Model / part number",
+        "Serial number",
+        "Software",
+        "Installed",
+        "Notes"
+      ],
+      "rows": [
+        [
+          "CN-TFA",
+          "Transponder",
+          "Garmin",
+          "GTX 330",
+          "77412093",
+          "3.06",
+          "2003",
+          "Software upgraded from 3.04 in March 2005."
+        ],
+        [
+          "CN-TFA",
+          "Muffler",
+          "Aerospace Welding Minneapolis (AWI)",
+          "A1754001-25",
+          "39274",
+          "",
+          "2018-03-12",
+          "Replaced S/N 34640 under AD 2018-02-04."
+        ],
+        [
+          "CN-TFB",
+          "Integrated flight deck",
+          "Garmin",
+          "G1000",
+          "",
+          "",
+          "2006",
+          "Factory installed."
+        ],
+        [
+          "CN-TFC",
+          "Integrated flight deck",
+          "Garmin",
+          "G1000",
+          "",
+          "",
+          "2013",
+          "Factory installed."
+        ],
+        [
+          "CN-TFC",
+          "Muffler",
+          "Aerospace Welding Minneapolis (AWI)",
+          "A1754001-23",
+          "34729",
+          "",
+          "2019-09-02",
+          ""
+        ],
+        [
+          "CN-TFD",
+          "Transponder",
+          "Garmin",
+          "GTX 330",
+          "77418811",
+          "3.06",
+          "2003",
+          ""
+        ],
+        [
+          "CN-TFD",
+          "Autopilot",
+          "Bendix/King",
+          "KAP 140, P/N 065-00176-7702",
+          "",
+          "",
+          "2003",
+          "Factory installed."
+        ],
+        [
+          "CN-TFE",
+          "Autopilot",
+          "Bendix/King",
+          "KAP 140, P/N 065-00176-5402",
+          "",
+          "SW MOD 03/01",
+          "1999",
+          "Factory installed. Software updated under AD 2004-15-18 in 2004 (M decal)."
+        ],
+        [
+          "CN-TFE",
+          "Primary flight display",
+          "Aspen Avionics",
+          "EFD1000 PFD, P/N 910-00001-011",
+          "EP0141287",
+          "2.10.1",
+          "2019-05-20",
+          "Standby airspeed indicator and altimeter retained; standby attitude indicator removed at installation."
+        ],
+        [
+          "CN-TFF",
+          "Integrated flight deck",
+          "Garmin",
+          "G1000 NXi",
+          "",
+          "",
+          "2017",
+          "Factory installed."
+        ],
+        [
+          "CN-TFF",
+          "Muffler",
+          "Aerospace Welding Minneapolis (AWI)",
+          "A1754001-25",
+          "38190",
+          "",
+          "2017",
+          "Factory installed."
+        ],
+        [
+          "CN-TFG",
+          "Engine",
+          "Technify (Thielert)",
+          "TAE 125-02-99",
+          "02-02-1173",
+          "",
+          "2011-03-15",
+          "STC SA01303WI."
+        ],
+        [
+          "CN-TFG",
+          "Transponder",
+          "Garmin",
+          "GTX 330",
+          "77420156",
+          "3.06",
+          "2011-03-15",
+          ""
+        ]
+      ],
+      "page": 2
+    },
+    {
+      "id": "e3",
+      "type": "table",
+      "header": [
+        "Registration",
+        "Part",
+        "Part number",
+        "Serial number",
+        "Installed (date)",
+        "Airframe hours at installation",
+        "Limit",
+        "Source of limit"
+      ],
+      "rows": [
+        [
+          "CN-TFA",
+          "Engine oil pressure switch",
+          "83278",
+          "",
+          "2024-02-14",
+          "7210.4",
+          "3,000 h",
+          "AD 2013-11-11"
+        ],
+        [
+          "CN-TFB",
+          "Engine oil pressure switch",
+          "83278",
+          "",
+          "2023-05-09",
+          "5880",
+          "3,000 h",
+          "AD 2013-11-11"
+        ],
+        [
+          "CN-TFC",
+          "Engine oil pressure switch",
+          "83278",
+          "",
+          "2022-11-21",
+          "3350.7",
+          "3,000 h",
+          "Procedures manual 3.2"
+        ],
+        [
+          "CN-TFD",
+          "Engine oil pressure switch",
+          "83278",
+          "",
+          "2025-03-03",
+          "9940.2",
+          "3,000 h",
+          "AD 2013-11-11"
+        ],
+        [
+          "CN-TFE",
+          "Engine oil pressure switch",
+          "83278",
+          "",
+          "2021-08-30",
+          "10560.2",
+          "3,000 h",
+          "AD 2013-11-11"
+        ],
+        [
+          "CN-TFF",
+          "Engine oil pressure switch",
+          "83278",
+          "",
+          "2022-07-18",
+          "2410.5",
+          "3,000 h",
+          "Procedures manual 3.2"
+        ],
+        [
+          "CN-TFA",
+          "ELT battery",
+          "452-6505",
+          "",
+          "2021-01-19",
+          "4755.3",
+          "6 years",
+          "ELT manufacturer"
+        ],
+        [
+          "CN-TFE",
+          "ELT battery",
+          "452-6505",
+          "",
+          "2020-11-25",
+          "9810",
+          "6 years",
+          "ELT manufacturer"
+        ]
+      ],
+      "page": 3
+    }
+  ]
+}

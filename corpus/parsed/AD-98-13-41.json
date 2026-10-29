@@ -1,0 +1,827 @@
+{
+  "source_id": "AD-98-13-41",
+  "file": "faa/ad/ad-98-13-41.pdf",
+  "format": "pdf",
+  "parser": "docling",
+  "meta": {
+    "title": "AD 98-13-41: Cessna Aircraft Company Model 172R Airplanes",
+    "publisher": "FAA",
+    "doc_type": "airworthiness directive",
+    "ad_number": "98-13-41",
+    "action": "Final rule; request for comments",
+    "published": "1998-06-26",
+    "effective": "1998-07-20",
+    "federal_register": "63 FR 34800 (document 98-17020)",
+    "access": "employees"
+  },
+  "elements": [
+    {
+      "id": "e1",
+      "type": "page_header",
+      "page": 1,
+      "text": "34800",
+      "ocr_confidence": 0.98
+    },
+    {
+      "id": "e2",
+      "type": "page_header",
+      "page": 1,
+      "text": "Federal Register /Vol. 63, No. 123 /Friday, June 26, 1998 /Rules and Regulations",
+      "ocr_confidence": 0.98
+    },
+    {
+      "id": "e3",
+      "type": "paragraph",
+      "page": 1,
+      "text": "requirements of this AD is affected, the owner/operator must use the authority provided in paragraph (d) to request approval from the FAA. This approval may address either no action, if the current configuration eliminates the unsafe condition, or different actions necessary to address the unsafe condition described in this AD. Such a request should include an assessment of the effect of the changed configuration on the unsafe condition addressed by this AD. In no case does the presence of any modification, alteration, or repair remove any helicopter from the applicability of this AD.",
+      "ocr_confidence": 0.98
+    },
+    {
+      "id": "e4",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Compliance: Required before further flight, unless accomplished previously.",
+      "ocr_confidence": 0.98
+    },
+    {
+      "id": "e5",
+      "type": "paragraph",
+      "page": 1,
+      "text": "To prevent loss of the tip fairing on the blade, which could result in increased vibrations, loss of the tail rotor assembly, and subsequent loss of control of the helicopter, accomplish the following:",
+      "ocr_confidence": 0.98
+    },
+    {
+      "id": "e6",
+      "type": "paragraph",
+      "page": 1,
+      "text": "(a) Perform a one-time inspection of each tail rotor blade for debonds. The area to be",
+      "ocr_confidence": 0.98
+    },
+    {
+      "id": "e7",
+      "type": "paragraph",
+      "page": 1,
+      "text": "inspected is located in a spanwise band from 620.0 mm to 670.0 mm (24.4 to 26.4 inches), as measured outboard from the blade retention bolt centerline. Inspect the entire blade surface on both sides of each blade within this band (see Figure 1).",
+      "ocr_confidence": 0.98
+    },
+    {
+      "id": "e8",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Note 2: Agusta Bollettino Tecnico (Technical Bulletin) Number 109K-15, Revision A, dated April 18, 1997, pertains to the subject of this AD.",
+      "ocr_confidence": 0.98
+    },
+    {
+      "id": "e9",
+      "type": "figure",
+      "page": 1,
+      "caption": "1",
+      "image": "figures/AD-98-13-41-fig1.png",
+      "ocr_confidence": 0.98
+    },
+    {
+      "id": "e10",
+      "type": "paragraph",
+      "page": 1,
+      "text": "(e) Special flight permits may be issued in accordance with sections 21.197 and 21.199 of the Federal Aviation Regulations (14 CFR 21.197 and 21.199) to operate the helicopter to a location where the requirements of this AD can be accomplished.",
+      "ocr_confidence": 0.98
+    },
+    {
+      "id": "e11",
+      "type": "paragraph",
+      "page": 1,
+      "text": "(f) This amendment becomes effective on July 13, 1998.",
+      "ocr_confidence": 0.98
+    },
+    {
+      "id": "e12",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Note 4: The subject of this AD is addressed in Registro Aeronautico Italiano (Italy) AD 97-124 and AD 97-125, both dated April 30, 1997.",
+      "ocr_confidence": 0.98
+    },
+    {
+      "id": "e13",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Issued in Fort Worth, Texas, on June 15, 1998.",
+      "ocr_confidence": 0.98
+    },
+    {
+      "id": "e14",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Eric Bries,",
+      "ocr_confidence": 0.98
+    },
+    {
+      "id": "e15",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Acting Manager, Rotorcraft Directorate, Aircraft Certification Service.",
+      "ocr_confidence": 0.98
+    },
+    {
+      "id": "e16",
+      "type": "paragraph",
+      "page": 1,
+      "text": "[FR Doc. 98-16612 Filed 6-25-98; 8:45 am]",
+      "ocr_confidence": 0.98
+    },
+    {
+      "id": "e17",
+      "type": "paragraph",
+      "page": 1,
+      "text": "BILLING CODE 4910-13-U",
+      "ocr_confidence": 0.98
+    },
+    {
+      "id": "e18",
+      "type": "paragraph",
+      "page": 1,
+      "text": "(b) Perform a tapping inspection to detect debonds within the blade surface area identified in paragraph (a) of this AD, using an aluminum hammer, P/N 109-3101-58-2, or equivalent. The presence of paint cracks on the tail rotor blade upper or lower surface in the tip fairing area at the 670.0 mm spanwise location (see Figure 1) may indicate that debonds exist.",
+      "ocr_confidence": 0.98
+    },
+    {
+      "id": "e19",
+      "type": "paragraph",
+      "page": 1,
+      "text": "(c) Any blade that does not meet the allowable debond criteria specified in the applicable maintenance manual must be replaced with an airworthy blade before further flight.",
+      "ocr_confidence": 0.98
+    },
+    {
+      "id": "e20",
+      "type": "paragraph",
+      "page": 1,
+      "text": "(d) An alternative method of compliance or adjustment of the compliance time that provides an acceptable level of safety may be used if approved by the Manager, FAA, Rotorcraft Directorate, Rotorcraft Standards Staff. Operators shall submit their requests through an FAA Principal Maintenance Inspector, who may concur or comment and then send it to the Manager, Rotorcraft Standards Staff.",
+      "ocr_confidence": 0.98
+    },
+    {
+      "id": "e21",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Note 3: Information concerning the existence of approved alternative methods of compliance with this AD, if any, may be obtained from the Rotorcraft Standards Staff.",
+      "ocr_confidence": 0.98
+    },
+    {
+      "id": "e22",
+      "type": "heading",
+      "page": 1,
+      "text": "DEPARTMENT OF TRANSPORTATION",
+      "level": 2,
+      "ocr_confidence": 0.98
+    },
+    {
+      "id": "e23",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Federal Aviation Administration",
+      "ocr_confidence": 0.98
+    },
+    {
+      "id": "e24",
+      "type": "paragraph",
+      "page": 1,
+      "text": "14 CFR Part 39",
+      "ocr_confidence": 0.98
+    },
+    {
+      "id": "e25",
+      "type": "paragraph",
+      "page": 1,
+      "text": "[Docket No. 98-CE-60-AD; Amendment 3910634; AD 98-13-41]",
+      "ocr_confidence": 0.98
+    },
+    {
+      "id": "e26",
+      "type": "paragraph",
+      "page": 1,
+      "text": "RIN 2120-AA64",
+      "ocr_confidence": 0.98
+    },
+    {
+      "id": "e27",
+      "type": "heading",
+      "page": 1,
+      "text": "Airworthiness Directives; Cessna Aircraft Company Model 172R Airplanes",
+      "level": 2,
+      "ocr_confidence": 0.98
+    },
+    {
+      "id": "e28",
+      "type": "paragraph",
+      "page": 1,
+      "text": "AGENCY: Federal Aviation Administration, DOT.",
+      "ocr_confidence": 0.98
+    },
+    {
+      "id": "e29",
+      "type": "paragraph",
+      "page": 1,
+      "text": "ACTION: Final rule; request for comments.",
+      "ocr_confidence": 0.98
+    },
+    {
+      "id": "e30",
+      "type": "paragraph",
+      "page": 1,
+      "text": "SUMMARY: This amendment adopts a new airworthiness directive (AD) that applies to certain Cessna Aircraft Company (Cessna) Model 172R airplanes. This action requires: inspecting for incorrectly routed aileron control cables in the center console area; inspecting for incorrectly routed aileron control cables in the right-hand (RH)",
+      "ocr_confidence": 0.98
+    },
+    {
+      "id": "e31",
+      "type": "page_header",
+      "page": 2,
+      "text": "Federal Register /Vol. 63, No. 123 /Friday, June 26, 1998 /Rules and Regulations"
+    },
+    {
+      "id": "e32",
+      "type": "page_header",
+      "page": 2,
+      "text": "34801"
+    },
+    {
+      "id": "e33",
+      "type": "paragraph",
+      "page": 2,
+      "text": "wing area; inspecting for a loose or improperly installed center lock clamp on the forward aileron control cable drum; and inspecting for loose or missing elevator trim actuator mounting screws, loose rudder circuit pulleys, missing rudder cable guard pins, incorrect elevator trim cable routing, aileron control cable clearance, and flight control cable tension or rigging outside specification. If any of the above conditions are found, this AD requires correcting, repairing, or replacing any damaged or missing part, and reporting any of the above conditions found to the Wichita Aircraft Certification Office. Notification by the manufacturer, service difficulty reports (SDR's), and an FAA surveillance audit at the manufacturing facility identifying potential deficiencies on the affected airplanes prompted the action. The actions specified by this AD are intended to prevent loss of aileron and elevator control, which could result in loss of directional control of the airplane."
+    },
+    {
+      "id": "e34",
+      "type": "paragraph",
+      "page": 2,
+      "text": "DATES: Effective July 20, 1998."
+    },
+    {
+      "id": "e35",
+      "type": "paragraph",
+      "page": 2,
+      "text": "The incorporation by reference of certain publications listed in the regulations is approved by the Director of the Federal Register as of July 20, 1998."
+    },
+    {
+      "id": "e36",
+      "type": "paragraph",
+      "page": 2,
+      "text": "Comments for inclusion in the Rules Docket must be received on or before August 18, 1998."
+    },
+    {
+      "id": "e37",
+      "type": "paragraph",
+      "page": 2,
+      "text": "ADDRESSES: Submit comments in triplicate to the Federal Aviation Administration (FAA), Central Region, Office of the Regional Counsel, Attention: Rules Docket No. 98-CE-60AD, Room 1558, 601 E. 12th Street, Kansas City, Missouri 64106."
+    },
+    {
+      "id": "e38",
+      "type": "paragraph",
+      "page": 2,
+      "text": "Service information that applies to this AD may be obtained from The Cessna Aircraft Company, P.O. Box 7706, Wichita, Kansas 67277, telephone: (316) 941-7550, facsimile: (316) 9429008. This information may also be examined at the Federal Aviation Administration (FAA), Central Region, Office of the Regional Counsel, Attention: Rules Docket No. 98-CE-60AD, Room 1558, 601 E. 12th Street, Kansas City, Missouri 64106; or at the Office of the Federal Register, 800 North Capitol Street, NW., suite 700, Washington, DC."
+    },
+    {
+      "id": "e39",
+      "type": "paragraph",
+      "page": 2,
+      "text": "FOR FURTHER INFORMATION CONTACT: Mr. Joel M. Ligon, Aerospace Engineer, FAA, Wichita Aircraft Certification Office, 1801 Airport Road, Rm. 100, Mid-Continent Airport, Wichita, Kansas, 67209, telephone: (316) 946-4138; facsimile: (316) 946-4407."
+    },
+    {
+      "id": "e40",
+      "type": "paragraph",
+      "page": 2,
+      "text": "SUPPLEMENTARY INFORMATION:"
+    },
+    {
+      "id": "e41",
+      "type": "heading",
+      "page": 2,
+      "text": "Discussion",
+      "level": 2
+    },
+    {
+      "id": "e42",
+      "type": "paragraph",
+      "page": 2,
+      "text": "The FAA has recently been notified by Cessna Aircraft Company of a quality control problem in the aileron and elevator control systems on certain Cessna Model 172R airplanes. In addition to this disclosure, the FAA has received service difficulty reports (SDR's) from the field regarding aileron cable control malfunction. The FAA also completed a surveillance audit revealing airplanes having incorrectly routed aileron cables, mis-rigged aileron and elevator control cables, and missing parts in the aileron and elevator systems."
+    },
+    {
+      "id": "e43",
+      "type": "paragraph",
+      "page": 2,
+      "text": "Relevant Service Information"
+    },
+    {
+      "id": "e44",
+      "type": "paragraph",
+      "page": 2,
+      "text": "Cessna has issued the following service bulletins applicable to certain Cessna Model 172R airplanes:"
+    },
+    {
+      "id": "e45",
+      "type": "paragraph",
+      "page": 2,
+      "text": "-SB98-27-02, dated May 11, 1998, which specifies procedures for inspecting for incorrect routing of the aileron cable over the cable guard in the center console area, or fraying of the cable. If incorrect routing is found and the cable is frayed, the service bulletin specifies replacing the cable with a new cable. If incorrect routing is found, but no evidence of fraying is found, the service bulletin specifies re-routing the cable to its correct position;"
+    },
+    {
+      "id": "e46",
+      "type": "paragraph",
+      "page": 2,
+      "text": "-SB98-27-05, dated June 1, 1998, which specifies procedures for inspecting the aileron control cable in the right-hand (RH) wing for routing over an aileron autopilot actuator pulley instead of the aileron flight control pulley in the adjacent location and contains instructions to remove the aileron autopilot actuator pulley. If the aileron control cable is routed over the autopilot actuator pulley and the cable is frayed or damaged, replace the aileron control cable. If mis-routing is found, but no evidence of fraying is found, the service bulletin specifies re-routing the cable to its proper position;"
+    },
+    {
+      "id": "e47",
+      "type": "paragraph",
+      "page": 2,
+      "text": "-SB98-27-03, dated June 1, 1998, which specifies procedures for inspecting for a loose or incorrectly installed aileron control cable centering and retainer lock clamp on the forward aileron control cable drum. This condition can result in the primary aileron cable dislodging on the drum which could cause damage to the drum and/or partial or complete loss of aileron control. If this condition is found, repair or replace any damaged part; and, -SB98-27-06, dated June 15, 1998, which specifies procedures for inspecting for loose or missing elevator trim actuator mounting"
+    },
+    {
+      "id": "e48",
+      "type": "paragraph",
+      "page": 2,
+      "text": "screws, loose rudder circuit pulleys, missing rudder cable guard pins, incorrect routing of the elevator trim cable, incorrect aileron crossover cable clearance, and incorrect specifications of the flight control cable tension and rigging. If any of the above conditions are found, the service bulletin specifies repairing, replacing, or correcting the part that is damaged, out of alignment, or misrigged."
+    },
+    {
+      "id": "e49",
+      "type": "heading",
+      "page": 2,
+      "text": "The FAA's Determination",
+      "level": 2
+    },
+    {
+      "id": "e50",
+      "type": "paragraph",
+      "page": 2,
+      "text": "After examining the circumstances and reviewing all available information related to the incidents described above, including the relevant service information, the FAA has determined that AD action should be taken to prevent loss of aileron and elevator control, which could result in loss of directional control of the airplane."
+    },
+    {
+      "id": "e51",
+      "type": "paragraph",
+      "page": 2,
+      "text": "Explanation of the Provisions of the AD"
+    },
+    {
+      "id": "e52",
+      "type": "paragraph",
+      "page": 2,
+      "text": "Since an unsafe condition has been identified that is likely to exist or develop in other Cessna Model 172R airplanes of the same type design, this AD requires:"
+    },
+    {
+      "id": "e53",
+      "type": "paragraph",
+      "page": 2,
+      "text": "-Inspecting for incorrectly routed aileron control cable in the center console area;"
+    },
+    {
+      "id": "e54",
+      "type": "paragraph",
+      "page": 2,
+      "text": "-Inspecting for incorrectly routed aileron control cable in the right-hand (RH) wing area;"
+    },
+    {
+      "id": "e55",
+      "type": "paragraph",
+      "page": 2,
+      "text": "-Inspecting for a loose or incorrectly installed center lock clamp on the forward aileron control cable drum;"
+    },
+    {
+      "id": "e56",
+      "type": "paragraph",
+      "page": 2,
+      "text": "-Inspecting for loose or missing elevator trim actuator mounting screws, loose rudder circuit pulleys, missing rudder cable guard pins, improper elevator trim cable routing, aileron control cable clearance, and flight control cable tension rigging outside specification; and"
+    },
+    {
+      "id": "e57",
+      "type": "paragraph",
+      "page": 2,
+      "text": "-If any of the above conditions are found, this AD would require correcting the condition, repairing or replacing any damaged or missing part, and reporting any condition found to the Wichita Manufacturing Inspection Office."
+    },
+    {
+      "id": "e58",
+      "type": "paragraph",
+      "page": 2,
+      "text": "The inspections are to be done in accordance with the Accomplishment Instructions contained in Cessna Service Bulletins (SB) SB98-27-02, dated May 11, 1998, SB98-27-03, dated June 1, 1998, SB98-27-05, dated June 1, 1998, and SB98-27-06, dated June 15, 1998, whichever is applicable."
+    },
+    {
+      "id": "e59",
+      "type": "paragraph",
+      "page": 2,
+      "text": "Determination of the Effective Date of the AD"
+    },
+    {
+      "id": "e60",
+      "type": "paragraph",
+      "page": 2,
+      "text": "Since a situation exists that requires the immediate adoption of this regulation, it is found that notice and opportunity for public prior comment hereon are impracticable, and that good cause exists for making this amendment effective in less than 30 days."
+    },
+    {
+      "id": "e61",
+      "type": "page_header",
+      "page": 3,
+      "text": "34802"
+    },
+    {
+      "id": "e62",
+      "type": "page_header",
+      "page": 3,
+      "text": "Federal Register /Vol. 63, No. 123 /Friday, June 26, 1998 /Rules and Regulations"
+    },
+    {
+      "id": "e63",
+      "type": "heading",
+      "page": 3,
+      "text": "Comments Invited",
+      "level": 2
+    },
+    {
+      "id": "e64",
+      "type": "paragraph",
+      "page": 3,
+      "text": "Although this action is in the form of a final rule that involves requirements affecting immediate flight safety and, thus, was not preceded by notice and opportunity to comment, comments are invited on this rule. Interested persons are invited to comment on this rule by submitting such written data, views, or arguments as they may desire. Communications should identify the Rules Docket number and be submitted in triplicate to the address specified above. All communications received on or before the closing date for comments will be considered, and this rule may be amended in light of the comments received. Factual information that supports the commenter's ideas and suggestions is extremely helpful in evaluating the effectiveness of the AD action and determining whether additional rulemaking action would be needed."
+    },
+    {
+      "id": "e65",
+      "type": "paragraph",
+      "page": 3,
+      "text": "Comments are specifically invited on the overall regulatory, economic, environmental, and energy aspects of the rule that might suggest a need to modify the rule. All comments submitted will be available, both before and after the closing date for comments, in the Rules Docket for examination by interested persons. A report that summarizes each FAA-public contact concerned with the substance of this AD will be filed in the Rules Docket."
+    },
+    {
+      "id": "e66",
+      "type": "paragraph",
+      "page": 3,
+      "text": "Commenters wishing the FAA to acknowledge receipt of their comments submitted in response to this rule must submit a self-addressed, stamped postcard on which the following statement is made: ''Comments to Docket No. 98-CE-60-AD.'' The postcard will be date stamped and returned to the commenter."
+    },
+    {
+      "id": "e67",
+      "type": "heading",
+      "page": 3,
+      "text": "Regulatory Impact",
+      "level": 2
+    },
+    {
+      "id": "e68",
+      "type": "paragraph",
+      "page": 3,
+      "text": "The regulations adopted herein will not have substantial direct effects on the States, on the relationship between the national government and the States, or on the distribution of power and responsibilities among the various levels of government. Therefore, in accordance with Executive Order 12612, it is determined that this final rule does not have sufficient federalism implications to warrant the preparation of a Federalism Assessment."
+    },
+    {
+      "id": "e69",
+      "type": "paragraph",
+      "page": 3,
+      "text": "The FAA has determined that this regulation is an emergency regulation that must be issued immediately to correct an unsafe condition in aircraft, and is not a significant regulatory action under Executive Order 12866. It has been determined further that this action involves an emergency regulation under DOT Regulatory Policies and Procedures (44 FR 11034, February 26, 1979). If it is determined that this emergency regulation otherwise would be significant under DOT Regulatory Policies and Procedures, a final regulatory evaluation will be prepared and placed in the Rules Docket (otherwise, an evaluation is not required). A copy of it, if filed, may be obtained from the Rules Docket."
+    },
+    {
+      "id": "e70",
+      "type": "paragraph",
+      "page": 3,
+      "text": "List of Subjects in 14 CFR Part 39"
+    },
+    {
+      "id": "e71",
+      "type": "paragraph",
+      "page": 3,
+      "text": "Air transportation, Aircraft, Aviation safety, Incorporation by reference, Safety."
+    },
+    {
+      "id": "e72",
+      "type": "paragraph",
+      "page": 3,
+      "text": "Adoption of the Amendment"
+    },
+    {
+      "id": "e73",
+      "type": "paragraph",
+      "page": 3,
+      "text": "Accordingly, pursuant to the authority delegated to me by the Administrator, the Federal Aviation Administration amends part 39 of the Federal Aviation Regulations (14 CFR part 39) as follows:"
+    },
+    {
+      "id": "e74",
+      "type": "heading",
+      "page": 3,
+      "text": "PART 39-AIRWORTHINESS DIRECTIVES",
+      "level": 2
+    },
+    {
+      "id": "e75",
+      "type": "paragraph",
+      "page": 3,
+      "text": "The authority citation for part 39 continues to read as follows:"
+    },
+    {
+      "id": "e76",
+      "type": "paragraph",
+      "page": 3,
+      "text": "Authority: 49 U.S.C. 106(g), 40113, 44701."
+    },
+    {
+      "id": "e77",
+      "type": "heading",
+      "page": 3,
+      "text": "§39.13 [Amended]",
+      "level": 2
+    },
+    {
+      "id": "e78",
+      "type": "paragraph",
+      "page": 3,
+      "text": "Section 39.13 is amended by adding a new airworthiness directive (AD) to read as follows:"
+    },
+    {
+      "id": "e79",
+      "type": "paragraph",
+      "page": 3,
+      "text": "98-13-41 Cessna Aircraft Company: Amendment 39-10634; Docket No. 98CE-60-AD."
+    },
+    {
+      "id": "e80",
+      "type": "paragraph",
+      "page": 3,
+      "text": "Applicability: Model 172R airplanes with serial numbers 17280001 through 17280475 and 17280506, certificated in any category."
+    },
+    {
+      "id": "e81",
+      "type": "paragraph",
+      "page": 3,
+      "text": "Note 1: This AD applies to each airplane identified in the preceding applicability provision, regardless of whether it has been modified, altered, or repaired in the area subject to the requirements of this AD. For airplanes that have been modified, altered, or repaired so that the performance of the requirements of this AD is affected, the owner/operator must request approval for an alternative method of compliance in accordance with paragraph (g) of this AD. The request should include an assessment of the effect of the modification, alteration, or repair on the unsafe condition addressed by this AD; and, if the unsafe condition has not been eliminated, the request should include specific proposed actions to address it."
+    },
+    {
+      "id": "e82",
+      "type": "paragraph",
+      "page": 3,
+      "text": "Compliance: Required within the next 25 hours time-in-service (TIS), after the effective date of this AD, unless already accomplished."
+    },
+    {
+      "id": "e83",
+      "type": "paragraph",
+      "page": 3,
+      "text": "To prevent loss of aileron and elevator control, which could result in loss of directional control of the airplane, accomplish the following:"
+    },
+    {
+      "id": "e84",
+      "type": "paragraph",
+      "page": 3,
+      "text": "Note 2: Some airplane serial numbers may appear in all of the actions required by this AD and some airplane serial numbers may only appear in one action required by this AD. It is recommended to look at each group of serial numbers closely."
+    },
+    {
+      "id": "e85",
+      "type": "paragraph",
+      "page": 3,
+      "text": "(a) For Cessna Model 172R airplanes with serial numbers 17280001 through 17280326, 17280328, 17280330 through 17280335, 17280337, 17280339 through 17280342, 17280345, 17280346, 17280350, 17280353 through 17280359, 17280361 through 17280364, 17280366, 17280367, 17280371, 17280377, 17280380 through 17280383, 17280385, 17280387,17280390, 17280391, 17280393, 17280397, 17280423, 17280432 through 17280434, 17280440, 17280441, 17280457, 17280460, 17280461, 17280465 through 17280470, and 17280474:"
+    },
+    {
+      "id": "e86",
+      "type": "paragraph",
+      "page": 3,
+      "text": "Inspect the aileron control cables in the center console area for incorrect routing over the cable guard, fraying or damage in accordance with the Accomplishment Instructions in Cessna Service Bulletin (SB) No. SB98-27-02, dated May 11, 1998."
+    },
+    {
+      "id": "e87",
+      "type": "paragraph",
+      "page": 3,
+      "text": "Prior to further flight, re-route any aileron control cable found out of place, and replace any aileron control cable found frayed or damaged in accordance with the Accomplishment Instructions in Cessna SB No. SB98-27-02, dated May 11, 1998."
+    },
+    {
+      "id": "e88",
+      "type": "paragraph",
+      "page": 3,
+      "text": "(b) For Cessna Model 172R airplanes with serial numbers 17280002, 17280004, 17280021, 17280024, 17280069 through 17280073, 17280075, 17280077, 17280079 through 17280081, 17280083, 17280086, 17280092, 17280095, 17280109, 17280114, 17280120 through 17280124, 17280127, 17280133, 17280136, 17280147, 17280148, 17280150, 17280159, 17280163, 17280171, 17280207, 17280214, 17280224, 17280234, 17280239, 17280242, 17280248, 17280251, 17280253, 17280257, 17280262, 17280275, 17280281, 17280282, 17280285, 17280287, 17280292, 17280301, 17280305, 17280329, 17280337, 17280338, 17280341, 17280342, 17280343, 17280345, 17280351, 17280354, 17280356, 17280357, 17280359, 17280365, 17280429, and 17280506 that were not"
+    },
+    {
+      "id": "e89",
+      "type": "paragraph",
+      "page": 3,
+      "text": "factory equipped with an autopilot:"
+    },
+    {
+      "id": "e90",
+      "type": "paragraph",
+      "page": 3,
+      "text": "Inspect the right-hand wing for an incorrectly routed aileron control cable in accordance with the Accomplishment Instructions in Cessna SB No. SB98-27-05, dated June 1, 1998."
+    },
+    {
+      "id": "e91",
+      "type": "paragraph",
+      "page": 3,
+      "text": "If the aileron control cable is misrouted, prior to further flight, correct the routing, and if there is fraying or damage to the aileron control cable, prior to further flight, replace the control cable in accordance with the Accomplishment Instructions in Cessna SB No. SB98-27-05, dated June 1, 1998."
+    },
+    {
+      "id": "e92",
+      "type": "paragraph",
+      "page": 3,
+      "text": "(c) For Cessna Model 172R airplanes with serial numbers 17280001 through 17280349:"
+    },
+    {
+      "id": "e93",
+      "type": "paragraph",
+      "page": 3,
+      "text": "Inspect for a loose or incorrectly installed center lock clamp on the forward aileron control cable drum in accordance with the Accomplishment Instructions in Cessna SB No. SB98-27-03, dated June 1, 1998."
+    },
+    {
+      "id": "e94",
+      "type": "paragraph",
+      "page": 3,
+      "text": "If the center lock clamp is loose or is installed incorrectly, prior to further flight, correct and adjust appropriately in accordance with the Accomplishment Instructions in Cessna SB No. SB98-27-03, dated June 1, 1998."
+    },
+    {
+      "id": "e95",
+      "type": "paragraph",
+      "page": 3,
+      "text": "(d) For Cessna Model 172R airplanes with serial numbers 17280001 through 17280475:"
+    },
+    {
+      "id": "e96",
+      "type": "page_header",
+      "page": 4,
+      "text": "Federal Register /Vol. 63, No. 123 /Friday, June 26, 1998 /Rules and Regulations"
+    },
+    {
+      "id": "e97",
+      "type": "page_header",
+      "page": 4,
+      "text": "34803"
+    },
+    {
+      "id": "e98",
+      "type": "paragraph",
+      "page": 4,
+      "text": "(1) Inspect for loose or missing elevator trim actuator mounting screws, loose rudder circuit pulleys, missing rudder cable guard pins, incorrect elevator trim cable routing, aileron control cable clearance, and flight control cable tension or rigging outside the design specifications in accordance with the Accomplishment Instructions in Cessna SB No. SB98-27-06, dated June 15, 1998."
+    },
+    {
+      "id": "e99",
+      "type": "paragraph",
+      "page": 4,
+      "text": "(2) If any condition in paragraph (d)(1) of this AD is found, prior to further flight, repair, replace, or correct in accordance with the Accomplishment Instructions in Cessna SB No. SB98-27-06, dated June 15, 1998."
+    },
+    {
+      "id": "e100",
+      "type": "paragraph",
+      "page": 4,
+      "text": "(e) If any of the conditions noted above in paragraphs (a), (b), (c), or (d) of this AD are found within 10 days of the inspection, report the condition found, date of inspection, and the serial number of the airplane to Doyle M. King, Jr., Manager, Wichita Manufacturing Inspection, Office, 1801 Airport Road, Rm. 101, Mid-Continent Airport, Wichita, Kansas, 67209. Reporting requirements have been approved by the Office of Management and Budget and assigned OMB control number 2120-0056."
+    },
+    {
+      "id": "e101",
+      "type": "paragraph",
+      "page": 4,
+      "text": "(f) Special flight permits may be issued in accordance with sections §§21.197 and 21.199 of the Federal Aviation Regulations (14 CFR 21.197 and 21.199) to operate the airplane to a location where the requirements of this AD can be accomplished."
+    },
+    {
+      "id": "e102",
+      "type": "paragraph",
+      "page": 4,
+      "text": "(g) An alternative method of compliance or adjustment of the compliance time that provides an equivalent level of safety may be approved by the Manager, Wichita Aircraft Certification Office (ACO), 1801 Airport Road, Rm. 100, Mid-Continent Airport, Wichita, Kansas, 67209. The request shall be forwarded through an appropriate FAA Maintenance Inspector, who may add comments and then send it to the Manager, Wichita ACO."
+    },
+    {
+      "id": "e103",
+      "type": "paragraph",
+      "page": 4,
+      "text": "Note 3: Information concerning the existence of approved alternative methods of compliance with this AD, if any, may be obtained from the Wichita ACO."
+    },
+    {
+      "id": "e104",
+      "type": "paragraph",
+      "page": 4,
+      "text": "(h) The inspections, repairs, replacements, adjustments, and corrections required by this AD shall be done in accordance with Cessna Service Bulletins No. SB98-27-02, dated May 11, 1998, No. SB98-27-03, dated June 1, 1998, No. SB98-27-05, dated June 1, 1998, and No. SB98-27-06, dated June 15, 1998. This incorporation by reference was approved by the Director of the Federal Register in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. Copies may be obtained from The Cessna Aircraft Company, P. O. Box 7706, Wichita, Kansas 67277. Copies may be inspected at the FAA, Central Region, Office of the Regional Counsel, Room 1558, 601 E. 12th Street, Kansas City, Missouri, or at the Office of the Federal Register, 800 North Capitol Street, NW, suite 700, Washington, DC."
+    },
+    {
+      "id": "e105",
+      "type": "paragraph",
+      "page": 4,
+      "text": "(i) This amendment becomes effective on August 18, 1998."
+    },
+    {
+      "id": "e106",
+      "type": "paragraph",
+      "page": 4,
+      "text": "Issued in Kansas City, Missouri, on June 19, 1998."
+    },
+    {
+      "id": "e107",
+      "type": "paragraph",
+      "page": 4,
+      "text": "James E. Jackson,"
+    },
+    {
+      "id": "e108",
+      "type": "paragraph",
+      "page": 4,
+      "text": "Acting Manager, Small Airplane Directorate, Aircraft Certification Service."
+    },
+    {
+      "id": "e109",
+      "type": "paragraph",
+      "page": 4,
+      "text": "[FR Doc. 98-17020 Filed 6-25-98; 8:45 am] BILLING CODE 4910-13-U"
+    },
+    {
+      "id": "e110",
+      "type": "heading",
+      "page": 4,
+      "text": "DEPARTMENT OF TRANSPORTATION",
+      "level": 2
+    },
+    {
+      "id": "e111",
+      "type": "paragraph",
+      "page": 4,
+      "text": "Federal Aviation Administration"
+    },
+    {
+      "id": "e112",
+      "type": "paragraph",
+      "page": 4,
+      "text": "14 CFR Part 39"
+    },
+    {
+      "id": "e113",
+      "type": "paragraph",
+      "page": 4,
+      "text": "[Docket No. 97-SW-06-AD; Amendment 39-10631; AD 98-13-40]"
+    },
+    {
+      "id": "e114",
+      "type": "paragraph",
+      "page": 4,
+      "text": "RIN 2120-AA64"
+    },
+    {
+      "id": "e115",
+      "type": "paragraph",
+      "page": 4,
+      "text": "Airworthiness Directives; Eurocopter France Model SA 330F, G, and J Helicopters"
+    },
+    {
+      "id": "e116",
+      "type": "paragraph",
+      "page": 4,
+      "text": "AGENCY: Federal Aviation Administration, DOT. ACTION: Final rule."
+    },
+    {
+      "id": "e117",
+      "type": "paragraph",
+      "page": 4,
+      "text": "SUMMARY: This amendment adopts a new airworthiness directive (AD), applicable to Eurocopter France Model SA 330F, G, and J helicopters, that requires verifying the torque on the nut that secures the two transformerrectifiers' common ground; and subsequently installing a modification to separate the grounds of the two transformer-rectifiers. This amendment is prompted by a report from the airworthiness authority of France about an unsafe condition resulting from the loss of the common ground of the two transformer-rectifiers. The actions specified by this AD are intended to prevent loss of the common ground of the two transformer-rectifiers, which could result in a complete electrical failure (essential and secondary), loss of electrically-powered instrumentation, and subsequent loss of control of the helicopter."
+    },
+    {
+      "id": "e118",
+      "type": "paragraph",
+      "page": 4,
+      "text": "DATES: Effective July 31, 1998."
+    },
+    {
+      "id": "e119",
+      "type": "paragraph",
+      "page": 4,
+      "text": "The incorporation by reference of certain publications listed in the regulations is approved by the Director of the Federal Register as of July 31, 1998."
+    },
+    {
+      "id": "e120",
+      "type": "paragraph",
+      "page": 4,
+      "text": "ADDRESSES: The service information referenced in this AD may be obtained from American Eurocopter Corporation, 2701 Forum Drive, Grand Prairie, Texas 75053-4005. This information may be examined at the FAA, Office of the Regional Counsel, Southwest Region, 2601 Meacham Blvd., Room 663, Fort Worth, Texas; or at the Office of the Federal Register, 800 North Capitol Street, NW., suite 700, Washington, DC. FOR FURTHER INFORMATION CONTACT: Mr. Carroll Wright, Aerospace Engineer, FAA, Rotorcraft Directorate, Rotorcraft Regulations Group, 2601 Meacham Blvd., Fort Worth, Texas 76137, telephone (817) 222-5120, fax (817) 222-5961."
+    },
+    {
+      "id": "e121",
+      "type": "paragraph",
+      "page": 4,
+      "text": "SUPPLEMENTARY INFORMATION: A proposal to amend part 39 of the Federal Aviation Regulations (14 CFR part 39) to include an airworthiness directive (AD)"
+    },
+    {
+      "id": "e122",
+      "type": "paragraph",
+      "page": 4,
+      "text": "that is applicable to Eurocopter France Model SA 330F, G, and J helicopters was published in the Federal Register on March 5, 1998 (63 FR 10783). That action proposed to require verifying the torque on the nut that secures the two transformer-rectifiers' common ground; and subsequently installing a modification to separate the grounds of the two transformer-rectifiers."
+    },
+    {
+      "id": "e123",
+      "type": "paragraph",
+      "page": 4,
+      "text": "Interested persons have been afforded an opportunity to participate in the making of this amendment. No comments were received on the proposal or the FAA's determination of the cost to the public. The FAA has determined that air safety and the public interest require the adoption of the rule as proposed."
+    },
+    {
+      "id": "e124",
+      "type": "paragraph",
+      "page": 4,
+      "text": "The FAA estimates that 1 helicopter of U.S. registry would be affected by this proposed AD, that it would take approximately 0.5 work hour to verify or accomplish the retorque of the nut, 2 work hours per helicopter to accomplish the proposed modifications, and that the average labor rate is $60 per work hour. Required parts for the modification would cost approximately $70 per helicopter. Based on these figures, the total cost impact of the proposed AD on U.S. operators is estimated to be $220."
+    },
+    {
+      "id": "e125",
+      "type": "paragraph",
+      "page": 4,
+      "text": "The regulations adopted herein will not have substantial direct effects on the States, on the relationship between the national government and the States, or on the distribution of power and responsibilities among the various levels of government. Therefore, in accordance with Executive Order 12612, it is determined that this final rule does not have sufficient federalism implications to warrant the preparation of a Federalism Assessment."
+    },
+    {
+      "id": "e126",
+      "type": "paragraph",
+      "page": 4,
+      "text": "For the reasons discussed above, I certify that this action (1) is not a ''significant regulatory action'' under Executive Order 12866; (2) is not a ''significant rule'' under DOT Regulatory Policies and Procedures (44 FR 11034, February 26, 1979); and (3) will not have a significant economic impact, positive or negative, on a substantial number of small entities under the criteria of the Regulatory Flexibility Act. A final evaluation has been prepared for this action and it is contained in the Rules Docket. A copy of it may be obtained from the Rules Docket at the location provided under the caption ADDRESSES."
+    },
+    {
+      "id": "e127",
+      "type": "paragraph",
+      "page": 4,
+      "text": "List of Subjects in 14 CFR Part 39"
+    },
+    {
+      "id": "e128",
+      "type": "paragraph",
+      "page": 4,
+      "text": "Air transportation, Aircraft, Aviation safety, Incorporation by reference, Safety."
+    }
+  ]
+}

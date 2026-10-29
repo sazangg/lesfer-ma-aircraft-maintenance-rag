@@ -1,0 +1,111 @@
+{
+  "source_id": "PRICES-2026",
+  "file": "anfa/price-list-2026.xlsx",
+  "format": "xlsx",
+  "parser": "docling",
+  "meta": {
+    "publisher": "Anfa Aero Services",
+    "title": "Parts and labour price list 2026",
+    "doc_type": "price list",
+    "access": "management"
+  },
+  "elements": [
+    {
+      "id": "e1",
+      "type": "table",
+      "header": [
+        "Part number",
+        "Description",
+        "Supplier",
+        "Unit cost (MAD)",
+        "Customer price (MAD)",
+        "Lead time (days)",
+        "Notes"
+      ],
+      "rows": [
+        [
+          "83278",
+          "Engine oil pressure switch",
+          "Textron Aviation",
+          "1180",
+          "1650",
+          "12",
+          "Keep two in stock (procedures manual 3.2)."
+        ],
+        [
+          "A1754001-25",
+          "Muffler assembly",
+          "Aerospace Welding Minneapolis",
+          "21400",
+          "26900",
+          "35",
+          ""
+        ],
+        [
+          "A1754001-23",
+          "Muffler assembly",
+          "Aerospace Welding Minneapolis",
+          "20800",
+          "26100",
+          "35",
+          ""
+        ],
+        [
+          "452-6505",
+          "ELT battery pack",
+          "ACK Technologies",
+          "2350",
+          "3100",
+          "20",
+          ""
+        ],
+        [
+          "CH48110-1",
+          "Oil filter",
+          "Champion Aerospace",
+          "310",
+          "420",
+          "7",
+          ""
+        ],
+        [
+          "REM37BY",
+          "Spark plug",
+          "Champion Aerospace",
+          "290",
+          "395",
+          "7",
+          "Sold per plug; eight per engine."
+        ],
+        [
+          "065-00176-7702",
+          "KAP 140 autopilot computer (exchange)",
+          "Honeywell (Bendix/King)",
+          "61500",
+          "74900",
+          "45",
+          "Exchange price; core returned."
+        ],
+        [
+          "910-00001-011",
+          "Aspen EFD1000 PFD (exchange)",
+          "Aspen Avionics",
+          "58200",
+          "71000",
+          "30",
+          "Exchange price; core returned."
+        ],
+        [
+          "LABOR-HR",
+          "Labour, per hour",
+          "Anfa Aero Services",
+          "0",
+          "850",
+          "0",
+          "Flight school contract rate: 780 per hour."
+        ]
+      ],
+      "page": 1
+    }
+  ]
+}

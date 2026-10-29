@@ -1,0 +1,497 @@
+{
+  "source_id": "AD-98-14-07",
+  "file": "faa/ad/ad-98-14-07.pdf",
+  "format": "pdf",
+  "parser": "docling",
+  "meta": {
+    "title": "AD 98-14-07: Cessna Aircraft Company Model 172R Airplanes",
+    "publisher": "FAA",
+    "doc_type": "airworthiness directive",
+    "ad_number": "98-14-07",
+    "action": "Final rule",
+    "published": "1998-07-01",
+    "effective": "1998-08-16",
+    "federal_register": "63 FR 35796 (document 98-17414)",
+    "access": "employees"
+  },
+  "elements": [
+    {
+      "id": "e1",
+      "type": "page_header",
+      "page": 1,
+      "text": "35796"
+    },
+    {
+      "id": "e2",
+      "type": "page_header",
+      "page": 1,
+      "text": "Federal Register /Vol. 63, No. 126 /Wednesday, July 1, 1998 /Rules and Regulations"
+    },
+    {
+      "id": "e3",
+      "type": "paragraph",
+      "page": 1,
+      "text": "preceding applicability provision, regardless of whether it has been modified, altered, or repaired in the area subject to the requirements of this AD. For engines that have been modified, altered, or repaired so that the performance of the requirements of this AD is affected, the owner/operator must request approval for an alternative method of compliance in accordance with paragraph (c) of this AD. The request should include an assessment of the effect of the modification, alteration, or repair on the unsafe condition addressed by this AD; and, if the unsafe condition has not been eliminated, the request should include specific proposed actions to address it."
+    },
+    {
+      "id": "e4",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Compliance: Required as indicated, unless accomplished previously."
+    },
+    {
+      "id": "e5",
+      "type": "paragraph",
+      "page": 1,
+      "text": "To prevent engine fuel leaks, which can result in inflight engine shutdowns or fire warnings, accomplish the following:"
+    },
+    {
+      "id": "e6",
+      "type": "paragraph",
+      "page": 1,
+      "text": "(a) Remove the existing fuel manifold transfer tubes, transfer tube lock plates, and fuel manifold drain tubes in accordance with PWC Service Bulletin (SB) No. 21077, Revision 8, dated April 4, 1998. Remove the"
+    },
+    {
+      "id": "e7",
+      "type": "paragraph",
+      "page": 1,
+      "text": "existing preformed packing in accordance with PWC SB No. 21364, Revision 1, dated April 28, 1995. Replace with fuel manifold transfer tubes in accordance with the following applicable PWC Service Bulletins (SBs): No. 21077, Revision 8, dated April 4, 1998, or No. 21516, dated August 14, 1997. Replace fuel manifold drain tubes in accordance with PWC SB No. 21549, dated September 18, 1997 or SB No. 21077, Revision 8, dated April 4, 1998. The modification must include installation of the improved lock plates in accordance with PWC SB No. 21373, Revision 3, dated October 11, 1996, and the preformed packing in accordance with PWC SB No. 21364, Revision 1, dated April 28, 1995, as follows, whichever occurs first following the effective date of this AD:"
+    },
+    {
+      "id": "e8",
+      "type": "paragraph",
+      "page": 1,
+      "text": "At the next engine removal, regardless of cause; or"
+    },
+    {
+      "id": "e9",
+      "type": "paragraph",
+      "page": 1,
+      "text": "At the next fuel nozzle change; or"
+    },
+    {
+      "id": "e10",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Prior to November 30, 1998."
+    },
+    {
+      "id": "e11",
+      "type": "paragraph",
+      "page": 1,
+      "text": "(b) After the installation of the improved fuel manifold tubes and lockplates, but prior to further flight, perform a leak check in"
+    },
+    {
+      "id": "e12",
+      "type": "paragraph",
+      "page": 1,
+      "text": "accordance with the applicable maintenance manual."
+    },
+    {
+      "id": "e13",
+      "type": "paragraph",
+      "page": 1,
+      "text": "(c) An alternative method of compliance or adjustment of the compliance time that provides an acceptable level of safety may be used if approved by the Manager, Engine Certification Office. Operators shall submit their requests through an appropriate FAA Principal Maintenance Inspector, who may add comments and then send it to the Manager, Engine Certification Office."
+    },
+    {
+      "id": "e14",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Note 2: Information concerning the existence of approved alternative methods of compliance with this airworthiness directive, if any, may be obtained from the Engine Certification Office."
+    },
+    {
+      "id": "e15",
+      "type": "paragraph",
+      "page": 1,
+      "text": "(d) Special flight permits may be issued in accordance with sections 21.197 and 21.199 of the Federal Aviation Regulations (14 CFR 21.197 and 21.199) to operate the aircraft to a location where the requirements of this AD can be accomplished."
+    },
+    {
+      "id": "e16",
+      "type": "paragraph",
+      "page": 1,
+      "text": "(e) The actions required by this AD shall be done in accordance with the following PWC SBs:"
+    },
+    {
+      "id": "e17",
+      "type": "table",
+      "header": [
+        "Document No",
+        "Pages",
+        "Revision",
+        "Date"
+      ],
+      "rows": [
+        [
+          "21077 .............................................................................................................................................................. Total Pages: 9",
+          "1-9",
+          "8 .............",
+          "April 4, 1998."
+        ],
+        [
+          "21516 ..............................................................................................................................................................",
+          "1-5",
+          "Original ..",
+          "August 14, 1997."
+        ],
+        [
+          "Total Pages: 5. 21549 ..............................................................................................................................................................",
+          "1-4",
+          "Original ..",
+          "September 18, 1997."
+        ],
+        [
+          "Total Pages: 4. 21373 ..............................................................................................................................................................",
+          "1-11",
+          "3 .............",
+          "October 11, 1996."
+        ],
+        [
+          "Total Pages: 11. 21364 .............................................................................................................................................................. Total Pages: 8.",
+          "1-8",
+          "1 .............",
+          "April 28, 1995."
+        ]
+      ],
+      "page": 1
+    },
+    {
+      "id": "e18",
+      "type": "paragraph",
+      "page": 1,
+      "text": "This incorporation by reference was approved by the Director of the Federal Register in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. Copies may be obtained from Pratt & Whitney Canada, 1000 MarieVictorin, Longueuil, Quebec, Canada J4G 1A1; telephone (514) 677-9411, fax (514) 647-3620. Copies may be inspected at the FAA, New England Region, Office of the Regional Counsel, 12 New England Executive Park, Burlington, MA; or at the Office of the Federal Register, 800 North Capitol Street NW., suite 700, Washington, DC."
+    },
+    {
+      "id": "e19",
+      "type": "paragraph",
+      "page": 1,
+      "text": "(f) This amendment becomes effective on August 31, 1998."
+    },
+    {
+      "id": "e20",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Issued in Burlington, Massachusetts, on June 23, 1998."
+    },
+    {
+      "id": "e21",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Jay J. Pardee,"
+    },
+    {
+      "id": "e22",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Manager, Engine and Propeller Directorate, Aircraft Certification Service."
+    },
+    {
+      "id": "e23",
+      "type": "paragraph",
+      "page": 1,
+      "text": "[FR Doc. 98-17415 Filed 6-30-98; 8:45 am] BILLING CODE 4910-13-U"
+    },
+    {
+      "id": "e24",
+      "type": "heading",
+      "page": 1,
+      "text": "DEPARTMENT OF TRANSPORTATION",
+      "level": 2
+    },
+    {
+      "id": "e25",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Federal Aviation Administration"
+    },
+    {
+      "id": "e26",
+      "type": "paragraph",
+      "page": 1,
+      "text": "14 CFR Part 39"
+    },
+    {
+      "id": "e27",
+      "type": "paragraph",
+      "page": 1,
+      "text": "[Docket No. 97-CE-96-AD; Amendment 3910641; AD 98-14-07]"
+    },
+    {
+      "id": "e28",
+      "type": "paragraph",
+      "page": 1,
+      "text": "RIN 2120-AA64"
+    },
+    {
+      "id": "e29",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Airworthiness Directives; Cessna Aircraft Company Model 172R Airplanes"
+    },
+    {
+      "id": "e30",
+      "type": "paragraph",
+      "page": 1,
+      "text": "AGENCY: Federal Aviation Administration, DOT. ACTION: Final rule."
+    },
+    {
+      "id": "e31",
+      "type": "paragraph",
+      "page": 1,
+      "text": "SUMMARY: This amendment adopts a new airworthiness directive (AD) that applies to certain Cessna Aircraft Company Model 172R airplanes. This AD requires modifying the lower forward doorpost bulkhead by installing rivets. This AD is the result of a report from the manufacturer that these rivets were erroneously omitted during manufacture of some of the new production airplanes. The actions specified by this AD are intended to prevent reduced structural rigidity at the forward doorpost bulkhead, which could result in structural cracking and possible loss of control of the airplane. DATES: Effective August 16, 1998."
+    },
+    {
+      "id": "e32",
+      "type": "paragraph",
+      "page": 1,
+      "text": "The incorporation by reference of certain publications listed in the regulations is approved by the Director of the Federal Register as of August 16, 1998."
+    },
+    {
+      "id": "e33",
+      "type": "paragraph",
+      "page": 1,
+      "text": "ADDRESSES: Service information that applies to this AD may be obtained from The Cessna Aircraft Company, P. O. Box 7706, Wichita, Kansas 67277, telephone: (316) 941-7550, facsimile: (316) 9429008. This information may also be examined at the Federal Aviation Administration (FAA), Central Region, Office of the Regional Counsel, Attention: Rules Docket No. 97-CE-96AD, Room 1558, 601 E. 12th Street, Kansas City, Missouri 64106; or at the Office of the Federal Register, 800 North Capitol Street, NW, suite 700, Washington, DC."
+    },
+    {
+      "id": "e34",
+      "type": "paragraph",
+      "page": 1,
+      "text": "FOR FURTHER INFORMATION CONTACT: Mr. Eual Conditt, Senior Aerospace Engineer, FAA, Wichita Aircraft Certification Office, 1801 Airport Road, RM 100, Mid-Continent Airport, Wichita, Kansas, 67209, telephone: (316) 946-4128; facsimile: (316) 9464407."
+    },
+    {
+      "id": "e35",
+      "type": "page_header",
+      "page": 2,
+      "text": "Federal Register /Vol. 63, No. 126 /Wednesday, July 1, 1998 /Rules and Regulations"
+    },
+    {
+      "id": "e36",
+      "type": "page_header",
+      "page": 2,
+      "text": "35797"
+    },
+    {
+      "id": "e37",
+      "type": "heading",
+      "page": 2,
+      "text": "SUPPLEMENTARY INFORMATION:",
+      "level": 2
+    },
+    {
+      "id": "e38",
+      "type": "paragraph",
+      "page": 2,
+      "text": "Events Leading to the Issuance of This AD"
+    },
+    {
+      "id": "e39",
+      "type": "paragraph",
+      "page": 2,
+      "text": "A proposal to amend part 39 of the Federal Aviation Regulations (14 CFR part 39) to include an AD that would apply to certain Cessna Model 172R airplanes was published in the Federal Register as a notice of proposed rulemaking (NPRM) on February 13, 1998 (63 FR 7322). The NPRM proposed to require modifying the lower forward doorpost bulkhead on both sides of the affected model airplanes by installing rivets. Accomplishment of the proposed action as specified in the NPRM would be in accordance with Cessna Service Bulletin No. SB97-53-02, dated September 15, 1997."
+    },
+    {
+      "id": "e40",
+      "type": "paragraph",
+      "page": 2,
+      "text": "The NPRM was the result of a report from the manufacturer that these rivets were erroneously omitted during manufacture of some of the new production airplanes."
+    },
+    {
+      "id": "e41",
+      "type": "paragraph",
+      "page": 2,
+      "text": "Interested persons have been afforded an opportunity to participate in the making of this amendment. No comments were received on the proposed rule or the FAA's determination of the cost to the public."
+    },
+    {
+      "id": "e42",
+      "type": "heading",
+      "page": 2,
+      "text": "The FAA's Determination",
+      "level": 2
+    },
+    {
+      "id": "e43",
+      "type": "paragraph",
+      "page": 2,
+      "text": "After careful review of all available information related to the subject presented above, the FAA has determined that air safety and the public interest require the adoption of the rule as proposed except for minor editorial corrections. The FAA has determined that these minor corrections will not change the meaning of the AD and will not add any additional burden upon the public than was already proposed."
+    },
+    {
+      "id": "e44",
+      "type": "heading",
+      "page": 2,
+      "text": "Cost Impact",
+      "level": 2
+    },
+    {
+      "id": "e45",
+      "type": "paragraph",
+      "page": 2,
+      "text": "The FAA estimates that 87 airplanes in the U.S. registry will be affected by this AD, that it will take approximately 14 workhours per airplane to accomplish this action, and that the average labor rate is approximately $60 an hour. Parts cost approximately $150 per airplane. Based on these figures, the total cost impact of this AD on U.S. operators is estimated to be $86,130, or $990 per airplane. The FAA assumes that none of the owners/operators of the affected airplanes have accomplished this action."
+    },
+    {
+      "id": "e46",
+      "type": "heading",
+      "page": 2,
+      "text": "Regulatory Impact",
+      "level": 2
+    },
+    {
+      "id": "e47",
+      "type": "paragraph",
+      "page": 2,
+      "text": "The regulations adopted herein will not have substantial direct effects on the States, on the relationship between the national government and the States, or on the distribution of power and responsibilities among the various levels of government. Therefore, in accordance with Executive Order 12612, it is determined that this final rule does not have sufficient federalism implications to warrant the preparation of a Federalism Assessment."
+    },
+    {
+      "id": "e48",
+      "type": "paragraph",
+      "page": 2,
+      "text": "For the reasons discussed above, I certify that this action (1) is not a ''significant regulatory action'' under Executive Order 12866; (2) is not a ''significant rule'' under DOT Regulatory Policies and Procedures (44 FR 11034, February 26, 1979); and (3) will not have a significant economic impact, positive or negative, on a substantial number of small entities under the criteria of the Regulatory Flexibility Act. A copy of the final evaluation prepared for this action is contained in the Rules Docket. A copy of it may be obtained by contacting the Rules Docket at the location provided under the caption ''ADDRESSES''."
+    },
+    {
+      "id": "e49",
+      "type": "heading",
+      "page": 2,
+      "text": "LIST OF SUBJECTS IN 14 CFR PART 39",
+      "level": 2
+    },
+    {
+      "id": "e50",
+      "type": "paragraph",
+      "page": 2,
+      "text": "Air transportation, Aircraft, Aviation safety, Incorporation by reference, Safety."
+    },
+    {
+      "id": "e51",
+      "type": "heading",
+      "page": 2,
+      "text": "Adoption of the Amendment",
+      "level": 2
+    },
+    {
+      "id": "e52",
+      "type": "paragraph",
+      "page": 2,
+      "text": "Accordingly, pursuant to the authority delegated to me by the Administrator, the Federal Aviation Administration amends part 39 of the Federal Aviation Regulations (14 CFR part 39) as follows:"
+    },
+    {
+      "id": "e53",
+      "type": "heading",
+      "page": 2,
+      "text": "PART 39-AIRWORTHINESS DIRECTIVES",
+      "level": 2
+    },
+    {
+      "id": "e54",
+      "type": "paragraph",
+      "page": 2,
+      "text": "The authority citation for part 39 continues to read as follows:"
+    },
+    {
+      "id": "e55",
+      "type": "paragraph",
+      "page": 2,
+      "text": "Authority: 49 U.S.C. 106(g), 40113, 44701."
+    },
+    {
+      "id": "e56",
+      "type": "heading",
+      "page": 2,
+      "text": "§39.13 [Amended]",
+      "level": 2
+    },
+    {
+      "id": "e57",
+      "type": "paragraph",
+      "page": 2,
+      "text": "Section 39.13 is amended by adding a new airworthiness directive (AD) to read as follows:"
+    },
+    {
+      "id": "e58",
+      "type": "paragraph",
+      "page": 2,
+      "text": "98-14-07 Cessna Aircraft Company: Amendment 39-10641; Docket No. 97CE-96-AD."
+    },
+    {
+      "id": "e59",
+      "type": "paragraph",
+      "page": 2,
+      "text": "Applicability: Model 172R airplanes with the following serial numbers, certificated in any category: 17280004 through 17280016, 17280018 through 17280050, 17280052 through 17280058, 17280060 through 17280062, 17280064, 17280066 through 17280082, 17280085 through 17280099, 17280101 through 17280113, 17280115, 17280116, 17280118 through 17280125, 17280128 through 17280131, and 17280138."
+    },
+    {
+      "id": "e60",
+      "type": "paragraph",
+      "page": 2,
+      "text": "Note 1: This AD applies to each airplane identified in the preceding applicability provision, regardless of whether it has been modified, altered, or repaired in the area subject to the requirements of this AD. For airplanes that have been modified, altered, or repaired so that the performance of the requirements of this AD is affected, the owner/operator must request approval for an alternative method of compliance in accordance with paragraph (c) of this AD. The request should include an assessment of the effect of the modification, alteration, or repair on the unsafe condition addressed by this AD; and, if the unsafe condition has not been eliminated, the request should include specific proposed actions to address it."
+    },
+    {
+      "id": "e61",
+      "type": "paragraph",
+      "page": 2,
+      "text": "Compliance: Required within the next 100 hours time-in-service (TIS) after the effective date of this AD, unless already accomplished."
+    },
+    {
+      "id": "e62",
+      "type": "paragraph",
+      "page": 2,
+      "text": "To prevent reduced structural rigidity at the lower forward doorpost bulkhead, which could result in structural cracking and possible loss of control of the airplane, accomplish the following:"
+    },
+    {
+      "id": "e63",
+      "type": "paragraph",
+      "page": 2,
+      "text": "(a) Modify the lower forward doorpost of the affected airplanes by installing the specified rivets in accordance with Cessna Service Bulletin No. SB97-53-02, dated September 15, 1997."
+    },
+    {
+      "id": "e64",
+      "type": "paragraph",
+      "page": 2,
+      "text": "(b) Special flight permits may be issued in accordance with sections 21.197 and 21.199 of the Federal Aviation Regulations (14 CFR 21.197 and 21.199) to operate the airplane to a location where the requirements of this AD can be accomplished."
+    },
+    {
+      "id": "e65",
+      "type": "paragraph",
+      "page": 2,
+      "text": "(c) An alternative method of compliance or adjustment of the compliance time that provides an equivalent level of safety may be approved by the Manager, Wichita Aircraft Certification Office (ACO), 1801 Airport Road, Rm. 100, Mid-Continent Airport, Wichita, Kansas, 67209. The request shall be forwarded through an appropriate FAA Maintenance Inspector, who may add comments and then send it to the Manager, Wichita ACO."
+    },
+    {
+      "id": "e66",
+      "type": "paragraph",
+      "page": 2,
+      "text": "Note 2: Information concerning the existence of approved alternative methods of compliance with this AD, if any, may be obtained from the Wichita ACO."
+    },
+    {
+      "id": "e67",
+      "type": "paragraph",
+      "page": 2,
+      "text": "(d) The modification required by this AD shall be done in accordance with Cessna Service Bulletin No. SB97-53-02, dated September 15, 1997. This incorporation by reference was approved by the Director of the Federal Register in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. Copies may be obtained from The Cessna Aircraft Company, P. O. Box 7706, Wichita, Kansas 67277. Copies may be inspected at the FAA, Central Region, Office of the Regional Counsel, Room 1558, 601 E. 12th Street, Kansas City, Missouri, or at the Office of the Federal Register, 800 North Capitol Street, NW, suite 700, Washington, DC."
+    },
+    {
+      "id": "e68",
+      "type": "paragraph",
+      "page": 2,
+      "text": "(e) This amendment becomes effective on August 16, 1998."
+    },
+    {
+      "id": "e69",
+      "type": "paragraph",
+      "page": 2,
+      "text": "Issued in Kansas City, Missouri, on June 24, 1998."
+    },
+    {
+      "id": "e70",
+      "type": "paragraph",
+      "page": 2,
+      "text": "Marvin R. Nuss,"
+    },
+    {
+      "id": "e71",
+      "type": "paragraph",
+      "page": 2,
+      "text": "Acting Manager, Small Airplane Directorate, Aircraft Certification Service."
+    },
+    {
+      "id": "e72",
+      "type": "paragraph",
+      "page": 2,
+      "text": "[FR Doc. 98-17414 Filed 6-30-98; 8:45 am] BILLING CODE 4910-13-U"
+    }
+  ]
+}

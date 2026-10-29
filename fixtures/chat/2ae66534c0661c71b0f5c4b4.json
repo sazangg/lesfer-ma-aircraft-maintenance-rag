@@ -1,0 +1,78 @@
+{
+ "request": {
+  "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+  "messages": [
+   {
+    "role": "user",
+    "content": "Answer the question using the supplied passages.\nIdentify the source of your answer.\nIf the passages don't establish an answer, say so.\n\nQuestion:\nWhat must a maintenance record entry contain?\n\nSource: CFR-14-43, section \u00a7\n(a) Maintenance record entries. Except as provided in paragraphs (b) and (c) of this section, each person who maintains, performs preventive maintenance, rebuilds, or alters an aircraft, airframe, aircraft engine, propeller, appliance, or component part shall make an entry in the maintenance record of that equipment containing the following information:\n(1) A description (or reference to data acceptable to the Administrator) of work performed.\n(2) The date of completion of the work performed.\n(3) The name of the person performing the work if other than the person specified in paragraph (a)(4) of this section.\n(4) If the work performed on the aircraft, airframe, aircraft engine, propeller, appliance, or component part has been performed satisfactorily, the signature, certificate number, and kind of certificate held by the person approving the work. The signature constitutes the approval for return to service only for the work performed.\n\nSource: AC-43-9C, section 5.\nSection 91.417(a)(2)(iv). Deals with the current inspection status and requires it to be refiected in the maintenance record. Again, the explanation in paragraph 5g (2) is appropriate even though section 43.1 1(a)(2) requires maintenance persons to determine timein-service of the item being inspected and to include it as part of the inspection entry.\nSection 91.417(a)(2)(v). Requires the current status of applicable AD's to be a part of the maintenance record. The record is to include, at minimum, the method used to comply with the AD, the AD number, and revision date; and if the AD has requirements for recurring\nPage 4\nPar 5\n6/8/98\nAC 43-9C\naction, the time-in-service and the date when that action is required. When AD's are accomplished, maintenance persons are required to include the items specified in section 43.9(a)(2), (3), and (4) in addition to those required by section 91.417(a)(2)(v). An example of a maintenance record format for AD compliance is contained in Appendix 1.\n\nSource: AC-43-9C, section 5.\nSection 91.417(a)(2). Requires six items to be made a part of the maintenance record and maintained as such. Section 43.9 does not require maintenance personnel to enter these itens. Section 43.11 requires some of them to be part of entries made for inspections, but they ar\u0119 all the responsibility of the owner or operator. The six items are discussed as follows:\nSection 91.417(a)(2)(i). Requires a record of total time-in-service to be kept for the airframe, each engine, and each propeller. Part 1, section 1.1, Definitions, defines time in service, with respect to maintenance time records, as that time from the moment an aircraft leaves the surface of the earth until it touches down at the next point of landing. Section 43.9 does not require this to be part of the entries for maintenance, preventive maintenance, rebuilding, or alterations. However, section 43.11 requires maintenance personnel to make it a part of the entries for inspections made under parts 91, 125, and time-in-service in all entries.\nPar5\nPage 3\nAC 43-9C\n6/8/98\n\nSource: AC-43-9C, section 5.\nd. Section 91.417(a)(1)(i). Requires the maintenance record entry to include \"a description of the work performed.\"The description should be in sufficient detail to permit a person unfamiliar with the work to understand what was done, and the methods and procedures used in doing it. When the work is extensive, this results in a voluminous record. To provide for this contingency, the rule permits reference to technical data acceptable to the Administrator in lieu of making the detailed entry. Manufacturer's manuals, service letters, bulletins, work orders, FAA AC's, and others, which accurately describe what was done, or how it was done, may be referenced. Except for the documents mentioned, which are in common usage, referenced documents are to be made a part of the maintenance records and retained in accordance with section 91.417(b).\nPage2\nPar 5\n6/8/98\nAC 43-9C\n\nSource: AC-43-9D, section 8\nTitle 14 CFR \u00a7 91.417(a)(2). Requires six items to be made a part of the maintenance record and maintained as such. Title 14 CFR \u00a7 43.9 does not require maintenance personnel to enter these items. Title 14 CFR \u00a7 43.11 requires some of them to be part of entries made for inspections, but it is ultimately the responsibility of the owner or operator to verify and validate all maintenance record entries. The six items are discussed as follows:\nTitle 14 CFR \u00a7 91.417(a)(2)(i). Requires a record of total time in service to be kept for the airframe, each engine, each propeller, and each rotor. Title 14 CFR \u00a7 1.1 defines time in service, with respect to maintenance time records, as that time from the moment an aircraft leaves the surface of the earth until it touches down at the next point of landing. Title 14 CFR \u00a7 43.9 does not require this to be part of the entries for maintenance, preventive maintenance, rebuilding, or alterations. However, 14 CFR \u00a7 43.11 requires maintenance personnel to make it a part of the entries for inspections made under 14 CFR parts 91 and 125 and \u00a7\u00a7 135.411(a)(1) and 135.419.\n4\n9/22/25\nAC 43-9D"
+   }
+  ],
+  "max_tokens": 4000,
+  "temperature": 0
+ },
+ "response": {
+  "id": "gen-1793368733-uBbtODQ7ZXc2Yq5cfybo",
+  "choices": [
+   {
+    "finish_reason": "stop",
+    "index": 0,
+    "logprobs": null,
+    "message": {
+     "content": "Based on the supplied passages, a maintenance record entry must contain the following four items (per 14 CFR \u00a7 43.9(a)):\n\n1. **A description (or reference to data acceptable to the Administrator) of work performed**  \n2. **The date of completion of the work performed**  \n3. **The name of the person performing the work** (if other than the person approving the work for return to service)  \n4. **If the work was performed satisfactorily: the signature, certificate number, and kind of certificate held by the person approving the work** \u2014 the signature constitutes approval for return to service only for the work performed.\n\n**Source:** CFR-14-43, section \u00a7 (a) Maintenance record entries.\n\n*Note:* The advisory circular passages (AC 43-9C and AC 43-9D) discuss six additional record-keeping items required under \u00a7 91.417(a)(2) (e.g., total time in service, inspection status, AD compliance status), but they explicitly state that \u00a7 43.9 does **not** require maintenance personnel to enter those items \u2014 they are the responsibility of the owner/operator.",
+     "refusal": null,
+     "role": "assistant",
+     "annotations": null,
+     "audio": null,
+     "function_call": null,
+     "tool_calls": null,
+     "reasoning": "The user is asking what a maintenance record entry must contain, and they've provided several passages from CFR-14-43 and AC-43-9C/9D. I need to identify the specific requirements for a maintenance record entry from these sources.\n\nLooking at the first source: CFR-14-43, section \u00a7 (a) Maintenance record entries. This appears to be 14 CFR \u00a7 43.9(a). It lists four required items:\n1. A description (or reference to data acceptable to the Administrator) of work performed.\n2. The date of completion of the work performed.\n3. The name of the person performing the work if other than the person specified in paragraph (a)(4).\n4. If work performed satisfactorily, the signature, certificate number, and kind of certificate held by the person approving the work.\n\nThe other sources (AC-43-9C and AC-43-9D) discuss additional requirements under \u00a7 91.417(a)(2) which are six items that must be part of the maintenance record, but the advisory circulars clarify that \u00a7 43.9 does not require maintenance personnel to enter these items - they are the responsibility of the owner/operator. However, \u00a7 43.11 requires some of them for inspection entries.\n\nThe question asks specifically: \"What must a maintenance record entry contain?\" The most direct answer comes from the CFR-14-43 source which explicitly states the requirements for maintenance record entries under \u00a7 43.9(a).\n\nI should answer based on the CFR-14-43 passage, as it directly answers the question about what a maintenance record entry must contain. The AC passages provide additional context about other record-keeping requirements but clarify they're not required by \u00a7 43.9 for maintenance entries.",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "The user is asking what a maintenance record entry must contain, and they've provided several passages from CFR-14-43 and AC-43-9C/9D. I need to identify the specific requirements for a maintenance record entry from these sources.\n\nLooking at the first source: CFR-14-43, section \u00a7 (a) Maintenance record entries. This appears to be 14 CFR \u00a7 43.9(a). It lists four required items:\n1. A description (or reference to data acceptable to the Administrator) of work performed.\n2. The date of completion of the work performed.\n3. The name of the person performing the work if other than the person specified in paragraph (a)(4).\n4. If work performed satisfactorily, the signature, certificate number, and kind of certificate held by the person approving the work.\n\nThe other sources (AC-43-9C and AC-43-9D) discuss additional requirements under \u00a7 91.417(a)(2) which are six items that must be part of the maintenance record, but the advisory circulars clarify that \u00a7 43.9 does not require maintenance personnel to enter these items - they are the responsibility of the owner/operator. However, \u00a7 43.11 requires some of them for inspection entries.\n\nThe question asks specifically: \"What must a maintenance record entry contain?\" The most direct answer comes from the CFR-14-43 source which explicitly states the requirements for maintenance record entries under \u00a7 43.9(a).\n\nI should answer based on the CFR-14-43 passage, as it directly answers the question about what a maintenance record entry must contain. The AC passages provide additional context about other record-keeping requirements but clarify they're not required by \u00a7 43.9 for maintenance entries.",
+       "format": "unknown",
+       "index": 0
+      }
+     ]
+    },
+    "native_finish_reason": "stop"
+   }
+  ],
+  "created": 1793368733,
+  "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+  "object": "chat.completion",
+  "metadata": null,
+  "moderation": null,
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+   "completion_tokens": 647,
+   "prompt_tokens": 1372,
+   "total_tokens": 2019,
+   "completion_tokens_details": {
+    "accepted_prediction_tokens": null,
+    "audio_tokens": 0,
+    "reasoning_tokens": 419,
+    "rejected_prediction_tokens": null,
+    "text_tokens": null,
+    "image_tokens": 0
+   },
+   "prompt_tokens_details": {
+    "audio_tokens": 0,
+    "cache_write_tokens": 0,
+    "cached_tokens": 0,
+    "image_tokens": null,
+    "text_tokens": null,
+    "video_tokens": 0
+   },
+   "cost": 0,
+   "is_byok": false,
+   "cost_details": {
+    "upstream_inference_cost": 0,
+    "upstream_inference_prompt_cost": 0,
+    "upstream_inference_completions_cost": 0
+   }
+  },
+  "provider": "Nvidia"
+ }
+}

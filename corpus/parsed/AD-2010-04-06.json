@@ -1,0 +1,1036 @@
+{
+  "source_id": "AD-2010-04-06",
+  "file": "faa/ad/ad-2010-04-06.pdf",
+  "format": "pdf",
+  "parser": "docling",
+  "meta": {
+    "title": "AD 2010-04-06: Thielert Aircraft Engines GmbH (TAE) Model TAE 125-01 Reciprocating Engines",
+    "publisher": "FAA",
+    "doc_type": "airworthiness directive",
+    "ad_number": "2010-04-06",
+    "action": "Final rule",
+    "published": "2010-02-23",
+    "effective": "2010-03-30",
+    "federal_register": "75 FR 7947 (document 2010-3117)",
+    "access": "employees"
+  },
+  "elements": [
+    {
+      "id": "e1",
+      "type": "page_header",
+      "page": 1,
+      "text": "Federal Register /Vol. 75, No. 35/Tuesday, February 23, 2010/Rules and Regulations"
+    },
+    {
+      "id": "e2",
+      "type": "page_header",
+      "page": 1,
+      "text": "7947"
+    },
+    {
+      "id": "e3",
+      "type": "paragraph",
+      "page": 1,
+      "text": "mstockstill on DSKH9S0YB1PROD with RULES"
+    },
+    {
+      "id": "e4",
+      "type": "table",
+      "header": [
+        "Model",
+        "Model",
+        "Serial Numbers",
+        "Note"
+      ],
+      "rows": [
+        [
+          "2150",
+          "..........................................",
+          "FP-1 through FP-10 and MS-1-P .............................................",
+          "These aircraft were produced by Morrisey Aviation Inc."
+        ],
+        [
+          "2150A",
+          "........................................",
+          "SFP-11, SP12 through SP-33, and SP-35 through SP-45 ......",
+          "These aircraft were produced by Shinn En- gineering Company, Santa Ana, Cali- fornia, under licensing agreement with Morrisey Aviation Inc."
+        ],
+        [
+          "2150A",
+          "........................................",
+          "VAC-50 through VAC-52, and VAC-54-76 through VAC-189- 85.",
+          "These aircraft were produced by Varga Air- craft Corporation, Chandler, Arizona."
+        ],
+        [
+          "2180",
+          "..........................................",
+          "VAC-68-77 through VAC-191-82 ..............................................",
+          "These aircraft were produced by Varga Air- craft Corporation, Chandler, Arizona."
+        ]
+      ],
+      "page": 1
+    },
+    {
+      "id": "e5",
+      "type": "heading",
+      "page": 1,
+      "text": "Subject",
+      "level": 2
+    },
+    {
+      "id": "e6",
+      "type": "paragraph",
+      "page": 1,
+      "text": "(d) Air Transport Association of America (ATA) Code 55: Stabilizers."
+    },
+    {
+      "id": "e7",
+      "type": "heading",
+      "page": 1,
+      "text": "Unsafe Condition",
+      "level": 2
+    },
+    {
+      "id": "e8",
+      "type": "paragraph",
+      "page": 1,
+      "text": "(e) This AD is the result of six reports of Augustair, Inc. Models 2150A and 2180 airplanes with a cracked vertical stabilizer front spar. We are issuing this AD to detect and correct cracks in the vertical stabilizer front spar, which could result in separation of the vertical stabilizer from the airplane. This failure could lead to loss of control."
+    },
+    {
+      "id": "e9",
+      "type": "heading",
+      "page": 1,
+      "text": "Compliance",
+      "level": 2
+    },
+    {
+      "id": "e10",
+      "type": "paragraph",
+      "page": 1,
+      "text": "(f) To address this problem, you must do the following, unless already done:"
+    },
+    {
+      "id": "e11",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Before further flight after March 24, 2010 (the effective date of this AD), visually inspect the vertical stabilizer front spar for cracks and other damage (loose fasteners, corrosion, scratches) following section 2, paragraph A, of Augustair Service Bulletin SB2009-1, Revision B, dated February 2, 2010."
+    },
+    {
+      "id": "e12",
+      "type": "paragraph",
+      "page": 1,
+      "text": "At the applicable compliance time specified in paragraph (f)(2)(i) and (f)(2)(ii) of this AD, do a detailed inspection of the vertical stabilizer front spar for cracks and other damage, repair any damage found, and install a doubler to the vertical stabilizer front spar following section 2, paragraph B, of Augustair Service Bulletin SB2009-1, Revision B, dated February 2, 2010."
+    },
+    {
+      "id": "e13",
+      "type": "paragraph",
+      "page": 1,
+      "text": "(i) Before further flight after the inspection required in paragraph (f)(1) of this AD where cracks or other damage is found; or"
+    },
+    {
+      "id": "e14",
+      "type": "paragraph",
+      "page": 1,
+      "text": "(ii) Within 10 hours time-in-service (TIS) after the inspection required in paragraph (f)(1) of this AD where no cracks or other damage was found."
+    },
+    {
+      "id": "e15",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Report the inspection results from paragraph (f)(2) of this AD within 30 days after the inspection or within 30 days after March 24, 2010 (the effective date of this AD), whichever occurs later. Send your report to ATTN: Hal Horsburgh, Aerospace Engineer, FAA, Atlanta Aircraft Certification Office (ACO), 1701 Columbia Avenue, College Park, Georgia 30337; fax: (404) 4745606; e-mail: hal.horsburgh@faa.gov. The Office of Management and Budget (OMB) approved the information collection requirements contained in this regulation under the provisions of the Paperwork Reduction Act and assigned OMB Control Number 2120-0056. Include in your report the following information:"
+    },
+    {
+      "id": "e16",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Aircraft model and serial number;"
+    },
+    {
+      "id": "e17",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Aircraft hours TIS;"
+    },
+    {
+      "id": "e18",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Answer whether any crack was found and, if so, the crack location and size;"
+    },
+    {
+      "id": "e19",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Description of any previous modifications or repairs in the vertical stabilizer spar attachment area or if the airplane was modified with a different engine model or propeller model than originally installed on the airplane and hours TIS when the modification was done;"
+    },
+    {
+      "id": "e20",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Corrective action taken;"
+    },
+    {
+      "id": "e21",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Answer yes or no whether other damage was found; and if so, describe it;"
+    },
+    {
+      "id": "e22",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Point of contact name and phone number; and"
+    },
+    {
+      "id": "e23",
+      "type": "paragraph",
+      "page": 1,
+      "text": "(8) Clearly identify the AD No., Docket No., and Directorate Identifier of the AD action requiring the report."
+    },
+    {
+      "id": "e24",
+      "type": "heading",
+      "page": 1,
+      "text": "Alternative Methods of Compliance (AMOCs)",
+      "level": 2
+    },
+    {
+      "id": "e25",
+      "type": "paragraph",
+      "page": 1,
+      "text": "(g) The Manager, Atlanta Aircraft Certification Office (ACO), FAA, has the authority to approve AMOCs for this AD, if requested using the procedures found in 14 CFR 39.19. Send information to ATTN: Hal Horsburgh, Aerospace Engineer, FAA, Atlanta Aircraft Certification Office (ACO), 1701 Columbia Avenue, College Park, Georgia 30337; telephone: (404) 474-5553; fax: (404) 474-5606; e-mail: hal.horsburgh@faa.gov. Before using any approved AMOC on any airplane to which the AMOC applies, notify your appropriate principal inspector (PI) in the FAA Flight"
+    },
+    {
+      "id": "e26",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Standards District Office (FSDO), or lacking a PI, your local FSDO."
+    },
+    {
+      "id": "e27",
+      "type": "heading",
+      "page": 1,
+      "text": "Material Incorporated by Reference",
+      "level": 2
+    },
+    {
+      "id": "e28",
+      "type": "paragraph",
+      "page": 1,
+      "text": "(h) You must use Augustair Service Bulletin SB2009-1, Revision B, dated February 2, 2010, to do the actions required by this AD, unless the AD specifies otherwise."
+    },
+    {
+      "id": "e29",
+      "type": "paragraph",
+      "page": 1,
+      "text": "The Director of the Federal Register approved the incorporation by reference of this service information under 5 U.S.C. 552(a) and 1 CFR part 51."
+    },
+    {
+      "id": "e30",
+      "type": "paragraph",
+      "page": 1,
+      "text": "For service information identified in this AD, contact Augustair, Inc., 1809 Hephzibah McBean Rd., Hephzibah, Georgia 30815; telephone: (706) 836-8610; fax: (706) 925-2847; Internet: http://"
+    },
+    {
+      "id": "e31",
+      "type": "paragraph",
+      "page": 1,
+      "text": "VG21squadron.com; e-mail:"
+    },
+    {
+      "id": "e32",
+      "type": "heading",
+      "page": 1,
+      "text": "lorenperry@aol.com.",
+      "level": 2
+    },
+    {
+      "id": "e33",
+      "type": "paragraph",
+      "page": 1,
+      "text": "You may review copies of the service information incorporated by reference for this AD at the FAA, Central Region, Office of the Regional Counsel, 901 Locust, Kansas City, Missouri 64106. For information on the availability of this material at the Central Region, call (816) 329-3768."
+    },
+    {
+      "id": "e34",
+      "type": "paragraph",
+      "page": 1,
+      "text": "You may also review copies of the service information incorporated by reference for this AD at the National Archives and"
+    },
+    {
+      "id": "e35",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Records Administration (NARA). For information on the availability of this material at NARA, call (202) 741-6030, or go to: http://www.archives.gov/federal_register/ code_of_federal_regulations/ ibr_locations.html."
+    },
+    {
+      "id": "e36",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Issued in Kansas City, Missouri, on February 11, 2010."
+    },
+    {
+      "id": "e37",
+      "type": "heading",
+      "page": 1,
+      "text": "Steven W. Thompson,",
+      "level": 2
+    },
+    {
+      "id": "e38",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Acting Manager, Small Airplane Directorate, Aircraft Certification Service."
+    },
+    {
+      "id": "e39",
+      "type": "paragraph",
+      "page": 1,
+      "text": "[FR Doc. 2010-3185 Filed 2-22-10; 8:45 am]"
+    },
+    {
+      "id": "e40",
+      "type": "paragraph",
+      "page": 1,
+      "text": "BILLING CODE 4910-13-P"
+    },
+    {
+      "id": "e41",
+      "type": "heading",
+      "page": 1,
+      "text": "DEPARTMENT OF TRANSPORTATION",
+      "level": 2
+    },
+    {
+      "id": "e42",
+      "type": "heading",
+      "page": 1,
+      "text": "Federal Aviation Administration",
+      "level": 2
+    },
+    {
+      "id": "e43",
+      "type": "heading",
+      "page": 1,
+      "text": "14 CFR Part 39",
+      "level": 2
+    },
+    {
+      "id": "e44",
+      "type": "paragraph",
+      "page": 1,
+      "text": "[Docket No. FAA-2009-0747; Directorate Identifier 2009-NE-28-AD; Amendment 3916199; AD 2010-04-06]"
+    },
+    {
+      "id": "e45",
+      "type": "heading",
+      "page": 1,
+      "text": "RIN 2120-AA64",
+      "level": 2
+    },
+    {
+      "id": "e46",
+      "type": "heading",
+      "page": 1,
+      "text": "Airworthiness Directives; Thielert Aircraft Engines GmbH (TAE) Model TAE 125-01 Reciprocating Engines",
+      "level": 2
+    },
+    {
+      "id": "e47",
+      "type": "paragraph",
+      "page": 1,
+      "text": "AGENCY: Federal Aviation"
+    },
+    {
+      "id": "e48",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Administration (FAA), DOT."
+    },
+    {
+      "id": "e49",
+      "type": "paragraph",
+      "page": 1,
+      "text": "ACTION: Final rule."
+    },
+    {
+      "id": "e50",
+      "type": "paragraph",
+      "page": 1,
+      "text": "SUMMARY: We are adopting a new airworthiness directive (AD) for the products listed above. This AD results from mandatory continuing airworthiness information (MCAI) issued by an aviation authority of another country to identify and correct an unsafe condition on an aviation product. The MCAI describes the unsafe condition as:"
+    },
+    {
+      "id": "e51",
+      "type": "paragraph",
+      "page": 1,
+      "text": "An in-flight engine shutdown incident was reported on an aircraft equipped with a TAE 125-01 engine. This was found to be mainly the result of a blockage of the scavenge oil gear pump due to a broken axial bearing of the turbocharger. The broken parts were sucked into the oil pump and caused seizure. With the pump inoperative, the separator overfilled, causing the engine oil to escape via the breather vent line. This caused a loss of oil that resulted in the engine overheating and subsequent shutdown."
+    },
+    {
+      "id": "e52",
+      "type": "paragraph",
+      "page": 1,
+      "text": "VerDate Nov<24>2008 16:17 Feb 22, 2010 Jkt 220001 PO 00000 Frm 00019 Fmt 4700 Sfmt 4700 E:\\FR\\FM\\23FER1.SGM 23FER1"
+    },
+    {
+      "id": "e53",
+      "type": "page_header",
+      "page": 2,
+      "text": "7948"
+    },
+    {
+      "id": "e54",
+      "type": "page_header",
+      "page": 2,
+      "text": "Federal Register /Vol. 75, No. 35/Tuesday, February 23, 2010/Rules and Regulations"
+    },
+    {
+      "id": "e55",
+      "type": "paragraph",
+      "page": 2,
+      "text": "mstockstill on DSKH9S0YB1PROD with RULES"
+    },
+    {
+      "id": "e56",
+      "type": "paragraph",
+      "page": 2,
+      "text": "We are issuing this AD to prevent engine in-flight shutdown, possibly resulting in reduced control of the aircraft."
+    },
+    {
+      "id": "e57",
+      "type": "paragraph",
+      "page": 2,
+      "text": "DATES: This AD becomes effective March 30, 2010. The Director of the Federal Register approved the incorporation by reference of certain publications listed in this AD as of March 30, 2010."
+    },
+    {
+      "id": "e58",
+      "type": "paragraph",
+      "page": 2,
+      "text": "ADDRESSES: The Docket Operations office is located at Docket Management Facility, U.S. Department of Transportation, 1200 New Jersey Avenue, SE., West Building Ground Floor, Room W12-140, Washington, DC 20590-0001."
+    },
+    {
+      "id": "e59",
+      "type": "paragraph",
+      "page": 2,
+      "text": "FOR FURTHER INFORMATION CONTACT: Tara Chaidez, Aerospace Engineer, Engine Certification Office, FAA, Engine and Propeller Directorate, 12 New England Executive Park, Burlington, MA 01803; e-mail: tara.chaidez@faa.gov; telephone (781) 238-7773; fax (781) 238-7199."
+    },
+    {
+      "id": "e60",
+      "type": "heading",
+      "page": 2,
+      "text": "SUPPLEMENTARY INFORMATION:",
+      "level": 2
+    },
+    {
+      "id": "e61",
+      "type": "heading",
+      "page": 2,
+      "text": "Discussion",
+      "level": 2
+    },
+    {
+      "id": "e62",
+      "type": "paragraph",
+      "page": 2,
+      "text": "We issued a notice of proposed rulemaking (NPRM) to amend 14 CFR part 39 to include an AD that would apply to the specified products. That NPRM was published in the Federal Register on September 17, 2009 (74 FR 47759. That NPRM proposed to correct an unsafe condition for the specified products. The MCAI states:"
+    },
+    {
+      "id": "e63",
+      "type": "paragraph",
+      "page": 2,
+      "text": "An in-flight engine shutdown incident was reported on an aircraft equipped with a TAE 125-01 engine. This was found to be mainly the result of a blockage of the scavenge oil gear pump due to a broken axial bearing of the turbocharger. The broken parts were sucked into the oil pump and caused seizure. With the pump inoperative, the separator overfilled, causing the engine oil to escape via the breather vent line. This caused a loss of oil that resulted in the engine overheating and subsequent shutdown."
+    },
+    {
+      "id": "e64",
+      "type": "heading",
+      "page": 2,
+      "text": "Comments",
+      "level": 2
+    },
+    {
+      "id": "e65",
+      "type": "paragraph",
+      "page": 2,
+      "text": "We gave the public the opportunity to participate in developing this AD. We received no comments on the NPRM or on the determination of the cost to the public."
+    },
+    {
+      "id": "e66",
+      "type": "heading",
+      "page": 2,
+      "text": "Conclusion",
+      "level": 2
+    },
+    {
+      "id": "e67",
+      "type": "paragraph",
+      "page": 2,
+      "text": "We reviewed the available data and determined that air safety and the public interest require adopting the AD as proposed."
+    },
+    {
+      "id": "e68",
+      "type": "heading",
+      "page": 2,
+      "text": "Differences Between This AD and the MCAI or Service Information",
+      "level": 2
+    },
+    {
+      "id": "e69",
+      "type": "paragraph",
+      "page": 2,
+      "text": "We have reviewed the MCAI and, in general, agree with its substance. But we have found it necessary to change the compliance from ''within the next 50 flight hours after the effective date of this directive, but not later than 31 October 2007, whichever occurs first'', to ''within the next 50 flight hours after the effective date of this AD.''"
+    },
+    {
+      "id": "e70",
+      "type": "heading",
+      "page": 2,
+      "text": "Costs of Compliance",
+      "level": 2
+    },
+    {
+      "id": "e71",
+      "type": "paragraph",
+      "page": 2,
+      "text": "Based on the service information, we estimate that this AD will affect about 250 products of U.S. registry. We also estimate that it will take about one work-hour per product to comply with this AD. The average labor rate is $80 per work-hour. Required parts will cost about $80 per product. Based on these figures, we estimate the cost of the AD on U.S. operators to be $40,000."
+    },
+    {
+      "id": "e72",
+      "type": "heading",
+      "page": 2,
+      "text": "Authority for This Rulemaking",
+      "level": 2
+    },
+    {
+      "id": "e73",
+      "type": "paragraph",
+      "page": 2,
+      "text": "Title 49 of the United States Code specifies the FAA's authority to issue rules on aviation safety. Subtitle I, section 106, describes the authority of the FAA Administrator. ''Subtitle VII: Aviation Programs,'' describes in more detail the scope of the Agency's authority."
+    },
+    {
+      "id": "e74",
+      "type": "paragraph",
+      "page": 2,
+      "text": "We are issuing this rulemaking under the authority described in ''Subtitle VII, Part A, Subpart III, Section 44701: General requirements.'' Under that section, Congress charges the FAA with promoting safe flight of civil aircraft in air commerce by prescribing regulations for practices, methods, and procedures the Administrator finds necessary for safety in air commerce. This regulation is within the scope of that authority because it addresses an unsafe condition that is likely to exist or develop on products identified in this rulemaking action."
+    },
+    {
+      "id": "e75",
+      "type": "heading",
+      "page": 2,
+      "text": "Regulatory Findings",
+      "level": 2
+    },
+    {
+      "id": "e76",
+      "type": "paragraph",
+      "page": 2,
+      "text": "We determined that this AD will not have federalism implications under Executive Order 13132. This AD will not have a substantial direct effect on the States, on the relationship between the national government and the States, or on the distribution of power and responsibilities among the various levels of government."
+    },
+    {
+      "id": "e77",
+      "type": "paragraph",
+      "page": 2,
+      "text": "For the reasons discussed above, I certify this AD:"
+    },
+    {
+      "id": "e78",
+      "type": "paragraph",
+      "page": 2,
+      "text": "Is not a ''significant regulatory action'' under Executive Order 12866;"
+    },
+    {
+      "id": "e79",
+      "type": "paragraph",
+      "page": 2,
+      "text": "Is not a ''significant rule'' under the DOT Regulatory Policies and Procedures (44 FR 11034, February 26, 1979); and"
+    },
+    {
+      "id": "e80",
+      "type": "paragraph",
+      "page": 2,
+      "text": "Will not have a significant economic impact, positive or negative, on a substantial number of small entities under the criteria of the Regulatory Flexibility Act."
+    },
+    {
+      "id": "e81",
+      "type": "paragraph",
+      "page": 2,
+      "text": "We prepared a regulatory evaluation of the estimated costs to comply with this AD and placed it in the AD docket."
+    },
+    {
+      "id": "e82",
+      "type": "heading",
+      "page": 2,
+      "text": "Examining the AD Docket",
+      "level": 2
+    },
+    {
+      "id": "e83",
+      "type": "paragraph",
+      "page": 2,
+      "text": "You may examine the AD docket on the Internet at http:// www.regulations.gov; or in person at the Docket Operations office between 9 a.m. and 5 p.m., Monday through Friday, except Federal holidays. The AD docket contains this AD, the regulatory evaluation, any comments received, and other information. The street address for the Docket Operations office (telephone (800) 647-5527) is provided in the ADDRESSES section. Comments will be available in the AD docket shortly after receipt."
+    },
+    {
+      "id": "e84",
+      "type": "heading",
+      "page": 2,
+      "text": "List of Subjects in 14 CFR Part 39",
+      "level": 2
+    },
+    {
+      "id": "e85",
+      "type": "paragraph",
+      "page": 2,
+      "text": "Air transportation, Aircraft, Aviation safety, Incorporation by reference, Safety."
+    },
+    {
+      "id": "e86",
+      "type": "heading",
+      "page": 2,
+      "text": "Adoption of the Amendment",
+      "level": 2
+    },
+    {
+      "id": "e87",
+      "type": "paragraph",
+      "page": 2,
+      "text": "■ Accordingly, under the authority delegated to me by the Administrator, the FAA amends 14 CFR part 39 as follows:"
+    },
+    {
+      "id": "e88",
+      "type": "heading",
+      "page": 2,
+      "text": "PART 39-AIRWORTHINESS DIRECTIVES",
+      "level": 2
+    },
+    {
+      "id": "e89",
+      "type": "paragraph",
+      "page": 2,
+      "text": "■ 1. The authority citation for part 39 continues to read as follows:"
+    },
+    {
+      "id": "e90",
+      "type": "paragraph",
+      "page": 2,
+      "text": "Authority: 49 U.S.C. 106(g), 40113, 44701."
+    },
+    {
+      "id": "e91",
+      "type": "heading",
+      "page": 2,
+      "text": "§39.13 [Amended]",
+      "level": 2
+    },
+    {
+      "id": "e92",
+      "type": "paragraph",
+      "page": 2,
+      "text": "■ 2. The FAA amends §39.13 by adding the following new AD:"
+    },
+    {
+      "id": "e93",
+      "type": "paragraph",
+      "page": 2,
+      "text": "2010-04-06 Thielert Aircraft Engines GmbH: Amendment 39-16199. Docket No. FAA-2009-0747; Directorate Identifier 2009-NE-28-AD."
+    },
+    {
+      "id": "e94",
+      "type": "heading",
+      "page": 2,
+      "text": "Effective Date",
+      "level": 2
+    },
+    {
+      "id": "e95",
+      "type": "paragraph",
+      "page": 2,
+      "text": "(a) This airworthiness directive (AD) becomes effective March 30, 2010."
+    },
+    {
+      "id": "e96",
+      "type": "heading",
+      "page": 2,
+      "text": "Affected ADs",
+      "level": 2
+    },
+    {
+      "id": "e97",
+      "type": "paragraph",
+      "page": 2,
+      "text": "(b) None."
+    },
+    {
+      "id": "e98",
+      "type": "heading",
+      "page": 2,
+      "text": "Applicability",
+      "level": 2
+    },
+    {
+      "id": "e99",
+      "type": "paragraph",
+      "page": 2,
+      "text": "(c) This AD applies to Thielert Aircraft Engines GmbH (TAE) model TAE 125-01 reciprocating engines, all serial numbers (S/N) up to- and- including S/N 02-01-1018. These engines are installed in, but not limited to, Diamond Aircraft Industries Model DA42, Piper PA-28-161 (Supplemental Type Certificate (STC) No. SA03303AT), Cessna 172F, 172G, 172H, 172I, 172K, 172L, 172M, 172N, 172P, 172R, 172S, F172F, F172G, F172H, F172K, F172L, F172M, F172N, and F172P (STC No. SA01303WI) airplanes."
+    },
+    {
+      "id": "e100",
+      "type": "heading",
+      "page": 2,
+      "text": "Reason",
+      "level": 2
+    },
+    {
+      "id": "e101",
+      "type": "paragraph",
+      "page": 2,
+      "text": "(d) This AD results from mandatory continuing airworthiness information (MCAI) issued by an aviation authority of another country to identify and correct an unsafe condition on an aviation product. The MCAI describes the unsafe condition as:"
+    },
+    {
+      "id": "e102",
+      "type": "paragraph",
+      "page": 2,
+      "text": "VerDate Nov<24>2008 16:17 Feb 22, 2010 Jkt 220001 PO 00000 Frm 00020 Fmt 4700 Sfmt 4700 E:\\FR\\FM\\23FER1.SGM 23FER1"
+    },
+    {
+      "id": "e103",
+      "type": "page_header",
+      "page": 3,
+      "text": "Federal Register /Vol. 75, No. 35/Tuesday, February 23, 2010/Rules and Regulations"
+    },
+    {
+      "id": "e104",
+      "type": "page_header",
+      "page": 3,
+      "text": "7949"
+    },
+    {
+      "id": "e105",
+      "type": "paragraph",
+      "page": 3,
+      "text": "mstockstill on DSKH9S0YB1PROD with RULES"
+    },
+    {
+      "id": "e106",
+      "type": "paragraph",
+      "page": 3,
+      "text": "An in-flight engine shutdown incident was reported on an aircraft equipped with a TAE 125-01 engine. This was found to be mainly the result of a blockage of the scavenge oil gear pump due to a broken axial bearing of the turbocharger. The broken parts were sucked into the oil pump and caused seizure. With the pump inoperative, the separator overfilled, causing the engine oil to escape via the breather vent line. This caused a loss of oil that resulted in the engine overheating and subsequent shutdown."
+    },
+    {
+      "id": "e107",
+      "type": "paragraph",
+      "page": 3,
+      "text": "We are issuing this AD to prevent engine in-flight shutdown, possibly resulting in reduced control of the aircraft."
+    },
+    {
+      "id": "e108",
+      "type": "heading",
+      "page": 3,
+      "text": "Actions and Compliance",
+      "level": 2
+    },
+    {
+      "id": "e109",
+      "type": "paragraph",
+      "page": 3,
+      "text": "(e) Unless already done, do the following actions within the next 50 flight hours after the effective date of this AD:"
+    },
+    {
+      "id": "e110",
+      "type": "paragraph",
+      "page": 3,
+      "text": "(1) Modify the engine oil system by installing a filter adaptor to the catch tank."
+    },
+    {
+      "id": "e111",
+      "type": "paragraph",
+      "page": 3,
+      "text": "(2) Use the installation instructions in Thielert Service Bulletin No. TM TAE 1250016, Revision 1, dated June 15, 2007, to install the filter adaptor."
+    },
+    {
+      "id": "e112",
+      "type": "heading",
+      "page": 3,
+      "text": "FAA AD Differences",
+      "level": 2
+    },
+    {
+      "id": "e113",
+      "type": "paragraph",
+      "page": 3,
+      "text": "(f) This AD differs from the Mandatory Continuing Airworthiness Information (MCAI) as follows:"
+    },
+    {
+      "id": "e114",
+      "type": "paragraph",
+      "page": 3,
+      "text": "(1) The MCAI compliance time states ''within the next 50 flight hours after the effective date of this directive, but not later than 31 October 2007, whichever occurs first''."
+    },
+    {
+      "id": "e115",
+      "type": "paragraph",
+      "page": 3,
+      "text": "(2) This AD compliance time states ''within the next 50 flight hours after the effective date of this AD.''"
+    },
+    {
+      "id": "e116",
+      "type": "heading",
+      "page": 3,
+      "text": "Related Information",
+      "level": 2
+    },
+    {
+      "id": "e117",
+      "type": "paragraph",
+      "page": 3,
+      "text": "(g) Refer to European Aviation Safety Agency AD 2007-0232, dated August 23, 2007, for related information."
+    },
+    {
+      "id": "e118",
+      "type": "paragraph",
+      "page": 3,
+      "text": "(h) Contact Tara Chaidez, Aerospace Engineer, Engine Certification Office, FAA, Engine and Propeller Directorate, 12 New England Executive Park, Burlington, MA 01803; e-mail: tara.chaidez@faa.gov; telephone (781) 238-7773; fax (781) 2387199, for more information about this AD."
+    },
+    {
+      "id": "e119",
+      "type": "heading",
+      "page": 3,
+      "text": "Material Incorporated by Reference",
+      "level": 2
+    },
+    {
+      "id": "e120",
+      "type": "paragraph",
+      "page": 3,
+      "text": "(i) You must use Thielert Service Bulletin No. TM TAE 125-0016, Revision 1, dated June 15, 2007, to do the actions required by this AD, unless the AD specifies otherwise."
+    },
+    {
+      "id": "e121",
+      "type": "paragraph",
+      "page": 3,
+      "text": "The Director of the Federal Register approved the incorporation by reference of this service information under 5 U.S.C. 552(a) and 1 CFR part 51."
+    },
+    {
+      "id": "e122",
+      "type": "paragraph",
+      "page": 3,
+      "text": "For service information identified in this AD, contact Thielert Aircraft Engines GmbH, Platanenstrasse 14 D-09350, Lichtenstein, Germany, telephone: +4937204-696-0; fax: +49-37204-696-55; e-mail: info@centurion-engines.com."
+    },
+    {
+      "id": "e123",
+      "type": "paragraph",
+      "page": 3,
+      "text": "You may review copies at the FAA, New England Region, 12 New England Executive Park, Burlington, MA; or at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call (202) 741-6030, or go to: http:// www.archives.gov/federal-register/cfr/ibrlocations.html."
+    },
+    {
+      "id": "e124",
+      "type": "paragraph",
+      "page": 3,
+      "text": "Issued in Burlington, Massachusetts, on February 8, 2010."
+    },
+    {
+      "id": "e125",
+      "type": "heading",
+      "page": 3,
+      "text": "Peter A. White,",
+      "level": 2
+    },
+    {
+      "id": "e126",
+      "type": "paragraph",
+      "page": 3,
+      "text": "Assistant Manager, Engine and Propeller"
+    },
+    {
+      "id": "e127",
+      "type": "paragraph",
+      "page": 3,
+      "text": "Directorate, Aircraft Certification Service. [FR Doc. 2010-3117 Filed 2-22-10; 8:45 am]"
+    },
+    {
+      "id": "e128",
+      "type": "paragraph",
+      "page": 3,
+      "text": "BILLING CODE 4910-13-P"
+    },
+    {
+      "id": "e129",
+      "type": "heading",
+      "page": 3,
+      "text": "DEPARTMENT OF TRANSPORTATION",
+      "level": 2
+    },
+    {
+      "id": "e130",
+      "type": "heading",
+      "page": 3,
+      "text": "Federal Aviation Administration",
+      "level": 2
+    },
+    {
+      "id": "e131",
+      "type": "heading",
+      "page": 3,
+      "text": "14 CFR Part 39",
+      "level": 2
+    },
+    {
+      "id": "e132",
+      "type": "paragraph",
+      "page": 3,
+      "text": "[Docket No. FAA-2009-1025 Directorate Identifier 2009-CE-055-AD; Amendment 39-16204; AD 2010-04-11]"
+    },
+    {
+      "id": "e133",
+      "type": "paragraph",
+      "page": 3,
+      "text": "RIN 2120-AA64"
+    },
+    {
+      "id": "e134",
+      "type": "heading",
+      "page": 3,
+      "text": "Airworthiness Directives; Extra Flugzeugproduktions- und VertriebsGmbH Models EA-300/200 and EA300/L Airplanes",
+      "level": 2
+    },
+    {
+      "id": "e135",
+      "type": "paragraph",
+      "page": 3,
+      "text": "AGENCY: Federal Aviation Administration (FAA), Department of Transportation (DOT). ACTION: Final rule."
+    },
+    {
+      "id": "e136",
+      "type": "paragraph",
+      "page": 3,
+      "text": "SUMMARY: We are adopting a new airworthiness directive (AD) for the products listed above. This AD results from mandatory continuing airworthiness information (MCAI) issued by an aviation authority of another country to identify and correct an unsafe condition on an aviation product. The MCAI describes the unsafe condition as:"
+    },
+    {
+      "id": "e137",
+      "type": "paragraph",
+      "page": 3,
+      "text": "The manufacturer has advised that the combination of a redesigned tail spring support with a stiffer tail spring and rough field operations has led to cracks in the tail spring support mounting base. Cracks have also been reported on aeroplanes already compliant with Part II of Extra Service Bulletin No. SB-300-2-97 issue A, as mandated by the LBA AD D-1998-001, dated 15 January 1998."
+    },
+    {
+      "id": "e138",
+      "type": "paragraph",
+      "page": 3,
+      "text": "We are issuing this AD to require actions to correct the unsafe condition on these products."
+    },
+    {
+      "id": "e139",
+      "type": "paragraph",
+      "page": 3,
+      "text": "DATES: This AD becomes effective March 30, 2010."
+    },
+    {
+      "id": "e140",
+      "type": "paragraph",
+      "page": 3,
+      "text": "On March 30, 2010, the Director of the Federal Register approved the incorporation by reference of certain publications listed in this AD."
+    },
+    {
+      "id": "e141",
+      "type": "paragraph",
+      "page": 3,
+      "text": "ADDRESSES: You may examine the AD docket on the Internet at http:// www.regulations.gov or in person at Document Management Facility, U.S. Department of Transportation, Docket Operations, M-30, West Building Ground Floor, Room W12-140, 1200 New Jersey Avenue, SE., Washington, DC 20590."
+    },
+    {
+      "id": "e142",
+      "type": "paragraph",
+      "page": 3,
+      "text": "FOR FURTHER INFORMATION CONTACT: Greg Davison, Aerospace Engineer, FAA, Small Airplane Directorate, 901 Locust, Room 301, Kansas City, Missouri 64106; telephone: (816) 329-4130; fax: (816) 329-4090."
+    },
+    {
+      "id": "e143",
+      "type": "heading",
+      "page": 3,
+      "text": "SUPPLEMENTARY INFORMATION:",
+      "level": 2
+    },
+    {
+      "id": "e144",
+      "type": "heading",
+      "page": 3,
+      "text": "Discussion",
+      "level": 2
+    },
+    {
+      "id": "e145",
+      "type": "paragraph",
+      "page": 3,
+      "text": "We issued a notice of proposed rulemaking (NPRM) to amend 14 CFR part 39 to include an AD that would apply to the specified products. That NPRM was published in the Federal Register on November 3, 2009 (74 FR 56748). That NPRM proposed to correct an unsafe condition for the specified products. The MCAI states:"
+    },
+    {
+      "id": "e146",
+      "type": "paragraph",
+      "page": 3,
+      "text": "The manufacturer has advised that the combination of a redesigned tail spring support with a stiffer tail spring and rough field operations has led to cracks in the tail spring support mounting base. Cracks have also been reported on aeroplanes already compliant with Part II of Extra Service Bulletin No. SB-300-2-97 issue A, as mandated by the LBA AD D-1998-001, dated 15 January 1998."
+    },
+    {
+      "id": "e147",
+      "type": "paragraph",
+      "page": 3,
+      "text": "For the reasons stated above, this new AD mandates instructions for recurring inspections and modification in the area of the tail spring support in order to prevent separation of the tail landing gear which could result in serious damage to the airplane during landing."
+    },
+    {
+      "id": "e148",
+      "type": "heading",
+      "page": 3,
+      "text": "Comments",
+      "level": 2
+    },
+    {
+      "id": "e149",
+      "type": "paragraph",
+      "page": 3,
+      "text": "We gave the public the opportunity to participate in developing this AD. We received no comments on the NPRM or on the determination of the cost to the public."
+    },
+    {
+      "id": "e150",
+      "type": "heading",
+      "page": 3,
+      "text": "Conclusion",
+      "level": 2
+    },
+    {
+      "id": "e151",
+      "type": "paragraph",
+      "page": 3,
+      "text": "We reviewed the available data and determined that air safety and the public interest require adopting the AD as proposed."
+    },
+    {
+      "id": "e152",
+      "type": "heading",
+      "page": 3,
+      "text": "Differences Between This AD and the MCAI or Service Information",
+      "level": 2
+    },
+    {
+      "id": "e153",
+      "type": "paragraph",
+      "page": 3,
+      "text": "We have reviewed the MCAI and related service information and, in general, agree with their substance. But we might have found it necessary to use different words from those in the MCAI to ensure the AD is clear for U.S. operators and is enforceable. In making these changes, we do not intend to differ substantively from the information provided in the MCAI and related service information."
+    },
+    {
+      "id": "e154",
+      "type": "paragraph",
+      "page": 3,
+      "text": "We might also have required different actions in this AD from those in the MCAI in order to follow FAA policies. Any such differences are highlighted in a Note within the AD."
+    },
+    {
+      "id": "e155",
+      "type": "heading",
+      "page": 3,
+      "text": "Costs of Compliance",
+      "level": 2
+    },
+    {
+      "id": "e156",
+      "type": "paragraph",
+      "page": 3,
+      "text": "We estimate that this AD will affect 184 products of U.S. registry. We also estimate that it will take about 2 work-"
+    },
+    {
+      "id": "e157",
+      "type": "paragraph",
+      "page": 3,
+      "text": "VerDate Nov<24>2008 16:17 Feb 22, 2010 Jkt 220001 PO 00000 Frm 00021 Fmt 4700 Sfmt 4700 E:\\FR\\FM\\23FER1.SGM 23FER1"
+    }
+  ]
+}

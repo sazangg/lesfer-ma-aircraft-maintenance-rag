@@ -1,0 +1,102 @@
+{
+  "source_id": "WO-2026-0146",
+  "file": "anfa/work-orders/WO-2026-0146.pdf",
+  "format": "pdf",
+  "parser": "docling",
+  "meta": {
+    "publisher": "Anfa Aero Services",
+    "title": "Work order WO-2026-0146: CN-TFB, repair",
+    "doc_type": "work order",
+    "aircraft": "CN-TFB",
+    "date": "2026-04-16",
+    "access": "staff"
+  },
+  "elements": [
+    {
+      "id": "e1",
+      "type": "heading",
+      "page": 1,
+      "text": "Anfa Aero Services: work order WO-2026-0146",
+      "level": 2
+    },
+    {
+      "id": "e2",
+      "type": "table",
+      "header": [
+        "Field",
+        "Value"
+      ],
+      "rows": [
+        [
+          "Date completed",
+          "16 April 2026"
+        ],
+        [
+          "Registration",
+          "CN-TFB"
+        ],
+        [
+          "Aircraft",
+          "Cessna 172S"
+        ],
+        [
+          "Serial number",
+          "172S10237"
+        ],
+        [
+          "Airframe total time at completion (h)",
+          "8,061.2"
+        ],
+        [
+          "Station",
+          "Casablanca"
+        ]
+      ],
+      "page": 1
+    },
+    {
+      "id": "e3",
+      "type": "heading",
+      "page": 1,
+      "text": "Request",
+      "level": 2
+    },
+    {
+      "id": "e4",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Oil seep at oil cooler hose after engine reinstallation."
+    },
+    {
+      "id": "e5",
+      "type": "heading",
+      "page": 1,
+      "text": "Work performed",
+      "level": 2
+    },
+    {
+      "id": "e6",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Tightened oil cooler hose fitting. Torque per maintenance manual. Wrench T-022. Leak check satisfactory."
+    },
+    {
+      "id": "e7",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Certification: the work above was performed in accordance with 14 CFR Part 43 and the procedures manual. The aircraft is airworthy for the work performed."
+    },
+    {
+      "id": "e8",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Performed by: Y. Alaoui"
+    },
+    {
+      "id": "e9",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Return to service: K. Bennani, licence MA-B1-0212"
+    }
+  ]
+}

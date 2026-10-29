@@ -1,0 +1,1137 @@
+{
+  "source_id": "AD-2007-08-03",
+  "file": "faa/ad/ad-2007-08-03.pdf",
+  "format": "pdf",
+  "parser": "docling",
+  "meta": {
+    "title": "AD 2007-08-03: Cessna Aircraft Company Models 172R, 172S, 182T, T182T, 206H, and T206H Airplanes",
+    "publisher": "FAA",
+    "doc_type": "airworthiness directive",
+    "ad_number": "2007-08-03",
+    "action": "Final rule; request for comments",
+    "published": "2007-04-12",
+    "effective": "2007-05-02",
+    "federal_register": "72 FR 18380 (document E7-6826)",
+    "access": "employees"
+  },
+  "elements": [
+    {
+      "id": "e1",
+      "type": "page_header",
+      "page": 1,
+      "text": "18380"
+    },
+    {
+      "id": "e2",
+      "type": "page_header",
+      "page": 1,
+      "text": "Federal Register /Vol. 72, No. 70/Thursday, April 12, 2007/Rules and Regulations"
+    },
+    {
+      "id": "e3",
+      "type": "paragraph",
+      "page": 1,
+      "text": "rmajette on PROD1PC67 with RULES"
+    },
+    {
+      "id": "e4",
+      "type": "heading",
+      "page": 1,
+      "text": "Installation of Cockpit Placard for RPM Restriction",
+      "level": 2
+    },
+    {
+      "id": "e5",
+      "type": "paragraph",
+      "page": 1,
+      "text": "(f) Within 10 hours time-in-service (TIS) after the effective date of this AD, install a placard on the instrument panel as close to the tachometer as possible, that states, in 1 /8 inch-high or higher characters, ''Continuous operation between 2,350-2,450 RPM at or above 24″ manifold pressure is prohibited''."
+    },
+    {
+      "id": "e6",
+      "type": "paragraph",
+      "page": 1,
+      "text": "The placard shall have red letters, on a white contrasting background with a red border. For example:"
+    },
+    {
+      "id": "e7",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Continuous operation between 2,350-2,450 RPM at or above 24″ manifold pressure is prohibited"
+    },
+    {
+      "id": "e8",
+      "type": "heading",
+      "page": 1,
+      "text": "Propellers With Unknown Total Hours TIS, or 10,000 or More Hours Total TIS on the Effective Date of This AD",
+      "level": 2
+    },
+    {
+      "id": "e9",
+      "type": "paragraph",
+      "page": 1,
+      "text": "(g) For propellers that the total TIS is unknown, or that have 10,000 or more hours total TIS on the effective date of this AD, remove the propeller from service within 50 hours TIS after the effective date of this AD."
+    },
+    {
+      "id": "e10",
+      "type": "heading",
+      "page": 1,
+      "text": "Propellers With Fewer Than 10,000 Hours Total TIS on the Effective Date of This AD",
+      "level": 2
+    },
+    {
+      "id": "e11",
+      "type": "paragraph",
+      "page": 1,
+      "text": "(h) For propellers with fewer than 10,000 total hours TIS on the effective date of this AD, do the following:"
+    },
+    {
+      "id": "e12",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Perform an inspection of the propeller blades and repair if necessary, within 100 hours after the effective date of this AD, using paragraphs 2.B. through 2.F. of Accomplishment Instructions of McCauley Propeller Systems Alert Service Bulletin (ASB) No. ASB248, dated April 19, 2005."
+    },
+    {
+      "id": "e13",
+      "type": "paragraph",
+      "page": 1,
+      "text": "At the next propeller overhaul or next major propeller disassembly, life-limit-stamp the letter ''L'' on the propeller hub and blades, using paragraph 3 of Accomplishment Instructions of McCauley Propeller Systems ASB No. ASB248, dated April 19, 2005."
+    },
+    {
+      "id": "e14",
+      "type": "paragraph",
+      "page": 1,
+      "text": "(3) Thereafter, within every 100 hours TIS or at next annual inspection, whichever occurs first, inspect, and repair if necessary, the propeller blades using paragraphs 2.B. through 2.F. of Accomplishment Instructions of McCauley Propeller Systems ASB No. ASB248, dated April 19, 2005."
+    },
+    {
+      "id": "e15",
+      "type": "paragraph",
+      "page": 1,
+      "text": "(4) Remove the propeller from service upon reaching the life limit of 10,000 hours total TIS."
+    },
+    {
+      "id": "e16",
+      "type": "heading",
+      "page": 1,
+      "text": "Alternative Methods of Compliance",
+      "level": 2
+    },
+    {
+      "id": "e17",
+      "type": "paragraph",
+      "page": 1,
+      "text": "(i) The Manager, Wichita Aircraft Certification Office, has the authority to approve alternative methods of compliance for this AD if requested using the procedures found in 14 CFR 39.19."
+    },
+    {
+      "id": "e18",
+      "type": "heading",
+      "page": 1,
+      "text": "Related Information",
+      "level": 2
+    },
+    {
+      "id": "e19",
+      "type": "paragraph",
+      "page": 1,
+      "text": "(j) Contact Jeff D. Janusz, Aerospace Engineer, Wichita Aircraft Certification Office, Small Airplane Directorate, 1801 Airport Road, Room 100, Wichita, KS 67209; telephone: 316-946-4148, fax: 316-9464107, for more information about this AD."
+    },
+    {
+      "id": "e20",
+      "type": "heading",
+      "page": 1,
+      "text": "Material Incorporated by Reference",
+      "level": 2
+    },
+    {
+      "id": "e21",
+      "type": "paragraph",
+      "page": 1,
+      "text": "(k) You must use McCauley Propeller Systems Alert Service Bulletin No. ASB248, dated April 19, 2005, to perform the actions required by this AD. The Director of the Federal Register approved the incorporation by reference of this service bulletin in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. Contact McCauley Propeller Systems, P.O. Box 7704, Wichita, Kansas; telephone (800) 621-7767, for a copy of this service information. You may review copies at the FAA, New England Region, Office of the Regional Counsel, 12 New England Executive Park, Burlington, MA; or the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202-741-6030, or go to: http://www.archives.gov/federalregister/cfr/ibr-locations.html."
+    },
+    {
+      "id": "e22",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Issued in Burlington, Massachusetts, on April 4, 2007."
+    },
+    {
+      "id": "e23",
+      "type": "heading",
+      "page": 1,
+      "text": "Peter A. White,",
+      "level": 2
+    },
+    {
+      "id": "e24",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Acting Manager, Engine and Propeller Directorate, Aircraft Certification Service. [FR Doc. E7-6831 Filed 4-11-07; 8:45 am]"
+    },
+    {
+      "id": "e25",
+      "type": "paragraph",
+      "page": 1,
+      "text": "BILLING CODE 4910-13-P"
+    },
+    {
+      "id": "e26",
+      "type": "heading",
+      "page": 1,
+      "text": "DEPARTMENT OF TRANSPORTATION",
+      "level": 2
+    },
+    {
+      "id": "e27",
+      "type": "heading",
+      "page": 1,
+      "text": "Federal Aviation Administration",
+      "level": 2
+    },
+    {
+      "id": "e28",
+      "type": "heading",
+      "page": 1,
+      "text": "14 CFR Part 39",
+      "level": 2
+    },
+    {
+      "id": "e29",
+      "type": "paragraph",
+      "page": 1,
+      "text": "[Docket No. FAA-2007-27709; Directorate Identifier 2007-CE-028-AD; Amendment 39-15020; AD 2007-08-03]"
+    },
+    {
+      "id": "e30",
+      "type": "paragraph",
+      "page": 1,
+      "text": "RIN 2120-AA64"
+    },
+    {
+      "id": "e31",
+      "type": "heading",
+      "page": 1,
+      "text": "Airworthiness Directives; Cessna Aircraft Company Models 172R, 172S, 182T, T182T, 206H, and T206H Airplanes",
+      "level": 2
+    },
+    {
+      "id": "e32",
+      "type": "paragraph",
+      "page": 1,
+      "text": "AGENCY: Federal Aviation"
+    },
+    {
+      "id": "e33",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Administration (FAA), DOT. ACTION: Final rule; request for comments."
+    },
+    {
+      "id": "e34",
+      "type": "paragraph",
+      "page": 1,
+      "text": "SUMMARY: The FAA is adopting a new airworthiness directive (AD) to supersede AD 2006-17-04, which applies to certain Cessna Aircraft Company (Cessna) Models 172R, 172S, 182T, T182T, 206H, and T206H airplanes. AD 2006-17-04 currently requires you to inspect the two end fittings on each of the flexible fuel hoses located in the engine compartment for the correct torque values, and, if any incorrect torque values are found during the inspection, tighten the hose end fittings to the correct torque values. This AD results from four reports of loose fuel lines connected to the fuel servo or fuel flow transducer. Two reports were of in-flight engine failure on a Model T182T airplane. A third report was of in-flight engine failure on a Model 206H airplane. A fourth report was of a Model 172S airplane losing engine power on final approach. Consequently, this AD would require you to establish the correct torque values of the end fittings on fuel hoses for certain Cessna Models 172R, 172S, 182T, T182T, 206H, and T206H airplanes. This AD clarifies that the torque values need to be physically established and visual inspection only is not sufficient. We are issuing this AD to detect and correct potential loss of fuel flow, which may result in partial or complete loss of engine power and/or uncontrolled engine compartment fire due to fuel leakage forward of the firewall."
+    },
+    {
+      "id": "e35",
+      "type": "paragraph",
+      "page": 1,
+      "text": "DATES: This AD becomes effective on May 2, 2007."
+    },
+    {
+      "id": "e36",
+      "type": "paragraph",
+      "page": 1,
+      "text": "On May 2, 2007 the Director of the Federal Register approved the incorporation by reference of certain publications listed in this AD."
+    },
+    {
+      "id": "e37",
+      "type": "paragraph",
+      "page": 1,
+      "text": "We must receive any comments on this AD by June 11, 2007. ADDRESSES: Use one of the following"
+    },
+    {
+      "id": "e38",
+      "type": "paragraph",
+      "page": 1,
+      "text": "addresses to comment on this AD."
+    },
+    {
+      "id": "e39",
+      "type": "paragraph",
+      "page": 1,
+      "text": "DOT Docket Web site: Go to http:// dms.dot.gov and follow the instructions for sending your comments electronically."
+    },
+    {
+      "id": "e40",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Mail: Docket Management Facility; U.S. Department of Transportation, 400 Seventh Street, SW., Nassif Building, Room PL-401, Washington, DC 205900001."
+    },
+    {
+      "id": "e41",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Fax: (202) 493-2251."
+    },
+    {
+      "id": "e42",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Hand Delivery: Room PL-401 on the plaza level of the Nassif Building, 400 Seventh Street, SW., Washington, DC, between 9 a.m. and 5 p.m., Monday through Friday, except Federal holidays."
+    },
+    {
+      "id": "e43",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Federal eRulemaking Portal: Go to http://www.regulations.gov. Follow the instructions for submitting comments."
+    },
+    {
+      "id": "e44",
+      "type": "paragraph",
+      "page": 1,
+      "text": "To get the service information identified in this AD, contact The Cessna Aircraft Company, Product Support, P.O. Box 7706, Wichita, Kansas 67277-7706; telephone: (316) 517-5800; facsimile: (316) 942-9006."
+    },
+    {
+      "id": "e45",
+      "type": "paragraph",
+      "page": 1,
+      "text": "To view the comments to this AD, go to http://dms.dot.gov. The docket number is FAA-2007-27709; Directorate Identifier 2007-CE-028-AD."
+    },
+    {
+      "id": "e46",
+      "type": "heading",
+      "page": 1,
+      "text": "FOR FURTHER INFORMATION CONTACT:",
+      "level": 2
+    },
+    {
+      "id": "e47",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Trenton Shepherd, Aerospace Engineer, Wichita ACO, 1801 Airport Road, Room 100, Wichita, Kansas 67209; telephone: (316) 946-4143; fax: (316) 946-4107."
+    },
+    {
+      "id": "e48",
+      "type": "heading",
+      "page": 1,
+      "text": "SUPPLEMENTARY INFORMATION:",
+      "level": 2
+    },
+    {
+      "id": "e49",
+      "type": "heading",
+      "page": 1,
+      "text": "Discussion",
+      "level": 2
+    },
+    {
+      "id": "e50",
+      "type": "paragraph",
+      "page": 1,
+      "text": "One report of loose fuel hose connections to the fuel injector servo on a Cessna Model 172S airplane caused us to issue AD 2006-17-04, Amendment 39-14725 (71 FR 47711, August 18, 2006). AD 2006-17-04 on certain Cessna Models 172R, 172S, 182T, T182T, 206H, and T206H airplanes, currently requires you to:"
+    },
+    {
+      "id": "e51",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Inspect the two end fittings on each of the flexible fuel hoses located in the"
+    },
+    {
+      "id": "e52",
+      "type": "paragraph",
+      "page": 1,
+      "text": "VerDate Aug<31>2005 14:18 Apr 11, 2007 Jkt 211001 PO 00000 Frm 00038 Fmt 4700 Sfmt 4700 E:\\FR\\FM\\12APR1.SGM 12APR1"
+    },
+    {
+      "id": "e53",
+      "type": "page_header",
+      "page": 2,
+      "text": "Federal Register /Vol. 72, No. 70/Thursday, April 12, 2007/Rules and Regulations"
+    },
+    {
+      "id": "e54",
+      "type": "page_header",
+      "page": 2,
+      "text": "18381"
+    },
+    {
+      "id": "e55",
+      "type": "paragraph",
+      "page": 2,
+      "text": "rmajette on PROD1PC67 with RULES"
+    },
+    {
+      "id": "e56",
+      "type": "paragraph",
+      "page": 2,
+      "text": "engine compartment for the correct torque values; and"
+    },
+    {
+      "id": "e57",
+      "type": "paragraph",
+      "page": 2,
+      "text": "Tighten the hose end fittings to the correct torque values, if any incorrect torque values are found during the inspection."
+    },
+    {
+      "id": "e58",
+      "type": "paragraph",
+      "page": 2,
+      "text": "Since issuing AD 2006-17-04, we have received four additional reports of loose fuel lines connected to the fuel servo or fuel flow transducer. Two reports were of in-flight engine failure on a Model T182T airplane. A third report was of in-flight engine failure on a Model 206H airplane. A fourth report was of a Model 172S airplane that lost engine power on final approach."
+    },
+    {
+      "id": "e59",
+      "type": "paragraph",
+      "page": 2,
+      "text": "In issuing AD 2006-17-04, our intent was for the torque values provided in Table 4 of the AD to be verified. However, the actions we specified in AD 2006-17-04 resulted in visual-only inspections being accomplished in some cases. Visual inspection of torque paint or putty is not sufficient to address the unsafe condition. This AD clarifies that the torque values need to be physically established."
+    },
+    {
+      "id": "e60",
+      "type": "paragraph",
+      "page": 2,
+      "text": "This condition, if not corrected, could result in loss of fuel flow resulting in partial or complete loss of engine power and/or uncontrolled engine compartment fire due to fuel leakage forward of the firewall."
+    },
+    {
+      "id": "e61",
+      "type": "heading",
+      "page": 2,
+      "text": "Relevant Service Information",
+      "level": 2
+    },
+    {
+      "id": "e62",
+      "type": "paragraph",
+      "page": 2,
+      "text": "We reviewed Cessna Service Bulletin No. SB07-71-01, original issue dated March 2, 2007, Revision 1, dated March 16, 2007. The service information describes procedures for a physical inspection of the fuel hose connections on each of the hoses by loosening each connection and then reapplying the correct torque value to make sure that they are correctly torqued."
+    },
+    {
+      "id": "e63",
+      "type": "heading",
+      "page": 2,
+      "text": "FAA's Determination and Requirements of This AD",
+      "level": 2
+    },
+    {
+      "id": "e64",
+      "type": "paragraph",
+      "page": 2,
+      "text": "We are issuing this AD because we evaluated all the information and determined the unsafe condition described previously is likely to exist or develop on other products of the same type design. This AD requires you to establish the correct torque values of the end fittings on fuel hoses for certain Cessna Models 172R, 172S, 182T, T182T, 206H, and T206H airplanes. This AD clarifies that the torque values need to be physically established and visual inspection only is not sufficient."
+    },
+    {
+      "id": "e65",
+      "type": "paragraph",
+      "page": 2,
+      "text": "In preparing this rule, we contacted type clubs and aircraft operators to get technical information and information on operational and economic impacts. We did not receive any information through these contacts. If received, we would have included a discussion of any information that may have influenced this action in the rulemaking docket."
+    },
+    {
+      "id": "e66",
+      "type": "heading",
+      "page": 2,
+      "text": "FAA's Determination of the Effective Date",
+      "level": 2
+    },
+    {
+      "id": "e67",
+      "type": "paragraph",
+      "page": 2,
+      "text": "Since an unsafe condition exists that requires the immediate adoption of this AD, we determined that notice and opportunity for public comment before issuing this AD are impracticable, and that good cause exists for making this amendment effective in fewer than 30 days."
+    },
+    {
+      "id": "e68",
+      "type": "heading",
+      "page": 2,
+      "text": "Comments Invited",
+      "level": 2
+    },
+    {
+      "id": "e69",
+      "type": "paragraph",
+      "page": 2,
+      "text": "This AD is a final rule that involves requirements affecting flight safety, and we did not precede it by notice and an opportunity for public comment. We invite you to send any written relevant data, views, or arguments regarding this AD. Send your comments to an address listed under the ADDRESSES section. Include the docket number ''Docket No. FAA-2007-27709; Directorate Identifier 2007-CE-028-AD'' at the beginning of your comments. We specifically invite comments on the overall regulatory, economic, environmental, and energy aspects of the AD. We will consider all comments received by the closing date and may amend the AD in light of those comments."
+    },
+    {
+      "id": "e70",
+      "type": "paragraph",
+      "page": 2,
+      "text": "We will post all comments we receive, without change, to http:// dms.dot.gov, including any personal information you provide. We will also post a report summarizing each substantive verbal contact we receive concerning this AD."
+    },
+    {
+      "id": "e71",
+      "type": "heading",
+      "page": 2,
+      "text": "Authority for This Rulemaking",
+      "level": 2
+    },
+    {
+      "id": "e72",
+      "type": "paragraph",
+      "page": 2,
+      "text": "Title 49 of the United States Code specifies the FAA's authority to issue rules on aviation safety. Subtitle I, Section 106, describes the authority of the FAA Administrator. Subtitle VII, Aviation Programs, describes in more detail the scope of the Agency's authority."
+    },
+    {
+      "id": "e73",
+      "type": "paragraph",
+      "page": 2,
+      "text": "We are issuing this rulemaking under the authority described in Subtitle VII, Part A, Subpart III, Section 44701,"
+    },
+    {
+      "id": "e74",
+      "type": "paragraph",
+      "page": 2,
+      "text": "''General requirements.'' Under that section, Congress charges the FAA with promoting safe flight of civil aircraft in air commerce by prescribing regulations for practices, methods, and procedures the Administrator finds necessary for safety in air commerce. This regulation is within the scope of that authority because it addresses an unsafe condition that is likely to exist or develop on products identified in this rulemaking action."
+    },
+    {
+      "id": "e75",
+      "type": "heading",
+      "page": 2,
+      "text": "Regulatory Findings",
+      "level": 2
+    },
+    {
+      "id": "e76",
+      "type": "paragraph",
+      "page": 2,
+      "text": "We determined that this AD will not have federalism implications under Executive Order 13132. This AD will not have a substantial direct effect on the States, on the relationship between the national government and the States, or on the distribution of power and responsibilities among the various levels of government."
+    },
+    {
+      "id": "e77",
+      "type": "paragraph",
+      "page": 2,
+      "text": "For the reasons discussed above, I certify that this AD:"
+    },
+    {
+      "id": "e78",
+      "type": "paragraph",
+      "page": 2,
+      "text": "Is not a ''significant regulatory action'' under Executive Order 12866;"
+    },
+    {
+      "id": "e79",
+      "type": "paragraph",
+      "page": 2,
+      "text": "Is not a ''significant rule'' under DOT Regulatory Policies and Procedures (44 FR 11034, February 26, 1979); and"
+    },
+    {
+      "id": "e80",
+      "type": "paragraph",
+      "page": 2,
+      "text": "Will not have a significant economic impact, positive or negative, on a substantial number of small entities under the criteria of the Regulatory Flexibility Act."
+    },
+    {
+      "id": "e81",
+      "type": "paragraph",
+      "page": 2,
+      "text": "We prepared a regulatory evaluation of the estimated costs to comply with this AD and placed it in the AD docket."
+    },
+    {
+      "id": "e82",
+      "type": "heading",
+      "page": 2,
+      "text": "Examining the AD Docket",
+      "level": 2
+    },
+    {
+      "id": "e83",
+      "type": "paragraph",
+      "page": 2,
+      "text": "You may examine the AD docket that contains the AD, the regulatory evaluation, any comments received, and other information on the Internet at http://dms.dot.gov; or in person at the Docket Management Facility between 9 a.m. and 5 p.m., Monday through Friday, except Federal holidays. The Docket Office (telephone (800) 6475227) is located at the street address stated in the ADDRESSES section. Comments will be available in the AD docket shortly after receipt."
+    },
+    {
+      "id": "e84",
+      "type": "heading",
+      "page": 2,
+      "text": "List of Subjects in 14 CFR Part 39",
+      "level": 2
+    },
+    {
+      "id": "e85",
+      "type": "paragraph",
+      "page": 2,
+      "text": "Air transportation, Aircraft, Aviation safety, Incorporation by reference, Safety."
+    },
+    {
+      "id": "e86",
+      "type": "heading",
+      "page": 2,
+      "text": "Adoption of the Amendment",
+      "level": 2
+    },
+    {
+      "id": "e87",
+      "type": "paragraph",
+      "page": 2,
+      "text": "■ Accordingly, under the authority delegated to me by the Administrator, the FAA proposes to amend 14 CFR part 39 as follows:"
+    },
+    {
+      "id": "e88",
+      "type": "heading",
+      "page": 2,
+      "text": "PART 39-AIRWORTHINESS DIRECTIVES",
+      "level": 2
+    },
+    {
+      "id": "e89",
+      "type": "paragraph",
+      "page": 2,
+      "text": "■ 1. The authority citation for part 39 continues to read as follows:"
+    },
+    {
+      "id": "e90",
+      "type": "paragraph",
+      "page": 2,
+      "text": "Authority: 49 U.S.C. 106(g), 40113, 44701."
+    },
+    {
+      "id": "e91",
+      "type": "heading",
+      "page": 2,
+      "text": "§39.13 [Amended]",
+      "level": 2
+    },
+    {
+      "id": "e92",
+      "type": "paragraph",
+      "page": 2,
+      "text": "■ 2. The FAA amends §39.13 by removing Airworthiness Directive (AD) 2006-17-04, Amendment 39-14725 (71 FR 47711, August 18, 2006), and by adding a new AD to read as follows:"
+    },
+    {
+      "id": "e93",
+      "type": "paragraph",
+      "page": 2,
+      "text": "2007-08-03 Cessna Aircraft Company: Amendment 39-15020; Docket No. FAA-2007-27709; Directorate Identifier 2007-CE-028-AD."
+    },
+    {
+      "id": "e94",
+      "type": "heading",
+      "page": 2,
+      "text": "Effective Date",
+      "level": 2
+    },
+    {
+      "id": "e95",
+      "type": "paragraph",
+      "page": 2,
+      "text": "(a) This AD becomes effective on May 2, 2007."
+    },
+    {
+      "id": "e96",
+      "type": "paragraph",
+      "page": 2,
+      "text": "VerDate Aug<31>2005 14:18 Apr 11, 2007 Jkt 211001 PO 00000 Frm 00039 Fmt 4700 Sfmt 4700 E:\\FR\\FM\\12APR1.SGM 12APR1"
+    },
+    {
+      "id": "e97",
+      "type": "page_header",
+      "page": 3,
+      "text": "18382"
+    },
+    {
+      "id": "e98",
+      "type": "page_header",
+      "page": 3,
+      "text": "Federal Register /Vol. 72, No. 70/Thursday, April 12, 2007/Rules and Regulations"
+    },
+    {
+      "id": "e99",
+      "type": "paragraph",
+      "page": 3,
+      "text": "rmajette on PROD1PC67 with RULES"
+    },
+    {
+      "id": "e100",
+      "type": "heading",
+      "page": 3,
+      "text": "Affected ADs",
+      "level": 2
+    },
+    {
+      "id": "e101",
+      "type": "paragraph",
+      "page": 3,
+      "text": "(b) This AD supersedes AD 2006-17-04; Amendment 39-14725."
+    },
+    {
+      "id": "e102",
+      "type": "heading",
+      "page": 3,
+      "text": "Applicability",
+      "level": 2
+    },
+    {
+      "id": "e103",
+      "type": "paragraph",
+      "page": 3,
+      "text": "(c) This AD applies to the following airplane models and serial numbers that are certificated in any category:"
+    },
+    {
+      "id": "e104",
+      "type": "heading",
+      "page": 3,
+      "text": "TABLE 1.-APPLICABILITY",
+      "level": 2
+    },
+    {
+      "id": "e105",
+      "type": "table",
+      "header": [
+        "Model",
+        "Serial Nos."
+      ],
+      "rows": [
+        [
+          "(i) 172R .............. (ii) 172S ............. (iii) 182T ............ (iv) T182T .......... (v) 206H ............. (vi) T206H ..........",
+          "17281244 through 17281364, 17281366 through 17281372, 17281374 through 17281376, and 17281379. 172S9809 through 172S10349, 172S10351 through 172S10374, 172S10376 through 172S10423, 172S10425 through 172S10426, 172S10428 through 172S10430, 172S10432 through 172S10444, 172S10446 through 172S10450, and 172S10452 through 172S10454. 18281527 through 18281889, 18281892, 18281895, 18281897, 18281899, 18281901, and 18281904. T18208381 through T18208659, T18208661, T18208663 through T18208678, T18208680 through T18208686, T18208689, and T18208690. 20608231 through 20608285. T20608515 through T20608662, T20608664 through T20608697, T20608699 through T20608714, and T20608717."
+        ]
+      ],
+      "page": 3
+    },
+    {
+      "id": "e106",
+      "type": "heading",
+      "page": 3,
+      "text": "Unsafe Condition",
+      "level": 2
+    },
+    {
+      "id": "e107",
+      "type": "paragraph",
+      "page": 3,
+      "text": "(d) This AD is the result of four reports of loose fuel lines connected to the fuel servo or fuel flow transducer. Two reports were of in-flight engine failure on a Model T182T airplane. A third report was of in flightengine failure on a Model 206H airplane. A fourth report was of a Model 172S airplane that lost engine power on final approach. We are issuing this AD to detect and correct potential loss of fuel flow, which may result in partial or complete loss of engine power and/or uncontrolled engine compartment fire due to fuel leakage forward of the firewall."
+    },
+    {
+      "id": "e108",
+      "type": "heading",
+      "page": 3,
+      "text": "Compliance",
+      "level": 2
+    },
+    {
+      "id": "e109",
+      "type": "paragraph",
+      "page": 3,
+      "text": "(e) To address this problem, you must do the following, unless already done:"
+    },
+    {
+      "id": "e110",
+      "type": "heading",
+      "page": 3,
+      "text": "TABLE 2.-ACTIONS, COMPLIANCE, AND PROCEDURES",
+      "level": 2
+    },
+    {
+      "id": "e111",
+      "type": "table",
+      "header": [
+        "Actions",
+        "Compliance",
+        "Procedures"
+      ],
+      "rows": [
+        [
+          "(1) For all airplanes not equipped with the Garmin G1000 System: Establish the correct torque values of the end fittings on each of the following hoses in the engine compart- ment: (i) Fuel strainer to engine fuel pump. (ii) Engine fuel pump to fuel injector servo (except T206H). (iii) T206H only: Engine fuel pump to the union at the aft vertical cooling baffle. (iv) T206H only: Union at the aft vertical cooling baffle to the fuel injector servo. (v) Fuel injector servo to fuel manifold valve (except turbo models). (vi) Turbo models only: Fuel injector servo to fuel flow transducer. (vii) Turbo models only: Fuel flow trans- ducer to fuel manifold valve. (viii) Fuel injector servo fuel return to fire-",
+          "Within the next 5 hours time-in-service (TIS) after May 2, 2007 (the effective date of this AD).",
+          "Follow Cessna Service Bulletin No. SB07-71- 01, Revision 1, dated March 16, 2007; the procedures of the appendix to this AD; and the torque values from the table Torque Values for Hose End Fittings in the appen- dix to this AD."
+        ],
+        [
+          "wall fitting. (2) For all airplanes equipped with the Garmin G1000 System: Establish the correct torque values of the end fittings on each of the fol- lowing hoses in the engine compartment: (i) Fuel strainer to engine fuel pump. (ii) Engine fuel pump to fuel injector servo (except T206H). (iii) T206H only: Engine fuel pump to the union at the aft vertical cooling baffle. (iv) T206H only: Union at the aft vertical cooling baffle to the fuel injector servo. (v) Fuel injector servo to fuel flow trans- ducer. (vi) Fuel flow transducer to fuel manifold valve. (vii) Fuel injector servo fuel return to fire- wall fitting.",
+          "Within the next 5 hours TIS after May 2, 2007 (the effective date of this AD).",
+          "Follow Cessna Service Bulletin No. SB07-71- 01, Revision 1, dated March 16, 2007; the procedures of the appendix to this AD; and the torque values from the table Torque Values for Hose End Fittings in the appen- dix to this AD."
+        ]
+      ],
+      "page": 3
+    },
+    {
+      "id": "e112",
+      "type": "paragraph",
+      "page": 3,
+      "text": "VerDate Aug<31>2005 14:18 Apr 11, 2007 Jkt 211001 PO 00000 Frm 00040 Fmt 4700 Sfmt 4700 E:\\FR\\FM\\12APR1.SGM 12APR1"
+    },
+    {
+      "id": "e113",
+      "type": "page_header",
+      "page": 4,
+      "text": "Federal Register /Vol. 72, No. 70/Thursday, April 12, 2007/Rules and Regulations"
+    },
+    {
+      "id": "e114",
+      "type": "page_header",
+      "page": 4,
+      "text": "18383"
+    },
+    {
+      "id": "e115",
+      "type": "paragraph",
+      "page": 4,
+      "text": "rmajette on PROD1PC67 with RULES"
+    },
+    {
+      "id": "e116",
+      "type": "heading",
+      "page": 4,
+      "text": "Special Flight Permit",
+      "level": 2
+    },
+    {
+      "id": "e117",
+      "type": "paragraph",
+      "page": 4,
+      "text": "(f) Under 14 CFR 39.23, we are allowing special flight permits for the purpose of compliance with this AD under the following conditions: Only operate under day visual flight rules (VFR)."
+    },
+    {
+      "id": "e118",
+      "type": "heading",
+      "page": 4,
+      "text": "Alternative Methods of Compliance (AMOCs)",
+      "level": 2
+    },
+    {
+      "id": "e119",
+      "type": "paragraph",
+      "page": 4,
+      "text": "(g) The Manager, Wichita Aircraft Certification Office (ACO), FAA, ATTN: Trenton Shepherd, Aerospace Engineer, Wichita ACO, 1801 Airport Road, Room 100, Wichita, Kansas 67209; telephone: (316) 9464143; fax: (316) 946-4107, has the authority to approve AMOCs for this AD, if requested using the procedures found in 14 CFR 39.19. Before using any approved AMOC on any airplane to which the AMOC applies, notify your appropriate principal inspector (PI) in the FAA Flight Standards District Office (FSDO), or lacking a PI, your local FSDO."
+    },
+    {
+      "id": "e120",
+      "type": "paragraph",
+      "page": 4,
+      "text": "(h) AMOCs approved for AD 2006-17-04 are not approved for this AD."
+    },
+    {
+      "id": "e121",
+      "type": "heading",
+      "page": 4,
+      "text": "Material Incorporated by Reference",
+      "level": 2
+    },
+    {
+      "id": "e122",
+      "type": "paragraph",
+      "page": 4,
+      "text": "(i) You must use Cessna Service Bulletin No. SB07-71-01, Revision 1, dated March 16, 2007, to do the actions required by this AD, unless the AD specifies otherwise."
+    },
+    {
+      "id": "e123",
+      "type": "paragraph",
+      "page": 4,
+      "text": "The Director of the Federal Register approved the incorporation by reference of this service information under 5 U.S.C. 552(a) and 1 CFR part 51."
+    },
+    {
+      "id": "e124",
+      "type": "paragraph",
+      "page": 4,
+      "text": "For service information identified in this AD, contact The Cessna Aircraft Company, Product Support, P.O. Box 7706, Wichita, Kansas 67277-7706; telephone: (316) 517-5800; facsimile: (316) 942-9006."
+    },
+    {
+      "id": "e125",
+      "type": "paragraph",
+      "page": 4,
+      "text": "You may review copies at the FAA, Central Region, Office of the Regional Counsel, 901 Locust, Kansas City, Missouri 64106; or at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202-741-6030, or go to: http://www.archives.gov/federal_register/ code_of_federal_regulations/ ibr_locations.html."
+    },
+    {
+      "id": "e126",
+      "type": "heading",
+      "page": 4,
+      "text": "Appendix to AD 2007-08-03Inspection Instructions-Cessna Aircraft Company Models 172R, 172S, 182T, T182T, 206H, and T206H Airplanes",
+      "level": 2
+    },
+    {
+      "id": "e127",
+      "type": "paragraph",
+      "page": 4,
+      "text": "Remove upper and side cowlings to perform torque procedure."
+    },
+    {
+      "id": "e128",
+      "type": "paragraph",
+      "page": 4,
+      "text": "Remove all signs of old torque putty or paint."
+    },
+    {
+      "id": "e129",
+      "type": "paragraph",
+      "page": 4,
+      "text": "Using a suitable tool loosen the hose end fitting of each joint, while using a suitable"
+    },
+    {
+      "id": "e130",
+      "type": "heading",
+      "page": 4,
+      "text": "TORQUE VALUES FOR HOSE END FITTINGS",
+      "level": 2
+    },
+    {
+      "id": "e131",
+      "type": "table",
+      "header": [
+        "Flare hex sizes in fractions of an inch",
+        "Hose size",
+        "Correct torque in inch-pounds",
+        "Correct torque in inch-pounds"
+      ],
+      "rows": [
+        [
+          "",
+          "Hose size",
+          "Minimum",
+          "Maximum"
+        ],
+        [
+          "9 ⁄16 ................................................................................................................................................",
+          "¥4",
+          "135",
+          "150"
+        ],
+        [
+          "11 ⁄16 ..............................................................................................................................................",
+          "¥6",
+          "270",
+          "300"
+        ],
+        [
+          "7 ⁄8 .................................................................................................................................................",
+          "¥8",
+          "450",
+          "500"
+        ]
+      ],
+      "page": 4
+    },
+    {
+      "id": "e132",
+      "type": "paragraph",
+      "page": 4,
+      "text": "Issued in Kansas City, Missouri, on April 5, 2007."
+    },
+    {
+      "id": "e133",
+      "type": "heading",
+      "page": 4,
+      "text": "Kim Smith,",
+      "level": 2
+    },
+    {
+      "id": "e134",
+      "type": "paragraph",
+      "page": 4,
+      "text": "Manager, Small Airplane Directorate, Aircraft Certification Service."
+    },
+    {
+      "id": "e135",
+      "type": "paragraph",
+      "page": 4,
+      "text": "[FR Doc. E7-6826 Filed 4-11-07; 8:45 am]"
+    },
+    {
+      "id": "e136",
+      "type": "paragraph",
+      "page": 4,
+      "text": "BILLING CODE 4910-13-P"
+    },
+    {
+      "id": "e137",
+      "type": "heading",
+      "page": 4,
+      "text": "DEPARTMENT OF TRANSPORTATION",
+      "level": 2
+    },
+    {
+      "id": "e138",
+      "type": "heading",
+      "page": 4,
+      "text": "Federal Aviation Administration",
+      "level": 2
+    },
+    {
+      "id": "e139",
+      "type": "heading",
+      "page": 4,
+      "text": "14 CFR Part 71",
+      "level": 2
+    },
+    {
+      "id": "e140",
+      "type": "paragraph",
+      "page": 4,
+      "text": "[Docket No. FAA-2007-27110; Airspace Docket No. 07-AGL-1]"
+    },
+    {
+      "id": "e141",
+      "type": "heading",
+      "page": 4,
+      "text": "Modification of Class E Airspace; Peru, IL",
+      "level": 2
+    },
+    {
+      "id": "e142",
+      "type": "paragraph",
+      "page": 4,
+      "text": "AGENCY: Federal Aviation"
+    },
+    {
+      "id": "e143",
+      "type": "paragraph",
+      "page": 4,
+      "text": "Administration (FAA), DOT."
+    },
+    {
+      "id": "e144",
+      "type": "paragraph",
+      "page": 4,
+      "text": "ACTION: Direct final rule; confirmation of effective date."
+    },
+    {
+      "id": "e145",
+      "type": "paragraph",
+      "page": 4,
+      "text": "SUMMARY: This document confirms the effective date of the direct final rule which revises Class E airspace at Peru, IL."
+    },
+    {
+      "id": "e146",
+      "type": "paragraph",
+      "page": 4,
+      "text": "EFFECTIVE DATE: 0901 UTC, May 10, 2007."
+    },
+    {
+      "id": "e147",
+      "type": "heading",
+      "page": 4,
+      "text": "FOR FURTHER INFORMATION CONTACT:",
+      "level": 2
+    },
+    {
+      "id": "e148",
+      "type": "paragraph",
+      "page": 4,
+      "text": "Grant Nichols, System Support, DOT Regional Headquarters Building, Federal Aviation Administration, 901 Locust, Kansas City, MO 64106; telephone (816) 329-2522."
+    },
+    {
+      "id": "e149",
+      "type": "paragraph",
+      "page": 4,
+      "text": "SUPPLEMENTARY INFORMATION: The FAA published this direct final rule with a request for comments in the Federal Register on February 26, 2007 (72 FR 8266). The FAA uses the direct final rulemaking procedures for a noncontroversial rule where the FAA believes that there will be no adverse public comment. This direct final rule advised the public that no adverse comments were anticipated, and that unless a written adverse comment, or a written notice of intent to submit such an adverse comment, were received within the comment period, the regulation would become effective on May 10, 2007. No adverse comments were received, and thus this notice confirms that this direct final rule will become effective on that date."
+    },
+    {
+      "id": "e150",
+      "type": "paragraph",
+      "page": 4,
+      "text": "Issued in Forth Worth, Texas, on March 21, 2007."
+    },
+    {
+      "id": "e151",
+      "type": "heading",
+      "page": 4,
+      "text": "Ronnie L. Uhlenhaker,",
+      "level": 2
+    },
+    {
+      "id": "e152",
+      "type": "paragraph",
+      "page": 4,
+      "text": "Manager, System Support Group, ATO Central Service Area."
+    },
+    {
+      "id": "e153",
+      "type": "paragraph",
+      "page": 4,
+      "text": "[FR Doc. 07-1803 Filed 4-11-07; 8:45 am]"
+    },
+    {
+      "id": "e154",
+      "type": "paragraph",
+      "page": 4,
+      "text": "BILLING CODE 4910-13-M"
+    },
+    {
+      "id": "e155",
+      "type": "heading",
+      "page": 4,
+      "text": "DEPARTMENT OF TRANSPORTATION",
+      "level": 2
+    },
+    {
+      "id": "e156",
+      "type": "heading",
+      "page": 4,
+      "text": "Federal Aviation Administration",
+      "level": 2
+    },
+    {
+      "id": "e157",
+      "type": "heading",
+      "page": 4,
+      "text": "14 CFR Part 71",
+      "level": 2
+    },
+    {
+      "id": "e158",
+      "type": "paragraph",
+      "page": 4,
+      "text": "[Docket No. FAA-2006-25997; Airspace Docket No. 06-ANM-5]"
+    },
+    {
+      "id": "e159",
+      "type": "heading",
+      "page": 4,
+      "text": "Revision of Class E Airspace; Redmond, OR",
+      "level": 2
+    },
+    {
+      "id": "e160",
+      "type": "paragraph",
+      "page": 4,
+      "text": "AGENCY: Federal Aviation"
+    },
+    {
+      "id": "e161",
+      "type": "paragraph",
+      "page": 4,
+      "text": "Administration (FAA), DOT."
+    },
+    {
+      "id": "e162",
+      "type": "paragraph",
+      "page": 4,
+      "text": "ACTION: Final rule."
+    },
+    {
+      "id": "e163",
+      "type": "paragraph",
+      "page": 4,
+      "text": "SUMMARY: This action will revise the Class E airspace at Redmond, OR. Additional Class E airspace is necessary to accommodate aircraft using a new Area Navigation (RNAV) Global Positioning System (GPS) Standard"
+    },
+    {
+      "id": "e164",
+      "type": "paragraph",
+      "page": 4,
+      "text": "VerDate Aug<31>2005 14:18 Apr 11, 2007 Jkt 211001 PO 00000 Frm 00041 Fmt 4700 Sfmt 4700 E:\\FR\\FM\\12APR1.SGM 12APR1"
+    },
+    {
+      "id": "e165",
+      "type": "paragraph",
+      "page": 4,
+      "text": "tool to restrain the other end fitting of the joint to preclude rotation."
+    },
+    {
+      "id": "e166",
+      "type": "paragraph",
+      "page": 4,
+      "text": "Using the applicable fitting torque from the table Torque Values for Hose End Fittings of this appendix to AD 2007-08-03, torque the hose end fitting to the proper torque, while using a suitable tool to restrain the other end fitting of the joint to preclude rotation."
+    },
+    {
+      "id": "e167",
+      "type": "paragraph",
+      "page": 4,
+      "text": "After proper torque has been applied to the hose end fitting, apply the applicable torque paint or putty to the hose end fitting joint."
+    },
+    {
+      "id": "e168",
+      "type": "paragraph",
+      "page": 4,
+      "text": "If during any torque procedure any of the non-hose end fittings rotate, stop the torque procedure. Totally disconnect the hose end joint and remove any fitting that has rotated. After the cleaning, visual examination, and/or replacement of the fitting and/or any seals or sealant, reinstall the fitting and torque it to the applicable requirement. Then reconnect the hose end fitting and repeat Step 4. of this appendix to AD 2007-08-03."
+    },
+    {
+      "id": "e169",
+      "type": "paragraph",
+      "page": 4,
+      "text": "Use the table below Torque Values for Hose End Fittings for the correct torque values to tighten the hose end fittings as required in paragraphs (e)(1) and (e)(2) of this AD:"
+    }
+  ]
+}

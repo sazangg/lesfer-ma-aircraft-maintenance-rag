@@ -1,0 +1,170 @@
+{
+  "source_id": "WO-2026-0374",
+  "file": "anfa/work-orders/WO-2026-0374.pdf",
+  "format": "pdf",
+  "parser": "docling",
+  "meta": {
+    "publisher": "Anfa Aero Services",
+    "title": "Work order WO-2026-0374: CN-TFD, 100-hour inspection",
+    "doc_type": "work order",
+    "aircraft": "CN-TFD",
+    "date": "2026-10-01",
+    "access": "staff"
+  },
+  "elements": [
+    {
+      "id": "e1",
+      "type": "heading",
+      "page": 1,
+      "text": "Anfa Aero Services: work order WO-2026-0374",
+      "level": 2
+    },
+    {
+      "id": "e2",
+      "type": "table",
+      "header": [
+        "Field",
+        "Value"
+      ],
+      "rows": [
+        [
+          "Date completed",
+          "1 October 2026"
+        ],
+        [
+          "Registration",
+          "CN-TFD"
+        ],
+        [
+          "Aircraft",
+          "Cessna 172R"
+        ],
+        [
+          "Serial number",
+          "17281201"
+        ],
+        [
+          "Airframe total time at completion (h)",
+          "11,790.2"
+        ],
+        [
+          "Station",
+          "Casablanca"
+        ]
+      ],
+      "page": 1
+    },
+    {
+      "id": "e3",
+      "type": "heading",
+      "page": 1,
+      "text": "Request",
+      "level": 2
+    },
+    {
+      "id": "e4",
+      "type": "paragraph",
+      "page": 1,
+      "text": "100-hour inspection."
+    },
+    {
+      "id": "e5",
+      "type": "heading",
+      "page": 1,
+      "text": "Work performed",
+      "level": 2
+    },
+    {
+      "id": "e6",
+      "type": "paragraph",
+      "page": 1,
+      "text": "100-hour inspection per 14 CFR 91.409(b), using the Cessna 172 inspection checklist."
+    },
+    {
+      "id": "e7",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Changed engine oil and filter. Compression check, cylinders 1 to 4: 74/80, 76/80, 72/80, 74/80."
+    },
+    {
+      "id": "e8",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Discrepancy: Spark plugs worn beyond limits. Corrective action: Replaced all eight spark plugs."
+    },
+    {
+      "id": "e9",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Discrepancy: Right main tire worn to the wear limit. Corrective action: Replaced right main tire."
+    },
+    {
+      "id": "e10",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Discrepancy: Elevator trim tab free play at the limit. Corrective action: Replaced trim tab actuator rod end bearings; free play within limits."
+    },
+    {
+      "id": "e11",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Aircraft found airworthy after correction of the discrepancies listed."
+    },
+    {
+      "id": "e12",
+      "type": "heading",
+      "page": 1,
+      "text": "Parts used",
+      "level": 2
+    },
+    {
+      "id": "e13",
+      "type": "table",
+      "header": [
+        "Part number",
+        "Description",
+        "Quantity",
+        "Serial number"
+      ],
+      "rows": [
+        [
+          "CH48110-1",
+          "Oil filter",
+          "1",
+          ""
+        ],
+        [
+          "REM37BY",
+          "Spark plug",
+          "8",
+          ""
+        ],
+        [
+          "6.00-6-6PLY",
+          "Main wheel tire",
+          "1",
+          ""
+        ]
+      ],
+      "page": 1
+    },
+    {
+      "id": "e14",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Certification: the work above was performed in accordance with 14 CFR Part 43 and the procedures manual. The aircraft is airworthy for the work performed."
+    },
+    {
+      "id": "e15",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Performed by: S. Idrissi"
+    },
+    {
+      "id": "e16",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Return to service: R. El Fassi, licence MA-B1-0618"
+    }
+  ]
+}

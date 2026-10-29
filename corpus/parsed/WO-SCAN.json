@@ -1,0 +1,307 @@
+{
+  "source_id": "WO-SCAN",
+  "file": "anfa/work-orders-scanned.pdf",
+  "format": "pdf",
+  "parser": "docling",
+  "meta": {
+    "publisher": "Anfa Aero Services",
+    "title": "Work orders WO-2021-0544, WO-2024-0071, WO-2026-0388 (scanned)",
+    "doc_type": "work orders",
+    "access": "staff"
+  },
+  "elements": [
+    {
+      "id": "e1",
+      "type": "heading",
+      "page": 1,
+      "text": "ANFA AERO SERVICES",
+      "level": 2,
+      "ocr_confidence": 0.99
+    },
+    {
+      "id": "e2",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Hangar 3, Casablanca | Work order WO-2021-0544",
+      "ocr_confidence": 0.99
+    },
+    {
+      "id": "e3",
+      "type": "table",
+      "header": null,
+      "rows": [
+        [
+          "Date",
+          "30 August 2021"
+        ],
+        [
+          "Registration",
+          "CN-TFE"
+        ],
+        [
+          "Aircraft",
+          "Cessna 172R"
+        ],
+        [
+          "Serial number",
+          "17280744"
+        ],
+        [
+          "Airframe total time at completion (h)",
+          "10,650.2"
+        ]
+      ],
+      "page": 1,
+      "ocr_confidence": 0.99
+    },
+    {
+      "id": "e4",
+      "type": "heading",
+      "page": 1,
+      "text": "Work performed",
+      "level": 2,
+      "ocr_confidence": 0.99
+    },
+    {
+      "id": "e5",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Replaced engine oil pressure switch with new, zero-time switch P/N 83278, per AD 2013-11-11 paragraph (g)(6) and Cessna Service Bulletin SB 07-79-01.",
+      "ocr_confidence": 0.99
+    },
+    {
+      "id": "e6",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Removed switch P/N 83278 at 3,000.4 hours since installation. Ground run: oil pressure indication normal, no leaks.",
+      "ocr_confidence": 0.99
+    },
+    {
+      "id": "e7",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Torque per maintenance manual. Wrench T-014.",
+      "ocr_confidence": 0.99
+    },
+    {
+      "id": "e8",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Performed by: Y. Alaoui",
+      "ocr_confidence": 0.99
+    },
+    {
+      "id": "e9",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Approved for return to service: A.Tazi alaouí",
+      "ocr_confidence": 0.99
+    },
+    {
+      "id": "e10",
+      "type": "paragraph",
+      "page": 1,
+      "text": "tazi",
+      "ocr_confidence": 0.99
+    },
+    {
+      "id": "e11",
+      "type": "figure",
+      "page": 1,
+      "caption": "",
+      "image": "figures/WO-SCAN-fig1.png",
+      "ocr_confidence": 0.99
+    },
+    {
+      "id": "e12",
+      "type": "heading",
+      "page": 2,
+      "text": "ANFA AERO SERVICES",
+      "level": 2,
+      "ocr_confidence": 0.99
+    },
+    {
+      "id": "e13",
+      "type": "paragraph",
+      "page": 2,
+      "text": "Hangar 3, Casablanca | Work order WO-2024-0071",
+      "ocr_confidence": 0.99
+    },
+    {
+      "id": "e14",
+      "type": "table",
+      "header": null,
+      "rows": [
+        [
+          "Date",
+          "14 February 2024"
+        ],
+        [
+          "Registration",
+          "CN-TFA"
+        ],
+        [
+          "Aircraft",
+          "Cessna 172S"
+        ],
+        [
+          "Serial number",
+          "172S9488"
+        ],
+        [
+          "Airframe total time at completion (h)",
+          "7,210.4"
+        ]
+      ],
+      "page": 2,
+      "ocr_confidence": 0.99
+    },
+    {
+      "id": "e15",
+      "type": "heading",
+      "page": 2,
+      "text": "Work performed",
+      "level": 2,
+      "ocr_confidence": 0.99
+    },
+    {
+      "id": "e16",
+      "type": "paragraph",
+      "page": 2,
+      "text": "Replaced engine oil pressure switch with new, zero-time switch P/N 83278, per AD 2013-11-11 paragraph (g)(6).",
+      "ocr_confidence": 0.99
+    },
+    {
+      "id": "e17",
+      "type": "paragraph",
+      "page": 2,
+      "text": "Ground run: oil pressure indication normal, no leaks. AD compliance record updated. Torque per maintenance manual. Wrench T-022.",
+      "ocr_confidence": 0.99
+    },
+    {
+      "id": "e18",
+      "type": "paragraph",
+      "page": 2,
+      "text": "Performed by: S. Idrissi",
+      "ocr_confidence": 0.99
+    },
+    {
+      "id": "e19",
+      "type": "paragraph",
+      "page": 2,
+      "text": "Approved for return to service: A.Tazi idrissi tazi",
+      "ocr_confidence": 0.99
+    },
+    {
+      "id": "e20",
+      "type": "figure",
+      "page": 2,
+      "caption": "",
+      "image": "figures/WO-SCAN-fig2.png",
+      "ocr_confidence": 0.99
+    },
+    {
+      "id": "e21",
+      "type": "heading",
+      "page": 3,
+      "text": "ANFA AERO SERVICES",
+      "level": 2,
+      "ocr_confidence": 0.99
+    },
+    {
+      "id": "e22",
+      "type": "paragraph",
+      "page": 3,
+      "text": "Hangar 3, Casablanca | Work order",
+      "ocr_confidence": 0.99
+    },
+    {
+      "id": "e23",
+      "type": "table",
+      "header": null,
+      "rows": [
+        [
+          "Date",
+          "6 October 2026"
+        ],
+        [
+          "Registration",
+          "CN-TFC"
+        ],
+        [
+          "Aircraft",
+          "Cessna 172S"
+        ],
+        [
+          "Serial number",
+          "172S11290"
+        ],
+        [
+          "Airframe total time at completion (h)",
+          "6,184.9"
+        ]
+      ],
+      "page": 3,
+      "ocr_confidence": 0.99
+    },
+    {
+      "id": "e24",
+      "type": "heading",
+      "page": 3,
+      "text": "Work performed",
+      "level": 2,
+      "ocr_confidence": 0.99
+    },
+    {
+      "id": "e25",
+      "type": "paragraph",
+      "page": 3,
+      "text": "Customer request: inspect muffler for cracks after a carbon monoxide detector alert in flight.",
+      "ocr_confidence": 0.99
+    },
+    {
+      "id": "e26",
+      "type": "paragraph",
+      "page": 3,
+      "text": "Muffler AWI P/N A1754001-23, S/N 34729. Not among the serial numbers listed in AD 2018-02-04, figure 1. Inspected the weld of the muffler body to the cuff following the method of AD 2018-02-04 paragraph (g)(1) anyway: no cracks, no broken welds.",
+      "ocr_confidence": 0.99
+    },
+    {
+      "id": "e27",
+      "type": "paragraph",
+      "page": 3,
+      "text": "Replaced the carbon monoxide detector card (expired). Cabin heat checked on ground run.",
+      "ocr_confidence": 0.99
+    },
+    {
+      "id": "e28",
+      "type": "paragraph",
+      "page": 3,
+      "text": "Performed by: Y. Alaoui",
+      "ocr_confidence": 0.99
+    },
+    {
+      "id": "e29",
+      "type": "paragraph",
+      "page": 3,
+      "text": "Approved for return to service: K. Bennani alaoui bennani",
+      "ocr_confidence": 0.99
+    },
+    {
+      "id": "e30",
+      "type": "figure",
+      "page": 3,
+      "caption": "",
+      "image": "figures/WO-SCAN-fig3.png",
+      "ocr_confidence": 0.99
+    },
+    {
+      "id": "e31",
+      "type": "heading",
+      "page": 3,
+      "text": "WO-2026-0388 WO-2026-0388",
+      "level": 2,
+      "ocr_confidence": 0.99
+    }
+  ]
+}

@@ -1,0 +1,156 @@
+{
+  "source_id": "LOG-CN-TFF",
+  "file": "anfa/logbooks/logbook-CN-TFF.pdf",
+  "format": "pdf",
+  "parser": "docling",
+  "meta": {
+    "publisher": "Anfa Aero Services",
+    "title": "CN-TFF airframe logbook extract, 2024 to 2026",
+    "doc_type": "logbook",
+    "aircraft": "CN-TFF",
+    "as_of": "2026-10-26",
+    "access": "staff"
+  },
+  "elements": [
+    {
+      "id": "e1",
+      "type": "heading",
+      "page": 1,
+      "text": "CN-TFF airframe logbook: entries from 1 January 2024 to 26 October 2026 (printed extract)",
+      "level": 2
+    },
+    {
+      "id": "e2",
+      "type": "table",
+      "header": [
+        "Date",
+        "Airframe hours",
+        "Work order",
+        "Entry",
+        "Signed"
+      ],
+      "rows": [
+        [
+          "2024-02-06",
+          "2,981.6",
+          "WO-2024-0059",
+          "100-hour inspection per 14 CFR 91.409(b). Replaced trim tab actuator rod end bearings; free play within limits. Oil and filter changed.",
+          "K. Bennani, MA-B1-0212"
+        ],
+        [
+          "2024-05-09",
+          "3,075.1",
+          "WO-2024-0204",
+          "Annual inspection per 14 CFR 91.409(a) and the scope and detail of 14 CFR Part 43 Appendix D. Serviced nose strut with hydraulic fluid and air. Oil and filter changed.",
+          "R. El Fassi, MA-B1-0618"
+        ],
+        [
+          "2024-08-13",
+          "3,171.6",
+          "WO-2024-0351",
+          "100-hour inspection per 14 CFR 91.409(b). Replaced left cabin door seal. Oil and filter changed.",
+          "A. Tazi, MA-B1-0457"
+        ],
+        [
+          "2024-09-17",
+          "3,206.8",
+          "WO-2024-0406",
+          "Replaced avionics cooling fan. G1000 NXi system test satisfactory.",
+          "R. El Fassi, MA-B1-0618"
+        ],
+        [
+          "2024-11-11",
+          "3,262.1",
+          "WO-2024-0491",
+          "100-hour inspection per 14 CFR 91.409(b). Replaced exhaust gasket at cylinder 3. Replaced left brake linings. Oil and filter changed.",
+          "K. Bennani, MA-B1-0212"
+        ],
+        [
+          "2025-02-12",
+          "3,355.6",
+          "WO-2025-0067",
+          "100-hour inspection per 14 CFR 91.409(b). Replaced left main tire. Replaced induction air filter. Oil and filter changed.",
+          "A. Tazi, MA-B1-0457"
+        ],
+        [
+          "2025-05-14",
+          "3,447.1",
+          "WO-2025-0204",
+          "Annual inspection per 14 CFR 91.409(a) and the scope and detail of 14 CFR Part 43 Appendix D. Removed corrosion, treated and painted battery box; neutralized battery area. Oil and filter changed.",
+          "K. Bennani, MA-B1-0212"
+        ],
+        [
+          "2025-06-10",
+          "3,474.3",
+          "WO-2025-0243",
+          "Static system test and altimeter test per 14 CFR 91.411 and Part 43 Appendix E. Transponder test per 14 CFR 91.413 and Part 43 Appendix F. All tests within limits. Next tests due within 24 calendar months.",
+          "K. Bennani, MA-B1-0212"
+        ],
+        [
+          "2025-07-08",
+          "3,502.4",
+          "WO-2025-0284",
+          "Replaced left main tire and tube.",
+          "K. Bennani, MA-B1-0212"
+        ],
+        [
+          "2025-08-14",
+          "3,539.6",
+          "WO-2025-0341",
+          "100-hour inspection per 14 CFR 91.409(b). Cleaned, gapped, and rotated all eight spark plugs. Adjusted alternator belt tension per maintenance manual. Oil and filter changed.",
+          "K. Bennani, MA-B1-0212"
+        ],
+        [
+          "2025-11-18",
+          "3,636.1",
+          "WO-2025-0486",
+          "100-hour inspection per 14 CFR 91.409(b). Replaced right main tire. Oil and filter changed.",
+          "A. Tazi, MA-B1-0457"
+        ],
+        [
+          "2026-02-10",
+          "3,720.6",
+          "WO-2026-0056",
+          "Replaced left front seat belt.",
+          "R. El Fassi, MA-B1-0618"
+        ],
+        [
+          "2026-02-18",
+          "3,728.6",
+          "WO-2026-0068",
+          "100-hour inspection per 14 CFR 91.409(b). Replaced left brake linings. Replaced all eight spark plugs. Replaced left cabin door seal. Oil and filter changed.",
+          "R. El Fassi, MA-B1-0618"
+        ]
+      ],
+      "page": 1
+    },
+    {
+      "id": "e3",
+      "type": "table",
+      "header": [
+        "Date",
+        "Airframe hours",
+        "Work order",
+        "Entry",
+        "Signed"
+      ],
+      "rows": [
+        [
+          "2026-05-19",
+          "3,819.1",
+          "WO-2026-0189",
+          "Annual inspection per 14 CFR 91.409(a) and the scope and detail of 14 CFR Part 43 Appendix D. Removed corrosion, treated and painted battery box; neutralized battery area. Oil and filter changed.",
+          "K. Bennani, MA-B1-0212"
+        ],
+        [
+          "2026-08-25",
+          "3,917.7",
+          "WO-2026-0324",
+          "100-hour inspection per 14 CFR 91.409(b). Replaced left main tire. Oil and filter changed.",
+          "K. Bennani, MA-B1-0212"
+        ]
+      ],
+      "page": 2
+    }
+  ]
+}

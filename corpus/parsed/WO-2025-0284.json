@@ -1,0 +1,129 @@
+{
+  "source_id": "WO-2025-0284",
+  "file": "anfa/work-orders/WO-2025-0284.pdf",
+  "format": "pdf",
+  "parser": "docling",
+  "meta": {
+    "publisher": "Anfa Aero Services",
+    "title": "Work order WO-2025-0284: CN-TFF, repair",
+    "doc_type": "work order",
+    "aircraft": "CN-TFF",
+    "date": "2025-07-08",
+    "access": "staff"
+  },
+  "elements": [
+    {
+      "id": "e1",
+      "type": "heading",
+      "page": 1,
+      "text": "Anfa Aero Services: work order WO-2025-0284",
+      "level": 2
+    },
+    {
+      "id": "e2",
+      "type": "table",
+      "header": [
+        "Field",
+        "Value"
+      ],
+      "rows": [
+        [
+          "Date completed",
+          "8 July 2025"
+        ],
+        [
+          "Registration",
+          "CN-TFF"
+        ],
+        [
+          "Aircraft",
+          "Cessna 172S"
+        ],
+        [
+          "Serial number",
+          "172S11845"
+        ],
+        [
+          "Airframe total time at completion (h)",
+          "3,502.4"
+        ],
+        [
+          "Station",
+          "Beni Mellal"
+        ]
+      ],
+      "page": 1
+    },
+    {
+      "id": "e3",
+      "type": "heading",
+      "page": 1,
+      "text": "Request",
+      "level": 2
+    },
+    {
+      "id": "e4",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Left main tire flat-spotted after hard braking."
+    },
+    {
+      "id": "e5",
+      "type": "heading",
+      "page": 1,
+      "text": "Work performed",
+      "level": 2
+    },
+    {
+      "id": "e6",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Replaced left main tire and tube."
+    },
+    {
+      "id": "e7",
+      "type": "heading",
+      "page": 1,
+      "text": "Parts used",
+      "level": 2
+    },
+    {
+      "id": "e8",
+      "type": "table",
+      "header": null,
+      "rows": [
+        [
+          "Part number",
+          "Description",
+          "Quantity",
+          "Serial number"
+        ],
+        [
+          "6.00-6-6PLY",
+          "Main wheel tire",
+          "1",
+          ""
+        ]
+      ],
+      "page": 1
+    },
+    {
+      "id": "e9",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Certification: the work above was performed in accordance with 14 CFR Part 43 and the procedures manual. The aircraft is airworthy for the work performed."
+    },
+    {
+      "id": "e10",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Performed by: H. Ouazzani"
+    },
+    {
+      "id": "e11",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Return to service: K. Bennani, licence MA-B1-0212"
+    }
+  ]
+}

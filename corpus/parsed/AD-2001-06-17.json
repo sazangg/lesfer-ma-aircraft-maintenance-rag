@@ -1,0 +1,794 @@
+{
+  "source_id": "AD-2001-06-17",
+  "file": "faa/ad/ad-2001-06-17.pdf",
+  "format": "pdf",
+  "parser": "docling",
+  "meta": {
+    "title": "AD 2001-06-17: Cessna Aircraft Company Models 172R and 172S Airplanes",
+    "publisher": "FAA",
+    "doc_type": "airworthiness directive",
+    "ad_number": "2001-06-17",
+    "action": "Final rule; request for comments",
+    "published": "2001-03-30",
+    "effective": "2001-04-20",
+    "federal_register": "66 FR 17345 (document 01-7831)",
+    "access": "employees"
+  },
+  "elements": [
+    {
+      "id": "e1",
+      "type": "page_header",
+      "page": 1,
+      "text": "Federal Register /Vol. 66, No. 62/Friday, March 30, 2001/Rules and Regulations"
+    },
+    {
+      "id": "e2",
+      "type": "page_header",
+      "page": 1,
+      "text": "17345"
+    },
+    {
+      "id": "e3",
+      "type": "paragraph",
+      "page": 1,
+      "text": "superseded by this action) are not considered approved for this AD:"
+    },
+    {
+      "id": "e4",
+      "type": "paragraph",
+      "page": 1,
+      "text": "(i) AD 70-26-06, Amendment 39-1132;"
+    },
+    {
+      "id": "e5",
+      "type": "paragraph",
+      "page": 1,
+      "text": "(ii) AD 76-03-01, Amendment 39-2505; and"
+    },
+    {
+      "id": "e6",
+      "type": "paragraph",
+      "page": 1,
+      "text": "(iii) AD 80-02-15, Amendment 39-3676."
+    },
+    {
+      "id": "e7",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Note 2: This AD applies to each airplane identified in the preceding applicability provision, regardless of whether it has been modified, altered, or repaired in the area subject to the requirements of this AD. For airplanes that have been modified, altered, or repaired so that the performance of the requirements of this AD is affected, the owner/operator must request approval for an alternative method of compliance in accordance with paragraph (e) of this AD. The request should include an assessment of the effect of the modification, alteration, or repair on the unsafe condition addressed by this AD; and, if you have not eliminated the unsafe condition, specific actions you propose to address it."
+    },
+    {
+      "id": "e8",
+      "type": "paragraph",
+      "page": 1,
+      "text": "(h) Where can I get information about any already-approved alternative methods of compliance? You can contact William O. Herderich, Aerospace Engineer, FAA, Atlanta Aircraft Certification Office, One Crown Center, 1895 Phoenix Boulevard, suite 450, Atlanta, Georgia 30349; telephone: (770) 7036082; facsimile: (770) 703-6097; e-mail: william.o.herderich@faa.gov."
+    },
+    {
+      "id": "e9",
+      "type": "paragraph",
+      "page": 1,
+      "text": "(i) What if I need to fly the airplane to another location to comply with this AD? The FAA can issue a special flight permit under sections 21.197 and 21.199 of the Federal Aviation Regulations (14 CFR 21.197 and 21.199) to operate your airplane to a location where you can accomplish the requirements of this AD."
+    },
+    {
+      "id": "e10",
+      "type": "paragraph",
+      "page": 1,
+      "text": "(j) Are any service bulletins incorporated into this AD by reference? Actions required by this AD must be done in accordance with Piper Service Bulletin No. 323, dated September 21, 1970, Piper Elevator and Rudder Hinge Replacement Kit No. 760 465, Revised October 25, 1989; Piper Elevator Trim Tab System Modification Kit No. 760 989, as referenced in Piper Service Bulletin No. 477A, dated November 3, 1975; Elevator Butt Rib Refinement Kit, Piper Part Number 766-219, as referenced in Piper Service Bulletin No. 897B, date: July 15, 1997; Elevator Butt Rib Reinforcement Kit, Piper Part Number 766-642, as specified in Piper Service Bulletin No. 1008, Date: September 30, 1997. The Director of the Federal Register approved these service bulletins and kits for incorporation by reference under 5 U.S.C. 552(a) and 1 CFR part 51. You can get copies from The New Piper Aircraft, Inc., Customer Services, 2926 Piper Drive, Vero Beach, Florida 32960. You can look at copies at the FAA, Central Region, Office of the Regional Counsel, 901 Locust, Room 506, Kansas City, Missouri, or at the Office of the Federal Register, 800 North Capitol Street, NW., Suite 700, Washington, DC 20001."
+    },
+    {
+      "id": "e11",
+      "type": "paragraph",
+      "page": 1,
+      "text": "(k) Does this AD action affect any existing AD actions? This amendment supersedes the following AD actions:"
+    },
+    {
+      "id": "e12",
+      "type": "paragraph",
+      "page": 1,
+      "text": "AD 70-26-06, Amendment 39-1132;"
+    },
+    {
+      "id": "e13",
+      "type": "paragraph",
+      "page": 1,
+      "text": "AD 76-03-01, Amendment 39-2505; and"
+    },
+    {
+      "id": "e14",
+      "type": "paragraph",
+      "page": 1,
+      "text": "AD 80-02-15, Amendment 39-3676."
+    },
+    {
+      "id": "e15",
+      "type": "paragraph",
+      "page": 1,
+      "text": "(l) When does this amendment become effective? This amendment becomes effective on May 8, 2001."
+    },
+    {
+      "id": "e16",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Issued in Kansas City, Missouri, on March 9, 2001."
+    },
+    {
+      "id": "e17",
+      "type": "heading",
+      "page": 1,
+      "text": "James E. Jackson,",
+      "level": 2
+    },
+    {
+      "id": "e18",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Acting Manager, Small Airplane Directorate, Aircraft Certification Service."
+    },
+    {
+      "id": "e19",
+      "type": "paragraph",
+      "page": 1,
+      "text": "[FR Doc. 01-6517 Filed 3-29-01; 8:45 am]"
+    },
+    {
+      "id": "e20",
+      "type": "paragraph",
+      "page": 1,
+      "text": "BILLING CODE 4910-13-U"
+    },
+    {
+      "id": "e21",
+      "type": "heading",
+      "page": 1,
+      "text": "DEPARTMENT OF TRANSPORTATION",
+      "level": 2
+    },
+    {
+      "id": "e22",
+      "type": "heading",
+      "page": 1,
+      "text": "Federal Aviation Administration",
+      "level": 2
+    },
+    {
+      "id": "e23",
+      "type": "heading",
+      "page": 1,
+      "text": "14 CFR Part 39",
+      "level": 2
+    },
+    {
+      "id": "e24",
+      "type": "paragraph",
+      "page": 1,
+      "text": "[Docket No. 2001-CE-14-AD; Amendment 39-12164; AD 2001-06-17]"
+    },
+    {
+      "id": "e25",
+      "type": "paragraph",
+      "page": 1,
+      "text": "RIN 2120-AA64"
+    },
+    {
+      "id": "e26",
+      "type": "heading",
+      "page": 1,
+      "text": "Airworthiness Directives; Cessna Aircraft Company Models 172R and 172S Airplanes",
+      "level": 2
+    },
+    {
+      "id": "e27",
+      "type": "paragraph",
+      "page": 1,
+      "text": "AGENCY: Federal Aviation Administration, DOT."
+    },
+    {
+      "id": "e28",
+      "type": "paragraph",
+      "page": 1,
+      "text": "ACTION: Final rule; request for comments."
+    },
+    {
+      "id": "e29",
+      "type": "paragraph",
+      "page": 1,
+      "text": "SUMMARY: This amendment adopts a new airworthiness directive (AD) that applies to certain Cessna Aircraft Company (Cessna) Models 172R and 172S airplanes. This AD requires a onetime inspection for proper engine idle speed and fuel control mixture setting and adjustment, as necessary. This AD also requires incorporating engine operating procedures into the pilots operating handbook (POH) and FAAapproved airplane flight manual (AFM). This AD is the result of reports of rough engine operation because of an over-rich fuel mixture (improper fuel flow settings). The actions specified by this AD are intended to detect and correct such improper fuel flow settings, which could result in rough engine operation or engine stoppage. This over-rich fuel mixture also contributes to the engine not restarting during flight when using published in-flight restart procedures. DATES: This AD becomes effective on April 20, 2001."
+    },
+    {
+      "id": "e30",
+      "type": "paragraph",
+      "page": 1,
+      "text": "The Federal Aviation Administration (FAA) must receive any comments on this rule on or before May 18, 2001."
+    },
+    {
+      "id": "e31",
+      "type": "paragraph",
+      "page": 1,
+      "text": "ADDRESSES: Submit comments in triplicate to FAA, Central Region, Office of the Regional Counsel, Attention: Rules Docket No. 2001-CE-14-AD, 901 Locust, Room 506, Kansas City, Missouri 64106."
+    },
+    {
+      "id": "e32",
+      "type": "paragraph",
+      "page": 1,
+      "text": "You may examine information related to this AD at FAA, Central Region, Office of the Regional Counsel, Attention: Rules Docket No. 2001-CE-"
+    },
+    {
+      "id": "e33",
+      "type": "paragraph",
+      "page": 1,
+      "text": "14-AD, 901 Locust, Room 506, Kansas City, Missouri 64106."
+    },
+    {
+      "id": "e34",
+      "type": "heading",
+      "page": 1,
+      "text": "FOR FURTHER INFORMATION CONTACT: Mr.",
+      "level": 2
+    },
+    {
+      "id": "e35",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Paul Pendleton, Aerospace Engineer, Wichita Aircraft Certification Office, FAA, 1801 Airport Road, Mid-Continent Airport, Wichita, Kansas 67209; telephone: (316) 946-4143; facsimile: (316) 946-4407."
+    },
+    {
+      "id": "e36",
+      "type": "heading",
+      "page": 1,
+      "text": "SUPPLEMENTARY INFORMATION:",
+      "level": 2
+    },
+    {
+      "id": "e37",
+      "type": "heading",
+      "page": 1,
+      "text": "Discussion",
+      "level": 2
+    },
+    {
+      "id": "e38",
+      "type": "paragraph",
+      "page": 1,
+      "text": "What events have caused this AD? The FAA has received several reports of improper engine fuel flow settings on Cessna Models 172R and 172S airplanes. These improper settings could prevent the engine from operating at idle speed when the pilot reduces power (i.e., landing approach, power off stalls, etc.). An over-rich fuel mixture is a reason why the engine may not operate at idle speed. This over-rich fuel mixture also contributes to the engine not restarting during flight when using published in-flight restart procedures."
+    },
+    {
+      "id": "e39",
+      "type": "paragraph",
+      "page": 1,
+      "text": "The current pilot operating handbook (POH) and FAA-approved airplane flight manual (AFM) procedures for the Cessna Models 172R and 172S airplanes do not address the pilot bringing the throttle back to the hard idle stop (throttle full aft). The POH/AFM also does not address emergency engine restart procedures to enable engine startup if a rich fuel mixture exists."
+    },
+    {
+      "id": "e40",
+      "type": "paragraph",
+      "page": 1,
+      "text": "What are the consequences if the condition is not corrected? This condition, if not corrected, could result in rough engine operation or engine stoppage. The over-rich fuel mixture also contributes to the engine not restarting during flight when using published in-flight restart procedures."
+    },
+    {
+      "id": "e41",
+      "type": "heading",
+      "page": 1,
+      "text": "FAA's Determination and an Explanation of the Provisions of this AD",
+      "level": 2
+    },
+    {
+      "id": "e42",
+      "type": "paragraph",
+      "page": 1,
+      "text": "What has FAA decided? The FAA has reviewed all available information and determined that:"
+    },
+    {
+      "id": "e43",
+      "type": "paragraph",
+      "page": 1,
+      "text": "-The unsafe condition referenced in this document exists or could develop on other Cessna Models 172R and 172S airplanes of the same type design;"
+    },
+    {
+      "id": "e44",
+      "type": "paragraph",
+      "page": 1,
+      "text": "-These airplanes should be inspected for proper engine idle speed and fuel control mixture setting, the engine idle speed or fuel control mixture setting should be adjusted as necessary, and engine operating procedures should be incorporated into the POH/AFM; and"
+    },
+    {
+      "id": "e45",
+      "type": "paragraph",
+      "page": 1,
+      "text": "-AD action should be taken in order to correct this unsafe condition."
+    },
+    {
+      "id": "e46",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Is there service information that applies to this subject? Cessna has issued Service Bulletin SB01-11-02,"
+    },
+    {
+      "id": "e47",
+      "type": "paragraph",
+      "page": 1,
+      "text": "VerDate 11<MAY>2000 17:11 Mar 29, 2001 Jkt 194001 PO 00000 Frm 00025 Fmt 4700 Sfmt 4700 E:\\FR\\FM\\30MRR1.SGM pfrm08 PsN: 30MRR1"
+    },
+    {
+      "id": "e48",
+      "type": "page_header",
+      "page": 2,
+      "text": "17346"
+    },
+    {
+      "id": "e49",
+      "type": "page_header",
+      "page": 2,
+      "text": "Federal Register /Vol. 66, No. 62/Friday, March 30, 2001/Rules and Regulations"
+    },
+    {
+      "id": "e50",
+      "type": "paragraph",
+      "page": 2,
+      "text": "dated March 5, 2001. This service bulletin:"
+    },
+    {
+      "id": "e51",
+      "type": "paragraph",
+      "page": 2,
+      "text": "-Includes procedures for inspecting the engine idle speed; and"
+    },
+    {
+      "id": "e52",
+      "type": "paragraph",
+      "page": 2,
+      "text": "-Specifies pilot operating procedure changes."
+    },
+    {
+      "id": "e53",
+      "type": "paragraph",
+      "page": 2,
+      "text": "What does this AD require? This AD requires a one-time inspection for proper engine idle speed and fuel control mixture setting and adjustment, as necessary. This AD also requires incorporating engine operating procedures into the POH/AFM."
+    },
+    {
+      "id": "e54",
+      "type": "paragraph",
+      "page": 2,
+      "text": "Procedures for accomplishing the inspection are included in the AD. We are not utilizing the procedures included in Cessna Service Bulletin SB01-11-02, dated March 5, 2001."
+    },
+    {
+      "id": "e55",
+      "type": "paragraph",
+      "page": 2,
+      "text": "Why is FAA not requiring the actions specified in the service bulletin? The inspection procedures in Cessna Service Bulletin SB01-11-02 agree with the service manual procedures. The procedures we are including in this AD agree with the Cessna factory production procedures. After examining these procedures, FAA has determined that:"
+    },
+    {
+      "id": "e56",
+      "type": "paragraph",
+      "page": 2,
+      "text": "-The procedures in the service bulletin and service manual procedures are too restrictive for a pilot to accomplish in the field without using specialized equipment (portable electric tachometer);"
+    },
+    {
+      "id": "e57",
+      "type": "paragraph",
+      "page": 2,
+      "text": "-The pilot should be able to accomplish the inspection for proper engine idle speed and fuel control mixture setting; and"
+    },
+    {
+      "id": "e58",
+      "type": "paragraph",
+      "page": 2,
+      "text": "-The inspection procedures in this AD allow the pilot to both easily accomplish the inspection and address the safety intent of this AD."
+    },
+    {
+      "id": "e59",
+      "type": "paragraph",
+      "page": 2,
+      "text": "Will I have the opportunity to comment prior to the issuance of the rule? Because the unsafe condition described in this could result in rough engine operation or engine stoppage, FAA finds that notice and opportunity for public prior comment are impracticable. Therefore, good cause exists for making this amendment effective in less than 30 days."
+    },
+    {
+      "id": "e60",
+      "type": "heading",
+      "page": 2,
+      "text": "Comments Invited",
+      "level": 2
+    },
+    {
+      "id": "e61",
+      "type": "paragraph",
+      "page": 2,
+      "text": "How do I comment on this AD? Although this action is in the form of a final rule and was not preceded by notice and opportunity for public comment, we invite your comments on the rule. You may submit whatever written data, views, or arguments you choose. You need to include the rule's docket number and submit your comments in triplicate to the address specified under the caption ADDRESSES. We will consider all comments received on or before the closing date specified above. We may amend this rule in light of comments received. Factual information that supports your ideas and suggestions is extremely helpful in evaluating the effectiveness of the AD action and determining whether we need to take additional rulemaking action."
+    },
+    {
+      "id": "e62",
+      "type": "paragraph",
+      "page": 2,
+      "text": "Are there any specific portions of the AD that FAA wants me to address? The FAA specifically invites comments on the overall regulatory, economic, environmental, and energy aspects of the rule that might suggest a need to modify the rule. You may examine all comments we receive before and after the closing date of the rule in the Rules Docket. We will file a report in the Rules Docket that summarizes each FAA contact with the public that concerns the substantive parts of this AD."
+    },
+    {
+      "id": "e63",
+      "type": "paragraph",
+      "page": 2,
+      "text": "We are reviewing the writing style we currently use in regulatory documents, in response to the Presidential memorandum of June 1, 1998. That memorandum requires federal agencies to communicate more clearly with the public. We are interested in your comments on whether the style of this document is clear, and any other suggestions you might have to improve the clarity of FAA communications that affect you. You can get more information about the Presidential memorandum and the plain language initiative at http://"
+    },
+    {
+      "id": "e64",
+      "type": "heading",
+      "page": 2,
+      "text": "www.plainlanguage.gov.",
+      "level": 2
+    },
+    {
+      "id": "e65",
+      "type": "paragraph",
+      "page": 2,
+      "text": "How can I be sure FAA receives my comment? If you want us to acknowledge the receipt of your comments, you must include a selfaddressed, stamped postcard. On the postcard, write ''Comments to Docket No. 2001-CE-14-AD.'' We will date stamp and mail the postcard back to you."
+    },
+    {
+      "id": "e66",
+      "type": "heading",
+      "page": 2,
+      "text": "Regulatory Impact",
+      "level": 2
+    },
+    {
+      "id": "e67",
+      "type": "paragraph",
+      "page": 2,
+      "text": "Does this AD impact various entities? These regulations will not have a substantial direct effect on the States, on the relationship between the national Government and the States, or on the distribution of power and responsibilities among the various levels of government. Therefore, FAA has determined that this final rule does not have federalism implications under Executive Order 13132."
+    },
+    {
+      "id": "e68",
+      "type": "paragraph",
+      "page": 2,
+      "text": "Does this AD involve a significant rule or regulatory action? The FAA has determined that this regulation is an emergency regulation that must be issued immediately to correct an unsafe condition in aircraft, and is not a significant regulatory action under Executive Order 12866. It has been determined further that this action involves an emergency regulation under DOT Regulatory Policies and Procedures (44 FR 11034, February 26, 1979). If it is determined that this emergency regulation otherwise would be significant under DOT Regulatory Policies and Procedures, a final regulatory evaluation will be prepared and placed in the Rules Docket (otherwise, an evaluation is not required). A copy of it, if filed, may be obtained from the Rules Docket."
+    },
+    {
+      "id": "e69",
+      "type": "heading",
+      "page": 2,
+      "text": "List of Subjects in 14 CFR Part 39",
+      "level": 2
+    },
+    {
+      "id": "e70",
+      "type": "paragraph",
+      "page": 2,
+      "text": "Air transportation, Aircraft, Aviation safety, Safety."
+    },
+    {
+      "id": "e71",
+      "type": "heading",
+      "page": 2,
+      "text": "Adoption of the Amendment",
+      "level": 2
+    },
+    {
+      "id": "e72",
+      "type": "paragraph",
+      "page": 2,
+      "text": "Accordingly, under the authority delegated to me by the Administrator, the Federal Aviation Administration amends part 39 of the Federal Aviation Regulations (14 CFR part 39) as follows:"
+    },
+    {
+      "id": "e73",
+      "type": "heading",
+      "page": 2,
+      "text": "PART 39-AIRWORTHINESS DIRECTIVES",
+      "level": 2
+    },
+    {
+      "id": "e74",
+      "type": "paragraph",
+      "page": 2,
+      "text": "The authority citation for part 39 continues to read as follows:"
+    },
+    {
+      "id": "e75",
+      "type": "paragraph",
+      "page": 2,
+      "text": "Authority: 49 U.S.C. 106(g), 40113, 44701."
+    },
+    {
+      "id": "e76",
+      "type": "heading",
+      "page": 2,
+      "text": "§39.13 [Amended]",
+      "level": 2
+    },
+    {
+      "id": "e77",
+      "type": "paragraph",
+      "page": 2,
+      "text": "FAA amends §39.13 by adding a new airworthiness directive (AD) to read as follows:"
+    },
+    {
+      "id": "e78",
+      "type": "paragraph",
+      "page": 2,
+      "text": "2001-06-14 Cessna Aircraft Company: Amendment 39-12164; Docket No."
+    },
+    {
+      "id": "e79",
+      "type": "paragraph",
+      "page": 2,
+      "text": "2001-CE-14-AD."
+    },
+    {
+      "id": "e80",
+      "type": "paragraph",
+      "page": 2,
+      "text": "(a) What airplanes are affected by this AD? This AD applies to Models 172R and 172S, all serial numbers, that are certificated in any category."
+    },
+    {
+      "id": "e81",
+      "type": "paragraph",
+      "page": 2,
+      "text": "(b) Who must comply with this AD? Anyone who wishes to operate any of the above airplanes must comply with this AD."
+    },
+    {
+      "id": "e82",
+      "type": "paragraph",
+      "page": 2,
+      "text": "(c) What problem does this AD address? The actions specified by this AD are intended to detect and correct an over-rich fuel mixture (improper fuel flow settings), which could result in rough engine operation or engine stoppage. This over-rich fuel mixture also contributes to the engine not restarting during flight when using published in-flight restart procedures."
+    },
+    {
+      "id": "e83",
+      "type": "paragraph",
+      "page": 2,
+      "text": "(d) What must I do to address this problem? To address this problem, you must accomplish the following actions:"
+    },
+    {
+      "id": "e84",
+      "type": "paragraph",
+      "page": 2,
+      "text": "VerDate 11<MAY>2000 17:11 Mar 29, 2001 Jkt 194001 PO 00000 Frm 00026 Fmt 4700 Sfmt 4700 E:\\FR\\FM\\30MRR1.SGM pfrm08 PsN: 30MRR1"
+    },
+    {
+      "id": "e85",
+      "type": "page_header",
+      "page": 3,
+      "text": "Federal Register /Vol. 66, No. 62/Friday, March 30, 2001/Rules and Regulations"
+    },
+    {
+      "id": "e86",
+      "type": "page_header",
+      "page": 3,
+      "text": "17347"
+    },
+    {
+      "id": "e87",
+      "type": "table",
+      "header": [
+        "Action",
+        "Compliance time",
+        "Special instructions"
+      ],
+      "rows": [
+        [
+          "(1) Accomplish one of the following inspections for proper engine idle speed and fuel control mixture setting: (i) Pilot Procedure: Accomplish the inspection with the engine oil temperature between 120 and 150 degrees Fahrenheit (F). Assure that the engine idle setting is between 575 and 625 revolutions per minute (RPM) and the mixture setting will produce a minimum 10 RPM rise and a maximum 50 RPM rise with the throttle at the hard ground idle stop. Screw the vernier mixture out slowly counter- clockwise to obtain the RPM rise. (ii) Mechanic Procedure: Accomplish the in- spection with the engine oil temperature be- tween 120 and 150 degrees F. Assure that the fuel mixture setting is between 575 and 625 RPM and the mixture setting will produce a minimum 10 RPM rise and a maximum 20 RPM rise with the throttle at the hard ground idle stop. Screw the vernier mixture out slow- ly counterclockwise. The reason the limits are different than the pilot procedure is that the mechanic needs to establish a more accurate RPM indicator than the airplanes engine RPM gage. You will most likely need to use",
+          "Within the next 10 hours time-in-service (TIS) after April 20, 2001 (the effective date of this AD), unless already accomplished.",
+          "The owner/operator holding at least a private pilot certificate as authorized by section 43.7 of the Federal Aviation Regulations (14 CFR 43.7) may accomplish the inspec- tion specified in paragraph (d)(1)(i) of this AD. Make an entry into the aircraft records showing compliance with this portion of the AD in accordance with section 43.9 of the Federal Aviation Regulations (14 CFR 43.9). You may need to accomplish sea- sonal adjustments of the engine idle speed setting. These seasonal adjustments should not be included in your already established 12-month scheduled adjustments."
+        ],
+        [
+          "an electric tachometer to verify speed changes. (2) If, during any inspection required by this AD, proper engine idle speed and fuel control mixture setting cannot be met, accomplish the following: (i) Adjust the fuel servo. This adjustment or any replacement must be accomplished by an ap- propriately-rated repair station; and (ii) Repeat the inspection specified in paragraph",
+          "Accomplish the adjustment (if required) prior to further flight after the inspection required by paragraph (d)(1) of this AD. Reinspect within 25 hours TIS after the fuel servo ad- justment.",
+          "If you have to adjust the servo more than twice over a 12-month period, obtain the next course of action from the FAA at the address referenced in paragraph (f) of this AD. We recommend you use an electronic strobe to verify RPM settings when making any adjustment."
+        ],
+        [
+          "(d)(1) of this AD. (3) Add the following information to the end of page 3-20, Section 3 Emergency Procedures of the Cessna 172R or 172S Pilot's Oper- ating Handbook (POH) and FAA-approved Airplane Flight Manual (AFM): ''IDLE POWER ENGINE ROUGHNESS An excessively rich idle fuel flow may cause low speed engine roughness during flight. During most in-flight low engine speeds (power off stalls, approach to landing, etc.), the mixture control is normally in the full-rich position. However, to improve engine rough- ness (caused by an improperly adjusted fuel servo) during low engine speeds while in flight, you should rotate the vernier mixture control (leaning of fuel mixture). You may also have to lean the fuel mixture if this low engine speed results in power loss and you",
+          "Within the next 10 hours TIS after April 20, 2001 (the effective date of this AD), unless already accomplished.",
+          "The owner/operator holding at least a private pilot certificate as authorized by section 43.7 of the Federal Aviation Regulations (14 CFR 43.7) may insert the information into the POH as specified in paragraph (d)(3) of this AD. You may insert a copy of this AD into the appropriate sections of the POH to comply with this action. Make an entry into the aircraft records showing com- pliance with portion of the AD in accord- ance with section 43.9 of the Federal Avia- tion Regulations (14 CFR 43.9)."
+        ],
+        [
+          "need to restart the engine during flight. In all cases, you should land the airplane at the nearest airport for repairs if low speed engine roughness requires you to adjust the fuel mixture control to improve engine operation'' (4) Insert the following information into the ap- plicable Cessna Pilot's Operating Handbook (POH) and FAA-Operating Handbook (POH) and FAA-approved Airplane Flight Manual (AFM): ''NORMAL PROCEDURES (Before Takeoff) item 13. Throttle: 1. Vertify smooth engine operation at idle speed of 575 to 625 RPM. 2. 1000 RPM or LESS''",
+          "Within the next 10 hours TIS after April 20, 2001 (the effective date of this AD), unless already accomplished.",
+          "The owner/operator holding at least a private pilot certificate as authorized by section 43.7 of the Federal Aviation Regulations (14 CFR 43.7) may insert the information into the POH as specified in paragraph (d)(4) of this AD. You may insert a copy of this AD into the appropriate sections of the POH to comply with this action. Make an entry into the aircraft records showing com- pliance with portion of the AD in accord- ance with section 43.9 of the Federal Avia- tion Regulations (14 CFR 43.9)."
+        ]
+      ],
+      "page": 3
+    },
+    {
+      "id": "e88",
+      "type": "paragraph",
+      "page": 3,
+      "text": "VerDate 11<MAY>2000 17:11 Mar 29, 2001 Jkt 194001 PO 00000 Frm 00027 Fmt 4700 Sfmt 4700 E:\\FR\\FM\\30MRR1.SGM pfrm08 PsN: 30MRR1"
+    },
+    {
+      "id": "e89",
+      "type": "page_header",
+      "page": 4,
+      "text": "17348"
+    },
+    {
+      "id": "e90",
+      "type": "page_header",
+      "page": 4,
+      "text": "Federal Register /Vol. 66, No. 62/Friday, March 30, 2001/Rules and Regulations"
+    },
+    {
+      "id": "e91",
+      "type": "paragraph",
+      "page": 4,
+      "text": "(e) Can I comply with this AD in any other way? You may use an alternative method of compliance or adjust the compliance time if:"
+    },
+    {
+      "id": "e92",
+      "type": "paragraph",
+      "page": 4,
+      "text": "Your alternative method of compliance provides an equivalent level of safety; and"
+    },
+    {
+      "id": "e93",
+      "type": "paragraph",
+      "page": 4,
+      "text": "The Manager, Wichita Aircraft Certification Office (ACO), approves your alternative. Submit your request through an FAA Principal Maintenance Inspector, who may add comments and then send it to the Manager, Wichita ACO."
+    },
+    {
+      "id": "e94",
+      "type": "paragraph",
+      "page": 4,
+      "text": "Note: This AD applies to each airplane identified in paragraph (a) of this AD, regardless of whether it has been modified, altered, or repaired in the area subject to the requirements of this AD. For airplanes that have been modified, altered, or repaired so that the performance of the requirements of this AD is affected, the owner/operator must request approval for an alternative method of compliance in accordance with paragraph (e) of this AD. The request should include an assessment of the effect of the modification, alteration, or repair on the unsafe condition addressed by this AD; and, if you have not eliminated the unsafe condition, specific actions you propose to address it."
+    },
+    {
+      "id": "e95",
+      "type": "paragraph",
+      "page": 4,
+      "text": "(f) Where can I get information about any already-approved alternative methods of compliance? Contact Mr. Paul Pendleton, Aerospace Engineer, Wichita Aircraft Certification Office, FAA, 1801 Airport Road, Mid-Continent Airport, Wichita, Kansas 67209; telephone: (316) 946-4143; facsimile: (316) 946-4407."
+    },
+    {
+      "id": "e96",
+      "type": "paragraph",
+      "page": 4,
+      "text": "(g) What if I need to fly the airplane to another location to comply with this AD? The FAA can issue a special flight permit under sections 21.197 and 21.199 of the Federal Aviation Regulations (14 CFR 21.197 and 21.199) to operate your airplane to a location where you can accomplish the requirements of this AD."
+    },
+    {
+      "id": "e97",
+      "type": "paragraph",
+      "page": 4,
+      "text": "(h) When does this amendment become effective? This amendment becomes effective on April 20, 2001."
+    },
+    {
+      "id": "e98",
+      "type": "paragraph",
+      "page": 4,
+      "text": "Issued in Kansas City, Missouri, on March 23, 2001."
+    },
+    {
+      "id": "e99",
+      "type": "heading",
+      "page": 4,
+      "text": "David R. Showers,",
+      "level": 2
+    },
+    {
+      "id": "e100",
+      "type": "paragraph",
+      "page": 4,
+      "text": "Acting Manager, Small Airplane Directorate, Aircraft Certification Service."
+    },
+    {
+      "id": "e101",
+      "type": "paragraph",
+      "page": 4,
+      "text": "[FR Doc. 01-7831 Filed 3-29-01; 8:45 am] BILLING CODE 4910-13-P"
+    },
+    {
+      "id": "e102",
+      "type": "heading",
+      "page": 4,
+      "text": "DEPARTMENT OF TRANSPORTATION",
+      "level": 2
+    },
+    {
+      "id": "e103",
+      "type": "heading",
+      "page": 4,
+      "text": "Federal Aviation Administration",
+      "level": 2
+    },
+    {
+      "id": "e104",
+      "type": "heading",
+      "page": 4,
+      "text": "14 CFR Part 39",
+      "level": 2
+    },
+    {
+      "id": "e105",
+      "type": "paragraph",
+      "page": 4,
+      "text": "[Docket No. 2001-NM-36-AD; Amendment 39-12165; AD 2001-06-18]"
+    },
+    {
+      "id": "e106",
+      "type": "heading",
+      "page": 4,
+      "text": "RIN 2120-AA64",
+      "level": 2
+    },
+    {
+      "id": "e107",
+      "type": "paragraph",
+      "page": 4,
+      "text": "Airworthiness Directives; Empresa Brasileira de Aeronautica, S.A. (EMBRAER), Model EMB-120 Series Airplanes"
+    },
+    {
+      "id": "e108",
+      "type": "paragraph",
+      "page": 4,
+      "text": "AGENCY: Federal Aviation Administration, DOT."
+    },
+    {
+      "id": "e109",
+      "type": "paragraph",
+      "page": 4,
+      "text": "ACTION: Final rule; request for comments."
+    },
+    {
+      "id": "e110",
+      "type": "paragraph",
+      "page": 4,
+      "text": "SUMMARY: This amendment supersedes an existing airworthiness directive (AD), applicable to all EMBRAER Model EMB-120 series airplanes, that currently requires revising the Airplane Flight Manual (AFM) to include requirements for activation of the ice protection systems and to add information regarding operation in icing conditions; installing an ice detector system; and revising the AFM to include procedures for testing system integrity. That AD also requires installing the ice detector system in accordance with revised procedures. That amendment was prompted by issuance of mandatory continuing airworthiness information by a foreign civil airworthiness authority. This amendment corrects and clarifies certain AFM procedures, and provides for an alternative AFM revision. The actions specified by this AD are intended to ensure that the flightcrew is able to recognize the formation of significant ice accretion and take appropriate action; such formation of ice could result in reduced controllability of the airplane in normal icing conditions."
+    },
+    {
+      "id": "e111",
+      "type": "paragraph",
+      "page": 4,
+      "text": "DATES: Effective April 16, 2001. The incorporation by reference of certain publications, as listed in the regulations, was approved previously by the Director of the Federal Register as of March 5, 2001 (66 FR 8082, January 29, 2001)."
+    },
+    {
+      "id": "e112",
+      "type": "paragraph",
+      "page": 4,
+      "text": "Comments for inclusion in the Rules Docket must be received on or before April 30, 2001."
+    },
+    {
+      "id": "e113",
+      "type": "paragraph",
+      "page": 4,
+      "text": "ADDRESSES: Submit comments in triplicate to the Federal Aviation Administration (FAA), Transport Airplane Directorate, ANM-114, Attention: Rules Docket No. 2001-NM36-AD, 1601 Lind Avenue, SW., Renton, Washington 98055-4056. Comments may be inspected at this location between 9:00 a.m. and 3:00 p.m., Monday through Friday, except Federal holidays. Comments may be submitted via fax to (425) 227-1232. Comments may also be sent via the Internet using the following address: 9anm-iarcomment@faa.gov. Comments sent via fax or the Internet must contain ''Docket No. 2001-NM-36-AD'' in the subject line and need not be submitted in triplicate. Comments sent via the Internet as attached electronic files must be formatted in Microsoft Word 97 for Windows or ASCII text."
+    },
+    {
+      "id": "e114",
+      "type": "paragraph",
+      "page": 4,
+      "text": "The service information referenced in this AD may be obtained from Empresa Brasileira de Aeronautica S.A. (EMBRAER), P.O. Box 343-CEP 12.225, Sao Jose dos Campos-SP, Brazil. This information may be examined at the FAA, Transport Airplane Directorate, 1601 Lind Avenue, SW., Renton, Washington; or at the FAA, Atlanta Aircraft Certification Office, One Crown Center, 1895 Phoenix Boulevard, suite 450, Atlanta, Georgia; or at the Office of the Federal Register, 800 North Capitol Street, NW., suite 700, Washington, DC."
+    },
+    {
+      "id": "e115",
+      "type": "heading",
+      "page": 4,
+      "text": "FOR FURTHER INFORMATION CONTACT:",
+      "level": 2
+    },
+    {
+      "id": "e116",
+      "type": "paragraph",
+      "page": 4,
+      "text": "Thomas Peters, Aerospace Engineer, Systems and Flight Test Branch, ACE116A, FAA, Atlanta Aircraft Certification Office, One Crown Center, 1895 Phoenix Boulevard, suite 450, Atlanta, Georgia 30349; telephone (770) 703-6063; fax (770) 703-6097."
+    },
+    {
+      "id": "e117",
+      "type": "paragraph",
+      "page": 4,
+      "text": "SUPPLEMENTARY INFORMATION: On January 17, 2001, the FAA issued AD 2001-02-06, amendment 39-12090 (66 FR 8082, January 29, 2001), applicable to all EMBRAER Model EMB-120 series airplanes, to require revising the Airplane Flight Manual (AFM) to include requirements for activation of the ice protection systems and to add information regarding operation in icing conditions; installing an ice detector system; and revising the AFM to include procedures for testing system integrity. That AD also requires installing the ice detector system in accordance with revised procedures. That action was prompted by issuance of mandatory continuing airworthiness information by a foreign civil airworthiness authority. The actions specified by that AD are intended to ensure that the flightcrew is able to recognize the formation of significant ice accretion and take appropriate action; such formation of ice could result in reduced controllability of the airplane in normal icing conditions."
+    },
+    {
+      "id": "e118",
+      "type": "heading",
+      "page": 4,
+      "text": "Actions Since Issuance of Previous Rule",
+      "level": 2
+    },
+    {
+      "id": "e119",
+      "type": "paragraph",
+      "page": 4,
+      "text": "Since the issuance of AD 2001-02-06, the FAA has noted that a typographical error appeared in paragraph (a)(2) of that AD, which specified certain AFM revisions. Paragraph (a)(2) of the AD should have read, ''AIRSPEED (Flaps and Gear Up) . . . . . 160 KIAS MINIMUM'' instead of ''. . . 60 KIAS MINIMUM.'' While the typographical error may be readily apparent to a pilot rated in the EMBRAER Model EMB-120 series airplane, there is no way to know what the correct figure should be. Therefore, in view of the effective date of AD 2001-02-06 (March 5, 2001), we consider it necessary to supersede the existing AD to correct and clarify that AFM revision."
+    },
+    {
+      "id": "e120",
+      "type": "paragraph",
+      "page": 4,
+      "text": "In addition, the FAA has been advised that EMBRAER has issued Revision 50 of AFM-120-794, dated November 3, 1997, which contains revised"
+    },
+    {
+      "id": "e121",
+      "type": "paragraph",
+      "page": 4,
+      "text": "VerDate 11<MAY>2000 17:11 Mar 29, 2001 Jkt 194001 PO 00000 Frm 00028 Fmt 4700 Sfmt 4700 E:\\FR\\FM\\30MRR1.SGM pfrm08 PsN: 30MRR1"
+    }
+  ]
+}

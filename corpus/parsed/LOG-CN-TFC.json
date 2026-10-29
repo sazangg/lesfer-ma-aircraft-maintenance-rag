@@ -1,0 +1,240 @@
+{
+  "source_id": "LOG-CN-TFC",
+  "file": "anfa/logbooks/logbook-CN-TFC.pdf",
+  "format": "pdf",
+  "parser": "docling",
+  "meta": {
+    "publisher": "Anfa Aero Services",
+    "title": "CN-TFC airframe logbook extract, 2024 to 2026",
+    "doc_type": "logbook",
+    "aircraft": "CN-TFC",
+    "as_of": "2026-10-26",
+    "access": "staff"
+  },
+  "elements": [
+    {
+      "id": "e1",
+      "type": "heading",
+      "page": 1,
+      "text": "CN-TFC airframe logbook: entries from 1 January 2024 to 26 October 2026 (printed extract)",
+      "level": 2
+    },
+    {
+      "id": "e2",
+      "type": "table",
+      "header": [
+        "Date",
+        "Airframe hours",
+        "Work order",
+        "Entry",
+        "Signed"
+      ],
+      "rows": [
+        [
+          "2024-02-10",
+          "4,244.0",
+          "WO-2024-0064",
+          "100-hour inspection per 14 CFR 91.409(b). Replaced left main tire. Oil and filter changed.",
+          "R. El Fassi, MA-B1-0618"
+        ],
+        [
+          "2024-03-26",
+          "4,334.2",
+          "WO-2024-0135",
+          "100-hour inspection per 14 CFR 91.409(b). Replaced right main tire. Oil and filter changed.",
+          "A. Tazi, MA-B1-0457"
+        ],
+        [
+          "2024-05-12",
+          "4,428.3",
+          "WO-2024-0207",
+          "100-hour inspection per 14 CFR 91.409(b). Replaced left cabin door seal. Adjusted alternator belt tension per maintenance manual. Oil and filter changed.",
+          "K. Bennani, MA-B1-0212"
+        ],
+        [
+          "2024-06-29",
+          "4,524.4",
+          "WO-2024-0283",
+          "100-hour inspection per 14 CFR 91.409(b). Replaced exhaust gasket at cylinder 3. Cleaned, gapped, and rotated all eight spark plugs. Oil and filter changed.",
+          "A. Tazi, MA-B1-0457"
+        ],
+        [
+          "2024-07-30",
+          "4,586.5",
+          "WO-2024-0332",
+          "Bled right brake system. Replaced right brake linings.",
+          "R. El Fassi, MA-B1-0618"
+        ],
+        [
+          "2024-08-14",
+          "4,616.6",
+          "WO-2024-0352",
+          "100-hour inspection per 14 CFR 91.409(b). Replaced all eight spark plugs. Serviced nose strut with hydraulic fluid and air. Oil and filter changed.",
+          "R. El Fassi, MA-B1-0618"
+        ],
+        [
+          "2024-09-20",
+          "4,690.7",
+          "WO-2024-0410",
+          "Annual inspection per 14 CFR 91.409(a) and the scope and detail of 14 CFR Part 43 Appendix D. Replaced left main tire. Replaced induction air filter. Oil and filter changed.",
+          "K. Bennani, MA-B1-0212"
+        ],
+        [
+          "2024-11-04",
+          "4,780.8",
+          "WO-2024-0479",
+          "100-hour inspection per 14 CFR 91.409(b). Oil and filter changed.",
+          "A. Tazi, MA-B1-0457"
+        ],
+        [
+          "2024-12-19",
+          "4,871.0",
+          "WO-2024-0549",
+          "100-hour inspection per 14 CFR 91.409(b). Replaced left brake linings. Replaced left cabin door seal. Oil and filter changed.",
+          "K. Bennani, MA-B1-0212"
+        ],
+        [
+          "2025-01-14",
+          "4,923.0",
+          "WO-2025-0022",
+          "Replaced starter with exchange unit. Ground run satisfactory.",
+          "R. El Fassi, MA-B1-0618"
+        ],
+        [
+          "2025-02-06",
+          "4,969.1",
+          "WO-2025-0056",
+          "100-hour inspection per 14 CFR 91.409(b). Cleaned, gapped, and rotated all eight spark plugs. Adjusted alternator belt tension per maintenance manual. Oil and filter changed.",
+          "A. Tazi, MA-B1-0457"
+        ],
+        [
+          "2025-03-18",
+          "5,049.2",
+          "WO-2025-0117",
+          "Static system test and altimeter test per 14 CFR 91.411 and Part 43 Appendix E. Transponder test per 14 CFR 91.413 and Part 43 Appendix F. All tests within limits. Next tests due within 24 calendar months.",
+          "K. Bennani, MA-B1-0212"
+        ],
+        [
+          "2025-03-26",
+          "5,065.2",
+          "WO-2025-0129",
+          "100-hour inspection per 14 CFR 91.409(b). Oil and filter changed.",
+          "K. Bennani, MA-B1-0212"
+        ]
+      ],
+      "page": 1
+    },
+    {
+      "id": "e3",
+      "type": "table",
+      "header": [
+        "Date",
+        "Airframe hours",
+        "Work order",
+        "Entry",
+        "Signed"
+      ],
+      "rows": [
+        [
+          "2025-05-13",
+          "5,161.4",
+          "WO-2025-0203",
+          "100-hour inspection per 14 CFR 91.409(b). Removed corrosion, treated and painted battery box; neutralized battery area. Replaced trim tab actuator rod end bearings; free play within limits. Replaced all eight spark plugs. Oil and filter changed.",
+          "A. Tazi, MA-B1-0457"
+        ],
+        [
+          "2025-06-29",
+          "5,255.5",
+          "WO-2025-0272",
+          "100-hour inspection per 14 CFR 91.409(b). Replaced exhaust gasket at cylinder 3. Oil and filter changed.",
+          "R. El Fassi, MA-B1-0618"
+        ],
+        [
+          "2025-08-15",
+          "5,349.7",
+          "WO-2025-0342",
+          "100-hour inspection per 14 CFR 91.409(b). Replaced left brake linings. Replaced induction air filter. Serviced nose strut with hydraulic fluid and air. Oil and filter changed.",
+          "K. Bennani, MA-B1-0212"
+        ],
+        [
+          "2025-09-17",
+          "5,415.8",
+          "WO-2025-0392",
+          "Annual inspection per 14 CFR 91.409(a) and the scope and detail of 14 CFR Part 43 Appendix D. Oil and filter changed.",
+          "K. Bennani, MA-B1-0212"
+        ],
+        [
+          "2025-11-01",
+          "5,505.9",
+          "WO-2025-0460",
+          "100-hour inspection per 14 CFR 91.409(b). Replaced right main tire. Cleaned, gapped, and rotated all eight spark plugs. Oil and filter changed.",
+          "K. Bennani, MA-B1-0212"
+        ],
+        [
+          "2025-11-18",
+          "5,539.9",
+          "WO-2025-0485",
+          "Replaced landing light lamp.",
+          "A. Tazi, MA-B1-0457"
+        ],
+        [
+          "2025-12-16",
+          "5,596.0",
+          "WO-2025-0526",
+          "100-hour inspection per 14 CFR 91.409(b). Replaced left main tire. Removed corrosion, treated and painted battery box; neutralized battery area. Oil and filter changed.",
+          "R. El Fassi, MA-B1-0618"
+        ],
+        [
+          "2026-01-31",
+          "5,688.2",
+          "WO-2026-0042",
+          "100-hour inspection per 14 CFR 91.409(b). Replaced trim tab actuator rod end bearings; free play within limits. Replaced left brake linings. Oil and filter changed.",
+          "R. El Fassi, MA-B1-0618"
+        ],
+        [
+          "2026-03-21",
+          "5,786.3",
+          "WO-2026-0110",
+          "100-hour inspection per 14 CFR 91.409(b). Replaced left cabin door seal. Replaced all eight spark plugs. Replaced exhaust gasket at cylinder 3. Oil and filter changed.",
+          "R. El Fassi, MA-B1-0618"
+        ],
+        [
+          "2026-05-06",
+          "5,878.4",
+          "WO-2026-0172",
+          "100-hour inspection per 14 CFR 91.409(b). Replaced right main tire. Replaced left main tire. Oil and filter changed.",
+          "K. Bennani, MA-B1-0212"
+        ],
+        [
+          "2026-06-22",
+          "5,972.6",
+          "WO-2026-0235",
+          "100-hour inspection per 14 CFR 91.409(b). Replaced induction air filter. Adjusted alternator belt tension per maintenance manual. Removed corrosion, treated and painted battery box; neutralized battery area. Oil and filter changed.",
+          "A. Tazi, MA-B1-0457"
+        ],
+        [
+          "2026-08-10",
+          "6,070.7",
+          "WO-2026-0303",
+          "100-hour inspection per 14 CFR 91.409(b). Replaced left cabin door seal. Oil and filter changed.",
+          "R. El Fassi, MA-B1-0618"
+        ],
+        [
+          "2026-09-13",
+          "6,138.8",
+          "WO-2026-0350",
+          "Annual inspection per 14 CFR 91.409(a) and the scope and detail of 14 CFR Part 43 Appendix D. Oil and filter changed.",
+          "K. Bennani, MA-B1-0212"
+        ],
+        [
+          "2026-10-06",
+          "6,184.9",
+          "WO-2026-0388",
+          "Muffler AWI P/N A1754001-23 S/N 34729 inspected for cracks after a carbon monoxide alert: none found. CO detector card replaced.",
+          "K. Bennani, MA-B1-0212"
+        ]
+      ],
+      "page": 2
+    }
+  ]
+}

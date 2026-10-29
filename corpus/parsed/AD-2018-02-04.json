@@ -1,0 +1,1162 @@
+{
+  "source_id": "AD-2018-02-04",
+  "file": "faa/ad/ad-2018-02-04.pdf",
+  "format": "pdf",
+  "parser": "docling",
+  "meta": {
+    "title": "AD 2018-02-04: Aerospace Welding Minneapolis, Inc., Mufflers",
+    "publisher": "FAA",
+    "doc_type": "airworthiness directive",
+    "ad_number": "2018-02-04",
+    "action": "Final rule",
+    "published": "2018-01-17",
+    "effective": "2018-02-21",
+    "federal_register": "83 FR 2354 (document 2018-00479)",
+    "access": "employees"
+  },
+  "elements": [
+    {
+      "id": "e1",
+      "type": "page_header",
+      "page": 1,
+      "text": "2354"
+    },
+    {
+      "id": "e2",
+      "type": "page_header",
+      "page": 1,
+      "text": "Federal Register /Vol. 83, No. 11/Wednesday, January 17, 2018/Rules and Regulations"
+    },
+    {
+      "id": "e3",
+      "type": "paragraph",
+      "page": 1,
+      "text": "ethrower on DSK3G9T082PROD with RULES"
+    },
+    {
+      "id": "e4",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Reorganization Act of 1974, secs. 201, 202, 206, 211 (42 U.S.C. 5841, 5842, 5846, 5851); Nuclear Waste Policy Act of 1982, sec. 306 (42 U.S.C. 10226); National Environmental Policy Act of 1969 (42 U.S.C. 4332); 44 U.S.C. 3504 note; Sec. 109, Pub. L. 96-295, 94 Stat. 783."
+    },
+    {
+      "id": "e5",
+      "type": "paragraph",
+      "page": 1,
+      "text": "■ 2. In §50.55a, revise paragraphs (a)(3)(i) through (iii) to read as follows:"
+    },
+    {
+      "id": "e6",
+      "type": "heading",
+      "page": 1,
+      "text": "§50.55a Codes and standards.",
+      "level": 2
+    },
+    {
+      "id": "e7",
+      "type": "paragraph",
+      "page": 1,
+      "text": "(a) * * *"
+    },
+    {
+      "id": "e8",
+      "type": "paragraph",
+      "page": 1,
+      "text": "(3) * * *"
+    },
+    {
+      "id": "e9",
+      "type": "paragraph",
+      "page": 1,
+      "text": "(i) NRC Regulatory Guide 1.84, Revision 37. NRC Regulatory Guide 1.84, Revision 37, ''Design, Fabrication, and Materials Code Case Acceptability, ASME Section III,'' dated March 2017, with the requirements in paragraph (b)(4) of this section."
+    },
+    {
+      "id": "e10",
+      "type": "paragraph",
+      "page": 1,
+      "text": "(ii) NRC Regulatory Guide 1.147, Revision 18. NRC Regulatory Guide 1.147, Revision 18, ''Inservice Inspection Code Case Acceptability, ASME Section XI, Division 1,'' dated March 2017, which lists ASME Code Cases that the NRC has approved in accordance with the requirements in paragraph (b)(5) of this section."
+    },
+    {
+      "id": "e11",
+      "type": "paragraph",
+      "page": 1,
+      "text": "(iii) NRC Regulatory Guide 1.192, Revision 2. NRC Regulatory Guide 1.192, Revision 2, ''Operation and Maintenance Code Case Acceptability, ASME OM Code,'' dated March 2017, which lists ASME Code Cases that the NRC has approved in accordance with the requirements in paragraph (b)(6) of this section."
+    },
+    {
+      "id": "e12",
+      "type": "paragraph",
+      "page": 1,
+      "text": "* * * * *"
+    },
+    {
+      "id": "e13",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Dated at Rockville, Maryland, this 2nd day of August 2017."
+    },
+    {
+      "id": "e14",
+      "type": "paragraph",
+      "page": 1,
+      "text": "For the Nuclear Regulatory Commission."
+    },
+    {
+      "id": "e15",
+      "type": "heading",
+      "page": 1,
+      "text": "Brian E. Holian,",
+      "level": 2
+    },
+    {
+      "id": "e16",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Acting Director, Office of Nuclear Reactor Regulation."
+    },
+    {
+      "id": "e17",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Editorial note: This document was received for publication by the Office of the Federal Register on January 3, 2018."
+    },
+    {
+      "id": "e18",
+      "type": "paragraph",
+      "page": 1,
+      "text": "[FR Doc. 2018-00112 Filed 1-16-18; 8:45 am] BILLING CODE P"
+    },
+    {
+      "id": "e19",
+      "type": "heading",
+      "page": 1,
+      "text": "DEPARTMENT OF TRANSPORTATION",
+      "level": 2
+    },
+    {
+      "id": "e20",
+      "type": "heading",
+      "page": 1,
+      "text": "Federal Aviation Administration",
+      "level": 2
+    },
+    {
+      "id": "e21",
+      "type": "heading",
+      "page": 1,
+      "text": "14 CFR Part 39",
+      "level": 2
+    },
+    {
+      "id": "e22",
+      "type": "paragraph",
+      "page": 1,
+      "text": "[Docket No. FAA-2017-0324; Product Identifier 2017-CE-004-AD; Amendment 39-19157; AD 2018-02-04]"
+    },
+    {
+      "id": "e23",
+      "type": "paragraph",
+      "page": 1,
+      "text": "RIN 2120-AA64"
+    },
+    {
+      "id": "e24",
+      "type": "heading",
+      "page": 1,
+      "text": "Airworthiness Directives; Aerospace Welding Minneapolis, Inc., Mufflers",
+      "level": 2
+    },
+    {
+      "id": "e25",
+      "type": "paragraph",
+      "page": 1,
+      "text": "AGENCY: Federal Aviation Administration (FAA), DOT."
+    },
+    {
+      "id": "e26",
+      "type": "paragraph",
+      "page": 1,
+      "text": "ACTION: Final rule."
+    },
+    {
+      "id": "e27",
+      "type": "paragraph",
+      "page": 1,
+      "text": "SUMMARY: We are adopting a new airworthiness directive (AD) for certain Aerospace Welding Minneapolis, Inc. mufflers, part numbers A1754001-23 and A1754001-25, installed on airplanes. This AD was prompted by occurrences of cracks or broken welds in the connecting weld of the muffler body to muffler cuff that may allow carbon monoxide exhaust fumes into the cockpit heating system. This AD requires an inspection of the muffler for leaking to identify cracks and replacement of the muffler. We are issuing this AD to address the unsafe condition on these products."
+    },
+    {
+      "id": "e28",
+      "type": "paragraph",
+      "page": 1,
+      "text": "DATES: This AD is effective February 21, 2018."
+    },
+    {
+      "id": "e29",
+      "type": "paragraph",
+      "page": 1,
+      "text": "The Director of the Federal Register approved the incorporation by reference of a certain publication listed in this AD as of February 21, 2018."
+    },
+    {
+      "id": "e30",
+      "type": "paragraph",
+      "page": 1,
+      "text": "ADDRESSES: For service information identified in this final rule, contact Aerospace Welding Minneapolis, Inc. (AWI) 1045 Gemini Road, Eagan, Minnesota 55121; telephone: 651-3799888; fax: 651-379-9889; internet: www.awi-ami.com. You may view this service information at the FAA, Policy and Innovation Division, 901 Locust, Kansas City, Missouri 64106. For information on the availability of this material at the FAA, call (816) 3294148. It is also available on the internet at http://www.regulations.gov by searching for and locating Docket No. FAA-2017-0324."
+    },
+    {
+      "id": "e31",
+      "type": "heading",
+      "page": 1,
+      "text": "Examining the AD Docket",
+      "level": 2
+    },
+    {
+      "id": "e32",
+      "type": "paragraph",
+      "page": 1,
+      "text": "You may examine the AD docket on the internet at http:// www.regulations.gov by searching for and locating Docket No. FAA-20170324; or in person at Docket Operations between 9 a.m. and 5 p.m., Monday through Friday, except Federal holidays. The AD docket contains this final rule, the regulatory evaluation, any comments received, and other information. The address for Docket Operations (phone: 800-647-5527) is Docket Operations, U.S. Department of Transportation, Docket Operations, M30, West Building Ground Floor, Room W12-140, 1200 New Jersey Avenue SE, Washington, DC 20590."
+    },
+    {
+      "id": "e33",
+      "type": "heading",
+      "page": 1,
+      "text": "FOR FURTHER INFORMATION CONTACT:",
+      "level": 2
+    },
+    {
+      "id": "e34",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Mark Grace, Aerospace Engineer, FAA, Chicago ACO Branch, 2300 East Devon Avenue, Des Plaines, IL 60018-4696; telephone: (847) 294-7377; fax: (847) 294-7834; email: mark.grace@faa.gov."
+    },
+    {
+      "id": "e35",
+      "type": "heading",
+      "page": 1,
+      "text": "SUPPLEMENTARY INFORMATION:",
+      "level": 2
+    },
+    {
+      "id": "e36",
+      "type": "heading",
+      "page": 1,
+      "text": "Discussion",
+      "level": 2
+    },
+    {
+      "id": "e37",
+      "type": "paragraph",
+      "page": 1,
+      "text": "We issued a notice of proposed rulemaking (NPRM) to amend 14 CFR part 39 by adding an AD that would apply to certain Aerospace Welding Minneapolis, Inc. (AWI) mufflers, part numbers A1754001-23 and A175400125, installed on airplanes. The NPRM published in the Federal Register on April 18, 2017 (82 FR 18265). The NPRM was prompted by reports of broken or cracked welds in the connecting weld of the muffler body to muffler cuff. There have been 54 occurrences identified by maintenance and 2 occurrences identified by the carbon monoxide (CO) gas monitor warning system. The NPRM proposed to require an inspection of the muffler for leaking to identify cracks and replacement of the muffler. We are issuing this AD to correct the unsafe condition on these products."
+    },
+    {
+      "id": "e38",
+      "type": "heading",
+      "page": 1,
+      "text": "Comments",
+      "level": 2
+    },
+    {
+      "id": "e39",
+      "type": "paragraph",
+      "page": 1,
+      "text": "We gave the public the opportunity to participate in developing this final rule. The following presents the comments received on the NPRM and the FAA's response to each comment."
+    },
+    {
+      "id": "e40",
+      "type": "heading",
+      "page": 1,
+      "text": "Request To Expand the Applicability",
+      "level": 2
+    },
+    {
+      "id": "e41",
+      "type": "paragraph",
+      "page": 1,
+      "text": "An anonymous commenter requested we expand the applicability of the AD to include additional part number mufflers produced by the same manufacturer as the mufflers affected by this AD. The commenter thinks the additional part number mufflers may share some of the same materials, processes, and methods of assembly as the mufflers affected by this AD."
+    },
+    {
+      "id": "e42",
+      "type": "paragraph",
+      "page": 1,
+      "text": "We do not agree with this comment. We addressed this concern during the investigation of the unsafe condition. We found that the unsafe condition is related to a design change and was applicable to one manufacturing lot. The unsafe condition applies to only the part numbers and serial numbers affected by this AD."
+    },
+    {
+      "id": "e43",
+      "type": "paragraph",
+      "page": 1,
+      "text": "We have not changed this AD based on this comment."
+    },
+    {
+      "id": "e44",
+      "type": "heading",
+      "page": 1,
+      "text": "Request To Prohibit the Installation of the Affected Muffler on Cessna 172R and 172S Airplanes",
+      "level": 2
+    },
+    {
+      "id": "e45",
+      "type": "paragraph",
+      "page": 1,
+      "text": "An anonymous commenter pointed out that that all 10 SDRs address the Models 172R and 172S airplanes. This commenter also asks how many of the 56 parts were installed on Cessna Models C172R and C172S airplanes. The commenter explains that (AWI) mufflers, part numbers A1754001-23 and A1754001-25, lack the reinforced ends and high temperature corrosion resistant material specified in FAR Part 23.1125(a)(1). The material substitution"
+    },
+    {
+      "id": "e46",
+      "type": "paragraph",
+      "page": 1,
+      "text": "VerDate Sep<11>2014 14:56 Jan 16, 2018 Jkt 244001 PO 00000 Frm 00026 Fmt 4700 Sfmt 4700 E:\\FR\\FM\\17JAR1.SGM 17JAR1"
+    },
+    {
+      "id": "e47",
+      "type": "page_header",
+      "page": 2,
+      "text": "Federal Register /Vol. 83, No. 11/Wednesday, January 17, 2018/Rules and Regulations"
+    },
+    {
+      "id": "e48",
+      "type": "page_header",
+      "page": 2,
+      "text": "2355"
+    },
+    {
+      "id": "e49",
+      "type": "paragraph",
+      "page": 2,
+      "text": "ethrower on DSK3G9T082PROD with RULES"
+    },
+    {
+      "id": "e50",
+      "type": "paragraph",
+      "page": 2,
+      "text": "makes it less resistant to high temperature and corrosion than the original type-certificated product. Based on the comments, the FAA infers that the commenter wants the AD to prohibit the installation of the affected parts, regardless of serial number, specifically on the Cessna Models 172R and 172S airplanes."
+    },
+    {
+      "id": "e51",
+      "type": "paragraph",
+      "page": 2,
+      "text": "We do not agree with the implication that the installation prohibition should apply to all produced parts or only apply to the Cessna Model 172R and 172S airplanes. The unsafe condition resulted from a design change with a limited serial number effectivity and that is approved for installation on other models. We don't know how many parts are installed or could be installed in the future on the Cessna Models C172R and C172S airplanes. The current applicability captures all the potentially unsafe parts in the field. Concerns about material substitutions complying with 14 CFR 23.1125(a)(1) goes beyond the scope of this AD."
+    },
+    {
+      "id": "e52",
+      "type": "paragraph",
+      "page": 2,
+      "text": "We have not changed this AD based on this comment."
+    },
+    {
+      "id": "e53",
+      "type": "heading",
+      "page": 2,
+      "text": "Request We Add an Exhaust Systems Inspection",
+      "level": 2
+    },
+    {
+      "id": "e54",
+      "type": "paragraph",
+      "page": 2,
+      "text": "An anonymous commenter requested we issue an AD similar to a Transport Canada AD which requires an ongoing periodic pressure testing of the exhaust systems to help identify and reduce the risk of CO entering the cabin area."
+    },
+    {
+      "id": "e55",
+      "type": "paragraph",
+      "page": 2,
+      "text": "We do not agree with this comment. This AD addresses the identified unsafe condition on the affected mufflers by requiring removal of the affected mufflers from airplanes. A more general pressure testing of exhaust systems is beyond the scope of this AD."
+    },
+    {
+      "id": "e56",
+      "type": "paragraph",
+      "page": 2,
+      "text": "We have not changed this AD based on this comment."
+    },
+    {
+      "id": "e57",
+      "type": "heading",
+      "page": 2,
+      "text": "Request To Make Spot Weld Procedures More Rigid",
+      "level": 2
+    },
+    {
+      "id": "e58",
+      "type": "paragraph",
+      "page": 2,
+      "text": "An anonymous commenter requested we require parts manufacturer approval (PMA) spot weld procedures to be more rigid. The commenter stated that manually operated spot welding machines do not consistently control pressure, time, or frequency as required by weld schedules because the human operator controls those factors. It is almost impossible to meet the weld code without a computer aided machine."
+    },
+    {
+      "id": "e59",
+      "type": "paragraph",
+      "page": 2,
+      "text": "We do not agree with this comment. Regulating how spot welds are done goes beyond the scope of this AD. This AD addresses the identified unsafe condition on the affected mufflers by requiring removal of the affected mufflers from airplanes."
+    },
+    {
+      "id": "e60",
+      "type": "paragraph",
+      "page": 2,
+      "text": "We have not changed this AD based on this comment."
+    },
+    {
+      "id": "e61",
+      "type": "heading",
+      "page": 2,
+      "text": "Request We Prohibit the Use of Less Heat Resistant Material",
+      "level": 2
+    },
+    {
+      "id": "e62",
+      "type": "paragraph",
+      "page": 2,
+      "text": "An anonymous commenter requested we not allow the substitution of less heat resistant material for higher heat resistant material. There are a number of FAA-approved PMA articles in existence certified by Identicality or Test and Computation where less heat resistant materials have been substituted. In many cases these PMA articles are used as terminating action to ADs and undermine the basis of the AD."
+    },
+    {
+      "id": "e63",
+      "type": "paragraph",
+      "page": 2,
+      "text": "We do not agree with this comment. An applicant for a PMA must demonstrate compliance with the applicable regulations before the PMA is granted. This AD addresses the unsafe condition on the affected mufflers by requiring removal of the affected mufflers from airplanes. Changing the PMA process goes beyond the scope of this AD."
+    },
+    {
+      "id": "e64",
+      "type": "paragraph",
+      "page": 2,
+      "text": "We have not changed this AD based on this comment."
+    },
+    {
+      "id": "e65",
+      "type": "heading",
+      "page": 2,
+      "text": "Request We Make Related Documents Available",
+      "level": 2
+    },
+    {
+      "id": "e66",
+      "type": "paragraph",
+      "page": 2,
+      "text": "David McGhee requested we ensure documents related to the AD are readily available. Although requested several times by telephone and email, the commenter was unable to obtain a copy of related service information. This made review and comment on the proposed AD difficult."
+    },
+    {
+      "id": "e67",
+      "type": "paragraph",
+      "page": 2,
+      "text": "We agree with this comment. Related documents should be available for a timely review of the AD. The NPRM incorrectly cited the related AWI service bulletin as AWI Mandatory Service Bulletin No. 16063001, dated June 30, 2015. The correct citation should read AWI Mandatory Service Bulletin No. 15063001, dated June 30, 2015. We confirmed the availability of the related service bulletin with the document provider and confirmed the commenter received a copy prior to the close of the comment period."
+    },
+    {
+      "id": "e68",
+      "type": "paragraph",
+      "page": 2,
+      "text": "We changed this AD to use the correct citation based on this comment."
+    },
+    {
+      "id": "e69",
+      "type": "heading",
+      "page": 2,
+      "text": "Request a Change to the Cost of Compliance",
+      "level": 2
+    },
+    {
+      "id": "e70",
+      "type": "paragraph",
+      "page": 2,
+      "text": "David McGhee requested we add the cost to determine if the affected muffler is installed on the airplane to the estimated cost of the AD. The related service information estimated it would take 1 hour of labor to inspect the airplane to determine if the affected muffler is installed."
+    },
+    {
+      "id": "e71",
+      "type": "paragraph",
+      "page": 2,
+      "text": "We do not agree with this comment. The estimated cost of the AD applies specifically to addressing and correcting the unsafe condition. The FAA process for determining the cost of compliance does not include the initial determination of applicability. Also, for many airplanes, a review of the maintenance records will identify if the affected muffler is installed."
+    },
+    {
+      "id": "e72",
+      "type": "paragraph",
+      "page": 2,
+      "text": "We have not changed this AD based on this comment."
+    },
+    {
+      "id": "e73",
+      "type": "heading",
+      "page": 2,
+      "text": "Request We Allow the Use of Other Service Information for Muffler Replacement",
+      "level": 2
+    },
+    {
+      "id": "e74",
+      "type": "paragraph",
+      "page": 2,
+      "text": "David McGhee requested we revise the AD to allow the use of other service information for installing a replacement muffler. Operators may choose to install an FAA-approved muffler from a source other than AWI. The service information proposed in the NPRM may not be appropriate for mufflers produced by a different manufacturer."
+    },
+    {
+      "id": "e75",
+      "type": "paragraph",
+      "page": 2,
+      "text": "We agree with this comment. If an operator installs an FAA-approved muffler other than the AWI muffler, the installation instructions from that manufacturer should be used."
+    },
+    {
+      "id": "e76",
+      "type": "paragraph",
+      "page": 2,
+      "text": "We have revised the language in this AD to allow the use of the manufacturer's installation instructions for the specific muffler that is being installed."
+    },
+    {
+      "id": "e77",
+      "type": "heading",
+      "page": 2,
+      "text": "Request We Revise the Subject Heading",
+      "level": 2
+    },
+    {
+      "id": "e78",
+      "type": "paragraph",
+      "page": 2,
+      "text": "Thomas Nelson requested we revise the subject heading of the AD because it is not part of the company's name and implies the AD applies to all mufflers made by this company."
+    },
+    {
+      "id": "e79",
+      "type": "paragraph",
+      "page": 2,
+      "text": "We partially agree with this comment. We agree the subject header could more clearly define the specific mufflers this AD applies to; however, we disagree with revising the subject header. The subject header is intended as a general header and is not intended to include details that address the specifics of applicability. The Office of the Federal Register develops the guidelines for the format and structure of rulemaking documents for all federal agencies to follow."
+    },
+    {
+      "id": "e80",
+      "type": "paragraph",
+      "page": 2,
+      "text": "We have not changed this AD based on this comment."
+    },
+    {
+      "id": "e81",
+      "type": "heading",
+      "page": 2,
+      "text": "Conclusion",
+      "level": 2
+    },
+    {
+      "id": "e82",
+      "type": "paragraph",
+      "page": 2,
+      "text": "We reviewed the relevant data, considered the comments received, and determined that air safety and the public interest require adopting this final rule with the changes described previously and minor editorial changes. We have determined that these minor changes:"
+    },
+    {
+      "id": "e83",
+      "type": "paragraph",
+      "page": 2,
+      "text": "Are consistent with the intent that was proposed in the NPRM for correcting the unsafe condition; and"
+    },
+    {
+      "id": "e84",
+      "type": "paragraph",
+      "page": 2,
+      "text": "VerDate Sep<11>2014 14:56 Jan 16, 2018 Jkt 244001 PO 00000 Frm 00027 Fmt 4700 Sfmt 4700 E:\\FR\\FM\\17JAR1.SGM 17JAR1"
+    },
+    {
+      "id": "e85",
+      "type": "page_header",
+      "page": 3,
+      "text": "2356"
+    },
+    {
+      "id": "e86",
+      "type": "page_header",
+      "page": 3,
+      "text": "Federal Register /Vol. 83, No. 11/Wednesday, January 17, 2018/Rules and Regulations"
+    },
+    {
+      "id": "e87",
+      "type": "paragraph",
+      "page": 3,
+      "text": "ethrower on DSK3G9T082PROD with RULES"
+    },
+    {
+      "id": "e88",
+      "type": "paragraph",
+      "page": 3,
+      "text": "Do not add any additional burden upon the public than was already proposed in the NPRM."
+    },
+    {
+      "id": "e89",
+      "type": "paragraph",
+      "page": 3,
+      "text": "We also determined that these changes will not increase the economic burden on any operator or increase the scope of this final rule."
+    },
+    {
+      "id": "e90",
+      "type": "heading",
+      "page": 3,
+      "text": "Related Service Information Under 1 CFR Part 51",
+      "level": 2
+    },
+    {
+      "id": "e91",
+      "type": "paragraph",
+      "page": 3,
+      "text": "We reviewed AWI Cessna 172 (Lycoming) Muffler Removal and Installation, Revision 01, January 17,"
+    },
+    {
+      "id": "e92",
+      "type": "paragraph",
+      "page": 3,
+      "text": "2017. The service information describes procedures for removing and replacing the affected mufflers. This service information is reasonably available because the interested parties have access to it through their normal course of business or by the means identified in the ADDRESSES section."
+    },
+    {
+      "id": "e93",
+      "type": "heading",
+      "page": 3,
+      "text": "Other Related Service Information",
+      "level": 2
+    },
+    {
+      "id": "e94",
+      "type": "paragraph",
+      "page": 3,
+      "text": "We reviewed AWI Mandatory Service Bulletin No. 15063001, dated June 30, 2015. The service bulletin describes"
+    },
+    {
+      "id": "e95",
+      "type": "heading",
+      "page": 3,
+      "text": "ESTIMATED COSTS",
+      "level": 2
+    },
+    {
+      "id": "e96",
+      "type": "table",
+      "header": [
+        "Action",
+        "Labor cost",
+        "Parts cost",
+        "Cost per product",
+        "Cost on U.S. operators"
+      ],
+      "rows": [
+        [
+          "Inspection of muffler ...................................",
+          "1 work-hour × $85 per hour = $85 ...........",
+          "Not applicable .........",
+          "$85",
+          "$14,535"
+        ],
+        [
+          "Replacement of the muffler ........................",
+          "4 work-hours × $85 per hour = $340 .......",
+          "$350 ........................",
+          "690",
+          "117,990"
+        ]
+      ],
+      "page": 3
+    },
+    {
+      "id": "e97",
+      "type": "paragraph",
+      "page": 3,
+      "text": "This AD affects 171 mufflers with PMA; however, only 9 mufflers remain in service."
+    },
+    {
+      "id": "e98",
+      "type": "paragraph",
+      "page": 3,
+      "text": "According to the manufacturer, some of the costs of this AD may be covered under warranty, thereby reducing the cost impact on affected individuals. We do not control warranty coverage for affected individuals. As a result, we have included all costs in our cost estimate."
+    },
+    {
+      "id": "e99",
+      "type": "heading",
+      "page": 3,
+      "text": "Authority for This Rulemaking",
+      "level": 2
+    },
+    {
+      "id": "e100",
+      "type": "paragraph",
+      "page": 3,
+      "text": "Title 49 of the United States Code specifies the FAA's authority to issue rules on aviation safety. Subtitle I, section 106, describes the authority of the FAA Administrator. Subtitle VII: Aviation Programs, describes in more detail the scope of the Agency's authority."
+    },
+    {
+      "id": "e101",
+      "type": "paragraph",
+      "page": 3,
+      "text": "We are issuing this rulemaking under the authority described in Subtitle VII, Part A, Subpart III, Section 44701: ''General requirements.'' Under that section, Congress charges the FAA with promoting safe flight of civil aircraft in air commerce by prescribing regulations for practices, methods, and procedures the Administrator finds necessary for safety in air commerce. This regulation is within the scope of that authority because it addresses an unsafe condition that is likely to exist or develop on products identified in this rulemaking action."
+    },
+    {
+      "id": "e102",
+      "type": "paragraph",
+      "page": 3,
+      "text": "This AD is issued in accordance with authority delegated by the Executive Director, Aircraft Certification Service, as authorized by FAA Order 8000.51C."
+    },
+    {
+      "id": "e103",
+      "type": "paragraph",
+      "page": 3,
+      "text": "In accordance with that order, issuance of ADs is normally a function of the Compliance and Airworthiness Division, but during this transition period, the Executive Director has delegated the authority to issue ADs applicable to small airplanes, gliders, balloons, airships, domestic business jet transport airplanes, and associated appliances to the Director of the Policy and Innovation Division."
+    },
+    {
+      "id": "e104",
+      "type": "heading",
+      "page": 3,
+      "text": "Regulatory Findings",
+      "level": 2
+    },
+    {
+      "id": "e105",
+      "type": "paragraph",
+      "page": 3,
+      "text": "This AD will not have federalism implications under Executive Order 13132. This AD will not have a substantial direct effect on the States, on the relationship between the national government and the States, or on the distribution of power and responsibilities among the various levels of government."
+    },
+    {
+      "id": "e106",
+      "type": "paragraph",
+      "page": 3,
+      "text": "For the reasons discussed above, I certify that this AD:"
+    },
+    {
+      "id": "e107",
+      "type": "paragraph",
+      "page": 3,
+      "text": "Is not a ''significant regulatory action'' under Executive Order 12866,"
+    },
+    {
+      "id": "e108",
+      "type": "paragraph",
+      "page": 3,
+      "text": "Is not a ''significant rule'' under DOT Regulatory Policies and Procedures (44 FR 11034, February 26, 1979),"
+    },
+    {
+      "id": "e109",
+      "type": "paragraph",
+      "page": 3,
+      "text": "Will not affect intrastate aviation in Alaska, and"
+    },
+    {
+      "id": "e110",
+      "type": "paragraph",
+      "page": 3,
+      "text": "Will not have a significant economic impact, positive or negative, on a substantial number of small entities under the criteria of the Regulatory Flexibility Act."
+    },
+    {
+      "id": "e111",
+      "type": "heading",
+      "page": 3,
+      "text": "List of Subjects in 14 CFR Part 39",
+      "level": 2
+    },
+    {
+      "id": "e112",
+      "type": "paragraph",
+      "page": 3,
+      "text": "Air transportation, Aircraft, Aviation safety, Incorporation by reference, Safety."
+    },
+    {
+      "id": "e113",
+      "type": "heading",
+      "page": 3,
+      "text": "Adoption of the Amendment",
+      "level": 2
+    },
+    {
+      "id": "e114",
+      "type": "paragraph",
+      "page": 3,
+      "text": "Accordingly, under the authority delegated to me by the Administrator, the FAA amends 14 CFR part 39 as follows:"
+    },
+    {
+      "id": "e115",
+      "type": "heading",
+      "page": 3,
+      "text": "PART 39-AIRWORTHINESS DIRECTIVES",
+      "level": 2
+    },
+    {
+      "id": "e116",
+      "type": "paragraph",
+      "page": 3,
+      "text": "■ 1. The authority citation for part 39 continues to read as follows:"
+    },
+    {
+      "id": "e117",
+      "type": "paragraph",
+      "page": 3,
+      "text": "Authority: 49 U.S.C. 106(g), 40113, 44701."
+    },
+    {
+      "id": "e118",
+      "type": "heading",
+      "page": 3,
+      "text": "§39.13 [Amended]",
+      "level": 2
+    },
+    {
+      "id": "e119",
+      "type": "paragraph",
+      "page": 3,
+      "text": "■ 2. The FAA amends §39.13 by adding the following new airworthiness directive (AD):"
+    },
+    {
+      "id": "e120",
+      "type": "heading",
+      "page": 3,
+      "text": "2018-02-04 Aerospace Welding",
+      "level": 2
+    },
+    {
+      "id": "e121",
+      "type": "paragraph",
+      "page": 3,
+      "text": "Minneapolis, Inc.: Amendment 3919157; Docket No. FAA-2017-0324; Product Identifier 2017-CE-004-AD."
+    },
+    {
+      "id": "e122",
+      "type": "heading",
+      "page": 3,
+      "text": "(a) Effective Date",
+      "level": 2
+    },
+    {
+      "id": "e123",
+      "type": "paragraph",
+      "page": 3,
+      "text": "This AD is effective February 21, 2018."
+    },
+    {
+      "id": "e124",
+      "type": "heading",
+      "page": 3,
+      "text": "(b) Affected ADs",
+      "level": 2
+    },
+    {
+      "id": "e125",
+      "type": "paragraph",
+      "page": 3,
+      "text": "None."
+    },
+    {
+      "id": "e126",
+      "type": "heading",
+      "page": 3,
+      "text": "(c) Applicability",
+      "level": 2
+    },
+    {
+      "id": "e127",
+      "type": "paragraph",
+      "page": 3,
+      "text": "This AD applies to Aerospace Welding Minneapolis, Inc. (AWI) mufflers listed in figure 1 of paragraph (c) of this AD that are installed on but not limited to the airplanes listed in figure 2 of paragraph (c) of this AD."
+    },
+    {
+      "id": "e128",
+      "type": "paragraph",
+      "page": 3,
+      "text": "Note 1 to paragraph (c) of this AD: You may use AWI Mandatory Service Bulletin No. 15063001, dated June 30, 2015, to identify if an affected muffler is installed on the airplane."
+    },
+    {
+      "id": "e129",
+      "type": "paragraph",
+      "page": 3,
+      "text": "VerDate Sep<11>2014 14:56 Jan 16, 2018 Jkt 244001 PO 00000 Frm 00028 Fmt 4700 Sfmt 4700 E:\\FR\\FM\\17JAR1.SGM 17JAR1"
+    },
+    {
+      "id": "e130",
+      "type": "paragraph",
+      "page": 3,
+      "text": "how to identify the installation of an affected muffler."
+    },
+    {
+      "id": "e131",
+      "type": "heading",
+      "page": 3,
+      "text": "Costs of Compliance",
+      "level": 2
+    },
+    {
+      "id": "e132",
+      "type": "paragraph",
+      "page": 3,
+      "text": "We estimate that this AD affects 171 mufflers installed on airplanes of U.S. registry."
+    },
+    {
+      "id": "e133",
+      "type": "paragraph",
+      "page": 3,
+      "text": "We estimate the following costs to comply with this AD:"
+    },
+    {
+      "id": "e134",
+      "type": "page_header",
+      "page": 4,
+      "text": "Federal Register /Vol. 83, No. 11/Wednesday, January 17, 2018/Rules and Regulations"
+    },
+    {
+      "id": "e135",
+      "type": "page_header",
+      "page": 4,
+      "text": "2357"
+    },
+    {
+      "id": "e136",
+      "type": "paragraph",
+      "page": 4,
+      "text": "ethrower on DSK3G9T082PROD with RULES"
+    },
+    {
+      "id": "e137",
+      "type": "table",
+      "header": [
+        "Muffler part No.",
+        "Muffler serial Nos."
+      ],
+      "rows": [
+        [
+          "A1754001-23 ............",
+          "33553 through 33557; 34721 through 34728; 35322 through 35329; 35670; 38481 through 38485; 38584 through 38586; and 38723 through 38727."
+        ],
+        [
+          "A1754001-25 ............",
+          "32795 through 32800; 33558 through 33569; 33779 through 33790; 34636 through 34653; 34968 through 34984; 35159 through 35176; 37903 through 37906; 38174 through 38193; 38502 through 38506; 38566 through 38575; and 38817 through 38836."
+        ]
+      ],
+      "page": 4
+    },
+    {
+      "id": "e138",
+      "type": "paragraph",
+      "page": 4,
+      "text": "FIGURE 1 OF PARAGRAPH (c) OF THIS AD-AFFECTED MUFFLERS"
+    },
+    {
+      "id": "e139",
+      "type": "heading",
+      "page": 4,
+      "text": "FIGURE 2 OF PARAGRAPH (c) OF THIS AD-AFFECTED AIRPLANES",
+      "level": 2
+    },
+    {
+      "id": "e140",
+      "type": "table",
+      "header": [
+        "Muffler part No.",
+        "Textron Aviation Inc. (type certificate previously held by Cessna Aircraft Company) airplanes"
+      ],
+      "rows": [
+        [
+          "A1754001-23 ............",
+          "Model 172 Serial numbers (S/Ns) 17259224 and up; Model 172R S/Ns 80001 and up; and Model 172S S/Ns 8001 and up."
+        ],
+        [
+          "A1754001-25 ............",
+          "Model 172 S/Ns 17256513 and up; Model 172R S/Ns 80001 and up; 172S S/N 8001 and up; and Model 177 S/N 1770001 and up."
+        ]
+      ],
+      "page": 4
+    },
+    {
+      "id": "e141",
+      "type": "heading",
+      "page": 4,
+      "text": "(d) Subject",
+      "level": 2
+    },
+    {
+      "id": "e142",
+      "type": "paragraph",
+      "page": 4,
+      "text": "Joint Aircraft System Component (JASC)/ Air Transport Association (ATA) of America Code 7820, Exhaust Noise Suppressor."
+    },
+    {
+      "id": "e143",
+      "type": "heading",
+      "page": 4,
+      "text": "(e) Unsafe Condition",
+      "level": 2
+    },
+    {
+      "id": "e144",
+      "type": "paragraph",
+      "page": 4,
+      "text": "This AD was prompted by occurrences of cracks or broken welds in the connecting weld of the muffler body to muffler cuff that may allow carbon monoxide (CO) exhaust fumes into the cockpit heating system. We are issuing this AD to prevent cracks in the connecting weld of the muffler body to muffler cuff that may allow CO fumes to enter the cockpit heating system and possibly inhibit the pilot's ability to maintain control of the airplane."
+    },
+    {
+      "id": "e145",
+      "type": "heading",
+      "page": 4,
+      "text": "(f) Compliance",
+      "level": 2
+    },
+    {
+      "id": "e146",
+      "type": "paragraph",
+      "page": 4,
+      "text": "Comply with this AD within the compliance times specified, unless already done."
+    },
+    {
+      "id": "e147",
+      "type": "heading",
+      "page": 4,
+      "text": "(g) Inspection of the Muffler",
+      "level": 2
+    },
+    {
+      "id": "e148",
+      "type": "paragraph",
+      "page": 4,
+      "text": "Within 5 hours time-in-service after February 21, 2018 (the effective date of this AD), inspect the affected muffler following the instructions listed in paragraphs (g)(1)(i) through (iii)."
+    },
+    {
+      "id": "e149",
+      "type": "paragraph",
+      "page": 4,
+      "text": "(i) Using a vacuum cleaner with the hose attached to the blowing side of the vacuum (with the filter installed), attach the vacuum to the airplane tailpipe and seal securely."
+    },
+    {
+      "id": "e150",
+      "type": "paragraph",
+      "page": 4,
+      "text": "(ii) The vacuum will pressurize the system sufficiently for a soap solution to be brushed or applied from a spray bottle to the surface of the exhaust system."
+    },
+    {
+      "id": "e151",
+      "type": "paragraph",
+      "page": 4,
+      "text": "(iii) Inspect for evidence of breaches (leakage) in the system from cracks."
+    },
+    {
+      "id": "e152",
+      "type": "paragraph",
+      "page": 4,
+      "text": "(2) In lieu of doing the inspection required in paragraph (g)(1) of this AD, within 5 hours after February 21, 2018 (the effective date of this AD), you may remove the affected muffler following AWI Cessna 172 (Lycoming) Muffler Removal and Installation, Revision 01, January 17, 2017, and replace the affected muffler with an FAA-approved part that is not a muffler listed in figure 1 of paragraph (c) of this AD following the manufacturer's instructions."
+    },
+    {
+      "id": "e153",
+      "type": "paragraph",
+      "page": 4,
+      "text": "(3) If replacement specified in paragraph (g)(2) of this AD is done instead of the inspection required in paragraph (g)(1) of this AD, then paragraph (h)(3) of this AD is the only additional requirement of this AD."
+    },
+    {
+      "id": "e154",
+      "type": "heading",
+      "page": 4,
+      "text": "(h) Replacement of the Muffler",
+      "level": 2
+    },
+    {
+      "id": "e155",
+      "type": "paragraph",
+      "page": 4,
+      "text": "If evidence of breaches (leakage) is found during the inspection required in paragraph (g) of this AD, before further flight, remove the affected muffler following AWI Cessna 172 (Lycoming) Muffler Removal and Installation, Revision 01, January 17, 2017, and replace the affected muffler with an FAA-approved part that is not a muffler listed in figure 1 of paragraph (c) of this AD following the manufacturer's instructions."
+    },
+    {
+      "id": "e156",
+      "type": "paragraph",
+      "page": 4,
+      "text": "If no evidence of breaches (leakage) is found during the inspection required in paragraph (g) of this AD, within the next 100 hours TIS after February 21, 2018 (the effective date of this AD) or at the next annual inspection after February 21, 2018 (the effective date of this AD), whichever occurs later, remove and replace the affected muffler with an FAA-approved part that is not a muffler listed in figure 1 of paragraph (c) of this AD as described in (h)(1)."
+    },
+    {
+      "id": "e157",
+      "type": "paragraph",
+      "page": 4,
+      "text": "After February 21, 2018 (the effective date of this AD), do not install on any airplane an affected muffler listed in figure 1 of paragraph (c) of this AD."
+    },
+    {
+      "id": "e158",
+      "type": "heading",
+      "page": 4,
+      "text": "(i) Alternative Methods of Compliance (AMOCs)",
+      "level": 2
+    },
+    {
+      "id": "e159",
+      "type": "paragraph",
+      "page": 4,
+      "text": "The Manager, Chicago ACO Branch, FAA, has the authority to approve AMOCs for this AD, if requested using the procedures found in 14 CFR 39.19. In accordance with 14 CFR 39.19, send your request to your principal inspector or local Flight Standards District Office, as appropriate. If sending information directly to the manager of the ACO Branch, send it to the attention of the person identified in paragraph (j)(1) of this AD."
+    },
+    {
+      "id": "e160",
+      "type": "paragraph",
+      "page": 4,
+      "text": "(2) Before using any approved AMOC, notify your appropriate principal inspector, or lacking a principal inspector, the manager of the local flight standards district office/ certificate holding district office."
+    },
+    {
+      "id": "e161",
+      "type": "heading",
+      "page": 4,
+      "text": "(j) Related Information",
+      "level": 2
+    },
+    {
+      "id": "e162",
+      "type": "paragraph",
+      "page": 4,
+      "text": "For more information about this AD, contact Mark Grace, Aerospace Engineer, FAA, Chicago ACO Branch, 2300 East Devon Avenue, Des Plaines, IL 60018-4696; telephone: (847) 294-7377; fax: (847) 2947834; email: mark.grace@faa.gov."
+    },
+    {
+      "id": "e163",
+      "type": "paragraph",
+      "page": 4,
+      "text": "VerDate Sep<11>2014 14:56 Jan 16, 2018 Jkt 244001 PO 00000 Frm 00029 Fmt 4700 Sfmt 9990 E:\\FR\\FM\\17JAR1.SGM 17JAR1"
+    },
+    {
+      "id": "e164",
+      "type": "heading",
+      "page": 4,
+      "text": "(k) Material Incorporated by Reference",
+      "level": 2
+    },
+    {
+      "id": "e165",
+      "type": "paragraph",
+      "page": 4,
+      "text": "The Director of the Federal Register approved the incorporation by reference (IBR) of the service information listed in this paragraph under 5 U.S.C. 552(a) and 1 CFR part 51."
+    },
+    {
+      "id": "e166",
+      "type": "paragraph",
+      "page": 4,
+      "text": "You must use this service information as applicable to do the actions required by this AD, unless the AD specifies otherwise."
+    },
+    {
+      "id": "e167",
+      "type": "paragraph",
+      "page": 4,
+      "text": "(i) AWI Cessna 172 (Lycoming) Muffler Removal and Installation, Revision 01, January 17, 2017."
+    },
+    {
+      "id": "e168",
+      "type": "paragraph",
+      "page": 4,
+      "text": "(ii) Reserved."
+    },
+    {
+      "id": "e169",
+      "type": "paragraph",
+      "page": 4,
+      "text": "For service information identified in this AD, contact Aerospace Welding Minneapolis, Inc. (AWI) 1045 Gemini Road, Eagan, Minnesota 55121; telephone: 651379-9888; fax: 651-379-9889; internet: www.awi-ami.com."
+    },
+    {
+      "id": "e170",
+      "type": "paragraph",
+      "page": 4,
+      "text": "You may view this service information at FAA, Policy and Innovation Division, 901 Locust, Kansas City, Missouri 64106. For information on the availability of this material at the FAA, call (816) 329-4148."
+    },
+    {
+      "id": "e171",
+      "type": "paragraph",
+      "page": 4,
+      "text": "You may view this service information that is incorporated by reference at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202-741-6030, or go to: http:// www.archives.gov/federal-register/cfr/ibrlocations.html."
+    },
+    {
+      "id": "e172",
+      "type": "paragraph",
+      "page": 4,
+      "text": "Issued in Kansas City, Missouri, on January 8, 2018."
+    },
+    {
+      "id": "e173",
+      "type": "heading",
+      "page": 4,
+      "text": "Melvin Johnson,",
+      "level": 2
+    },
+    {
+      "id": "e174",
+      "type": "paragraph",
+      "page": 4,
+      "text": "Deputy Director, Policy and Innovation Division, Aircraft Certification Service."
+    },
+    {
+      "id": "e175",
+      "type": "paragraph",
+      "page": 4,
+      "text": "[FR Doc. 2018-00479 Filed 1-16-18; 8:45 am] BILLING CODE 4910-13-P"
+    }
+  ]
+}

@@ -1,0 +1,759 @@
+{
+  "source_id": "AD-98-02-05",
+  "file": "faa/ad/ad-98-02-05.pdf",
+  "format": "pdf",
+  "parser": "docling",
+  "meta": {
+    "title": "AD 98-02-05: Cessna Aircraft Company Model 172R Airplanes",
+    "publisher": "FAA",
+    "doc_type": "airworthiness directive",
+    "ad_number": "98-02-05",
+    "action": "Final rule; request for comments",
+    "published": "1998-02-05",
+    "effective": "1998-02-23",
+    "federal_register": "63 FR 5879 (document 98-2774)",
+    "access": "employees"
+  },
+  "elements": [
+    {
+      "id": "e1",
+      "type": "page_header",
+      "page": 1,
+      "text": "Federal Register /Vol. 63, No. 24 /Thursday, February 5, 1998 /Rules and Regulations"
+    },
+    {
+      "id": "e2",
+      "type": "page_header",
+      "page": 1,
+      "text": "5879"
+    },
+    {
+      "id": "e3",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Administration amends part 39 of the Federal Aviation Regulations (14 CFR part 39) as follows:"
+    },
+    {
+      "id": "e4",
+      "type": "heading",
+      "page": 1,
+      "text": "PART 39-AIRWORTHINESS DIRECTIVES",
+      "level": 2
+    },
+    {
+      "id": "e5",
+      "type": "paragraph",
+      "page": 1,
+      "text": "The authority citation for part 39 continues to read as follows:"
+    },
+    {
+      "id": "e6",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Authority: 49 U.S.C. 106(g), 40113, 44701."
+    },
+    {
+      "id": "e7",
+      "type": "heading",
+      "page": 1,
+      "text": "§39.13 [Amended]",
+      "level": 2
+    },
+    {
+      "id": "e8",
+      "type": "paragraph",
+      "page": 1,
+      "text": "2. Section 39.13 is amended by adding the following new airworthiness directive:"
+    },
+    {
+      "id": "e9",
+      "type": "paragraph",
+      "page": 1,
+      "text": "98-03-11 Airbus Industrie: Amendment 39-10303. Docket 97-NM-188-AD."
+    },
+    {
+      "id": "e10",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Applicability: All Model A300, A310, and A300-600 series airplanes, certificated in any category."
+    },
+    {
+      "id": "e11",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Note 1: This AD applies to each airplane identified in the preceding applicability provision, regardless of whether it has been modified, altered, or repaired in the area subject to the requirements of this AD. For airplanes that have been modified, altered, or repaired so that the performance of the requirements of this AD is affected, the owner/operator must request approval for an alternative method of compliance in accordance with paragraph (b) of this AD. The request should include an assessment of the effect of the modification, alteration, or repair on the unsafe condition addressed by this AD; and, if the unsafe condition has not been eliminated, the request should include specific proposed actions to address it."
+    },
+    {
+      "id": "e12",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Compliance: Required as indicated, unless accomplished previously."
+    },
+    {
+      "id": "e13",
+      "type": "paragraph",
+      "page": 1,
+      "text": "To prevent asymmetric engine thrust on the airplane when the autothrottle is engaged, which could result in roll and yaw disturbances, and consequent reduced controllability of the airplane, accomplish the following:"
+    },
+    {
+      "id": "e14",
+      "type": "paragraph",
+      "page": 1,
+      "text": "(a) Within 18 months or 3,500 flight hours after the effective date of this AD, whichever occurs first, accomplish paragraph (a)(1) or (a)(2) of this AD, as applicable."
+    },
+    {
+      "id": "e15",
+      "type": "paragraph",
+      "page": 1,
+      "text": "For Model A300, A300-600, and A310 series airplanes: Replace the four bearings located on both throttle control levers with new sealed bearings, in accordance with Airbus Service Bulletin A300-76-0018, dated October 12, 1995, as revised by Airbus Service Bulletin Change Notice O.A., dated February 18, 1997 (for Model A300 series airplanes); Airbus Service Bulletin A300-766010, dated October 12, 1995, as revised by Airbus Service Bulletin Change Notice O.A., dated February 18, 1997 (for Model A300600 series airplanes); or Airbus Service Bulletin A310-76-2013, dated October 12, 1995, as revised by Airbus Service Bulletin Change Notice O.A., dated February 18, 1997; as applicable."
+    },
+    {
+      "id": "e16",
+      "type": "paragraph",
+      "page": 1,
+      "text": "(2) For Model A310 and A300-600 series airplanes equipped with full authority digital engine control (FADEC): Replace the two throttle support assemblies equipped with rollers with new throttle support assemblies equipped with bearings, in accordance with Airbus Service Bulletin A310-76-2014, Revision 02, dated January 6, 1997 (for Model A310 series airplanes); or Airbus Service Bulletin A300-76-6011, Revision 02, dated January 6, 1997 (for Model A300-600 series airplanes); as applicable."
+    },
+    {
+      "id": "e17",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Note 2: Replacements accomplished prior to the effective date of this AD in accordance with Airbus Service Bulletin A310-76-2014, Revision 1, dated March 25, 1996; or Airbus Service Bulletin A300-76-6011, Revision 1, dated March 25, 1996; are considered acceptable for compliance with the applicable action specified in paragraph (a)(2) of this AD."
+    },
+    {
+      "id": "e18",
+      "type": "paragraph",
+      "page": 1,
+      "text": "(b) An alternative method of compliance or adjustment of the compliance time that provides an acceptable level of safety may be used if approved by the Manager, International Branch, ANM-116, FAA, Transport Airplane Directorate. Operators shall submit their requests through an appropriate FAA Principal Maintenance Inspector, who may add comments and then send it to the Manager, International Branch, ANM-116."
+    },
+    {
+      "id": "e19",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Note 3: Information concerning the existence of approved alternative methods of compliance with this AD, if any, may be obtained from the International Branch, ANM-116."
+    },
+    {
+      "id": "e20",
+      "type": "paragraph",
+      "page": 1,
+      "text": "(c) Special flight permits may be issued in accordance with sections 21.197 and 21.199 of the Federal Aviation Regulations (14 CFR 21.197 and 21.199) to operate the airplane to a location where the requirements of this AD can be accomplished."
+    },
+    {
+      "id": "e21",
+      "type": "paragraph",
+      "page": 1,
+      "text": "(d) The replacements shall be done in accordance with Airbus Service Bulletin A300-76-0018, dated October 12, 1995, as revised by Airbus Service Bulletin Change Notice O.A., dated February 18, 1997; Airbus Service Bulletin A300-76-6010, dated October 12, 1995, as revised by Airbus Service Bulletin Change Notice O.A., dated February 18, 1997; Airbus Service Bulletin A310-76-2013, dated October 12, 1995, as revised by Airbus Service Bulletin Change Notice O.A., dated February 18, 1997; Airbus Service Bulletin A310-76-2014, Revision 02, dated January 6, 1997; or Airbus Service Bulletin A300-76-6011, Revision 02, dated January 6, 1997; as applicable. This incorporation by reference was approved by the Director of the Federal Register in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. Copies may be obtained from Airbus Industrie, 1 Rond Point Maurice Bellonte, 31707 Blagnac Cedex, France. Copies may be inspected at the FAA, Transport Airplane Directorate, 1601 Lind Avenue, SW., Renton, Washington; or at the Office of the Federal Register, 800 North Capitol Street, NW., suite 700, Washington, DC."
+    },
+    {
+      "id": "e22",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Note 4: The subject of this AD is addressed in French airworthiness directive 96-270209(B), dated November 20, 1996."
+    },
+    {
+      "id": "e23",
+      "type": "paragraph",
+      "page": 1,
+      "text": "(e) This amendment becomes effective on March 12, 1998."
+    },
+    {
+      "id": "e24",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Issued in Renton, Washington, on January 28, 1998."
+    },
+    {
+      "id": "e25",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Darrell M. Pederson,"
+    },
+    {
+      "id": "e26",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Acting Manager, Transport Airplane Directorate, Aircraft Certification Service. [FR Doc. 98-2641 Filed 2-4-98; 8:45 am]"
+    },
+    {
+      "id": "e27",
+      "type": "paragraph",
+      "page": 1,
+      "text": "BILLING CODE 4910-13-U"
+    },
+    {
+      "id": "e28",
+      "type": "heading",
+      "page": 1,
+      "text": "DEPARTMENT OF TRANSPORTATION",
+      "level": 2
+    },
+    {
+      "id": "e29",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Federal Aviation Administration"
+    },
+    {
+      "id": "e30",
+      "type": "heading",
+      "page": 1,
+      "text": "14 CFR Part 39",
+      "level": 2
+    },
+    {
+      "id": "e31",
+      "type": "paragraph",
+      "page": 1,
+      "text": "[Docket No. 98-CE-06-AD; Amendment 3910306; AD 98-02-05]"
+    },
+    {
+      "id": "e32",
+      "type": "paragraph",
+      "page": 1,
+      "text": "RIN 2120-AA64"
+    },
+    {
+      "id": "e33",
+      "type": "heading",
+      "page": 1,
+      "text": "Airworthiness Directives; Cessna Aircraft Company Model 172R Airplanes",
+      "level": 2
+    },
+    {
+      "id": "e34",
+      "type": "paragraph",
+      "page": 1,
+      "text": "AGENCY: Federal Aviation Administration, DOT."
+    },
+    {
+      "id": "e35",
+      "type": "paragraph",
+      "page": 1,
+      "text": "ACTION: Final rule; request for comments."
+    },
+    {
+      "id": "e36",
+      "type": "paragraph",
+      "page": 1,
+      "text": "SUMMARY: This document publishes in the Federal Register an amendment adopting Airworthiness Directive (AD) 98-02-05, which was sent previously to all known U.S. owners and operators of Cessna Aircraft Company (Cessna) Model 172R airplanes. This AD requires de-activating the cabin heating system until the engine exhaust muffler can be replaced, and fabricating and installing a placard within the pilot's clear view, using 1 /8-inch letters with the following"
+    },
+    {
+      "id": "e37",
+      "type": "paragraph",
+      "page": 1,
+      "text": "words: ''CABIN HEATER INOPERATIVE.'' Inadequate or failed weldments that are leaking exhaust gas (including carbon monoxide) from the muffler into the airplane's cabin and cockpit area prompted this action. The actions specified by this AD are intended to prevent carbon monoxide gas from entering the airplane's cabin heating system and cabin, which, if not corrected, could result in passenger and pilot injury with consequent loss of control of the airplane."
+    },
+    {
+      "id": "e38",
+      "type": "paragraph",
+      "page": 1,
+      "text": "DATES: Effective February 23, 1998, to all persons except those to whom it was made immediately effective by priority letter AD 98-02-05, issued January 9, 1998, which contained the requirements of this amendment."
+    },
+    {
+      "id": "e39",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Comments for inclusion in the Rules Docket must be received on or before March 30, 1998."
+    },
+    {
+      "id": "e40",
+      "type": "paragraph",
+      "page": 1,
+      "text": "ADDRESSES: Submit comments in triplicate to the Federal Aviation Administration (FAA), Central Region, Office of the Regional Counsel, Attention: Rules Docket 98-CE-06-AD, Room 1558, 601 E. 12th Street, Kansas City, Missouri 64106."
+    },
+    {
+      "id": "e41",
+      "type": "paragraph",
+      "page": 1,
+      "text": "FOR FURTHER INFORMATION CONTACT: Mr. Paul Pendleton, Aerospace Engineer, Wichita Aircraft Certification Office, 1801 Airport Road, Rm. 100, MidContinent Airport, Wichita, Kansas, 67209, telephone (316) 946-4143; facsimile (316) 946-4407."
+    },
+    {
+      "id": "e42",
+      "type": "paragraph",
+      "page": 1,
+      "text": "SUPPLEMENTARY INFORMATION:"
+    },
+    {
+      "id": "e43",
+      "type": "page_header",
+      "page": 2,
+      "text": "5880"
+    },
+    {
+      "id": "e44",
+      "type": "page_header",
+      "page": 2,
+      "text": "Federal Register /Vol. 63, No. 24 /Thursday, February 5, 1998 /Rules and Regulations"
+    },
+    {
+      "id": "e45",
+      "type": "heading",
+      "page": 2,
+      "text": "Discussion",
+      "level": 2
+    },
+    {
+      "id": "e46",
+      "type": "paragraph",
+      "page": 2,
+      "text": "On January 9, 1998, the FAA issued priority letter AD 98-02-05, which applies to Cessna Model 172R airplanes (serial numbers 17280001 through 17280305). That AD resulted from a quality control problem with Aeroquip engine exhaust mufflers installed on certain Cessna Model 172R airplanes. Cessna recently notified the FAA that the Aeroquip muffler, part number (P/N) 00624-NH4000011-10 71379 05540112, is installed in approximately 250 Cessna Model 172R airplanes. Cessna has determined, through pressure testing, that approximately 5 out of the 25 tested mufflers manufactured by Aeroquip are leaking. These inadequate or failed weldments will permit exhaust gas (including carbon monoxide) leakage from the muffler, and consequently into the airplane's cabin and cockpit area. This condition, if not corrected, could result in passenger and pilot injury with consequent loss of control of the airplane."
+    },
+    {
+      "id": "e47",
+      "type": "heading",
+      "page": 2,
+      "text": "The FAA's Determination and Explanation of the AD",
+      "level": 2
+    },
+    {
+      "id": "e48",
+      "type": "paragraph",
+      "page": 2,
+      "text": "Since an unsafe condition has been identified that is likely to exist or develop in other Cessna Model 172R airplanes of the same type design, the FAA issued priority letter AD 98-02-05 to prevent carbon monoxide gas from entering the airplane's cabin heating system and cabin, which, if not corrected, could result in passenger and pilot injury with consequent loss of control of the airplane."
+    },
+    {
+      "id": "e49",
+      "type": "paragraph",
+      "page": 2,
+      "text": "The AD requires de-activating the cabin heating system, and fabricating and installing a placard within the pilot's clear view, using 1 /8-inch letters with the following words: ''CABIN HEATER INOPERATIVE'' prior to further flight."
+    },
+    {
+      "id": "e50",
+      "type": "paragraph",
+      "page": 2,
+      "text": "This AD also requires replacing the Aeroquip engine exhaust muffler (P/N 00624-NH4000011-10 71379 05540112). If replacement parts are not available, the airplane may continue operation with the heating system deactivated for a period not to exceed 6 calendar months after the effective date of this AD."
+    },
+    {
+      "id": "e51",
+      "type": "heading",
+      "page": 2,
+      "text": "Determination of the Effective Date of the AD",
+      "level": 2
+    },
+    {
+      "id": "e52",
+      "type": "paragraph",
+      "page": 2,
+      "text": "Since it was found that immediate corrective action was required, notice and opportunity for prior public comment thereon were impracticable and contrary to the public interest, and good cause existed to make the AD effective immediately by individual letters issued on January 9, 1998, to all known U.S. operators of Cessna Model"
+    },
+    {
+      "id": "e53",
+      "type": "paragraph",
+      "page": 2,
+      "text": "172R airplanes with serial numbers 17280001 through 17280305. These conditions still exist, and the AD is hereby published in the Federal Register as an amendment to section 39.13 of the Federal Aviation Regulations (14 CFR 39.13) to make it effective as to all persons."
+    },
+    {
+      "id": "e54",
+      "type": "heading",
+      "page": 2,
+      "text": "Comments Invited",
+      "level": 2
+    },
+    {
+      "id": "e55",
+      "type": "paragraph",
+      "page": 2,
+      "text": "Although this action is in the form of a final rule that involves requirements affecting immediate flight safety and, thus, was not preceded by notice and opportunity to comment, comments are invited on this rule. Interested persons are invited to comment on this rule by submitting such written data, views, or arguments as they may desire. Communications should identify the Rules Docket number and be submitted in triplicate to the address specified above. All communications received on or before the closing date for comments will be considered, and this rule may be amended in light of the comments received. Factual information that supports the commenter's ideas and suggestions is extremely helpful in evaluating the effectiveness of the AD action and determining whether additional rulemaking action would be needed."
+    },
+    {
+      "id": "e56",
+      "type": "paragraph",
+      "page": 2,
+      "text": "Comments are specifically invited on the overall regulatory, economic, environmental, and energy aspects of the rule that might suggest a need to modify the rule. All comments submitted will be available, both before and after the closing date for comments, in the Rules Docket for examination by interested persons. A report that summarizes each FAA-public contact concerned with the substance of this AD will be filed in the Rules Docket."
+    },
+    {
+      "id": "e57",
+      "type": "paragraph",
+      "page": 2,
+      "text": "Commenters wishing the FAA to acknowledge receipt of their comments submitted in response to this rule must submit a self-addressed, stamped postcard on which the following statement is made: ''Comments to Docket No. 98-CE-06-AD.'' The postcard will be date stamped and returned to the commenter."
+    },
+    {
+      "id": "e58",
+      "type": "heading",
+      "page": 2,
+      "text": "Regulatory Impact",
+      "level": 2
+    },
+    {
+      "id": "e59",
+      "type": "paragraph",
+      "page": 2,
+      "text": "The regulations adopted herein will not have substantial direct effects on the States, on the relationship between the national government and the States, or on the distribution of power and responsibilities among the various levels of government. Therefore, in accordance with Executive Order 12612, it is determined that this final rule does not have sufficient federalism implications to warrant the preparation of a Federalism Assessment."
+    },
+    {
+      "id": "e60",
+      "type": "paragraph",
+      "page": 2,
+      "text": "The FAA has determined that this regulation is an emergency regulation that must be issued immediately to correct an unsafe condition in aircraft, and is not a ''significant regulatory action'' under Executive Order 12866. It has been determined further that this action involves an emergency regulation under DOT Regulatory Policies and Procedures (44 FR 11034, February 26, 1979). If it is determined that this emergency regulation otherwise would be significant under DOT Regulatory Policies and Procedures, a final regulatory evaluation will be prepared and placed in the Rules Docket. A copy of it, if filed, may be obtained from the Rules Docket at the location provided under the caption ADDRESSES."
+    },
+    {
+      "id": "e61",
+      "type": "heading",
+      "page": 2,
+      "text": "List of Subjects in 14 CFR Part 39",
+      "level": 2
+    },
+    {
+      "id": "e62",
+      "type": "paragraph",
+      "page": 2,
+      "text": "Air transportation, Aircraft, Aviation safety, Safety."
+    },
+    {
+      "id": "e63",
+      "type": "heading",
+      "page": 2,
+      "text": "Adoption of the Amendment",
+      "level": 2
+    },
+    {
+      "id": "e64",
+      "type": "paragraph",
+      "page": 2,
+      "text": "Accordingly, pursuant to the authority delegated to me by the Administrator, the Federal Aviation Administration amends part 39 of the Federal Aviation Regulations (14 CFR part 39) as follows:"
+    },
+    {
+      "id": "e65",
+      "type": "heading",
+      "page": 2,
+      "text": "PART 39-AIRWORTHINESS DIRECTIVES",
+      "level": 2
+    },
+    {
+      "id": "e66",
+      "type": "paragraph",
+      "page": 2,
+      "text": "The authority citation for part 39 continues to read as follows:"
+    },
+    {
+      "id": "e67",
+      "type": "paragraph",
+      "page": 2,
+      "text": "Authority: 49 U.S.C. 106(g), 40113, 44701."
+    },
+    {
+      "id": "e68",
+      "type": "heading",
+      "page": 2,
+      "text": "§39.13 [Amended]",
+      "level": 2
+    },
+    {
+      "id": "e69",
+      "type": "paragraph",
+      "page": 2,
+      "text": "Section 39.13 is amended by adding a new airworthiness directive (AD) to read as follows:"
+    },
+    {
+      "id": "e70",
+      "type": "paragraph",
+      "page": 2,
+      "text": "98-02-05 Cessna Aircraft Company: Amendment 39-10306; Docket No. 98CE-06-AD."
+    },
+    {
+      "id": "e71",
+      "type": "paragraph",
+      "page": 2,
+      "text": "Applicability: Model 172R airplanes (serial numbers 17280001 through 17280305), certificated in any category, that are equipped with an Aeroquip engine exhaust muffler (part number 00624-NH4000011-10 71379 0554011-2)."
+    },
+    {
+      "id": "e72",
+      "type": "paragraph",
+      "page": 2,
+      "text": "Note 1: The letters ''PT'' or ''PTT'' stamped on the right-hand external ring that supports the muffler cabin heater shroud indicate that Cessna has built or re-built the part. Parts marked in this manner are not Aeroquip parts."
+    },
+    {
+      "id": "e73",
+      "type": "paragraph",
+      "page": 2,
+      "text": "Note 2: This AD applies to each airplane identified in the preceding applicability provision, regardless of whether it has been modified, altered, or repaired in the area subject to the requirements of this AD. For airplanes that have been modified, altered, or repaired so that the performance of the requirements of this AD is affected, the owner/operator must request approval for an alternative method of compliance in accordance with paragraph (h) of this AD. The request should include an assessment of the effect of the modification, alteration, or repair on the unsafe condition addressed by this AD; and, if the unsafe condition has not been eliminated, the request should include specific proposed actions to address it."
+    },
+    {
+      "id": "e74",
+      "type": "page_header",
+      "page": 3,
+      "text": "Federal Register /Vol. 63, No. 24 /Thursday, February 5, 1998 /Rules and Regulations"
+    },
+    {
+      "id": "e75",
+      "type": "page_header",
+      "page": 3,
+      "text": "5881"
+    },
+    {
+      "id": "e76",
+      "type": "paragraph",
+      "page": 3,
+      "text": "Compliance: Required as indicated in the body of this AD, unless already accomplished."
+    },
+    {
+      "id": "e77",
+      "type": "paragraph",
+      "page": 3,
+      "text": "To prevent carbon monoxide gas from entering the airplane's cabin heating system and cabin, which, if not corrected, could result in passenger and pilot injury with consequent loss of control of the airplane, accomplish the following:"
+    },
+    {
+      "id": "e78",
+      "type": "paragraph",
+      "page": 3,
+      "text": "(a) Prior to further flight after the effective date of this AD, de-activate the cabin heating system by ensuring that the valve mechanism is functional, and that the cabin heat valve lever is safety wired in the down ''off'' position."
+    },
+    {
+      "id": "e79",
+      "type": "paragraph",
+      "page": 3,
+      "text": "(b) Prior to further flight after the effective date of this AD, fabricate and install a placard near the cabin heat control knob, within the pilot's clear view, using at least 1 /8-inch letters with the following words:"
+    },
+    {
+      "id": "e80",
+      "type": "paragraph",
+      "page": 3,
+      "text": "''CABIN HEATER INOPERATIVE''"
+    },
+    {
+      "id": "e81",
+      "type": "paragraph",
+      "page": 3,
+      "text": "(c) Within the next 50 hours time-inservice (TIS) after the effective date of this AD, replace the engine exhaust muffler with a muffler having one of the following part numbers (P/N) in accordance with the appropriate Cessna maintenance manual: 00624-NH4000011-10 71379 0554011-2-"
+    },
+    {
+      "id": "e82",
+      "type": "paragraph",
+      "page": 3,
+      "text": "PTT, or"
+    },
+    {
+      "id": "e83",
+      "type": "paragraph",
+      "page": 3,
+      "text": "0554011-2, or"
+    },
+    {
+      "id": "e84",
+      "type": "paragraph",
+      "page": 3,
+      "text": "0554011-6, or"
+    },
+    {
+      "id": "e85",
+      "type": "paragraph",
+      "page": 3,
+      "text": "an FAA-approved equivalent part number."
+    },
+    {
+      "id": "e86",
+      "type": "paragraph",
+      "page": 3,
+      "text": "Note 3: P/N 0554011-2 will have ''PT'' stamped on the right-hand external ring that supports the muffler; and, P/N 0554011-6 may have ''PT'' stamped on the right-hand external ring."
+    },
+    {
+      "id": "e87",
+      "type": "paragraph",
+      "page": 3,
+      "text": "(d) If parts are not available for the replacement required in paragraph (c) of this AD, the airplane may continue to be operated for a period not to exceed 6 calendar months from the effective date of this AD, provided the cabin heating system remains deactivated."
+    },
+    {
+      "id": "e88",
+      "type": "paragraph",
+      "page": 3,
+      "text": "(e) The cabin heating system may be reactivated and the placard required in paragraph (b) of this AD may be removed, once the muffler is replaced in accordance with this AD."
+    },
+    {
+      "id": "e89",
+      "type": "paragraph",
+      "page": 3,
+      "text": "(f) Upon the effective date of this AD, no person may install any Aeroquip engine exhaust muffler, P/N 00624-NH4000011-10 71379 0554011-2, on any Cessna Model 172R airplane."
+    },
+    {
+      "id": "e90",
+      "type": "paragraph",
+      "page": 3,
+      "text": "(g) Special flight permits may be issued in accordance with sections 21.197 and 21.199 of the Federal Aviation Regulations (14 CFR 21.197 and 21.199) to operate the airplane to a location where the requirements of this AD can be accomplished, provided the airplane cabin heater system is not used during that flight."
+    },
+    {
+      "id": "e91",
+      "type": "paragraph",
+      "page": 3,
+      "text": "(h) An alternative method of compliance or adjustment of the compliance time that provides an equivalent level of safety may be approved by the Manager, Wichita Aircraft Certification Office, 1801 Airport Road, Rm. 100, Mid-Continent Airport, Wichita, Kansas, 67209. The request shall be forwarded through an appropriate FAA Maintenance Inspector, who may add comments and then"
+    },
+    {
+      "id": "e92",
+      "type": "paragraph",
+      "page": 3,
+      "text": "send it to the Manager, Wichita Aircraft Certification Office."
+    },
+    {
+      "id": "e93",
+      "type": "paragraph",
+      "page": 3,
+      "text": "Note 4: Information concerning the existence of approved alternative methods of compliance with this AD, if any, may be obtained from the Wichita Aircraft Certification Office."
+    },
+    {
+      "id": "e94",
+      "type": "paragraph",
+      "page": 3,
+      "text": "(i) Copies of this document may be inspected at the FAA, Central Region, Office of the Regional Counsel, Room 1558, 601 E. 12th Street, Kansas City, Missouri."
+    },
+    {
+      "id": "e95",
+      "type": "paragraph",
+      "page": 3,
+      "text": "(j) This amendment (39-10306) becomes effective on February 23, 1998, to all persons except those persons to whom it was made immediately effective by priority letter AD 98-02-05, issued January 9, 1998, which contained the requirements of this amendment."
+    },
+    {
+      "id": "e96",
+      "type": "paragraph",
+      "page": 3,
+      "text": "Issued in Kansas City, Missouri, on January 28, 1998."
+    },
+    {
+      "id": "e97",
+      "type": "paragraph",
+      "page": 3,
+      "text": "Terry L. Chasteen,"
+    },
+    {
+      "id": "e98",
+      "type": "paragraph",
+      "page": 3,
+      "text": "Acting Manager, Small Airplane Directorate, Aircraft Certification Service."
+    },
+    {
+      "id": "e99",
+      "type": "paragraph",
+      "page": 3,
+      "text": "[FR Doc. 98-2774 Filed 2-4-98; 8:45 am] BILLING CODE 4910-13-U"
+    },
+    {
+      "id": "e100",
+      "type": "heading",
+      "page": 3,
+      "text": "DEPARTMENT OF TRANSPORTATION",
+      "level": 2
+    },
+    {
+      "id": "e101",
+      "type": "heading",
+      "page": 3,
+      "text": "Federal Aviation Administration",
+      "level": 2
+    },
+    {
+      "id": "e102",
+      "type": "heading",
+      "page": 3,
+      "text": "14 CFR Part 39",
+      "level": 2
+    },
+    {
+      "id": "e103",
+      "type": "paragraph",
+      "page": 3,
+      "text": "[Docket No. 97-CE-85-AD; Amendment 3910307; AD 98-03-14]"
+    },
+    {
+      "id": "e104",
+      "type": "paragraph",
+      "page": 3,
+      "text": "RIN 2120-AA64"
+    },
+    {
+      "id": "e105",
+      "type": "paragraph",
+      "page": 3,
+      "text": "Airworthiness Directives; EXTRA Flugzeugbau GmbH Models EA-300 and EA-300/S Airplanes"
+    },
+    {
+      "id": "e106",
+      "type": "paragraph",
+      "page": 3,
+      "text": "AGENCY: Federal Aviation Administration, DOT. ACTION: Final rule."
+    },
+    {
+      "id": "e107",
+      "type": "paragraph",
+      "page": 3,
+      "text": "SUMMARY: This amendment adopts a new airworthiness directive (AD) that applies to EXTRA Flugzeugbau GmbH Models EA-300 and EA-300/S airplanes. This AD requires inspecting the upper longeron cutout bridge for cracks, repairing any cracks found, and modifying this area. This AD is the result of mandatory continuing airworthiness information (MCAI) issued by the airworthiness authority for Germany. The actions specified by this AD are intended to prevent structural damage to the fuselage caused by cracks in the upper longeron cutout bridge, which, if not detected and corrected, could result in loss of control of the airplane."
+    },
+    {
+      "id": "e108",
+      "type": "paragraph",
+      "page": 3,
+      "text": "DATES: Effective March 16, 1998."
+    },
+    {
+      "id": "e109",
+      "type": "paragraph",
+      "page": 3,
+      "text": "The incorporation by reference of certain publications listed in the regulations is approved by the Director of the Federal Register as of March 16, 1998."
+    },
+    {
+      "id": "e110",
+      "type": "paragraph",
+      "page": 3,
+      "text": "ADDRESSES: Service information that applies to this AD may be obtained from EXTRA Flugzeugbau GmbH, Flugplatz Dinslaken, 46569 Hu¨nxe, Germany. This information may also be examined at the Federal Aviation Administration (FAA), Central Region, Office of the Regional Counsel, Attention: Rules Docket No. 97-CE-85-AD, Room 1558, 601 E. 12th Street, Kansas City, Missouri 64106; or at the Office of the Federal Register, 800 North Capitol Street, NW., suite 700, Washington, DC."
+    },
+    {
+      "id": "e111",
+      "type": "paragraph",
+      "page": 3,
+      "text": "FOR FURTHER INFORMATION CONTACT: Mr. Karl Schletzbaum, Aerospace Engineer, FAA, Small Airplane Directorate, 1201 Walnut Street, suite 900, Kansas City, Missouri 64106; telephone: (816) 4266934; facsimile: (816) 426-2169."
+    },
+    {
+      "id": "e112",
+      "type": "heading",
+      "page": 3,
+      "text": "SUPPLEMENTARY INFORMATION:",
+      "level": 2
+    },
+    {
+      "id": "e113",
+      "type": "paragraph",
+      "page": 3,
+      "text": "Events Leading to the Issuance of This AD"
+    },
+    {
+      "id": "e114",
+      "type": "paragraph",
+      "page": 3,
+      "text": "A proposal to amend part 39 of the Federal Aviation Regulations (14 CFR part 39) to include an AD that would apply to EXTRA Flugzeugbau GmbH Models EA-300 and EA-300/S airplanes was published in the Federal Register as a notice of proposed rulemaking (NPRM) on November 5, 1997 (62 FR 59826). The NPRM proposed to require inspecting the upper longeron cutout bridge for cracks, repairing any cracks found, and modifying this area. Accomplishment of the proposed actions as specified in the NPRM would be required in accordance with EXTRA Service Bulletin No. 300-3-93, dated January 12, 1994."
+    },
+    {
+      "id": "e115",
+      "type": "paragraph",
+      "page": 3,
+      "text": "The NPRM was the result of mandatory continuing airworthiness information (MCAI) issued by the airworthiness authority for Germany."
+    },
+    {
+      "id": "e116",
+      "type": "paragraph",
+      "page": 3,
+      "text": "Interested persons have been afforded an opportunity to participate in the making of this amendment. No comments were received on the proposed rule or the FAA's determination of the cost to the public."
+    },
+    {
+      "id": "e117",
+      "type": "heading",
+      "page": 3,
+      "text": "The FAA's Determination",
+      "level": 2
+    },
+    {
+      "id": "e118",
+      "type": "paragraph",
+      "page": 3,
+      "text": "After careful review of all available information related to the subject presented above, the FAA has determined that air safety and the public interest require the adoption of the rule as proposed except for minor editorial corrections. The FAA has determined that these minor corrections will not change the meaning of the AD and will not add any additional burden upon the public than was already proposed."
+    },
+    {
+      "id": "e119",
+      "type": "heading",
+      "page": 3,
+      "text": "Cost Impact",
+      "level": 2
+    },
+    {
+      "id": "e120",
+      "type": "paragraph",
+      "page": 3,
+      "text": "The FAA estimates that 68 airplanes in the U.S. registry will be affected by this AD, that it will take approximately 13 workhours (Inspection: 3 workhours; Modification: 10 workhours) per"
+    }
+  ]
+}

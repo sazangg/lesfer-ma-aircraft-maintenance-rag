@@ -1,0 +1,1258 @@
+{
+  "source_id": "AD-2020-16-08-CORRECTION",
+  "file": "faa/ad/ad-2020-16-08-correction.pdf",
+  "format": "pdf",
+  "parser": "docling",
+  "meta": {
+    "title": "AD 2020-16-08 (correction): Aspen Avionics, Inc.",
+    "publisher": "FAA",
+    "doc_type": "airworthiness directive",
+    "ad_number": "2020-16-08",
+    "action": "Final rule; correction",
+    "published": "2020-08-17",
+    "effective": "2020-08-17",
+    "federal_register": "85 FR 49944 (document 2020-17902)",
+    "access": "employees"
+  },
+  "elements": [
+    {
+      "id": "e1",
+      "type": "page_header",
+      "page": 1,
+      "text": "49944"
+    },
+    {
+      "id": "e2",
+      "type": "page_header",
+      "page": 1,
+      "text": "Federal Register /Vol. 85, No. 159/Monday, August 17, 2020/Rules and Regulations"
+    },
+    {
+      "id": "e3",
+      "type": "paragraph",
+      "page": 1,
+      "text": "(A) If there is any pitting, replace the T/ R link before further flight."
+    },
+    {
+      "id": "e4",
+      "type": "paragraph",
+      "page": 1,
+      "text": "(B) If there is no pitting, apply corrosion preventative sealant by following the Accomplishment Instructions, paragraph 5. of Part I, of ASB 429-15-26."
+    },
+    {
+      "id": "e5",
+      "type": "paragraph",
+      "page": 1,
+      "text": "For all T/R link P/Ns listed in paragraph (a) of this AD, within 50 hours TIS, and thereafter at intervals not to exceed 50 hours TIS, using 10X or higher power magnification, inspect each T/R link bearing bore for missing corrosion preventative sealant. If any corrosion preventative sealant is missing, perform the actions in paragraphs (f)(3)(i) and (ii) of this AD before further flight."
+    },
+    {
+      "id": "e6",
+      "type": "paragraph",
+      "page": 1,
+      "text": "For all T/R link P/Ns listed in paragraph (a) of this AD, within 12 months since date of manufacture, except if paragraphs (f)(1)(i) through (iii) of this AD have already been done for T/R link P/N 429-012-112-101 or -103 within the last 12 months and except if paragraph (f)(3)(i) and (ii) of this AD have already been done for T/ R link P/N 429-012-112-101FM, -103FM, -111, -111FM, -113, or -113FM within the last 12 months; and thereafter for all T/R link P/Ns listed in paragraph (a) of this AD at intervals not to exceed 12 months:"
+    },
+    {
+      "id": "e7",
+      "type": "paragraph",
+      "page": 1,
+      "text": "(i) Remove each T/R link; and"
+    },
+    {
+      "id": "e8",
+      "type": "paragraph",
+      "page": 1,
+      "text": "(ii) Remove all corrosion preventative sealant, and perform the actions in paragraphs (f)(1)(i) through (iii) of this AD."
+    },
+    {
+      "id": "e9",
+      "type": "paragraph",
+      "page": 1,
+      "text": "After the effective date of this AD:"
+    },
+    {
+      "id": "e10",
+      "type": "paragraph",
+      "page": 1,
+      "text": "(i) Do not install T/R link P/N 429-012112-101 or -103 on any helicopter before complying with the actions in paragraphs (f)(1)(i) through (iii) of this AD."
+    },
+    {
+      "id": "e11",
+      "type": "paragraph",
+      "page": 1,
+      "text": "(ii) Do not install T/R link P/N 429-012112-101FM, 103FM, -111, 111FM, -113, or -113FM on any helicopter before complying with the actions in paragraph (f)(2) of this AD."
+    },
+    {
+      "id": "e12",
+      "type": "heading",
+      "page": 1,
+      "text": "(g) Alternative Methods of Compliance (AMOCs)",
+      "level": 2
+    },
+    {
+      "id": "e13",
+      "type": "paragraph",
+      "page": 1,
+      "text": "(1) The Manager, International Validation Branch, FAA, may approve AMOCs for this AD. Send your proposal to: Scott Franke, Aviation Safety Engineer, International Validation Branch, Aviation and Rotorcraft Unit, FAA, 10101 Hillwood Pkwy., Fort Worth, TX 76177; telephone 817-222-5110; email scott.franke@faa.gov."
+    },
+    {
+      "id": "e14",
+      "type": "paragraph",
+      "page": 1,
+      "text": "(2) For operations conducted under a 14 CFR part 119 operating certificate or under 14 CFR part 91, subpart K, the FAA suggests that you notify your principal inspector, or lacking a principal inspector, the manager of the local flight standards district office or certificate holding district office, before operating any aircraft complying with this AD through an AMOC."
+    },
+    {
+      "id": "e15",
+      "type": "heading",
+      "page": 1,
+      "text": "(h) Additional Information",
+      "level": 2
+    },
+    {
+      "id": "e16",
+      "type": "paragraph",
+      "page": 1,
+      "text": "The subject of this AD is addressed in Transport Canada AD No. CF-2016-01R2, dated April 12, 2017. You may view the Transport Canada AD on the internet at https://www.regulations.gov in Docket No. FAA-2019-0589."
+    },
+    {
+      "id": "e17",
+      "type": "heading",
+      "page": 1,
+      "text": "(i) Subject",
+      "level": 2
+    },
+    {
+      "id": "e18",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Joint Aircraft Service Component (JASC) Code: 6400, Tail Rotor System."
+    },
+    {
+      "id": "e19",
+      "type": "heading",
+      "page": 1,
+      "text": "(j) Material Incorporated by Reference",
+      "level": 2
+    },
+    {
+      "id": "e20",
+      "type": "paragraph",
+      "page": 1,
+      "text": "The Director of the Federal Register approved the incorporation by reference (IBR) of the service information listed in this paragraph under 5 U.S.C. 552(a) and 1 CFR part 51."
+    },
+    {
+      "id": "e21",
+      "type": "paragraph",
+      "page": 1,
+      "text": "You must use this service information as applicable to do the actions required by this AD, unless the AD specifies otherwise."
+    },
+    {
+      "id": "e22",
+      "type": "paragraph",
+      "page": 1,
+      "text": "The following service information was approved for IBR on February 2, 2016 (81 FR 5367, February 2, 2016)."
+    },
+    {
+      "id": "e23",
+      "type": "paragraph",
+      "page": 1,
+      "text": "(i) Bell Helicopter Alert Service Bulletin 429-15-26, dated December 7, 2015."
+    },
+    {
+      "id": "e24",
+      "type": "paragraph",
+      "page": 1,
+      "text": "(ii) [Reserved]"
+    },
+    {
+      "id": "e25",
+      "type": "paragraph",
+      "page": 1,
+      "text": "For service information identified in this AD, contact Bell Helicopter Textron Canada Limited, 12,800 Rue de l'Avenir, Mirabel, Quebec J7J1R4; telephone 450-4372862 or 800-363-8023; fax 450-433-0272; or at https://www.bellcustomer.com."
+    },
+    {
+      "id": "e26",
+      "type": "paragraph",
+      "page": 1,
+      "text": "You may view this service information at the FAA, Office of the Regional Counsel, Southwest Region, 10101 Hillwood Pkwy., Room 6N-321, Fort Worth, TX 76177. For information on the availability of this material at the FAA, call 817-222-5110."
+    },
+    {
+      "id": "e27",
+      "type": "paragraph",
+      "page": 1,
+      "text": "You may view this service information that is incorporated by reference at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, email fedreg.legal@nara.gov, or go to: https:// www.archives.gov/federal-register/cfr/ibrlocations.html."
+    },
+    {
+      "id": "e28",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Issued on August 10, 2020."
+    },
+    {
+      "id": "e29",
+      "type": "heading",
+      "page": 1,
+      "text": "Lance T. Gant,",
+      "level": 2
+    },
+    {
+      "id": "e30",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Director, Compliance & Airworthiness Division, Aircraft Certification Service."
+    },
+    {
+      "id": "e31",
+      "type": "paragraph",
+      "page": 1,
+      "text": "[FR Doc. 2020-17779 Filed 8-14-20; 8:45 am] BILLING CODE 4910-13-P"
+    },
+    {
+      "id": "e32",
+      "type": "heading",
+      "page": 1,
+      "text": "DEPARTMENT OF TRANSPORTATION",
+      "level": 2
+    },
+    {
+      "id": "e33",
+      "type": "heading",
+      "page": 1,
+      "text": "Federal Aviation Administration",
+      "level": 2
+    },
+    {
+      "id": "e34",
+      "type": "heading",
+      "page": 1,
+      "text": "14 CFR Part 39",
+      "level": 2
+    },
+    {
+      "id": "e35",
+      "type": "paragraph",
+      "page": 1,
+      "text": "[Docket No. FAA-2020-0723; Project Identifier AD-2020-00586-Q; Amendment 39-21192; AD 2020-16-08]"
+    },
+    {
+      "id": "e36",
+      "type": "paragraph",
+      "page": 1,
+      "text": "RIN 2120-AA64"
+    },
+    {
+      "id": "e37",
+      "type": "heading",
+      "page": 1,
+      "text": "Airworthiness Directives; Aspen Avionics, Inc.",
+      "level": 2
+    },
+    {
+      "id": "e38",
+      "type": "paragraph",
+      "page": 1,
+      "text": "AGENCY: Federal Aviation Administration (FAA), DOT."
+    },
+    {
+      "id": "e39",
+      "type": "paragraph",
+      "page": 1,
+      "text": "ACTION: Final rule; correction."
+    },
+    {
+      "id": "e40",
+      "type": "paragraph",
+      "page": 1,
+      "text": "SUMMARY: The FAA is correcting an airworthiness directive (AD) that published in the Federal Register. The AD applies to certain Aspen Avionics, Inc., Evolution Flight Display (EFD) EFD1000 Emergency Backup Display, EFD1000 Multi-Function Display, and EFD1000 Primary Flight Display systems installed on various airplanes. As published, the docket number and product identifier in the Comments Invited section of the preamble are incorrect. This document corrects that error. In all other respects, the original document remains the same; however, for clarity, the FAA is publishing the entire rule in the Federal Register."
+    },
+    {
+      "id": "e41",
+      "type": "paragraph",
+      "page": 1,
+      "text": "DATES: This correction is effective August 17, 2020. The effective date of AD 2020-16-08 remains August 17, 2020."
+    },
+    {
+      "id": "e42",
+      "type": "paragraph",
+      "page": 1,
+      "text": "ADDRESSES: You may send comments, using the procedures found in 14 CFR 11.43 and 11.45, by any of the following methods:"
+    },
+    {
+      "id": "e43",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Federal eRulemaking Portal: Go to https://www.regulations.gov. Follow the instructions for submitting comments."
+    },
+    {
+      "id": "e44",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Fax: 202-493-2251."
+    },
+    {
+      "id": "e45",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Mail: U.S. Department of"
+    },
+    {
+      "id": "e46",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Transportation, Docket Operations, M30, West Building Ground Floor, Room W12-140, 1200 New Jersey Avenue SE, Washington, DC 20590."
+    },
+    {
+      "id": "e47",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Hand Delivery: U.S. Department of Transportation, Docket Operations, M30, West Building Ground Floor, Room W12-140, 1200 New Jersey Avenue SE, Washington, DC 20590, between 9 a.m. and 5 p.m., Monday through Friday, except Federal holidays."
+    },
+    {
+      "id": "e48",
+      "type": "heading",
+      "page": 1,
+      "text": "Examining the AD Docket",
+      "level": 2
+    },
+    {
+      "id": "e49",
+      "type": "paragraph",
+      "page": 1,
+      "text": "You may examine the AD docket on the internet at https:// www.regulations.gov by searching for and locating Docket No. FAA-20200723; or in person at Docket Operations between 9 a.m. and 5 p.m., Monday through Friday, except Federal holidays. The AD docket contains this final rule, the regulatory evaluation, any comments received, and other information. The street address for the Docket Operations is listed above. Comments will be available in the AD docket shortly after receipt."
+    },
+    {
+      "id": "e50",
+      "type": "paragraph",
+      "page": 1,
+      "text": "FOR FURTHER INFORMATION CONTACT: Mahmood Shah, Aerospace Engineer, Fort Worth ACO Branch, FAA, 10101 Hillwood Pkwy., Fort Worth, TX 76177; phone: 817-222-5133; fax: 817-2225960; email: mahmood.shah@faa.gov."
+    },
+    {
+      "id": "e51",
+      "type": "paragraph",
+      "page": 1,
+      "text": "SUPPLEMENTARY INFORMATION: As published, AD 2020-16-08, Amendment 39-21192 (85 FR 45990, July 31, 2020) (''AD 2020-16-08''), applies to certain Aspen Avionics, Inc., EFD1000 Emergency Backup Display, EFD1000 Multi-Function Display, and EFD1000 Primary Flight Display systems installed on various airplanes. AD 2020-16-08 imposes operating restrictions to flight under visual flight rules (VFR) and prohibits night operations to allow safe operation in the event of a loss of flight display functionality."
+    },
+    {
+      "id": "e52",
+      "type": "paragraph",
+      "page": 1,
+      "text": "VerDate Sep<11>2014 16:18 Aug 14, 2020 Jkt 250001 PO 00000 Frm 00004 Fmt 4700 Sfmt 4700 E:\\FR\\FM\\17AUR1.SGM 17AUR1"
+    },
+    {
+      "id": "e53",
+      "type": "page_header",
+      "page": 2,
+      "text": "Federal Register /Vol. 85, No. 159/Monday, August 17, 2020/Rules and Regulations"
+    },
+    {
+      "id": "e54",
+      "type": "page_header",
+      "page": 2,
+      "text": "49945"
+    },
+    {
+      "id": "e55",
+      "type": "heading",
+      "page": 2,
+      "text": "Need for the Correction",
+      "level": 2
+    },
+    {
+      "id": "e56",
+      "type": "paragraph",
+      "page": 2,
+      "text": "As published, the docket number and product identifier in the first paragraph of the Comments Invited section of the preamble are incorrect. The paragraph incorrectly references Docket Number ''FAA-2020-0711'' and Product Identifier ''MCAI-2020-00719-A,'' instead of Docket No. FAA-2020-0723 and Product Identifier AD-2020-00586Q."
+    },
+    {
+      "id": "e57",
+      "type": "paragraph",
+      "page": 2,
+      "text": "Although no other part of the preamble or regulatory information has been corrected, for clarity, the FAA is publishing the entire rule in the Federal Register."
+    },
+    {
+      "id": "e58",
+      "type": "paragraph",
+      "page": 2,
+      "text": "The effective date of this AD remains August 17, 2020."
+    },
+    {
+      "id": "e59",
+      "type": "heading",
+      "page": 2,
+      "text": "Related Service Information",
+      "level": 2
+    },
+    {
+      "id": "e60",
+      "type": "paragraph",
+      "page": 2,
+      "text": "The FAA reviewed Aspen Operator Advisory OA2020-01, dated March 3, 2020. This document advises operators of the automatic reset event and provides recommended operating limitations."
+    },
+    {
+      "id": "e61",
+      "type": "paragraph",
+      "page": 2,
+      "text": "The FAA also reviewed Aspen Service Bulletin Number: SB2020-01, dated April 1, 2020. This document provides instructions for updating the EFD software to correct the automatic reset issue. This AD does not apply to airplanes that are compliant with this service information."
+    },
+    {
+      "id": "e62",
+      "type": "heading",
+      "page": 2,
+      "text": "Good Cause for Adoption Without Prior Notice",
+      "level": 2
+    },
+    {
+      "id": "e63",
+      "type": "paragraph",
+      "page": 2,
+      "text": "Section 553(b)(3)(B) of the Administrative Procedure Act (APA) (5 U.S.C. 551 et seq.) authorizes agencies to dispense with notice and comment procedures for rules when the agency for ''good cause'' finds that those procedures are ''impracticable, unnecessary, or contrary to the public interest.'' Section 553(d)(3) of the APA requires that agencies publish a rule not less than 30 days before its effective date, except as otherwise provided by the agency for good cause found and published with the rule."
+    },
+    {
+      "id": "e64",
+      "type": "paragraph",
+      "page": 2,
+      "text": "Since this action only corrects the docket number and product identifier in the preamble, the FAA finds that notice and public comment under 5 U.S.C. 553(b) is unnecessary. For the same reason, the FAA finds that good cause exists under 5 U.S.C. 553(d) for making this rule effective in less than 30 days."
+    },
+    {
+      "id": "e65",
+      "type": "heading",
+      "page": 2,
+      "text": "Comments Invited",
+      "level": 2
+    },
+    {
+      "id": "e66",
+      "type": "paragraph",
+      "page": 2,
+      "text": "This AD is a final rule that involves requirements affecting flight safety and was not preceded by notice and an opportunity for public comment. However, we invite you to send any written data, views, or arguments about this final rule. Send your comments to an address listed under the ADDRESSES"
+    },
+    {
+      "id": "e67",
+      "type": "paragraph",
+      "page": 2,
+      "text": "section. Include the Docket Number FAA-2020-0723 and Product Identifier AD-2020-00586-Q at the beginning of your comments."
+    },
+    {
+      "id": "e68",
+      "type": "paragraph",
+      "page": 2,
+      "text": "Except for Confidential Business Information (CBI) as described in the following paragraph, and other information as described in 14 CFR 11.35, the FAA will post all comments received, without change, to https:// www.regulations.gov, including any personal information you provide. The FAA will also post a report summarizing each substantive verbal contact received about this final rule."
+    },
+    {
+      "id": "e69",
+      "type": "heading",
+      "page": 2,
+      "text": "Confidential Business Information",
+      "level": 2
+    },
+    {
+      "id": "e70",
+      "type": "paragraph",
+      "page": 2,
+      "text": "CBI is commercial or financial information that is both customarily and actually treated as private by its owner. Under the Freedom of Information Act (FOIA) (5 U.S.C. 552), CBI is exempt from public disclosure. If your comments responsive to this AD contain commercial or financial information that is customarily treated as private, that you actually treat as private, and that is relevant or responsive to this AD, it is important that you clearly designate the submitted comments as CBI. Please mark each page of your submission containing CBI as ''PROPIN.'' The FAA will treat such marked submissions as confidential under the FOIA, and they will not be placed in the public docket of this AD. Submissions containing CBI should be sent to Mahmood Shah, Aerospace Engineer, Fort Worth ACO Branch, FAA, 10101 Hillwood Pkwy., Fort Worth, TX 76177. Any commentary that the FAA receives which is not specifically designated as CBI will be placed in the public docket for this rulemaking."
+    },
+    {
+      "id": "e71",
+      "type": "heading",
+      "page": 2,
+      "text": "List of Subjects in 14 CFR Part 39",
+      "level": 2
+    },
+    {
+      "id": "e72",
+      "type": "paragraph",
+      "page": 2,
+      "text": "Air transportation, Aircraft, Aviation safety, Incorporation by reference, Safety."
+    },
+    {
+      "id": "e73",
+      "type": "heading",
+      "page": 2,
+      "text": "Adoption of the Correction",
+      "level": 2
+    },
+    {
+      "id": "e74",
+      "type": "paragraph",
+      "page": 2,
+      "text": "Accordingly, pursuant to the authority delegated to me by the Administrator, the Federal Aviation Administration amends part 39 of the Federal Aviation Regulations (14 CFR part 39) as follows:"
+    },
+    {
+      "id": "e75",
+      "type": "heading",
+      "page": 2,
+      "text": "PART 39-AIRWORTHINESS DIRECTIVES",
+      "level": 2
+    },
+    {
+      "id": "e76",
+      "type": "paragraph",
+      "page": 2,
+      "text": "■ 1. The authority citation for part 39 continues to read as follows:"
+    },
+    {
+      "id": "e77",
+      "type": "paragraph",
+      "page": 2,
+      "text": "Authority: 49 U.S.C. 106(g), 40113, 44701."
+    },
+    {
+      "id": "e78",
+      "type": "heading",
+      "page": 2,
+      "text": "§39.13 [Corrected]",
+      "level": 2
+    },
+    {
+      "id": "e79",
+      "type": "paragraph",
+      "page": 2,
+      "text": "■ 2. The FAA amends §39.13 by adding the following new airworthiness directive (AD):"
+    },
+    {
+      "id": "e80",
+      "type": "heading",
+      "page": 2,
+      "text": "2020-16-08 Aspen Avionics, Inc.:",
+      "level": 2
+    },
+    {
+      "id": "e81",
+      "type": "paragraph",
+      "page": 2,
+      "text": "Amendment 39-21192; Docket No. FAA-2020-0723; Project Identifier AD2020-00586-Q."
+    },
+    {
+      "id": "e82",
+      "type": "heading",
+      "page": 2,
+      "text": "(a) Effective Date",
+      "level": 2
+    },
+    {
+      "id": "e83",
+      "type": "paragraph",
+      "page": 2,
+      "text": "This AD is effective August 17, 2020."
+    },
+    {
+      "id": "e84",
+      "type": "heading",
+      "page": 2,
+      "text": "(b) Affected ADs",
+      "level": 2
+    },
+    {
+      "id": "e85",
+      "type": "paragraph",
+      "page": 2,
+      "text": "None."
+    },
+    {
+      "id": "e86",
+      "type": "heading",
+      "page": 2,
+      "text": "(c) Applicability",
+      "level": 2
+    },
+    {
+      "id": "e87",
+      "type": "paragraph",
+      "page": 2,
+      "text": "This AD applies to Aspen Avionics, Inc., Evolution Flight Display (EFD) EFD1000 Primary Flight Display part number (P/N) 910-00001-011, EFD1000 Multi-Function Display P/N 910-00001-012, and EFD1000 Emergency Backup Display P/N 910-00001017 units that meet both conditions in paragraphs (c)(1)(i) and (ii) of this AD."
+    },
+    {
+      "id": "e88",
+      "type": "paragraph",
+      "page": 2,
+      "text": "(i) Software version 2.10 or 2.10.1 is installed;"
+    },
+    {
+      "id": "e89",
+      "type": "paragraph",
+      "page": 2,
+      "text": "(ii) Independent attitude, altitude, and airspeed back-up instruments are not installed."
+    },
+    {
+      "id": "e90",
+      "type": "paragraph",
+      "page": 2,
+      "text": "These flight display units may be installed on, but are not limited to, the following airplanes, certificated in any category:"
+    },
+    {
+      "id": "e91",
+      "type": "paragraph",
+      "page": 2,
+      "text": "(i) Aermacchi S.p.A. Model S.205-18/F, S.205-18/R, S.205-20/F, S.205-20/R, S.20522/R, S.208, and S.208A airplanes;"
+    },
+    {
+      "id": "e92",
+      "type": "paragraph",
+      "page": 2,
+      "text": "(ii) Aeronautica Macchi S.p.A. Model AL 60 (previously designated as Model LASA 60), AL 60-B, AL 60-C5, and AL 60-F5 airplanes;"
+    },
+    {
+      "id": "e93",
+      "type": "paragraph",
+      "page": 2,
+      "text": "(iii) Aerostar Aircraft Corporation Model PA-60-600 (Aerostar 600), PA-60-601 (Aerostar 601), PA-60-601P (Aerostar 601P), and PA-60-602P (Aerostar 602P) airplanes;"
+    },
+    {
+      "id": "e94",
+      "type": "paragraph",
+      "page": 2,
+      "text": "(iv) Alexandria Aircraft, LLC (type certificate previously held by Bellanca, Inc.), Model 14-19, 14-19-2, 14-19-3, 14-19-3A, 17-30, 17-30A, 17-31, 17-31A, 17-31ATC, and 17-31TC airplanes;"
+    },
+    {
+      "id": "e95",
+      "type": "paragraph",
+      "page": 2,
+      "text": "(v) American Champion Aircraft Corp. Model 402, 7ECA, 7GCAA, 7GCBC, 7KCAB, 8GCBC, and 8KCAB airplanes;"
+    },
+    {
+      "id": "e96",
+      "type": "paragraph",
+      "page": 2,
+      "text": "(vi) CEAPR (type certificate previously held by APEX) Model CAP 10 B airplanes; (vii) Cirrus Design Corporation Model"
+    },
+    {
+      "id": "e97",
+      "type": "paragraph",
+      "page": 2,
+      "text": "SR20 and SR22 airplanes;"
+    },
+    {
+      "id": "e98",
+      "type": "paragraph",
+      "page": 2,
+      "text": "(viii) Commander Aircraft Corporation (type certificate previously held by CPAC, Inc.) Model 112, 112B, 112TC, 112TCA, 114, 114A, 114B, and 114TC airplanes;"
+    },
+    {
+      "id": "e99",
+      "type": "paragraph",
+      "page": 2,
+      "text": "(ix) Consolidated Vultee Aircraft Corporation, Stinson Division Model V-77 (Army AT-19) airplanes;"
+    },
+    {
+      "id": "e100",
+      "type": "paragraph",
+      "page": 2,
+      "text": "(x) Cougar Aircraft Corporation (type certificate previously held by SOCATA, S.A.) Model GA-7 airplanes;"
+    },
+    {
+      "id": "e101",
+      "type": "paragraph",
+      "page": 2,
+      "text": "(xi) Diamond Aircraft Industries Inc. Model DA20-A1 and DA20-C1 airplanes;"
+    },
+    {
+      "id": "e102",
+      "type": "paragraph",
+      "page": 2,
+      "text": "(xii) Diamond Aircraft Industries Inc. (type certificate previously held by Diamond Aircraft Industries GmbH) Model DA 40 and DA 40 F airplanes;"
+    },
+    {
+      "id": "e103",
+      "type": "paragraph",
+      "page": 2,
+      "text": "(xiii) Discovery Aviation, Inc. (type certificate previously held by Liberty Aerospace Incorporated), Model XL-2 airplanes;"
+    },
+    {
+      "id": "e104",
+      "type": "paragraph",
+      "page": 2,
+      "text": "(xiv) Dynac Aerospace Corporation Model Aero Commander 100, Aero Commander 100A, Aero Commander 100-180, Volaire 10, and Volaire 10A airplanes;"
+    },
+    {
+      "id": "e105",
+      "type": "paragraph",
+      "page": 2,
+      "text": "VerDate Sep<11>2014 16:18 Aug 14, 2020 Jkt 250001 PO 00000 Frm 00005 Fmt 4700 Sfmt 4700 E:\\FR\\FM\\17AUR1.SGM 17AUR1"
+    },
+    {
+      "id": "e106",
+      "type": "page_header",
+      "page": 3,
+      "text": "49946"
+    },
+    {
+      "id": "e107",
+      "type": "page_header",
+      "page": 3,
+      "text": "Federal Register /Vol. 85, No. 159/Monday, August 17, 2020/Rules and Regulations"
+    },
+    {
+      "id": "e108",
+      "type": "paragraph",
+      "page": 3,
+      "text": "(xv) EADS-PZL ''Warszawa-Okec ¸ie'' S.A. (type certificate previously held by Panstwowe Zaklady Lotnicze) Model PZL104 WILGA 80, PZL-104M WILGA 2000, PZL-104MA WILGA 2000, PZL-KOLIBER 150A, and PZL-KOLIBER 160A airplanes;"
+    },
+    {
+      "id": "e109",
+      "type": "paragraph",
+      "page": 3,
+      "text": "(xvi) Extra Flugzeugproduktions- und Vertriebs- GmbH (type certificate previously held by Extra Flugzeugbau GmbH) Model EA 300, EA 300/L, EA 300/S, EA 300/200, and EA 300/LC airplanes;"
+    },
+    {
+      "id": "e110",
+      "type": "paragraph",
+      "page": 3,
+      "text": "(xvii) Frakes Aviation Model G-44 (Army OA-14, Navy J4F-2), G-44A, and SCAN Type 30 airplanes;"
+    },
+    {
+      "id": "e111",
+      "type": "paragraph",
+      "page": 3,
+      "text": "(xviii) FS 2003 Corporation (type certificate previously held by The New Piper Aircraft, Inc.) Model PA-12 and PA-12S airplanes;"
+    },
+    {
+      "id": "e112",
+      "type": "paragraph",
+      "page": 3,
+      "text": "(xix) GROB Aircraft AG (type certificate previously held by GROB Aerospace GmbH i.l.) Model G115, G115A, G115B, G115C, G115C2, G115D, G115D2, G115EG, and G120A airplanes;"
+    },
+    {
+      "id": "e113",
+      "type": "paragraph",
+      "page": 3,
+      "text": "(xx) Helio Aircraft, LLC, Model H-250, H295 (USAF U-10D), H-391 (USAF YL-24), H-391B, H-395 (USAF L-28A and U-10B), H-395A, H-700, H-800, HST-550, HST550A (USAF AU-24A), and HT-295 airplanes;"
+    },
+    {
+      "id": "e114",
+      "type": "paragraph",
+      "page": 3,
+      "text": "(xxi) Interceptor Aviation Inc. (type certificate previously held by Interceptor Aircraft Corporation) Model 200, 200A, 200B, 200C, 200D, and 400 airplanes;"
+    },
+    {
+      "id": "e115",
+      "type": "paragraph",
+      "page": 3,
+      "text": "(xxii) Lockheed Martin Aeronautics Company Model 402-2 airplanes;"
+    },
+    {
+      "id": "e116",
+      "type": "paragraph",
+      "page": 3,
+      "text": "(xxiii) Maule Aerospace Technology, Inc. (type certificate previously held by Maule Aircraft Corporation), Model Bee Dee M-4, M-4, M-4C, M-4S, M-4T, M-4-180C, M-4180S, M-4-180T, M-4-210, M-4-210C, M4-210S, M-4-210T, M-4-220, M-4-220C, M-4-220S, M-4-220T, M-5-180C, M-5-200, M-5-210C, M-5-210TC, M-5-220C, M-5235C, M-6-180, M-6-235, M-7-235, M-7235A, M-7-235B, M-7-235C, M-7-260, M7-260C, M-7-420A, M-7-420AC, M-8-235, MT-7-235, MT-7-260, MT-7-420, MX-7160, MX-7-160C, MX-7-180, MX-7-180A, MX-7-180AC, MX-7-180B, MX-7-180C, MX-7-235, MX-7-420, MXT-7-160, MXT7-180, and MXT-7-180A airplanes;"
+    },
+    {
+      "id": "e117",
+      "type": "paragraph",
+      "page": 3,
+      "text": "(xxiv) Mooney Aircraft Corporation Model M22 airplanes;"
+    },
+    {
+      "id": "e118",
+      "type": "paragraph",
+      "page": 3,
+      "text": "(xxv) Mooney International Corporation (type certificate previously held by Mooney Aviation Company, Inc.) Model M20, M20A, M20B, M20C, M20D, M20E, M20F, M20G, M20J, M20K, M20L, M20M, M20R, M20S, M20TN, M20U, and M20V airplanes;"
+    },
+    {
+      "id": "e119",
+      "type": "paragraph",
+      "page": 3,
+      "text": "(xxvi) Pacific Aerospace Ltd. (type certificate previously held by Found Aircraft Canada, Inc.) Model FBA-2C, FBA-2C1, and FBA-2C2 airplanes;"
+    },
+    {
+      "id": "e120",
+      "type": "paragraph",
+      "page": 3,
+      "text": "(xxvii) Pilatus Aircraft Ltd. Model PC-6, PC-6-H1, PC-6-H2, PC-6/350, PC-6/350H1, PC-6/350-H2, PC6/A, PC-6/A-H1, PC6/A-H2, PC-6/B-H2, PC-6/B1-H2, PC-6/ B2-H2, PC-6/B2-H4, PC-6/C-H2, and PC-6/ C1-H2 airplanes;"
+    },
+    {
+      "id": "e121",
+      "type": "paragraph",
+      "page": 3,
+      "text": "(xxviii) Piper Aircraft, Inc. (type certificate previously held by The New Piper Aircraft, Inc.), Model PA-18, PA-18 ''105'' (Special), PA-18 ''125'' (Army L-21A), PA-18 ''135'' (Army L-21B), PA-18 ''150,'' PA-18A, PA18A ''135,'' PA-18A ''150,'' PA-18AS ''125,'' PA-18AS ''135,'' PA-18AS ''150,'' PA-18S, PA-18S ''105'' (Special), PA-18S ''125,'' PA-"
+    },
+    {
+      "id": "e122",
+      "type": "paragraph",
+      "page": 3,
+      "text": "18S ''135,'' PA-18S ''150,'' PA-19 (Army L18C), PA-19S, PA-20, PA-20 ''115,'' PA-20 ''135,'' PA-20S, PA-20S ''115,'' PA-20S ''135,'' PA-22, PA-22-108, PA-22-135, PA22-150, PA-22-160, PA-22S-135, PA-22S150, PA-22S-160, PA-23, PA-23-160, PA23-235, PA-23-250, PA-24, PA-24-250, PA-24-260, PA-24-400, PA-28-140, PA28-150, PA-28-151, PA-28-160, PA-28161, PA-28-180, PA-28-181, PA-28-201T, PA-28-235, PA-28-236, PA-28R-180, PA28R-200, PA-28R-201, PA-28R-201T, PA28RT-201, PA-28RT-201T, PA-28S-160, PA-28S-180, PA-30, PA-32-260, PA-32300, PA-32-301, PA-32-301FT, PA-32301T, PA-32-301XTC, PA-32R-300, PA32R-301 (HP), PA-32R-301 (SP), PA-32R301T, PA-32RT-300, PA-32RT-300T, PA32S-300, PA-34-200, PA-34-200T, PA-34220T, PA-39, PA-40, PA-44-180, PA-44180T, PA-46-310P, and PA-46-350P airplanes;"
+    },
+    {
+      "id": "e123",
+      "type": "paragraph",
+      "page": 3,
+      "text": "(xxix) Polskie Zaklady Lotnicze Spolka zo.o. (type certificate previously held by PZL MIELEC) Model PZL M26 01 airplanes;"
+    },
+    {
+      "id": "e124",
+      "type": "paragraph",
+      "page": 3,
+      "text": "(xxx) Revo, Incorporated Model Colonial C-1, Colonial C-2, Lake LA-4, Lake LA-4A, Lake LA-4P, Lake LA-4-200, and Lake Model 250 airplanes;"
+    },
+    {
+      "id": "e125",
+      "type": "paragraph",
+      "page": 3,
+      "text": "(xxxi) Robert E. Rust, Jr. (type certificate previously held by Robert E. Rust), Model DHC-1 Chipmunk Mk 21, DHC-1 Chipmunk Mk 22, and DHC-1 Chipmunk Mk 22A airplanes;"
+    },
+    {
+      "id": "e126",
+      "type": "paragraph",
+      "page": 3,
+      "text": "(xxxii) Sierra Hotel Aero, Inc. (type certificate previously held by Navion Aircraft LLC), Model Navion (Army L-17A), Navion A (Army L-17B and L-17C), Navion B, Navion D, Navion E, Navion F, Navion G, and Navion H airplanes;"
+    },
+    {
+      "id": "e127",
+      "type": "paragraph",
+      "page": 3,
+      "text": "(xxxiii) Slingsby Aviation Ltd. Model T67M260 and T67M260-T3A airplanes;"
+    },
+    {
+      "id": "e128",
+      "type": "paragraph",
+      "page": 3,
+      "text": "(xxxiv) SOCATA (type certificate previously held by Socata Groupe Aerospatiale) Model MS 880B, MS 885, MS 892A-150, MS 892E-150, MS 893A, MS 893E, MS 894A, MS 894E, Rallye 100S, Rallye 150ST, Rallye 150T, Rallye 235C, Rallye 235E, TB 9, TB 10, TB 20, TB 21, and TB 200 airplanes;"
+    },
+    {
+      "id": "e129",
+      "type": "paragraph",
+      "page": 3,
+      "text": "(xxxv) Spartan Aircraft Company Model 7W (Army UC-71) airplanes;"
+    },
+    {
+      "id": "e130",
+      "type": "paragraph",
+      "page": 3,
+      "text": "(xxxvi) SST FLUGTECHNIK GmbH Model EA 400 and EA 400-500 airplanes;"
+    },
+    {
+      "id": "e131",
+      "type": "paragraph",
+      "page": 3,
+      "text": "(xxxvii) Swift Museum Foundation, Inc. (type certificate previously held by Univair Aircraft Corporation), Model GC-1A and GC1B airplanes;"
+    },
+    {
+      "id": "e132",
+      "type": "paragraph",
+      "page": 3,
+      "text": "(xxxviii) Symphony Aircraft Industries Inc. (type certificate previously held by Ostmecklenburgische Flugzeugbau GmbH), Model OMF-100-160 and SA 160 airplanes;"
+    },
+    {
+      "id": "e133",
+      "type": "paragraph",
+      "page": 3,
+      "text": "(xxxix) Textron Aviation Inc. (type certificate previously held by Cessna Aircraft Company) Model 120, 140, 140A, 150, 150A, 150B, 150C, 150D, 150E, 150F, 150G, 150H, 150J, 150K, 150L, 150M, 152, 170, 170A, 170B, 172, 172A, 172B, 172C, 172D, 172E, 172F (USAF T-41A), 172G, 172H (USAF T41A), 172I, 172K, 172L, 172M, 172N, 172P, 172Q, 172R, 172RG, 172S, 175, 175A, 175B, 175C, 177, 177A, 177B, 177RG, 180, 180A, 180B, 180C, 180D, 180E, 180F, 180G, 180H, 180J, 180K, 182, 182A, 182B, 182C, 182D, 182E, 182F, 182G, 182H, 182J, 182K, 182L, 182M, 182N, 182P, 182Q, 182R, 182S, 182T,"
+    },
+    {
+      "id": "e134",
+      "type": "paragraph",
+      "page": 3,
+      "text": "185, 185A, 185B, 185C, 185D, 185E, 206, 206H, 207, 207A, 210, 210A, 210B, 210C, 210D, 210E, 210F, 210G, 210H, 210J, 210K, 210L, 210M, 210N, 210R, 210-5 (205), 2105A (205A), 310, 310A (USAF U-3A), 310B, 310C, 310D, 310E (USAF U-3B), 310F, 310G, 310H, 310I, 310J, 310J-1, 310K, 310L, 310N, 310P, 310Q, 310R, 320, 320A, 320B, 320C, 320D, 320E, 320F, 320-1, 335, 336, 337, 337A, 337B, 340, 340A, A150K, A150L, A150M, A152, A185E, A185F, E310H, E310J, LC40-550FG, LC41-550FG, LC42-550FG, P172D, P206, P206A, P206B, P206C, P206D, P206E, P210N, P210R, R172E (USAF T-41B, USAF T-41C and D), R172F (USAF T-41D), R172G (USAF T-41C and D), R172H (USAF T-41D), R172J, R172K, R182, T182, T182T, T206H, T207, T207A, T210F, T210G, T210H, T210J, T210K, T210L, T210M, T210N, T210R, T303, T310P, T310Q, T310R, TP206A, TP206B, TP206C, TP206D, TP206E, TR182, TU206A, TU206B, TU206C, TU206D, TU206E, TU206F, TU206G, U206, U206A, U206B, U206C, U206D, U206E, U206F, and U206G airplanes;"
+    },
+    {
+      "id": "e135",
+      "type": "paragraph",
+      "page": 3,
+      "text": "(xl) Textron Aviation Inc. (type certificate previously held by Beechcraft Corporation), Model 19A, 23, 35, 35R, 35-33, 35-A33, 35B33, 35-C33, 35-C33A, 36, 45 (YT-34), 50 (L-23A), 56TC, 58, 58A, 58P, 58PA, 58TC, 58TCA, 76, 95, 95-55, 95-A55, 95-B55, 95B55A, 95-B55B (T-42), 95-C55, 95-C55A, A23, A23A, A23-19, A23-24, A24, A24R, A35, A36, A36TC, A45 (T-34A, B-45), A56TC, B19, B23, B24R, B35, B36TC, B50 (L23B), B95, B95A, C23, C24R, C35, C50, D35, D45 (T-34B), D50 (L-23E), D50A, D50B, D50C, D50E, D50E-5990, D55, D55A, D95A, E33, E33A, E33C, E35, E50 (L-23D, RL-23D), E55, E55A, E95, F33, F33A, F33C, F35, F50, G33, G35, G50, H35, H50, J35, J50, K35, M19A, M35, N35, P35, S35, V35, V35A, and V35B airplanes;"
+    },
+    {
+      "id": "e136",
+      "type": "paragraph",
+      "page": 3,
+      "text": "(xli) The Boeing Company (type certificate previously held by Rockwell International) Model AT-6 (SNJ-2), AT-6A (SNJ-3), AT6B, AT-6C (SNJ-4), AT-6D (SNJ-5), AT-6F"
+    },
+    {
+      "id": "e137",
+      "type": "paragraph",
+      "page": 3,
+      "text": "(SNJ-6, SNJ-7), BC-1A, and T-6G airplanes; (xlii) The King's Engineering Fellowship (TKEF) Model 44 airplanes;"
+    },
+    {
+      "id": "e138",
+      "type": "paragraph",
+      "page": 3,
+      "text": "(xliii) The Waco Aircraft Company Model YMF airplanes;"
+    },
+    {
+      "id": "e139",
+      "type": "paragraph",
+      "page": 3,
+      "text": "(xliv) Topcub Aircraft, Inc., Model CC18180 and CC18-180A airplanes;"
+    },
+    {
+      "id": "e140",
+      "type": "paragraph",
+      "page": 3,
+      "text": "(xlv) True Flight Holdings LLC (type certificate previously held by Tiger Aircraft LLC) Model AA-1, AA-1A, AA-1B, AA-1C, AA-5, AA-5A, AA-5B, and AG-5B airplanes;"
+    },
+    {
+      "id": "e141",
+      "type": "paragraph",
+      "page": 3,
+      "text": "(xlvi) Twin Commander Aircraft LLC (type certificate previously held by Twin Commander Aircraft Corporation) Model 500, 520, 560, and 560A airplanes;"
+    },
+    {
+      "id": "e142",
+      "type": "paragraph",
+      "page": 3,
+      "text": "(xlvii) Univair Aircraft Corporation Model 108, 108-1, 108-2, 108-3, and 108-5 airplanes;"
+    },
+    {
+      "id": "e143",
+      "type": "paragraph",
+      "page": 3,
+      "text": "(xlviii) Viking Air Limited (type certificate previously held by Bombardier Inc. and deHavilland Inc.) Model DHC-2 Mk. I, DHC2 Mk. II, and DHC-2 Mk. III airplanes;"
+    },
+    {
+      "id": "e144",
+      "type": "paragraph",
+      "page": 3,
+      "text": "(xlix) Vulcanair S.p.A. (type certificate previously held by Partenavia Costruzioni Aeronautiche S.p.A.) Model AP68TP-300 ''Spartacus,'' AP68TP-600 ''Viator,'' P.68, P.68 ''Observer,'' P.68 ''Observer 2,'' P.68B, P.68C, P.68C-TC, and P.68TC ''Observer'' airplanes;"
+    },
+    {
+      "id": "e145",
+      "type": "paragraph",
+      "page": 3,
+      "text": "VerDate Sep<11>2014 16:18 Aug 14, 2020 Jkt 250001 PO 00000 Frm 00006 Fmt 4700 Sfmt 4700 E:\\FR\\FM\\17AUR1.SGM 17AUR1"
+    },
+    {
+      "id": "e146",
+      "type": "page_header",
+      "page": 4,
+      "text": "Federal Register /Vol. 85, No. 159/Monday, August 17, 2020/Rules and Regulations"
+    },
+    {
+      "id": "e147",
+      "type": "page_header",
+      "page": 4,
+      "text": "49947"
+    },
+    {
+      "id": "e148",
+      "type": "paragraph",
+      "page": 4,
+      "text": "(l) WSK PZL Mielec and OBR SK Mielec Model PZL M20 03 airplanes;"
+    },
+    {
+      "id": "e149",
+      "type": "paragraph",
+      "page": 4,
+      "text": "(li) W.Z.D. Enterprises Inc. (type certificate previously held by JGS Properties, LLC) Model 11A and 11E airplanes;"
+    },
+    {
+      "id": "e150",
+      "type": "paragraph",
+      "page": 4,
+      "text": "(lii) Zenair Ltd. Model CH2000 airplanes; and"
+    },
+    {
+      "id": "e151",
+      "type": "paragraph",
+      "page": 4,
+      "text": "(liii) Zlin Aircraft a.s. (type certificate previously held by Moravan a.s.) Model Z143L and Z-242L airplanes."
+    },
+    {
+      "id": "e152",
+      "type": "heading",
+      "page": 4,
+      "text": "(d) Subject",
+      "level": 2
+    },
+    {
+      "id": "e153",
+      "type": "paragraph",
+      "page": 4,
+      "text": "Joint Aircraft System Component (JASC)/ Air Transport Association (ATA) of America Code 3410, FLIGHT ENVIRONMENT DATA; 3420, ATTITUDE AND DIRECTION DATA SYSTEM."
+    },
+    {
+      "id": "e154",
+      "type": "heading",
+      "page": 4,
+      "text": "(e) Unsafe Condition",
+      "level": 2
+    },
+    {
+      "id": "e155",
+      "type": "paragraph",
+      "page": 4,
+      "text": "This AD was prompted by an automatic reset occurring when the display internal monitor detects a potential fault causing intermittent loss of airspeed, attitude, and altitude information during flight. The FAA is issuing this AD to address the software interacting with a graphics processing chip defect. The unsafe condition, if not addressed, could result in intermittent loss of airspeed, attitude, and altitude information during flight with consequent loss of airplane control."
+    },
+    {
+      "id": "e156",
+      "type": "heading",
+      "page": 4,
+      "text": "(f) Compliance",
+      "level": 2
+    },
+    {
+      "id": "e157",
+      "type": "paragraph",
+      "page": 4,
+      "text": "Comply with this AD within the compliance times specified, unless already done."
+    },
+    {
+      "id": "e158",
+      "type": "heading",
+      "page": 4,
+      "text": "(g) Required Actions",
+      "level": 2
+    },
+    {
+      "id": "e159",
+      "type": "paragraph",
+      "page": 4,
+      "text": "(1) Before further flight, revise the limitations section of the airplane flight manual (AFM) for your airplane by inserting a copy of this AD or by making a pen and ink change to add: ''Operation under Instrument Flight Rules (IFR) or night Visual Flight Rules (VFR) is prohibited.''"
+    },
+    {
+      "id": "e160",
+      "type": "paragraph",
+      "page": 4,
+      "text": "(2) The action required by paragraph (g)(1) of this AD may be performed by the owner/ operator (pilot) holding at least a private pilot certificate and must be entered into the aircraft records showing compliance with this AD in accordance with 14 CFR 43.9(a)(1) through (4) and 14 CFR 91.417(a)(2)(v). The record must be maintained as required by 14 CFR 91.417. This authority is not applicable to aircraft being operated under 14 CFR part 119."
+    },
+    {
+      "id": "e161",
+      "type": "heading",
+      "page": 4,
+      "text": "(h) Special Flight Permit",
+      "level": 2
+    },
+    {
+      "id": "e162",
+      "type": "paragraph",
+      "page": 4,
+      "text": "Special flight permits are prohibited."
+    },
+    {
+      "id": "e163",
+      "type": "heading",
+      "page": 4,
+      "text": "(i) Alternative Methods of Compliance (AMOCs)",
+      "level": 2
+    },
+    {
+      "id": "e164",
+      "type": "paragraph",
+      "page": 4,
+      "text": "(1) The Manager, Fort Worth ACO Branch, FAA, has the authority to approve AMOCs for this AD, if requested using the procedures found in 14 CFR 39.19. In accordance with 14 CFR 39.19, send your request to your principal inspector or local Flight Standards District Office, as appropriate. If sending information directly to the manager of the certification office, send it to the attention of the person identified in paragraph (j)."
+    },
+    {
+      "id": "e165",
+      "type": "paragraph",
+      "page": 4,
+      "text": "Before using any approved AMOC, notify your appropriate principal inspector, or lacking a principal inspector, the manager of the local flight standards district office/ certificate holding district office."
+    },
+    {
+      "id": "e166",
+      "type": "heading",
+      "page": 4,
+      "text": "(j) Related Information",
+      "level": 2
+    },
+    {
+      "id": "e167",
+      "type": "paragraph",
+      "page": 4,
+      "text": "For more information about this AD, contact Mahmood Shah, Aerospace Engineer, Fort Worth ACO Branch, FAA, 10101 Hillwood Pkwy., Fort Worth, TX 76177; phone: 817-222-5133; fax: 817-222-5960; email: mahmood.shah@faa.gov."
+    },
+    {
+      "id": "e168",
+      "type": "paragraph",
+      "page": 4,
+      "text": "Issued on August 11, 2020."
+    },
+    {
+      "id": "e169",
+      "type": "heading",
+      "page": 4,
+      "text": "Lance T. Gant,",
+      "level": 2
+    },
+    {
+      "id": "e170",
+      "type": "paragraph",
+      "page": 4,
+      "text": "Director, Compliance & Airworthiness Division, Aircraft Certification Service."
+    },
+    {
+      "id": "e171",
+      "type": "paragraph",
+      "page": 4,
+      "text": "[FR Doc. 2020-17902 Filed 8-14-20; 8:45 am]"
+    },
+    {
+      "id": "e172",
+      "type": "paragraph",
+      "page": 4,
+      "text": "BILLING CODE 4910-13-P"
+    },
+    {
+      "id": "e173",
+      "type": "heading",
+      "page": 4,
+      "text": "DEPARTMENT OF TRANSPORTATION",
+      "level": 2
+    },
+    {
+      "id": "e174",
+      "type": "heading",
+      "page": 4,
+      "text": "Federal Aviation Administration",
+      "level": 2
+    },
+    {
+      "id": "e175",
+      "type": "heading",
+      "page": 4,
+      "text": "14 CFR Part 39",
+      "level": 2
+    },
+    {
+      "id": "e176",
+      "type": "paragraph",
+      "page": 4,
+      "text": "[Docket No. FAA-2020-0717; Product Identifier 2019-CE-038-AD; Amendment 39-21196; AD 2020-16-12]"
+    },
+    {
+      "id": "e177",
+      "type": "paragraph",
+      "page": 4,
+      "text": "RIN 2120-AA64"
+    },
+    {
+      "id": "e178",
+      "type": "heading",
+      "page": 4,
+      "text": "Airworthiness Directives; Pacific Aerospace Limited Airplanes",
+      "level": 2
+    },
+    {
+      "id": "e179",
+      "type": "paragraph",
+      "page": 4,
+      "text": "AGENCY: Federal Aviation Administration (FAA), DOT."
+    },
+    {
+      "id": "e180",
+      "type": "paragraph",
+      "page": 4,
+      "text": "ACTION: Final rule; request for comments."
+    },
+    {
+      "id": "e181",
+      "type": "paragraph",
+      "page": 4,
+      "text": "SUMMARY: The FAA is adopting a new airworthiness directive (AD) for Pacific Aerospace Limited Model 750XL airplanes. This AD results from mandatory continuing airworthiness information (MCAI) issued by the aviation authority of another country to identify and correct an unsafe condition on an aviation product. The MCAI describes the unsafe condition as inadvertent fuel shut-off to the engine during the operation of the flaps due to the fuel and flap control levers being located too closely together. The FAA is issuing this AD to address the unsafe condition on these products."
+    },
+    {
+      "id": "e182",
+      "type": "paragraph",
+      "page": 4,
+      "text": "DATES: This AD is effective September 8, 2020."
+    },
+    {
+      "id": "e183",
+      "type": "paragraph",
+      "page": 4,
+      "text": "The Director of the Federal Register approved the incorporation by reference of a certain publication listed in the AD as of September 8, 2020."
+    },
+    {
+      "id": "e184",
+      "type": "paragraph",
+      "page": 4,
+      "text": "The FAA must receive comments on this AD by October 1, 2020."
+    },
+    {
+      "id": "e185",
+      "type": "paragraph",
+      "page": 4,
+      "text": "ADDRESSES: You may send comments by any of the following methods:"
+    },
+    {
+      "id": "e186",
+      "type": "paragraph",
+      "page": 4,
+      "text": "Federal eRulemaking Portal: Go to https://www.regulations.gov. Follow the instructions for submitting comments."
+    },
+    {
+      "id": "e187",
+      "type": "paragraph",
+      "page": 4,
+      "text": "Fax: (202) 493-2251."
+    },
+    {
+      "id": "e188",
+      "type": "paragraph",
+      "page": 4,
+      "text": "Mail: U.S. Department of"
+    },
+    {
+      "id": "e189",
+      "type": "paragraph",
+      "page": 4,
+      "text": "Transportation, Docket Operations, M30, West Building Ground Floor, Room W12-140, 1200 New Jersey Avenue SE, Washington, DC 20590."
+    },
+    {
+      "id": "e190",
+      "type": "paragraph",
+      "page": 4,
+      "text": "Hand Delivery: U.S. Department of Transportation, Docket Operations, M30, West Building Ground Floor, Room W12-140, 1200 New Jersey Avenue SE, Washington, DC 20590, between 9 a.m. and 5 p.m., Monday through Friday, except Federal holidays."
+    },
+    {
+      "id": "e191",
+      "type": "paragraph",
+      "page": 4,
+      "text": "For service information identified in this AD, contact Pacific Aerospace Limited, Airport Road, Hamilton, Private Bag 3027, Hamilton 3240, New Zealand; telephone: +64 7 843 6144; facsimile: +64 7 843 6134; email: pacific@aerospace.co.nz; internet: https://www.aerospace.co.nz. You may view this referenced service information at the FAA, Airworthiness Products Section, Operational Safety Branch, 901 Locust, Kansas City, Missouri 64106. For information on the availability of this material at the FAA, call (816) 3294148. It is also available on the internet at https://www.regulations.gov by searching for Docket No. FAA-20200717."
+    },
+    {
+      "id": "e192",
+      "type": "heading",
+      "page": 4,
+      "text": "Examining the AD Docket",
+      "level": 2
+    },
+    {
+      "id": "e193",
+      "type": "paragraph",
+      "page": 4,
+      "text": "You may examine the AD docket on the internet at https:// www.regulations.gov by searching for and locating Docket No. FAA-20200717; or in person at Docket Operations between 9 a.m. and 5 p.m., Monday through Friday, except Federal holidays. The AD docket contains this AD, the regulatory evaluation, any comments received, and other information. The street address for Docket Operations is listed above. Comments will be available in the AD docket shortly after receipt."
+    },
+    {
+      "id": "e194",
+      "type": "heading",
+      "page": 4,
+      "text": "FOR FURTHER INFORMATION CONTACT:",
+      "level": 2
+    },
+    {
+      "id": "e195",
+      "type": "paragraph",
+      "page": 4,
+      "text": "Mike Kiesov, Aerospace Engineer, FAA, General Aviation & Rotorcraft Section, International Validation Branch, 901 Locust, Room 301, Kansas City, Missouri 64106; telephone: (816) 3294144; fax: (816) 329-4090; email: mike.kiesov@faa.gov."
+    },
+    {
+      "id": "e196",
+      "type": "heading",
+      "page": 4,
+      "text": "SUPPLEMENTARY INFORMATION:",
+      "level": 2
+    },
+    {
+      "id": "e197",
+      "type": "heading",
+      "page": 4,
+      "text": "Discussion",
+      "level": 2
+    },
+    {
+      "id": "e198",
+      "type": "paragraph",
+      "page": 4,
+      "text": "The Civil Aviation Authority (CAA), which is the aviation authority for New Zealand, has issued AD DCA/750XL/39, dated September 5, 2019 (referred to after this as ''the MCAI''), to correct an unsafe condition for Pacific Aerospace Limited Model 750XL airplanes. The MCAI states:"
+    },
+    {
+      "id": "e199",
+      "type": "paragraph",
+      "page": 4,
+      "text": "DCA/750XL/39 with effective date 5 September 2019 is prompted by the findings of an accident investigation. The report recommended that an effective lock mechanism should be introduced for the fuel condition lever in order to prevent inadvertent fuel shut-off to the engine during the operation of the flaps, as the fuel and flap control levers are closely located."
+    },
+    {
+      "id": "e200",
+      "type": "paragraph",
+      "page": 4,
+      "text": "VerDate Sep<11>2014 16:18 Aug 14, 2020 Jkt 250001 PO 00000 Frm 00007 Fmt 4700 Sfmt 4700 E:\\FR\\FM\\17AUR1.SGM 17AUR1"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+# Runs the checkpoint from its recorded model responses: no key, no cost.
+name: replay
+
+on: [push, pull_request]
+
+jobs:
+  replay:
+    runs-on: ubuntu-latest
+    services:
+      db:
+        image: paradedb/paradedb@sha256:c552094b6b68dcb0a4e7a3969963d801eaec02490db4d2dd032dcb096bc86cf8
+        env:
+          POSTGRES_USER: anfa
+          POSTGRES_PASSWORD: anfa
+          POSTGRES_DB: anfa
+        ports: ["54329:5432"]
+        options: >-
+          --health-cmd "pg_isready -h 127.0.0.1 -U anfa -d anfa" --health-interval 2s --health-timeout 3s --health-retries 30
+    env:
+      ANFA_MODE: replay
+      DATABASE_URL: postgresql://anfa:anfa@localhost:54329/anfa
+    steps:
+      - uses: actions/checkout@v4
+      - uses: astral-sh/setup-uv@v6
+      - run: uv sync
+      - run: uv run python -m anfa ingest
+      - run: uv run python -m anfa ask "What engine does the Cessna 172S have, and what is its rated power?"
+      - run: uv run python -m anfa ask "What must a maintenance record entry contain?"
+      - run: uv run python -m anfa ask "List all airworthiness directives that apply to the Cessna 172S."

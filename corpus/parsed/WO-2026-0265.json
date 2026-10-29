@@ -1,0 +1,108 @@
+{
+  "source_id": "WO-2026-0265",
+  "file": "anfa/work-orders/WO-2026-0265.pdf",
+  "format": "pdf",
+  "parser": "docling",
+  "meta": {
+    "publisher": "Anfa Aero Services",
+    "title": "Work order WO-2026-0265: CN-TFA, repair",
+    "doc_type": "work order",
+    "aircraft": "CN-TFA",
+    "date": "2026-07-14",
+    "access": "staff"
+  },
+  "elements": [
+    {
+      "id": "e1",
+      "type": "heading",
+      "page": 1,
+      "text": "Anfa Aero Services: work order WO-2026-0265",
+      "level": 2
+    },
+    {
+      "id": "e2",
+      "type": "table",
+      "header": [
+        "Field",
+        "Value"
+      ],
+      "rows": [
+        [
+          "Date completed",
+          "14 July 2026"
+        ],
+        [
+          "Registration",
+          "CN-TFA"
+        ],
+        [
+          "Aircraft",
+          "Cessna 172S"
+        ],
+        [
+          "Serial number",
+          "172S9488"
+        ],
+        [
+          "Airframe total time at completion (h)",
+          "9,830.9"
+        ],
+        [
+          "Station",
+          "Casablanca"
+        ]
+      ],
+      "page": 1
+    },
+    {
+      "id": "e3",
+      "type": "heading",
+      "page": 1,
+      "text": "Request",
+      "level": 2
+    },
+    {
+      "id": "e4",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Hard landing reported by the instructor."
+    },
+    {
+      "id": "e5",
+      "type": "heading",
+      "page": 1,
+      "text": "Work performed",
+      "level": 2
+    },
+    {
+      "id": "e6",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Hard landing inspection per maintenance manual: main gear legs, attach fittings, firewall, and nose gear checked."
+    },
+    {
+      "id": "e7",
+      "type": "paragraph",
+      "page": 1,
+      "text": "No damage found."
+    },
+    {
+      "id": "e8",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Certification: the work above was performed in accordance with 14 CFR Part 43 and the procedures manual. The aircraft is airworthy for the work performed."
+    },
+    {
+      "id": "e9",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Performed by: M. Chraibi"
+    },
+    {
+      "id": "e10",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Return to service: R. El Fassi, licence MA-B1-0618"
+    }
+  ]
+}

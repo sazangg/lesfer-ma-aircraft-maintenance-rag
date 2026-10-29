@@ -1,0 +1,1730 @@
+{
+  "source_id": "AC-43-9D",
+  "file": "faa/ac/ac-43-9d.pdf",
+  "format": "pdf",
+  "parser": "docling",
+  "meta": {
+    "title": "AC 43-9D, Maintenance Records",
+    "publisher": "FAA",
+    "doc_type": "advisory circular",
+    "status": "current",
+    "issued": "2025-09-22",
+    "access": "employees"
+  },
+  "elements": [
+    {
+      "id": "e1",
+      "type": "figure",
+      "page": 1,
+      "caption": "",
+      "image": "figures/AC-43-9D-fig1.png"
+    },
+    {
+      "id": "e2",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Federal Aviation Administration"
+    },
+    {
+      "id": "e3",
+      "type": "heading",
+      "page": 1,
+      "text": "Advisory Circular",
+      "level": 2
+    },
+    {
+      "id": "e4",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Subject: Maintenance Records and FAA Form 8130-3 Return to Service"
+    },
+    {
+      "id": "e5",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Date: 9/22/25"
+    },
+    {
+      "id": "e6",
+      "type": "paragraph",
+      "page": 1,
+      "text": "AC No: 43-9D"
+    },
+    {
+      "id": "e7",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Initiated by: AFS-300 Change:"
+    },
+    {
+      "id": "e8",
+      "type": "paragraph",
+      "page": 1,
+      "text": "1 PURPOSE OF THIS ADVISORY CIRCULAR (AC). This AC provides information relevant to the public for the maintenance recordkeeping and record-making requirements of Title 14 of the Code of Federal Regulations (14 CFR) parts 43 and 91. This AC provides one means, but not the only means, of ensuring that the contemplated maintenance, alterations, or continue-in-service condition is in compliance with applicable regulations and existing policy."
+    },
+    {
+      "id": "e9",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Note 1: The information in this AC, with the exception of that information related to Federal Aviation Administration (FAA) Form 8130-3, Authorized Release Certificate, Airworthiness Approval Tag, does not apply to air carrier maintenance programs under 14 CFR §§ 121.367 and 135.425."
+    },
+    {
+      "id": "e10",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Note 2: This is a guidance document. Its content is not legally binding in its own right and will not be relied upon by the Department as a separate basis for affirmative enforcement action or other administrative penalty. Conformity with the guidance document is voluntary only. Nonconformity will not affect rights and obligations under existing statutes and regulations."
+    },
+    {
+      "id": "e11",
+      "type": "paragraph",
+      "page": 1,
+      "text": "FAA Form 8130-3. The FAA has transferred the information regarding FAA Form 8130-3 from FAA Order 8130.21, Completion of FAA Form 8130-3 Under Part 21, into this AC. Furthermore, the FAA will incorporate the same information into FAA Order 8900.1, Flight Standards Information Management System, which is a comprehensive aviation safety inspector's (ASI) guide. The details moved to this AC and Order 8900.1 outline the instructions for FAA Form 8130-3 and the Airworthiness Approval Tag for approving return to service under 14 CFR part 43 of the regulations."
+    },
+    {
+      "id": "e12",
+      "type": "paragraph",
+      "page": 1,
+      "text": "2 AUDIENCE. The audience of this AC is persons authorized by 14 CFR § 43.7(b)-(e) to approve aircraft, airframes, aircraft engines, propellers, appliances, or component parts for return to service after maintenance, preventive maintenance, or alteration and FAA personnel tasked with the review and oversight of said entities."
+    },
+    {
+      "id": "e13",
+      "type": "paragraph",
+      "page": 1,
+      "text": "3 WHERE YOU CAN FIND THIS AC. You can find this AC on the FAA's website at https://www.faa.gov/regulations_policies/advisory_circulars and the Dynamic Regulatory System (DRS) at https://drs.faa.gov."
+    },
+    {
+      "id": "e14",
+      "type": "paragraph",
+      "page": 1,
+      "text": "4 WHAT THIS AC CANCELS. AC 43-9C, Maintenance Records, dated June 8, 1998, is canceled."
+    },
+    {
+      "id": "e15",
+      "type": "page_header",
+      "page": 2,
+      "text": "9/22/25"
+    },
+    {
+      "id": "e16",
+      "type": "page_header",
+      "page": 2,
+      "text": "AC 43-9D"
+    },
+    {
+      "id": "e17",
+      "type": "paragraph",
+      "page": 2,
+      "text": "5 RELATED REGULATIONS. Title 14 CFR parts 1, 43, 65, 91, and 145."
+    },
+    {
+      "id": "e18",
+      "type": "heading",
+      "page": 2,
+      "text": "6 RELATED GUIDANCE (current editions).",
+      "level": 2
+    },
+    {
+      "id": "e19",
+      "type": "paragraph",
+      "page": 2,
+      "text": "AC 43.9-1, Instructions for Completion of FAA Form 337."
+    },
+    {
+      "id": "e20",
+      "type": "paragraph",
+      "page": 2,
+      "text": "AC 43-12, Preventive Maintenance."
+    },
+    {
+      "id": "e21",
+      "type": "paragraph",
+      "page": 2,
+      "text": "AC 120-78, Electronic Signatures, Electronic Recordkeeping, and Electronic Manuals."
+    },
+    {
+      "id": "e22",
+      "type": "heading",
+      "page": 2,
+      "text": "7 DISCUSSION.",
+      "level": 2
+    },
+    {
+      "id": "e23",
+      "type": "paragraph",
+      "page": 2,
+      "text": "Terms and Conditions for Airworthiness. Title 14 CFR § 21.181 states that a U.S. Standard Airworthiness Certificate is effective until it is surrendered, suspended, revoked, or the Administrator otherwise establishes a termination date. In addition to those terms, a U.S. Standard Airworthiness Certificate is effective only as long as the maintenance, preventive maintenance, and alterations are performed in accordance with the applicable provisions of 14 CFR parts 21, 43, and 91 and the aircraft is currently registered in the United States. These terms and conditions are identified on the Standard Airworthiness Certificate. Qualified persons who perform the maintenance, preventive maintenance, and alterations shall make a record entry of this accomplishment (refer to 14 CFR § 43.9), thus maintaining the validity of the Certificate of Airworthiness. Adequate aircraft records provide tangible evidence that the aircraft complies with the appropriate airworthiness requirements. In accordance with the terms and conditions identified on the Airworthiness Certificate, insufficient or nonexistent aircraft records may render that Airworthiness Certificate invalid."
+    },
+    {
+      "id": "e24",
+      "type": "paragraph",
+      "page": 2,
+      "text": "Authorized Release Certificate (FAA Form 8130-3). Persons authorized to approve aircraft, airframes, aircraft engines, propellers, appliances, or component parts for return to service by 14 CFR § 43.7(b)-(e) may issue FAA Form 8130-3 for approval for return to service for those products (aircraft engines or propellers) and articles maintained or altered by them under 14 CFR part 43. When FAA Form 8130-3 is used for this purpose, the person or entity creating the form must ensure the form contains all the information required by 14 CFR § 43.9. This AC does not provide guidance for generating FAA Form 8130-3 for rebuilding or altering activities by Production Approval Holders (PAH) under 14 CFR § 43.3(j); owner-produced parts under 14 CFR § 21.9(a)(5); or parts fabricated under 14 CFR § 21.9(a)(6)."
+    },
+    {
+      "id": "e25",
+      "type": "paragraph",
+      "page": 2,
+      "text": "Note: For policy on the completion of FAA Form 8130-3 for aircraft engines, propellers, and articles produced under 14 CFR part 21, refer to Order 8130.21. For approvals for return to service issued by PAHs for inspections and alterations on aircraft engines, propellers, or articles manufactured by the PAH, refer to FAA Order 8120.18, Production Approval Holders (PAH) Who Rebuild or Alter Their Own Products or Articles Under 14 CFR 43.3(j), which includes instructions on how to complete the form for this purpose."
+    },
+    {
+      "id": "e26",
+      "type": "page_footer",
+      "page": 2,
+      "text": "2"
+    },
+    {
+      "id": "e27",
+      "type": "page_header",
+      "page": 3,
+      "text": "9/22/25"
+    },
+    {
+      "id": "e28",
+      "type": "page_header",
+      "page": 3,
+      "text": "AC 43-9D"
+    },
+    {
+      "id": "e29",
+      "type": "heading",
+      "page": 3,
+      "text": "8 MAINTENANCE RECORD REQUIREMENTS.",
+      "level": 2
+    },
+    {
+      "id": "e30",
+      "type": "paragraph",
+      "page": 3,
+      "text": "Responsibilities. Title 14 CFR § 91.417 states that an aircraft owner/operator shall keep and maintain aircraft maintenance records. However, 14 CFR § 43.9 states that each person who maintains, performs preventive maintenance, rebuilds, or alters an aircraft, airframe, aircraft engine, propeller, appliance, or component part shall make an entry in the maintenance record of that equipment. Title 14 CFR § 43.11 states that the person approving or disapproving for return to service an aircraft, airframe, aircraft engine, propeller, appliance, or component part after any inspection performed in accordance with 14 CFR part 91, part 125, § 135.411(a)(1), or § 135.419 shall make an entry in the maintenance record of that equipment. The persons authorized to perform maintenance can be found in 14 CFR §§ 43.3 and 43.7."
+    },
+    {
+      "id": "e31",
+      "type": "paragraph",
+      "page": 3,
+      "text": "Maintenance Records That Are to Be Retained. Title 14 CFR § 91.405 requires each owner or operator to ensure that maintenance personnel make appropriate entries in the maintenance records to indicate that the aircraft has been approved for return to service. Title 14 CFR § 91.417(a) sets forth the content requirements and retention requirements for maintenance records. Maintenance records may be kept in any format that provides record continuity, includes required contents, lends itself to the addition of new entries, provides for signature entry, and is intelligible. Title 14 CFR § 91.417(b) requires records of maintenance, alterations, and required or approved inspections to be retained until the work is repeated, superseded by other work, or for 1 year. It also requires the records specified in 14 CFR § 91.417(a)(2) to be retained and transferred with the aircraft at the time of sale."
+    },
+    {
+      "id": "e32",
+      "type": "paragraph",
+      "page": 3,
+      "text": "Note: Title 14 CFR § 91.417(a) contains an exception regarding work accomplished in accordance with 14 CFR §§ 91.411 and 91.413. This does not exclude the making of entries for this work, but applies to the retention period of the records for work done in accordance with those sections. The exclusion is necessary since the retention period of 1 year is inconsistent with the 24-month interval of altimeter and transponder system tests and inspections specified in 14 CFR §§ 91.411 and 91.413. Entries for work records done per 14 CFR § 43.9 will be retained for 24 months or until the work is repeated or superseded."
+    },
+    {
+      "id": "e33",
+      "type": "paragraph",
+      "page": 3,
+      "text": "Title 14 CFR § 91.417(a)(1). Requires a record of maintenance for each aircraft (including the airframe) and each engine, propeller, rotor, and appliance of an aircraft. This does not require separate or individual records for each of these items. It does require the information specified in 14 CFR § 91.417(a)(1) through (a)(2)(vi) to be kept for each item, as appropriate. As a practical matter, many owners and operators find it advantageous to keep separate or individual records since it facilitates the transfer of the record with the item when ownership changes."
+    },
+    {
+      "id": "e34",
+      "type": "paragraph",
+      "page": 3,
+      "text": "Title 14 CFR § 91.417(a)(1)(i). Is identical to 14 CFR § 43.9(a)(1) and requires the maintenance record entry to include \"a description of the work performed.\" The description should be in sufficient detail to permit a person unfamiliar with the work to understand what was done and the methods and procedures used in doing it. When the work is extensive, this results in a voluminous record. To provide for this contingency,"
+    },
+    {
+      "id": "e35",
+      "type": "page_footer",
+      "page": 3,
+      "text": "3"
+    },
+    {
+      "id": "e36",
+      "type": "page_header",
+      "page": 4,
+      "text": "9/22/25"
+    },
+    {
+      "id": "e37",
+      "type": "page_header",
+      "page": 4,
+      "text": "AC 43-9D"
+    },
+    {
+      "id": "e38",
+      "type": "paragraph",
+      "page": 4,
+      "text": "the rule permits reference to technical data acceptable to the Administrator in lieu of making the detailed entry. Manufacturer's manuals, Service Letters (SL), Service Bulletins (SB), work orders, FAA ACs, and others, which accurately describe what was done or how it was done, may be referenced. Except for the documents mentioned that are in common usage, referenced documents are to be made a part of the maintenance records and retained in accordance with 14 CFR § 91.417(b)."
+    },
+    {
+      "id": "e39",
+      "type": "paragraph",
+      "page": 4,
+      "text": "Note: Certificated repair stations (CRS) frequently work on components shipped to them without the maintenance records. To provide for this situation, repair stations should supply owners and operators with copies of work orders written for the work in lieu of maintenance record entries. The work order copy must include the information required by 14 CFR § 91.417(a)(1)(i)-(iii) to be made a part of the maintenance record and retained per 14 CFR § 91.417(b). This procedure is not the same as that for maintenance releases discussed in paragraph 19, and it may not be used when maintenance records are available. Title 14 CFR § 91.417(a)(1)(i) is identical to its counterpart, 14 CFR § 43.9(a)(1), which imposes the same requirements on maintenance personnel."
+    },
+    {
+      "id": "e40",
+      "type": "paragraph",
+      "page": 4,
+      "text": "Title 14 CFR § 91.417(a)(1)(ii). Is identical to 14 CFR § 43.9(a)(2) and requires entries to contain the date the work was completed. This is normally the date upon which the work is approved for return to service. However, when work is accomplished by one person and approved for return to service by another, the dates may differ. Two signatures may also appear under this circumstance; however, a single entry in accordance with 14 CFR § 43.9(a)(3) is acceptable."
+    },
+    {
+      "id": "e41",
+      "type": "paragraph",
+      "page": 4,
+      "text": "Title 14 CFR § 91.417(a)(1)(iii). Differs slightly from 14 CFR § 43.9(a)(4) in that it requires the entry to indicate only the signature and certificate number of the person approving the work for return to service. This does not require an indication of the type of certificate being exercised, as it does in 14 CFR § 43.9(a)(4). Maintenance personnel may indicate the type of certificate exercised by using airframe (A), powerplant (P), Airframe and Powerplant (A&P), Inspection Authorization (IA), or CRS."
+    },
+    {
+      "id": "e42",
+      "type": "paragraph",
+      "page": 4,
+      "text": "Title 14 CFR § 91.417(a)(2). Requires six items to be made a part of the maintenance record and maintained as such. Title 14 CFR § 43.9 does not require maintenance personnel to enter these items. Title 14 CFR § 43.11 requires some of them to be part of entries made for inspections, but it is ultimately the responsibility of the owner or operator to verify and validate all maintenance record entries. The six items are discussed as follows:"
+    },
+    {
+      "id": "e43",
+      "type": "paragraph",
+      "page": 4,
+      "text": "Title 14 CFR § 91.417(a)(2)(i). Requires a record of total time in service to be kept for the airframe, each engine, each propeller, and each rotor. Title 14 CFR § 1.1 defines time in service, with respect to maintenance time records, as that time from the moment an aircraft leaves the surface of the earth until it touches down at the next point of landing. Title 14 CFR § 43.9 does not require this to be part of the entries for maintenance, preventive maintenance, rebuilding, or alterations. However, 14 CFR § 43.11 requires maintenance personnel to make it a part of the entries for inspections made under 14 CFR parts 91 and 125 and §§ 135.411(a)(1) and 135.419."
+    },
+    {
+      "id": "e44",
+      "type": "page_footer",
+      "page": 4,
+      "text": "4"
+    },
+    {
+      "id": "e45",
+      "type": "page_header",
+      "page": 5,
+      "text": "9/22/25"
+    },
+    {
+      "id": "e46",
+      "type": "page_header",
+      "page": 5,
+      "text": "AC 43-9D"
+    },
+    {
+      "id": "e47",
+      "type": "paragraph",
+      "page": 5,
+      "text": "Some circumstances impact the owner's or operator's ability to comply with 14 CFR § 91.417(a)(2)(i). For example, in the case of rebuilt engines, the owner or operator would not have a way of knowing the total time in service, since 14 CFR § 91.421 permits the maintenance record to be discontinued and the engine time to be started at zero. In this case, the maintenance record and time in service subsequent to the rebuild comprise a satisfactory record."
+    },
+    {
+      "id": "e48",
+      "type": "paragraph",
+      "page": 5,
+      "text": "Many components presently in service were put into service before the requirements were established to keep maintenance records on them. Propellers are probably foremost in this group. In these instances, practicable procedures for compliance with the record requirements must be used. For example, total time in service may be derived using the methods described in paragraph 15; or if records prior to the regulatory requirements are just not available from any source, time in service may be kept since the last complete overhaul. Neither of these procedures is acceptable when life-limited parts status is involved or when Airworthiness Directive (AD) compliance is a factor. Only the actual record, since new, may be used in these instances."
+    },
+    {
+      "id": "e49",
+      "type": "paragraph",
+      "page": 5,
+      "text": "Sometimes engines are assembled from modules (turbojet and some turbopropeller engines), and a true total time in service for the total engine is not kept. If owners and operators wish to take advantage of this modular design, then total time in service and a maintenance record for each module will be maintained. The maintenance records specified in 14 CFR § 91.417(a)(2) will be kept with the module. Each registered owner or operator shall keep the records for the specified period in 14 CFR § 91.417(b)."
+    },
+    {
+      "id": "e50",
+      "type": "paragraph",
+      "page": 5,
+      "text": "Title 14 CFR § 91.417(a)(2)(ii). Requires the current status of life-limited parts to be part of the maintenance record. Suppose the total time in service of the airframe, engine, propeller, or each rotor is entered in the record when a life-limited part is installed, and the time in service of the life-limited part is included. In that case, the normal record of time in service automatically meets this requirement."
+    },
+    {
+      "id": "e51",
+      "type": "paragraph",
+      "page": 5,
+      "text": "Title 14 CFR § 91.417(a)(2)(iii). Requires the maintenance record to indicate the time since the last overhaul of all items installed on the aircraft that are required to be overhauled on a specified time basis. The explanation in paragraph 8.7.1 also applies to this requirement."
+    },
+    {
+      "id": "e52",
+      "type": "paragraph",
+      "page": 5,
+      "text": "Title 14 CFR § 91.417(a)(2)(iv). Deals with the current inspection status and requires it to be reflected in the maintenance record. Again, the explanation in paragraph 8.7.2 is appropriate even though 14 CFR § 43.11(a)(2) requires maintenance persons to determine the time in service of the item being inspected and to include it as part of the inspection entry."
+    },
+    {
+      "id": "e53",
+      "type": "paragraph",
+      "page": 5,
+      "text": "Title 14 CFR § 91.417(a)(2)(v). Requires the current status of applicable ADs to be a part of the maintenance record. The record is to include, at minimum, the method used to comply with the AD, the AD number, and the revision date; and if the AD has requirements for recurring action, the record must include the date when that next action"
+    },
+    {
+      "id": "e54",
+      "type": "page_footer",
+      "page": 5,
+      "text": "5"
+    },
+    {
+      "id": "e55",
+      "type": "page_header",
+      "page": 6,
+      "text": "9/22/25"
+    },
+    {
+      "id": "e56",
+      "type": "page_header",
+      "page": 6,
+      "text": "AC 43-9D"
+    },
+    {
+      "id": "e57",
+      "type": "paragraph",
+      "page": 6,
+      "text": "is required. When ADs are accomplished, maintenance persons are required to include the items specified in 14 CFR § 43.9(a)(1)-(4) in addition to those required by 14 CFR § 91.417(a)(2)(v). An example of a maintenance record format for AD compliance is contained in Appendix A, Airworthiness Directive Compliance Record (Suggested Format). Title 14 CFR § 43.15(a)(1) requires the inspection be performed so as to determine whether the aircraft, or portion(s) thereof under inspection, meets all applicable airworthiness requirements."
+    },
+    {
+      "id": "e58",
+      "type": "paragraph",
+      "page": 6,
+      "text": "Title 14 CFR § 91.417(a)(2)(vi). In the past, the owner or operator has been permitted to maintain a list of current major alterations to the airframe, engine(s), propeller(s), rotor(s), or appliances. This procedure did not produce a record of value to the owner or operator or to maintenance persons in determining the continued airworthiness of the alteration since such a record was not sufficient detail. This section of the rule has since been changed. It now prescribes that copies of FAA Form 337, Major Repair and Alteration (Airframe, Powerplant, Propeller, or Appliance), issued for the alteration, be made a part of the maintenance record."
+    },
+    {
+      "id": "e59",
+      "type": "heading",
+      "page": 6,
+      "text": "9 PREVENTIVE MAINTENANCE.",
+      "level": 2
+    },
+    {
+      "id": "e60",
+      "type": "paragraph",
+      "page": 6,
+      "text": "Preventive Maintenance. Preventive maintenance is defined in 14 CFR § 1.1. Title 14 CFR part 43 appendix A, paragraph (c) lists those items that a pilot may accomplish under 14 CFR § 43.3(g), (h), or (i). Title 14 CFR § 43.7 authorizes appropriately rated repair stations and mechanics and persons holding at least a Private Pilot Certificate to approve an aircraft for return to service after performing preventive maintenance. All of these persons must record preventive maintenance accomplished in accordance with the requirements of 14 CFR § 43.9. AC 43-12 contains further information on this subject."
+    },
+    {
+      "id": "e61",
+      "type": "paragraph",
+      "page": 6,
+      "text": "Certificate Type. The type of certificate exercised when maintenance or preventive maintenance is accomplished must be indicated in the maintenance record as required by 14 CFR § 43.9(a)(1)-(4). Pilots may use \"PP,\" \"CP,\" or \"ATP\" to indicate a Private, Commercial, or Airline Transport Pilot Certificate, respectively, in approving preventive maintenance for return to service. Pilots are not authorized by 14 CFR § 43.3(g) to perform preventive maintenance on aircraft when operated under 14 CFR part 121, 129, or 135. Pilots may only approve return to service preventive maintenance that they themselves have accomplished in accordance with applicable regulations."
+    },
+    {
+      "id": "e62",
+      "type": "heading",
+      "page": 6,
+      "text": "10 REBUILT ENGINE MAINTENANCE RECORDS.",
+      "level": 2
+    },
+    {
+      "id": "e63",
+      "type": "paragraph",
+      "page": 6,
+      "text": "Title 14 CFR § 91.421. Provides that zero time may be granted to an engine that has been rebuilt by a manufacturer or an agency approved by the manufacturer. When this is done, the owner/operator may use a new maintenance record without regard to previous operating history."
+    },
+    {
+      "id": "e64",
+      "type": "paragraph",
+      "page": 6,
+      "text": "Rebuilt Engines. The manufacturer or an agency approved by the manufacturer that rebuilds and grants zero time to an engine is required by 14 CFR § 91.421 to provide a signed statement containing:"
+    },
+    {
+      "id": "e65",
+      "type": "page_footer",
+      "page": 6,
+      "text": "6"
+    },
+    {
+      "id": "e66",
+      "type": "page_header",
+      "page": 7,
+      "text": "9/22/25"
+    },
+    {
+      "id": "e67",
+      "type": "page_header",
+      "page": 7,
+      "text": "AC 43-9D"
+    },
+    {
+      "id": "e68",
+      "type": "paragraph",
+      "page": 7,
+      "text": "The date the engine was rebuilt;"
+    },
+    {
+      "id": "e69",
+      "type": "paragraph",
+      "page": 7,
+      "text": "Each change made, as required by an AD; and"
+    },
+    {
+      "id": "e70",
+      "type": "paragraph",
+      "page": 7,
+      "text": "Each change made in compliance with SBs when the SB specifically requests an entry to be made."
+    },
+    {
+      "id": "e71",
+      "type": "paragraph",
+      "page": 7,
+      "text": "Rebuilt Requirements. Title 14 CFR § 43.2(b) prohibits using the term \"rebuilt\" in describing work accomplished in required maintenance records or forms unless the component worked on has had specific work functions accomplished. These functions are listed in 14 CFR § 43.2(b) and, except for testing requirements, are the same as those set forth in 14 CFR § 91.421(c). When terms such as \"remanufactured,\" \"reconditioned,\" or other terms coined by various aviation enterprises are used in maintenance records, owners and operators cannot assume that the functions outlined in 14 CFR § 43.2(b) have been done."
+    },
+    {
+      "id": "e72",
+      "type": "heading",
+      "page": 7,
+      "text": "11 RECORDING TACHOMETERS.",
+      "level": 2
+    },
+    {
+      "id": "e73",
+      "type": "paragraph",
+      "page": 7,
+      "text": "Recording Time in Service. Time-in-service recording devices sense things like electrical power on, oil pressure, wheels on the ground, etc., and from these conditions provide an indication of time in service. With the exception of those that sense aircraft lift-off and touchdown, the indications are approximate."
+    },
+    {
+      "id": "e74",
+      "type": "paragraph",
+      "page": 7,
+      "text": "Time-Measuring Devices. Some owners and operators mistakenly believe these devices may be used in lieu of keeping time in service in the maintenance record. While they are very helpful in arriving at the time in service, such instruments alone do not meet the requirements of 14 CFR § 91.417. For example, when the device fails and requires change, it is necessary to enter the time in service and the instrument reading at the change. Otherwise, record continuity is lost."
+    },
+    {
+      "id": "e75",
+      "type": "paragraph",
+      "page": 7,
+      "text": "12 MAINTENANCE RECORDS FOR AD COMPLIANCE. This subject is covered in AC 39-7, Airworthiness Directives. A separate AD record may be kept for the airframe and each engine, propeller, rotor, and appliance, but it is not required. This would facilitate record searches when inspection is needed, and when an engine, propeller, rotor, or appliance is removed, the record may be transferred with it. Such records may also be used as a schedule for recurring inspections. The format shown in Appendix A is suggested, and adherence is not mandatory. Owners should know that they may be responsible for noncompliance with ADs when their aircraft are leased to foreign operators. Therefore, they should ensure that leases are drafted to deal with this subject."
+    },
+    {
+      "id": "e76",
+      "type": "heading",
+      "page": 7,
+      "text": "13 MAINTENANCE RECORDS FOR REQUIRED INSPECTIONS.",
+      "level": 2
+    },
+    {
+      "id": "e77",
+      "type": "paragraph",
+      "page": 7,
+      "text": "Inspection Records. Title 14 CFR § 43.11 contains the requirements for inspection entries. While these requirements are imposed on maintenance personnel, owners and operators should become familiar with them to meet their responsibilities under 14 CFR § 91.405."
+    },
+    {
+      "id": "e78",
+      "type": "paragraph",
+      "page": 7,
+      "text": "Records Requirements. The maintenance record requirements of 14 CFR § 43.11 apply to the 100-hour, annual, and progressive inspections under 14 CFR part 91; inspection"
+    },
+    {
+      "id": "e79",
+      "type": "page_footer",
+      "page": 7,
+      "text": "7"
+    },
+    {
+      "id": "e80",
+      "type": "page_header",
+      "page": 8,
+      "text": "9/22/25"
+    },
+    {
+      "id": "e81",
+      "type": "page_header",
+      "page": 8,
+      "text": "AC 43-9D"
+    },
+    {
+      "id": "e82",
+      "type": "paragraph",
+      "page": 8,
+      "text": "programs under 14 CFR parts 91 and 125; approved airplane inspection programs under 14 CFR part 135; and the 100-hour and annual inspections under 14 CFR § 135.411(a)(1)."
+    },
+    {
+      "id": "e83",
+      "type": "paragraph",
+      "page": 8,
+      "text": "Records Details. Appropriately rated mechanics are authorized to conduct these inspections and make the required entries. Particular attention should be given to 14 CFR § 43.11(a)(7) because it requires a more specific statement than required under 14 CFR § 43.9. The entry, in addition to other items, must identify the inspection program used, identify the portion or segment of the inspection program accomplished, and contain a statement that the inspection was performed in accordance with the instructions and procedures for that program."
+    },
+    {
+      "id": "e84",
+      "type": "paragraph",
+      "page": 8,
+      "text": "Single or Multiple Record Entries. Questions continue regarding multiple entries for 100-hour/annual inspections. As discussed in paragraph 8.3, neither 14 CFR part 43 nor part 91 requires keeping separate records. Title 14 CFR § 43.11, however, requires persons approving or disapproving equipment for return to service after any required inspection to make an entry in the record of that equipment. Therefore, an inspection for a 100-hour or annual record entry may be entered in the airframe record as the aircraft is being inspected or may be entered in each individual record for the airframe, engine, and propeller as each is being inspected."
+    },
+    {
+      "id": "e85",
+      "type": "heading",
+      "page": 8,
+      "text": "14 DISCREPANCY LISTS.",
+      "level": 2
+    },
+    {
+      "id": "e86",
+      "type": "paragraph",
+      "page": 8,
+      "text": "Recording Discrepancies and Defects. Before October 15, 1982, issuance of discrepancy lists (or lists of defects) to owners or operators was appropriate only in connection with annual inspections under 14 CFR part 91, inspection programs under 14 CFR part 125, and inspections under 14 CFR § 135.411(a)(1). Title 14 CFR §§ 43.11(b) and 91.417(b)(3) require that a discrepancy list be prepared by a person performing any inspection required by 14 CFR part 91, 125, or § 135.411(a)(1) and furnished to the owner or operator."
+    },
+    {
+      "id": "e87",
+      "type": "paragraph",
+      "page": 8,
+      "text": "Discrepancy List. When a discrepancy list is provided to an owner or lessee, it states in effect, except for these discrepancies, the item inspected is airworthy. It is therefore imperative that inspections be complete and that all discrepancies appear in the list. When circumstances dictate that an inspection be terminated before completion, the maintenance record should clearly indicate that the inspection was discontinued. The entry should meet all the other requirements of 14 CFR § 43.11."
+    },
+    {
+      "id": "e88",
+      "type": "paragraph",
+      "page": 8,
+      "text": "Reporting. Copies of discrepancy lists no longer need to be forwarded to the responsible Flight Standards District Office (FSDO)."
+    },
+    {
+      "id": "e89",
+      "type": "paragraph",
+      "page": 8,
+      "text": "Discrepancy Records. Discrepancy lists (or lists of defects) are part of the maintenance record, and the owner/operator is responsible for maintaining that record in accordance with 14 CFR § 91.417(b)(3). When a list is issued, maintenance personnel's entry in the maintenance record should reference the discrepancy list."
+    },
+    {
+      "id": "e90",
+      "type": "paragraph",
+      "page": 8,
+      "text": "15 LOST OR DESTROYED RECORDS. Occasionally, the records for an aircraft are lost or destroyed. To reconstruct them, it is necessary to establish the total time in service of"
+    },
+    {
+      "id": "e91",
+      "type": "page_footer",
+      "page": 8,
+      "text": "8"
+    },
+    {
+      "id": "e92",
+      "type": "page_header",
+      "page": 9,
+      "text": "9/22/25"
+    },
+    {
+      "id": "e93",
+      "type": "page_header",
+      "page": 9,
+      "text": "AC 43-9D"
+    },
+    {
+      "id": "e94",
+      "type": "paragraph",
+      "page": 9,
+      "text": "the airframe. This can be done by referencing other records that reflect the time in service, researching records maintained by repair facilities, and referencing records maintained by individual mechanics, etc. When these things have been done and the record is still incomplete, the owner/operator may make a notarized statement in the new record describing the loss and establishing the time in service based on the research and the best estimate of time in service."
+    },
+    {
+      "id": "e95",
+      "type": "paragraph",
+      "page": 9,
+      "text": "Recordkeeping Status. The current status of applicable ADs may present a more formidable problem. This may require a detailed inspection by maintenance personnel to establish that the applicable ADs have been complied with. It can readily be seen that this could entail considerable time and expense and, in some instances, might require the AD to be performed again to establish compliance."
+    },
+    {
+      "id": "e96",
+      "type": "paragraph",
+      "page": 9,
+      "text": "Additional Records. Other items required by 14 CFR § 91.417(a)(2), such as the current status of life-limited parts, time since the last overhaul, current inspection status, and current list of major alterations, may present complex problems. Some items may be easier to reestablish than others, but all are problems. Losing maintenance records can be troublesome, costly, and time consuming. Safekeeping of the records is an integral part of a good recordkeeping system."
+    },
+    {
+      "id": "e97",
+      "type": "paragraph",
+      "page": 9,
+      "text": "16 COMPUTERIZED RECORDS. There is a growing trend toward computerized maintenance records. Many of these systems are offered to owners/operators on a commercial basis. While these are excellent scheduling systems, they usually do not meet the requirements of 14 CFR § 43.9 or § 91.417. The owner/operator who uses such a system must ensure that it provides the information required by 14 CFR § 91.417, including signatures. If not, modification to make them complete is the owner/operator's responsibility, and that responsibility may not be delegated. Refer to AC 120-78 for additional guidance."
+    },
+    {
+      "id": "e98",
+      "type": "paragraph",
+      "page": 9,
+      "text": "Note: An operator may utilize a commercially available application and service to fully scan records required by 14 CFR § 43.9 or § 91.417 into a digital format. These digitized records can then be safely uploaded into various applications, making them secure and searchable."
+    },
+    {
+      "id": "e99",
+      "type": "paragraph",
+      "page": 9,
+      "text": "17 PUBLIC AIRCRAFT. Prospective purchasers of aircraft that have been used as public aircraft should be aware that public aircraft may not be subject to the certification and maintenance requirements in 14 CFR and may not have records that meet the requirements of 14 CFR § 91.417. Considerable research may be involved in establishing the required records when these aircraft are purchased and brought into civil aviation. The aircraft may not be certificated or used without such records."
+    },
+    {
+      "id": "e100",
+      "type": "heading",
+      "page": 9,
+      "text": "18 LIFE-LIMITED PARTS.",
+      "level": 2
+    },
+    {
+      "id": "e101",
+      "type": "paragraph",
+      "page": 9,
+      "text": "Airworthiness Limitation Items (ALI). Present-day aircraft and powerplants commonly have life-limited parts installed. These life limits may be referred to as retirement times, service life limitations, parts retirement limitations, retirement life limits, life limitations, or other such terminology and may be expressed in hours, cycles of operation, or calendar"
+    },
+    {
+      "id": "e102",
+      "type": "page_footer",
+      "page": 9,
+      "text": "9"
+    },
+    {
+      "id": "e103",
+      "type": "page_header",
+      "page": 10,
+      "text": "9/22/25"
+    },
+    {
+      "id": "e104",
+      "type": "page_header",
+      "page": 10,
+      "text": "AC 43-9D"
+    },
+    {
+      "id": "e105",
+      "type": "paragraph",
+      "page": 10,
+      "text": "time. They are set forth in Type Certificate Data Sheets (TCDS), ADs, maintenance manuals, or the limitations section of the FAA-approved Airplane Flight Manual (AFM) or Rotorcraft Flight Manual (RFM). Additionally, instructions for continued airworthiness (ICA), which require life limits to be specified, may apply (refer to 14 CFR part 23 appendix A and part 27 appendix A)."
+    },
+    {
+      "id": "e106",
+      "type": "paragraph",
+      "page": 10,
+      "text": "Title 14 CFR § 91.417(a)(2)(ii). Requires the owner or operator of an aircraft with such parts installed to have records containing the current status of these parts. Many owners/operators have found it advantageous to have a separate record for such parts showing the name of the part, part number, serial number, date of installation, total time in service, date removed, and signature and certificate number of the person installing or removing the part. A separate record, as described, facilitates transferring the record with the part in the event that the part is removed and later reinstalled or installed on another aircraft or engine. If a separate record is not kept, the aircraft record must contain sufficient information to clearly establish the status of the life-limited parts installed."
+    },
+    {
+      "id": "e107",
+      "type": "heading",
+      "page": 10,
+      "text": "19 MAINTENANCE RELEASE.",
+      "level": 2
+    },
+    {
+      "id": "e108",
+      "type": "paragraph",
+      "page": 10,
+      "text": "Recordkeeping Status. In addition to the information previously discussed, 14 CFR § 43.9 requires that major repairs and alterations be recorded as indicated in 14 CFR part 43 appendix B (i.e., on FAA Form 337). An exception is provided in paragraph (b) of that appendix, which allows repair stations certificated under 14 CFR part 145 to use a maintenance release in lieu of the form for major repairs (and only major repairs)."
+    },
+    {
+      "id": "e109",
+      "type": "paragraph",
+      "page": 10,
+      "text": "Repair Station Maintenance Release Record. The maintenance release must meet the requirements specified in paragraphs (b)(1)-(4) of 14 CFR part 43 appendix B, be made a part of the aircraft maintenance record, and be retained by the owner or operator as specified in 14 CFR § 91.417. The maintenance release is usually a special document (normally a tag) attached to the product when it is approved for return to service. The maintenance release may, however, be on a copy of the work order written for the product. When this is done (for major repairs only), the entry on the work order must meet paragraphs (b)(1)-(4) of 14 CFR part 43 appendix B. That is to say that the repair station is required to give the owner: (1) the customer's work order upon which the repair is recorded, (2) a signed copy of the work order, (3) a maintenance release that an authorized representative of the repair station has signed, and (4) a return-to-service statement. In some cases, a work order and a maintenance release may be different documents or recorded in an aircraft record when the part is consumed in the repair of an aircraft. Record copies must be supplied to the customer."
+    },
+    {
+      "id": "e110",
+      "type": "paragraph",
+      "page": 10,
+      "text": "Repair Stations. Some repair stations use what they call a maintenance release for other than major repairs. This is sometimes a tag and sometimes information on a work order. When this is done, all of the requirements of 14 CFR § 43.9 must be met, and the document is to be made and retained as part of the maintenance records under 14 CFR § 91.417 per discussion in paragraph 8.4."
+    },
+    {
+      "id": "e111",
+      "type": "page_footer",
+      "page": 10,
+      "text": "10"
+    },
+    {
+      "id": "e112",
+      "type": "page_header",
+      "page": 11,
+      "text": "9/22/25"
+    },
+    {
+      "id": "e113",
+      "type": "page_header",
+      "page": 11,
+      "text": "AC 43-9D"
+    },
+    {
+      "id": "e114",
+      "type": "heading",
+      "page": 11,
+      "text": "20 FAA FORM 337.",
+      "level": 2
+    },
+    {
+      "id": "e115",
+      "type": "paragraph",
+      "page": 11,
+      "text": "Major Repairs and Alterations. Major repairs and alterations are to be recorded on FAA Form 337. This form is executed by the person making the repair or alteration. Provisions are made on the form for a person other than that person performing the work to approve the repair or alteration for return to service (refer to 14 CFR part 43 appendix B, paragraphs (a)(1)-(3))."
+    },
+    {
+      "id": "e116",
+      "type": "paragraph",
+      "page": 11,
+      "text": "Recordkeeping. These forms are now required to be included in the maintenance record of the product repaired or altered and retained in accordance with 14 CFR § 91.417."
+    },
+    {
+      "id": "e117",
+      "type": "paragraph",
+      "page": 11,
+      "text": "Instructions. Detailed instructions for use of this form are contained in AC 43.9-1."
+    },
+    {
+      "id": "e118",
+      "type": "paragraph",
+      "page": 11,
+      "text": "Responsibility for FAA Form 337 Records. Some manufacturers have initiated a policy of indicating on their SLs, SBs, and other documents dealing with changes to their aircraft whether or not the changes constitute major repairs or alterations. Some manufacturers also indicate that the responsibility for completing FAA Form 337 lies with the person accomplishing the repairs or alterations and cannot be delegated. When there is a question, it is advisable to contact the responsible FSDO for guidance."
+    },
+    {
+      "id": "e119",
+      "type": "paragraph",
+      "page": 11,
+      "text": "21 TESTS AND INSPECTIONS FOR ALTIMETER SYSTEMS, ALTITUDE REPORTING EQUIPMENT, AND AIR TRAFFIC CONTROL (ATC)"
+    },
+    {
+      "id": "e120",
+      "type": "paragraph",
+      "page": 11,
+      "text": "TRANSPONDERS. The recordation requirements for these tests and inspections are the same as for other maintenance (refer to 14 CFR § 91.417). There are essentially three tests and inspections required by 14 CFR §§ 91.411 and 91.413 (the altimeter system, the transponder system, and the data correspondence test), each of which may be subdivided relative to who may perform specific portions of the test. The basic authorization for performing these tests and inspections is found in 14 CFR § 43.3 and is supplemented by 14 CFR §§ 91.411 and 91.413. When multiple persons are involved in the performance of tests and inspections, care must be exercised to ensure proper authorization under these three sections and compliance with 14 CFR § 43.9 (and § 43.9(a)(3), in particular)."
+    },
+    {
+      "id": "e121",
+      "type": "paragraph",
+      "page": 11,
+      "text": "22 BEFORE YOU BUY. This is the proper time to closely examine the maintenance records of any used aircraft you expect to purchase. A well-kept set of maintenance records that correctly identifies all previously performed maintenance, alterations, and AD compliance is generally a good indicator of the current condition of the aircraft. This is not always the case, but in any event, before you buy, request that the owner produce the maintenance records for your examination, and require correction of any discrepancies found on the aircraft or in the records. Many prospective owners have found it advantageous to have a reliable, unbiased maintenance person examine the maintenance records and the aircraft before negotiations have progressed too far. If the aircraft is purchased, take the time to review and learn the previous owner's system to ensure compliance and continuity when you modify or continue that system."
+    },
+    {
+      "id": "e122",
+      "type": "page_footer",
+      "page": 11,
+      "text": "11"
+    },
+    {
+      "id": "e123",
+      "type": "page_header",
+      "page": 12,
+      "text": "9/22/25"
+    },
+    {
+      "id": "e124",
+      "type": "page_header",
+      "page": 12,
+      "text": "AC 43-9D"
+    },
+    {
+      "id": "e125",
+      "type": "heading",
+      "page": 12,
+      "text": "23 OVERVIEW OF FAA FORM 8130-3.",
+      "level": 2
+    },
+    {
+      "id": "e126",
+      "type": "heading",
+      "page": 12,
+      "text": "23.1 Purposes for Which FAA Form 8130-3 Cannot Be Used.",
+      "level": 2
+    },
+    {
+      "id": "e127",
+      "type": "paragraph",
+      "page": 12,
+      "text": "FAA Form 8130-3 return to service is not a delivery or shipping document."
+    },
+    {
+      "id": "e128",
+      "type": "paragraph",
+      "page": 12,
+      "text": "FAA Form 8130-3 may not be used by organizations or individuals other than those approved/authorized by the FAA."
+    },
+    {
+      "id": "e129",
+      "type": "paragraph",
+      "page": 12,
+      "text": "FAA Form 8130-3 return to service cannot be used for articles that do not have design approvals."
+    },
+    {
+      "id": "e130",
+      "type": "paragraph",
+      "page": 12,
+      "text": "FAA Form 8130-3 is not to be used for aircraft return to service."
+    },
+    {
+      "id": "e131",
+      "type": "heading",
+      "page": 12,
+      "text": "23.2 Use of FAA Form 8130-3.",
+      "level": 2
+    },
+    {
+      "id": "e132",
+      "type": "paragraph",
+      "page": 12,
+      "text": "FAA Form 8130-3 return to service does not constitute approval to install a product or article on a particular aircraft, aircraft engine, or propeller."
+    },
+    {
+      "id": "e133",
+      "type": "paragraph",
+      "page": 12,
+      "text": "Blocks 14a through 14e on FAA Form 8130-3 indicate approval for return to service (along with the information contained in blocks 1 through 12)."
+    },
+    {
+      "id": "e134",
+      "type": "paragraph",
+      "page": 12,
+      "text": "FAA Form 8130-3 is recommended; however, the form content when used as a maintenance record is regulated by 14 CFR §§ 43.9(a) and 91.417(a) and the content must be provided as outlined in the instructions in Appendix B, Block-by-Block Instructions for Completing FAA Form 8130-3 for an Approval for Return to Service. Providing this content will help meet the cited maintenance record regulatory requirements."
+    },
+    {
+      "id": "e135",
+      "type": "paragraph",
+      "page": 12,
+      "text": "FAA Form 8130-3 should be correlated with the shipment. Additional copies of FAA Form 8130-3 may be provided upon request; all copies from an issuer must be clearly identified as copies. The forms should not be delivered before the product or article is shipped."
+    },
+    {
+      "id": "e136",
+      "type": "paragraph",
+      "page": 12,
+      "text": "FAA Form 8130-3 can be used as the primary identification of an article when completed in accordance with this AC, particularly when the part number or other identifying data is no longer legible on the part itself. It is possible for part numbers to be removed or otherwise obscured for a variety of reasons, primarily for part numbers that are applied in a nonpermanent manner (e.g., ink stamp or paper label). This can also apply to critical aircraft parts that should be marked permanently and legibly by the manufacturer but have lost their identifying marks for some reason. However, if it is known that during maintenance the part markings will be intentionally removed to facilitate maintenance or are found to be obscured, then steps should be taken to ensure the original information is captured or preserved. The part number and any other applicable and relevant part markings (e.g., the serial number, total time and cycles, heat code, etc.) should be identified on maintenance documents before performing the work. Following the maintenance, the article can then be re-marked with all relevant identification"
+    },
+    {
+      "id": "e137",
+      "type": "page_footer",
+      "page": 12,
+      "text": "12"
+    },
+    {
+      "id": "e138",
+      "type": "page_header",
+      "page": 13,
+      "text": "9/22/25"
+    },
+    {
+      "id": "e139",
+      "type": "page_header",
+      "page": 13,
+      "text": "AC 43-9D"
+    },
+    {
+      "id": "e140",
+      "type": "paragraph",
+      "page": 13,
+      "text": "information, per acceptable practices, prior to issuance of FAA Form 8130-3 for approval for return to service."
+    },
+    {
+      "id": "e141",
+      "type": "paragraph",
+      "page": 13,
+      "text": "Unique identification aids in product or article traceability. The preferred method is a unique form tracking number in block 3. However, if traceability is provided through other information on the form combined with a number in block 3, this is also acceptable."
+    },
+    {
+      "id": "e142",
+      "type": "paragraph",
+      "page": 13,
+      "text": "When using the form as a maintenance release and approval for return to service, the same requirements of any other maintenance release must be followed. The person or company whose signature and certificate number appear on the form states that the work was accomplished in accordance with 14 CFR part 43 and is taking responsibility for ensuring that it was accomplished correctly. When FAA Form 8130-3 is issued for approval for return to service in accordance with this AC, the FAA Form 8130-3 that accompanies each shipment, product, or article must comply with the recordkeeping requirements of 14 CFR parts 43 and 145, as applicable. Certificate holders (CH) of 14 CFR parts 65 subpart D, 121, and 135 may issue FAA Form 8130-3."
+    },
+    {
+      "id": "e143",
+      "type": "paragraph",
+      "page": 13,
+      "text": "The \"User/Installer Responsibilities\" statements may be placed on either side of the form. If the statements are placed on the back side of the form, a note in block 12 should indicate this."
+    },
+    {
+      "id": "e144",
+      "type": "paragraph",
+      "page": 13,
+      "text": "The originator of the FAA Form 8130-3 may reissue the form by written request to fix administrative errors. The request for a corrected form may be accomplished without reverification of the condition of the product or article. The reissued form is not a statement of current condition and must refer to the form being corrected. Include this reference in block 12 using a statement similar to: \"This FAA Form 8130-3 corrects the error(s) in block(s) [enter block number(s) corrected] of FAA Form 8130-3 [enter form tracking number] dated [enter issuance date] and does not cover conformity/condition/release to service.\" In block 14e, put the date the corrected form was issued. Both forms must be retained according to the retention period in 14 CFR § 91.417(a). In cases where the originator is no longer available (e.g., deceased, employment terminated, or otherwise unavailable), the reissuance depends on availability of the CH identified on the original form. If the originator signed under the authority of, and is using the certificate number of, an approved organization (e.g., a repair station or air carrier), then a person authorized by that company with access to the originator's copy may reissue the form."
+    },
+    {
+      "id": "e145",
+      "type": "paragraph",
+      "page": 13,
+      "text": "If a copy of FAA Form 8130-3 is requested due to a lost or damaged form, a correlation must be established between FAA Form 8130-3 and the applicable product(s) or article(s). The originator should retain a copy of each FAA Form 8130-3 issued to allow verification of the original data. There is no restriction on the number of copies of FAA Form 8130-3 that may be sent to the customer or retained by the originator. If there is information on both sides of the form, the copy must also include both sides."
+    },
+    {
+      "id": "e146",
+      "type": "page_footer",
+      "page": 13,
+      "text": "13"
+    },
+    {
+      "id": "e147",
+      "type": "page_header",
+      "page": 14,
+      "text": "9/22/25"
+    },
+    {
+      "id": "e148",
+      "type": "page_header",
+      "page": 14,
+      "text": "AC 43-9D"
+    },
+    {
+      "id": "e149",
+      "type": "heading",
+      "page": 14,
+      "text": "23.3 Information Systems and Automation.",
+      "level": 2
+    },
+    {
+      "id": "e150",
+      "type": "paragraph",
+      "page": 14,
+      "text": "23.3.1 Conceptually, forms are used to do one or more of the following: present information in a standard manner, collect data, and collect signatures attesting to the accuracy of the data. With technological advances, data collection can be generated electronically in various ways and then stored that way. In the same way, the collection of signatures attesting to the collected data's accuracy has also evolved. However, when the data is presented (e.g., when it is printed), it should still be in a standard manner that facilitates recognition and acceptance. This is typically accomplished by combining the data with the form image when it is generated. In keeping with technological advances, repair stations and air carriers may develop or use systems that generate an electronic version of the form in accordance with their Operations Specification (OpSpec) A025, Electronic Signatures, Electronic Recordkeeping Systems, and Electronic Manual Systems. AC 120-78 provides guidance that may be useful in developing such a system. Additional considerations are:"
+    },
+    {
+      "id": "e151",
+      "type": "paragraph",
+      "page": 14,
+      "text": "Through these systems, the signature of the person authorized to issue FAA Form 8130-3 may be applied electronically to block 14b."
+    },
+    {
+      "id": "e152",
+      "type": "paragraph",
+      "page": 14,
+      "text": "The form data may be printed, along with the form image, and retained in paper format, or it may be held in a secure database, provided the database contains all the information required on FAA Form 8130-3 and is available for FAA review upon request. If the data is retained in a database, it does not need to be a graphic image of the document(s) (including signatures)."
+    },
+    {
+      "id": "e153",
+      "type": "paragraph",
+      "page": 14,
+      "text": "FAA Form 8130-3 or form data must be retained by the owner, operator, or CRS, as applicable, consistent with the CH's policy and procedures for retention of maintenance records under 14 CFR §§ 91.417(b) and 145.219(c)."
+    },
+    {
+      "id": "e154",
+      "type": "paragraph",
+      "page": 14,
+      "text": "When a new or corrected FAA Form 8130-3 is issued as described by this AC, the system must retain the original form data and the new form data. The system should not overwrite or destroy the original record."
+    },
+    {
+      "id": "e155",
+      "type": "paragraph",
+      "page": 14,
+      "text": "When printing an electronically produced version of the form, the form must duplicate the general format of the original government-printed form with the following considerations:"
+    },
+    {
+      "id": "e156",
+      "type": "paragraph",
+      "page": 14,
+      "text": "The overall design of the form must not be changed, and no words may be added or deleted (with the exception of filling in the blanks)."
+    },
+    {
+      "id": "e157",
+      "type": "paragraph",
+      "page": 14,
+      "text": "The form may be reduced in overall size to reduce paper consumption, but not to the extent that it is no longer easily readable and readily recognizable."
+    },
+    {
+      "id": "e158",
+      "type": "paragraph",
+      "page": 14,
+      "text": "The size of blocks, in relationship to each other, may vary slightly, but all blocks must remain in their original location."
+    },
+    {
+      "id": "e159",
+      "type": "paragraph",
+      "page": 14,
+      "text": "White is the preferred color for the paper; however, if another color is used, the information contained on the form must be legible."
+    },
+    {
+      "id": "e160",
+      "type": "paragraph",
+      "page": 14,
+      "text": "All entries on the form must be made in permanent ink and be in English."
+    },
+    {
+      "id": "e161",
+      "type": "page_footer",
+      "page": 14,
+      "text": "14"
+    },
+    {
+      "id": "e162",
+      "type": "page_header",
+      "page": 15,
+      "text": "9/22/25"
+    },
+    {
+      "id": "e163",
+      "type": "page_header",
+      "page": 15,
+      "text": "AC 43-9D"
+    },
+    {
+      "id": "e164",
+      "type": "heading",
+      "page": 15,
+      "text": "23.4 Approval for Return to Service After Maintenance, Preventive Maintenance, and Alteration.",
+      "level": 2
+    },
+    {
+      "id": "e165",
+      "type": "paragraph",
+      "page": 15,
+      "text": "Only those persons authorized by 14 CFR § 43.7(b)-(e) may issue FAA Form 8130-3 for approval for return to service of products and articles that have undergone maintenance, preventive maintenance, or alteration. In addition, the applicable recordkeeping requirements of 14 CFR § 43.9, § 43.11, § 91.417, § 91.421, § 121.380, § 135.439, or § 145.219 must be met."
+    },
+    {
+      "id": "e166",
+      "type": "paragraph",
+      "page": 15,
+      "text": "Note: Persons authorized under 14 CFR § 43.7(b) using FAA Form 8130-3 for returning to service an aircraft engine, propeller, or appliance must provide the owner or operator, in accordance with 14 CFR § 91.417(b)(1), a traceable FAA Form 8130-3 to the certificate number of that person. The person making the return to service should retain a copy, and the owner or operator must retain the FAA Form 8130-3 until that work is superseded or 1 year after the work is performed."
+    },
+    {
+      "id": "e167",
+      "type": "paragraph",
+      "page": 15,
+      "text": "When an article is received that is marked with dual or multiple part numbers, the article should be processed in the following manner:"
+    },
+    {
+      "id": "e168",
+      "type": "paragraph",
+      "page": 15,
+      "text": "Articles from air carriers that are dispositioned for maintenance are required to be maintained and inspected in accordance with the part number(s) and instructions presented on the work request. If the customer is an air carrier or foreign air carrier with N-registered aircraft, follow the air carrier/operator's maintenance program ICA (refer to 14 CFR §§ 121.367, 129.9(a)(6), and 135.425)."
+    },
+    {
+      "id": "e169",
+      "type": "paragraph",
+      "page": 15,
+      "text": "All related records pertaining to the maintenance performed should reflect the same part number for the maintenance of a particular article as referenced in the customer's request. Typically, the part number on the customer's work request should match the part number on the return to service. If the article is marked with a single Production Certificate (PC), Parts Manufacturer Approval (PMA), or Technical Standard Order Authorization (TSOA) number, the return to service created should reference that number. If the article is marked with more than one PAH number (e.g., PC-6CE), request guidance from the customer to determine which part number to use to support the customer's work request."
+    },
+    {
+      "id": "e170",
+      "type": "paragraph",
+      "page": 15,
+      "text": "Note: Part markings applied under 14 CFR part 45 may only be modified as defined in FAA-approved or acceptable data (e.g., maintenance manuals, ADs, manufacturer drawings, technical data, and SBs)."
+    },
+    {
+      "id": "e171",
+      "type": "paragraph",
+      "page": 15,
+      "text": "Block 12 of FAA Form 8130-3 (or an attachment) must clearly document the process used to determine airworthiness, such as references to manufacturer maintenance manuals, other ICA, or other FAA-approved or acceptable technical data. If attachments are used, they should include the form tracking number of the corresponding FAA"
+    },
+    {
+      "id": "e172",
+      "type": "page_footer",
+      "page": 15,
+      "text": "15"
+    },
+    {
+      "id": "e173",
+      "type": "page_header",
+      "page": 16,
+      "text": "9/22/25"
+    },
+    {
+      "id": "e174",
+      "type": "page_header",
+      "page": 16,
+      "text": "AC 43-9D"
+    },
+    {
+      "id": "e175",
+      "type": "paragraph",
+      "page": 16,
+      "text": "Form 8130-3. When attachments are used, the number of attachments must be stated in block 5."
+    },
+    {
+      "id": "e176",
+      "type": "heading",
+      "page": 16,
+      "text": "23.5 Issuance of FAA Form 8130-3 for Used Products and Articles Removed from a U.S.-Certificated Aircraft for Installation on Another U.S.-Certificated Aircraft.",
+      "level": 2
+    },
+    {
+      "id": "e177",
+      "type": "paragraph",
+      "page": 16,
+      "text": "FAA Form 8130-3 may be issued for approval for return to service of those products and articles removed from a U.S.-certificated aircraft (under an Operating Certificate in accordance with 14 CFR § 121.367 or § 135.425) for use on other aircraft operated under the same Air Carrier Certificate. The removal and installation of products and articles must be accomplished in accordance with the air carrier's FAA-accepted maintenance program and OpSpecs. The use of FAA Form 8130-3 for this purpose is optional."
+    },
+    {
+      "id": "e178",
+      "type": "paragraph",
+      "page": 16,
+      "text": "Those products and articles removed from a U.S.-certificated aircraft other than those referenced in paragraphs 23.5.1 and 23.5.3 must have an airworthiness determination made in accordance with 14 CFR §§ 41.3 and 43.13(a)-(c) by persons authorized in 14 CFR § 43.7(b)-(e). This also includes compliance with the applicable ADs, alterations status, and total time/cycles for those products and articles as required by 14 CFR §§ 91.417, 121.380, and 135.439. The use of FAA Form 8130-3 for this purpose is optional."
+    },
+    {
+      "id": "e179",
+      "type": "paragraph",
+      "page": 16,
+      "text": "Title 14 CFR part 129 operators may issue an FAA Form 8130-3 approval for return to service for those products and articles removed from a U.S.-certificated aircraft operated in accordance with 14 CFR §§ 129.9(a)(6) and 129.14 and for use on another aircraft operated under the same operating authorization. Removal, installation, and an airworthiness determination must be made by persons authorized under 14 CFR §§ 43.3 and 43.7 and in accordance with 14 CFR §§ 43.1 and 43.13 for the foreign air carrier's FAA-approved maintenance program or other methods, techniques, and practices acceptable to the Administrator. This also includes compliance with the applicable ADs, alterations status, and total time/cycles for those products and articles as required by 14 CFR § 91.417. The use of FAA Form 8130-3 for this purpose is optional, but the FAA recommends its use."
+    },
+    {
+      "id": "e180",
+      "type": "heading",
+      "page": 16,
+      "text": "23.6 Information Relevant to the European Union (EU).",
+      "level": 2
+    },
+    {
+      "id": "e181",
+      "type": "paragraph",
+      "page": 16,
+      "text": "Aviation authorities in the EU may recognize FAA Form 8130-3 for approval for return to service only from 14 CFR part 145 repair stations or air carriers that also hold a European Union Aviation Safety Agency (EASA) Part-145 approval and that were rated for the product or article at the time the product or article was approved for return to service. When FAA Form 8130-3 is used as approval for return to service to meet the terms and conditions of the Maintenance Annex Guidance (MAG) under the Bilateral Aviation Safety Agreement (BASA), this is considered to be a \"dual release\" FAA Form 8130-3. The MAG can be viewed at https://www.faa.gov/aircraft/air_cert/internatio nal/bilateral_agreements/baa_basa_listing."
+    },
+    {
+      "id": "e182",
+      "type": "paragraph",
+      "page": 16,
+      "text": "A product or article approved for return to service with a dual release on FAA Form 8130-3 is eligible for installation on a U.S.- or EU-registered aircraft. For a dual"
+    },
+    {
+      "id": "e183",
+      "type": "page_footer",
+      "page": 16,
+      "text": "16"
+    },
+    {
+      "id": "e184",
+      "type": "page_header",
+      "page": 17,
+      "text": "9/22/25"
+    },
+    {
+      "id": "e185",
+      "type": "page_header",
+      "page": 17,
+      "text": "AC 43-9D"
+    },
+    {
+      "id": "e186",
+      "type": "paragraph",
+      "page": 17,
+      "text": "release, check both boxes in block 14a stating \"14 CFR 43.9 Return to Service\" and \"Other regulation specified in Block 12\" and include the following statement in block 12: \"Certifies that the work specified in block 11/12 was carried out in accordance with EASA Part-145 and, in respect to that work, the component is considered ready for release to service under EASA Part-145 Approval Number [EASA 145-XXX].\" The FAA approval/certification number must be entered in block 14c. Only facilities that are both FAA- and EASA-approved and located in the United States or an EU Member State can issue a dual release certificate, as published in the U.S.-EU Safety Agreement, Annex 2, Maintenance, and the MAG; others must issue both an FAA Form 8130-3 and an EASA Form 1, Authorised Release Certificate, individually."
+    },
+    {
+      "id": "e187",
+      "type": "paragraph",
+      "page": 17,
+      "text": "The MAG also provides guidance for using FAA Form 8130-3 (and EASA Form 1) without a dual release for special cases. Refer to the MAG Section B, Appendix 1, Guidance for the EASA Supplement, for the United States, and the MAG Section C, Appendix 1, Guidance for the FAA Supplement, for the EU."
+    },
+    {
+      "id": "e188",
+      "type": "paragraph",
+      "page": 17,
+      "text": "When FAA Form 8130-3 is used as an approval for return to service to meet the terms and conditions of a BASA, users should refer to the specific agreements and requirements for completion instructions."
+    },
+    {
+      "id": "e189",
+      "type": "paragraph",
+      "page": 17,
+      "text": "24 AC FEEDBACK FORM. For your convenience, the AC Feedback Form is the last page of this AC. Note any deficiencies found, clarifications needed, or suggested improvements regarding the contents of this AC on the Feedback Form."
+    },
+    {
+      "id": "e190",
+      "type": "figure",
+      "page": 17,
+      "caption": "Robert Reckert for Lawrence Fields Executive Director, Flight Standards Service",
+      "image": "figures/AC-43-9D-fig2.png"
+    },
+    {
+      "id": "e191",
+      "type": "page_footer",
+      "page": 17,
+      "text": "17"
+    },
+    {
+      "id": "e192",
+      "type": "page_header",
+      "page": 18,
+      "text": "9/22/25 AC 43-9D Appendix A"
+    },
+    {
+      "id": "e193",
+      "type": "heading",
+      "page": 18,
+      "text": "APPENDIX A. AIRWORTHINESS DIRECTIVE COMPLIANCE RECORD (SUGGESTED FORMAT)",
+      "level": 2
+    },
+    {
+      "id": "e194",
+      "type": "table",
+      "header": [
+        "AD Number and Amendment Number",
+        "Date Received",
+        "Subject",
+        "Compliance Due Date Hours/Other",
+        "Date of Compliance",
+        "Airframe Total Time in Service at Compliance",
+        "Method Used to Comply with the AD",
+        "One Time or Recurring",
+        "Next Compliance Due Date Hours/Other",
+        "Authorized Signature, Certificate, Type, and Number",
+        "Remarks"
+      ],
+      "rows": [],
+      "page": 18
+    },
+    {
+      "id": "e195",
+      "type": "paragraph",
+      "page": 18,
+      "text": "Aircraft, Engine, Propeller, Rotor, or Appliance: Make Model S.N."
+    },
+    {
+      "id": "e196",
+      "type": "page_footer",
+      "page": 18,
+      "text": "A-1"
+    },
+    {
+      "id": "e197",
+      "type": "page_header",
+      "page": 19,
+      "text": "9/22/25"
+    },
+    {
+      "id": "e198",
+      "type": "page_header",
+      "page": 19,
+      "text": "AC 43-9D Appendix B"
+    },
+    {
+      "id": "e199",
+      "type": "heading",
+      "page": 19,
+      "text": "APPENDIX B. BLOCK-BY-BLOCK INSTRUCTIONS FOR COMPLETING FAA FORM 8130-3 FOR AN APPROVAL FOR RETURN TO SERVICE",
+      "level": 2
+    },
+    {
+      "id": "e200",
+      "type": "paragraph",
+      "page": 19,
+      "text": "B.1 Block 1, Approving Civil Aviation Authority/Country. FAA/United States. (Preprinted.)"
+    },
+    {
+      "id": "e201",
+      "type": "paragraph",
+      "page": 19,
+      "text": "B.2 Block 2, Authorized Release Certificate, FAA Form 8130-3, Airworthiness Approval Tag. (Preprinted.)"
+    },
+    {
+      "id": "e202",
+      "type": "paragraph",
+      "page": 19,
+      "text": "B.3 Block 3, Form Tracking Number. Enter the unique number established by the numbering system (see paragraph 23.2.6)."
+    },
+    {
+      "id": "e203",
+      "type": "paragraph",
+      "page": 19,
+      "text": "B.4 Block 4, Organization Name and Address. Enter the full name and physical address (no post office box numbers) of the individual, organization, or facility that is issuing the form. A logo, certificate number, or other identification of the issuer is permitted if it can be contained within the block."
+    },
+    {
+      "id": "e204",
+      "type": "paragraph",
+      "page": 19,
+      "text": "B.5 Block 5, Work Order/Contract/Invoice Number. Fill in the work order number, contract number, and/or invoice number related to the shipment list or maintenance release authorization number. Also state the number of pages attached to the form, including dates, if applicable. If the shipment list contains the information required in blocks 6 through 11, the respective blocks may be left blank if a list is attached to the form. In this case, the following statement should be entered in block 12: \"This is the certification statement for the articles listed on the attached document dated [date], containing pages [X] through [X].\" In addition, the shipping list should cross-reference the form tracking number located in block 3. If a work order/contract/invoice number is not available, enter \"N/A.\""
+    },
+    {
+      "id": "e205",
+      "type": "paragraph",
+      "page": 19,
+      "text": "B.6 Block 6, Item. Enter \"N/A\" for FAA Form 8130-3 return to service."
+    },
+    {
+      "id": "e206",
+      "type": "paragraph",
+      "page": 19,
+      "text": "B.7 Block 7, Description. Enter the name or description of the product or article. Preference should be given to the term used in the instructions for continued airworthiness (ICA) or maintenance data (e.g., Illustrated Parts Catalogue (IPC), Aircraft Maintenance Manual (AMM), or Service Bulletin (SB))."
+    },
+    {
+      "id": "e207",
+      "type": "paragraph",
+      "page": 19,
+      "text": "B.8 Block 8, Part Number. Enter the part number of the product or article. In the case of an aircraft engine or propeller, the model designation may be used. If the article being worked on is a subassembly that does not have a part number of its own, enter the next higher assembly number followed by the word \"subassembly.\""
+    },
+    {
+      "id": "e208",
+      "type": "paragraph",
+      "page": 19,
+      "text": "B.9 Block 9, Quantity. Enter \"1\" for the quantity. More than one is prohibited by 14 CFR § 43.9(a)."
+    },
+    {
+      "id": "e209",
+      "type": "paragraph",
+      "page": 19,
+      "text": "Note: Title 14 CFR § 43.9(a) maintenance record entries can only be made for that equipment. Therefore, it does not permit multiple articles to be returned to service with a single entry."
+    },
+    {
+      "id": "e210",
+      "type": "page_footer",
+      "page": 19,
+      "text": "B-1"
+    },
+    {
+      "id": "e211",
+      "type": "page_header",
+      "page": 20,
+      "text": "9/22/25"
+    },
+    {
+      "id": "e212",
+      "type": "page_header",
+      "page": 20,
+      "text": "AC 43-9D Appendix B"
+    },
+    {
+      "id": "e213",
+      "type": "paragraph",
+      "page": 20,
+      "text": "B.10 Block 10, Serial Number. If 14 CFR part 45 requires a serial number to identify the product or article, enter it here. Additionally, any other serial number not required by regulation also may be entered. If no serial number is entered in this block, enter \"N/A.\""
+    },
+    {
+      "id": "e214",
+      "type": "paragraph",
+      "page": 20,
+      "text": "B.11 Block 11, Status/Work. The following table describes what to enter in a specific situation. The term entered in block 11 should reflect the kind of work performed by the organization. The use of uppercase or lowercase in this block does not matter."
+    },
+    {
+      "id": "e215",
+      "type": "paragraph",
+      "page": 20,
+      "text": "B.12 Block 12, Remarks. The use of uppercase or lowercase in this block does not matter."
+    },
+    {
+      "id": "e216",
+      "type": "paragraph",
+      "page": 20,
+      "text": "B.12.1 In block 12, describe the work performed that is identified in block 11, and the associated results necessary for the user or installer to determine the airworthiness of the product or article in relation to the work being certified. This can be done either directly or by reference to supporting documentation. If additional attachments are part of the FAA Form 8130-3 return to service, such as FAA Form 337, Major Repair and Alteration (Airframe, Powerplant, Propeller, or Appliance), or other pertinent documentation, annotate \"See attachment(s) [insert here]\". Attachment(s) must have traceability to the FAA Form 8130-3."
+    },
+    {
+      "id": "e217",
+      "type": "paragraph",
+      "page": 20,
+      "text": "B.12.2 Below are examples of conditions that could necessitate a statement in this block. These statements may or may not be appropriate depending on the form's purpose."
+    },
+    {
+      "id": "e218",
+      "type": "table",
+      "header": [
+        "Enter:",
+        "For:"
+      ],
+      "rows": [
+        [
+          "\"OVERHAULED\"",
+          "A process that ensures the product or article is in complete conformity with the applicable service tolerances specified in the type certificate (TC) holder's or equipment manufacturer's ICA, or in the data approved or accepted by the responsible authority. The product or article will be at least disassembled, cleaned, inspected, repaired as necessary, reassembled, and tested in accordance with the approved standards and technical data or current standards and technical data acceptable to the Administrator, which have been developed and documented by the holder of a TC, Supplemental Type Certificate (STC), or a material, part, process, or appliance approval under 14 CFR part 21 (refer to 14 CFR §§ 21.50, 43.2, and 91.421)."
+        ],
+        [
+          "\"REPAIRED\"",
+          "Repair of the defect(s) using an applicable standard."
+        ],
+        [
+          "\"INSPECTED\" and/or \"TESTED\"",
+          "Examination or measurement in accordance with an applicable standard (e.g., visual inspection, functional testing, or bench testing)."
+        ],
+        [
+          "\"MODIFIED\"",
+          "Alteration of a product or article to conform to an applicable standard."
+        ]
+      ],
+      "page": 20
+    },
+    {
+      "id": "e219",
+      "type": "paragraph",
+      "page": 20,
+      "text": "Table B-1. FAA Form 8130-3 for Approval for Return to Service Block 11 Terms"
+    },
+    {
+      "id": "e220",
+      "type": "paragraph",
+      "page": 20,
+      "text": "Note: The applicable standard must be described in block 12."
+    },
+    {
+      "id": "e221",
+      "type": "page_footer",
+      "page": 20,
+      "text": "B-2"
+    },
+    {
+      "id": "e222",
+      "type": "page_header",
+      "page": 21,
+      "text": "9/22/25"
+    },
+    {
+      "id": "e223",
+      "type": "page_header",
+      "page": 21,
+      "text": "AC 43-9D Appendix B"
+    },
+    {
+      "id": "e224",
+      "type": "paragraph",
+      "page": 21,
+      "text": "Data required by 14 CFR § 43.9, including a description (or reference to data acceptable to the Administrator) of work performed. This should also include the revision level or status of the data used. If the certificate holder (CH) uses other documents such as work orders, shop travelers, or FAA Form 337 to comply with 14 CFR §§ 43.9 and 43.11, they must be specifically referenced in this block."
+    },
+    {
+      "id": "e225",
+      "type": "paragraph",
+      "page": 21,
+      "text": "Compliance with Airworthiness Directives (AD) or SBs."
+    },
+    {
+      "id": "e226",
+      "type": "paragraph",
+      "page": 21,
+      "text": "Repairs carried out."
+    },
+    {
+      "id": "e227",
+      "type": "paragraph",
+      "page": 21,
+      "text": "Modifications carried out."
+    },
+    {
+      "id": "e228",
+      "type": "paragraph",
+      "page": 21,
+      "text": "Replacement articles installed."
+    },
+    {
+      "id": "e229",
+      "type": "paragraph",
+      "page": 21,
+      "text": "Life-limited parts status (total time, total cycles, etc.)."
+    },
+    {
+      "id": "e230",
+      "type": "paragraph",
+      "page": 21,
+      "text": "If a specific batch or lot number is used to control or trace the product or article, enter the batch or lot number in this block."
+    },
+    {
+      "id": "e231",
+      "type": "paragraph",
+      "page": 21,
+      "text": "Any Parts Manufacturer Approval (PMA) parts used (some European Union Aviation Safety Agency (EASA)-based air carriers do not accept PMA parts and documenting the use of them on FAA Form 8130-3 notifies the end user prior to installation)."
+    },
+    {
+      "id": "e232",
+      "type": "paragraph",
+      "page": 21,
+      "text": "Deviations from the customer work order."
+    },
+    {
+      "id": "e233",
+      "type": "paragraph",
+      "page": 21,
+      "text": "Information needed to support shipments with shortages or reassembly after delivery."
+    },
+    {
+      "id": "e234",
+      "type": "paragraph",
+      "page": 21,
+      "text": "Release statements to satisfy a Civil Airworthiness Authority (CAA) maintenance requirement."
+    },
+    {
+      "id": "e235",
+      "type": "paragraph",
+      "page": 21,
+      "text": "Attachments, when used. Attachments should include form tracking numbers of the corresponding FAA Form 8130-3."
+    },
+    {
+      "id": "e236",
+      "type": "paragraph",
+      "page": 21,
+      "text": "Note: Item 11 refers to a dual release against both 14 CFR part 43 and a CAA maintenance requirement or the single release by a 14 CFR part 145 approved maintenance facility against a CAA maintenance requirement. However, care should be taken to check the relevant boxes in block 14a to validate the release. A dual release requires both the FAA and the appropriate CAA to approve/accept the approved data."
+    },
+    {
+      "id": "e237",
+      "type": "paragraph",
+      "page": 21,
+      "text": "B.12.3 A 14 CFR part 145 certificated repair station (CRS) that also holds an EASA Part-145 certification and performs maintenance, preventive maintenance, and/or alterations to EASA member-registered aircraft may use the Form 8130-3 EASA dual release for articles removed for maintenance or inspection and then reinstalled on the same aircraft, or for parts consumed in the performance of maintenance and inspections of those Member State aircraft and for articles that enter the EASA system. FAA Form 8130-3 cannot be used for an aircraft return to service record. The final dual release should be issued with the following statements in the specified blocks:"
+    },
+    {
+      "id": "e238",
+      "type": "paragraph",
+      "page": 21,
+      "text": "In block 14a, check only the box stating, \"Other regulation specified in Block 12.\" Do not check the box that states compliance with 14 CFR § 43.9."
+    },
+    {
+      "id": "e239",
+      "type": "paragraph",
+      "page": 21,
+      "text": "In block 12, insert text similar to: \"Certifies that the work specified in block 11/12 was carried out in accordance with EASA Part-145 and, in respect to that work, the"
+    },
+    {
+      "id": "e240",
+      "type": "page_footer",
+      "page": 21,
+      "text": "B-3"
+    },
+    {
+      "id": "e241",
+      "type": "page_header",
+      "page": 22,
+      "text": "9/22/25"
+    },
+    {
+      "id": "e242",
+      "type": "page_header",
+      "page": 22,
+      "text": "AC 43-9D Appendix B"
+    },
+    {
+      "id": "e243",
+      "type": "paragraph",
+      "page": 22,
+      "text": "[product/article] is considered ready for release to service under EASA Part-145 Approval Number [insert number: EASA 145-XXX].\""
+    },
+    {
+      "id": "e244",
+      "type": "paragraph",
+      "page": 22,
+      "text": "Note: Blocks 14b, 14c, 14d, and 14e will require completion by the FAA CRS per the Bilateral Aviation Safety Agreement (BASA) (\"dual release\"); however, the release applies only to its EASA Part-145 certification."
+    },
+    {
+      "id": "e245",
+      "type": "paragraph",
+      "page": 22,
+      "text": "When FAA Form 8130-3 is used as an approval for return to service to meet the terms and conditions of a BASA, users should refer to the specific agreement's requirements for completion instructions. FAA Form 8130-3 is restricted to a dual release only (i.e., one FAA and one BASA)."
+    },
+    {
+      "id": "e246",
+      "type": "paragraph",
+      "page": 22,
+      "text": "B.13 Blocks 13a through 13e. Shade, darken, or otherwise mark to preclude inadvertent or unauthorized use."
+    },
+    {
+      "id": "e247",
+      "type": "paragraph",
+      "page": 22,
+      "text": "B.14 Block 14a, Approval for Return to Service. Mark the appropriate boxes indicating which regulations apply to the completed work. If the box \"Other regulation specified in Block 12\" is marked, then the regulations of the other CAA must be identified in block 12. At least the left box \"14 CFR 43.9 Return to Service\" must be marked, or both boxes may be marked, as appropriate."
+    },
+    {
+      "id": "e248",
+      "type": "paragraph",
+      "page": 22,
+      "text": "Note: In block 14a, the subclause \"unless otherwise specified in Block 12\" is intended to provide a means to document where any work performed deviated from the requirements of 14 CFR part 43. If all the required maintenance was not carried out, list the specifics in block 12 and/or attachments. This can include documenting work performed on products and articles that did not come off of N-registered aircraft, such as public use and military aircraft. If that is the case, then block 14a should not be checked if the work does not conform to the requirements of 14 CFR part 43."
+    },
+    {
+      "id": "e249",
+      "type": "paragraph",
+      "page": 22,
+      "text": "B.14.1 For work done in accordance with foreign authorities, the \"Other regulation specified in Block 12\" box must be checked. The regulations of the other CAA must be specifically identified in block 12. In addition, the data used to complete the work must be clearly stated in block 12 or attached to the form with the attachment identified in block 12. If the work has been done in accordance with both the regulations of the FAA and another CAA, both boxes in block 14a must be checked (see paragraph 23.6.2 for dual release instructions). Any attachments should include the form tracking number of the corresponding FAA Form 8130-3."
+    },
+    {
+      "id": "e250",
+      "type": "paragraph",
+      "page": 22,
+      "text": "B.15 Block 14b, Authorized Signature. This space will be completed with the signature of the authorized person. Only persons specifically authorized are permitted to sign this block. The approval signature must be applied at the time and place of issuance and manually applied, except as provided in paragraph 23.2.7."
+    },
+    {
+      "id": "e251",
+      "type": "paragraph",
+      "page": 22,
+      "text": "B.16 Block 14c, Approval/Certificate No. Enter the certificate number of the 14 CFR § 43.7 entity."
+    },
+    {
+      "id": "e252",
+      "type": "page_footer",
+      "page": 22,
+      "text": "B-4"
+    },
+    {
+      "id": "e253",
+      "type": "page_header",
+      "page": 23,
+      "text": "9/22/25"
+    },
+    {
+      "id": "e254",
+      "type": "page_header",
+      "page": 23,
+      "text": "AC 43-9D Appendix B"
+    },
+    {
+      "id": "e255",
+      "type": "paragraph",
+      "page": 23,
+      "text": "B.17 Block 14d, Name (Typed or Printed). Enter the typed or printed name of the authorized representative whose signature appears in block 14b."
+    },
+    {
+      "id": "e256",
+      "type": "paragraph",
+      "page": 23,
+      "text": "B.18 Block 14e, Date (dd/mmm/yyyy). The date to be entered in block 14e for approval for return to service is the date on which the original work was completed (refer to 14 CFR § 43.9). The date should be in the following format: two-digit day, first three letters of the month, and four-digit year (e.g., 03 Feb 2008). This does not need to be the same as the printing or shipping date, which may occur later. The use or omission of slashes, hyphens, or spaces in the date does not matter."
+    },
+    {
+      "id": "e257",
+      "type": "page_footer",
+      "page": 23,
+      "text": "B-5"
+    },
+    {
+      "id": "e258",
+      "type": "heading",
+      "page": 24,
+      "text": "Advisory Circular Feedback Form",
+      "level": 2
+    },
+    {
+      "id": "e259",
+      "type": "paragraph",
+      "page": 24,
+      "text": "If you find an error in this AC, have recommendations for improving it, or have suggestions for new items/subjects to be added, you may let us know by contacting the Flight Standards Directives Management Officer at 9-AWA-AFB-120-Directives@faa.gov."
+    },
+    {
+      "id": "e260",
+      "type": "paragraph",
+      "page": 24,
+      "text": "Subject: AC 43-9D, Maintenance Records and FAA Form 8130-3 Return to Service"
+    },
+    {
+      "id": "e261",
+      "type": "paragraph",
+      "page": 24,
+      "text": "Date: _____________________"
+    },
+    {
+      "id": "e262",
+      "type": "paragraph",
+      "page": 24,
+      "text": "Please check all appropriate line items:"
+    },
+    {
+      "id": "e263",
+      "type": "paragraph",
+      "page": 24,
+      "text": "An error (procedural or typographical) has been noted in paragraph ____________ on page _______."
+    },
+    {
+      "id": "e264",
+      "type": "paragraph",
+      "page": 24,
+      "text": "Recommend paragraph _____________ on page __________ be changed as follows:"
+    },
+    {
+      "id": "e265",
+      "type": "paragraph",
+      "page": 24,
+      "text": "______________________________________________________________________"
+    },
+    {
+      "id": "e266",
+      "type": "paragraph",
+      "page": 24,
+      "text": "______________________________________________________________________"
+    },
+    {
+      "id": "e267",
+      "type": "paragraph",
+      "page": 24,
+      "text": "In a future change to this AC, please cover the following subject:"
+    },
+    {
+      "id": "e268",
+      "type": "paragraph",
+      "page": 24,
+      "text": "(Briefly describe what you want added.)"
+    },
+    {
+      "id": "e269",
+      "type": "paragraph",
+      "page": 24,
+      "text": "______________________________________________________________________"
+    },
+    {
+      "id": "e270",
+      "type": "paragraph",
+      "page": 24,
+      "text": "______________________________________________________________________"
+    },
+    {
+      "id": "e271",
+      "type": "paragraph",
+      "page": 24,
+      "text": "Other comments:"
+    },
+    {
+      "id": "e272",
+      "type": "paragraph",
+      "page": 24,
+      "text": "______________________________________________________________________"
+    },
+    {
+      "id": "e273",
+      "type": "paragraph",
+      "page": 24,
+      "text": "______________________________________________________________________"
+    },
+    {
+      "id": "e274",
+      "type": "paragraph",
+      "page": 24,
+      "text": "I would like to discuss the above. Please contact me."
+    },
+    {
+      "id": "e275",
+      "type": "paragraph",
+      "page": 24,
+      "text": "Submitted by:"
+    },
+    {
+      "id": "e276",
+      "type": "paragraph",
+      "page": 24,
+      "text": "Date: ______________________"
+    }
+  ]
+}

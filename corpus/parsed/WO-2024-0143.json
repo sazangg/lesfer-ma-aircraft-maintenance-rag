@@ -1,0 +1,158 @@
+{
+  "source_id": "WO-2024-0143",
+  "file": "anfa/work-orders/WO-2024-0143.pdf",
+  "format": "pdf",
+  "parser": "docling",
+  "meta": {
+    "publisher": "Anfa Aero Services",
+    "title": "Work order WO-2024-0143: CN-TFA, 100-hour inspection",
+    "doc_type": "work order",
+    "aircraft": "CN-TFA",
+    "date": "2024-03-31",
+    "access": "staff"
+  },
+  "elements": [
+    {
+      "id": "e1",
+      "type": "heading",
+      "page": 1,
+      "text": "Anfa Aero Services: work order WO-2024-0143",
+      "level": 2
+    },
+    {
+      "id": "e2",
+      "type": "table",
+      "header": [
+        "Field",
+        "Value"
+      ],
+      "rows": [
+        [
+          "Date completed",
+          "31 March 2024"
+        ],
+        [
+          "Registration",
+          "CN-TFA"
+        ],
+        [
+          "Aircraft",
+          "Cessna 172S"
+        ],
+        [
+          "Serial number",
+          "172S9488"
+        ],
+        [
+          "Airframe total time at completion (h)",
+          "7,347.1"
+        ],
+        [
+          "Station",
+          "Casablanca"
+        ]
+      ],
+      "page": 1
+    },
+    {
+      "id": "e3",
+      "type": "heading",
+      "page": 1,
+      "text": "Request",
+      "level": 2
+    },
+    {
+      "id": "e4",
+      "type": "paragraph",
+      "page": 1,
+      "text": "100-hour inspection."
+    },
+    {
+      "id": "e5",
+      "type": "heading",
+      "page": 1,
+      "text": "Work performed",
+      "level": 2
+    },
+    {
+      "id": "e6",
+      "type": "paragraph",
+      "page": 1,
+      "text": "100-hour inspection per 14 CFR 91.409(b), using the Cessna 172 inspection checklist."
+    },
+    {
+      "id": "e7",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Changed engine oil and filter. Compression check, cylinders 1 to 4: 71/80, 71/80, 70/80, 72/80."
+    },
+    {
+      "id": "e8",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Discrepancy: Right main tire worn to the wear limit. Corrective action: Replaced right main tire."
+    },
+    {
+      "id": "e9",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Discrepancy: Nose strut extension low. Corrective action: Serviced nose strut with hydraulic fluid and air."
+    },
+    {
+      "id": "e10",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Aircraft found airworthy after correction of the discrepancies listed."
+    },
+    {
+      "id": "e11",
+      "type": "heading",
+      "page": 1,
+      "text": "Parts used",
+      "level": 2
+    },
+    {
+      "id": "e12",
+      "type": "table",
+      "header": [
+        "Part number",
+        "Description",
+        "Quantity",
+        "Serial number"
+      ],
+      "rows": [
+        [
+          "CH48110-1",
+          "Oil filter",
+          "1",
+          ""
+        ],
+        [
+          "6.00-6-6PLY",
+          "Main wheel tire",
+          "1",
+          ""
+        ]
+      ],
+      "page": 1
+    },
+    {
+      "id": "e13",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Certification: the work above was performed in accordance with 14 CFR Part 43 and the procedures manual. The aircraft is airworthy for the work performed."
+    },
+    {
+      "id": "e14",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Performed by: M. Chraibi"
+    },
+    {
+      "id": "e15",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Return to service: K. Bennani, licence MA-B1-0212"
+    }
+  ]
+}

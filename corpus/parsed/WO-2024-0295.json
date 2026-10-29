@@ -1,0 +1,132 @@
+{
+  "source_id": "WO-2024-0295",
+  "file": "anfa/work-orders/WO-2024-0295.pdf",
+  "format": "pdf",
+  "parser": "docling",
+  "meta": {
+    "publisher": "Anfa Aero Services",
+    "title": "Work order WO-2024-0295: CN-TFG, annual inspection",
+    "doc_type": "work order",
+    "aircraft": "CN-TFG",
+    "date": "2024-07-07",
+    "access": "staff"
+  },
+  "elements": [
+    {
+      "id": "e1",
+      "type": "heading",
+      "page": 1,
+      "text": "Anfa Aero Services: work order WO-2024-0295",
+      "level": 2
+    },
+    {
+      "id": "e2",
+      "type": "table",
+      "header": [
+        "Field",
+        "Value"
+      ],
+      "rows": [
+        [
+          "Date completed",
+          "7 July 2024"
+        ],
+        [
+          "Registration",
+          "CN-TFG"
+        ],
+        [
+          "Aircraft",
+          "Cessna 172N"
+        ],
+        [
+          "Serial number",
+          "17272851"
+        ],
+        [
+          "Airframe total time at completion (h)",
+          "13,761.8"
+        ],
+        [
+          "Station",
+          "Beni Mellal"
+        ]
+      ],
+      "page": 1
+    },
+    {
+      "id": "e3",
+      "type": "heading",
+      "page": 1,
+      "text": "Request",
+      "level": 2
+    },
+    {
+      "id": "e4",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Annual inspection."
+    },
+    {
+      "id": "e5",
+      "type": "heading",
+      "page": 1,
+      "text": "Work performed",
+      "level": 2
+    },
+    {
+      "id": "e6",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Annual inspection per 14 CFR 91.409(a) and the scope and detail of 14 CFR Part 43 Appendix D, using the Cessna 172 inspection checklist."
+    },
+    {
+      "id": "e7",
+      "type": "paragraph",
+      "page": 1,
+      "text": "ELT inspected per 14 CFR 91.207(d): installation, battery date, operation, and radiated signal."
+    },
+    {
+      "id": "e8",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Changed engine oil and filter per the Technify maintenance manual. Gearbox oil level checked."
+    },
+    {
+      "id": "e9",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Discrepancy: Elevator trim tab free play at the limit. Corrective action: Replaced trim tab actuator rod end bearings; free play within limits."
+    },
+    {
+      "id": "e10",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Discrepancy: Left cabin door seal torn. Corrective action: Replaced left cabin door seal."
+    },
+    {
+      "id": "e11",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Aircraft found airworthy after correction of the discrepancies listed."
+    },
+    {
+      "id": "e12",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Certification: the work above was performed in accordance with 14 CFR Part 43 and the procedures manual. The aircraft is airworthy for the work performed."
+    },
+    {
+      "id": "e13",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Performed by: M. Chraibi"
+    },
+    {
+      "id": "e14",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Return to service: R. El Fassi, licence MA-B1-0618"
+    }
+  ]
+}

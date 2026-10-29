@@ -1,0 +1,781 @@
+{
+  "source_id": "AD-98-25-03",
+  "file": "faa/ad/ad-98-25-03.pdf",
+  "format": "pdf",
+  "parser": "docling",
+  "meta": {
+    "title": "AD 98-25-03: Cessna Aircraft Company Model 172R Airplanes",
+    "publisher": "FAA",
+    "doc_type": "airworthiness directive",
+    "ad_number": "98-25-03",
+    "action": "Final rule; request for comments",
+    "published": "1998-12-03",
+    "effective": "1998-12-18",
+    "federal_register": "63 FR 66744 (document 98-32044)",
+    "access": "employees"
+  },
+  "elements": [
+    {
+      "id": "e1",
+      "type": "page_header",
+      "page": 1,
+      "text": "66744 Federal Register /Vol. 63, No. 232 /Thursday, December 3, 1998 /Rules and Regulations"
+    },
+    {
+      "id": "e2",
+      "type": "paragraph",
+      "page": 1,
+      "text": "of it may be obtained by contacting the Rules Docket at the location provided under the caption ADDRESSES."
+    },
+    {
+      "id": "e3",
+      "type": "paragraph",
+      "page": 1,
+      "text": "List of Subjects in 14 CFR Part 39"
+    },
+    {
+      "id": "e4",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Air transportation, Aircraft, Aviation safety, Incorporation by reference, Safety."
+    },
+    {
+      "id": "e5",
+      "type": "heading",
+      "page": 1,
+      "text": "Adoption of the Amendment",
+      "level": 2
+    },
+    {
+      "id": "e6",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Accordingly, pursuant to the authority delegated to me by the Administrator, the Federal Aviation Administration amends part 39 of the Federal Aviation Regulations (14 CFR part 39) as follows:"
+    },
+    {
+      "id": "e7",
+      "type": "heading",
+      "page": 1,
+      "text": "PART 39-AIRWORTHINESS DIRECTIVES",
+      "level": 2
+    },
+    {
+      "id": "e8",
+      "type": "paragraph",
+      "page": 1,
+      "text": "The authority citation for part 39 continues to read as follows:"
+    },
+    {
+      "id": "e9",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Authority: 49 U.S.C. 106(g), 40113, 44701."
+    },
+    {
+      "id": "e10",
+      "type": "heading",
+      "page": 1,
+      "text": "§39.13 [Amended]",
+      "level": 2
+    },
+    {
+      "id": "e11",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Section 39.13 is amended by removing airworthiness directive (AD) 96-23-19, Amendment 39-9823 (61 FR 58985, November 11, 1996), and by adding a new AD to read as follows:"
+    },
+    {
+      "id": "e12",
+      "type": "paragraph",
+      "page": 1,
+      "text": "98-25-01 Air Tractor, Inc.: Amendment 39-10922; Docket No. 98-CE-62-AD; Supersedes AD 96-23-19, Amendment 39-9823."
+    },
+    {
+      "id": "e13",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Applicability: The following model and serial numbered airplanes, certificated in any category, that do not have a part number (P/ N) 70975-1 flap actuator overtravel stop installed in accordance with the REWORK INSTRUCTIONS section of Snow Engineering Co. Service Letter #165, dated May 15, 1998:"
+    },
+    {
+      "id": "e14",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Models AT-300, AT-301, AT-302, AT400, AT-400A, AT-401, AT-401A, AT-401B, AT-402, AT-402A, and AT-402B airplanes, serial numbers 300-0001 through 401B1063; and"
+    },
+    {
+      "id": "e15",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Models AT-501, AT-502, AT-502A, AT502B, and AT-503A airplanes, serial numbers 502-0001 through 502B-0500."
+    },
+    {
+      "id": "e16",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Note 1: This AD applies to each airplane identified in the preceding applicability provision, regardless of whether it has been modified, altered, or repaired in the area subject to the requirements of this AD. For airplanes that have been modified, altered, or repaired so that the performance of the requirements of this AD is affected, the owner/operator must request approval for an alternative method of compliance in accordance with paragraph (c) of this AD. The request should include an assessment of the effect of the modification, alteration, or repair on the unsafe condition addressed by this AD; and, if the unsafe condition has not been eliminated, the request should include specific proposed actions to address it."
+    },
+    {
+      "id": "e17",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Compliance: Required within the next 50 hours time-in-service (TIS) after the effective date of this AD, unless already accomplished."
+    },
+    {
+      "id": "e18",
+      "type": "paragraph",
+      "page": 1,
+      "text": "To prevent interference between the flap pushrod and the aileron pushrod caused by the flap actuator overtravel nut disengaging, which could result in loss of aileron control, accomplish the following:"
+    },
+    {
+      "id": "e19",
+      "type": "paragraph",
+      "page": 1,
+      "text": "(a) Replace the existing flap actuator overtravel stop with a new one of improved design, P/N 70975-1. Accomplish this replacement in accordance with the REWORK INSTRUCTIONS section of Snow Engineering Co. Service Letter #165, dated May 15, 1998."
+    },
+    {
+      "id": "e20",
+      "type": "paragraph",
+      "page": 1,
+      "text": "(b) Special flight permits may be issued in accordance with sections 21.197 and 21.199 of the Federal Aviation Regulations (14 CFR 21.197 and 21.199) to operate the airplane to a location where the requirements of this AD can be accomplished."
+    },
+    {
+      "id": "e21",
+      "type": "paragraph",
+      "page": 1,
+      "text": "(c) An alternative method of compliance or adjustment of the compliance time that provides an equivalent level of safety may be approved by the Manager, Fort Worth Airplane Certification Office (ACO), 2601 Meacham Boulevard, Fort Worth, Texas 76193-0150."
+    },
+    {
+      "id": "e22",
+      "type": "paragraph",
+      "page": 1,
+      "text": "The request shall be forwarded through an appropriate FAA Maintenance Inspector, who may add comments and then send it to the Manager, Fort Worth ACO."
+    },
+    {
+      "id": "e23",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Alternative methods of compliance approved in accordance with AD 96-23-19 are not considered approved as alternative methods of compliance for this AD."
+    },
+    {
+      "id": "e24",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Note 2: Information concerning the existence of approved alternative methods of compliance with this AD, if any, may be obtained from the Fort Worth ACO."
+    },
+    {
+      "id": "e25",
+      "type": "paragraph",
+      "page": 1,
+      "text": "(d) The replacement required by this AD shall be done in accordance with Snow Engineering Co. Service Letter #165, dated May 15, 1998. This incorporation by reference was approved by the Director of the Federal Register in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. Copies may be obtained from Air Tractor Inc., P.O. Box 485, Olney, Texas 76374. Copies may be inspected at the FAA, Central Region, Office of the Regional Counsel, Room 1558, 601 E. 12th Street, Kansas City, Missouri, or at the Office of the Federal Register, 800 North Capitol Street, NW, suite 700, Washington, DC."
+    },
+    {
+      "id": "e26",
+      "type": "paragraph",
+      "page": 1,
+      "text": "(e) This amendment supersedes AD 96-2319, Amendment 39-9823."
+    },
+    {
+      "id": "e27",
+      "type": "paragraph",
+      "page": 1,
+      "text": "(f) This amendment becomes effective on January 19, 1999."
+    },
+    {
+      "id": "e28",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Issued in Kansas City, Missouri, on November 24, 1998."
+    },
+    {
+      "id": "e29",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Michael Gallagher,"
+    },
+    {
+      "id": "e30",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Manager, Small Airplane Directorate, Aircraft Certification Service."
+    },
+    {
+      "id": "e31",
+      "type": "paragraph",
+      "page": 1,
+      "text": "[FR Doc. 98-32046 Filed 12-2-98; 8:45 am] BILLING CODE 4910-13-U"
+    },
+    {
+      "id": "e32",
+      "type": "heading",
+      "page": 1,
+      "text": "DEPARTMENT OF TRANSPORTATION",
+      "level": 2
+    },
+    {
+      "id": "e33",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Federal Aviation Administration"
+    },
+    {
+      "id": "e34",
+      "type": "heading",
+      "page": 1,
+      "text": "14 CFR Part 39",
+      "level": 2
+    },
+    {
+      "id": "e35",
+      "type": "paragraph",
+      "page": 1,
+      "text": "[Docket No. 98-CE-109-AD; Amendment 39-10925; AD 98-25-03]"
+    },
+    {
+      "id": "e36",
+      "type": "paragraph",
+      "page": 1,
+      "text": "RIN 2120-AA64"
+    },
+    {
+      "id": "e37",
+      "type": "heading",
+      "page": 1,
+      "text": "Airworthiness Directives; Cessna Aircraft Company Model 172R Airplanes",
+      "level": 2
+    },
+    {
+      "id": "e38",
+      "type": "paragraph",
+      "page": 1,
+      "text": "AGENCY: Federal Aviation Administration, DOT."
+    },
+    {
+      "id": "e39",
+      "type": "paragraph",
+      "page": 1,
+      "text": "ACTION: Final rule; request for comments."
+    },
+    {
+      "id": "e40",
+      "type": "paragraph",
+      "page": 1,
+      "text": "SUMMARY: This amendment adopts a new airworthiness directive (AD) that applies to certain Cessna Aircraft Company (Cessna) Model 172R airplanes that are not equipped with an autopilot. This AD requires inspecting the right wing for an incorrectly routed, frayed, or damaged aileron control cable, and re-routing any incorrectly routed cable or replacing any frayed or damaged cable. The AD also requires reporting any incorrectly routed, frayed, or damaged cable to the Federal Aviation Administration (FAA). This AD is the result of a report of an incorrectly routed aileron control cable in the right wing of an airplane of the same type design to those affected by this AD. The cable was routed over the aileron auto pilot actuator pulley and the cable was rubbing on the cable guard. The actions specified by this AD are intended to prevent loss of aileron control caused by a damaged or frayed aileron control cable, which could result in loss of directional control of the airplane."
+    },
+    {
+      "id": "e41",
+      "type": "paragraph",
+      "page": 1,
+      "text": "DATES: Effective December 18, 1998."
+    },
+    {
+      "id": "e42",
+      "type": "paragraph",
+      "page": 1,
+      "text": "The incorporation by reference of certain publications listed in the regulations is approved by the Director of the Federal Register as of December 18, 1998."
+    },
+    {
+      "id": "e43",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Comments for inclusion in the Rules Docket must be received on or before January 22, 1999."
+    },
+    {
+      "id": "e44",
+      "type": "paragraph",
+      "page": 1,
+      "text": "ADDRESSES: Submit comments in triplicate to the Federal Aviation Administration (FAA), Central Region, Office of the Regional Counsel, Attention: Rules Docket No. 98-CE109-AD, Room 1558, 601 E. 12th Street, Kansas City, Missouri 64106."
+    },
+    {
+      "id": "e45",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Service information that applies to this AD may be obtained from the Cessna Aircraft Company, P.0. Box 7706, Wichita, Kansas 67277; telephone: (316) 941-7550; facsimile: (316) 9429008. This information may also be examined at the Federal Aviation Administration (FAA), Central Region, Office of the Regional Counsel, Attention: Rules Docket No. 98-CE109-AD, Room 1558, 601 E. 12th Street, Kansas City, Missouri 64106; or at the Office of the Federal Register, 800 North Capitol Street, NW, suite 700, Washington, DC."
+    },
+    {
+      "id": "e46",
+      "type": "page_header",
+      "page": 2,
+      "text": "Federal Register /Vol. 63, No. 232 /Thursday, December 3, 1998 /Rules and Regulations"
+    },
+    {
+      "id": "e47",
+      "type": "page_header",
+      "page": 2,
+      "text": "66745"
+    },
+    {
+      "id": "e48",
+      "type": "paragraph",
+      "page": 2,
+      "text": "FOR FURTHER INFORMATION CONTACT: Mr. Joel M. Ligon, Aerospace Engineer, FAA, Wichita Aircraft Certification Office, 1801 Airport Road, Room 100, Mid-Continent Airport, Wichita, Kansas 67209, telephone: (316) 946-4138; facsimile: (316) 946-4407."
+    },
+    {
+      "id": "e49",
+      "type": "heading",
+      "page": 2,
+      "text": "SUPPLEMENTARY INFORMATION:",
+      "level": 2
+    },
+    {
+      "id": "e50",
+      "type": "heading",
+      "page": 2,
+      "text": "Discussion",
+      "level": 2
+    },
+    {
+      "id": "e51",
+      "type": "paragraph",
+      "page": 2,
+      "text": "The FAA has received a report of an incorrectly routed aileron control cable in the right wing of a Cessna Model 172R airplane. The cable was routed over the aileron auto pilot actuator pulley and the cable was rubbing on the cable guard."
+    },
+    {
+      "id": "e52",
+      "type": "paragraph",
+      "page": 2,
+      "text": "The FAA initially covered this issue with AD 98-13-41, Amendment 3910634 (63 FR 34800, June 26, 1998). This AD requires, among other things, inspecting the right wing of certain Cessna Model 172R airplanes for an incorrectly routed, frayed, or damaged aileron control cable, and re-routing any incorrectly routed cable or replacing any frayed or damaged cable."
+    },
+    {
+      "id": "e53",
+      "type": "paragraph",
+      "page": 2,
+      "text": "Accomplishment of the inspection required by AD 98-13-41 is required in accordance with Cessna Service Bulletin SB98-27-05, dated June 1, 1998."
+    },
+    {
+      "id": "e54",
+      "type": "paragraph",
+      "page": 2,
+      "text": "AD 98-13-41 also requires reporting any incorrectly routed, frayed, or damaged cable to the FAA."
+    },
+    {
+      "id": "e55",
+      "type": "paragraph",
+      "page": 2,
+      "text": "The following serial numbers of the Cessna Model 172R airplanes were inadvertently left out of the Applicability of AD 98-13-41: 17280437; 17280439; 17280454; 17280456; and 17280459."
+    },
+    {
+      "id": "e56",
+      "type": "paragraph",
+      "page": 2,
+      "text": "Cessna has revised Service Bulletin SB98-27-05 to include these serial numbers. Cessna Service Bulletin SB9827-05 incorporates the following pages:"
+    },
+    {
+      "id": "e57",
+      "type": "table",
+      "header": [
+        "Pages",
+        "Revision Level",
+        "Date"
+      ],
+      "rows": [
+        [
+          "1, 2, 9 and 10",
+          "Revision 1 ....",
+          "August 17, 1998"
+        ],
+        [
+          "3 through 8 ...",
+          "Original Issue",
+          "June 1, 1998"
+        ]
+      ],
+      "page": 2
+    },
+    {
+      "id": "e58",
+      "type": "heading",
+      "page": 2,
+      "text": "The FAA's Determination",
+      "level": 2
+    },
+    {
+      "id": "e59",
+      "type": "paragraph",
+      "page": 2,
+      "text": "After examining the circumstances and reviewing all available information related to the incidents described above, including the relevant service information, the FAA has determined that:"
+    },
+    {
+      "id": "e60",
+      "type": "paragraph",
+      "page": 2,
+      "text": "The inspections and possible correction and/or replacement of the right wing aileron control cable required by AD 98-13-41 should also apply to the 5 Model 172R airplanes previously referenced; and AD action should be taken to prevent loss of aileron control caused by a damaged or frayed aileron control cable, which could result in loss of directional control of the airplane."
+    },
+    {
+      "id": "e61",
+      "type": "heading",
+      "page": 2,
+      "text": "Explanation of the Provisions of the AD",
+      "level": 2
+    },
+    {
+      "id": "e62",
+      "type": "paragraph",
+      "page": 2,
+      "text": "Since an unsafe condition has been identified that is likely to exist or develop in these 5 Cessna Model 172R airplanes that are the same type design to those included in AD 98-13-41, the FAA is issuing an AD. This AD requires inspecting the right wing for an incorrectly routed, frayed, or damaged aileron control cable, and re-routing any incorrectly routed cable or replacing any frayed or damaged cable. The AD also requires reporting any incorrectly routed, frayed, or damaged cable to the FAA. Accomplishment of the inspection is required in accordance with the previously referenced service information. Accomplishment of the correction or replacement is required in accordance with the applicable maintenance manual."
+    },
+    {
+      "id": "e63",
+      "type": "paragraph",
+      "page": 2,
+      "text": "Determination of the Effective Date of the AD"
+    },
+    {
+      "id": "e64",
+      "type": "paragraph",
+      "page": 2,
+      "text": "Since a situation exists (possible loss of airplane directional control) that requires the immediate adoption of this regulation, it is found that notice and opportunity for public prior comment hereon are impracticable, and that good cause exists for making this amendment effective in less than 30 days."
+    },
+    {
+      "id": "e65",
+      "type": "heading",
+      "page": 2,
+      "text": "Comments Invited",
+      "level": 2
+    },
+    {
+      "id": "e66",
+      "type": "paragraph",
+      "page": 2,
+      "text": "Although this action is in the form of a final rule that involves requirements affecting immediate flight safety and, thus, was not preceded by notice and opportunity to comment, comments are invited on this rule. Interested persons are invited to comment on this rule by submitting such written data, views, or arguments as they may desire. Communications should identify the Rules Docket number and be submitted in triplicate to the address specified above. All communications received on or before the closing date for comments will be considered, and this rule may be amended in light of the comments received. Factual information that supports the commenter's ideas and suggestions is extremely helpful in evaluating the effectiveness of the AD action and determining whether additional rulemaking action would be needed."
+    },
+    {
+      "id": "e67",
+      "type": "paragraph",
+      "page": 2,
+      "text": "Comments are specifically invited on the overall regulatory, economic, environmental, and energy aspects of the rule that might suggest a need to modify the rule. All comments submitted will be available, both before and after the closing date for comments, in the Rules Docket for examination by interested persons. A report that summarizes each FAA-public contact concerned with the substance of this AD will be filed in the Rules Docket."
+    },
+    {
+      "id": "e68",
+      "type": "paragraph",
+      "page": 2,
+      "text": "Commenters wishing the FAA to acknowledge receipt of their comments submitted in response to this rule must submit a self-addressed, stamped postcard on which the following statement is made: ''Comments to Docket No. 98-CE-109-AD.'' The postcard will be date stamped and returned to the commenter."
+    },
+    {
+      "id": "e69",
+      "type": "heading",
+      "page": 2,
+      "text": "Regulatory Impact",
+      "level": 2
+    },
+    {
+      "id": "e70",
+      "type": "paragraph",
+      "page": 2,
+      "text": "The regulations adopted herein will not have substantial direct effects on the States, on the relationship between the national government and the States, or on the distribution of power and responsibilities among the various levels of government. Therefore, in accordance with Executive Order 12612, it is determined that this final rule does not have sufficient federalism implications to warrant the preparation of a Federalism Assessment."
+    },
+    {
+      "id": "e71",
+      "type": "paragraph",
+      "page": 2,
+      "text": "The FAA has determined that this regulation is an emergency regulation that must be issued immediately to correct an unsafe condition in aircraft, and is not a significant regulatory action under Executive Order 12866. It has been determined further that this action involves an emergency regulation under DOT Regulatory Policies and Procedures (44 FR 11034, February 26, 1979). If it is determined that this emergency regulation otherwise would be significant under DOT Regulatory Policies and Procedures, a final regulatory evaluation will be prepared and placed in the Rules Docket (otherwise, an evaluation is not required). A copy of it, if filed, may be obtained from the Rules Docket."
+    },
+    {
+      "id": "e72",
+      "type": "heading",
+      "page": 2,
+      "text": "List of Subjects in 14 CFR Part 39",
+      "level": 2
+    },
+    {
+      "id": "e73",
+      "type": "paragraph",
+      "page": 2,
+      "text": "Air transportation, Aircraft, Aviation safety, Incorporation by reference, Safety."
+    },
+    {
+      "id": "e74",
+      "type": "heading",
+      "page": 2,
+      "text": "Adoption of the Amendment",
+      "level": 2
+    },
+    {
+      "id": "e75",
+      "type": "paragraph",
+      "page": 2,
+      "text": "Accordingly, pursuant to the authority delegated to me by the Administrator, the Federal Aviation Administration amends part 39 of the Federal Aviation Regulations (14 CFR part 39) as follows:"
+    },
+    {
+      "id": "e76",
+      "type": "page_header",
+      "page": 3,
+      "text": "66746 Federal Register /Vol. 63, No. 232 /Thursday, December 3, 1998 /Rules and Regulations"
+    },
+    {
+      "id": "e77",
+      "type": "heading",
+      "page": 3,
+      "text": "PART 39-AIRWORTHINESS DIRECTIVES",
+      "level": 2
+    },
+    {
+      "id": "e78",
+      "type": "paragraph",
+      "page": 3,
+      "text": "1. The authority citation for part 39 continues to read as follows:"
+    },
+    {
+      "id": "e79",
+      "type": "paragraph",
+      "page": 3,
+      "text": "Authority: 49 U.S.C. 106(g), 40113, 44701."
+    },
+    {
+      "id": "e80",
+      "type": "heading",
+      "page": 3,
+      "text": "§39.13 [Amended]",
+      "level": 2
+    },
+    {
+      "id": "e81",
+      "type": "paragraph",
+      "page": 3,
+      "text": "2. Section 39.13 is amended by adding a new airworthiness directive (AD) to read as follows:"
+    },
+    {
+      "id": "e82",
+      "type": "paragraph",
+      "page": 3,
+      "text": "98-25-03 Cessna Aircraft Company: Amendment 39-10925; Docket No. 98CE-109-AD."
+    },
+    {
+      "id": "e83",
+      "type": "paragraph",
+      "page": 3,
+      "text": "Applicability: Model 172R airplanes, serial numbers 17280437, 17280439, 17280454, 17280456, and 17280459; certificated in any category, that were not factory equipped with an autopilot."
+    },
+    {
+      "id": "e84",
+      "type": "paragraph",
+      "page": 3,
+      "text": "Note 1: This AD applies to each airplane identified in the preceding applicability provision, regardless of whether it has been modified, altered, or repaired in the area subject to the requirements of this AD. For airplanes that have been modified, altered, or repaired so that the performance of the requirements of this AD is affected, the owner/operator must request approval for an alternative method of compliance in accordance with paragraph (e) of this AD. The request should include an assessment of the effect of the modification, alteration, or repair on the unsafe condition addressed by this AD; and, if the unsafe condition has not been eliminated, the request should include specific proposed actions to address it."
+    },
+    {
+      "id": "e85",
+      "type": "paragraph",
+      "page": 3,
+      "text": "Compliance: Required within the next 25 hours time-in-service (TIS) after the effective date of this AD, unless already accomplished."
+    },
+    {
+      "id": "e86",
+      "type": "paragraph",
+      "page": 3,
+      "text": "To prevent loss of aileron control caused by a damaged or frayed aileron control cable, which could result in loss of directional control of the airplane, accomplish the following:"
+    },
+    {
+      "id": "e87",
+      "type": "paragraph",
+      "page": 3,
+      "text": "(a) Inspect the right wing for an incorrectly routed, frayed, or damaged aileron control cable, in accordance with the Accomplishment Instructions in Cessna Service Bulletin SB98-27-05, which incorporates the following pages:"
+    },
+    {
+      "id": "e88",
+      "type": "table",
+      "header": [
+        "Pages",
+        "Revision Level",
+        "Date"
+      ],
+      "rows": [
+        [
+          "1, 2, 9 and 10",
+          "Revision 1 ....",
+          "August 17, 1998"
+        ],
+        [
+          "3 through 8 ...",
+          "Original Issue",
+          "June 1, 1998"
+        ]
+      ],
+      "page": 3
+    },
+    {
+      "id": "e89",
+      "type": "paragraph",
+      "page": 3,
+      "text": "(b) Prior to further flight, re-route any incorrectly routed cable and replace any frayed or damaged cable, in accordance with the applicable maintenance manual."
+    },
+    {
+      "id": "e90",
+      "type": "paragraph",
+      "page": 3,
+      "text": "(c) If an incorrectly routed, damaged, or frayed cable is found during the inspection required by paragraph (a) of this AD, at the applicable time specified in paragraph (c)(1) or (c)(2) of this AD, submit a report of inspection findings to the Manager, Wichita Manufacturing Inspection Office, 1801 Airport Road, Room 101, Mid-Continent Airport, Wichita, Kansas, 67209; telephone: (316) 946-4175; facsimile: (316) 946-4452. The report must include the condition found, date of inspection, and the serial number of the airplane. Information collection requirements contained in this regulation have been approved by the Office of Management and Budget (OMB) under the provisions of the Paperwork Reduction Act of 1980 (44 U.S.C. 3501 et seq.) and have been assigned OMB Control Number 2120-0056."
+    },
+    {
+      "id": "e91",
+      "type": "paragraph",
+      "page": 3,
+      "text": "(1) For airplanes on which the inspection is accomplished after the effective date of this AD: Submit the report within 10 days after performing the inspection required by paragraph (a) of this AD."
+    },
+    {
+      "id": "e92",
+      "type": "paragraph",
+      "page": 3,
+      "text": "For airplanes on which the inspection has been accomplished prior to the effective date of this AD: Submit the report within 10 days after the effective date of this AD."
+    },
+    {
+      "id": "e93",
+      "type": "paragraph",
+      "page": 3,
+      "text": "(d) Special flight permits may be issued in accordance with sections 21.197 and 21.199 of the Federal Aviation Regulations (14 CFR 21.197 and 21.199) to operate the airplane to a location where the requirements of this AD can be accomplished."
+    },
+    {
+      "id": "e94",
+      "type": "paragraph",
+      "page": 3,
+      "text": "(e) An alternative method of compliance or adjustment of the compliance times that provides an equivalent level of safety may be approved by the Manager, Wichita Aircraft Certification Office (ACO), 1801 Airport Road, Room 100, Mid-Continent Airport, Wichita, Kansas, 67209. The request shall be forwarded through an appropriate FAA Maintenance Inspector, who may add comments and then send it to the Manager, Wichita ACO."
+    },
+    {
+      "id": "e95",
+      "type": "paragraph",
+      "page": 3,
+      "text": "Note 2: Information concerning the existence of approved alternative methods of compliance with this AD, if any, may be obtained from the Wichita ACO."
+    },
+    {
+      "id": "e96",
+      "type": "paragraph",
+      "page": 3,
+      "text": "(f) The inspection required by this AD shall be done in accordance with Cessna Service Bulletin SB98-27-05, which incorporates the following pages:"
+    },
+    {
+      "id": "e97",
+      "type": "table",
+      "header": [
+        "Pages",
+        "Revision Level",
+        "Date"
+      ],
+      "rows": [
+        [
+          "1, 2, 9 and 10",
+          "Revision 1 ....",
+          "August 17, 1998"
+        ],
+        [
+          "3 through 8 ...",
+          "Original Issue",
+          "June 1, 1998"
+        ]
+      ],
+      "page": 3
+    },
+    {
+      "id": "e98",
+      "type": "paragraph",
+      "page": 3,
+      "text": "This incorporation by reference was approved by the Director of the Federal Register in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. Copies may be obtained from The Cessna Aircraft Company, P.O. Box 7706, Wichita, Kansas 67277. Copies may be inspected at the FAA, Central Region, Office of the Regional Counsel, Room 1558, 601 E. 12th Street, Kansas City, Missouri, or at the Office of the Federal Register, 800 North Capitol Street, NW, suite 700, Washington, DC."
+    },
+    {
+      "id": "e99",
+      "type": "paragraph",
+      "page": 3,
+      "text": "(g) This amendment becomes effective on December 18, 1998."
+    },
+    {
+      "id": "e100",
+      "type": "paragraph",
+      "page": 3,
+      "text": "Issued in Kansas City, Missouri, on November 24, 1998."
+    },
+    {
+      "id": "e101",
+      "type": "paragraph",
+      "page": 3,
+      "text": "Michael Gallagher,"
+    },
+    {
+      "id": "e102",
+      "type": "paragraph",
+      "page": 3,
+      "text": "Manager, Small Airplane Directorate, Aircraft Certification Service."
+    },
+    {
+      "id": "e103",
+      "type": "paragraph",
+      "page": 3,
+      "text": "[FR Doc. 98-32044 Filed 12-2-98; 8:45 am]"
+    },
+    {
+      "id": "e104",
+      "type": "paragraph",
+      "page": 3,
+      "text": "BILLING CODE 4910-13-P"
+    },
+    {
+      "id": "e105",
+      "type": "heading",
+      "page": 3,
+      "text": "DEPARTMENT OF TRANSPORTATION",
+      "level": 2
+    },
+    {
+      "id": "e106",
+      "type": "paragraph",
+      "page": 3,
+      "text": "Federal Aviation Administration"
+    },
+    {
+      "id": "e107",
+      "type": "heading",
+      "page": 3,
+      "text": "14 CFR Part 39",
+      "level": 2
+    },
+    {
+      "id": "e108",
+      "type": "paragraph",
+      "page": 3,
+      "text": "[Docket No. 98-CE-107-AD; Amendment 39-10924; AD 98-25-02]"
+    },
+    {
+      "id": "e109",
+      "type": "paragraph",
+      "page": 3,
+      "text": "RIN 2120-AA64"
+    },
+    {
+      "id": "e110",
+      "type": "paragraph",
+      "page": 3,
+      "text": "Airworthiness Directives; BFGoodrich Avionics Systems, Inc. SKYWATCH SKY497 Installations with a TopMounted Antenna"
+    },
+    {
+      "id": "e111",
+      "type": "paragraph",
+      "page": 3,
+      "text": "AGENCY: Federal Aviation Administration, DOT. ACTION: Final rule; request for"
+    },
+    {
+      "id": "e112",
+      "type": "paragraph",
+      "page": 3,
+      "text": "comments."
+    },
+    {
+      "id": "e113",
+      "type": "paragraph",
+      "page": 3,
+      "text": "SUMMARY: This amendment adopts a new airworthiness directive (AD) that applies to all BFGoodrich Avionics Systems, Inc. (BFGoodrich) SKYWATCH SKY497 installations with a top-mounted antenna that are installed on aircraft. This AD requires incorporating information into the airplane flight manual (AFM) that specifies verifying the correct antenna configuration each time an aircraft equipped with a SKY497 installation with a top-mounted antenna is powered-up. The AD also requires removing from service any of these SKY497 installations with an incorrect antenna configuration. This AD results from numerous reports of internal component failure of the abovereferenced installations, which changed the antenna configuration (from TOP to BOTTOM mount). The actions specified by this AD are intended to prevent the display of target indicators on the wrong side of the aircraft caused by an internal component failure in the SKY497 installations with a top-mounted antenna, which could result in the pilot making an incorrect initial maneuver based on the displayed information while trying to visually acquire the aircraft."
+    },
+    {
+      "id": "e114",
+      "type": "paragraph",
+      "page": 3,
+      "text": "DATES: Effective December 22, 1998. Comments for inclusion in the Rules Docket must be received on or before January 29, 1999."
+    },
+    {
+      "id": "e115",
+      "type": "paragraph",
+      "page": 3,
+      "text": "ADDRESSES: Submit comments in triplicate to the Federal Aviation Administration (FAA), Central Region, Office of the Regional Counsel, Attention: Rules Docket No. 98-CE107-AD, Room 1558, 601 E. 12th Street, Kansas City, Missouri 64106."
+    },
+    {
+      "id": "e116",
+      "type": "paragraph",
+      "page": 3,
+      "text": "Service information that applies to this AD may be obtained from BFGoodrich Avionics Systems, Inc., 5353 52nd Street, Southeast, P.O. Box 873, Grand Rapids, Michigan 495880873; telephone: (800) 453-0288;"
+    }
+  ]
+}

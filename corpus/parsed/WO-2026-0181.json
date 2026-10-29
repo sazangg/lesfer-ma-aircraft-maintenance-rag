@@ -1,0 +1,114 @@
+{
+  "source_id": "WO-2026-0181",
+  "file": "anfa/work-orders/WO-2026-0181.pdf",
+  "format": "pdf",
+  "parser": "docling",
+  "meta": {
+    "publisher": "Anfa Aero Services",
+    "title": "Work order WO-2026-0181: CN-TFA, altimeter, static system, and transponder tests",
+    "doc_type": "work order",
+    "aircraft": "CN-TFA",
+    "date": "2026-05-12",
+    "access": "staff"
+  },
+  "elements": [
+    {
+      "id": "e1",
+      "type": "heading",
+      "page": 1,
+      "text": "Anfa Aero Services: work order WO-2026-0181",
+      "level": 2
+    },
+    {
+      "id": "e2",
+      "type": "table",
+      "header": [
+        "Field",
+        "Value"
+      ],
+      "rows": [
+        [
+          "Date completed",
+          "12 May 2026"
+        ],
+        [
+          "Registration",
+          "CN-TFA"
+        ],
+        [
+          "Aircraft",
+          "Cessna 172S"
+        ],
+        [
+          "Serial number",
+          "172S9488"
+        ],
+        [
+          "Airframe total time at completion (h)",
+          "9,643.4"
+        ],
+        [
+          "Station",
+          "Casablanca"
+        ]
+      ],
+      "page": 1
+    },
+    {
+      "id": "e3",
+      "type": "heading",
+      "page": 1,
+      "text": "Request",
+      "level": 2
+    },
+    {
+      "id": "e4",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Altimeter, static system, and transponder tests due."
+    },
+    {
+      "id": "e5",
+      "type": "heading",
+      "page": 1,
+      "text": "Work performed",
+      "level": 2
+    },
+    {
+      "id": "e6",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Static system test and altimeter test per 14 CFR 91.411 and Part 43 Appendix E."
+    },
+    {
+      "id": "e7",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Transponder test per 14 CFR 91.413 and Part 43 Appendix F."
+    },
+    {
+      "id": "e8",
+      "type": "paragraph",
+      "page": 1,
+      "text": "All tests within limits. Next tests due within 24 calendar months."
+    },
+    {
+      "id": "e9",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Certification: the work above was performed in accordance with 14 CFR Part 43 and the procedures manual. The aircraft is airworthy for the work performed."
+    },
+    {
+      "id": "e10",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Performed by: N. Berrada"
+    },
+    {
+      "id": "e11",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Return to service: A. Tazi, licence MA-B1-0457"
+    }
+  ]
+}

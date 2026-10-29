@@ -1,0 +1,1051 @@
+{
+  "source_id": "AD-2012-22-01",
+  "file": "faa/ad/ad-2012-22-01.pdf",
+  "format": "pdf",
+  "parser": "docling",
+  "meta": {
+    "title": "AD 2012-22-01: Cessna Aircraft Company Airplanes",
+    "publisher": "FAA",
+    "doc_type": "airworthiness directive",
+    "ad_number": "2012-22-01",
+    "action": "Final rule",
+    "published": "2012-11-23",
+    "effective": "2012-12-28",
+    "federal_register": "77 FR 70114 (document 2012-26500)",
+    "access": "employees"
+  },
+  "elements": [
+    {
+      "id": "e1",
+      "type": "page_header",
+      "page": 1,
+      "text": "70114"
+    },
+    {
+      "id": "e2",
+      "type": "page_header",
+      "page": 1,
+      "text": "Federal Register /Vol. 77, No. 226/Friday, November 23, 2012/Rules and Regulations"
+    },
+    {
+      "id": "e3",
+      "type": "paragraph",
+      "page": 1,
+      "text": "emcdonald on DSK7TPTVN1PROD with RULES"
+    },
+    {
+      "id": "e4",
+      "type": "paragraph",
+      "page": 1,
+      "text": "information collection requirements subject to the PRA until such time as the TILA-RESPA integrated disclosure final rule, and the corresponding information collection requirements, becomes effective. The Bureau did not receive any comments related to this exemption under the PRA."
+    },
+    {
+      "id": "e5",
+      "type": "heading",
+      "page": 1,
+      "text": "List of Subjects in 12 CFR Part 1026",
+      "level": 2
+    },
+    {
+      "id": "e6",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Advertising, Consumer protection, Credit, Credit unions, Mortgages, National banks, Recordkeeping requirements, Reporting, Savings associations, Truth in lending."
+    },
+    {
+      "id": "e7",
+      "type": "heading",
+      "page": 1,
+      "text": "Authority and Issuance",
+      "level": 2
+    },
+    {
+      "id": "e8",
+      "type": "paragraph",
+      "page": 1,
+      "text": "For the reasons stated in the preamble, the Bureau amends Regulation Z, 12 CFR part 1026, as set forth below:"
+    },
+    {
+      "id": "e9",
+      "type": "heading",
+      "page": 1,
+      "text": "PART 1026-TRUTH IN LENDING (REGULATION Z)",
+      "level": 2
+    },
+    {
+      "id": "e10",
+      "type": "paragraph",
+      "page": 1,
+      "text": "■ 1. The authority citation for part 1026 is revised to read as follows:"
+    },
+    {
+      "id": "e11",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Authority: 12 U.S.C. 2601; 2603-2605, 2607, 2609, 2617, 5511, 5512, 5532, 5581; 15 U.S.C. 1601 et seq."
+    },
+    {
+      "id": "e12",
+      "type": "paragraph",
+      "page": 1,
+      "text": "■ 2. Section 1026.1 is amended by revising paragraph (a) and adding paragraph (c)(5) to read as follows:"
+    },
+    {
+      "id": "e13",
+      "type": "heading",
+      "page": 1,
+      "text": "§1026.1 Authority, purpose, coverage, organization, enforcement, and liability.",
+      "level": 2
+    },
+    {
+      "id": "e14",
+      "type": "paragraph",
+      "page": 1,
+      "text": "(a) Authority. This part, known as Regulation Z, is issued by the Bureau of Consumer Financial Protection to implement the Federal Truth in Lending Act, which is contained in title I of the Consumer Credit Protection Act, as amended (15 U.S.C. 1601 et seq.). This part also implements title XII, section 1204 of the Competitive Equality Banking Act of 1987 (Pub. L. 100-86, 101 Stat. 552). Furthermore, this part implements certain provisions of the Real Estate Settlement Procedures Act of 1974, as amended (12 U.S.C. 2601 et seq.). The Bureau's informationcollection requirements contained in this part have been approved by the Office of Management and Budget under the provisions of 44 U.S.C. 3501 et seq. and have been assigned OMB No. 31700015 (Truth in Lending)."
+    },
+    {
+      "id": "e15",
+      "type": "paragraph",
+      "page": 1,
+      "text": "* * * * *"
+    },
+    {
+      "id": "e16",
+      "type": "paragraph",
+      "page": 1,
+      "text": "(c) * * *"
+    },
+    {
+      "id": "e17",
+      "type": "paragraph",
+      "page": 1,
+      "text": "(5) No person is required to provide the disclosures required by sections 128(a)(16) through (19), 128(b)(4), 129C(f)(1), 129C(g)(2) and (3), 129C(h), 129D(h), 129D(j)(1)(A), or 129D(j)(1)(B) of the Truth in Lending Act or section 4(c) of the Real Estate Settlement Procedures Act."
+    },
+    {
+      "id": "e18",
+      "type": "paragraph",
+      "page": 1,
+      "text": "* * * * *"
+    },
+    {
+      "id": "e19",
+      "type": "paragraph",
+      "page": 1,
+      "text": "■ 3. In Supplement I to Part 1026: A. Under Section 1026.1-Authority, Purpose, Coverage, Organization, Enforcement and Liability, under subheading 1(c) Coverage, add in alphanumerical order the subheading Paragraph 1(c)(5) and paragraph 1. under that subheading."
+    },
+    {
+      "id": "e20",
+      "type": "paragraph",
+      "page": 1,
+      "text": "The additions read as follows:"
+    },
+    {
+      "id": "e21",
+      "type": "heading",
+      "page": 1,
+      "text": "Supplement I to Part 1026-Official Interpretations",
+      "level": 2
+    },
+    {
+      "id": "e22",
+      "type": "paragraph",
+      "page": 1,
+      "text": "* * * * *"
+    },
+    {
+      "id": "e23",
+      "type": "heading",
+      "page": 1,
+      "text": "Subpart A-General",
+      "level": 2
+    },
+    {
+      "id": "e24",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Section 1026.1-Authority, Purpose, Coverage, Organization, Enforcement and Liability 1(c) Coverage"
+    },
+    {
+      "id": "e25",
+      "type": "paragraph",
+      "page": 1,
+      "text": "* * * * *"
+    },
+    {
+      "id": "e26",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Paragraph 1(c)(5)."
+    },
+    {
+      "id": "e27",
+      "type": "paragraph",
+      "page": 1,
+      "text": "1. Temporary exemption. Section 1026.1(c)(5) implements sections 128(a)(16) through (19), 128(b)(4), 129C(f)(1), 129C(g)(2) and (3), 129C(h), 129D(h), 129D(j)(1)(A), and 129D(j)(1)(B) of the Truth in Lending Act and section 4(c) of the Real Estate Settlement Procedures Act, by exempting persons from the disclosure requirements of those sections. These exemptions are intended to be temporary, lasting only until regulations implementing the integrated disclosures required by sections 1032(f), 1098, and 1100A of the Dodd-Frank Act (12 U.S.C. 5532(f), 12 U.S.C. 2603(a), 15 U.S.C. 1604(b)) become mandatory. Section 1026.1(c)(5) does not exempt any person from any other requirement of this part, Regulation X (12 CFR part 1024), the Truth in Lending Act, or the Real Estate Settlement Procedures Act."
+    },
+    {
+      "id": "e28",
+      "type": "paragraph",
+      "page": 1,
+      "text": "* * * * *"
+    },
+    {
+      "id": "e29",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Dated: November 13, 2012."
+    },
+    {
+      "id": "e30",
+      "type": "heading",
+      "page": 1,
+      "text": "Richard Cordray,",
+      "level": 2
+    },
+    {
+      "id": "e31",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Director, Bureau of Consumer Financial Protection."
+    },
+    {
+      "id": "e32",
+      "type": "paragraph",
+      "page": 1,
+      "text": "[FR Doc. 2012-28341 Filed 11-21-12; 8:45 am]"
+    },
+    {
+      "id": "e33",
+      "type": "paragraph",
+      "page": 1,
+      "text": "BILLING CODE 4810-AM-P"
+    },
+    {
+      "id": "e34",
+      "type": "heading",
+      "page": 1,
+      "text": "DEPARTMENT OF TRANSPORTATION",
+      "level": 2
+    },
+    {
+      "id": "e35",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Federal Aviation Administration"
+    },
+    {
+      "id": "e36",
+      "type": "heading",
+      "page": 1,
+      "text": "14 CFR Part 39",
+      "level": 2
+    },
+    {
+      "id": "e37",
+      "type": "paragraph",
+      "page": 1,
+      "text": "[Docket No. FAA-2012-0846; Directorate Identifier 2012-CE-021-AD; Amendment 39-17237; AD 2012-22-01]"
+    },
+    {
+      "id": "e38",
+      "type": "paragraph",
+      "page": 1,
+      "text": "RIN 2120-AA64"
+    },
+    {
+      "id": "e39",
+      "type": "heading",
+      "page": 1,
+      "text": "Airworthiness Directives; Cessna Aircraft Company Airplanes",
+      "level": 2
+    },
+    {
+      "id": "e40",
+      "type": "paragraph",
+      "page": 1,
+      "text": "AGENCY: Federal Aviation Administration (FAA), DOT. ACTION: Final rule."
+    },
+    {
+      "id": "e41",
+      "type": "paragraph",
+      "page": 1,
+      "text": "SUMMARY: We are adopting a new airworthiness directive (AD) for certain Cessna Aircraft Company Models 172R and 172S airplanes. This AD was prompted by reports of chafed fuel return line assemblies, which were caused by the fuel return line assembly rubbing against the right steering tube assembly during full rudder pedal actuation. This AD requires you to inspect the fuel return line assembly for chafing; replace the fuel return line assembly if chafing is found; inspect the clearance between the fuel return line assembly and both the right steering tube assembly and the airplane structure; and adjust as necessary. We are issuing this AD to correct the unsafe condition on these products."
+    },
+    {
+      "id": "e42",
+      "type": "paragraph",
+      "page": 1,
+      "text": "DATES: This AD is effective December 28, 2012."
+    },
+    {
+      "id": "e43",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Director of the Federal Register approved the incorporation by reference of a certain other publication listed in this AD as of March 13, 2012 (77 FR 6003, February 7, 2012)."
+    },
+    {
+      "id": "e44",
+      "type": "paragraph",
+      "page": 1,
+      "text": "ADDRESSES: For service information identified in this AD, contact Cessna Aircraft Company, Customer service, P.O. Box 7706, Wichita, KS 67277; telephone: (316) 517-5800; fax: (316) 517-7271; Internet: http://www. cessnasupport.com. You may review copies of the referenced service information at the FAA, Small Airplane Directorate, 901 Locust, Kansas City, MO 64106. For information on the availability of this material at the FAA, call (816) 329-4148."
+    },
+    {
+      "id": "e45",
+      "type": "heading",
+      "page": 1,
+      "text": "Examining the AD Docket",
+      "level": 2
+    },
+    {
+      "id": "e46",
+      "type": "paragraph",
+      "page": 1,
+      "text": "You may examine the AD docket on the Internet at http://www.regulations. gov; or in person at the Docket Management Facility between 9 a.m. and 5 p.m., Monday through Friday, except Federal holidays. The AD docket contains this AD, the regulatory evaluation, any comments received, and other information. The address for the Docket Office (phone: 800-647-5527) is Document Management Facility, U.S. Department of Transportation, Docket Operations, M-30, West Building Ground Floor, Room W12-140, 1200 New Jersey Avenue SE., Washington, DC 20590."
+    },
+    {
+      "id": "e47",
+      "type": "paragraph",
+      "page": 1,
+      "text": "FOR FURTHER INFORMATION CONTACT: Jeff Janusz, Aerospace Engineer, Wichita Aircraft Certification Office, FAA, 1801 S. Airport Road, Room 100, Wichita, Kansas 67209; phone: (316) 946-4148; fax: (316) 946-4107; email: jeff.janusz@ faa.gov."
+    },
+    {
+      "id": "e48",
+      "type": "paragraph",
+      "page": 1,
+      "text": "VerDate Mar<15>2010 12:46 Nov 21, 2012 Jkt 229001 PO 00000 Frm 00010 Fmt 4700 Sfmt 4700 E:\\FR\\FM\\23NOR1.SGM 23NOR1"
+    },
+    {
+      "id": "e49",
+      "type": "page_header",
+      "page": 2,
+      "text": "Federal Register /Vol. 77, No. 226/Friday, November 23, 2012/Rules and Regulations"
+    },
+    {
+      "id": "e50",
+      "type": "page_header",
+      "page": 2,
+      "text": "70115"
+    },
+    {
+      "id": "e51",
+      "type": "paragraph",
+      "page": 2,
+      "text": "emcdonald on DSK7TPTVN1PROD with RULES"
+    },
+    {
+      "id": "e52",
+      "type": "heading",
+      "page": 2,
+      "text": "SUPPLEMENTARY INFORMATION:",
+      "level": 2
+    },
+    {
+      "id": "e53",
+      "type": "heading",
+      "page": 2,
+      "text": "Discussion",
+      "level": 2
+    },
+    {
+      "id": "e54",
+      "type": "paragraph",
+      "page": 2,
+      "text": "We issued a notice of proposed rulemaking (NPRM) to amend 14 CFR part 39 to include an AD that would apply to the specified products. That NPRM published in the Federal Register on August 20, 2012 (77 FR 50054). That NPRM proposed to require you to inspect the fuel return line assembly for chafing; replace the fuel return line assembly if chafing is found; inspect the clearance between the fuel return line assembly and both the right steering tube assembly and the airplane structure; and adjust as necessary."
+    },
+    {
+      "id": "e55",
+      "type": "heading",
+      "page": 2,
+      "text": "Comments",
+      "level": 2
+    },
+    {
+      "id": "e56",
+      "type": "paragraph",
+      "page": 2,
+      "text": "We gave the public the opportunity to participate in developing this AD. We received no comments on the NPRM (77 FR 50054, August 20, 2012) or on the determination of the cost to the public."
+    },
+    {
+      "id": "e57",
+      "type": "heading",
+      "page": 2,
+      "text": "Conclusion",
+      "level": 2
+    },
+    {
+      "id": "e58",
+      "type": "paragraph",
+      "page": 2,
+      "text": "We reviewed the relevant data and determined that air safety and the public interest require adopting the AD as proposed except for minor editorial"
+    },
+    {
+      "id": "e59",
+      "type": "heading",
+      "page": 2,
+      "text": "ESTIMATED COSTS",
+      "level": 2
+    },
+    {
+      "id": "e60",
+      "type": "table",
+      "header": [
+        "Action",
+        "Labor cost",
+        "Parts cost",
+        "Cost per product",
+        "Cost on U.S. operators"
+      ],
+      "rows": [
+        [
+          "Inspection of the fuel return line as- sembly for chafing and clearance.",
+          "1 work-hour × $85 per hour = $85",
+          "Not applicable ................................",
+          "$85",
+          "$4,675"
+        ]
+      ],
+      "page": 2
+    },
+    {
+      "id": "e61",
+      "type": "paragraph",
+      "page": 2,
+      "text": "We estimate the following costs to do any necessary replacements and adjustments that would be required based on the results of the inspection. We have no way of determining the number of aircraft that might need these replacements:"
+    },
+    {
+      "id": "e62",
+      "type": "heading",
+      "page": 2,
+      "text": "ON-CONDITION COSTS",
+      "level": 2
+    },
+    {
+      "id": "e63",
+      "type": "table",
+      "header": [
+        "Action",
+        "Labor cost",
+        "Parts cost",
+        "Cost per product"
+      ],
+      "rows": [
+        [
+          "Replacement of the fuel return line assembly and adjustment of the clearance between the fuel return line assembly and both the steering tube assembly and the airplane structure.",
+          "1 work-hour × $85 per hour = $85 ..",
+          "$123",
+          "$208"
+        ]
+      ],
+      "page": 2
+    },
+    {
+      "id": "e64",
+      "type": "heading",
+      "page": 2,
+      "text": "Authority for This Rulemaking",
+      "level": 2
+    },
+    {
+      "id": "e65",
+      "type": "paragraph",
+      "page": 2,
+      "text": "Title 49 of the United States Code specifies the FAA's authority to issue rules on aviation safety. Subtitle I, section 106, describes the authority of the FAA Administrator. Subtitle VII: Aviation Programs, describes in more detail the scope of the Agency's authority."
+    },
+    {
+      "id": "e66",
+      "type": "paragraph",
+      "page": 2,
+      "text": "We are issuing this rulemaking under the authority described in Subtitle VII, Part A, Subpart III, Section 44701:"
+    },
+    {
+      "id": "e67",
+      "type": "paragraph",
+      "page": 2,
+      "text": "''General requirements.'' Under that section, Congress charges the FAA with promoting safe flight of civil aircraft in air commerce by prescribing regulations for practices, methods, and procedures the Administrator finds necessary for safety in air commerce. This regulation is within the scope of that authority because it addresses an unsafe condition that is likely to exist or develop on products identified in this rulemaking action."
+    },
+    {
+      "id": "e68",
+      "type": "heading",
+      "page": 2,
+      "text": "Regulatory Findings",
+      "level": 2
+    },
+    {
+      "id": "e69",
+      "type": "paragraph",
+      "page": 2,
+      "text": "This AD will not have federalism implications under Executive Order 13132. This AD will not have a substantial direct effect on the States, on the relationship between the national government and the States, or on the distribution of power and responsibilities among the various levels of government."
+    },
+    {
+      "id": "e70",
+      "type": "paragraph",
+      "page": 2,
+      "text": "For the reasons discussed above, I certify that this AD:"
+    },
+    {
+      "id": "e71",
+      "type": "paragraph",
+      "page": 2,
+      "text": "Is not a ''significant regulatory action'' under Executive Order 12866,"
+    },
+    {
+      "id": "e72",
+      "type": "paragraph",
+      "page": 2,
+      "text": "Is not a ''significant rule'' under DOT Regulatory Policies and Procedures (44 FR 11034, February 26, 1979),"
+    },
+    {
+      "id": "e73",
+      "type": "paragraph",
+      "page": 2,
+      "text": "Will not affect intrastate aviation in Alaska, and"
+    },
+    {
+      "id": "e74",
+      "type": "paragraph",
+      "page": 2,
+      "text": "Will not have a significant economic impact, positive or negative, on a substantial number of small entities under the criteria of the Regulatory Flexibility Act."
+    },
+    {
+      "id": "e75",
+      "type": "heading",
+      "page": 2,
+      "text": "List of Subjects in 14 CFR Part 39",
+      "level": 2
+    },
+    {
+      "id": "e76",
+      "type": "paragraph",
+      "page": 2,
+      "text": "Air transportation, Aircraft, Aviation safety, Incorporation by reference, Safety."
+    },
+    {
+      "id": "e77",
+      "type": "heading",
+      "page": 2,
+      "text": "Adoption of the Amendment",
+      "level": 2
+    },
+    {
+      "id": "e78",
+      "type": "paragraph",
+      "page": 2,
+      "text": "Accordingly, under the authority delegated to me by the Administrator, the FAA amends 14 CFR part 39 as follows:"
+    },
+    {
+      "id": "e79",
+      "type": "heading",
+      "page": 2,
+      "text": "PART 39-AIRWORTHINESS DIRECTIVES",
+      "level": 2
+    },
+    {
+      "id": "e80",
+      "type": "paragraph",
+      "page": 2,
+      "text": "■ 1. The authority citation for part 39 continues to read as follows:"
+    },
+    {
+      "id": "e81",
+      "type": "paragraph",
+      "page": 2,
+      "text": "Authority: 49 U.S.C. 106(g), 40113, 44701."
+    },
+    {
+      "id": "e82",
+      "type": "heading",
+      "page": 2,
+      "text": "§39.13 [Amended]",
+      "level": 2
+    },
+    {
+      "id": "e83",
+      "type": "paragraph",
+      "page": 2,
+      "text": "■ 2. The FAA amends §39.13 by adding the following new airworthiness directive (AD):"
+    },
+    {
+      "id": "e84",
+      "type": "heading",
+      "page": 2,
+      "text": "2012-22-01 Cessna Aircraft Company:",
+      "level": 2
+    },
+    {
+      "id": "e85",
+      "type": "paragraph",
+      "page": 2,
+      "text": "Amendment 39-17237; Docket No. FAA-2012-0846; Directorate Identifier 2012-CE-021-AD."
+    },
+    {
+      "id": "e86",
+      "type": "heading",
+      "page": 2,
+      "text": "(a) Effective Date",
+      "level": 2
+    },
+    {
+      "id": "e87",
+      "type": "paragraph",
+      "page": 2,
+      "text": "This AD is effective December 28, 2012."
+    },
+    {
+      "id": "e88",
+      "type": "heading",
+      "page": 2,
+      "text": "(b) Affected ADs",
+      "level": 2
+    },
+    {
+      "id": "e89",
+      "type": "paragraph",
+      "page": 2,
+      "text": "None."
+    },
+    {
+      "id": "e90",
+      "type": "heading",
+      "page": 2,
+      "text": "(c) Applicability",
+      "level": 2
+    },
+    {
+      "id": "e91",
+      "type": "paragraph",
+      "page": 2,
+      "text": "This AD applies to the following Cessna Aircraft Company (Cessna) airplanes, certificated in any category:"
+    },
+    {
+      "id": "e92",
+      "type": "paragraph",
+      "page": 2,
+      "text": "(1) Model 172R, serial numbers (S/N) 17280001 through 17281187, that have"
+    },
+    {
+      "id": "e93",
+      "type": "paragraph",
+      "page": 2,
+      "text": "VerDate Mar<15>2010 12:46 Nov 21, 2012 Jkt 229001 PO 00000 Frm 00011 Fmt 4700 Sfmt 4700 E:\\FR\\FM\\23NOR1.SGM 23NOR1"
+    },
+    {
+      "id": "e94",
+      "type": "paragraph",
+      "page": 2,
+      "text": "changes. We have determined that these minor changes:"
+    },
+    {
+      "id": "e95",
+      "type": "paragraph",
+      "page": 2,
+      "text": "Are consistent with the intent that was proposed in the NPRM (77 FR 50054, August 20, 2012) for correcting the unsafe condition; and"
+    },
+    {
+      "id": "e96",
+      "type": "paragraph",
+      "page": 2,
+      "text": "Do not add any additional burden upon the public than was already proposed in the NPRM (77 FR 50054, August 20, 2012)."
+    },
+    {
+      "id": "e97",
+      "type": "heading",
+      "page": 2,
+      "text": "Costs of Compliance",
+      "level": 2
+    },
+    {
+      "id": "e98",
+      "type": "paragraph",
+      "page": 2,
+      "text": "We estimate that this AD affects 55 airplanes of U.S. registry."
+    },
+    {
+      "id": "e99",
+      "type": "paragraph",
+      "page": 2,
+      "text": "We estimate the following costs to comply with this AD:"
+    },
+    {
+      "id": "e100",
+      "type": "page_header",
+      "page": 3,
+      "text": "70116"
+    },
+    {
+      "id": "e101",
+      "type": "page_header",
+      "page": 3,
+      "text": "Federal Register /Vol. 77, No. 226/Friday, November 23, 2012/Rules and Regulations"
+    },
+    {
+      "id": "e102",
+      "type": "paragraph",
+      "page": 3,
+      "text": "emcdonald on DSK7TPTVN1PROD with RULES"
+    },
+    {
+      "id": "e103",
+      "type": "paragraph",
+      "page": 3,
+      "text": "incorporated Cessna Aircraft Company Service Bulletin SB04-28-03, dated August 30, 2004, and Engine Fuel Return System, Modification Kit MK172-28-01, dated August 30, 2004; and"
+    },
+    {
+      "id": "e104",
+      "type": "paragraph",
+      "page": 3,
+      "text": "(2) Model 172S, S/N l72S8001 through 172S9490, that have incorporated Cessna Aircraft Company Service Bulletin SB04-2803, dated August 30, 2004, and Engine Fuel Return System, Modification Kit MK172-2801; dated August 30, 2004."
+    },
+    {
+      "id": "e105",
+      "type": "heading",
+      "page": 3,
+      "text": "(d) Subject",
+      "level": 2
+    },
+    {
+      "id": "e106",
+      "type": "paragraph",
+      "page": 3,
+      "text": "Joint Aircraft System Component (JASC)/ Air Transport Association (ATA) of America Code 2820, Aircraft Fuel Distribution System."
+    },
+    {
+      "id": "e107",
+      "type": "heading",
+      "page": 3,
+      "text": "(e) Unsafe Condition",
+      "level": 2
+    },
+    {
+      "id": "e108",
+      "type": "paragraph",
+      "page": 3,
+      "text": "This AD was prompted by reports of chafed fuel return line assemblies caused by the fuel return line assembly rubbing against the right steering tube assembly during full rudder pedal actuation. We are issuing this AD to correct the unsafe condition on these products."
+    },
+    {
+      "id": "e109",
+      "type": "heading",
+      "page": 3,
+      "text": "(f) Compliance",
+      "level": 2
+    },
+    {
+      "id": "e110",
+      "type": "paragraph",
+      "page": 3,
+      "text": "Comply with this AD within the compliance times specified, unless already done."
+    },
+    {
+      "id": "e111",
+      "type": "heading",
+      "page": 3,
+      "text": "(g) Inspect the Fuel Return Line Assembly",
+      "level": 2
+    },
+    {
+      "id": "e112",
+      "type": "paragraph",
+      "page": 3,
+      "text": "At whichever of the following that occurs later, inspect the fuel return line assembly (Cessna part number (P/N) 0500118-49) for chafing following Cessna Service Bulletin SB07-28-01, Revision 1, dated September 22, 2011."
+    },
+    {
+      "id": "e113",
+      "type": "paragraph",
+      "page": 3,
+      "text": "At the next annual inspection after December 28, 2012 (the effective date of this AD); or"
+    },
+    {
+      "id": "e114",
+      "type": "paragraph",
+      "page": 3,
+      "text": "Within the next 100 hours time-inservice (TIS) after December 28, 2012 (the effective date of this AD); or"
+    },
+    {
+      "id": "e115",
+      "type": "paragraph",
+      "page": 3,
+      "text": "Within the next 12 calendar months after December 28, 2012 (the effective date of this AD)."
+    },
+    {
+      "id": "e116",
+      "type": "heading",
+      "page": 3,
+      "text": "(h) Replace the Fuel Line Assembly",
+      "level": 2
+    },
+    {
+      "id": "e117",
+      "type": "paragraph",
+      "page": 3,
+      "text": "If you find evidence of chafing of the fuel return line assembly (Cessna P/N 050011849) as a result of the inspection required by paragraph (g) of this AD, then before further flight, replace the fuel return line assembly (Cessna P/N 0500118-49) following Cessna Service Bulletin SB07-28-01, Revision 1, dated September 22, 2011."
+    },
+    {
+      "id": "e118",
+      "type": "heading",
+      "page": 3,
+      "text": "(i) Inspect for a Minimum Clearance Between Certain Parts",
+      "level": 2
+    },
+    {
+      "id": "e119",
+      "type": "paragraph",
+      "page": 3,
+      "text": "After any inspection required by paragraph (g) of this AD and no chafing of the fuel return line assembly (Cessna P/N 050011849) is found or after replacement of the fuel return line assembly (Cessna P/N 050011849) required by paragraph (h) of this AD, before further flight, inspect for a minimum clearance between the following parts throughout the range of copilot pedal travel:"
+    },
+    {
+      "id": "e120",
+      "type": "paragraph",
+      "page": 3,
+      "text": "(1) A minimum clearance of 0.5 inch between the fuel return line assembly (Cessna P/N 0500118-49) and the right steering tube assembly (Cessna P/N MC0543022-2C); and"
+    },
+    {
+      "id": "e121",
+      "type": "paragraph",
+      "page": 3,
+      "text": "(2) Visible positive clearance between the fuel return line assembly (Cessna P/N 0500118-49) and the airplane structure."
+    },
+    {
+      "id": "e122",
+      "type": "heading",
+      "page": 3,
+      "text": "(j) Adjust Clearance for Fuel Return Line Assembly",
+      "level": 2
+    },
+    {
+      "id": "e123",
+      "type": "paragraph",
+      "page": 3,
+      "text": "If the clearance between the fuel return line assembly and the right steering tube assembly and the clearance between the fuel return line assembly and the aircraft structure do not meet the minimums as specified in paragraphs (i)(l) and (i)(2) of this AD, before further flight, adjust the clearances to meet the required minimums following the Instructions paragraph of Cessna Service Bulletin SB07-28-01, Revision 1, dated September 22, 2011."
+    },
+    {
+      "id": "e124",
+      "type": "heading",
+      "page": 3,
+      "text": "(k) Engine Fuel Return System Modification",
+      "level": 2
+    },
+    {
+      "id": "e125",
+      "type": "paragraph",
+      "page": 3,
+      "text": "Do not incorporate Cessna Aircraft Company Engine Fuel Return System Modification Kit MK 172-28-01 as referenced in Service Bulletin SB 04-28-03, both dated August 30, 2004, without performing the actions in this AD before further flight after installation."
+    },
+    {
+      "id": "e126",
+      "type": "heading",
+      "page": 3,
+      "text": "(l) Alternative Methods of Compliance (AMOCs)",
+      "level": 2
+    },
+    {
+      "id": "e127",
+      "type": "paragraph",
+      "page": 3,
+      "text": "(1) The Manager, Wichita Aircraft Certification Office (ACO), FAA, has the authority to approve AMOCs for this AD, if requested using the procedures found in 14 CFR 39.19. In accordance with 14 CFR 39.19, send your request to your principal inspector or local Flight Standards District Office, as appropriate. If sending information directly to the manager of the ACO, send it to the attention of the person identified in the Related Information section of this AD."
+    },
+    {
+      "id": "e128",
+      "type": "paragraph",
+      "page": 3,
+      "text": "(2) Before using any approved AMOC, notify your appropriate principal inspector, or lacking a principal inspector, the manager of the local flight standards district office/ certificate holding district office."
+    },
+    {
+      "id": "e129",
+      "type": "heading",
+      "page": 3,
+      "text": "(m) Related Information",
+      "level": 2
+    },
+    {
+      "id": "e130",
+      "type": "paragraph",
+      "page": 3,
+      "text": "For more information about this AD, contact Jeff Janusz, Aerospace Engineer, Wichita ACO, FAA, 1801 S. Airport Road, Room 100, Wichita, Kansas 67209; phone: (316) 946-4148; fax: (316) 946-4107; email: jeff.janusz@faa.gov."
+    },
+    {
+      "id": "e131",
+      "type": "heading",
+      "page": 3,
+      "text": "(n) Material Incorporated by Reference",
+      "level": 2
+    },
+    {
+      "id": "e132",
+      "type": "paragraph",
+      "page": 3,
+      "text": "The Director of the Federal Register approved the incorporation by reference (IBR) of the service information listed in this paragraph under 5 U.S.C. 552(a) and 1 CFR part 51."
+    },
+    {
+      "id": "e133",
+      "type": "paragraph",
+      "page": 3,
+      "text": "You must use this service information as applicable to do the actions required by this AD, unless the AD specifies otherwise."
+    },
+    {
+      "id": "e134",
+      "type": "paragraph",
+      "page": 3,
+      "text": "The following service information was approved for IBR on March 13, 2012 (77 FR 6003, February 7, 2012)."
+    },
+    {
+      "id": "e135",
+      "type": "paragraph",
+      "page": 3,
+      "text": "(i) Cessna Aircraft Company Cessna Service Bulletin SB07-28-01, Revision 1, dated September 22, 2011."
+    },
+    {
+      "id": "e136",
+      "type": "paragraph",
+      "page": 3,
+      "text": "(ii) Reserved."
+    },
+    {
+      "id": "e137",
+      "type": "paragraph",
+      "page": 3,
+      "text": "For Cessna Aircraft Company service information identified in this AD, contact Cessna Aircraft Company, Customer service, P.O. Box 7706, Wichita, KS 67277; telephone: (316) 517-5800; fax: (316) 517-7271; Internet: http://www.cessnasupport.com."
+    },
+    {
+      "id": "e138",
+      "type": "paragraph",
+      "page": 3,
+      "text": "(5) You may view this service information at FAA, Small Airplane Directorate, 901 Locust, Kansas City, MO 64106. For information on the availability of this material at the FAA, call (816) 329-4148."
+    },
+    {
+      "id": "e139",
+      "type": "paragraph",
+      "page": 3,
+      "text": "(6) You may view this service information that is incorporated by reference at the National Archives and Records 202-741-6030, or go to: http://www.archives."
+    },
+    {
+      "id": "e140",
+      "type": "paragraph",
+      "page": 3,
+      "text": "Administration (NARA). For information on the availability of this material at NARA, call gov/federal-register/cfr/ibr-locations.html."
+    },
+    {
+      "id": "e141",
+      "type": "paragraph",
+      "page": 3,
+      "text": "Issued in Kansas City, Missouri, on October 22, 2012."
+    },
+    {
+      "id": "e142",
+      "type": "heading",
+      "page": 3,
+      "text": "James E. Jackson,",
+      "level": 2
+    },
+    {
+      "id": "e143",
+      "type": "paragraph",
+      "page": 3,
+      "text": "Acting Manager, Small Airplane Directorate, Aircraft Certification Service."
+    },
+    {
+      "id": "e144",
+      "type": "paragraph",
+      "page": 3,
+      "text": "[FR Doc. 2012-26500 Filed 11-21-12; 8:45 am]"
+    },
+    {
+      "id": "e145",
+      "type": "paragraph",
+      "page": 3,
+      "text": "BILLING CODE 4910-13-P"
+    },
+    {
+      "id": "e146",
+      "type": "heading",
+      "page": 3,
+      "text": "SECURITIES AND EXCHANGE COMMISSION",
+      "level": 2
+    },
+    {
+      "id": "e147",
+      "type": "heading",
+      "page": 3,
+      "text": "17 CFR Parts 240 and 249",
+      "level": 2
+    },
+    {
+      "id": "e148",
+      "type": "paragraph",
+      "page": 3,
+      "text": "[Release No. 34-67717A; File No. S7-4210]"
+    },
+    {
+      "id": "e149",
+      "type": "paragraph",
+      "page": 3,
+      "text": "RIN 3235-AK85"
+    },
+    {
+      "id": "e150",
+      "type": "heading",
+      "page": 3,
+      "text": "Disclosure of Payments by Resource Extraction Issuers",
+      "level": 2
+    },
+    {
+      "id": "e151",
+      "type": "paragraph",
+      "page": 3,
+      "text": "AGENCY: Securities and Exchange Commission."
+    },
+    {
+      "id": "e152",
+      "type": "paragraph",
+      "page": 3,
+      "text": "ACTION: Final rule; correction."
+    },
+    {
+      "id": "e153",
+      "type": "paragraph",
+      "page": 3,
+      "text": "SUMMARY: This release makes a technical"
+    },
+    {
+      "id": "e154",
+      "type": "paragraph",
+      "page": 3,
+      "text": "correction to Release No. 34-67717 (August 22, 2012), which adopted disclosure rules for resource extraction issuers and was published in the Federal Register on September 12, 2012 (77 FR 56365). We are correcting the release to include the text of a footnote that was omitted when published. DATES: Effective Date: November 23,"
+    },
+    {
+      "id": "e155",
+      "type": "paragraph",
+      "page": 3,
+      "text": "2012."
+    },
+    {
+      "id": "e156",
+      "type": "heading",
+      "page": 3,
+      "text": "FOR FURTHER INFORMATION CONTACT:",
+      "level": 2
+    },
+    {
+      "id": "e157",
+      "type": "paragraph",
+      "page": 3,
+      "text": "Tamara Brightwell, Senior Special Counsel, or Eduardo Aleman, Special Counsel, Division of Corporation Finance, at 202-551-3290, Securities and Exchange Commission, 100 F Street NE., Washington, DC 20549."
+    },
+    {
+      "id": "e158",
+      "type": "paragraph",
+      "page": 3,
+      "text": "SUPPLEMENTARY INFORMATION: We are making the following correction to Release No. 34-67717 (August 22, 2012), which was published in FR Doc. 2012-21155 and appeared on page 56365 of the Federal Register on September 12, 2012:"
+    },
+    {
+      "id": "e159",
+      "type": "paragraph",
+      "page": 3,
+      "text": "On page 56395, above the last line of the second column, the following footnote text is inserted: ''471 See letters from Bon Secours, Calvert, CRS, Earthworks, EIWG, ERI, ERI 2, Global Financial 2, Global Witness 1, Greenpeace, HII, HURFOM 1, HURFOM 2, Newground, ONE, Oxfam 1, PGGM, PWYP 1, RWI 1, Sanborn, Sen. Cardin et al. 1, Sen. Cardin et al. 2, Sen. Levin 1, Soros 1, TIAA, USAID, USW, and WRI.''"
+    },
+    {
+      "id": "e160",
+      "type": "paragraph",
+      "page": 3,
+      "text": "VerDate Mar<15>2010 12:46 Nov 21, 2012 Jkt 229001 PO 00000 Frm 00012 Fmt 4700 Sfmt 4700 E:\\FR\\FM\\23NOR1.SGM 23NOR1"
+    }
+  ]
+}

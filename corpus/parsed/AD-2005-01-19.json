@@ -1,0 +1,1091 @@
+{
+  "source_id": "AD-2005-01-19",
+  "file": "faa/ad/ad-2005-01-19.pdf",
+  "format": "pdf",
+  "parser": "docling",
+  "meta": {
+    "title": "AD 2005-01-19: GARMIN International Inc. GTX 33, GTX 33D, GTX 330, and GTX 330D Mode S Transponders",
+    "publisher": "FAA",
+    "doc_type": "airworthiness directive",
+    "ad_number": "2005-01-19",
+    "action": "Final rule",
+    "published": "2005-01-19",
+    "effective": "2005-02-23",
+    "federal_register": "70 FR 2937 (document 05-832)",
+    "access": "employees"
+  },
+  "elements": [
+    {
+      "id": "e1",
+      "type": "page_header",
+      "page": 1,
+      "text": "Federal Register /Vol. 70, No. 12/Wednesday, January 19, 2005/Rules and Regulations"
+    },
+    {
+      "id": "e2",
+      "type": "page_header",
+      "page": 1,
+      "text": "2937"
+    },
+    {
+      "id": "e3",
+      "type": "heading",
+      "page": 1,
+      "text": "DEPARTMENT OF TRANSPORTATION",
+      "level": 2
+    },
+    {
+      "id": "e4",
+      "type": "heading",
+      "page": 1,
+      "text": "Federal Aviation Administration",
+      "level": 2
+    },
+    {
+      "id": "e5",
+      "type": "heading",
+      "page": 1,
+      "text": "14 CFR Part 39",
+      "level": 2
+    },
+    {
+      "id": "e6",
+      "type": "paragraph",
+      "page": 1,
+      "text": "[Docket No. FAA-2004-18743; Directorate Identifier 2004-CE-23-AD; Amendment 3913944; AD 2005-01-19]"
+    },
+    {
+      "id": "e7",
+      "type": "paragraph",
+      "page": 1,
+      "text": "RIN 2120-AA64"
+    },
+    {
+      "id": "e8",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Airworthiness Directives; GARMIN International Inc. GTX 33, GTX 33D, GTX 330, and GTX 330D Mode S Transponders"
+    },
+    {
+      "id": "e9",
+      "type": "paragraph",
+      "page": 1,
+      "text": "AGENCY: Federal Aviation"
+    },
+    {
+      "id": "e10",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Administration (FAA), DOT. ACTION: Final rule."
+    },
+    {
+      "id": "e11",
+      "type": "paragraph",
+      "page": 1,
+      "text": "SUMMARY: The FAA is adopting a new airworthiness directive (AD) to supersede Airworthiness Directive 2004-10-15, which applies to certain GTX 330 and GTX 330D Mode S transponders that are installed on airplanes. AD 2004-10-15 currently requires you to install GTX 330/330D Software Upgrade Version 3.03, 3.04, or 3.05. This AD applies to certain GTX 33, GTX 33D, GTX 330, and GTX 330D Mode S transponders that are installed on airplanes and is the result of observations that the GTX 33/33D/330/ 330D may detect, from other airplanes, the S1 (suppression) interrogating pulse below the minimum trigger level (MTL) and, in some circumstances, not reply. The GTX 33/33D/330/330D should still reply even if it detects S1 interrogating pulses below the MTL. Consequently, this AD would require you to install a GTX 33/33D/330/330D Software Upgrade to at least Version 3.06. No additional action is necessary for those airplanes that have transponders Software Upgrade 3.03 installed. Software Upgrade Versions 3.03 and 3.06 correct a TAS, TCAD, and TCAS I system ''whisper-shout'' problem that could potentially lead to the aircraft not being visible at certain ranges. TCAS II systems are not affected. We are issuing this AD to prevent interrogating aircraft from possibly receiving inaccurate replies due to suppression from aircraft equipped with the GTX 33/33D/330/ 330D Mode S transponders when the pulses are below the MTL. The inaccurate replies could result in reduced vertical separation."
+    },
+    {
+      "id": "e12",
+      "type": "paragraph",
+      "page": 1,
+      "text": "DATES: This AD becomes effective on February 23, 2005."
+    },
+    {
+      "id": "e13",
+      "type": "paragraph",
+      "page": 1,
+      "text": "As of February 23, 2005, the Director of the Federal Register approved the incorporation by reference of certain publications listed in the regulation."
+    },
+    {
+      "id": "e14",
+      "type": "paragraph",
+      "page": 1,
+      "text": "ADDRESSES: To get the service information identified in this AD, contact GARMIN International Inc., 1200 East 151st Street, Olathe, KS 66062; telephone: 913-397-8200. To review this service information, go to the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, go to: http:// www.archives.gov/federal_register/ code_of_federal_regulations/ ibr_locations.html or call (202) 7416030."
+    },
+    {
+      "id": "e15",
+      "type": "paragraph",
+      "page": 1,
+      "text": "To view the AD docket, go to the Docket Management Facility; U.S. Department of Transportation, 400 Seventh Street, SW., Nassif Building, Room PL-401, Washington, DC 20590001 or on the Internet at http:// dms.dot.gov. The docket number is FAA-2004-18743."
+    },
+    {
+      "id": "e16",
+      "type": "paragraph",
+      "page": 1,
+      "text": "FOR FURTHER INFORMATION CONTACT: Roger A. Souter, FAA, Wichita Aircraft Certification Office (ACO), 1801 Airport Road, Room 100, Wichita, Kansas 67209; telephone: 316-946-4134; facsimile: 316-946-4107; e-mail address: roger.souter@faa.gov."
+    },
+    {
+      "id": "e17",
+      "type": "heading",
+      "page": 1,
+      "text": "SUPPLEMENTARY INFORMATION:",
+      "level": 2
+    },
+    {
+      "id": "e18",
+      "type": "heading",
+      "page": 1,
+      "text": "Discussion",
+      "level": 2
+    },
+    {
+      "id": "e19",
+      "type": "paragraph",
+      "page": 1,
+      "text": "What events have caused this AD? The GTX 330/GTX 330D may detect from other aircraft the S1 (suppression) interrogating pulse below the MTL and, in some circumstances, does not reply. The GTX 330/330D should still reply even if it detects S1 interrogating pulses below the MTL, and this caused FAA to issue AD 2004-10-15, Amendment 3913645 (69 FR 29212, dated May 21, 2004). AD 2004-10-15 currently requires the incorporation of GTX 330/ 330D Software Upgrade to at least Version, 3.03, 3.04, or 3.05 on certain GTX 330 and GTX 330D Mode S transponders that are installed on airplanes."
+    },
+    {
+      "id": "e20",
+      "type": "paragraph",
+      "page": 1,
+      "text": "What has happened since AD 200410-15 to initiate this action? After the issuance of AD 2004-10-15, GARMIN International Inc. discovered that minor changes made to GTX 330/330D Software Upgrades 3.04 and 3.05 inadvertently removed the correction to not suppress the S1 pulse below MTL. Garmin also discovered the Software Upgrade must be installed on GTX 33 and GTX 33D Mode S transponders as well as the GTX 330 and GTX 330D Mode S transponders."
+    },
+    {
+      "id": "e21",
+      "type": "paragraph",
+      "page": 1,
+      "text": "What is the potential impact if FAA took no action? If these changes are not incorporated, then interrogating aircraft could possibly receive inaccurate replies due to suppression from aircraft equipped with the GTX 33/33D/330/ 330D Mode S transponders when the pulses are below the MTL. Software Upgrade Version 3.03 and 3.06 correct a TAS, TCAD, and TCAS I system ''whisper-shout'' problem that could potentially lead to the aircraft not being visible at certain ranges. TCAS II systems are not affected. The inaccurate replies could result in reduced vertical separation."
+    },
+    {
+      "id": "e22",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Has FAA taken any action to this point? We issued a proposal to amend part 39 of the Federal Aviation Regulations (14 CFR part 39) to include an AD that would apply to certain GTX 330 and GTX 330D Mode S transponders that are installed on airplanes. This proposal was published in the Federal Register as a notice of proposed rulemaking (NPRM) on October 7, 2004 (69 FR 60100). The NPRM proposed to require you to install GTX 33/33D/330/330D Software Upgrade Version 3.03 or 3.06."
+    },
+    {
+      "id": "e23",
+      "type": "heading",
+      "page": 1,
+      "text": "Comments",
+      "level": 2
+    },
+    {
+      "id": "e24",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Was the public invited to comment? We provided the public the opportunity to participate in developing this AD. The following presents the comments received on the proposal and FAA's response to each comment:"
+    },
+    {
+      "id": "e25",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Comment Issue: Direct the AD Only to Those Products That Have the Old SW Versions 3.00, 3.01, 3.02, 3.04, and 3.05"
+    },
+    {
+      "id": "e26",
+      "type": "paragraph",
+      "page": 1,
+      "text": "What is the commenter's concern? The NPRM currently requires installation of GTX 330/330D Software Upgrade Version 3.03 or 3.06 to comply with the proposed AD, or later Software Versions by way of an AMOC. The commenter would like to direct the AD only to those products that have the old software versions 3.00, 3.01, 3.02, 3.04, and 3.05 installed; so that if the new software version 3.06 or later is installed the AD does not affect that product. The AD should not apply to future software versions."
+    },
+    {
+      "id": "e27",
+      "type": "paragraph",
+      "page": 1,
+      "text": "What is FAA's response to the concern? We concur. This was the intent of the NPRM, and we have reworded the AD to reflect this comment."
+    },
+    {
+      "id": "e28",
+      "type": "heading",
+      "page": 1,
+      "text": "Conclusion",
+      "level": 2
+    },
+    {
+      "id": "e29",
+      "type": "paragraph",
+      "page": 1,
+      "text": "What is FAA's final determination on this issue? We have carefully reviewed the available data and determined that air safety and the public interest require adopting the AD as proposed except for the changes discussed above and minor editorial corrections. We have determined that these changes and minor corrections:"
+    },
+    {
+      "id": "e30",
+      "type": "paragraph",
+      "page": 1,
+      "text": "-Are consistent with the intent that was proposed in the NPRM for correcting the unsafe condition; and"
+    },
+    {
+      "id": "e31",
+      "type": "paragraph",
+      "page": 1,
+      "text": "VerDate jul<14>2003 15:11 Jan 18, 2005 Jkt 205001 PO 00000 Frm 00011 Fmt 4700 Sfmt 4700 E:\\FR\\FM\\19JAR1.SGM 19JAR1"
+    },
+    {
+      "id": "e32",
+      "type": "page_header",
+      "page": 2,
+      "text": "2938"
+    },
+    {
+      "id": "e33",
+      "type": "page_header",
+      "page": 2,
+      "text": "Federal Register /Vol. 70, No. 12/Wednesday, January 19, 2005/Rules and Regulations"
+    },
+    {
+      "id": "e34",
+      "type": "paragraph",
+      "page": 2,
+      "text": "-Do not add any additional burden upon the public than was already proposed in the NPRM."
+    },
+    {
+      "id": "e35",
+      "type": "heading",
+      "page": 2,
+      "text": "Docket Information",
+      "level": 2
+    },
+    {
+      "id": "e36",
+      "type": "paragraph",
+      "page": 2,
+      "text": "Where can I go to view the docket information? You may view the AD docket that contains information relating to this subject in person at the DMS Docket Offices between 9 a.m. and 5 p.m. (eastern standard time), Monday through Friday, except Federal holidays. The Docket Office (telephone 1-800647-5227) is located on the plaza level of the Department of Transportation NASSIF Building at the street address stated in ADDRESSES. You may also view the AD docket on the Internet at http://dms.dot.gov."
+    },
+    {
+      "id": "e37",
+      "type": "heading",
+      "page": 2,
+      "text": "Changes to 14 CFR Part 39-Effect on the AD",
+      "level": 2
+    },
+    {
+      "id": "e38",
+      "type": "paragraph",
+      "page": 2,
+      "text": "How does the revision to 14 CFR part 39 affect this AD? On July 10, 2002, the FAA published a new version of 14 CFR part 39 (67 FR 47997, July 22, 2002), which governs the FAA's AD system. This regulation now includes material that relates to altered products, special flight permits, and alternative methods of compliance. This material previously was included in each individual AD. Since this material is included in 14 CFR part 39, we will not include it in future AD actions."
+    },
+    {
+      "id": "e39",
+      "type": "heading",
+      "page": 2,
+      "text": "Costs of Compliance",
+      "level": 2
+    },
+    {
+      "id": "e40",
+      "type": "paragraph",
+      "page": 2,
+      "text": "How many airplanes does this AD impact? We estimate that this AD affects 5,400 airplanes in the U.S. registry."
+    },
+    {
+      "id": "e41",
+      "type": "paragraph",
+      "page": 2,
+      "text": "What is the cost impact of this AD on owners/operators of the affected airplanes? Garmin International Inc. will provide warranty only for Service Bulletin No. 0409, dated July 19, 2004 (which incorporates Software Upgrade 3.06) installation as specified in the service information. Although Software Upgrade 3.03 is still in compliance with this proposed AD, if previously installed, Software Upgrade 3.03 is no longer available through Garmin."
+    },
+    {
+      "id": "e42",
+      "type": "heading",
+      "page": 2,
+      "text": "Authority for This Rulemaking",
+      "level": 2
+    },
+    {
+      "id": "e43",
+      "type": "paragraph",
+      "page": 2,
+      "text": "What authority does FAA have for issuing this rulemaking action? Title 49 of the United States Code specifies the FAA's authority to issue rules on aviation safety. Subtitle I, Section 106 describes the authority of the FAA Administrator. Subtitle VII, Aviation Programs, describes in more detail the scope of the agency's authority."
+    },
+    {
+      "id": "e44",
+      "type": "paragraph",
+      "page": 2,
+      "text": "We are issuing this rulemaking under the authority described in Subtitle VII, Part A, Subpart III, Section 44701,"
+    },
+    {
+      "id": "e45",
+      "type": "paragraph",
+      "page": 2,
+      "text": "''General requirements.'' Under that section, Congress charges the FAA with promoting safe flight of civil aircraft in air commerce by prescribing regulations for practices, methods, and procedures the Administrator finds necessary for safety in air commerce. This regulation is within the scope of that authority because it addresses an unsafe condition that is likely to exist or develop on products identified in this AD."
+    },
+    {
+      "id": "e46",
+      "type": "heading",
+      "page": 2,
+      "text": "Regulatory Findings",
+      "level": 2
+    },
+    {
+      "id": "e47",
+      "type": "paragraph",
+      "page": 2,
+      "text": "Will this AD impact various entities? We have determined that this AD will not have federalism implications under Executive Order 13132. This AD will not have a substantial direct effect on the States, on the relationship between the national government and the States, or on the distribution of power and responsibilities among the various levels of government."
+    },
+    {
+      "id": "e48",
+      "type": "paragraph",
+      "page": 2,
+      "text": "Will this AD involve a significant rule or regulatory action? For the reasons discussed above, I certify that this AD:"
+    },
+    {
+      "id": "e49",
+      "type": "paragraph",
+      "page": 2,
+      "text": "Is not a ''significant regulatory action'' under Executive Order 12866;"
+    },
+    {
+      "id": "e50",
+      "type": "paragraph",
+      "page": 2,
+      "text": "Is not a ''significant rule'' under the DOT Regulatory Policies and Procedures (44 FR 11034, February 26, 1979); and"
+    },
+    {
+      "id": "e51",
+      "type": "paragraph",
+      "page": 2,
+      "text": "Will not have a significant economic impact, positive or negative, on a substantial number of small entities under the criteria of the Regulatory Flexibility Act."
+    },
+    {
+      "id": "e52",
+      "type": "paragraph",
+      "page": 2,
+      "text": "We prepared a summary of the costs to comply with this AD and placed it in the AD Docket. You may get a copy of this summary by sending a request to us at the address listed under ADDRESSES. Include ''Docket No. FAA-2004-18743; Directorate Identifier 2004-CE-23-AD'' in your request."
+    },
+    {
+      "id": "e53",
+      "type": "heading",
+      "page": 2,
+      "text": "List of Subjects in 14 CFR Part 39",
+      "level": 2
+    },
+    {
+      "id": "e54",
+      "type": "paragraph",
+      "page": 2,
+      "text": "Air transportation, Aircraft, Aviation safety, Incorporation by reference, Safety."
+    },
+    {
+      "id": "e55",
+      "type": "heading",
+      "page": 2,
+      "text": "Adoption of the Amendment",
+      "level": 2
+    },
+    {
+      "id": "e56",
+      "type": "paragraph",
+      "page": 2,
+      "text": "■ Accordingly, under the authority delegated to me by the Administrator, the Federal Aviation Administration amends part 39 of the Federal Aviation Regulations (14 CFR part 39) as follows:"
+    },
+    {
+      "id": "e57",
+      "type": "heading",
+      "page": 2,
+      "text": "PART 39-AIRWORTHINESS DIRECTIVES",
+      "level": 2
+    },
+    {
+      "id": "e58",
+      "type": "paragraph",
+      "page": 2,
+      "text": "■ 1. The authority citation for part 39 continues to read as follows:"
+    },
+    {
+      "id": "e59",
+      "type": "paragraph",
+      "page": 2,
+      "text": "Authority: 49 U.S.C. 106(g), 40113, 44701."
+    },
+    {
+      "id": "e60",
+      "type": "heading",
+      "page": 2,
+      "text": "§39.13 [Amended]",
+      "level": 2
+    },
+    {
+      "id": "e61",
+      "type": "paragraph",
+      "page": 2,
+      "text": "■ 2. FAA amends §39.13 by removing AD 2004-10-15, Amendment 39-13645 and adding a new AD to read as follows:"
+    },
+    {
+      "id": "e62",
+      "type": "heading",
+      "page": 2,
+      "text": "2005-01-19 GARMIN International Inc.:",
+      "level": 2
+    },
+    {
+      "id": "e63",
+      "type": "paragraph",
+      "page": 2,
+      "text": "Amendment 39-13944; Docket No. FAA-2004-18743; Directorate Identifier 2004-CE-23-AD."
+    },
+    {
+      "id": "e64",
+      "type": "heading",
+      "page": 2,
+      "text": "When Does This AD Become Effective?",
+      "level": 2
+    },
+    {
+      "id": "e65",
+      "type": "paragraph",
+      "page": 2,
+      "text": "(a) This AD becomes effective on February 23, 2005."
+    },
+    {
+      "id": "e66",
+      "type": "heading",
+      "page": 2,
+      "text": "What Other ADs Are Affected by This Action?",
+      "level": 2
+    },
+    {
+      "id": "e67",
+      "type": "paragraph",
+      "page": 2,
+      "text": "(b) This AD supersedes AD 2004-10-15, Amendment 39-13645."
+    },
+    {
+      "id": "e68",
+      "type": "heading",
+      "page": 2,
+      "text": "What Airplanes Are Affected by This AD?",
+      "level": 2
+    },
+    {
+      "id": "e69",
+      "type": "paragraph",
+      "page": 2,
+      "text": "(c) This AD affects GARMIN International Inc. GTX 33, GTX 33D, GTX 330, and GTX 330D Mode S transponders that include software versions 3.00, 3.01, 3.02, 3.04, or 3.05 that are installed on, but not limited to, the following airplanes, certificated in any category:"
+    },
+    {
+      "id": "e70",
+      "type": "heading",
+      "page": 2,
+      "text": "Manufacturer",
+      "level": 2
+    },
+    {
+      "id": "e71",
+      "type": "heading",
+      "page": 2,
+      "text": "Model",
+      "level": 2
+    },
+    {
+      "id": "e72",
+      "type": "paragraph",
+      "page": 2,
+      "text": "Aermacchi S.p.A ........................................... S.205-18/F, S.205-18/R, S.205-20/R, S.205-22/R, S208, S.208A, F.260, F.260B, F.260C, F.260D, F.260E, F.260F, S.211A."
+    },
+    {
+      "id": "e73",
+      "type": "paragraph",
+      "page": 2,
+      "text": "Aeronautica Macchi S.p.A ............................. AL 60, AL 60-B, AL 60-F5, AL 60-C5, AM-3."
+    },
+    {
+      "id": "e74",
+      "type": "paragraph",
+      "page": 2,
+      "text": "(3) Aerostar Aircraft Corporation ........................ PA-60-600 (Aerostar 600), PA-60-601 (Aerostar 601), PA-60-601P (Aerostar 601P), PA60-602P (Aerostar 602P), PA-60-700P (Aerostar 700P), 360, 400."
+    },
+    {
+      "id": "e75",
+      "type": "paragraph",
+      "page": 2,
+      "text": "(4) Alexandria Aircraft, LLC ................................ 14-19, 14-19-2, 14-19-3, 14-19-3A, 17-30, 17-31, 17-31TC, 17-30A, 17-31A, 17-31ATC (5) Alliance Aircraft Group LLC .......................... 15A, 20, H-250, H-295 (USAFU-10D), HT-295, H391 (USAFYL-24), H391B, H-395 (USAFL-28A or U-10B), H-395A, H-700, H-800, HST-550, HST-550A (USAF AU-24A), 500."
+    },
+    {
+      "id": "e76",
+      "type": "paragraph",
+      "page": 2,
+      "text": "American Champion Aircraft Corp ................ 402, 7GCA, 7GCB, 7KC, 7GCBA, 7GCAA, 7GCBC, 7KCAB, 8KCAB, 8GCBC."
+    },
+    {
+      "id": "e77",
+      "type": "paragraph",
+      "page": 2,
+      "text": "Sky International Inc ..................................... A-1, A-1A, A-1B, S-1S, S-1T, S-2, S-2A, S-2S, S-2C."
+    },
+    {
+      "id": "e78",
+      "type": "paragraph",
+      "page": 2,
+      "text": "B-N Group Ltd .............................................. BN-2, BN-2A, BN-2A-2, BN-2A-3, BN-2A-6, BN-2A-8, BN-2A-8, BN-2A-20, BN-2A-21, BN-2A-26, BN-2A-27, BN-2B-20, BN-2B-21, BN-2A-26, BN-2A-27, BN-2B-20, BN2B-21, BN-2B-26, BN-2B-27, BN-2T, BN-2T-4R, BN-2A MK.III, BN2A MK. III-2, BN2A MK. 111-3."
+    },
+    {
+      "id": "e79",
+      "type": "paragraph",
+      "page": 2,
+      "text": "(9) Bellanca ......................................................... 14-13, 14-13-2, 14-13-3, 14-13-3W."
+    },
+    {
+      "id": "e80",
+      "type": "paragraph",
+      "page": 2,
+      "text": "VerDate jul<14>2003 15:11 Jan 18, 2005 Jkt 205001 PO 00000 Frm 00012 Fmt 4700 Sfmt 4700 E:\\FR\\FM\\19JAR1.SGM 19JAR1"
+    },
+    {
+      "id": "e81",
+      "type": "page_header",
+      "page": 3,
+      "text": "Federal Register /Vol. 70, No. 12/Wednesday, January 19, 2005/Rules and Regulations"
+    },
+    {
+      "id": "e82",
+      "type": "page_header",
+      "page": 3,
+      "text": "2939"
+    },
+    {
+      "id": "e83",
+      "type": "table",
+      "header": [
+        "Manufacturer",
+        "Model",
+        "Model"
+      ],
+      "rows": [
+        [
+          "(10) Bombardier Inc ............................................ (11) Cessna Aircraft Company ...........................",
+          "(Otter) DHC-3, DHC-6-1, DHC-6-100, DHC-6-200, DHC-6-300. 170, 170A, 170B, 172, 172A, 172B, 172C, 172D, 172E, 172F (USAF T-41A), 172G, 172H (USAF T041A), 172I, 172K, 172L, 172M, 172N, 172P, 172Q, 172R, 172S, 172RG, P172D, R172E (USAF T-41 B) (USAF T-41 C AND D), R172F (USAF T-41 D), R175G, R172H (USAF T-41 D), R172J, R172K, 175, 175A, 175B, 175C, 177, 177A, 177B, 177RG, 180, 180A, 180B, 180C, 180D, 180E, 180F, 180G, 180H, 180J, 180K, 182, 182A, 182B, 182C, 182D, 182E, 182F, 182G, 182H, 182J, 182K, 182L, 182M, 182N, 182P, 182Q, 182R, 182S, 182T, R182, T182, TR182, T182T, 185, 185A, 185B, 185C, 185D, 185E, A185E, A185F, 190, (LC-126A, B, C) 195, 195A, 195B, 210, 210A, 210B, 210C, 210D, 210E, 210F, T210F, 210G, T210G, 210H, T210H, 210J, T210J, 210K, T210K, 210L, T210L, 210M, T210M, 210N, P210N, T210N, 210R, P210R, T210R, 210-5 (205), 210-5A (205A), 206, P206, P206A, P206B, P206C, P206D, P206E, TP206A, TP206B, TP206C, TU206D, TU206E, TU206F, TU206G, 206H, T206H, 207, 207A, T207, T207A, 208, 208A, 208B, 310, 310A (USAF U-3A), 310B, 310C, 310D, 310E (USAF U-3B), 310F, 310G, 310H, E310H, 310I, 310J, 310J-1, E310J, 310K, 310L, 310N, 310P, T310P, 310Q, T310Q, 310R, T310R, 320, 320A, 320B, 320C, 320D, 320E, 320F, 320-1, 335, 340, 340A, 336, 337, 337A (USAF 02B), 337B, T337B, 337C, 337E, T337E, T337C, 337D, T337D, M337B (USAF 02A), 337F,",
+          "(Otter) DHC-3, DHC-6-1, DHC-6-100, DHC-6-200, DHC-6-300. 170, 170A, 170B, 172, 172A, 172B, 172C, 172D, 172E, 172F (USAF T-41A), 172G, 172H (USAF T041A), 172I, 172K, 172L, 172M, 172N, 172P, 172Q, 172R, 172S, 172RG, P172D, R172E (USAF T-41 B) (USAF T-41 C AND D), R172F (USAF T-41 D), R175G, R172H (USAF T-41 D), R172J, R172K, 175, 175A, 175B, 175C, 177, 177A, 177B, 177RG, 180, 180A, 180B, 180C, 180D, 180E, 180F, 180G, 180H, 180J, 180K, 182, 182A, 182B, 182C, 182D, 182E, 182F, 182G, 182H, 182J, 182K, 182L, 182M, 182N, 182P, 182Q, 182R, 182S, 182T, R182, T182, TR182, T182T, 185, 185A, 185B, 185C, 185D, 185E, A185E, A185F, 190, (LC-126A, B, C) 195, 195A, 195B, 210, 210A, 210B, 210C, 210D, 210E, 210F, T210F, 210G, T210G, 210H, T210H, 210J, T210J, 210K, T210K, 210L, T210L, 210M, T210M, 210N, P210N, T210N, 210R, P210R, T210R, 210-5 (205), 210-5A (205A), 206, P206, P206A, P206B, P206C, P206D, P206E, TP206A, TP206B, TP206C, TU206D, TU206E, TU206F, TU206G, 206H, T206H, 207, 207A, T207, T207A, 208, 208A, 208B, 310, 310A (USAF U-3A), 310B, 310C, 310D, 310E (USAF U-3B), 310F, 310G, 310H, E310H, 310I, 310J, 310J-1, E310J, 310K, 310L, 310N, 310P, T310P, 310Q, T310Q, 310R, T310R, 320, 320A, 320B, 320C, 320D, 320E, 320F, 320-1, 335, 340, 340A, 336, 337, 337A (USAF 02B), 337B, T337B, 337C, 337E, T337E, T337C, 337D, T337D, M337B (USAF 02A), 337F,"
+        ],
+        [
+          "(12) Cirrus Design Corporation ..........................",
+          "T337F, T337G, 337G, 402B, 402C, 411, 411A, SR20, SR22.",
+          "337H, P337H, T337H, T337H-SP, 401, 401A, 401B, 402, 402A, 414, 414A, 421, 421A, 421B, 421C, 425, 404, 406, 441."
+        ],
+        [
+          "(13) Commander Aircraft Company ...................",
+          "112, 112TC, 112B, 112TCA, 114, 114A, 114B, 114TC. DHC-2 Mk. I, DHC-2 Mk. II, DHC-2 Mk. III.",
+          "112, 112TC, 112B, 112TCA, 114, 114A, 114B, 114TC. DHC-2 Mk. I, DHC-2 Mk. II, DHC-2 Mk. III."
+        ],
+        [
+          "(14) de Havilland Inc .......................................... (15) Dynac Aerospace Corporation ....................",
+          "(Volaire) 10, (Volaire) 10A, (Aero Commander) 100, (Aero Commander) 100A, (Aero Com- mander) 100-180.",
+          "(Volaire) 10, (Volaire) 10A, (Aero Commander) 100, (Aero Commander) 100A, (Aero Com- mander) 100-180."
+        ],
+        [
+          "(16) Diamond Aircraft Industries ......................... (17) Empressa Brasileira de Aeronautica S.A. EMBRAER.",
+          "DA 20-A1, DA20-C1, DA 40. EMB-110P1, EMB-110P2.",
+          "DA 20-A1, DA20-C1, DA 40. EMB-110P1, EMB-110P2."
+        ],
+        [
+          "(18) Extra Flugzeugbau Gmbh ........................... (19) Fairchild Aircraft Corporation ......................",
+          "EA300, EA300L, EA300S, EA300/200, EA-400. SA26-T, SA26-AT, SA226-T, SA226-AT, SA226-T(B), SA227-AT, SA227-TT, SA226-TC, SA227-AC (C-26A), SA227-CC, SA227-DC (C-26B). Colonial C-1, Colonial C-2, Lake LA-4, Lake LA-4A, Lake LA-4P, Lake LA-4-200, Lake",
+          "EA300, EA300L, EA300S, EA300/200, EA-400. SA26-T, SA26-AT, SA226-T, SA226-AT, SA226-T(B), SA227-AT, SA227-TT, SA226-TC, SA227-AC (C-26A), SA227-CC, SA227-DC (C-26B). Colonial C-1, Colonial C-2, Lake LA-4, Lake LA-4A, Lake LA-4P, Lake LA-4-200, Lake"
+        ],
+        [
+          "(20) Global Amphibians, LLC .............................",
+          "Model 250. G115, G115A, G115B, G115C, G115C2, G115D, G115D2, G115EG, G120A.",
+          "Model 250. G115, G115A, G115B, G115C, G115C2, G115D, G115D2, G115EG, G120A."
+        ],
+        [
+          "(21) Grob-Werke ................................................. (22) Lancair Company ........................................",
+          "LC40-550FG. MAC-125C, MAC-145, MAC-145A, MAC-145B.",
+          "LC40-550FG. MAC-125C, MAC-145, MAC-145A, MAC-145B."
+        ],
+        [
+          "(23) LanShe Aerospace, LLC ............................. (24) Learjet Inc. .................................................. (25) Lockheed Aircraft Corporation .................... 18.",
+          "23.",
+          "23."
+        ],
+        [
+          "(26) Luscombe Aircraft Corporation ................... (27) Maule Aerospace Technology, Inc .............",
+          "11A, 11E. Bee Dee M-4, M-4, M-4C, M-4S, M-4T, M-4180C, M-4-180S, M-4-180T, M-4-210, M-4- 210C, M-4-210S, M-4-210T, M-4-220, M-4-220S, M-4-220T, M-5-180C, M-5-200, M- 5-210C, M-5-210TC, M-5-220C, M-5-235C, M-6-180, M-6-235, M-7-235, MX-7-235, MX-7-180, MX-7-420, MXT-7-180, MT-7-235, M-8-235, MX-7-160, MXT-7-160, MX- 7-180A, MXT-7-180A, MX-7-180B, M-7-235B, M-7-235A, M-7-235C, MX-7-180C, M- 7-260, MT-7-260, M-7-260C, M-7-420AC, MX-7-160C, MX-7-180AC, M-7-420A, MT- 7-420.",
+          "11A, 11E. Bee Dee M-4, M-4, M-4C, M-4S, M-4T, M-4180C, M-4-180S, M-4-180T, M-4-210, M-4- 210C, M-4-210S, M-4-210T, M-4-220, M-4-220S, M-4-220T, M-5-180C, M-5-200, M- 5-210C, M-5-210TC, M-5-220C, M-5-235C, M-6-180, M-6-235, M-7-235, MX-7-235, MX-7-180, MX-7-420, MXT-7-180, MT-7-235, M-8-235, MX-7-160, MXT-7-160, MX- 7-180A, MXT-7-180A, MX-7-180B, M-7-235B, M-7-235A, M-7-235C, MX-7-180C, M- 7-260, MT-7-260, M-7-260C, M-7-420AC, MX-7-160C, MX-7-180AC, M-7-420A, MT- 7-420."
+        ],
+        [
+          "(28) Mitsubishi Heavy Industries, Ltd ................. (29) Mooney Airplane Company, Inc ..................",
+          "MU-2B-25, MU-2B-35, MU-2B-26, MU-2B-36, MU-2B-26A, MU-2B-36A, MU-2B-40, MU-2B-60, MU-2B, MU-2B-20, MU-2B-15. M20, M20A, M20B, M20C, M20D, M20E, M20F, M20G, M20J, M20K, M20L, M20M, M20R, M20S, M22.",
+          "MU-2B-25, MU-2B-35, MU-2B-26, MU-2B-36, MU-2B-26A, MU-2B-36A, MU-2B-40, MU-2B-60, MU-2B, MU-2B-20, MU-2B-15. M20, M20A, M20B, M20C, M20D, M20E, M20F, M20G, M20J, M20K, M20L, M20M, M20R, M20S, M22."
+        ],
+        [
+          "(30) Moravan a.s ................................................ (31) Navion Aircraft Company, Ltd .....................",
+          "Z-242L, Z-143L. NAVION, Navion (L-17A), Navion (L17B), Navion (L-17C), Navion B, Navion D, Navion Navion F, Navion G, Navion H.",
+          "Z-242L, Z-143L. NAVION, Navion (L-17A), Navion (L17B), Navion (L-17C), Navion B, Navion D, Navion Navion F, Navion G, Navion H."
+        ],
+        [
+          "(32) New Piper Aircraft, Inc ................................",
+          "E, PA-12, PA-12S, PA-18, PA-18S, PA-18 ''105'' (Special), PA-18S ''105'' (Special), PA-18A, PA-18 ''125'' (Army L-21A), PA-18A ''135,'' PA-18S ''150,'' PA-19 (Army 20 ''135,'' PA-20S ''135,'' 22S-150, PA-22-160, E23-250, PA-24, PA-24-250,",
+          "PA-18S ''125,'' PA-18AS ''125,'' PA-18 ''135'' (Army L-21B), ''135,'' PA-18 ''150,'' PA-18A ''150,'' PA-18S ''150,'' PA-18AS L-18B), PA-19S, PA-20, PA-20S, PA-20 ''115,'' PA-20S ''115,'' PA- PA-22, PA-22-108, PA-22-135, PA-22S-135, PA-22-150, PA- PA-22S-160, PA-23, PA-23-160, PA-23-235, PA-23-250, PA- PA-24-260, PA-24-400, PA-28-140, PA-28-150, PA-28-"
+        ],
+        [
+          "(34) Piaggio Aero Industries S.p.A ..................... (35) Pilatus Aircraft Ltd .......................................",
+          "OMF-100-160. P-180. PILATUS PC-12, PILATUS PC-12/45, PC-6, PC-6-H1, PC-6-H2, PC-6/350, PC-6/350-H2, PC-6/A, PC-6/A-H1, PA-6/A-H2, PC-6/B-H2, PC-6/B1-H2, PC-6/B2-H4, PC-6/C-H2, PC-6/C1-H2, PC-7.",
+          "OMF-100-160. P-180. PILATUS PC-12, PILATUS PC-12/45, PC-6, PC-6-H1, PC-6-H2, PC-6/350, PC-6/350-H2, PC-6/A, PC-6/A-H1, PA-6/A-H2, PC-6/B-H2, PC-6/B1-H2, PC-6/B2-H4, PC-6/C-H2, PC-6/C1-H2, PC-7."
+        ],
+        [
+          "",
+          "..............................................",
+          ".............................................."
+        ],
+        [
+          "(33) Ostmecklenburgische Flugzeugbau GmgH",
+          "PC-6/350-H1,",
+          "PC-6/350-H1,"
+        ],
+        [
+          "",
+          "PC-6/B2-H2,",
+          "PC-6/B2-H2,"
+        ],
+        [
+          "",
+          "200, 200A, 200B, 200C, 200D, 400.",
+          "200, 200A, 200B, 200C, 200D, 400."
+        ],
+        [
+          "",
+          "PA-46-500TP.",
+          "PA-46-500TP."
+        ],
+        [
+          "",
+          "720, PA-42-1000, PA-42-720R, PA-44-180, PA-44-180T, PA-46-310P, PA-46-350P,",
+          "720, PA-42-1000, PA-42-720R, PA-44-180, PA-44-180T, PA-46-310P, PA-46-350P,"
+        ],
+        [
+          "",
+          "151, PA-28-160, PA-28-161, 28S-180, PA-28-181, 28RT-201T, PA-28-201T, 31T1, PA-31T2, PA-31T3, 300, PA-32RT-300, 301T, PA-32-301,",
+          "PA-28-180, PA-28-235, PA-28S-160, PA-28R-180, PA- PA-28R-200, PA-28R-201, PA-28R-201T, PA-28RT-201, PA- PA-28-236, PA-30, PA-39, PA-40, PA-31P, PA-31T, PA- PA-31P-350, PA-32-260, PA-32-300, PA-32S-300, PA-32R- PA-32RT-300T, PA-32R-301 (SP), PA-32R-301 (HP), PA-32R- PA-32-301T, PA-34-200, PA-34-200T, PA-34-220T, PA-42, PA-42-"
+        ],
+        [
+          "(36) Prop-Jets, Inc",
+          "",
+          ""
+        ]
+      ],
+      "page": 3
+    },
+    {
+      "id": "e84",
+      "type": "paragraph",
+      "page": 3,
+      "text": "VerDate jul<14>2003 15:11 Jan 18, 2005 Jkt 205001 PO 00000 Frm 00013 Fmt 4700 Sfmt 4700 E:\\FR\\FM\\19JAR1.SGM 19JAR1"
+    },
+    {
+      "id": "e85",
+      "type": "page_header",
+      "page": 4,
+      "text": "2940"
+    },
+    {
+      "id": "e86",
+      "type": "page_header",
+      "page": 4,
+      "text": "Federal Register /Vol. 70, No. 12/Wednesday, January 19, 2005/Rules and Regulations"
+    },
+    {
+      "id": "e87",
+      "type": "heading",
+      "page": 4,
+      "text": "Manufacturer",
+      "level": 2
+    },
+    {
+      "id": "e88",
+      "type": "heading",
+      "page": 4,
+      "text": "Model",
+      "level": 2
+    },
+    {
+      "id": "e89",
+      "type": "paragraph",
+      "page": 4,
+      "text": "(37) Panstwowe Zakladv Lotnicze (PZL) ........... PZL-104 WILGA 80, PZL-104M WILGA 2000, PZL-WARSZAWA, PZL-KOLIBER 150A, PZLKOLIBER 160A."
+    },
+    {
+      "id": "e90",
+      "type": "paragraph",
+      "page": 4,
+      "text": "PZL WSK/Mielec Obrsk .............................. PZL M20 03, PZL M26 01."
+    },
+    {
+      "id": "e91",
+      "type": "paragraph",
+      "page": 4,
+      "text": "(39) Raytheon ..................................................... 35-33, 35-A33, 35-B33, 35-C33, 35-C33A, E33, E33A, E33C, F33, F33A, F33C, G33, H35, J35, K35, M35, N35, P35, S35, V35, V35A, V35B, 36, A36, A36TC, B36TC, 35, A35, B35, C35, D35, E35, F35, G35, 35R, F90, 76, 200, 200C, 200CT, 200T, A200, B200, B200C, B200CT, B200T, 300, 300LW, B300, B300C, 1900, 1900C, 1900D, A100-1 (U-21J), A200 (C-12A), A200 (C-12C), A200C (UC-12B), A200CT (C-12D), A200CT (FWC-12D), A200CT (RC-12D), A200CT (C-12F), A200CT (RC-12G), A200CT (RC-12H), A200CT (RC-12K), A200CT (RC-12P), A200CT (RC-12Q), B200C (C-12F), B200C (UC-12F), B200C (UC-12M), B200C (C-12R), 1900C (C-12J), 65, A65, A65-8200, 65-80, 65-A80, 65-A80-8800, 65-B80, 65-88, 65-A90, 70, B90, C90, C90A, E90, H90, 65-A90-1, 65A90-2, 65-A90-3, 65-A90-4, 95, B95, B95A, D95A, E95, 95-55, 95-A55, 95-B55, 95B55A, 95-B55B (T-42A), 95-C55, 95-C55A, D55, D55A, E55, E55A, 56TC, A56TC, 58, 58A, 58P, 58PA, 58TC, 58TCA, 99, 99A, 99A (FACH), A99, A99A, B99, C99, 100, A100 (U-21F), A100A, A100C, B100, 2000, 3000, 390, 19A, B19, M19A, 23, A23, A23A, A23-19, A23-24, B23, C23, A24, A24R, B24R, C24R, 60, A60, B60, 18D, A18A, A18D, S18D, SA18A, SA18D, 3N, 3NM, 3TM, JRB-6, D18C, D18S, E18S, RC-45J (SNB-5P), E18S9700, G18S, H18, C-45G, TC-45G, C-45H, TC-45H, TC-45J, UC-45J (SNB-5), 50 (L23A), B50 (L-23B), C50, D50 (L-23E), D50A, D50B, D50C, D50E-5990, E50 (L-23D, RL23D), F50, G50, H50, J50, 45 (YT-34), A45 (T-34A or B-45), D45 (T-34B)."
+    },
+    {
+      "id": "e92",
+      "type": "paragraph",
+      "page": 4,
+      "text": "(40) Rockwell International Corporation ............. BC-1A, AT-6 (SNJ-2), AT-6A (SNJ-3), AT-6B, AT-6C (SNJ-4), AT-6D (SNJ-5), AT-6F (SNF-6), SNJ-7, T-6G, NOMAD NA-260."
+    },
+    {
+      "id": "e93",
+      "type": "paragraph",
+      "page": 4,
+      "text": "Short Brothers & Harland Ltd ..................... SC-7 Series 2, SC-7 Series 3."
+    },
+    {
+      "id": "e94",
+      "type": "paragraph",
+      "page": 4,
+      "text": "Slingsby Aviation Ltd ................................... T67M260, T67M260-T3A."
+    },
+    {
+      "id": "e95",
+      "type": "paragraph",
+      "page": 4,
+      "text": "(43) SOCATA-Group Aerospatiale ................... TB9, TB10, TB20, TB21, TB200, TBM 700, M.S. 760, M.S. 760 A, M.S. 760 B, Rallye 100S, Rallye 150ST, Rallye 150T, Rallye 235E, Rallye 235C, MS 880B, MS 885, MS 894A, MS 893A, MS 892A-150, MS 892E-150, MS 893E, MS 894E, GA-7."
+    },
+    {
+      "id": "e96",
+      "type": "paragraph",
+      "page": 4,
+      "text": "(44) Tiger Aircraft LLC ........................................ AA-1, AA-1A, AA-1B, AA-1C, AA-5, AA-5A, AA-5B, AG-5B."
+    },
+    {
+      "id": "e97",
+      "type": "paragraph",
+      "page": 4,
+      "text": "Twin Commander Aircraft Corporation ....... 500, 500-A, 500-B, 500-U, 500-S, 520, 560, 560-A, 560-E, 560F, 680, 680E, 680F, 680FL, 680FL(P), 680T, 680V, 680W, 681, 685, 690, 690A, 690B, 690C, 690D, 695, 695A, 695B, 720, 700."
+    },
+    {
+      "id": "e98",
+      "type": "paragraph",
+      "page": 4,
+      "text": "Univair Aircraft Corporation ......................... 108, 108-1, 108-2, 108-3, 108-5."
+    },
+    {
+      "id": "e99",
+      "type": "paragraph",
+      "page": 4,
+      "text": "(47) Vulcanair S.p.A ........................................... P68, P68B, P68C, P68C-TC, P68 ''Observer,'' P68 ''Observer 2,'' P68TC ''Observer,'' AP68TP300 ''Spartacus,'' AP68TP 600 ''Viator''."
+    },
+    {
+      "id": "e100",
+      "type": "paragraph",
+      "page": 4,
+      "text": "Zenair Ltd. ................................................... CH2000."
+    },
+    {
+      "id": "e101",
+      "type": "heading",
+      "page": 4,
+      "text": "What Is the Unsafe Condition Presented in This AD?",
+      "level": 2
+    },
+    {
+      "id": "e102",
+      "type": "paragraph",
+      "page": 4,
+      "text": "(d) This AD is the result of observations that the GTX 33/33D/330/330D may detect, from other airplanes, the S1 (suppression) interrogating pulse below the minimum trigger level (MTL) and, in some circumstances, not reply. The GTX 33/33D/ 330/330D should still reply even if it detects S1 interrogating pulses below the MTL. The actions specified in this AD are intended to prevent interrogating aircraft from possibly receiving inaccurate replies, due to suppression, from aircraft equipped with the GTX 33/33D/330/330D Mode S transponders when the pulses are below the minimum trigger level (MTL). Software Upgrade Versions 3.03 and 3.06 correct a TAS, TCAD, and TCAS I system ''whisper-shout'' problem that could potentially lead to the aircraft not being visible at certain ranges. TCAS II systems are not affected. The inaccurate replies could result in reduced vertical separation."
+    },
+    {
+      "id": "e103",
+      "type": "heading",
+      "page": 4,
+      "text": "What Must I Do To Address This Problem?",
+      "level": 2
+    },
+    {
+      "id": "e104",
+      "type": "paragraph",
+      "page": 4,
+      "text": "(e) To address this problem, you must do the following:"
+    },
+    {
+      "id": "e105",
+      "type": "heading",
+      "page": 4,
+      "text": "Actions",
+      "level": 2
+    },
+    {
+      "id": "e106",
+      "type": "heading",
+      "page": 4,
+      "text": "Compliance",
+      "level": 2
+    },
+    {
+      "id": "e107",
+      "type": "heading",
+      "page": 4,
+      "text": "Procedures",
+      "level": 2
+    },
+    {
+      "id": "e108",
+      "type": "paragraph",
+      "page": 4,
+      "text": "Install GTX 33/33D/330/330D Software Upgrade for transponders with software version 3.00, 3.01, 3.02, 3.04, 3.05 to at least version 3.06. If version 3.03 is already installed, no further action is required. This version is no longer available from Garmin. This AD does not apply to software versions past 3.05."
+    },
+    {
+      "id": "e109",
+      "type": "paragraph",
+      "page": 4,
+      "text": "Install the software upgrade within 180 days after February 23, 2005 (the effective date of this AD), unless already accomplished."
+    },
+    {
+      "id": "e110",
+      "type": "paragraph",
+      "page": 4,
+      "text": "Follow GARMIN Mandatory Software Service Bulletin No.: 0304, Rev B, dated June 12, 2003 accomplished. (Software Upgrade 3.03) or GARMIN Mandatory Software Service Bulletin No.: 0409, dated July 19, 2004 (Software Upgrade 3.06)."
+    },
+    {
+      "id": "e111",
+      "type": "heading",
+      "page": 4,
+      "text": "May I Request an Alternative Method of Compliance?",
+      "level": 2
+    },
+    {
+      "id": "e112",
+      "type": "paragraph",
+      "page": 4,
+      "text": "(f) You may request a different method of compliance or a different compliance time for this AD by following the procedures in 14 CFR 39.19. Unless FAA authorizes otherwise, send your request to your principal inspector. The principal inspector may add comments and will send your request to the Manager, Wichita Aircraft Certification Office (ACO), FAA. For information on any already approved alternative methods of compliance, contact Roger A. Souter, FAA, Wichita Aircraft Certification Office (ACO), 1801 Airport Road, Room 100, Wichita, Kansas 67209; telephone: 316-946-4134; facsimile: 316-946-4107; email address: roger.souter@faa.gov."
+    },
+    {
+      "id": "e113",
+      "type": "heading",
+      "page": 4,
+      "text": "Does This AD Incorporate Any Material by Reference?",
+      "level": 2
+    },
+    {
+      "id": "e114",
+      "type": "paragraph",
+      "page": 4,
+      "text": "(g) You must do the actions required by this AD following the instructions in GARMIN Mandatory Software Service Bulletin No.: 0304, Rev B, dated June 12, 2003 (Software Upgrade 3.03) or GARMIN Mandatory Software Service Bulletin No.: 0409, dated July 19, 2004 (Software Upgrade 3.06). The Director of the Federal Register approved the incorporation by reference of"
+    },
+    {
+      "id": "e115",
+      "type": "paragraph",
+      "page": 4,
+      "text": "VerDate jul<14>2003 15:11 Jan 18, 2005 Jkt 205001 PO 00000 Frm 00014 Fmt 4700 Sfmt 4700 E:\\FR\\FM\\19JAR1.SGM 19JAR1"
+    },
+    {
+      "id": "e116",
+      "type": "page_header",
+      "page": 5,
+      "text": "Federal Register /Vol. 70, No. 12/Wednesday, January 19, 2005/Rules and Regulations"
+    },
+    {
+      "id": "e117",
+      "type": "page_header",
+      "page": 5,
+      "text": "2941"
+    },
+    {
+      "id": "e118",
+      "type": "paragraph",
+      "page": 5,
+      "text": "this service bulletin in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. To get a copy of this service information, contact GARMIN International Inc. 1200 East 151st Street, Olathe, KS 66062; telephone: 913397-8200. To review copies of this service information, go to the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, go to: http:// www.archives.gov/federal_register/ code_of_federal_regulations/ ibr_locations.html or call (202) 741-6030. To view the AD docket, go to the Docket Management Facility; U.S. Department of Transportation, 400 Seventh Street, SW., Nassif Building, Room PL-401, Washington, DC 20590-001 or on the Internet at http:// dms.dot.gov. The docket number is FAA2004-18743."
+    },
+    {
+      "id": "e119",
+      "type": "paragraph",
+      "page": 5,
+      "text": "Issued in Kansas City, Missouri, on January 7, 2005."
+    },
+    {
+      "id": "e120",
+      "type": "heading",
+      "page": 5,
+      "text": "James E. Jackson,",
+      "level": 2
+    },
+    {
+      "id": "e121",
+      "type": "paragraph",
+      "page": 5,
+      "text": "Acting Manager, Small Airplane Directorate, Aircraft Certification Service."
+    },
+    {
+      "id": "e122",
+      "type": "paragraph",
+      "page": 5,
+      "text": "[FR Doc. 05-832 Filed 1-18-05; 8:45 am] BILLING CODE 4910-13-P"
+    },
+    {
+      "id": "e123",
+      "type": "heading",
+      "page": 5,
+      "text": "DEPARTMENT OF TRANSPORTATION",
+      "level": 2
+    },
+    {
+      "id": "e124",
+      "type": "paragraph",
+      "page": 5,
+      "text": "Federal Aviation Administration"
+    },
+    {
+      "id": "e125",
+      "type": "heading",
+      "page": 5,
+      "text": "14 CFR Part 39",
+      "level": 2
+    },
+    {
+      "id": "e126",
+      "type": "paragraph",
+      "page": 5,
+      "text": "[Docket No. 2004-CE-01-AD; Amendment 39-13943; AD 2005-01-18]"
+    },
+    {
+      "id": "e127",
+      "type": "paragraph",
+      "page": 5,
+      "text": "RIN 2120-AA64"
+    },
+    {
+      "id": "e128",
+      "type": "paragraph",
+      "page": 5,
+      "text": "Airworthiness Directives; Raytheon Aircraft Company Beech 100, 200, and 300 Series Airplanes"
+    },
+    {
+      "id": "e129",
+      "type": "paragraph",
+      "page": 5,
+      "text": "AGENCY: Federal Aviation Administration (FAA), DOT. ACTION: Final rule."
+    },
+    {
+      "id": "e130",
+      "type": "paragraph",
+      "page": 5,
+      "text": "SUMMARY: The FAA adopts a new airworthiness directive (AD) to supersede AD 93-25-07, which applies to Raytheon Aircraft Company (Raytheon) Beech 100, 200, and 300 series airplanes. AD 93-25-07 currently requires you to repetitively inspect the fuselage stringers for cracks and modify at certain times depending on the number of cracked stringers. This AD is the result of FAA's policy (since 1996) to not allow airplane operation when known cracks exist in primary structure. The fuselage structure is considered primary structure and operation is currently allowed for a certain period of time if less than five fuselage stringers are cracked. Consequently, this AD retains the inspection and modification requirements of AD 93-25-07, but requires you to repair any cracked fuselage stringers. We are issuing this AD to detect and correct any cracked fuselage stringers in the rear pressure bulkhead area, which could result in structural damage to the fuselage. This damage could lead to failure of the fuselage with potential loss of control of the airplane."
+    },
+    {
+      "id": "e131",
+      "type": "paragraph",
+      "page": 5,
+      "text": "DATES: This AD becomes effective on March 1, 2005."
+    },
+    {
+      "id": "e132",
+      "type": "paragraph",
+      "page": 5,
+      "text": "As of March 1, 2005, the Director of the Federal Register approved the incorporation by reference of certain publications listed in the regulation. ADDRESSES: You may get the service information identified in this AD from Raytheon Aircraft Company, 9709 E. Central, Wichita, Kansas 67201-0085; telephone: (800) 429-5372 or (316) 6763140."
+    },
+    {
+      "id": "e133",
+      "type": "paragraph",
+      "page": 5,
+      "text": "You may view the AD docket at FAA, Central Region, Office of the Regional Counsel, Attention: Rules Docket No. 2004-CE-01-AD, 901 Locust, Room 506, Kansas City, Missouri 64106. Office hours are 8 a.m. to 4 p.m., Monday through Friday, except Federal holidays. FOR FURTHER INFORMATION CONTACT: Steven E. Potter, Aerospace Engineer, Wichita Aircraft Certification Office (ACO), FAA, 1801 Airport Road, Wichita, Kansas 67209; telephone: (316) 946-4124; facsimile: (316) 946-4107."
+    },
+    {
+      "id": "e134",
+      "type": "heading",
+      "page": 5,
+      "text": "SUPPLEMENTARY INFORMATION:",
+      "level": 2
+    },
+    {
+      "id": "e135",
+      "type": "heading",
+      "page": 5,
+      "text": "Discussion",
+      "level": 2
+    },
+    {
+      "id": "e136",
+      "type": "paragraph",
+      "page": 5,
+      "text": "What events have caused this AD? Reports of cracks on the fuselage stringers in the rear pressure bulkhead area on Raytheon Beech 100, 200, and 300 series airplanes caused us to issue AD 93-25-07, Amendment 39-8773. AD 93-25-07 currently requires the following on Raytheon Beech Models 200, A200, B200, A100-1, 200C, A200C, B200C, 200CT, A200CT, B200CT, 200T, B200T, 300, B300, and B300C airplanes:"
+    },
+    {
+      "id": "e137",
+      "type": "paragraph",
+      "page": 5,
+      "text": "-Repetitive inspections of the fuselage stringers for cracks; and"
+    },
+    {
+      "id": "e138",
+      "type": "paragraph",
+      "page": 5,
+      "text": "-Modification at certain times depending on the number of cracked stringers."
+    },
+    {
+      "id": "e139",
+      "type": "paragraph",
+      "page": 5,
+      "text": "What has happened since AD 93-2507 to initiate this action? As currently written, AD 93-25-07 allows continued flight if cracks are found in less than five fuselage stringers in the area of the rear pressure bulkhead. In 1996, FAA developed policy to not allow airplane operation when known cracks exist in primary structure, unless the ability to sustain limit and ultimate load with these cracks is proven. The fuselage stringers in the area of the rear pressure bulkhead are considered primary structure."
+    },
+    {
+      "id": "e140",
+      "type": "paragraph",
+      "page": 5,
+      "text": "This AD brings the actions of AD 9325-07 in compliance with FAA policy. Therefore, FAA has determined:"
+    },
+    {
+      "id": "e141",
+      "type": "paragraph",
+      "page": 5,
+      "text": "-That airplane operation on the affected airplanes should not be"
+    },
+    {
+      "id": "e142",
+      "type": "paragraph",
+      "page": 5,
+      "text": "allowed for more than 25 hours timein-service (TIS) if less than five fuselage stringers (Stringer Nos. 5 through 11) in the rear pressure bulkhead are cracked; and"
+    },
+    {
+      "id": "e143",
+      "type": "paragraph",
+      "page": 5,
+      "text": "-That no operation should be allowed until modification for any airplane with five or more cracked fuselage stringers (Stringer Nos. 5 through 11) in the rear pressure bulkhead."
+    },
+    {
+      "id": "e144",
+      "type": "paragraph",
+      "page": 5,
+      "text": "The FAA has also identified other airplanes that should be affected by this action."
+    },
+    {
+      "id": "e145",
+      "type": "paragraph",
+      "page": 5,
+      "text": "What is the potential impact if FAA took no action? Cracked fuselage stringers in the rear pressure bulkhead area, if not detected and corrected, could result in structural damage to the fuselage. This damage could lead to failure of the fuselage with potential loss of control of the airplane."
+    },
+    {
+      "id": "e146",
+      "type": "paragraph",
+      "page": 5,
+      "text": "Has FAA taken any action to this point? We issued a proposal to amend part 39 of the Federal Aviation Regulations (14 CFR part 39) to include an AD that would apply to certain Raytheon Beech 100, 200, and 300 series airplanes. This proposal was published in the Federal Register as a notice of proposed rulemaking (NPRM) on September 14, 2004 (69 FR 55369). The NPRM proposed to supersede AD 9325-07 with a new AD that would retain the requirement of repetitively inspecting the fuselage stringers for cracks, but would require the repair of any cracked fuselage stringers. We also proposed a grace period of 25 cycles for all airplanes with less than five cracked fuselage stringers. The repetitive inspections would no longer be required when all fuselage stringers (Nos. 5 though 11) in the rear pressure bulkhead are modified."
+    },
+    {
+      "id": "e147",
+      "type": "heading",
+      "page": 5,
+      "text": "Comments",
+      "level": 2
+    },
+    {
+      "id": "e148",
+      "type": "paragraph",
+      "page": 5,
+      "text": "Was the public invited to comment? We provided the public the opportunity to participate in developing this AD. We received no comments on the proposal or on the determination of the cost to the public."
+    },
+    {
+      "id": "e149",
+      "type": "heading",
+      "page": 5,
+      "text": "Conclusion",
+      "level": 2
+    },
+    {
+      "id": "e150",
+      "type": "paragraph",
+      "page": 5,
+      "text": "What is FAA's final determination on this issue? We have carefully reviewed the available data and determined that air safety and the public interest require adopting the AD as proposed except for minor editorial corrections. We have determined that these minor corrections:"
+    },
+    {
+      "id": "e151",
+      "type": "paragraph",
+      "page": 5,
+      "text": "-Are consistent with the intent that was proposed in the NPRM for correcting the unsafe condition; and"
+    },
+    {
+      "id": "e152",
+      "type": "paragraph",
+      "page": 5,
+      "text": "-Do not add any additional burden upon the public than was already proposed in the NPRM."
+    },
+    {
+      "id": "e153",
+      "type": "paragraph",
+      "page": 5,
+      "text": "VerDate jul<14>2003 15:11 Jan 18, 2005 Jkt 205001 PO 00000 Frm 00015 Fmt 4700 Sfmt 4700 E:\\FR\\FM\\19JAR1.SGM 19JAR1"
+    }
+  ]
+}

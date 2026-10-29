@@ -1,0 +1,905 @@
+{
+  "source_id": "AD-2008-05-09",
+  "file": "faa/ad/ad-2008-05-09.pdf",
+  "format": "pdf",
+  "parser": "docling",
+  "meta": {
+    "title": "AD 2008-05-09: Cessna Aircraft Company 172, 182, and 206 Series Airplanes",
+    "publisher": "FAA",
+    "doc_type": "airworthiness directive",
+    "ad_number": "2008-05-09",
+    "action": "Final rule",
+    "published": "2008-03-04",
+    "effective": "2008-04-08",
+    "federal_register": "73 FR 11536 (document E8-3771)",
+    "access": "employees"
+  },
+  "elements": [
+    {
+      "id": "e1",
+      "type": "page_header",
+      "page": 1,
+      "text": "11536"
+    },
+    {
+      "id": "e2",
+      "type": "page_header",
+      "page": 1,
+      "text": "Federal Register /Vol. 73, No. 43/Tuesday, March 4, 2008/Rules and Regulations"
+    },
+    {
+      "id": "e3",
+      "type": "paragraph",
+      "page": 1,
+      "text": "rwilkins on PROD1PC63 with RULES"
+    },
+    {
+      "id": "e4",
+      "type": "paragraph",
+      "page": 1,
+      "text": "for this AD, follow the procedures in 14 CFR 39.19. Before using any approved AMOC on any airplane to which the AMOC applies, notify your appropriate principal inspector (PI) in the FAA Flight Standards District Office (FSDO), or lacking a PI, your local FSDO."
+    },
+    {
+      "id": "e5",
+      "type": "paragraph",
+      "page": 1,
+      "text": "(3) An AMOC that provides an acceptable level of safety may be used for any repair required by this AD, if it is approved by an Authorized Representative for the Boeing Commercial Airplanes Delegation Option Authorization Organization who has been authorized by the Manager, Seattle ACO, to make those findings. For a repair method to be approved, the repair must meet the certification basis of the airplane, and the approval must specifically refer to this AD."
+    },
+    {
+      "id": "e6",
+      "type": "heading",
+      "page": 1,
+      "text": "Material Incorporated by Reference",
+      "level": 2
+    },
+    {
+      "id": "e7",
+      "type": "paragraph",
+      "page": 1,
+      "text": "(l) You must use Boeing Alert Service Bulletin 747-54A2202, Revision 1, dated June 22, 2006, to do the actions required by this AD, unless the AD specifies otherwise."
+    },
+    {
+      "id": "e8",
+      "type": "paragraph",
+      "page": 1,
+      "text": "The Director of the Federal Register approved the incorporation by reference of this service information under 5 U.S.C. 552(a) and 1 CFR part 51."
+    },
+    {
+      "id": "e9",
+      "type": "paragraph",
+      "page": 1,
+      "text": "For service information identified in this AD, contact Boeing Commercial Airplanes, P.O. Box 3707, Seattle, Washington 98124-2207."
+    },
+    {
+      "id": "e10",
+      "type": "paragraph",
+      "page": 1,
+      "text": "You may review copies of the service information incorporated by reference at the FAA, Transport Airplane Directorate, 1601 Lind Avenue, SW., Renton, Washington; or at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202-741-6030, or go to: http:// www.archives.gov/federal_register/ code_of_federal_regulations/ ibr_locations.html."
+    },
+    {
+      "id": "e11",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Issued in Renton, Washington, on February 20, 2008."
+    },
+    {
+      "id": "e12",
+      "type": "heading",
+      "page": 1,
+      "text": "Ali Bahrami,",
+      "level": 2
+    },
+    {
+      "id": "e13",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Manager, Transport Airplane Directorate, Aircraft Certification Service."
+    },
+    {
+      "id": "e14",
+      "type": "paragraph",
+      "page": 1,
+      "text": "[FR Doc. E8-3749 Filed 3-3-08; 8:45 am] BILLING CODE 4910-13-P"
+    },
+    {
+      "id": "e15",
+      "type": "heading",
+      "page": 1,
+      "text": "DEPARTMENT OF TRANSPORTATION",
+      "level": 2
+    },
+    {
+      "id": "e16",
+      "type": "heading",
+      "page": 1,
+      "text": "Federal Aviation Administration",
+      "level": 2
+    },
+    {
+      "id": "e17",
+      "type": "heading",
+      "page": 1,
+      "text": "14 CFR Part 39",
+      "level": 2
+    },
+    {
+      "id": "e18",
+      "type": "paragraph",
+      "page": 1,
+      "text": "[Docket No. FAA-2007-28433; Directorate Identifier 2007-CE-052-AD; Amendment 39-15403; AD 2008-05-09]"
+    },
+    {
+      "id": "e19",
+      "type": "heading",
+      "page": 1,
+      "text": "RIN 2120-AA64",
+      "level": 2
+    },
+    {
+      "id": "e20",
+      "type": "heading",
+      "page": 1,
+      "text": "Airworthiness Directives; Cessna Aircraft Company 172, 182, and 206 Series Airplanes",
+      "level": 2
+    },
+    {
+      "id": "e21",
+      "type": "paragraph",
+      "page": 1,
+      "text": "AGENCY: Federal Aviation"
+    },
+    {
+      "id": "e22",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Administration (FAA), DOT."
+    },
+    {
+      "id": "e23",
+      "type": "paragraph",
+      "page": 1,
+      "text": "ACTION: Final rule."
+    },
+    {
+      "id": "e24",
+      "type": "paragraph",
+      "page": 1,
+      "text": "SUMMARY: The FAA adopts a new airworthiness directive (AD) for certain Cessna Aircraft Company (Cessna) 172,"
+    },
+    {
+      "id": "e25",
+      "type": "paragraph",
+      "page": 1,
+      "text": "182, and 206 series airplanes. This AD requires you to remove the crew seats, modify the seat base/back attach brackets, and reinstall the seats of the affected airplanes. This AD results from reports of the seat base/back attach bracket failing where it is welded to the seat base. We are issuing this AD to prevent failure of the seat base/back attach brackets, which could result in the seats collapsing backwards during flight with consequent loss of control. DATES: This AD becomes effective on April 8, 2008."
+    },
+    {
+      "id": "e26",
+      "type": "paragraph",
+      "page": 1,
+      "text": "On April 8, 2008, the Director of the Federal Register approved the incorporation by reference of certain publications listed in this AD."
+    },
+    {
+      "id": "e27",
+      "type": "paragraph",
+      "page": 1,
+      "text": "ADDRESSES: To get the service information identified in this AD, contact Cessna Aircraft Company, Product Support, P.O. Box 7706, Wichita, Kansas 67277; telephone: (316) 517-5800; fax: (316) 942-9006."
+    },
+    {
+      "id": "e28",
+      "type": "paragraph",
+      "page": 1,
+      "text": "To view the AD docket, go to U.S. Department of Transportation, Docket Operations, M-30, West Building Ground Floor, Room W12-140, 1200 New Jersey Avenue, SE., Washington, DC 20590, or on the Internet at http:// www.regulations.gov. The docket number is FAA-2007-28433; Directorate Identifier 2007-CE-052-AD."
+    },
+    {
+      "id": "e29",
+      "type": "paragraph",
+      "page": 1,
+      "text": "FOR FURTHER INFORMATION CONTACT: Gary Park, Aerospace Engineer, 1801 Airport Road, Room 100, Wichita, Kansas 67209; telephone: (316) 946-4123; fax: (316) 946-4107."
+    },
+    {
+      "id": "e30",
+      "type": "heading",
+      "page": 1,
+      "text": "SUPPLEMENTARY INFORMATION:",
+      "level": 2
+    },
+    {
+      "id": "e31",
+      "type": "heading",
+      "page": 1,
+      "text": "Discussion",
+      "level": 2
+    },
+    {
+      "id": "e32",
+      "type": "paragraph",
+      "page": 1,
+      "text": "On July 12, 2007, we issued a proposal to amend part 39 of the Federal Aviation Regulations (14 CFR part 39) to include an AD that would apply to certain Cessna Models 172, 182, and 206 airplanes. This proposal was published in the Federal Register as a notice of proposed rulemaking (NPRM) on July 19, 2007 (72 FR 39584). The NPRM proposed to remove the crew seats, modify the seat base/back attach brackets, and reinstall the seats of the affected airplanes and seats 3 and 4 on 206 series airplanes."
+    },
+    {
+      "id": "e33",
+      "type": "heading",
+      "page": 1,
+      "text": "Comments",
+      "level": 2
+    },
+    {
+      "id": "e34",
+      "type": "paragraph",
+      "page": 1,
+      "text": "We provided the public the opportunity to participate in developing this AD. The following presents the comments received on the proposal and FAA's response to each comment:"
+    },
+    {
+      "id": "e35",
+      "type": "heading",
+      "page": 1,
+      "text": "Comment Issue No. 1: Number of Affected Airplanes",
+      "level": 2
+    },
+    {
+      "id": "e36",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Jack Buster with the Modification and Replacement Part Association (MARPA) noted that the airworthiness concern sheet stated the proposed AD action affected 2,770 airplanes and the actual proposed AD stated the action affected 1,556 airplanes. He requests we clarify the number of the affected airplanes."
+    },
+    {
+      "id": "e37",
+      "type": "paragraph",
+      "page": 1,
+      "text": "The FAA agrees that the numbers in the airworthiness concern sheet and the proposed AD differ. There are 2,770 airplanes worldwide but only 1,556 airplanes on the U.S. Registry. In the Cost of Compliance section of the AD preamble we state how many airplanes are listed on the U.S. Registry."
+    },
+    {
+      "id": "e38",
+      "type": "paragraph",
+      "page": 1,
+      "text": "We will not change the final rule AD action as a result of this comment."
+    },
+    {
+      "id": "e39",
+      "type": "heading",
+      "page": 1,
+      "text": "Comment Issue No. 2: Availability of Incorporated by Reference (IBR) Documents in the Docket Management System (DMS)",
+      "level": 2
+    },
+    {
+      "id": "e40",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Jack Buster of MARPA requests IBR documents be available to the public by publication in the DMS."
+    },
+    {
+      "id": "e41",
+      "type": "paragraph",
+      "page": 1,
+      "text": "The FAA has transitioned from the DMS to the government-wide Federal Docket Management System (FDMS). We are currently reviewing issues surrounding the posting of service bulletins in the FDMS as part of the AD docket. Once we have thoroughly examined all aspects of this issue and have made a final determination, we will consider whether our current practice needs to be revised."
+    },
+    {
+      "id": "e42",
+      "type": "heading",
+      "page": 1,
+      "text": "Comment Issue No. 3: Exempting Noncrew Seats From This AD Action",
+      "level": 2
+    },
+    {
+      "id": "e43",
+      "type": "paragraph",
+      "page": 1,
+      "text": "The Aircraft Owners and Pilots Association requests that the FAA exempt non-crew seats from the AD action. Modification of the third and fourth seats on the Cessna Model 206 is estimated at just under $1,000 per aircraft and does not directly address the safety of flight issue proposed for this AD. The third and fourth seats are not crew seats and pose little to no risk that a seat collapse could cause the pilot to lose control of the airplane."
+    },
+    {
+      "id": "e44",
+      "type": "paragraph",
+      "page": 1,
+      "text": "The FAA agrees that the modification of the third and fourth seats on the Cessna 206 does not directly address the safety of flight issue proposed for this AD."
+    },
+    {
+      "id": "e45",
+      "type": "paragraph",
+      "page": 1,
+      "text": "We will change the final rule AD action as a result of this comment and not include seats 3 and 4 on 206 series airplanes."
+    },
+    {
+      "id": "e46",
+      "type": "heading",
+      "page": 1,
+      "text": "Conclusion",
+      "level": 2
+    },
+    {
+      "id": "e47",
+      "type": "paragraph",
+      "page": 1,
+      "text": "We have carefully reviewed the available data and determined that air safety and the public interest require adopting the AD as proposed except for minor editorial corrections. We have determined that these minor corrections:"
+    },
+    {
+      "id": "e48",
+      "type": "paragraph",
+      "page": 1,
+      "text": "VerDate Aug<31>2005 16:18 Mar 03, 2008 Jkt 214001 PO 00000 Frm 00020 Fmt 4700 Sfmt 4700 E:\\FR\\FM\\04MRR1.SGM 04MRR1"
+    },
+    {
+      "id": "e49",
+      "type": "page_header",
+      "page": 2,
+      "text": "Federal Register /Vol. 73, No. 43/Tuesday, March 4, 2008/Rules and Regulations"
+    },
+    {
+      "id": "e50",
+      "type": "page_header",
+      "page": 2,
+      "text": "11537"
+    },
+    {
+      "id": "e51",
+      "type": "paragraph",
+      "page": 2,
+      "text": "rwilkins on PROD1PC63 with RULES"
+    },
+    {
+      "id": "e52",
+      "type": "paragraph",
+      "page": 2,
+      "text": "Are consistent with the intent that was proposed in the NPRM for correcting the unsafe condition; and"
+    },
+    {
+      "id": "e53",
+      "type": "paragraph",
+      "page": 2,
+      "text": "do not add any additional burden upon the public than was already proposed in the NPRM."
+    },
+    {
+      "id": "e54",
+      "type": "heading",
+      "page": 2,
+      "text": "Costs of Compliance",
+      "level": 2
+    },
+    {
+      "id": "e55",
+      "type": "paragraph",
+      "page": 2,
+      "text": "We estimate that this AD affects 1,556 airplanes in the U.S. registry."
+    },
+    {
+      "id": "e56",
+      "type": "paragraph",
+      "page": 2,
+      "text": "We estimate the following costs to do the modification:"
+    },
+    {
+      "id": "e57",
+      "type": "table",
+      "header": [
+        "Labor cost",
+        "Parts cost",
+        "Total cost per airplane",
+        "Total cost on U.S. operators"
+      ],
+      "rows": [
+        [
+          "5 work-hours × $80 per hour = $400 (for two crew seats)",
+          "$800 (for two crew seats) ...........................",
+          "$1,200",
+          "$1,867,200"
+        ]
+      ],
+      "page": 2
+    },
+    {
+      "id": "e58",
+      "type": "heading",
+      "page": 2,
+      "text": "Authority for This Rulemaking",
+      "level": 2
+    },
+    {
+      "id": "e59",
+      "type": "paragraph",
+      "page": 2,
+      "text": "Title 49 of the United States Code specifies the FAA's authority to issue rules on aviation safety. Subtitle I, Section 106 describes the authority of the FAA Administrator. Subtitle VII, Aviation Programs, describes in more detail the scope of the agency's authority."
+    },
+    {
+      "id": "e60",
+      "type": "paragraph",
+      "page": 2,
+      "text": "We are issuing this rulemaking under the authority described in Subtitle VII, Part A, Subpart III, Section 44701, ''General requirements.'' Under that section, Congress charges the FAA with promoting safe flight of civil aircraft in air commerce by prescribing regulations for practices, methods, and procedures the Administrator finds necessary for safety in air commerce. This regulation is within the scope of that authority because it addresses an unsafe condition that is likely to exist or develop on products identified in this AD."
+    },
+    {
+      "id": "e61",
+      "type": "heading",
+      "page": 2,
+      "text": "Regulatory Findings",
+      "level": 2
+    },
+    {
+      "id": "e62",
+      "type": "paragraph",
+      "page": 2,
+      "text": "We have determined that this AD will not have federalism implications under Executive Order 13132. This AD will not have a substantial direct effect on the States, on the relationship between the national government and the States, or on the distribution of power and responsibilities among the various levels of government."
+    },
+    {
+      "id": "e63",
+      "type": "paragraph",
+      "page": 2,
+      "text": "For the reasons discussed above, I certify that this AD:"
+    },
+    {
+      "id": "e64",
+      "type": "paragraph",
+      "page": 2,
+      "text": "Is not a ''significant regulatory action'' under Executive Order 12866;"
+    },
+    {
+      "id": "e65",
+      "type": "paragraph",
+      "page": 2,
+      "text": "Is not a ''significant rule'' under the DOT Regulatory Policies and Procedures (44 FR 11034, February 26, 1979); and"
+    },
+    {
+      "id": "e66",
+      "type": "paragraph",
+      "page": 2,
+      "text": "Will not have a significant economic impact, positive or negative, on a substantial number of small entities under the criteria of the Regulatory Flexibility Act."
+    },
+    {
+      "id": "e67",
+      "type": "paragraph",
+      "page": 2,
+      "text": "We prepared a summary of the costs to comply with this AD (and other information as included in the Regulatory Evaluation) and placed it in the AD Docket. You may get a copy of this summary by sending a request to us at the address listed under ADDRESSES. Include ''Docket No. FAA-2007-28433; Directorate Identifier 2007-CE-052AD'' in your request."
+    },
+    {
+      "id": "e68",
+      "type": "heading",
+      "page": 2,
+      "text": "List of Subjects in 14 CFR Part 39",
+      "level": 2
+    },
+    {
+      "id": "e69",
+      "type": "paragraph",
+      "page": 2,
+      "text": "Air transportation, Aircraft, Aviation safety, Incorporation by reference, Safety."
+    },
+    {
+      "id": "e70",
+      "type": "heading",
+      "page": 2,
+      "text": "Adoption of the Amendment",
+      "level": 2
+    },
+    {
+      "id": "e71",
+      "type": "paragraph",
+      "page": 2,
+      "text": "■ Accordingly, under the authority delegated to me by the Administrator, the Federal Aviation Administration amends part 39 of the Federal Aviation Regulations (14 CFR part 39) as follows:"
+    },
+    {
+      "id": "e72",
+      "type": "heading",
+      "page": 2,
+      "text": "PART 39-AIRWORTHINESS DIRECTIVES",
+      "level": 2
+    },
+    {
+      "id": "e73",
+      "type": "paragraph",
+      "page": 2,
+      "text": "■ 1. The authority citation for part 39 continues to read as follows:"
+    },
+    {
+      "id": "e74",
+      "type": "paragraph",
+      "page": 2,
+      "text": "Authority: 49 U.S.C. 106(g), 40113, 44701."
+    },
+    {
+      "id": "e75",
+      "type": "heading",
+      "page": 2,
+      "text": "§39.13 [Amended]",
+      "level": 2
+    },
+    {
+      "id": "e76",
+      "type": "paragraph",
+      "page": 2,
+      "text": "■ 2. FAA amends §39.13 by adding a new AD to read as follows:"
+    },
+    {
+      "id": "e77",
+      "type": "heading",
+      "page": 2,
+      "text": "2008-05-09 Cessna Aircraft Company:",
+      "level": 2
+    },
+    {
+      "id": "e78",
+      "type": "paragraph",
+      "page": 2,
+      "text": "Amendment 39-15403; Docket No. FAA-2007-28433; Directorate Identifier"
+    },
+    {
+      "id": "e79",
+      "type": "paragraph",
+      "page": 2,
+      "text": "2007-CE-052-AD."
+    },
+    {
+      "id": "e80",
+      "type": "heading",
+      "page": 2,
+      "text": "Effective Date",
+      "level": 2
+    },
+    {
+      "id": "e81",
+      "type": "paragraph",
+      "page": 2,
+      "text": "(a) This AD becomes effective on April 8, 2008."
+    },
+    {
+      "id": "e82",
+      "type": "heading",
+      "page": 2,
+      "text": "Affected ADs",
+      "level": 2
+    },
+    {
+      "id": "e83",
+      "type": "paragraph",
+      "page": 2,
+      "text": "(b) None."
+    },
+    {
+      "id": "e84",
+      "type": "heading",
+      "page": 2,
+      "text": "Applicability",
+      "level": 2
+    },
+    {
+      "id": "e85",
+      "type": "paragraph",
+      "page": 2,
+      "text": "(c) This AD applies to the following airplane models and serial numbers that are certificated in any category:"
+    },
+    {
+      "id": "e86",
+      "type": "table",
+      "header": [
+        "Models",
+        "Serial Nos."
+      ],
+      "rows": [
+        [
+          "(1) 172R ................. (2) 172S ................. (3) 182T ................. (4) T182T ............... (5) 206H ................. (6) T206H ...............",
+          "17281211 through 17281356. 172S9621 through 172S10310, 172S10312 through 172S10324, 172S10327 through 172S10332, 172S10334 through 172S10349, 172S10351 through 172S10374, 172S10376 through 172S10386, 172S10388 through 172S10408, 172S10410 through 172S10412, 172S10414 through 172S10417, and 172S10421 through 172S10423. 18281328 through 18281867, 18281869 through 18281871, 18281873 through 18281875, and 18281877. T18208240 through T18208651, T18208654, T18208656 through T18208659, T18208663, T18208664, and T18208667 through T18208668. 20608216 through 20608283. T20608445 through T20608662, T20608664 through T20608671, T20608673, T20608674, T20608676 through T20608681, T20608683 through T20608689, T20608691, T20608692, T20608694 through T20608696, T20608699 through T20608701, T20608703, and T20608704."
+        ]
+      ],
+      "page": 2
+    },
+    {
+      "id": "e87",
+      "type": "heading",
+      "page": 2,
+      "text": "Unsafe Condition",
+      "level": 2
+    },
+    {
+      "id": "e88",
+      "type": "paragraph",
+      "page": 2,
+      "text": "(d) This AD results from reports of the seat base/back attach bracket failing where it is welded to the seat base. We are issuing this AD to prevent failure of the seat base/back attach brackets, which could result in the seats collapsing backwards during flight with consequent loss of control."
+    },
+    {
+      "id": "e89",
+      "type": "heading",
+      "page": 2,
+      "text": "Compliance",
+      "level": 2
+    },
+    {
+      "id": "e90",
+      "type": "paragraph",
+      "page": 2,
+      "text": "(e) To address this problem, you must do the following, unless already done:"
+    },
+    {
+      "id": "e91",
+      "type": "paragraph",
+      "page": 2,
+      "text": "VerDate Aug<31>2005 16:18 Mar 03, 2008 Jkt 214001 PO 00000 Frm 00021 Fmt 4700 Sfmt 4700 E:\\FR\\FM\\04MRR1.SGM 04MRR1"
+    },
+    {
+      "id": "e92",
+      "type": "page_header",
+      "page": 3,
+      "text": "11538"
+    },
+    {
+      "id": "e93",
+      "type": "page_header",
+      "page": 3,
+      "text": "Federal Register /Vol. 73, No. 43/Tuesday, March 4, 2008/Rules and Regulations"
+    },
+    {
+      "id": "e94",
+      "type": "paragraph",
+      "page": 3,
+      "text": "rwilkins on PROD1PC63 with RULES"
+    },
+    {
+      "id": "e95",
+      "type": "table",
+      "header": [
+        "Actions",
+        "Compliance",
+        "Procedures"
+      ],
+      "rows": [
+        [
+          "Remove, modify, and reinstall the crew seats ...",
+          "Within the next 50 hours time-in-service after April 8, 2008 (the effective date of this AD) or within the next 6 months after April 8, 2008 (the effective date of this AD), which- ever occurs first.",
+          "Follow Cessna Aircraft Company Single En- gine Modification Kit No. MK206-25-10, dated April 23, 2007, as specified in Cessna Aircraft Company Service Bulletin SB07-25-04, dated April 23, 2007."
+        ]
+      ],
+      "page": 3
+    },
+    {
+      "id": "e96",
+      "type": "heading",
+      "page": 3,
+      "text": "Alternative Methods of Compliance (AMOCs)",
+      "level": 2
+    },
+    {
+      "id": "e97",
+      "type": "paragraph",
+      "page": 3,
+      "text": "(f) The Manager, Wichita Aircraft Certification Office, FAA, has the authority to approve AMOCs for this AD, if requested using the procedures found in 14 CFR 39.19. Send information to ATTN: Gary Park, Aerospace Engineer, 1801 Airport Road, Room 100, Wichita, Kansas 67209; telephone: (316) 946-4123; fax: (316) 946-4107. Before using any approved AMOC on any airplane to which the AMOC applies, notify your appropriate principal inspector (PI) in the FAA Flight Standards District Office (FSDO), or lacking a PI, your local FSDO."
+    },
+    {
+      "id": "e98",
+      "type": "heading",
+      "page": 3,
+      "text": "Related Information",
+      "level": 2
+    },
+    {
+      "id": "e99",
+      "type": "paragraph",
+      "page": 3,
+      "text": "(g) To get copies of the service information referenced in this AD, contact Cessna Aircraft Company, Product Support, P.O. Box 7706, Wichita, Kansas 67277; telephone: (316) 5175800; fax: (316) 942-9006. To view the AD docket, go to U.S. Department of Transportation, Docket Operations, M-30, West Building Ground Floor, Room W12140, 1200 New Jersey Avenue, SE., Washington, DC 20590, or on the Internet at http://dms.dot.gov. The docket number is Docket No. FAA-2007-28433; Directorate Identifier 2007-CE-052-AD."
+    },
+    {
+      "id": "e100",
+      "type": "heading",
+      "page": 3,
+      "text": "Material Incorporated by Reference",
+      "level": 2
+    },
+    {
+      "id": "e101",
+      "type": "paragraph",
+      "page": 3,
+      "text": "(h) You must use Cessna Aircraft Company Single Engine Modification Kit No. MK20625-10, dated April 23, 2007, as specified in Cessna Aircraft Company Service Bulletin SB07-25-04, dated April 23, 2007, to do the actions required by this AD, unless the AD specifies otherwise."
+    },
+    {
+      "id": "e102",
+      "type": "paragraph",
+      "page": 3,
+      "text": "(1) The Director of the Federal Register approved the incorporation by reference of this service information under 5 U.S.C. 552(a) and 1 CFR part 51."
+    },
+    {
+      "id": "e103",
+      "type": "paragraph",
+      "page": 3,
+      "text": "For service information identified in this AD, contact Cessna Aircraft Company, Product Support, P.O. Box 7706, Wichita, Kansas 67277; telephone: (316) 517-5800; fax: (316) 942-9006."
+    },
+    {
+      "id": "e104",
+      "type": "paragraph",
+      "page": 3,
+      "text": "(3) You may review copies at the FAA, Central Region, Office of the Regional Counsel, 901 Locust, Kansas City, Missouri 64106; or at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202-741-6030, or go to: http://www.archives.gov/federal_register/ code_of_federal_regulations/ ibr_locations.html."
+    },
+    {
+      "id": "e105",
+      "type": "paragraph",
+      "page": 3,
+      "text": "Issued in Kansas City, Missouri, on February 22, 2008."
+    },
+    {
+      "id": "e106",
+      "type": "heading",
+      "page": 3,
+      "text": "Patrick R. Mullen,",
+      "level": 2
+    },
+    {
+      "id": "e107",
+      "type": "paragraph",
+      "page": 3,
+      "text": "Acting Manager, Small Airplane Directorate, Aircraft Certification Service."
+    },
+    {
+      "id": "e108",
+      "type": "paragraph",
+      "page": 3,
+      "text": "[FR Doc. E8-3771 Filed 3-3-08; 8:45 am]"
+    },
+    {
+      "id": "e109",
+      "type": "heading",
+      "page": 3,
+      "text": "BILLING CODE 4910-13-P",
+      "level": 2
+    },
+    {
+      "id": "e110",
+      "type": "heading",
+      "page": 3,
+      "text": "DEPARTMENT OF TRANSPORTATION",
+      "level": 2
+    },
+    {
+      "id": "e111",
+      "type": "heading",
+      "page": 3,
+      "text": "Federal Aviation Administration",
+      "level": 2
+    },
+    {
+      "id": "e112",
+      "type": "heading",
+      "page": 3,
+      "text": "14 CFR Part 39",
+      "level": 2
+    },
+    {
+      "id": "e113",
+      "type": "paragraph",
+      "page": 3,
+      "text": "[Docket No. FAA-2007-0224; Directorate Identifier 2007-NM-188-AD; Amendment 39-15400; AD 2008-05-06]"
+    },
+    {
+      "id": "e114",
+      "type": "paragraph",
+      "page": 3,
+      "text": "RIN 2120-AA64"
+    },
+    {
+      "id": "e115",
+      "type": "paragraph",
+      "page": 3,
+      "text": "Airworthiness Directives; Boeing Model 737-100, -200, -300, -400, and -500 Series Airplanes"
+    },
+    {
+      "id": "e116",
+      "type": "paragraph",
+      "page": 3,
+      "text": "AGENCY: Federal Aviation Administration (FAA), DOT. ACTION: Final rule."
+    },
+    {
+      "id": "e117",
+      "type": "paragraph",
+      "page": 3,
+      "text": "SUMMARY: We are adopting a new airworthiness directive (AD) for certain Boeing Model 737-100, -200, -300, -400, and -500 series airplanes. This AD requires repetitive inspections for fatigue cracking in the longitudinal floor beam web, upper chord, and lower chord located at certain body stations, and repair if necessary. This AD results from several reports of cracks in the center wing box longitudinal floor beams, upper chord, and lower chord. We are issuing this AD to detect and correct fatigue cracking of the upper and lower chords and web of the longitudinal floor beams, which could result in rapid loss of cabin pressure. DATES: This AD is effective April 8, 2008."
+    },
+    {
+      "id": "e118",
+      "type": "paragraph",
+      "page": 3,
+      "text": "The Director of the Federal Register approved the incorporation by reference of a certain publication listed in this AD as of April 8, 2008."
+    },
+    {
+      "id": "e119",
+      "type": "paragraph",
+      "page": 3,
+      "text": "ADDRESSES: For service information identified in this AD, contact Boeing Commercial Airplanes, P.O. Box 3707, Seattle, Washington 98124-2207."
+    },
+    {
+      "id": "e120",
+      "type": "heading",
+      "page": 3,
+      "text": "Examining the AD Docket",
+      "level": 2
+    },
+    {
+      "id": "e121",
+      "type": "paragraph",
+      "page": 3,
+      "text": "You may examine the AD docket on the Internet at http:// www.regulations.gov; or in person at the Docket Management Facility between 9 a.m. and 5 p.m., Monday through Friday, except Federal holidays. The AD docket contains this AD, the regulatory evaluation, any comments received, and other information. The address for the Docket Office (telephone 800-647-5527) is the Document Management Facility, U.S. Department of Transportation, Docket Operations, M-30, West Building Ground Floor, Room W12-140, 1200 New Jersey Avenue, SE., Washington, DC 20590."
+    },
+    {
+      "id": "e122",
+      "type": "heading",
+      "page": 3,
+      "text": "FOR FURTHER INFORMATION CONTACT:",
+      "level": 2
+    },
+    {
+      "id": "e123",
+      "type": "paragraph",
+      "page": 3,
+      "text": "Nancy Marsh, Aerospace Engineer, Airframe Branch, ANM-120S, FAA, Seattle Aircraft Certification Office, 1601 Lind Avenue, SW., Renton, Washington 98057-3356; telephone (425) 917-6440; fax (425) 917-6590."
+    },
+    {
+      "id": "e124",
+      "type": "heading",
+      "page": 3,
+      "text": "SUPPLEMENTARY INFORMATION:",
+      "level": 2
+    },
+    {
+      "id": "e125",
+      "type": "heading",
+      "page": 3,
+      "text": "Discussion",
+      "level": 2
+    },
+    {
+      "id": "e126",
+      "type": "paragraph",
+      "page": 3,
+      "text": "We issued a notice of proposed rulemaking (NPRM) to amend 14 CFR part 39 to include an airworthiness directive (AD) that would apply to certain Boeing Model 737-100, -200, -300, -400, and -500 series airplanes. That NPRM was published in the Federal Register on November 26, 2007 (72 FR 65911). That NPRM proposed to require repetitive inspections for fatigue cracking in the longitudinal floor beam web, upper chord, and lower chord located at certain body stations, and repair if necessary."
+    },
+    {
+      "id": "e127",
+      "type": "heading",
+      "page": 3,
+      "text": "Comments",
+      "level": 2
+    },
+    {
+      "id": "e128",
+      "type": "paragraph",
+      "page": 3,
+      "text": "We gave the public the opportunity to participate in developing this AD. We considered the comment received. Boeing, the single commenter, supports the NPRM."
+    },
+    {
+      "id": "e129",
+      "type": "heading",
+      "page": 3,
+      "text": "Conclusion",
+      "level": 2
+    },
+    {
+      "id": "e130",
+      "type": "paragraph",
+      "page": 3,
+      "text": "We reviewed the relevant data, considered the comment received, and determined that air safety and the public interest require adopting the AD as proposed."
+    },
+    {
+      "id": "e131",
+      "type": "heading",
+      "page": 3,
+      "text": "Costs of Compliance",
+      "level": 2
+    },
+    {
+      "id": "e132",
+      "type": "paragraph",
+      "page": 3,
+      "text": "There are 2,852 airplanes of the affected design in the worldwide fleet. This AD affects 652 airplanes of U.S. registry. The required inspection takes approximately 13 work hours per airplane, at an average labor rate of $80 per work hour. Based on these figures, the estimated cost of the required inspection for U.S. operators is $678,080, or $1,040 per airplane, per inspection cycle."
+    },
+    {
+      "id": "e133",
+      "type": "heading",
+      "page": 3,
+      "text": "Authority for This Rulemaking",
+      "level": 2
+    },
+    {
+      "id": "e134",
+      "type": "paragraph",
+      "page": 3,
+      "text": "Title 49 of the United States Code specifies the FAA's authority to issue rules on aviation safety. Subtitle I,"
+    },
+    {
+      "id": "e135",
+      "type": "paragraph",
+      "page": 3,
+      "text": "VerDate Aug<31>2005 16:18 Mar 03, 2008 Jkt 214001 PO 00000 Frm 00022 Fmt 4700 Sfmt 4700 E:\\FR\\FM\\04MRR1.SGM 04MRR1"
+    }
+  ]
+}

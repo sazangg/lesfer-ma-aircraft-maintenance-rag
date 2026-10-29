@@ -1,0 +1,6090 @@
+{
+  "source_id": "TCDS-3A12-R89",
+  "file": "faa/tcds/tcds-3a12-rev89.pdf",
+  "format": "pdf",
+  "parser": "docling",
+  "meta": {
+    "title": "Type Certificate Data Sheet 3A12, revision 89 (Textron Aviation 172 series)",
+    "publisher": "FAA",
+    "doc_type": "type certificate data sheet",
+    "revision": "89",
+    "issued": "2026-09-15",
+    "access": "employees"
+  },
+  "elements": [
+    {
+      "id": "e1",
+      "type": "heading",
+      "page": 1,
+      "text": "DEPARTMENT OF TRANSPORTATION FEDERAL AVIATION ADMINISTRATION",
+      "level": 2
+    },
+    {
+      "id": "e2",
+      "type": "paragraph",
+      "page": 1,
+      "text": "3A12 Revision 89 Textron Aviation 172 172I 172A 172K 172B 172L 172C 172M 172D 172N 172E 172P 172F (USAF T-41A) 172Q 172G 172R 172H (USAF T-41A) 172S September 15, 2026"
+    },
+    {
+      "id": "e3",
+      "type": "paragraph",
+      "page": 1,
+      "text": "WARNING: Use of alcohol-based fuels can cause serious performance degradation and fuel system component damage and is therefore prohibited on Cessna airplanes."
+    },
+    {
+      "id": "e4",
+      "type": "heading",
+      "page": 1,
+      "text": "TYPE CERTIFICATE DATA SHEET NO. 3A12",
+      "level": 2
+    },
+    {
+      "id": "e5",
+      "type": "paragraph",
+      "page": 1,
+      "text": "This data sheet which is part of Type Certificate No. 3A12 prescribes conditions and limitations under which the product for which the type certificate was issued meets the airworthiness requirements of the Federal Aviation Regulations."
+    },
+    {
+      "id": "e6",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Type Certificate Holder Textron Aviation Inc. One Cessna Boulevard Wichita, Kansas 67215"
+    },
+    {
+      "id": "e7",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Type Certificate Holder Record Cessna Aircraft Company transferred to Textron Aviation Inc. on July 29, 2015"
+    },
+    {
+      "id": "e8",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Model 172, 4 PCLM (Normal Category), approved November 4, 1955; 2 PCLM (Utility Category), approved December 14, 1956"
+    },
+    {
+      "id": "e9",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Engine Continental O-300-A or O-300-B"
+    },
+    {
+      "id": "e10",
+      "type": "paragraph",
+      "page": 1,
+      "text": "*Fuel 80/87 minimum grade aviation gasoline"
+    },
+    {
+      "id": "e11",
+      "type": "paragraph",
+      "page": 1,
+      "text": "*Engine Limits For all operations, 2700 rpm (145 hp)"
+    },
+    {
+      "id": "e12",
+      "type": "table",
+      "header": null,
+      "rows": [
+        [
+          "Page No.",
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7",
+          "8",
+          "9",
+          "10",
+          "11",
+          "12",
+          "13",
+          "14",
+          "15",
+          "16",
+          "17",
+          "18",
+          "19 20"
+        ],
+        [
+          "Rev. No.",
+          "89",
+          "60",
+          "60",
+          "60",
+          "60",
+          "57",
+          "64",
+          "60",
+          "82",
+          "60",
+          "51",
+          "60",
+          "67",
+          "81",
+          "78",
+          "85",
+          "50 50",
+          "55",
+          "55"
+        ],
+        [
+          "Page No.",
+          "21",
+          "22",
+          "23",
+          "24",
+          "25",
+          "26",
+          "27",
+          "28",
+          "29",
+          "30",
+          "31",
+          "32",
+          "33",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Rev. No.",
+          "50",
+          "72",
+          "59",
+          "83",
+          "81",
+          "80",
+          "76",
+          "86",
+          "77",
+          "80",
+          "87",
+          "89",
+          "89",
+          "",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "page": 1
+    },
+    {
+      "id": "e13",
+      "type": "page_header",
+      "page": 2,
+      "text": "3A12"
+    },
+    {
+      "id": "e14",
+      "type": "page_header",
+      "page": 2,
+      "text": "2"
+    },
+    {
+      "id": "e15",
+      "type": "page_header",
+      "page": 2,
+      "text": "Rev. 89"
+    },
+    {
+      "id": "e16",
+      "type": "paragraph",
+      "page": 2,
+      "text": "Model 172 (cont'd)"
+    },
+    {
+      "id": "e17",
+      "type": "paragraph",
+      "page": 2,
+      "text": "Propeller and 1. McCauley Propeller"
+    },
+    {
+      "id": "e18",
+      "type": "paragraph",
+      "page": 2,
+      "text": "Propeller Limits Hub: 1A170/DM Static r.p.m. at maximum permissible throttle setting: Not over 2360, not under 2230. No additional tolerance permitted. Diameter: Not over 76 in., not under 74.5 in. Spinner: Dwg. 0550162"
+    },
+    {
+      "id": "e19",
+      "type": "paragraph",
+      "page": 2,
+      "text": "Sensenich Propeller"
+    },
+    {
+      "id": "e20",
+      "type": "paragraph",
+      "page": 2,
+      "text": "Hub: M74DR or 74DR Static r.p.m. at maximum permissible throttle setting:"
+    },
+    {
+      "id": "e21",
+      "type": "paragraph",
+      "page": 2,
+      "text": "Not over 2430, not under 2300 No additional tolerance permitted Diameter: Not over 74 in., not under 72.0 in. Spinner: Dwg. 0550162"
+    },
+    {
+      "id": "e22",
+      "type": "paragraph",
+      "page": 2,
+      "text": "McCauley Propeller"
+    },
+    {
+      "id": "e23",
+      "type": "paragraph",
+      "page": 2,
+      "text": "Hub: 1C172/MDM 7652, 53, or 55 30 lb. (-39.0) Static r.p.m. at maximum permissible throttle setting: Not over 2350, not under 2250. No additional tolerance permitted. Diameter: Not over 76 in., not under 74.5 in. Spinner: Dwg. 0550216"
+    },
+    {
+      "id": "e24",
+      "type": "paragraph",
+      "page": 2,
+      "text": "*Airspeed Limits Maneuvering 115 mph (100 knots) (CAS) Maximum structural cruising 140 mph (122 knots) Never exceed 160 mph (139 knots) Flaps extended 100 mph ( 87 knots)"
+    },
+    {
+      "id": "e25",
+      "type": "paragraph",
+      "page": 2,
+      "text": "C.G. Range Normal (+40.8) to (+46.4) at 2200 lb. (+36.4) to (+46.4) at 1733 lb. Utility category (+38.4) to (+40.3) at 1950 lb. (+36.4) to (+40.3) at 1733 lb. or less"
+    },
+    {
+      "id": "e26",
+      "type": "paragraph",
+      "page": 2,
+      "text": "Straight line variation between points given."
+    },
+    {
+      "id": "e27",
+      "type": "paragraph",
+      "page": 2,
+      "text": "Empty Weight C.G. Range None"
+    },
+    {
+      "id": "e28",
+      "type": "paragraph",
+      "page": 2,
+      "text": "*Maximum Weight Normal category 2200 lb. Utility category 1950 lb."
+    },
+    {
+      "id": "e29",
+      "type": "paragraph",
+      "page": 2,
+      "text": "Number of Seats 4 (2 at +36, 2 at +70). For child's optional jump seat, refer to Equipment List."
+    },
+    {
+      "id": "e30",
+      "type": "paragraph",
+      "page": 2,
+      "text": "Maximum Baggage 120 lb. (+95)"
+    },
+    {
+      "id": "e31",
+      "type": "paragraph",
+      "page": 2,
+      "text": "Fuel Capacity 42 gal. total, 37 gal. usable (two 21 gal. tanks in wings at +48). (See NOTE 1 for weight of unusable fuel and oil)."
+    },
+    {
+      "id": "e32",
+      "type": "paragraph",
+      "page": 2,
+      "text": "Oil capacity 2 gal. (-20), includes 1 gal. unusable"
+    },
+    {
+      "id": "e33",
+      "type": "paragraph",
+      "page": 2,
+      "text": "Control Surface Movements Wing Flaps Takeoff Retracted 0° 1st notch 10° Landing 2nd notch 20° 3rd notch 30° 4th notch 40° Ailerons Up 20° Down 14° Elevator tab Up 28° Down 13° Elevator Up 28° Down 26° Rudder Right 16° Left 16°"
+    },
+    {
+      "id": "e34",
+      "type": "paragraph",
+      "page": 2,
+      "text": "Serial Numbers Eligible 610, 612, 615, 28000 thru 29999, 36000 thru 36999, 46001 thru 46754."
+    },
+    {
+      "id": "e35",
+      "type": "page_header",
+      "page": 3,
+      "text": "Rev. 89"
+    },
+    {
+      "id": "e36",
+      "type": "page_header",
+      "page": 3,
+      "text": "3"
+    },
+    {
+      "id": "e37",
+      "type": "page_header",
+      "page": 3,
+      "text": "3A12"
+    },
+    {
+      "id": "e38",
+      "type": "heading",
+      "page": 3,
+      "text": "II. Model 172A, 4 PCL-SM (Normal Category), 2 PCLM (Utility Category), approved July 16, 1959; Model 172B, Skyhawk, 4 PCL-SM (Normal Category), 2 PCLM (Utility Category), approved June 14, 1960",
+      "level": 2
+    },
+    {
+      "id": "e39",
+      "type": "paragraph",
+      "page": 3,
+      "text": "Engine Continental O-300-C or O-300-D *Fuel 80/87 minimum grade aviation gasoline *Engine Limits For all operations, 2700 rpm (145 hp) Propeller and 1. McCauley Propeller Propeller Limits Hub: 1C172/EM 7652, 53, or 55 Static rpm at maximum permissible throttle setting: Not over 2350, not under 2230. No additional tolerance permitted. Diameter: Not over 76 in., not under 74.5 in. Spinner: Dwg. 0550216, or 0550221 or 0550228 2. McCauley Propeller (seaplane) Hub: 1A175/SFC 8040 Static rpm at maximum permissible throttle setting: Not over 2480, not under 2380. No additional tolerance permitted. Diameter: Not over 80 in., not under 78.4 in. Spinner: Dwg. 0550216 or 0550221 3. Sensenich Propeller Hub: 74DC-0-56 Static rpm at maximum permissible throttle setting: Not over 2420, not under 2300. No additional tolerance permitted. Diameter: Not over 74 in., not under 72.5 in. *Airspeed Limits Maneuvering 115 mph (100 knots) (CAS) Maximum structural cruising 140 mph (122 knots) Never exceed 160 mph (139 knots) Flaps extended 100 mph ( 87 knots) C.G. Range Landplane (Model 172A): Normal category (+40.8) to (+46.4) at 2200 lb. (+36.4) to (+46.4) at 1733 lb. or less Utility category (+38.4) to (+40.3) at 1950 lb. (+36.4) to (+40.3) at 1733 lb. or less Straight line variation between points given. Landplane (Model 172B): Normal category (+40.4) to (+46.4) at 2200 lb. (+36.4) to (+46.4) at 1850 lb. or less Utility category (+37.4) to (+40.3) at 1950 lb. (+36.4) to (+40.3) at 1850 lb. or less Seaplane (Models 172A, 172B): Normal category (+39.8) to (+45.5) at 2220 lb. (+36.4) to (+45.5) at 1825 lb. or less Straight line variation between points given. Empty Weight C.G. Range None *Maximum Weight Landplane: Normal category 2200 lb. Utility category 1950 lb. Seaplane: Normal category 2220 lb."
+    },
+    {
+      "id": "e40",
+      "type": "page_header",
+      "page": 4,
+      "text": "3A12"
+    },
+    {
+      "id": "e41",
+      "type": "page_header",
+      "page": 4,
+      "text": "4"
+    },
+    {
+      "id": "e42",
+      "type": "page_header",
+      "page": 4,
+      "text": "Rev. 89"
+    },
+    {
+      "id": "e43",
+      "type": "heading",
+      "page": 4,
+      "text": "II. Model 172A (cont'd)",
+      "level": 2
+    },
+    {
+      "id": "e44",
+      "type": "paragraph",
+      "page": 4,
+      "text": "Number of Seats 4 (2 at +36, 2 at +70). For child's optional jump seat, refer to Equipment List."
+    },
+    {
+      "id": "e45",
+      "type": "paragraph",
+      "page": 4,
+      "text": "Maximum Baggage 120 lb. (+95)"
+    },
+    {
+      "id": "e46",
+      "type": "paragraph",
+      "page": 4,
+      "text": "Fuel Capacity Model 172A: 42 gal. total, 37 gal. usable Model 172B: 39 gal. usable (two 21 gal. tanks in wings at +48) (See NOTE 1 for weight of unusable fuel and oil)."
+    },
+    {
+      "id": "e47",
+      "type": "paragraph",
+      "page": 4,
+      "text": "Oil Capacity 2 gal. (-20), 1 gal. usable"
+    },
+    {
+      "id": "e48",
+      "type": "paragraph",
+      "page": 4,
+      "text": "Control Surface Movements Wing Flaps Takeoff Retracted 0°"
+    },
+    {
+      "id": "e49",
+      "type": "paragraph",
+      "page": 4,
+      "text": "1st notch 10°"
+    },
+    {
+      "id": "e50",
+      "type": "paragraph",
+      "page": 4,
+      "text": "Landing"
+    },
+    {
+      "id": "e51",
+      "type": "paragraph",
+      "page": 4,
+      "text": "2nd notch 20°"
+    },
+    {
+      "id": "e52",
+      "type": "paragraph",
+      "page": 4,
+      "text": "3rd notch 30°"
+    },
+    {
+      "id": "e53",
+      "type": "paragraph",
+      "page": 4,
+      "text": "4th notch 40°"
+    },
+    {
+      "id": "e54",
+      "type": "paragraph",
+      "page": 4,
+      "text": "Ailerons Up 20° Down 15° Elevator tab Up 28° Down 13° Elevator Up 28° Down 26° Rudder (landplane) Right 16° Left 16° (seaplane) Right 19° Left 15° (Measured parallel to W.L.)"
+    },
+    {
+      "id": "e55",
+      "type": "paragraph",
+      "page": 4,
+      "text": "Serial Numbers Eligible Model 172A: 622, 625, 46755 thru 47746 Model 172B: 630, 17247747 thru 17248734"
+    },
+    {
+      "id": "e56",
+      "type": "heading",
+      "page": 4,
+      "text": "III. Model 172C, 4 PCL-SM (Normal Category), 2 PCLM (Utility Category), approved July 18, 1961",
+      "level": 2
+    },
+    {
+      "id": "e57",
+      "type": "paragraph",
+      "page": 4,
+      "text": "Engine Continental O-300-C or O-300-D"
+    },
+    {
+      "id": "e58",
+      "type": "paragraph",
+      "page": 4,
+      "text": "*Fuel 80/87 minimum grade aviation gasoline"
+    },
+    {
+      "id": "e59",
+      "type": "paragraph",
+      "page": 4,
+      "text": "*Engine Limits For all operations, 2700 rpm (145 hp)"
+    },
+    {
+      "id": "e60",
+      "type": "paragraph",
+      "page": 4,
+      "text": "Propeller and 1. McCauley Propeller"
+    },
+    {
+      "id": "e61",
+      "type": "paragraph",
+      "page": 4,
+      "text": "Propeller Limits Hub: 1C172/EM 7652, 53, or 55 Static rpm, at maximum permissible throttle setting: Not over 2350, not under 2230. No additional tolerance permitted. Diameter: Not over 76 in., not under 74.5 in. Spinner: Dwg. 0550216, 0550221 or 0550228"
+    },
+    {
+      "id": "e62",
+      "type": "paragraph",
+      "page": 4,
+      "text": "McCauley Propeller (seaplane)"
+    },
+    {
+      "id": "e63",
+      "type": "paragraph",
+      "page": 4,
+      "text": "Hub: 1A175/SFC 8040"
+    },
+    {
+      "id": "e64",
+      "type": "paragraph",
+      "page": 4,
+      "text": "Static rpm, at maximum permissible throttle setting: Not over 2480, not under 2380. No additional tolerance permitted. Diameter: Not over 80 in., not under 78.4 in."
+    },
+    {
+      "id": "e65",
+      "type": "paragraph",
+      "page": 4,
+      "text": "Spinner: Dwg. 0550216 or 0550221"
+    },
+    {
+      "id": "e66",
+      "type": "paragraph",
+      "page": 4,
+      "text": "Sensenich Propeller"
+    },
+    {
+      "id": "e67",
+      "type": "paragraph",
+      "page": 4,
+      "text": "Hub:"
+    },
+    {
+      "id": "e68",
+      "type": "paragraph",
+      "page": 4,
+      "text": "74DC-0-56"
+    },
+    {
+      "id": "e69",
+      "type": "paragraph",
+      "page": 4,
+      "text": "Static rpm at maximum permissible throttle setting: Not over 2420, not under 2300. No additional tolerance permitted. Diameter: Not over 74 in., not under 72.5 in."
+    },
+    {
+      "id": "e70",
+      "type": "paragraph",
+      "page": 4,
+      "text": "*Airspeed Limits Maneuvering 115 mph (100 knots) (CAS) Maximum structural cruising 140 mph (122 knots) Never exceed 160 mph (139 knots) Flaps extended 100 mph ( 87 knots)"
+    },
+    {
+      "id": "e71",
+      "type": "page_header",
+      "page": 5,
+      "text": "Rev. 89"
+    },
+    {
+      "id": "e72",
+      "type": "page_header",
+      "page": 5,
+      "text": "5"
+    },
+    {
+      "id": "e73",
+      "type": "page_header",
+      "page": 5,
+      "text": "3A12"
+    },
+    {
+      "id": "e74",
+      "type": "heading",
+      "page": 5,
+      "text": "III. Model 172C (cont'd)",
+      "level": 2
+    },
+    {
+      "id": "e75",
+      "type": "paragraph",
+      "page": 5,
+      "text": "C.G. Range Landplane: Normal category (+40.5) to (+46.4) at 2250 lb. (+36.4) to (+46.4) at 1850 lb. or less Utility category (+37.4) to (+40.3) at 1950 lb. (+36.4) to (+40.3) at 1850 lb. or less Seaplane: Normal category (+39.8) to (+45.5) at 2220 lb. (+36.4) to (+45.5) at 1825 lb. or less"
+    },
+    {
+      "id": "e76",
+      "type": "paragraph",
+      "page": 5,
+      "text": "Straight line variation between points given. Empty Weight C.G. Range None *Maximum Weight Landplane: Normal category 2250 lb. Utility category 1950 lb. Seaplane: Normal category 2220 lb. Number of Seats 4 (2 at +36, 2 at +70). For child's optional jump seat, refer to Equipment List. Maximum Baggage 120 lb. (+95) Fuel Capacity 39 gal. total, 36 gal. usable (two 19.5 gal. tanks in wings at +48). (See NOTE 1 for weight of unusable fuel and oil). Oil Capacity 2 gal. (-20), includes 1 gal. unusable Control Surface Movements Wing Flaps Takeoff Retracted 0° 1st notch 10° Landing 2nd notch 20° 3rd notch 30° 4th notch 40° Ailerons Up 20° Down 15° Elevator tab Up 28° Down 13° Elevator Up 28° Down 26° Rudder (Landplane) Right 16° Left 16° (Seaplane) Right 19° Left 15° (Measured parallel to W.L.) Serial Numbers Eligible 17248735 thru 17249544"
+    },
+    {
+      "id": "e77",
+      "type": "paragraph",
+      "page": 5,
+      "text": "IV. Model 172D, 4 PCL-SM (Normal Category), 2 PCLM (Utility Category), approved June 19, 1962 Model 172E, 4 PCL-SM (Normal Category), 2 PCLM (Utility Category), approved June 27, 1963 Model 172F (USAF T-41A), 4 PCL-SM (Normal Category), 2 PCLM (Utility Category), approved April 21, 1964 Model 172G, 4 PCL-SM (Normal Category), 2 PCLM (Utility Category), approved June 15, 1965 Model 172H (USAF) T-41A), 4 PCL-SM (Normal Category), 2 PCLM (Utility Category), approved June7, 1966"
+    },
+    {
+      "id": "e78",
+      "type": "paragraph",
+      "page": 5,
+      "text": "Engine Continental O-300-C or O-300-D"
+    },
+    {
+      "id": "e79",
+      "type": "paragraph",
+      "page": 5,
+      "text": "*Fuel 80/87 minimum octane aviation gasoline"
+    },
+    {
+      "id": "e80",
+      "type": "paragraph",
+      "page": 5,
+      "text": "*Engine Limits For all operations, 2700 rpm (145 hp)"
+    },
+    {
+      "id": "e81",
+      "type": "page_header",
+      "page": 6,
+      "text": "3A12"
+    },
+    {
+      "id": "e82",
+      "type": "page_header",
+      "page": 6,
+      "text": "6"
+    },
+    {
+      "id": "e83",
+      "type": "page_header",
+      "page": 6,
+      "text": "Rev. 89"
+    },
+    {
+      "id": "e84",
+      "type": "heading",
+      "page": 6,
+      "text": "IV. Models 172D, 172E, 172F, 172G, 172H (cont'd)",
+      "level": 2
+    },
+    {
+      "id": "e85",
+      "type": "paragraph",
+      "page": 6,
+      "text": "Propeller and 1. McCauley Propeller Propeller Limits Hub: 1C172/EM 7652, 53 Static rpm at maximum permissible throttle setting: Not over 2420, not under 2230. No additional tolerance permitted. Diameter: Not over 76 in., not under 74.5 in. Spinner: Model 172D/E/F: Dwg. 0550216, 0550221 or 0550228 Model 172G/H: Dwg. 0550236 2. McCauley Propeller (seaplane) Hub: 1A175/SFC 8040 Static rpm at maximum permissible throttle setting: Not over 2480, not under 2380. No additional tolerance permitted. Diameter: Not over 80 in., not under 78.4 in. Spinner: Model 172D/E/F: Dwg. 0550216, 0550221 Model 172G/H: Dwg. 0550236 *Airspeed Limits Maneuvering 122 mph (106 knots) (CAS) Maximum structural cruising 142 mph (122 knots) Never exceed 174 mph (151 knots) Flaps extended 100 mph ( 87 knots) C.G. Range Landplane Normal category (+38.5) to (+47.3) at 2300 lb. (+35.0) to (+47.3) at 1950 lb. or less Utility category (+35.5) to (+40.5) at 2000 lb. (+35.0) to (+40.5) at 1950 lb. or less Seaplane Normal category (+39.8) to (+45.5) at 2220 lb. (+36.4) to (+45.5) at 1825 lb. or less Straight line variation between points given. Empty Weight C.G. Range None *Maximum Weight Landplane: Normal category 2300 lb. Utility category 2000 lb. Seaplane: Normal category 2220 lb. Number of Seats 4 (2 at +36, 2 at +70). For child's optional jump seat, refer to Equipment List. Maximum Baggage 120 lb. (+95) Fuel Capacity 39 gal. total, 36 gal. usable (two 19.5 gal. tanks in wings at +48) (See NOTE 1 for weight of unusable fuel and oil). Oil Capacity 2 gal. (-20), 1 gal. usable (Neutral position is with bottom of balance area flush with bottom of stabilizer)"
+    },
+    {
+      "id": "e86",
+      "type": "paragraph",
+      "page": 6,
+      "text": "Control Surface Movements Wing Flaps Takeoff Retracted 0° 1st notch 10° Landing 0° 40° Ailerons Up 20° Down 15° Elevator tab Up 28° Down 13° Elevator Up 28° Down 23° Rudder (landplane) Right 16° Left 16° (seaplane) Right 19° Left 15°"
+    },
+    {
+      "id": "e87",
+      "type": "page_header",
+      "page": 7,
+      "text": "Rev. 89"
+    },
+    {
+      "id": "e88",
+      "type": "page_header",
+      "page": 7,
+      "text": "7"
+    },
+    {
+      "id": "e89",
+      "type": "page_header",
+      "page": 7,
+      "text": "3A12"
+    },
+    {
+      "id": "e90",
+      "type": "heading",
+      "page": 7,
+      "text": "IV. Models 172D, 172E, 172F, 172G, 172H (cont'd)",
+      "level": 2
+    },
+    {
+      "id": "e91",
+      "type": "paragraph",
+      "page": 7,
+      "text": "Serial Numbers Eligible Model 172D: 17249545 thru 17250572 Model 172E: 639, 17250573 thru 17251822 Model 172F: 17251823 thru 17253392 Model 172G: 17253393 thru 17254892 Model 172H: 638, 17254893 thru 17256512 (except 17256493)"
+    },
+    {
+      "id": "e92",
+      "type": "heading",
+      "page": 7,
+      "text": "V. Model 172I, 4 PCL-SM (Normal Category), 2 PCLM (Utility Category), approved December 15, 1967 Model 172K, 4 PCL-SM (Normal Category), 2 PCLM (Utility Category), approved May 9, 1968",
+      "level": 2
+    },
+    {
+      "id": "e93",
+      "type": "paragraph",
+      "page": 7,
+      "text": "Engine Lycoming O-320-E2D"
+    },
+    {
+      "id": "e94",
+      "type": "paragraph",
+      "page": 7,
+      "text": "*Fuel 80/87 minimum grade aviation gasoline"
+    },
+    {
+      "id": "e95",
+      "type": "paragraph",
+      "page": 7,
+      "text": "*Engine Limits For all operations, 2700 rpm (150 hp)"
+    },
+    {
+      "id": "e96",
+      "type": "paragraph",
+      "page": 7,
+      "text": "Propeller and 1. McCauley Propeller Propeller Limits"
+    },
+    {
+      "id": "e97",
+      "type": "paragraph",
+      "page": 7,
+      "text": "Hub: 1C172/MTM 7653 Static rpm at maximum permissible throttle setting: Not over 2360, not under 2260. No additional tolerance permitted (see NOTE 3). Diameter: Not over 76 in., not under 74 in. Spinner: Dwg. 0550320"
+    },
+    {
+      "id": "e98",
+      "type": "paragraph",
+      "page": 7,
+      "text": "McCauley Propeller (seaplane)"
+    },
+    {
+      "id": "e99",
+      "type": "paragraph",
+      "page": 7,
+      "text": "Hub: 1A175/ATM 8042"
+    },
+    {
+      "id": "e100",
+      "type": "paragraph",
+      "page": 7,
+      "text": "Static rpm at maximum permissible throttle setting: Not over 2480, not under 2380. No additional tolerance permitted (see NOTE 3). Diameter: Not over 80 in., not under 78.4 in. Spinner: Dwg. 0550320"
+    },
+    {
+      "id": "e101",
+      "type": "paragraph",
+      "page": 7,
+      "text": "McCauley Propeller"
+    },
+    {
+      "id": "e102",
+      "type": "paragraph",
+      "page": 7,
+      "text": "Hub:"
+    },
+    {
+      "id": "e103",
+      "type": "paragraph",
+      "page": 7,
+      "text": "1C160/CTM 7553"
+    },
+    {
+      "id": "e104",
+      "type": "paragraph",
+      "page": 7,
+      "text": "Static rpm at maximum permissible throttle setting:"
+    },
+    {
+      "id": "e105",
+      "type": "paragraph",
+      "page": 7,
+      "text": "Not over 2370, not under 2270."
+    },
+    {
+      "id": "e106",
+      "type": "paragraph",
+      "page": 7,
+      "text": "No additional tolerance permitted (see NOTE 3)."
+    },
+    {
+      "id": "e107",
+      "type": "paragraph",
+      "page": 7,
+      "text": "Diameter: not over 75 in., not under 74 in."
+    },
+    {
+      "id": "e108",
+      "type": "paragraph",
+      "page": 7,
+      "text": "Spinner: Dwg. 0550320"
+    },
+    {
+      "id": "e109",
+      "type": "paragraph",
+      "page": 7,
+      "text": "McCauley Propeller (seaplane)"
+    },
+    {
+      "id": "e110",
+      "type": "paragraph",
+      "page": 7,
+      "text": "Hub:"
+    },
+    {
+      "id": "e111",
+      "type": "paragraph",
+      "page": 7,
+      "text": "1A175/ETM 8042"
+    },
+    {
+      "id": "e112",
+      "type": "paragraph",
+      "page": 7,
+      "text": "Static rpm at maximum permissible throttle setting: Not over 2480, not under 2380. No additional tolerance permitted (see NOTE 3). Diameter: Not over 80 in., not under 78.4 in. Spinner: Dwg. 0550321"
+    },
+    {
+      "id": "e113",
+      "type": "paragraph",
+      "page": 7,
+      "text": "McCauley Propeller"
+    },
+    {
+      "id": "e114",
+      "type": "paragraph",
+      "page": 7,
+      "text": "Hub:"
+    },
+    {
+      "id": "e115",
+      "type": "paragraph",
+      "page": 7,
+      "text": "1C160/DTM 7553"
+    },
+    {
+      "id": "e116",
+      "type": "paragraph",
+      "page": 7,
+      "text": "Static rpm at maximum permissible throttle setting:"
+    },
+    {
+      "id": "e117",
+      "type": "paragraph",
+      "page": 7,
+      "text": "Not over 2370, not under 2270."
+    },
+    {
+      "id": "e118",
+      "type": "paragraph",
+      "page": 7,
+      "text": "No additional tolerance permitted (see NOTE 3)."
+    },
+    {
+      "id": "e119",
+      "type": "paragraph",
+      "page": 7,
+      "text": "Diameter: Not over 75 in., not under 74 in."
+    },
+    {
+      "id": "e120",
+      "type": "paragraph",
+      "page": 7,
+      "text": "Spinner: Dwg. 0550320"
+    },
+    {
+      "id": "e121",
+      "type": "paragraph",
+      "page": 7,
+      "text": "*Airspeed Limits Maneuvering 122 mph (106 knots) (CAS) Maximum structural cruising 140 mph (122 knots) Never exceed 174 mph (151 knots) Flaps extended 100 mph ( 87 knots)"
+    },
+    {
+      "id": "e122",
+      "type": "page_header",
+      "page": 8,
+      "text": "3A12"
+    },
+    {
+      "id": "e123",
+      "type": "page_header",
+      "page": 8,
+      "text": "8"
+    },
+    {
+      "id": "e124",
+      "type": "page_header",
+      "page": 8,
+      "text": "Rev. 89"
+    },
+    {
+      "id": "e125",
+      "type": "heading",
+      "page": 8,
+      "text": "V. Model 172I, Model 172K (cont'd)",
+      "level": 2
+    },
+    {
+      "id": "e126",
+      "type": "paragraph",
+      "page": 8,
+      "text": "C.G. Range Landplane: Normal category (+38.5) to (+47.3) at 2300 lb. (+35.0) to (+47.3) at 1950 lb. or less Utility category (+35.5) to (+40.5) at 2000 lb. (+35.0) to (+40.5) at 1950 lb. or less Seaplane (Edo 89-2000 or 89A2000 floats): Normal category (+39.8) to (+45.5) at 2220 lb. (+36.4) to (+45.5) at 1825 lb. or less Straight line variation between points given."
+    },
+    {
+      "id": "e127",
+      "type": "paragraph",
+      "page": 8,
+      "text": "Empty Weight C.G. Range None"
+    },
+    {
+      "id": "e128",
+      "type": "paragraph",
+      "page": 8,
+      "text": "*Maximum Weight Landplane: Normal category 2300 lb. Utility category 2000 lb. Seaplane: Normal category 2220 lb."
+    },
+    {
+      "id": "e129",
+      "type": "paragraph",
+      "page": 8,
+      "text": "Number of Seats 4 (2 at +34 to +46, 2 at +73). Occupant on child's optional jump seat at +93."
+    },
+    {
+      "id": "e130",
+      "type": "paragraph",
+      "page": 8,
+      "text": "Maximum Baggage 120 lb. at +95"
+    },
+    {
+      "id": "e131",
+      "type": "paragraph",
+      "page": 8,
+      "text": "Fuel Capacity 42 gal. total, 38 gal. usable (two 21 gal. tanks in wings at +48) (See NOTE 1 for weight of unusable fuel and oil)."
+    },
+    {
+      "id": "e132",
+      "type": "paragraph",
+      "page": 8,
+      "text": "Oil Capacity 2 gal. (-14.0), 1-1/2 gal. usable"
+    },
+    {
+      "id": "e133",
+      "type": "paragraph",
+      "page": 8,
+      "text": "Control Surface Movements Wing Flaps Takeoff 0° - 10° Landing 0° - 40° ±2° Ailerons Up 20° ±1° Down 15° ±1° Elevator tab Up 28° +1°, -0° Down 13° +1°, -0° Elevator Up 28° +1°, -0° Down 23° +1°, -0° (Neutral position is with bottom of balance area flush with bottom of stabilizer.) Rudder (landplane) Right 16° ±1° Left 16° ±1° (seaplane) Right 19° ±1° Left 15° ±1°"
+    },
+    {
+      "id": "e134",
+      "type": "paragraph",
+      "page": 8,
+      "text": "(Measured parallel to W.L.)"
+    },
+    {
+      "id": "e135",
+      "type": "paragraph",
+      "page": 8,
+      "text": "Serial Numbers Eligible Model 172I: 17256513 thru 17257161 Model 172K 1969 model: 17257162 thru 17258486 1970 model: 17258487 thru 17259223"
+    },
+    {
+      "id": "e136",
+      "type": "heading",
+      "page": 8,
+      "text": "VI. Model 172L, 4 PCL-SM (Normal Category), 2 PCLM (Utility Category), approved May 13, 1970",
+      "level": 2
+    },
+    {
+      "id": "e137",
+      "type": "paragraph",
+      "page": 8,
+      "text": "Engine Lycoming O-320-E2D"
+    },
+    {
+      "id": "e138",
+      "type": "paragraph",
+      "page": 8,
+      "text": "*Fuel 80/87 minimum grade aviation gasoline"
+    },
+    {
+      "id": "e139",
+      "type": "paragraph",
+      "page": 8,
+      "text": "*Engine Limits For all operations, 2700 rpm (150 hp)"
+    },
+    {
+      "id": "e140",
+      "type": "page_header",
+      "page": 9,
+      "text": "Rev. 89"
+    },
+    {
+      "id": "e141",
+      "type": "page_header",
+      "page": 9,
+      "text": "9"
+    },
+    {
+      "id": "e142",
+      "type": "page_header",
+      "page": 9,
+      "text": "3A12"
+    },
+    {
+      "id": "e143",
+      "type": "heading",
+      "page": 9,
+      "text": "VI. Model 172L (cont'd)",
+      "level": 2
+    },
+    {
+      "id": "e144",
+      "type": "paragraph",
+      "page": 9,
+      "text": "Propeller and 1. McCauley Propeller"
+    },
+    {
+      "id": "e145",
+      "type": "paragraph",
+      "page": 9,
+      "text": "Propeller Limits Hub: 1C172/MTM 7653 Static rpm at maximum permissible throttle setting: Not over 2360, not under 2260. No additional tolerance permitted (see NOTE 3). Diameter: Not over 76 in., not under 74 in. Spinner: Dwg. 0550320 2. McCauley Propeller (seaplane) Hub: 1A175/ATM 8042 Static rpm at maximum permissible throttle setting: Not over 2480, not under 2380. No additional tolerance permitted (see NOTE 3). Diameter: Not over 80 in., not under 78.4 in. Spinner: Dwg. 0550320 3. McCauley Propeller Hub: 1C160/CTM 7553 Static rpm at maximum permissible throttle setting: Not over 2370, not under 2270. No additional tolerance permitted (see NOTE 3). Diameter: Not over 75 in., not under 74 in. Spinner: Dwg. 0550320 4. McCauley Propeller Hub: 1C160/DTM 7553 Static rpm at maximum permissible throttle setting: Not over 2370, not under 2270. No additional tolerance permitted (see NOTE 3). Diameter: Not over 75 in., not under 74 in. Spinner: Dwg. 0550320 5. McCauley Propeller (Seaplane only) Hub: 1A175/ETM 8042 No additional tolerance permitted (see NOTE 3)."
+    },
+    {
+      "id": "e146",
+      "type": "paragraph",
+      "page": 9,
+      "text": "Static rpm at maximum permissible throttle setting: Not over 2480, not under 2380. Diameter: Not over 80 in., not under 78.4 in. Spinner: Dwg. 0550321"
+    },
+    {
+      "id": "e147",
+      "type": "paragraph",
+      "page": 9,
+      "text": "*Airspeed Limits Maneuvering 122 mph (106 knots) (CAS) Maximum structural cruising 140 mph (122 knots) Never exceed 174 mph (151 knots) Flaps extended 100 mph ( 87 knots)"
+    },
+    {
+      "id": "e148",
+      "type": "paragraph",
+      "page": 9,
+      "text": "C.G. Range Landplane Normal category (+38.5) to (+47.3) at 2300 lb. (+35.0) to (+47.3) at 1950 lb. or less Utility category (+35.5) to (+40.5) at 2000 lb. (+35.0) to (+40.5) at 1950 lb. or less Straight line variation between points given."
+    },
+    {
+      "id": "e149",
+      "type": "paragraph",
+      "page": 9,
+      "text": "Seaplane (Edo 89-2000 or 89A2000 floats): Normal category (+39.8) to (+45.5) at 2220 lb. (+36.4) to (+45.5) at 1825 lb. or less Straight line variation between points given."
+    },
+    {
+      "id": "e150",
+      "type": "paragraph",
+      "page": 9,
+      "text": "Empty Weight C.G. Range None"
+    },
+    {
+      "id": "e151",
+      "type": "paragraph",
+      "page": 9,
+      "text": "*Maximum Weight Landplane: Normal category 2300 lb. Utility category 2000 lb. Seaplane: Normal category 2220 lb."
+    },
+    {
+      "id": "e152",
+      "type": "page_header",
+      "page": 10,
+      "text": "3A12"
+    },
+    {
+      "id": "e153",
+      "type": "page_header",
+      "page": 10,
+      "text": "10"
+    },
+    {
+      "id": "e154",
+      "type": "page_header",
+      "page": 10,
+      "text": "Rev. 89"
+    },
+    {
+      "id": "e155",
+      "type": "heading",
+      "page": 10,
+      "text": "VI. Model 172L (cont'd)",
+      "level": 2
+    },
+    {
+      "id": "e156",
+      "type": "paragraph",
+      "page": 10,
+      "text": "Number of Seats 4 (2 at +34 to +46, 2 at +73). Occupant on child's optional jump seat at +96."
+    },
+    {
+      "id": "e157",
+      "type": "paragraph",
+      "page": 10,
+      "text": "Maximum Baggage"
+    },
+    {
+      "id": "e158",
+      "type": "paragraph",
+      "page": 10,
+      "text": "120 lb. at +95"
+    },
+    {
+      "id": "e159",
+      "type": "paragraph",
+      "page": 10,
+      "text": "Fuel Capacity 42 gal. total, 38 gal. usable (two 21 gal. tanks in wings at +48). (See NOTE 1 for weight of unusable fuel)."
+    },
+    {
+      "id": "e160",
+      "type": "paragraph",
+      "page": 10,
+      "text": "Oil Capacity 2 gal. (-14.0), 1-1/2 gal. usable."
+    },
+    {
+      "id": "e161",
+      "type": "paragraph",
+      "page": 10,
+      "text": "(See NOTE 1 for data on undrainable oil)."
+    },
+    {
+      "id": "e162",
+      "type": "paragraph",
+      "page": 10,
+      "text": "Control Surface Movements Wing Flaps Takeoff 0° - 10° Landing 0° - 40° ±2° Ailerons Up 20° ±1° Down 15° ±1° Elevator tab Up 28° +1°, -0° Down 13° +1°, -0° Elevator Up 28° +1°, -0° Down 23° +1°, -0° (Neutral position is with bottom of balance area flush with bottom of stabilizer) Rudder (landplane) Right 16° ±1° Left 16° ±1° (seaplane) Right 19° ±1° Left 15° ±1°"
+    },
+    {
+      "id": "e163",
+      "type": "paragraph",
+      "page": 10,
+      "text": "(Measured parallel to W.L.)"
+    },
+    {
+      "id": "e164",
+      "type": "paragraph",
+      "page": 10,
+      "text": "Serial Numbers Eligible"
+    },
+    {
+      "id": "e165",
+      "type": "paragraph",
+      "page": 10,
+      "text": "1971 model: 17259224 thru 17259903"
+    },
+    {
+      "id": "e166",
+      "type": "paragraph",
+      "page": 10,
+      "text": "1972 model: 17259904 thru 17260758"
+    },
+    {
+      "id": "e167",
+      "type": "heading",
+      "page": 10,
+      "text": "VII. Model 172M, Skyhawk, 4 PCL-SM (Normal Category), 2 PCLM (Utility Category, approved May 12, 1972",
+      "level": 2
+    },
+    {
+      "id": "e168",
+      "type": "paragraph",
+      "page": 10,
+      "text": "Engine Lycoming O-320-E2D"
+    },
+    {
+      "id": "e169",
+      "type": "paragraph",
+      "page": 10,
+      "text": "*Fuel"
+    },
+    {
+      "id": "e170",
+      "type": "paragraph",
+      "page": 10,
+      "text": "80/87 minimum grade aviation gasoline"
+    },
+    {
+      "id": "e171",
+      "type": "paragraph",
+      "page": 10,
+      "text": "*Engine Limits For all operations, 2700 rpm (150 hp)"
+    },
+    {
+      "id": "e172",
+      "type": "paragraph",
+      "page": 10,
+      "text": "Propeller and"
+    },
+    {
+      "id": "e173",
+      "type": "paragraph",
+      "page": 10,
+      "text": "McCauley Propeller"
+    },
+    {
+      "id": "e174",
+      "type": "paragraph",
+      "page": 10,
+      "text": "Propeller Limits Hub:"
+    },
+    {
+      "id": "e175",
+      "type": "paragraph",
+      "page": 10,
+      "text": "1C160/CTM 7553"
+    },
+    {
+      "id": "e176",
+      "type": "paragraph",
+      "page": 10,
+      "text": "Static rpm at maximum permissible throttle setting:"
+    },
+    {
+      "id": "e177",
+      "type": "paragraph",
+      "page": 10,
+      "text": "Not over 2370, not under 2270."
+    },
+    {
+      "id": "e178",
+      "type": "paragraph",
+      "page": 10,
+      "text": "No additional tolerance permitted (see NOTE 3)."
+    },
+    {
+      "id": "e179",
+      "type": "paragraph",
+      "page": 10,
+      "text": "Diameter: Not over 75 in., not under 74 in."
+    },
+    {
+      "id": "e180",
+      "type": "paragraph",
+      "page": 10,
+      "text": "Spinner: Dwg. 0550320"
+    },
+    {
+      "id": "e181",
+      "type": "paragraph",
+      "page": 10,
+      "text": "McCauley Propeller"
+    },
+    {
+      "id": "e182",
+      "type": "paragraph",
+      "page": 10,
+      "text": "Hub:"
+    },
+    {
+      "id": "e183",
+      "type": "paragraph",
+      "page": 10,
+      "text": "1C160/DTM 7553"
+    },
+    {
+      "id": "e184",
+      "type": "paragraph",
+      "page": 10,
+      "text": "Static rpm at maximum permissible throttle setting:"
+    },
+    {
+      "id": "e185",
+      "type": "paragraph",
+      "page": 10,
+      "text": "Not over 2370, not under 2270."
+    },
+    {
+      "id": "e186",
+      "type": "paragraph",
+      "page": 10,
+      "text": "No additional tolerance permitted (see NOTE 3)."
+    },
+    {
+      "id": "e187",
+      "type": "paragraph",
+      "page": 10,
+      "text": "Diameter: Not over 75 in., not under 74 in."
+    },
+    {
+      "id": "e188",
+      "type": "paragraph",
+      "page": 10,
+      "text": "Spinner: Dwg. 0550320"
+    },
+    {
+      "id": "e189",
+      "type": "paragraph",
+      "page": 10,
+      "text": "McCauley Propeller (seaplane)"
+    },
+    {
+      "id": "e190",
+      "type": "paragraph",
+      "page": 10,
+      "text": "Hub:"
+    },
+    {
+      "id": "e191",
+      "type": "paragraph",
+      "page": 10,
+      "text": "1A175/ATM 8042"
+    },
+    {
+      "id": "e192",
+      "type": "paragraph",
+      "page": 10,
+      "text": "Static rpm at maximum permissible throttle setting:"
+    },
+    {
+      "id": "e193",
+      "type": "paragraph",
+      "page": 10,
+      "text": "Not over 2545, not under 2445."
+    },
+    {
+      "id": "e194",
+      "type": "paragraph",
+      "page": 10,
+      "text": "No additional tolerance permitted (see NOTE 3)."
+    },
+    {
+      "id": "e195",
+      "type": "paragraph",
+      "page": 10,
+      "text": "Diameter: Not over 80 in., not under 78.4 in."
+    },
+    {
+      "id": "e196",
+      "type": "paragraph",
+      "page": 10,
+      "text": "Spinner: Dwg. 0550320"
+    },
+    {
+      "id": "e197",
+      "type": "paragraph",
+      "page": 10,
+      "text": "McCauley Propeller (seaplane)"
+    },
+    {
+      "id": "e198",
+      "type": "paragraph",
+      "page": 10,
+      "text": "Hub:"
+    },
+    {
+      "id": "e199",
+      "type": "paragraph",
+      "page": 10,
+      "text": "1A175/ETM 8042"
+    },
+    {
+      "id": "e200",
+      "type": "paragraph",
+      "page": 10,
+      "text": "Static rpm at maximum permissible throttle setting:"
+    },
+    {
+      "id": "e201",
+      "type": "paragraph",
+      "page": 10,
+      "text": "Not over 2545, not under 2445."
+    },
+    {
+      "id": "e202",
+      "type": "paragraph",
+      "page": 10,
+      "text": "No additional tolerance permitted (see NOTE 3)."
+    },
+    {
+      "id": "e203",
+      "type": "paragraph",
+      "page": 10,
+      "text": "Diameter: Not over 80 in., not under 78.4 in."
+    },
+    {
+      "id": "e204",
+      "type": "paragraph",
+      "page": 10,
+      "text": "Spinner: Dwg. 0550320"
+    },
+    {
+      "id": "e205",
+      "type": "page_header",
+      "page": 11,
+      "text": "Rev. 89"
+    },
+    {
+      "id": "e206",
+      "type": "page_header",
+      "page": 11,
+      "text": "11"
+    },
+    {
+      "id": "e207",
+      "type": "page_header",
+      "page": 11,
+      "text": "3A12"
+    },
+    {
+      "id": "e208",
+      "type": "heading",
+      "page": 11,
+      "text": "VII. Model 172M (cont'd)",
+      "level": 2
+    },
+    {
+      "id": "e209",
+      "type": "paragraph",
+      "page": 11,
+      "text": "*Airspeed Limits S/N 17256493, 17260759 thru 17265684: (CAS) Maneuvering 112 mph ( 97 knots) Maximum structural cruising 145 mph (126 knots) Never exceed 182 mph (158 knots) Flaps extended 100 mph ( 87 knots) S/N 17265685 thru 17267584: Maneuvering 97 knots (See NOTE 4 on use of CAS) Maximum structural cruising 128 knots Never exceed 160 knots Flaps extended 85 knots C.G. Range Landplane: Normal category (+38.5) to (+47.3) at 2300 lb. (+35.0) to (+47.3) at 1950 lb. or less Utility category (+35.5) to (+40.5) at 2000 lb. (+35.0) to (+40.5) at 1950 lb. or less Seaplane (Edo 89-2000 or 89A2000 floats): Normal category (+39.8) to (+45.5) at 2220 lb. (+36.4) to (+45.5) at 1825 lb. or less Straight line variation between points given. Empty Weight C.G. Range None *Maximum Weight Normal category: 2300 lb. (landplane); 2220 lb. (seaplane) Utility category: 2000 lb. (landplane) Number of Seats 4 (2 at +34 to +46, 2 at +73). Occupant on child's optional jump seat at +96. Maximum Baggage 120 lb. at +95 Fuel Capacity 42 gal. total, 38 gal. usable (two 21 gal. tanks in wings at +48) (See NOTE 1 for data on unusable fuel). Oil Capacity 2 gal. (-14.0), 1-1/2 gal. usable (See NOTE 1 for data on undrainable oil). Control Surface Movements Wing Flaps Takeoff 0° - 10° (landplane/seaplane) Landing 0° - 40° +0° -2° (landplane) 0° - 30° ±2° (seaplane) Ailerons Up 20° ±1° Down 15° ±1° Elevator tab Up 28° +1°, -0° Down 13° +1°, -0° Elevator Up 28° +1°, -0° Down 23° +1°, -0° (Neutral position is with bottom of balance area flush with bottom of stabilizer.) Rudder (landplane) Right 16° ±1° Left 16° ±1° (seaplane) Right 19° ±1° Left 15° ±1° (Measured parallel to W.L.) Serial Numbers Eligible 1973 model: 17256493, 17260759 thru 17261898 (except 17261445 & 17261578) 1974 model: 17261899 thru 17263458 1975 model: 17263459 thru 17265684 1976 model: 17265685 thru 17267584"
+    },
+    {
+      "id": "e210",
+      "type": "page_header",
+      "page": 12,
+      "text": "3A12"
+    },
+    {
+      "id": "e211",
+      "type": "page_header",
+      "page": 12,
+      "text": "12"
+    },
+    {
+      "id": "e212",
+      "type": "page_header",
+      "page": 12,
+      "text": "Rev. 89"
+    },
+    {
+      "id": "e213",
+      "type": "heading",
+      "page": 12,
+      "text": "VIII. Model 172N, Skyhawk, 4 PCL-SM (Normal Category), 2 PCLM (Utility Category), approved May 17, 1976",
+      "level": 2
+    },
+    {
+      "id": "e214",
+      "type": "paragraph",
+      "page": 12,
+      "text": "Engine Lycoming O-320-H2AD"
+    },
+    {
+      "id": "e215",
+      "type": "paragraph",
+      "page": 12,
+      "text": "*Fuel"
+    },
+    {
+      "id": "e216",
+      "type": "paragraph",
+      "page": 12,
+      "text": "*Engine Limits"
+    },
+    {
+      "id": "e217",
+      "type": "paragraph",
+      "page": 12,
+      "text": "100/130 minimum grade aviation gasoline (S/N 17261445, 17267585 thru 17269309)"
+    },
+    {
+      "id": "e218",
+      "type": "paragraph",
+      "page": 12,
+      "text": "100LL/100 minimum grade aviation gasoline"
+    },
+    {
+      "id": "e219",
+      "type": "paragraph",
+      "page": 12,
+      "text": "(S/N 17261578, 17269310 thru 17274009)"
+    },
+    {
+      "id": "e220",
+      "type": "paragraph",
+      "page": 12,
+      "text": "For all operations, 2700 rpm (160 hp)"
+    },
+    {
+      "id": "e221",
+      "type": "paragraph",
+      "page": 12,
+      "text": "Propeller and"
+    },
+    {
+      "id": "e222",
+      "type": "paragraph",
+      "page": 12,
+      "text": "1. McCauley Propeller"
+    },
+    {
+      "id": "e223",
+      "type": "paragraph",
+      "page": 12,
+      "text": "Propeller Limits Hub:"
+    },
+    {
+      "id": "e224",
+      "type": "paragraph",
+      "page": 12,
+      "text": "1C160/DTM 7557"
+    },
+    {
+      "id": "e225",
+      "type": "paragraph",
+      "page": 12,
+      "text": "*Airspeed Limits Static rpm at maximum permissible throttle setting:"
+    },
+    {
+      "id": "e226",
+      "type": "paragraph",
+      "page": 12,
+      "text": "Not over 2400, not under 2280."
+    },
+    {
+      "id": "e227",
+      "type": "paragraph",
+      "page": 12,
+      "text": "No additional tolerance permitted."
+    },
+    {
+      "id": "e228",
+      "type": "paragraph",
+      "page": 12,
+      "text": "Diameter: Not over 75 in., not under 74 in."
+    },
+    {
+      "id": "e229",
+      "type": "paragraph",
+      "page": 12,
+      "text": "Spinner: Dwg. 0550320"
+    },
+    {
+      "id": "e230",
+      "type": "paragraph",
+      "page": 12,
+      "text": "McCauley Propeller (seaplane)"
+    },
+    {
+      "id": "e231",
+      "type": "paragraph",
+      "page": 12,
+      "text": "Hub:"
+    },
+    {
+      "id": "e232",
+      "type": "paragraph",
+      "page": 12,
+      "text": "1A175/ETM 8042"
+    },
+    {
+      "id": "e233",
+      "type": "paragraph",
+      "page": 12,
+      "text": "Static rpm at maximum permissible throttle setting:"
+    },
+    {
+      "id": "e234",
+      "type": "paragraph",
+      "page": 12,
+      "text": "Not over 2570, not under 2470."
+    },
+    {
+      "id": "e235",
+      "type": "paragraph",
+      "page": 12,
+      "text": "No additional tolerance permitted."
+    },
+    {
+      "id": "e236",
+      "type": "paragraph",
+      "page": 12,
+      "text": "Diameter: Not over 80 in., not under 78.5 in."
+    },
+    {
+      "id": "e237",
+      "type": "paragraph",
+      "page": 12,
+      "text": "Spinner: Dwg. 0550320"
+    },
+    {
+      "id": "e238",
+      "type": "paragraph",
+      "page": 12,
+      "text": "Models: 1977, 1978, 1979"
+    },
+    {
+      "id": "e239",
+      "type": "paragraph",
+      "page": 12,
+      "text": "(CAS)"
+    },
+    {
+      "id": "e240",
+      "type": "paragraph",
+      "page": 12,
+      "text": "Maneuvering"
+    },
+    {
+      "id": "e241",
+      "type": "paragraph",
+      "page": 12,
+      "text": "97 knots"
+    },
+    {
+      "id": "e242",
+      "type": "paragraph",
+      "page": 12,
+      "text": "(see NOTE 4 on use of CAS)"
+    },
+    {
+      "id": "e243",
+      "type": "paragraph",
+      "page": 12,
+      "text": "Maximum structural cruising"
+    },
+    {
+      "id": "e244",
+      "type": "paragraph",
+      "page": 12,
+      "text": "128 knots"
+    },
+    {
+      "id": "e245",
+      "type": "paragraph",
+      "page": 12,
+      "text": "C.G. Range Never exceed"
+    },
+    {
+      "id": "e246",
+      "type": "paragraph",
+      "page": 12,
+      "text": "160 knots"
+    },
+    {
+      "id": "e247",
+      "type": "paragraph",
+      "page": 12,
+      "text": "Flaps extended"
+    },
+    {
+      "id": "e248",
+      "type": "paragraph",
+      "page": 12,
+      "text": "85 knots"
+    },
+    {
+      "id": "e249",
+      "type": "paragraph",
+      "page": 12,
+      "text": "Model: 1980"
+    },
+    {
+      "id": "e250",
+      "type": "paragraph",
+      "page": 12,
+      "text": "Maneuvering 97 knots Maximum structural cruising 127 knots Never exceed 158 knots Flaps extended 85 knots"
+    },
+    {
+      "id": "e251",
+      "type": "paragraph",
+      "page": 12,
+      "text": "Landplane:"
+    },
+    {
+      "id": "e252",
+      "type": "paragraph",
+      "page": 12,
+      "text": "Normal category (+38.5) to (+47.3) at 2300 lb. (+35.0) to (+47.3) at 1950 lb. or less Utility category (+35.5) to (+40.5) at 2000 lb."
+    },
+    {
+      "id": "e253",
+      "type": "paragraph",
+      "page": 12,
+      "text": "(+35.0) to (+40.5) at 1950 lb. or less"
+    },
+    {
+      "id": "e254",
+      "type": "paragraph",
+      "page": 12,
+      "text": "Seaplane (Edo 89-2000 or 89A2000 floats):"
+    },
+    {
+      "id": "e255",
+      "type": "paragraph",
+      "page": 12,
+      "text": "Normal category (+39.8) to (+45.5) at 2220 lb. (+36.4) to (+45.5) at 1825 lb. or less"
+    },
+    {
+      "id": "e256",
+      "type": "paragraph",
+      "page": 12,
+      "text": "Straight line variation between points given."
+    },
+    {
+      "id": "e257",
+      "type": "paragraph",
+      "page": 12,
+      "text": "Empty Weight C.G. Range None"
+    },
+    {
+      "id": "e258",
+      "type": "paragraph",
+      "page": 12,
+      "text": "*Maximum Weight Normal category: 2300 lb. (landplane); 2220 lb. (seaplane) Utility category: 2000 lb. (landplane)"
+    },
+    {
+      "id": "e259",
+      "type": "paragraph",
+      "page": 12,
+      "text": "Number of Seats 4 (2 at +34 to +46, 2 at +73). Occupant on child's optional jump seat at +96."
+    },
+    {
+      "id": "e260",
+      "type": "page_header",
+      "page": 13,
+      "text": "Rev. 89"
+    },
+    {
+      "id": "e261",
+      "type": "page_header",
+      "page": 13,
+      "text": "13"
+    },
+    {
+      "id": "e262",
+      "type": "page_header",
+      "page": 13,
+      "text": "3A12"
+    },
+    {
+      "id": "e263",
+      "type": "heading",
+      "page": 13,
+      "text": "VIII. Model 172N (cont'd)",
+      "level": 2
+    },
+    {
+      "id": "e264",
+      "type": "paragraph",
+      "page": 13,
+      "text": "Maximum Baggage 120 lb. at +95 Fuel Capacity 42 gal. total, 40 gal. usable (two 21.5 gal. tanks in wings at +48) (See NOTE 1 for data on unusable fuel). Oil Capacity 1.5 gal. (-14.0), 1.0 gal. usable Control Surface Movements Wing Flaps Takeoff 0° - 10° (landplane/seaplane) Landing 0° - 40° +0° -2° (landplane) 0° - 30° ±2° (seaplane) Ailerons Up 20° ±1° Down 15° ±1° Elevator tab Up 28° +1°, -0° Down 13° +1°, -0° Elevator Up 28° +1°, -0° Down 23° +1°, -0° (Neutral position is with bottom of balance area flush with bottom of stabilizer) Rudder (landplane) Right 16° ±1° Left 16° ±1° (seaplane) Right 19° ±1° Left 15° ±1° (Measured parallel to W.L.) Serial Numbers Eligible 1977 model: 17261445, 17267585 thru 17269309 1978 model: 17261578, 17269310 thru 17271034 (except 17270050) 1979 model: 17271035 thru 17272884 1980 model: 17270050, 17272885 thru 17274009"
+    },
+    {
+      "id": "e265",
+      "type": "heading",
+      "page": 13,
+      "text": "IX. Model 172P, Skyhawk, 4 PCL-SM (Normal Category), 2 PCLM (Utility Category), approved May 13, 1980",
+      "level": 2
+    },
+    {
+      "id": "e266",
+      "type": "paragraph",
+      "page": 13,
+      "text": "Engine Lycoming O-320-D2J"
+    },
+    {
+      "id": "e267",
+      "type": "paragraph",
+      "page": 13,
+      "text": "*Fuel"
+    },
+    {
+      "id": "e268",
+      "type": "paragraph",
+      "page": 13,
+      "text": "100LL/100 minimum grade aviation gasoline"
+    },
+    {
+      "id": "e269",
+      "type": "paragraph",
+      "page": 13,
+      "text": "*Engine Limits For all operations, 2700 rpm (160 hp)"
+    },
+    {
+      "id": "e270",
+      "type": "paragraph",
+      "page": 13,
+      "text": "Propeller and"
+    },
+    {
+      "id": "e271",
+      "type": "paragraph",
+      "page": 13,
+      "text": "McCauley Propeller"
+    },
+    {
+      "id": "e272",
+      "type": "paragraph",
+      "page": 13,
+      "text": "Propeller Limits Hub:"
+    },
+    {
+      "id": "e273",
+      "type": "paragraph",
+      "page": 13,
+      "text": "1C160/DTM 7557"
+    },
+    {
+      "id": "e274",
+      "type": "paragraph",
+      "page": 13,
+      "text": "Static rpm at maximum permissible throttle setting:"
+    },
+    {
+      "id": "e275",
+      "type": "paragraph",
+      "page": 13,
+      "text": "Not over 2420, not under 2300"
+    },
+    {
+      "id": "e276",
+      "type": "paragraph",
+      "page": 13,
+      "text": "No additional tolerance permitted"
+    },
+    {
+      "id": "e277",
+      "type": "paragraph",
+      "page": 13,
+      "text": "Diameter: Not over 75 in., not under 74 in."
+    },
+    {
+      "id": "e278",
+      "type": "paragraph",
+      "page": 13,
+      "text": "Spinner: Dwg. 0550320"
+    },
+    {
+      "id": "e279",
+      "type": "paragraph",
+      "page": 13,
+      "text": "McCauley Propeller (floatplane only)"
+    },
+    {
+      "id": "e280",
+      "type": "paragraph",
+      "page": 13,
+      "text": "Hub:"
+    },
+    {
+      "id": "e281",
+      "type": "paragraph",
+      "page": 13,
+      "text": "1A175/ETM 8043"
+    },
+    {
+      "id": "e282",
+      "type": "paragraph",
+      "page": 13,
+      "text": "Static rpm at maximum permissible throttle setting:"
+    },
+    {
+      "id": "e283",
+      "type": "paragraph",
+      "page": 13,
+      "text": "Not over 2570, not under 2470"
+    },
+    {
+      "id": "e284",
+      "type": "paragraph",
+      "page": 13,
+      "text": "No additional tolerance permitted"
+    },
+    {
+      "id": "e285",
+      "type": "paragraph",
+      "page": 13,
+      "text": "Diameter: Not over 80 in., not under 78.5 in."
+    },
+    {
+      "id": "e286",
+      "type": "paragraph",
+      "page": 13,
+      "text": "Spinner: Dwg. 0550320"
+    },
+    {
+      "id": "e287",
+      "type": "paragraph",
+      "page": 13,
+      "text": "*Airspeed Limits Maneuvering 99 knots (landplane) (CAS) 96 knots (floatplane) (See NOTE 4 on use of CAS) Maximum structural cruising 127 knots Never exceed 158 knots Flaps extended 85 knots"
+    },
+    {
+      "id": "e288",
+      "type": "page_header",
+      "page": 14,
+      "text": "3A12"
+    },
+    {
+      "id": "e289",
+      "type": "page_header",
+      "page": 14,
+      "text": "14"
+    },
+    {
+      "id": "e290",
+      "type": "page_header",
+      "page": 14,
+      "text": "Rev. 89"
+    },
+    {
+      "id": "e291",
+      "type": "heading",
+      "page": 14,
+      "text": "IX. Model 172P (cont'd)",
+      "level": 2
+    },
+    {
+      "id": "e292",
+      "type": "paragraph",
+      "page": 14,
+      "text": "C.G. Range Landplane: Normal category (+39.5) to (+47.3) at 2400 lb. (+35.0) to (+47.3) at 1950 lb. or less Utility category (+36.5) to (+40.5) at 2100 lb. (+35.0) to (+40.5) at 1950 lb. or less Seaplane (Edo 89-2000 or 89A2000 floats): Normal category (+39.8) to (+45.5) at 2220 lb. (+36.4) to (+45.5) at 1825 lb. or less Straight line variation between points given. Empty Weight C.G. Range None *Maximum Weight Normal category: 2400 lb. (landplane); 2220 lb. (seaplane) Utility category: 2100 lb. (landplane) Number of Seats 4 (2 at +34 to +46, 2 at +73). Occupant on child's optional jump seat at +96. Maximum Baggage 120 lb. at +95 Fuel Capacity 42 gal. total, 40 gal. usable (two 21.5 gal. tanks in wings at +48) (See NOTE 1 for data on unusable fuel). Oil Capacity 2 gal. (-13.1), 1.5 gal. usable Control Surface Movements Wing Flaps Takeoff 0° - 10° Landing 0° - 30° +0°, -2° Ailerons Up 20° ±1° Down 15° ±1° Elevator tab (floatplane) Up 28° +1°, -0° Down 13° +1°, -0° (landplane) Up 22° +1°, -0° Down 19° +1°, -0° Elevator Up 28° +1°, -0° Down 23° +1°, -0° (Neutral position is with bottom of balance area flush with bottom of stabilizer) Rudder (landplane) Right 16° ±1° Left 16° ±1° (seaplane) Right 19° ±1° Left 15° ±1° (Measured parallel to W.L.) Serial Numbers Eligible 1981 model: 17274010 thru 17275034 1982 model: 17275035 thru 17275759 1983 model: 17275760 thru 17276079 1984 model: 17276080 thru 17276259 1985 model: 17276260 thru 17276516 1986 model: 17276517 thru 17276654"
+    },
+    {
+      "id": "e293",
+      "type": "page_header",
+      "page": 15,
+      "text": "Rev. 89"
+    },
+    {
+      "id": "e294",
+      "type": "page_header",
+      "page": 15,
+      "text": "15"
+    },
+    {
+      "id": "e295",
+      "type": "page_header",
+      "page": 15,
+      "text": "3A12"
+    },
+    {
+      "id": "e296",
+      "type": "heading",
+      "page": 15,
+      "text": "X. Model 172Q, Cutlass, 4 PCLM (Normal Category), approved October 15, 1982",
+      "level": 2
+    },
+    {
+      "id": "e297",
+      "type": "paragraph",
+      "page": 15,
+      "text": "Engine Lycoming O-360-A4N *Fuel 100LL/100 minimum grade aviation gasoline *Engine Limits For all operations, 2700 rpm (180 hp) Propeller and 1. McCauley Propeller Propeller Limits Hub 1A170E/JFA 7658 Static rpm at maximum permissible throttle setting: Not over 2450, not under 2350. No additional tolerance permitted. Diameter: Not over 76 in., not under 74.5 in. Spinner: Dwg. 0509077 *Airspeed Limits Maneuvering 105 knots Maximum structural cruising 127 knots Never exceed 158 knots Flaps extended 85 knots C.G. Range Normal category (+41.0) to (+47.3) at 2550 lb. (+35.0) to (+47.3) at 1950 lb. or less Straight line variation between points given. Empty Weight C.G. Range None *Maximum Weight Normal category: 2550 lb. Number of Seats 4 (2 at +34 to +46, 2 at +73) (Occupant on optional child's seat at +96) Maximum Baggage 120 lbs. at +95 Fuel Capacity 54 gal. total, 50 gal. usable (two 27 gal. tanks in wings at +48) (See NOTE 1 for data on unusable fuel). Oil Capacity 9 qt. at -15.5, 2 qt. unusable Control Surface Movements Wing Flaps Takeoff 0° - 10° Landing 0° - 30° +0°, -2° Ailerons Up 20° ±1° Down 15° ±1° Elevator tab Up 22° +1°, -0° Down 19° +1°, -0° Elevator Up 28° +1°, -0° Down 23° +1°, -0° (Neutral position is with bottom of balance area flush with bottom of stabilizer) Rudder Right 16° ±1° Left 16° ±1° (Measured parallel to W.L.) Serial Numbers Eligible 1983 model: 17275869 thru 17276054"
+    },
+    {
+      "id": "e298",
+      "type": "paragraph",
+      "page": 15,
+      "text": "1984 model: 17276101 thru 17276211"
+    },
+    {
+      "id": "e299",
+      "type": "page_header",
+      "page": 16,
+      "text": "3A12"
+    },
+    {
+      "id": "e300",
+      "type": "page_header",
+      "page": 16,
+      "text": "16"
+    },
+    {
+      "id": "e301",
+      "type": "page_header",
+      "page": 16,
+      "text": "Rev. 89"
+    },
+    {
+      "id": "e302",
+      "type": "heading",
+      "page": 16,
+      "text": "Data Pertinent to Models 172 thru 172Q",
+      "level": 2
+    },
+    {
+      "id": "e303",
+      "type": "paragraph",
+      "page": 16,
+      "text": "Datum Front face of firewall (S/N 28000 thru 47746)"
+    },
+    {
+      "id": "e304",
+      "type": "paragraph",
+      "page": 16,
+      "text": "Leveling Means Lower front face of firewall (S/N 17247747 thru 17276654)"
+    },
+    {
+      "id": "e305",
+      "type": "paragraph",
+      "page": 16,
+      "text": "Upper doorsill"
+    },
+    {
+      "id": "e306",
+      "type": "heading",
+      "page": 16,
+      "text": "Certification Basis:",
+      "level": 2
+    },
+    {
+      "id": "e307",
+      "type": "heading",
+      "page": 16,
+      "text": "Models 172 thru 172P",
+      "level": 2
+    },
+    {
+      "id": "e308",
+      "type": "paragraph",
+      "page": 16,
+      "text": "Civil Air Regulations (CAR) Part 3 effective November 1, 1949, as amended by 3-1 through 3-12. In addition, effective at S/N 17271035 and On, 23.1559 effective March 1, 1978."
+    },
+    {
+      "id": "e309",
+      "type": "paragraph",
+      "page": 16,
+      "text": "FAR 36 dated December 1, 1969, plus Amendments 36-1 through 36-5 for Model 172N."
+    },
+    {
+      "id": "e310",
+      "type": "paragraph",
+      "page": 16,
+      "text": "FAR Part 36 dated December 1, 1969, plus Amendments 36-1 through 36-12 for Models 172P thru 172Q. In addition, effective at S/N 17276260 and On, 23.1545(a), Amendment 23-23 dated December 1, 1978."
+    },
+    {
+      "id": "e311",
+      "type": "paragraph",
+      "page": 16,
+      "text": "Equivalent Safety Items"
+    },
+    {
+      "id": "e312",
+      "type": "paragraph",
+      "page": 16,
+      "text": "Airspeed Indicator"
+    },
+    {
+      "id": "e313",
+      "type": "paragraph",
+      "page": 16,
+      "text": "17261445, 17261578, 17265685"
+    },
+    {
+      "id": "e314",
+      "type": "paragraph",
+      "page": 16,
+      "text": "CAR 3.757 (see NOTE 4 on use of CAS)"
+    },
+    {
+      "id": "e315",
+      "type": "paragraph",
+      "page": 16,
+      "text": "Operating Limitations"
+    },
+    {
+      "id": "e316",
+      "type": "paragraph",
+      "page": 16,
+      "text": "(S/N 17261445, 17261578, 17265685 thru 17276259)"
+    },
+    {
+      "id": "e317",
+      "type": "paragraph",
+      "page": 16,
+      "text": "CAR 3.778(a)"
+    },
+    {
+      "id": "e318",
+      "type": "heading",
+      "page": 16,
+      "text": "Model 172Q",
+      "level": 2
+    },
+    {
+      "id": "e319",
+      "type": "paragraph",
+      "page": 16,
+      "text": "Part 3 of CAR dated November 1, 1949, as amended by 3-1 through 3-12. In addition, 23.1559 effective March 1, 1978; 23.951(b)(2), Amendment 23-15 effective October 31, 1974; and 23.1545(a), Amendment 23-23 effective December 1, 1978. FAR 36 dated December 1, 1969, plus amendments 36-1through 36-12."
+    },
+    {
+      "id": "e320",
+      "type": "paragraph",
+      "page": 16,
+      "text": "Application for Type Certificate dated July 11, 1955. Type Certificate No. 3A12 issued November 4, 1955, obtained by the manufacturer under Delegation Option Procedures."
+    },
+    {
+      "id": "e321",
+      "type": "heading",
+      "page": 16,
+      "text": "Production Basis:",
+      "level": 2
+    },
+    {
+      "id": "e322",
+      "type": "paragraph",
+      "page": 16,
+      "text": "Production Certificate No. 4. Delegation Option Manufacturer No. CE-1 authorized to issue airworthiness certificates under delegation option provisions of Part 21 of the FAR."
+    },
+    {
+      "id": "e323",
+      "type": "heading",
+      "page": 16,
+      "text": "Equipment:",
+      "level": 2
+    },
+    {
+      "id": "e324",
+      "type": "paragraph",
+      "page": 16,
+      "text": "The basic required equipment as prescribed in the applicable airworthiness requirements (see Certification Basis) must be installed in the aircraft for certification. This equipment must include a current Airplane Flight Manual (AFM) effective S/N 17271035 and On."
+    },
+    {
+      "id": "e325",
+      "type": "paragraph",
+      "page": 16,
+      "text": "Models 172 thru 172G: Stall warning indicator, Dwg. 0511062."
+    },
+    {
+      "id": "e326",
+      "type": "paragraph",
+      "page": 16,
+      "text": "Model 172H and On:"
+    },
+    {
+      "id": "e327",
+      "type": "paragraph",
+      "page": 16,
+      "text": "Stall warning indictor, Dwg. 0523112."
+    },
+    {
+      "id": "e328",
+      "type": "paragraph",
+      "page": 16,
+      "text": "Cessna Publication TS1000-13 should be used for equipment references on all aircraft prior to the Model 172E. Refer to applicable equipment list for the Model 172E and subsequent models."
+    },
+    {
+      "id": "e329",
+      "type": "paragraph",
+      "page": 16,
+      "text": "NOTE 1: Current weight and balance report including list of equipment included in certificated empty weight, and loading instructions, when necessary, must be provided for each aircraft at the time of original certification."
+    },
+    {
+      "id": "e330",
+      "type": "heading",
+      "page": 16,
+      "text": "S/N 28000 thru 29999, 36000 thru 36999, 46001 thru 47746, 17247747 thru 17265684",
+      "level": 2
+    },
+    {
+      "id": "e331",
+      "type": "paragraph",
+      "page": 16,
+      "text": "The certificated empty weight and corresponding center of gravity location must include:"
+    },
+    {
+      "id": "e332",
+      "type": "paragraph",
+      "page": 16,
+      "text": "Unusable fuel of 30 lb. at (+46) on Models 172 and 172A, or"
+    },
+    {
+      "id": "e333",
+      "type": "paragraph",
+      "page": 16,
+      "text": "18 lb. at (+46) for Models 172B thru 172H, or"
+    },
+    {
+      "id": "e334",
+      "type": "paragraph",
+      "page": 16,
+      "text": "24 lb. at (+46) for Models 172I thru 172M (17265684), and"
+    },
+    {
+      "id": "e335",
+      "type": "paragraph",
+      "page": 16,
+      "text": "Undrainable oil of (0) lb. at -20) for Models 172 thru 172H, and"
+    },
+    {
+      "id": "e336",
+      "type": "paragraph",
+      "page": 16,
+      "text": "(0) lb. at (-14) for Models 172I thru 172M (17265684)."
+    },
+    {
+      "id": "e337",
+      "type": "heading",
+      "page": 16,
+      "text": "S/N 17261578, 17261445, 17265685 thru 17274009",
+      "level": 2
+    },
+    {
+      "id": "e338",
+      "type": "paragraph",
+      "page": 16,
+      "text": "The certificated empty weight and corresponding center of gravity location must include:"
+    },
+    {
+      "id": "e339",
+      "type": "paragraph",
+      "page": 16,
+      "text": "Unusable fuel of 24 lbs. at (+46) through Model 172M (17267584), or 18 lbs. at (+46) 17267585 and On, and"
+    },
+    {
+      "id": "e340",
+      "type": "paragraph",
+      "page": 16,
+      "text": "full oil of 11.3 lb. at (-14)."
+    },
+    {
+      "id": "e341",
+      "type": "page_header",
+      "page": 17,
+      "text": "Rev. 89"
+    },
+    {
+      "id": "e342",
+      "type": "page_header",
+      "page": 17,
+      "text": "17"
+    },
+    {
+      "id": "e343",
+      "type": "page_header",
+      "page": 17,
+      "text": "3A12"
+    },
+    {
+      "id": "e344",
+      "type": "heading",
+      "page": 17,
+      "text": "Data Pertinent to Models 172 thru 172Q (cont'd)",
+      "level": 2
+    },
+    {
+      "id": "e345",
+      "type": "paragraph",
+      "page": 17,
+      "text": "NOTE 1 (cont'd)"
+    },
+    {
+      "id": "e346",
+      "type": "paragraph",
+      "page": 17,
+      "text": "Model 172P, S/N 17274010 thru 17276654: The certificated empty weight and corresponding center of gravity location must include: Unusable fuel of 18 lb. at (+46) and full oil of 15 lb. at (-13.1)."
+    },
+    {
+      "id": "e347",
+      "type": "paragraph",
+      "page": 17,
+      "text": "Model 172Q, S/N 17275869 thru 17276211: The certificated empty weight and corresponding center of gravity location must include: Unusable fuel of 24 lb. at (+46) and full oil of 16.88 lb. at (-15.5)."
+    },
+    {
+      "id": "e348",
+      "type": "paragraph",
+      "page": 17,
+      "text": "NOTE 2. The following placards must be displayed as indicated:"
+    },
+    {
+      "id": "e349",
+      "type": "paragraph",
+      "page": 17,
+      "text": "In full view of the pilot:"
+    },
+    {
+      "id": "e350",
+      "type": "paragraph",
+      "page": 17,
+      "text": "Models 172, 172A, 172B"
+    },
+    {
+      "id": "e351",
+      "type": "paragraph",
+      "page": 17,
+      "text": "\"This airplane must be operated in compliance with the operating limitations stated in the form of placards, markings, and manuals."
+    },
+    {
+      "id": "e352",
+      "type": "heading",
+      "page": 17,
+      "text": "NORMAL CATEGORY",
+      "level": 2
+    },
+    {
+      "id": "e353",
+      "type": "paragraph",
+      "page": 17,
+      "text": "Maximum design weight 2200 lb. Refer to weight and balance data for loading instructions. Flight maneuvering load factors Flaps up +3.8 -1.52 Flaps down +3.5"
+    },
+    {
+      "id": "e354",
+      "type": "paragraph",
+      "page": 17,
+      "text": "No acrobatic maneuvers including spins approved."
+    },
+    {
+      "id": "e355",
+      "type": "heading",
+      "page": 17,
+      "text": "UTILITY CATEGORY",
+      "level": 2
+    },
+    {
+      "id": "e356",
+      "type": "paragraph",
+      "page": 17,
+      "text": "Maximum design weight 1950 lb. Baggage compartment and rear seat must not be occupied Flight maneuvering load factors Flaps up +4.4 -1.76 Flaps down +3.5"
+    },
+    {
+      "id": "e357",
+      "type": "paragraph",
+      "page": 17,
+      "text": "No acrobatic maneuvers approved except those listed below. Maneuver Entry speed Chandelles 115 mph (100 knots) Lazy eights 115 mph (100 knots) Steep turns 115 mph (100 knots) Spins Slow deceleration Stalls (except whip stalls) Slow deceleration\""
+    },
+    {
+      "id": "e358",
+      "type": "paragraph",
+      "page": 17,
+      "text": "Model 172C"
+    },
+    {
+      "id": "e359",
+      "type": "paragraph",
+      "page": 17,
+      "text": "\"This airplane must be operated in compliance with the operating limitations stated in the form of placards, markings, and manuals."
+    },
+    {
+      "id": "e360",
+      "type": "heading",
+      "page": 17,
+      "text": "NORMAL CATEGORY",
+      "level": 2
+    },
+    {
+      "id": "e361",
+      "type": "paragraph",
+      "page": 17,
+      "text": "Maximum design weight 2250 lb. Refer to weight and balance data for loading instructions. Flight maneuvering load factors Flaps up +3.8 -1.52 Flaps down +3.5"
+    },
+    {
+      "id": "e362",
+      "type": "paragraph",
+      "page": 17,
+      "text": "No acrobatic maneuvers including spins approved."
+    },
+    {
+      "id": "e363",
+      "type": "heading",
+      "page": 17,
+      "text": "UTILITY CATEGORY",
+      "level": 2
+    },
+    {
+      "id": "e364",
+      "type": "paragraph",
+      "page": 17,
+      "text": "Maximum design weight 1950 lb. Baggage compartment and rear seat must not be occupied. Flight maneuvering load factors Flaps up +4.4 -1.76 Flaps down +3.5"
+    },
+    {
+      "id": "e365",
+      "type": "paragraph",
+      "page": 17,
+      "text": "No acrobatic maneuvers approved except those listed below."
+    },
+    {
+      "id": "e366",
+      "type": "paragraph",
+      "page": 17,
+      "text": "Maneuver Entry speed Chandelles 115 mph (100 knots) Lazy eights 115 mph (100 knots) Steep turns 115 mph (100 knots) Spins Slow deceleration Stalls (except whip stalls) Slow deceleration\""
+    },
+    {
+      "id": "e367",
+      "type": "page_header",
+      "page": 18,
+      "text": "3A12"
+    },
+    {
+      "id": "e368",
+      "type": "page_header",
+      "page": 18,
+      "text": "18"
+    },
+    {
+      "id": "e369",
+      "type": "page_header",
+      "page": 18,
+      "text": "Rev. 89"
+    },
+    {
+      "id": "e370",
+      "type": "heading",
+      "page": 18,
+      "text": "Data Pertinent to Models 172 thru 172Q (cont'd)",
+      "level": 2
+    },
+    {
+      "id": "e371",
+      "type": "paragraph",
+      "page": 18,
+      "text": "NOTE 2 (cont'd)"
+    },
+    {
+      "id": "e372",
+      "type": "heading",
+      "page": 18,
+      "text": "(3) Models 172D, 172E, 172F, 172G, 172H, 172I, 172K",
+      "level": 2
+    },
+    {
+      "id": "e373",
+      "type": "paragraph",
+      "page": 18,
+      "text": "\"This airplane must be operated in compliance with the operating limitations stated in the form of placards, markings, and manuals."
+    },
+    {
+      "id": "e374",
+      "type": "heading",
+      "page": 18,
+      "text": "NORMAL CATEGORY",
+      "level": 2
+    },
+    {
+      "id": "e375",
+      "type": "paragraph",
+      "page": 18,
+      "text": "Maximum design weight"
+    },
+    {
+      "id": "e376",
+      "type": "paragraph",
+      "page": 18,
+      "text": "2300 lb."
+    },
+    {
+      "id": "e377",
+      "type": "paragraph",
+      "page": 18,
+      "text": "Refer to weight and balance data for loading instructions."
+    },
+    {
+      "id": "e378",
+      "type": "paragraph",
+      "page": 18,
+      "text": "Flight maneuvering load factors:"
+    },
+    {
+      "id": "e379",
+      "type": "paragraph",
+      "page": 18,
+      "text": "Flaps up +3.8 -1.52"
+    },
+    {
+      "id": "e380",
+      "type": "paragraph",
+      "page": 18,
+      "text": "Flaps down +3.5"
+    },
+    {
+      "id": "e381",
+      "type": "paragraph",
+      "page": 18,
+      "text": "No acrobatic maneuvers including spins approved."
+    },
+    {
+      "id": "e382",
+      "type": "heading",
+      "page": 18,
+      "text": "UTILITY CATEGORY",
+      "level": 2
+    },
+    {
+      "id": "e383",
+      "type": "paragraph",
+      "page": 18,
+      "text": "Maximum design weight"
+    },
+    {
+      "id": "e384",
+      "type": "paragraph",
+      "page": 18,
+      "text": "2000 lb."
+    },
+    {
+      "id": "e385",
+      "type": "paragraph",
+      "page": 18,
+      "text": "Baggage compartment and rear seat must not be occupied."
+    },
+    {
+      "id": "e386",
+      "type": "paragraph",
+      "page": 18,
+      "text": "Flight maneuvering load factors Flaps up"
+    },
+    {
+      "id": "e387",
+      "type": "paragraph",
+      "page": 18,
+      "text": "+4.4 -1.76"
+    },
+    {
+      "id": "e388",
+      "type": "paragraph",
+      "page": 18,
+      "text": "Flaps down +3.5"
+    },
+    {
+      "id": "e389",
+      "type": "paragraph",
+      "page": 18,
+      "text": "No acrobatic maneuvers except those listed below."
+    },
+    {
+      "id": "e390",
+      "type": "paragraph",
+      "page": 18,
+      "text": "Maneuver Max. Entry speed"
+    },
+    {
+      "id": "e391",
+      "type": "paragraph",
+      "page": 18,
+      "text": "Chandelles"
+    },
+    {
+      "id": "e392",
+      "type": "paragraph",
+      "page": 18,
+      "text": "122 mph (106 knots)"
+    },
+    {
+      "id": "e393",
+      "type": "paragraph",
+      "page": 18,
+      "text": "Lazy eights"
+    },
+    {
+      "id": "e394",
+      "type": "paragraph",
+      "page": 18,
+      "text": "122 mph (106 knots)"
+    },
+    {
+      "id": "e395",
+      "type": "paragraph",
+      "page": 18,
+      "text": "Steep turns"
+    },
+    {
+      "id": "e396",
+      "type": "paragraph",
+      "page": 18,
+      "text": "122 mph (106 knots)"
+    },
+    {
+      "id": "e397",
+      "type": "paragraph",
+      "page": 18,
+      "text": "Spins Slow deceleration"
+    },
+    {
+      "id": "e398",
+      "type": "paragraph",
+      "page": 18,
+      "text": "Stalls (except whip stalls)"
+    },
+    {
+      "id": "e399",
+      "type": "paragraph",
+      "page": 18,
+      "text": "Slow deceleration\""
+    },
+    {
+      "id": "e400",
+      "type": "heading",
+      "page": 18,
+      "text": "(4) Model 172L (1971 model)",
+      "level": 2
+    },
+    {
+      "id": "e401",
+      "type": "paragraph",
+      "page": 18,
+      "text": "\"This airplane must be operated in compliance with the operating limitations stated in the form of placards, markings, and manuals."
+    },
+    {
+      "id": "e402",
+      "type": "heading",
+      "page": 18,
+      "text": "MAXIMUMS",
+      "level": 2
+    },
+    {
+      "id": "e403",
+      "type": "paragraph",
+      "page": 18,
+      "text": "Maneuvering speed (CAS)"
+    },
+    {
+      "id": "e404",
+      "type": "paragraph",
+      "page": 18,
+      "text": "Normal Category Utility Category"
+    },
+    {
+      "id": "e405",
+      "type": "paragraph",
+      "page": 18,
+      "text": "122 mph (106 knots)"
+    },
+    {
+      "id": "e406",
+      "type": "paragraph",
+      "page": 18,
+      "text": "122 mph (106 knots)"
+    },
+    {
+      "id": "e407",
+      "type": "paragraph",
+      "page": 18,
+      "text": "Gross weight"
+    },
+    {
+      "id": "e408",
+      "type": "paragraph",
+      "page": 18,
+      "text": "2300 lb."
+    },
+    {
+      "id": "e409",
+      "type": "paragraph",
+      "page": 18,
+      "text": "2000 lb."
+    },
+    {
+      "id": "e410",
+      "type": "paragraph",
+      "page": 18,
+      "text": "Flight load factor"
+    },
+    {
+      "id": "e411",
+      "type": "paragraph",
+      "page": 18,
+      "text": "Flaps up"
+    },
+    {
+      "id": "e412",
+      "type": "paragraph",
+      "page": 18,
+      "text": "+3.8"
+    },
+    {
+      "id": "e413",
+      "type": "paragraph",
+      "page": 18,
+      "text": "-1.52"
+    },
+    {
+      "id": "e414",
+      "type": "paragraph",
+      "page": 18,
+      "text": "+4.4 -1.76"
+    },
+    {
+      "id": "e415",
+      "type": "paragraph",
+      "page": 18,
+      "text": "Flaps down"
+    },
+    {
+      "id": "e416",
+      "type": "paragraph",
+      "page": 18,
+      "text": "+3.5"
+    },
+    {
+      "id": "e417",
+      "type": "paragraph",
+      "page": 18,
+      "text": "+3.5"
+    },
+    {
+      "id": "e418",
+      "type": "paragraph",
+      "page": 18,
+      "text": "Normal category: No acrobatic maneuvers including spins approved."
+    },
+    {
+      "id": "e419",
+      "type": "paragraph",
+      "page": 18,
+      "text": "Utility category: Baggage compartment and rear seat must not be occupied."
+    },
+    {
+      "id": "e420",
+      "type": "paragraph",
+      "page": 18,
+      "text": "No acrobatic maneuvers approved except those listed below."
+    },
+    {
+      "id": "e421",
+      "type": "paragraph",
+      "page": 18,
+      "text": "Maneuver Entry speed"
+    },
+    {
+      "id": "e422",
+      "type": "paragraph",
+      "page": 18,
+      "text": "Chandelles"
+    },
+    {
+      "id": "e423",
+      "type": "paragraph",
+      "page": 18,
+      "text": "122 mph (106 knots)"
+    },
+    {
+      "id": "e424",
+      "type": "paragraph",
+      "page": 18,
+      "text": "Lazy eights"
+    },
+    {
+      "id": "e425",
+      "type": "paragraph",
+      "page": 18,
+      "text": "122 mph (106 knots)"
+    },
+    {
+      "id": "e426",
+      "type": "paragraph",
+      "page": 18,
+      "text": "Steep turns"
+    },
+    {
+      "id": "e427",
+      "type": "paragraph",
+      "page": 18,
+      "text": "122 mph (106 knots)"
+    },
+    {
+      "id": "e428",
+      "type": "paragraph",
+      "page": 18,
+      "text": "Spins Slow deceleration"
+    },
+    {
+      "id": "e429",
+      "type": "paragraph",
+      "page": 18,
+      "text": "Stalls (except whip stalls)"
+    },
+    {
+      "id": "e430",
+      "type": "paragraph",
+      "page": 18,
+      "text": "Slow deceleration"
+    },
+    {
+      "id": "e431",
+      "type": "paragraph",
+      "page": 18,
+      "text": "Spin recovery: opposite rudder - forward elevator - neutralize controls"
+    },
+    {
+      "id": "e432",
+      "type": "paragraph",
+      "page": 18,
+      "text": "Known icing conditions to be avoided. This airplane is certified for the following flight operations as of date of original airworthiness certificate:"
+    },
+    {
+      "id": "e433",
+      "type": "paragraph",
+      "page": 18,
+      "text": "(DAY - NIGHT - VFR - IFR)\" (as applicable)"
+    },
+    {
+      "id": "e434",
+      "type": "page_header",
+      "page": 19,
+      "text": "Rev. 89"
+    },
+    {
+      "id": "e435",
+      "type": "page_header",
+      "page": 19,
+      "text": "19"
+    },
+    {
+      "id": "e436",
+      "type": "page_header",
+      "page": 19,
+      "text": "3A12"
+    },
+    {
+      "id": "e437",
+      "type": "heading",
+      "page": 19,
+      "text": "Data Pertinent to Models 172 thru 172Q (cont'd)",
+      "level": 2
+    },
+    {
+      "id": "e438",
+      "type": "paragraph",
+      "page": 19,
+      "text": "NOTE 2 (cont'd)"
+    },
+    {
+      "id": "e439",
+      "type": "heading",
+      "page": 19,
+      "text": "(5) Model 172L (1972 model)",
+      "level": 2
+    },
+    {
+      "id": "e440",
+      "type": "paragraph",
+      "page": 19,
+      "text": "\"This airplane must be operated in compliance with the operating limitations as stated in the form of placards, markings, and manuals:"
+    },
+    {
+      "id": "e441",
+      "type": "table",
+      "header": [
+        "",
+        "MAXIMUMS",
+        "MAXIMUMS",
+        "MAXIMUMS"
+      ],
+      "rows": [
+        [
+          "",
+          "Normal Category",
+          "Normal Category",
+          "Utility Category"
+        ],
+        [
+          "Maneuvering speed (CAS)",
+          "122 mph (106 knots)",
+          "122 mph (106 knots)",
+          "122 mph (106 knots)"
+        ],
+        [
+          "Gross weight",
+          "2300 lb.",
+          "2300 lb.",
+          "2000 lb."
+        ],
+        [
+          "Flight load factor",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Flaps up",
+          "+3.8",
+          "-1.52",
+          "+4.4 -1.76"
+        ],
+        [
+          "Flaps down",
+          "+3.5",
+          "",
+          "+3.5"
+        ]
+      ],
+      "page": 19
+    },
+    {
+      "id": "e442",
+      "type": "paragraph",
+      "page": 19,
+      "text": "Normal category: No acrobatic maneuvers including spins approved"
+    },
+    {
+      "id": "e443",
+      "type": "paragraph",
+      "page": 19,
+      "text": "Utility category: Baggage compartment and rear seat must not be occupied."
+    },
+    {
+      "id": "e444",
+      "type": "paragraph",
+      "page": 19,
+      "text": "No acrobatic maneuvers approved except those listed below."
+    },
+    {
+      "id": "e445",
+      "type": "paragraph",
+      "page": 19,
+      "text": "Maneuver"
+    },
+    {
+      "id": "e446",
+      "type": "paragraph",
+      "page": 19,
+      "text": "Chandelles Max. Entry speed"
+    },
+    {
+      "id": "e447",
+      "type": "paragraph",
+      "page": 19,
+      "text": "122 mph (106 knots)"
+    },
+    {
+      "id": "e448",
+      "type": "paragraph",
+      "page": 19,
+      "text": "Lazy eights"
+    },
+    {
+      "id": "e449",
+      "type": "paragraph",
+      "page": 19,
+      "text": "122 mph (106 knots)"
+    },
+    {
+      "id": "e450",
+      "type": "paragraph",
+      "page": 19,
+      "text": "Steep turns"
+    },
+    {
+      "id": "e451",
+      "type": "paragraph",
+      "page": 19,
+      "text": "122 mph (106 knots)"
+    },
+    {
+      "id": "e452",
+      "type": "paragraph",
+      "page": 19,
+      "text": "Spins Slow deceleration"
+    },
+    {
+      "id": "e453",
+      "type": "paragraph",
+      "page": 19,
+      "text": "Stalls (except whip stalls)"
+    },
+    {
+      "id": "e454",
+      "type": "paragraph",
+      "page": 19,
+      "text": "Slow deceleration"
+    },
+    {
+      "id": "e455",
+      "type": "paragraph",
+      "page": 19,
+      "text": "Spin recovery: opposite rudder - forward elevator - neutralize controls."
+    },
+    {
+      "id": "e456",
+      "type": "paragraph",
+      "page": 19,
+      "text": "Intentional spins with flaps extended are prohibited. Known icing conditions to be avoided. This airplane is certified for the following flight operations as of date of original airworthiness certificate:"
+    },
+    {
+      "id": "e457",
+      "type": "paragraph",
+      "page": 19,
+      "text": "(DAY - NIGHT - VFR - IFR)\" (as applicable)"
+    },
+    {
+      "id": "e458",
+      "type": "paragraph",
+      "page": 19,
+      "text": "Model 172M (Landplane):"
+    },
+    {
+      "id": "e459",
+      "type": "paragraph",
+      "page": 19,
+      "text": "(S/N 17256493, 17260759 thru 17265684, except 17261445 and 17261578)"
+    },
+    {
+      "id": "e460",
+      "type": "paragraph",
+      "page": 19,
+      "text": "\"This airplane must be operated in compliance with the operating limitations as stated in the form of placards, markings, and manuals."
+    },
+    {
+      "id": "e461",
+      "type": "table",
+      "header": [
+        "",
+        "MAXIMUMS",
+        "MAXIMUMS",
+        "MAXIMUMS",
+        "MAXIMUMS"
+      ],
+      "rows": [
+        [
+          "",
+          "Normal Category",
+          "Normal Category",
+          "Utility Category",
+          "Utility Category"
+        ],
+        [
+          "Maneuvering speed (CAS)",
+          "112 mph (97 knots)",
+          "112 mph (97 knots)",
+          "112 mph (97 knots)",
+          "112 mph (97 knots)"
+        ],
+        [
+          "Gross weight",
+          "2300 lb.",
+          "2300 lb.",
+          "2000 lb.",
+          "2000 lb."
+        ],
+        [
+          "Flight load factor",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Flaps up",
+          "+3.8",
+          "-1.52",
+          "+4.4",
+          "-1.76"
+        ],
+        [
+          "Flaps down",
+          "+3.0",
+          "",
+          "+3.0",
+          ""
+        ]
+      ],
+      "page": 19
+    },
+    {
+      "id": "e462",
+      "type": "paragraph",
+      "page": 19,
+      "text": "Normal category: No acrobatic maneuvers including spins approved."
+    },
+    {
+      "id": "e463",
+      "type": "paragraph",
+      "page": 19,
+      "text": "Utility category: Baggage compartment and rear seat must not be occupied."
+    },
+    {
+      "id": "e464",
+      "type": "paragraph",
+      "page": 19,
+      "text": "No acrobatic maneuvers approved except those listed below."
+    },
+    {
+      "id": "e465",
+      "type": "table",
+      "header": [
+        "Recommended",
+        "Recommended",
+        "Recommended",
+        "Recommended"
+      ],
+      "rows": [
+        [
+          "Maneuver",
+          "Entry speed",
+          "Maneuver",
+          "Entry Speed"
+        ],
+        [
+          "Chandelles",
+          "120 mph (104 knots)",
+          "Spins",
+          "Slow deceleration"
+        ],
+        [
+          "Lazy eights",
+          "120 mph (104 knots)",
+          "Stalls (except",
+          "Slow deceleration"
+        ],
+        [
+          "Steep turns",
+          "112 mph ( 97 knots)",
+          "whip stalls)",
+          ""
+        ]
+      ],
+      "page": 19
+    },
+    {
+      "id": "e466",
+      "type": "paragraph",
+      "page": 19,
+      "text": "Altitude loss in stall recovery: 180 feet."
+    },
+    {
+      "id": "e467",
+      "type": "paragraph",
+      "page": 19,
+      "text": "Abrupt use of the controls prohibited above 112 mph."
+    },
+    {
+      "id": "e468",
+      "type": "page_header",
+      "page": 20,
+      "text": "3A12"
+    },
+    {
+      "id": "e469",
+      "type": "page_header",
+      "page": 20,
+      "text": "20"
+    },
+    {
+      "id": "e470",
+      "type": "page_header",
+      "page": 20,
+      "text": "Rev. 89"
+    },
+    {
+      "id": "e471",
+      "type": "heading",
+      "page": 20,
+      "text": "Data Pertinent to Models 172 thru 172Q (cont'd)",
+      "level": 2
+    },
+    {
+      "id": "e472",
+      "type": "paragraph",
+      "page": 20,
+      "text": "NOTE 2 (cont'd)"
+    },
+    {
+      "id": "e473",
+      "type": "paragraph",
+      "page": 20,
+      "text": "Spin recovery: opposite rudder - forward elevator - neutralize controls"
+    },
+    {
+      "id": "e474",
+      "type": "paragraph",
+      "page": 20,
+      "text": "Intentional spins with flaps extended are prohibited. Flight into known icing conditions prohibited. This airplane is certified for the following flight operations as of date of original airworthiness certificate:"
+    },
+    {
+      "id": "e475",
+      "type": "paragraph",
+      "page": 20,
+      "text": ""
+    },
+    {
+      "id": "e476",
+      "type": "paragraph",
+      "page": 20,
+      "text": "Model 172M (Floatplane):"
+    },
+    {
+      "id": "e477",
+      "type": "paragraph",
+      "page": 20,
+      "text": "(S/N 17256493, 17260759 thru 17265684, except 17261445 and 17261578)"
+    },
+    {
+      "id": "e478",
+      "type": "paragraph",
+      "page": 20,
+      "text": "\"This airplane must be operated as a normal category airplane in compliance with the operating limitations as stated in the form of placards, markings, and manuals."
+    },
+    {
+      "id": "e479",
+      "type": "heading",
+      "page": 20,
+      "text": "MAXIMUMS",
+      "level": 2
+    },
+    {
+      "id": "e480",
+      "type": "table",
+      "header": null,
+      "rows": [
+        [
+          "Maneuvering speed",
+          "110 mph (96 knots) (CAS)"
+        ],
+        [
+          "Gross weight",
+          "2220 lbs."
+        ],
+        [
+          "Flight load factor",
+          "Flaps up +3.8, -1.52"
+        ],
+        [
+          "",
+          "Flaps down +3.0"
+        ]
+      ],
+      "page": 20
+    },
+    {
+      "id": "e481",
+      "type": "paragraph",
+      "page": 20,
+      "text": "WATER RUDDER: Extend for taxi; retract for takeoff, flight, and landing."
+    },
+    {
+      "id": "e482",
+      "type": "paragraph",
+      "page": 20,
+      "text": "No acrobatic maneuvers, including spins approved."
+    },
+    {
+      "id": "e483",
+      "type": "paragraph",
+      "page": 20,
+      "text": "Altitude loss in a stall recovery: 200 ft."
+    },
+    {
+      "id": "e484",
+      "type": "paragraph",
+      "page": 20,
+      "text": "Flight into known icing conditions prohibited. This airplane is certified for the following flight operations as of date of original airworthiness certificate:"
+    },
+    {
+      "id": "e485",
+      "type": "paragraph",
+      "page": 20,
+      "text": ""
+    },
+    {
+      "id": "e486",
+      "type": "heading",
+      "page": 20,
+      "text": "(7) Models 172M, 172N (Landplane)",
+      "level": 2
+    },
+    {
+      "id": "e487",
+      "type": "paragraph",
+      "page": 20,
+      "text": "(S/N 17261445, 17261578, 17265685 thru 17271034, except 17270050)"
+    },
+    {
+      "id": "e488",
+      "type": "paragraph",
+      "page": 20,
+      "text": "\"This airplane must be operated in compliance with the operating limitations stated in the form of placards, markings, and manuals."
+    },
+    {
+      "id": "e489",
+      "type": "table",
+      "header": [
+        "",
+        "MAXIMUMS",
+        "MAXIMUMS",
+        "MAXIMUMS"
+      ],
+      "rows": [
+        [
+          "",
+          "Normal Category",
+          "Normal Category",
+          "Utility Category"
+        ],
+        [
+          "Maneuvering speed (CAS)",
+          "97 knots",
+          "97 knots",
+          "97 knots"
+        ],
+        [
+          "Gross weight",
+          "2300 lb.",
+          "2300 lb.",
+          "2000 lb."
+        ],
+        [
+          "Flight load factor",
+          "",
+          "",
+          ""
+        ],
+        [
+          "Flaps up",
+          "+3.8",
+          "-1.52",
+          "+4.4 -1.76"
+        ],
+        [
+          "Flaps down",
+          "+3.0",
+          "",
+          "+3.0"
+        ]
+      ],
+      "page": 20
+    },
+    {
+      "id": "e490",
+      "type": "paragraph",
+      "page": 20,
+      "text": "Normal category: No acrobatic maneuvers including spins approved."
+    },
+    {
+      "id": "e491",
+      "type": "paragraph",
+      "page": 20,
+      "text": "Utility category: Baggage compartment and rear seat must not be occupied."
+    },
+    {
+      "id": "e492",
+      "type": "heading",
+      "page": 20,
+      "text": "NO ACROBATIC MANEUVERS EXCEPT THOSE LISTED BELOW:",
+      "level": 2
+    },
+    {
+      "id": "e493",
+      "type": "table",
+      "header": [
+        "Recommended",
+        "Recommended",
+        "Recommended",
+        "Recommended"
+      ],
+      "rows": [
+        [
+          "Maneuver",
+          "Entry speed",
+          "Maneuver",
+          "Entry Speed"
+        ],
+        [
+          "Chandelles",
+          "105 knots",
+          "Spins",
+          "Slow deceleration"
+        ],
+        [
+          "Lazy eights",
+          "105 knots",
+          "Stalls (except",
+          "Slow deceleration"
+        ],
+        [
+          "Steep turns",
+          "95 knots)",
+          "whip stalls)",
+          ""
+        ]
+      ],
+      "page": 20
+    },
+    {
+      "id": "e494",
+      "type": "paragraph",
+      "page": 20,
+      "text": "Altitude loss in stall recovery: 180 feet."
+    },
+    {
+      "id": "e495",
+      "type": "paragraph",
+      "page": 20,
+      "text": "Abrupt use of the controls prohibited above 97 knots"
+    },
+    {
+      "id": "e496",
+      "type": "page_header",
+      "page": 21,
+      "text": "Rev. 89"
+    },
+    {
+      "id": "e497",
+      "type": "page_header",
+      "page": 21,
+      "text": "21"
+    },
+    {
+      "id": "e498",
+      "type": "page_header",
+      "page": 21,
+      "text": "3A12"
+    },
+    {
+      "id": "e499",
+      "type": "heading",
+      "page": 21,
+      "text": "Data Pertinent to Models 172 thru 172Q (cont'd)",
+      "level": 2
+    },
+    {
+      "id": "e500",
+      "type": "paragraph",
+      "page": 21,
+      "text": "NOTE 2 (cont'd)"
+    },
+    {
+      "id": "e501",
+      "type": "paragraph",
+      "page": 21,
+      "text": "Spin recovery: opposite rudder - forward elevator - neutralize controls."
+    },
+    {
+      "id": "e502",
+      "type": "paragraph",
+      "page": 21,
+      "text": "Intentional spins with flaps extended are prohibited. Flight into known icing conditions prohibited. This airplane is certified for the following flight operations as of date of original airworthiness certificate."
+    },
+    {
+      "id": "e503",
+      "type": "paragraph",
+      "page": 21,
+      "text": ""
+    },
+    {
+      "id": "e504",
+      "type": "paragraph",
+      "page": 21,
+      "text": "Models 172M, 172N (Floatplane):"
+    },
+    {
+      "id": "e505",
+      "type": "paragraph",
+      "page": 21,
+      "text": "(S/N 17265685 thru 17271034)"
+    },
+    {
+      "id": "e506",
+      "type": "heading",
+      "page": 21,
+      "text": "FLOATPLANE",
+      "level": 2
+    },
+    {
+      "id": "e507",
+      "type": "paragraph",
+      "page": 21,
+      "text": "\"This airplane must be operated as a normal category airplane in compliance with the operating limitations as stated in the form of placards, markings, and manuals."
+    },
+    {
+      "id": "e508",
+      "type": "heading",
+      "page": 21,
+      "text": "MAXIMUMS",
+      "level": 2
+    },
+    {
+      "id": "e509",
+      "type": "table",
+      "header": null,
+      "rows": [
+        [
+          "Maneuvering speed (CAS)",
+          "Maneuvering speed (CAS)",
+          "96 knots"
+        ],
+        [
+          "Gross weight",
+          "Gross weight",
+          "2220 lb."
+        ],
+        [
+          "Flight load factor",
+          "Flaps up",
+          "+3.8, -1.52"
+        ],
+        [
+          "",
+          "Flaps down",
+          "+3.0"
+        ]
+      ],
+      "page": 21
+    },
+    {
+      "id": "e510",
+      "type": "paragraph",
+      "page": 21,
+      "text": "Water Rudder: Extend for taxi; retract for takeoff, flight, and landing."
+    },
+    {
+      "id": "e511",
+      "type": "paragraph",
+      "page": 21,
+      "text": "No acrobatic maneuvers, including spins approved."
+    },
+    {
+      "id": "e512",
+      "type": "paragraph",
+      "page": 21,
+      "text": "Altitude loss in a stall recovery:"
+    },
+    {
+      "id": "e513",
+      "type": "paragraph",
+      "page": 21,
+      "text": "200 ft."
+    },
+    {
+      "id": "e514",
+      "type": "paragraph",
+      "page": 21,
+      "text": "Flight into known icing conditions prohibited. This airplane is certified for the following flight operations as of date of original airworthiness certificate:"
+    },
+    {
+      "id": "e515",
+      "type": "paragraph",
+      "page": 21,
+      "text": "(DAY - NIGHT - VFR - IFR)\" (as applicable)"
+    },
+    {
+      "id": "e516",
+      "type": "paragraph",
+      "page": 21,
+      "text": "Forward of fuel selector valve (all models through S/N 17265684, except 17261445 and 17261578): \"Both tanks on for takeoff and landing.\""
+    },
+    {
+      "id": "e517",
+      "type": "paragraph",
+      "page": 21,
+      "text": "On the fuel selector valve (at appropriate location):"
+    },
+    {
+      "id": "e518",
+      "type": "paragraph",
+      "page": 21,
+      "text": "Models 172, 172A"
+    },
+    {
+      "id": "e519",
+      "type": "paragraph",
+      "page": 21,
+      "text": "\"Both:"
+    },
+    {
+      "id": "e520",
+      "type": "paragraph",
+      "page": 21,
+      "text": "37 gal."
+    },
+    {
+      "id": "e521",
+      "type": "paragraph",
+      "page": 21,
+      "text": "Left:"
+    },
+    {
+      "id": "e522",
+      "type": "paragraph",
+      "page": 21,
+      "text": "18.5 gal."
+    },
+    {
+      "id": "e523",
+      "type": "paragraph",
+      "page": 21,
+      "text": "Right:"
+    },
+    {
+      "id": "e524",
+      "type": "paragraph",
+      "page": 21,
+      "text": "18.5 gal."
+    },
+    {
+      "id": "e525",
+      "type": "paragraph",
+      "page": 21,
+      "text": "Off\""
+    },
+    {
+      "id": "e526",
+      "type": "paragraph",
+      "page": 21,
+      "text": "Model 172B"
+    },
+    {
+      "id": "e527",
+      "type": "paragraph",
+      "page": 21,
+      "text": "Models 172C, 172D, 172E, 172F, 172G, 172H"
+    },
+    {
+      "id": "e528",
+      "type": "paragraph",
+      "page": 21,
+      "text": "Models 172I thru 172M (except S/N 17261445 and 17261578)"
+    },
+    {
+      "id": "e529",
+      "type": "paragraph",
+      "page": 21,
+      "text": "\"Both:"
+    },
+    {
+      "id": "e530",
+      "type": "paragraph",
+      "page": 21,
+      "text": "Left:"
+    },
+    {
+      "id": "e531",
+      "type": "paragraph",
+      "page": 21,
+      "text": "39 gal."
+    },
+    {
+      "id": "e532",
+      "type": "paragraph",
+      "page": 21,
+      "text": "19.5 gal."
+    },
+    {
+      "id": "e533",
+      "type": "paragraph",
+      "page": 21,
+      "text": "Right:"
+    },
+    {
+      "id": "e534",
+      "type": "paragraph",
+      "page": 21,
+      "text": "19.5 gal."
+    },
+    {
+      "id": "e535",
+      "type": "paragraph",
+      "page": 21,
+      "text": "Off\""
+    },
+    {
+      "id": "e536",
+      "type": "paragraph",
+      "page": 21,
+      "text": "\"Both:"
+    },
+    {
+      "id": "e537",
+      "type": "paragraph",
+      "page": 21,
+      "text": "Left:"
+    },
+    {
+      "id": "e538",
+      "type": "paragraph",
+      "page": 21,
+      "text": "36 gal."
+    },
+    {
+      "id": "e539",
+      "type": "paragraph",
+      "page": 21,
+      "text": "18 gal."
+    },
+    {
+      "id": "e540",
+      "type": "paragraph",
+      "page": 21,
+      "text": "Right:"
+    },
+    {
+      "id": "e541",
+      "type": "paragraph",
+      "page": 21,
+      "text": "18 gal."
+    },
+    {
+      "id": "e542",
+      "type": "paragraph",
+      "page": 21,
+      "text": "Off\""
+    },
+    {
+      "id": "e543",
+      "type": "paragraph",
+      "page": 21,
+      "text": "\"Both:"
+    },
+    {
+      "id": "e544",
+      "type": "paragraph",
+      "page": 21,
+      "text": "38 gal. (all flight attitudes)"
+    },
+    {
+      "id": "e545",
+      "type": "paragraph",
+      "page": 21,
+      "text": "Left:"
+    },
+    {
+      "id": "e546",
+      "type": "paragraph",
+      "page": 21,
+      "text": "19 gal. (level flight only)"
+    },
+    {
+      "id": "e547",
+      "type": "paragraph",
+      "page": 21,
+      "text": "Right:"
+    },
+    {
+      "id": "e548",
+      "type": "paragraph",
+      "page": 21,
+      "text": "19 gal. (level flight only)"
+    },
+    {
+      "id": "e549",
+      "type": "paragraph",
+      "page": 21,
+      "text": "Off\""
+    },
+    {
+      "id": "e550",
+      "type": "page_header",
+      "page": 22,
+      "text": "3A12"
+    },
+    {
+      "id": "e551",
+      "type": "page_header",
+      "page": 22,
+      "text": "22"
+    },
+    {
+      "id": "e552",
+      "type": "page_header",
+      "page": 22,
+      "text": "Rev. 89"
+    },
+    {
+      "id": "e553",
+      "type": "heading",
+      "page": 22,
+      "text": "Data pertinent to Models 172 thru 172Q (cont'd)",
+      "level": 2
+    },
+    {
+      "id": "e554",
+      "type": "paragraph",
+      "page": 22,
+      "text": "NOTE 2 (cont'd)"
+    },
+    {
+      "id": "e555",
+      "type": "paragraph",
+      "page": 22,
+      "text": "Model 172N (S/N 17261445, 17261578, 17267585 thru 17271034, excluding 17270050)"
+    },
+    {
+      "id": "e556",
+      "type": "paragraph",
+      "page": 22,
+      "text": "Models 172 thru 172E"
+    },
+    {
+      "id": "e557",
+      "type": "paragraph",
+      "page": 22,
+      "text": "\"Both:"
+    },
+    {
+      "id": "e558",
+      "type": "paragraph",
+      "page": 22,
+      "text": "Left:"
+    },
+    {
+      "id": "e559",
+      "type": "paragraph",
+      "page": 22,
+      "text": "40 gal. (all flight altitudes) (takeoff - landing)"
+    },
+    {
+      "id": "e560",
+      "type": "paragraph",
+      "page": 22,
+      "text": "20 gal. (level flight only)"
+    },
+    {
+      "id": "e561",
+      "type": "paragraph",
+      "page": 22,
+      "text": "Right:"
+    },
+    {
+      "id": "e562",
+      "type": "paragraph",
+      "page": 22,
+      "text": "20 gal. (level flight only)"
+    },
+    {
+      "id": "e563",
+      "type": "paragraph",
+      "page": 22,
+      "text": "Off\""
+    },
+    {
+      "id": "e564",
+      "type": "paragraph",
+      "page": 22,
+      "text": "On flap handle"
+    },
+    {
+      "id": "e565",
+      "type": "paragraph",
+      "page": 22,
+      "text": "\"Flaps - Pull to extend"
+    },
+    {
+      "id": "e566",
+      "type": "paragraph",
+      "page": 22,
+      "text": "Takeoff Retract 0°"
+    },
+    {
+      "id": "e567",
+      "type": "paragraph",
+      "page": 22,
+      "text": "1st notch 10°"
+    },
+    {
+      "id": "e568",
+      "type": "paragraph",
+      "page": 22,
+      "text": "Landing 0° - 40°"
+    },
+    {
+      "id": "e569",
+      "type": "paragraph",
+      "page": 22,
+      "text": "\"Avoid slips with flaps down.\""
+    },
+    {
+      "id": "e570",
+      "type": "paragraph",
+      "page": 22,
+      "text": "Model 172F (electric flaps) thru S/N 17271034, excluding 17270050"
+    },
+    {
+      "id": "e571",
+      "type": "paragraph",
+      "page": 22,
+      "text": "Near flap indicator: \"Avoid slips with flaps extended.\""
+    },
+    {
+      "id": "e572",
+      "type": "paragraph",
+      "page": 22,
+      "text": "In baggage compartment:"
+    },
+    {
+      "id": "e573",
+      "type": "paragraph",
+      "page": 22,
+      "text": "Models 172 thru 172B"
+    },
+    {
+      "id": "e574",
+      "type": "paragraph",
+      "page": 22,
+      "text": "\"Maximum baggage 120 lb. For additional loading instructions, see weight and balance data.\""
+    },
+    {
+      "id": "e575",
+      "type": "paragraph",
+      "page": 22,
+      "text": "Models 172C thru 172M (1973 model)"
+    },
+    {
+      "id": "e576",
+      "type": "paragraph",
+      "page": 22,
+      "text": "\"120 lb. maximum baggage and/or auxiliary seat passenger."
+    },
+    {
+      "id": "e577",
+      "type": "paragraph",
+      "page": 22,
+      "text": "For additional loading instructions see weight and balance data.\""
+    },
+    {
+      "id": "e578",
+      "type": "paragraph",
+      "page": 22,
+      "text": "S/N 17261899 thru 17271034, excluding 17270050"
+    },
+    {
+      "id": "e579",
+      "type": "paragraph",
+      "page": 22,
+      "text": "\"120 lb. maximum baggage and/or auxiliary passenger forward of baggage door latch.\""
+    },
+    {
+      "id": "e580",
+      "type": "paragraph",
+      "page": 22,
+      "text": "\"50 lb. maximum baggage aft of baggage door latch maximum 120 lb. combined."
+    },
+    {
+      "id": "e581",
+      "type": "paragraph",
+      "page": 22,
+      "text": "For additional loading instructions see weight and balance data.\""
+    },
+    {
+      "id": "e582",
+      "type": "paragraph",
+      "page": 22,
+      "text": "S/N 17258487 thru 17259903."
+    },
+    {
+      "id": "e583",
+      "type": "paragraph",
+      "page": 22,
+      "text": "Near ammeter: \"Do not turn off alternator in flight except in emergency.\""
+    },
+    {
+      "id": "e584",
+      "type": "paragraph",
+      "page": 22,
+      "text": "Additional placards required in seaplane."
+    },
+    {
+      "id": "e585",
+      "type": "paragraph",
+      "page": 22,
+      "text": "Models 172A thru 172I, in full view of the pilot:"
+    },
+    {
+      "id": "e586",
+      "type": "paragraph",
+      "page": 22,
+      "text": "\"Operate as normal category airplane except:"
+    },
+    {
+      "id": "e587",
+      "type": "paragraph",
+      "page": 22,
+      "text": "Maximum weight 2220 lb. Maximum altitude loss in stall recovery 120 ft. Flaps - takeoff - 1st notch -10° Water rudder - pull to extract Retract - takeoff, flight and landing Extend - taxi.\""
+    },
+    {
+      "id": "e588",
+      "type": "paragraph",
+      "page": 22,
+      "text": "Model 172K, in full view of the pilot:"
+    },
+    {
+      "id": "e589",
+      "type": "paragraph",
+      "page": 22,
+      "text": "″THIS AIRPLANE MUST BE OPERATED IN COMPLIANCE WITH THE OPERATING LIMITATIONS AS STATED IN THE FORM OF PLACARDS, MARKINGS, AND MANUALS"
+    },
+    {
+      "id": "e590",
+      "type": "paragraph",
+      "page": 22,
+      "text": "NORMAL CATEGORY; FLOATPLANE Maximum weight 2220 lb. Refer to weight and balance data for loading instructions."
+    },
+    {
+      "id": "e591",
+      "type": "paragraph",
+      "page": 22,
+      "text": "Flight maneuvering load factors Flaps up +3.8, -1.52"
+    },
+    {
+      "id": "e592",
+      "type": "paragraph",
+      "page": 22,
+      "text": "Flaps down +3.5"
+    },
+    {
+      "id": "e593",
+      "type": "paragraph",
+      "page": 22,
+      "text": "No acrobatic maneuvers including spins approved."
+    },
+    {
+      "id": "e594",
+      "type": "paragraph",
+      "page": 22,
+      "text": "Maximum altitude loss in stall recovery: 120 ft."
+    },
+    {
+      "id": "e595",
+      "type": "paragraph",
+      "page": 22,
+      "text": "Flaps: Takeoff - 10° . . . Water rudder: Pull to retract . . ."
+    },
+    {
+      "id": "e596",
+      "type": "paragraph",
+      "page": 22,
+      "text": "Retract: Takeoff, flight and landing . . . . Extend: Taxi.\""
+    },
+    {
+      "id": "e597",
+      "type": "page_header",
+      "page": 23,
+      "text": "Rev. 89"
+    },
+    {
+      "id": "e598",
+      "type": "page_header",
+      "page": 23,
+      "text": "23"
+    },
+    {
+      "id": "e599",
+      "type": "page_header",
+      "page": 23,
+      "text": "3A12"
+    },
+    {
+      "id": "e600",
+      "type": "heading",
+      "page": 23,
+      "text": "Data Pertinent to Models 172 thru 172Q (cont'd)",
+      "level": 2
+    },
+    {
+      "id": "e601",
+      "type": "paragraph",
+      "page": 23,
+      "text": "NOTE 2 (cont'd)"
+    },
+    {
+      "id": "e602",
+      "type": "paragraph",
+      "page": 23,
+      "text": "Model 172F thru S/N 17271034, excluding 17270050, in full view of the pilot. \"Floatplane Max. Flaps - 30°.\""
+    },
+    {
+      "id": "e603",
+      "type": "paragraph",
+      "page": 23,
+      "text": "Model 172L, in full view of the pilot:"
+    },
+    {
+      "id": "e604",
+      "type": "heading",
+      "page": 23,
+      "text": "\"FLOATPLANE",
+      "level": 2
+    },
+    {
+      "id": "e605",
+      "type": "paragraph",
+      "page": 23,
+      "text": "THIS AIRPLANE MUST BE OPERATED AS A NORMAL CATEGORY AIRPLANE IN COMPLIANCE WITH THE OPERATING LIMITATIONS AS STATED IN THE FORM OF PLACARDS, MARKINGS, AND MANUALS."
+    },
+    {
+      "id": "e606",
+      "type": "heading",
+      "page": 23,
+      "text": "\"MAXIMUMS",
+      "level": 2
+    },
+    {
+      "id": "e607",
+      "type": "paragraph",
+      "page": 23,
+      "text": "Maneuvering speed"
+    },
+    {
+      "id": "e608",
+      "type": "paragraph",
+      "page": 23,
+      "text": "Gross weight"
+    },
+    {
+      "id": "e609",
+      "type": "paragraph",
+      "page": 23,
+      "text": "122 mph CAS (106 knots)"
+    },
+    {
+      "id": "e610",
+      "type": "paragraph",
+      "page": 23,
+      "text": "2220 lb."
+    },
+    {
+      "id": "e611",
+      "type": "paragraph",
+      "page": 23,
+      "text": "Flight load factor Flaps up"
+    },
+    {
+      "id": "e612",
+      "type": "paragraph",
+      "page": 23,
+      "text": "+3.8, -1.52"
+    },
+    {
+      "id": "e613",
+      "type": "paragraph",
+      "page": 23,
+      "text": "Flaps down"
+    },
+    {
+      "id": "e614",
+      "type": "paragraph",
+      "page": 23,
+      "text": "+3.5"
+    },
+    {
+      "id": "e615",
+      "type": "paragraph",
+      "page": 23,
+      "text": "WATER RUDDER: Extend for taxi; retract for takeoff, flight, and landing."
+    },
+    {
+      "id": "e616",
+      "type": "paragraph",
+      "page": 23,
+      "text": "FLAPS: 10° for takeoff"
+    },
+    {
+      "id": "e617",
+      "type": "paragraph",
+      "page": 23,
+      "text": "No acrobatic maneuvers, including spins, approved."
+    },
+    {
+      "id": "e618",
+      "type": "paragraph",
+      "page": 23,
+      "text": "Altitude loss in stall recovery:"
+    },
+    {
+      "id": "e619",
+      "type": "paragraph",
+      "page": 23,
+      "text": "120 ft."
+    },
+    {
+      "id": "e620",
+      "type": "paragraph",
+      "page": 23,
+      "text": "Known icing conditions to be avoided. This airplane is certified for the following flight operations as of date of original airworthiness certificate:"
+    },
+    {
+      "id": "e621",
+      "type": "paragraph",
+      "page": 23,
+      "text": "(DAY - NIGHT - VFR - IFR)\" (as applicable)"
+    },
+    {
+      "id": "e622",
+      "type": "paragraph",
+      "page": 23,
+      "text": "Models 172I, 172K, 172L (with IC172/MTM propeller)"
+    },
+    {
+      "id": "e623",
+      "type": "paragraph",
+      "page": 23,
+      "text": "Above 75 percent power in cruise"
+    },
+    {
+      "id": "e624",
+      "type": "paragraph",
+      "page": 23,
+      "text": "Above 2500 rpm in full throttle climb.\""
+    },
+    {
+      "id": "e625",
+      "type": "paragraph",
+      "page": 23,
+      "text": "Model 172L (1972 model) thru Model 172N (1978 model) Near ammeter and adjacent to overvoltage light: \"High Voltage\""
+    },
+    {
+      "id": "e626",
+      "type": "paragraph",
+      "page": 23,
+      "text": "Models with S/N 28000 thru 17258855, except those with Cessna Kit No. SK-172-31B or SK-172-32 installed near fuel selector valve:"
+    },
+    {
+      "id": "e627",
+      "type": "paragraph",
+      "page": 23,
+      "text": "Near tachometer: \"Avoid continuous operation"
+    },
+    {
+      "id": "e628",
+      "type": "paragraph",
+      "page": 23,
+      "text": "\"SWITCH TO SINGLE TANK OPERATION IMMEDIATELY UPON REACHING CRUISE ALTITUDES ABOVE 5000 FEET.\""
+    },
+    {
+      "id": "e629",
+      "type": "paragraph",
+      "page": 23,
+      "text": "Near fuel tank filler"
+    },
+    {
+      "id": "e630",
+      "type": "paragraph",
+      "page": 23,
+      "text": "Models 172, 172A, 172B"
+    },
+    {
+      "id": "e631",
+      "type": "paragraph",
+      "page": 23,
+      "text": "\"FUEL"
+    },
+    {
+      "id": "e632",
+      "type": "paragraph",
+      "page": 23,
+      "text": "80/87 min. grade aviation gasoline"
+    },
+    {
+      "id": "e633",
+      "type": "paragraph",
+      "page": 23,
+      "text": "Cap. 21 U.S. gal.\""
+    },
+    {
+      "id": "e634",
+      "type": "paragraph",
+      "page": 23,
+      "text": "Models 172C, 172D, 172E, 172F, 172G, 172H"
+    },
+    {
+      "id": "e635",
+      "type": "paragraph",
+      "page": 23,
+      "text": "\"FUEL"
+    },
+    {
+      "id": "e636",
+      "type": "paragraph",
+      "page": 23,
+      "text": "80/87 min. grade aviation gasoline Cap. 19.5 U.S. gal.\""
+    },
+    {
+      "id": "e637",
+      "type": "paragraph",
+      "page": 23,
+      "text": "Models 172I thru 172M (except S/N 17261445 and 17261578)"
+    },
+    {
+      "id": "e638",
+      "type": "paragraph",
+      "page": 23,
+      "text": "\"FUEL"
+    },
+    {
+      "id": "e639",
+      "type": "paragraph",
+      "page": 23,
+      "text": "80/87 min. grade aviation gasoline Cap. 21 US. gal.\""
+    },
+    {
+      "id": "e640",
+      "type": "page_header",
+      "page": 24,
+      "text": "3A12"
+    },
+    {
+      "id": "e641",
+      "type": "page_header",
+      "page": 24,
+      "text": "24"
+    },
+    {
+      "id": "e642",
+      "type": "page_header",
+      "page": 24,
+      "text": "Rev. 89"
+    },
+    {
+      "id": "e643",
+      "type": "heading",
+      "page": 24,
+      "text": "Data pertinent to Models 172 thru 172Q (cont'd)",
+      "level": 2
+    },
+    {
+      "id": "e644",
+      "type": "paragraph",
+      "page": 24,
+      "text": "NOTE 2 (cont'd)"
+    },
+    {
+      "id": "e645",
+      "type": "paragraph",
+      "page": 24,
+      "text": "NOTE 3."
+    },
+    {
+      "id": "e646",
+      "type": "paragraph",
+      "page": 24,
+      "text": "Model 172N (S/N 17261445, 17267585 thru 17269309)"
+    },
+    {
+      "id": "e647",
+      "type": "paragraph",
+      "page": 24,
+      "text": "\"FUEL 100/130 min. grade aviation gasoline"
+    },
+    {
+      "id": "e648",
+      "type": "paragraph",
+      "page": 24,
+      "text": "Cap. 21.5 US. gal.\""
+    },
+    {
+      "id": "e649",
+      "type": "paragraph",
+      "page": 24,
+      "text": "Model 172N (S/N 17261578, 17269310 thru 17271034, excluding 17270050)"
+    },
+    {
+      "id": "e650",
+      "type": "paragraph",
+      "page": 24,
+      "text": "\"FUEL 100LL/100 min. grade aviation gasoline"
+    },
+    {
+      "id": "e651",
+      "type": "paragraph",
+      "page": 24,
+      "text": "Cap. 21.5 US. gal.\""
+    },
+    {
+      "id": "e652",
+      "type": "paragraph",
+      "page": 24,
+      "text": "Effective at S/N 17270050, 17271035 thru 17276654"
+    },
+    {
+      "id": "e653",
+      "type": "paragraph",
+      "page": 24,
+      "text": "All placards required in the Pilot's Operating Handbook (POH) and FAA Approved AFM must be installed in the appropriate locations."
+    },
+    {
+      "id": "e654",
+      "type": "paragraph",
+      "page": 24,
+      "text": "Compliance with Service Letter SE74-16 (Carburetor Nozzle Replacement) allows rpm's as follows:"
+    },
+    {
+      "id": "e655",
+      "type": "paragraph",
+      "page": 24,
+      "text": "Landplane: not over 2420, not under 2300"
+    },
+    {
+      "id": "e656",
+      "type": "paragraph",
+      "page": 24,
+      "text": "Seaplane: not over 2570, not under 2445"
+    },
+    {
+      "id": "e657",
+      "type": "paragraph",
+      "page": 24,
+      "text": "NOTE 4. The marking of the airspeed indicator in CAS provides an Equivalent Level of Safety (ELOS) to CAR 3.757 when approved airspeed calibration data presented in Section V of the POH below is available to the pilot (TIAS is exactly equal to CAS):"
+    },
+    {
+      "id": "e658",
+      "type": "paragraph",
+      "page": 24,
+      "text": "MODELS S/N's 172M, Cessna P/N D1057-13 17265685 thru 17267584 172N, Cessna P/N D1082-13 17261445, 17267585 thru 17269309 172N, Cessna P/N D1109-13 17261578, 17269310 thru 17271034, except 17270050 172N, Cessna P/N D1138-13PH 17271035 thru 17272884 172N, Cessna P/N D1172-13PH 17270050, 17272885 thru 17274009 172P, Cessna P/N D1192-13PH 17274010 thru 17275034 172P, Cessna P/N D1212-13PH 17275035 thru 17275759 172P, Cessna P/N D1231-13PH 17275760 thru 17276079 172P, Cessna P/N D1251-13PH 17276080 thru 17276259"
+    },
+    {
+      "id": "e659",
+      "type": "paragraph",
+      "page": 24,
+      "text": "NOTE 5. 14-volt electrical system"
+    },
+    {
+      "id": "e660",
+      "type": "paragraph",
+      "page": 24,
+      "text": "(Model 172 series thru S/N 17269309, except 17258105 thru 17258112, and 17261578)"
+    },
+    {
+      "id": "e661",
+      "type": "paragraph",
+      "page": 24,
+      "text": "28-volt electrical system"
+    },
+    {
+      "id": "e662",
+      "type": "paragraph",
+      "page": 24,
+      "text": "(S/N 17258105 thru 17258112, 17261578 and 17269310 thru 17276654)"
+    },
+    {
+      "id": "e663",
+      "type": "paragraph",
+      "page": 24,
+      "text": "NOTE 6. Special Ferry Flight Authorization. Flight Standards District Offices (FSDO) is authorized to issue Special overweight ferry flight authorizations. These airplanes are structurally satisfactory for ferry flight if maintained within the following limits:"
+    },
+    {
+      "id": "e664",
+      "type": "paragraph",
+      "page": 24,
+      "text": "Takeoff weight must not exceed 130% of the maximum weight for Normal Category."
+    },
+    {
+      "id": "e665",
+      "type": "paragraph",
+      "page": 24,
+      "text": "The Never Exceed Airspeed (VNE) and Maximum Structural Cruising Speed (VC) must be reduced by 30%."
+    },
+    {
+      "id": "e666",
+      "type": "paragraph",
+      "page": 24,
+      "text": "Forward and aft center of gravity limits may not be exceeded."
+    },
+    {
+      "id": "e667",
+      "type": "paragraph",
+      "page": 24,
+      "text": "Structural load factors of +2.5 g. to -1.0 g. may not be exceeded."
+    },
+    {
+      "id": "e668",
+      "type": "paragraph",
+      "page": 24,
+      "text": "Requirements for any additional oil should established in accordance with AC 23.1011-1. Increased stall speeds and reduced climb performance should be expected for the increased weights. Flight characteristics and performance at the increased weights have not been evaluated. Flight Permit for operations of overweight aircraft may be found in AC 21-4B."
+    },
+    {
+      "id": "e669",
+      "type": "paragraph",
+      "page": 24,
+      "text": "In addition to the placards specified above, the prescribed operating limitations indicated by an asterisk (*) under Sections I through X of this data sheet must also be displayed by permanent markings."
+    },
+    {
+      "id": "e670",
+      "type": "page_header",
+      "page": 25,
+      "text": "Rev. 89"
+    },
+    {
+      "id": "e671",
+      "type": "page_header",
+      "page": 25,
+      "text": "25"
+    },
+    {
+      "id": "e672",
+      "type": "page_header",
+      "page": 25,
+      "text": "3A12"
+    },
+    {
+      "id": "e673",
+      "type": "heading",
+      "page": 25,
+      "text": "XI. Model 172R, Skyhawk, 4 PCLM (Normal Category), 2 PCLM (Utility Category), Approved June 21, 1996",
+      "level": 2
+    },
+    {
+      "id": "e674",
+      "type": "paragraph",
+      "page": 25,
+      "text": "Engine"
+    },
+    {
+      "id": "e675",
+      "type": "paragraph",
+      "page": 25,
+      "text": "Fuel Lycoming IO-360-L2A, Rated 160 Horsepower When modified by Cessna Modification Kit MK172-72-01 (See NOTE 4) Lycoming IO-360-L2A, Rated 180 Horsepower"
+    },
+    {
+      "id": "e676",
+      "type": "paragraph",
+      "page": 25,
+      "text": "100/100LL minimum grade aviation gasoline"
+    },
+    {
+      "id": "e677",
+      "type": "paragraph",
+      "page": 25,
+      "text": "Engine Limits For all operations, 2,400 RPM"
+    },
+    {
+      "id": "e678",
+      "type": "paragraph",
+      "page": 25,
+      "text": "When modified by Cessna Modification Kit MK172-72-01 (See NOTE 4) For all operations, 2,700 RPM"
+    },
+    {
+      "id": "e679",
+      "type": "paragraph",
+      "page": 25,
+      "text": "McCauley Propeller"
+    },
+    {
+      "id": "e680",
+      "type": "paragraph",
+      "page": 25,
+      "text": "Hub"
+    },
+    {
+      "id": "e681",
+      "type": "paragraph",
+      "page": 25,
+      "text": "1C235/LFA7570"
+    },
+    {
+      "id": "e682",
+      "type": "paragraph",
+      "page": 25,
+      "text": "Static rpm at full throttle setting:"
+    },
+    {
+      "id": "e683",
+      "type": "paragraph",
+      "page": 25,
+      "text": "Not over 2,165; not under 2,065."
+    },
+    {
+      "id": "e684",
+      "type": "paragraph",
+      "page": 25,
+      "text": "No additional tolerance permitted."
+    },
+    {
+      "id": "e685",
+      "type": "paragraph",
+      "page": 25,
+      "text": "Diameter: Not over 75 in., not under 74 in."
+    },
+    {
+      "id": "e686",
+      "type": "paragraph",
+      "page": 25,
+      "text": "Spinner: Dwg. 0550236"
+    },
+    {
+      "id": "e687",
+      "type": "paragraph",
+      "page": 25,
+      "text": "When modified by Cessna Modification Kit MK172-72-01 (See NOTE 4)"
+    },
+    {
+      "id": "e688",
+      "type": "paragraph",
+      "page": 25,
+      "text": "McCauley Propeller"
+    },
+    {
+      "id": "e689",
+      "type": "paragraph",
+      "page": 25,
+      "text": "Hub"
+    },
+    {
+      "id": "e690",
+      "type": "paragraph",
+      "page": 25,
+      "text": "1A170E/JHA7660"
+    },
+    {
+      "id": "e691",
+      "type": "paragraph",
+      "page": 25,
+      "text": "Static rpm at full throttle setting:"
+    },
+    {
+      "id": "e692",
+      "type": "paragraph",
+      "page": 25,
+      "text": "Not over 2,400; not under 2,300."
+    },
+    {
+      "id": "e693",
+      "type": "paragraph",
+      "page": 25,
+      "text": "No additional tolerance permitted."
+    },
+    {
+      "id": "e694",
+      "type": "paragraph",
+      "page": 25,
+      "text": "Diameter: Not over 76 in., not under 75 in."
+    },
+    {
+      "id": "e695",
+      "type": "paragraph",
+      "page": 25,
+      "text": "Spinner: Dwg. 0550236"
+    },
+    {
+      "id": "e696",
+      "type": "paragraph",
+      "page": 25,
+      "text": "Propeller and Propeller Limits"
+    },
+    {
+      "id": "e697",
+      "type": "paragraph",
+      "page": 25,
+      "text": "Airspeed Limits Maneuvering"
+    },
+    {
+      "id": "e698",
+      "type": "paragraph",
+      "page": 25,
+      "text": "99 Knots IAS ( 97 Knots CAS)"
+    },
+    {
+      "id": "e699",
+      "type": "paragraph",
+      "page": 25,
+      "text": "C.G. Range Max Structural Cruising"
+    },
+    {
+      "id": "e700",
+      "type": "paragraph",
+      "page": 25,
+      "text": "129 Knots IAS (126 Knots CAS)"
+    },
+    {
+      "id": "e701",
+      "type": "paragraph",
+      "page": 25,
+      "text": "Never Exceed 163 Knots IAS (160 Knots CAS)"
+    },
+    {
+      "id": "e702",
+      "type": "paragraph",
+      "page": 25,
+      "text": "Flaps Extended"
+    },
+    {
+      "id": "e703",
+      "type": "paragraph",
+      "page": 25,
+      "text": "85 Knots IAS ( 84 Knots CAS)"
+    },
+    {
+      "id": "e704",
+      "type": "paragraph",
+      "page": 25,
+      "text": "When modified by Cessna Modification Kit MK172-72-01 (See NOTE 4)"
+    },
+    {
+      "id": "e705",
+      "type": "paragraph",
+      "page": 25,
+      "text": "Maneuvering"
+    },
+    {
+      "id": "e706",
+      "type": "paragraph",
+      "page": 25,
+      "text": "105 Knots IAS (102 Knots CAS)"
+    },
+    {
+      "id": "e707",
+      "type": "paragraph",
+      "page": 25,
+      "text": "Max Structural Cruising 129 Knots IAS (126 Knots CAS)"
+    },
+    {
+      "id": "e708",
+      "type": "paragraph",
+      "page": 25,
+      "text": "Never Exceed 163 Knots IAS (160 Knots CAS)"
+    },
+    {
+      "id": "e709",
+      "type": "paragraph",
+      "page": 25,
+      "text": "Flaps Extended"
+    },
+    {
+      "id": "e710",
+      "type": "paragraph",
+      "page": 25,
+      "text": "85 Knots IAS ( 84 Knots CAS)"
+    },
+    {
+      "id": "e711",
+      "type": "paragraph",
+      "page": 25,
+      "text": "When using POH/AFM 172RPHUS-00, or later FAA approved revision, or POH/AFM 172RPHAUS-00 thru -03, or later FAA approved revision"
+    },
+    {
+      "id": "e712",
+      "type": "paragraph",
+      "page": 25,
+      "text": "Normal Category"
+    },
+    {
+      "id": "e713",
+      "type": "paragraph",
+      "page": 25,
+      "text": "Aft Limits"
+    },
+    {
+      "id": "e714",
+      "type": "paragraph",
+      "page": 25,
+      "text": "47.3 inches aft of datum at 2,450 pounds or less."
+    },
+    {
+      "id": "e715",
+      "type": "paragraph",
+      "page": 25,
+      "text": "Forward Limits Linear variation from 40.0 inches aft of datum at 2,450 lb."
+    },
+    {
+      "id": "e716",
+      "type": "paragraph",
+      "page": 25,
+      "text": "to 35.0 inches aft of datum at 1,950 lb.;"
+    },
+    {
+      "id": "e717",
+      "type": "paragraph",
+      "page": 25,
+      "text": "35.0 inches aft of datum at 1,950 lb. or less."
+    },
+    {
+      "id": "e718",
+      "type": "paragraph",
+      "page": 25,
+      "text": "Utility Category"
+    },
+    {
+      "id": "e719",
+      "type": "paragraph",
+      "page": 25,
+      "text": "Aft Limits"
+    },
+    {
+      "id": "e720",
+      "type": "paragraph",
+      "page": 25,
+      "text": "40.5 inches aft of datum at 2,100 lb. or less."
+    },
+    {
+      "id": "e721",
+      "type": "paragraph",
+      "page": 25,
+      "text": "Forward Limits Linear variation from 36.5 inches aft of datum at 2,100 lb."
+    },
+    {
+      "id": "e722",
+      "type": "paragraph",
+      "page": 25,
+      "text": "to 35.0 inches aft of datum at 1,950 lb.;"
+    },
+    {
+      "id": "e723",
+      "type": "paragraph",
+      "page": 25,
+      "text": "35.0 inches aft of datum at 1,950 lb. or less."
+    },
+    {
+      "id": "e724",
+      "type": "page_header",
+      "page": 26,
+      "text": "3A12"
+    },
+    {
+      "id": "e725",
+      "type": "page_header",
+      "page": 26,
+      "text": "26"
+    },
+    {
+      "id": "e726",
+      "type": "page_header",
+      "page": 26,
+      "text": "Rev. 89"
+    },
+    {
+      "id": "e727",
+      "type": "heading",
+      "page": 26,
+      "text": "XI. Model 172R (cont'd)",
+      "level": 2
+    },
+    {
+      "id": "e728",
+      "type": "paragraph",
+      "page": 26,
+      "text": "C.G. Range (cont'd)"
+    },
+    {
+      "id": "e729",
+      "type": "paragraph",
+      "page": 26,
+      "text": "Empty Wt. C.G. Range When Using POH/AFM 172RPHAUS-04, or later FAA approved revision, or POH/AFM 172RPHBUS-00, or later FAA approved revision Normal Category"
+    },
+    {
+      "id": "e730",
+      "type": "paragraph",
+      "page": 26,
+      "text": "Aft Limits"
+    },
+    {
+      "id": "e731",
+      "type": "paragraph",
+      "page": 26,
+      "text": "Forward Limits"
+    },
+    {
+      "id": "e732",
+      "type": "paragraph",
+      "page": 26,
+      "text": "Utility Category"
+    },
+    {
+      "id": "e733",
+      "type": "paragraph",
+      "page": 26,
+      "text": "Aft Limits"
+    },
+    {
+      "id": "e734",
+      "type": "paragraph",
+      "page": 26,
+      "text": "Forward Limits"
+    },
+    {
+      "id": "e735",
+      "type": "paragraph",
+      "page": 26,
+      "text": "47.3 inches aft of datum at 2,450 pounds or less. Linear variation from 40.0 inches aft of datum at 2,450 lb. to 35.0 inches aft of datum at 1,950 lb.; 35.0 inches aft of datum at 1,950 lb. or less."
+    },
+    {
+      "id": "e736",
+      "type": "paragraph",
+      "page": 26,
+      "text": "40.5 inches aft of datum at 2,200 pounds or less. Linear variation from 37.5 inches aft of datum at 2,200 lb. to 35.0 inches aft of datum at 1,950 lb.; 35.0 inches aft of datum at 1,950 lb. or less."
+    },
+    {
+      "id": "e737",
+      "type": "heading",
+      "page": 26,
+      "text": "When modified by Cessna Modification Kit MK172-72-01 (See NOTE 4)",
+      "level": 2
+    },
+    {
+      "id": "e738",
+      "type": "paragraph",
+      "page": 26,
+      "text": "Normal Category"
+    },
+    {
+      "id": "e739",
+      "type": "paragraph",
+      "page": 26,
+      "text": "Aft Limits"
+    },
+    {
+      "id": "e740",
+      "type": "paragraph",
+      "page": 26,
+      "text": "47.3 inches aft of datum at 2,550 pounds or less."
+    },
+    {
+      "id": "e741",
+      "type": "paragraph",
+      "page": 26,
+      "text": "Forward Limits"
+    },
+    {
+      "id": "e742",
+      "type": "paragraph",
+      "page": 26,
+      "text": "Utility Category"
+    },
+    {
+      "id": "e743",
+      "type": "paragraph",
+      "page": 26,
+      "text": "Aft Limits"
+    },
+    {
+      "id": "e744",
+      "type": "paragraph",
+      "page": 26,
+      "text": "Linear variation from 41.0 inches aft of datum at 2,550 lb. to 35.0 inches aft of datum at 1,950 lb.; 35.0 inches aft of datum at 1,950 lb. or less."
+    },
+    {
+      "id": "e745",
+      "type": "paragraph",
+      "page": 26,
+      "text": "40.5 inches aft of datum at 2,200 pounds or less."
+    },
+    {
+      "id": "e746",
+      "type": "paragraph",
+      "page": 26,
+      "text": "Forward Limits"
+    },
+    {
+      "id": "e747",
+      "type": "paragraph",
+      "page": 26,
+      "text": "None"
+    },
+    {
+      "id": "e748",
+      "type": "paragraph",
+      "page": 26,
+      "text": "Reference Datum Lower portion of front face of firewall"
+    },
+    {
+      "id": "e749",
+      "type": "paragraph",
+      "page": 26,
+      "text": "MAC"
+    },
+    {
+      "id": "e750",
+      "type": "paragraph",
+      "page": 26,
+      "text": "58.8 inches; Leading edge of MAC 25.9 inches aft of datum"
+    },
+    {
+      "id": "e751",
+      "type": "paragraph",
+      "page": 26,
+      "text": "Leveling Means Left side of Tailcone at 108.0 inches and 142.0 inches aft of datum"
+    },
+    {
+      "id": "e752",
+      "type": "paragraph",
+      "page": 26,
+      "text": "Maximum Weights When using POH/AFM 172RPHUS-00, or later FAA approved revision, or POH/AFM 172RPHAUS-00 thru -03 or later FAA approved revision Normal Category Maximum Ramp"
+    },
+    {
+      "id": "e753",
+      "type": "paragraph",
+      "page": 26,
+      "text": "2,457 lb."
+    },
+    {
+      "id": "e754",
+      "type": "paragraph",
+      "page": 26,
+      "text": "Maximum Takeoff and Landing"
+    },
+    {
+      "id": "e755",
+      "type": "paragraph",
+      "page": 26,
+      "text": "2,450 lb."
+    },
+    {
+      "id": "e756",
+      "type": "paragraph",
+      "page": 26,
+      "text": "Utility Category"
+    },
+    {
+      "id": "e757",
+      "type": "paragraph",
+      "page": 26,
+      "text": "Maximum Ramp"
+    },
+    {
+      "id": "e758",
+      "type": "paragraph",
+      "page": 26,
+      "text": "2,107 lb."
+    },
+    {
+      "id": "e759",
+      "type": "paragraph",
+      "page": 26,
+      "text": "Maximum Takeoff and Landing"
+    },
+    {
+      "id": "e760",
+      "type": "paragraph",
+      "page": 26,
+      "text": "2,100 lb."
+    },
+    {
+      "id": "e761",
+      "type": "paragraph",
+      "page": 26,
+      "text": "When using POH/AFM 172RPHAUS-04, or later FAA approved revision,"
+    },
+    {
+      "id": "e762",
+      "type": "paragraph",
+      "page": 26,
+      "text": "or POH/AFM 172RPHBUS-00, or later FAA approved revision"
+    },
+    {
+      "id": "e763",
+      "type": "paragraph",
+      "page": 26,
+      "text": "Normal Category"
+    },
+    {
+      "id": "e764",
+      "type": "paragraph",
+      "page": 26,
+      "text": "Maximum Ramp"
+    },
+    {
+      "id": "e765",
+      "type": "paragraph",
+      "page": 26,
+      "text": "2,457 lb."
+    },
+    {
+      "id": "e766",
+      "type": "paragraph",
+      "page": 26,
+      "text": "Maximum Takeoff and Landing"
+    },
+    {
+      "id": "e767",
+      "type": "paragraph",
+      "page": 26,
+      "text": "2,450 lb."
+    },
+    {
+      "id": "e768",
+      "type": "paragraph",
+      "page": 26,
+      "text": "Utility Category"
+    },
+    {
+      "id": "e769",
+      "type": "paragraph",
+      "page": 26,
+      "text": "Maximum Ramp"
+    },
+    {
+      "id": "e770",
+      "type": "paragraph",
+      "page": 26,
+      "text": "2,207 lb."
+    },
+    {
+      "id": "e771",
+      "type": "paragraph",
+      "page": 26,
+      "text": "Maximum Takeoff and Landing"
+    },
+    {
+      "id": "e772",
+      "type": "paragraph",
+      "page": 26,
+      "text": "2,200 lb."
+    },
+    {
+      "id": "e773",
+      "type": "paragraph",
+      "page": 26,
+      "text": "Linear variation from 37.5 inches aft of datum at 2,200 lb. to 35.0 inches aft of datum at 1,950 lb.; 35.0 inches aft of datum at 1,950 lb. or less."
+    },
+    {
+      "id": "e774",
+      "type": "page_header",
+      "page": 27,
+      "text": "Rev. 89"
+    },
+    {
+      "id": "e775",
+      "type": "page_header",
+      "page": 27,
+      "text": "27"
+    },
+    {
+      "id": "e776",
+      "type": "page_header",
+      "page": 27,
+      "text": "3A12"
+    },
+    {
+      "id": "e777",
+      "type": "heading",
+      "page": 27,
+      "text": "XI. Model 172R (cont'd)",
+      "level": 2
+    },
+    {
+      "id": "e778",
+      "type": "paragraph",
+      "page": 27,
+      "text": "Maximum Weights (cont'd) When modified by Cessna Modification Kit MK172-72-01 (See NOTE 4) Normal Category Maximum Ramp 2,558 lb. Maximum Takeoff and Landing 2,550 lb. Utility Category Maximum Ramp 2,208 lb. Maximum Takeoff and Landing 2,200 lb. No. of Seats 4 (2 at 34.0 to 46.0 inches aft of datum; 2 at 73.0 inches aft of datum) Maximum Baggage 120 lb. at 95.0 inches aft of datum When modified by Cessna Modification Kit MK172-72-01 (See NOTE 4) 120 lb. at 82.0 to 108.0 inches aft of datum 50 lb. at 108.0 to 142.0 inches aft of datum (Maximum combined weight capacity for baggage areas is 120 lb.) Fuel Capacity (Gal.) 56 gallons total; 53 gallons usable (Two 28-gallon tanks in wings at 48.0 inches aft of datum) (See NOTE 1 for data on unusable fuel) Oil Capacity (Gal.) 2.0 gallons at 13.1 inches forward of datum 3.5 quarts usable When modified by Cessna Modification Kit MK172-72-01 (See NOTE 4) 2.0 gallons at 13.1 inches forward of datum 3.0 quarts usable Control Surface Movements Wing Flaps Takeoff 0º - 10º Landing 0º - 30º + 0°/-2° Ailerons Up 20° ± 1° Down 15° ± 1° Elevator tab Up 22° + 1°/-0° Down 19° + 1°/-0° Elevator Up 28° + 1°/-0° Down 23° + 1°/-0° (Neutral position is with bottom of balance area flush with bottom of stabilizer) Rudder (Measured parallel to W.L.): Right 16° 10'± 1° Left 16° 10' ± 1° Rudder (Measured perpendicular to Hinge): Right 17° 44' ± 1° Left 17° 44' ± 1° Serial Numbers Eligible 17280001 and On"
+    },
+    {
+      "id": "e779",
+      "type": "heading",
+      "page": 27,
+      "text": "Data Pertinent to Model 172R:",
+      "level": 2
+    },
+    {
+      "id": "e780",
+      "type": "heading",
+      "page": 27,
+      "text": "Certification Basis:",
+      "level": 2
+    },
+    {
+      "id": "e781",
+      "type": "paragraph",
+      "page": 27,
+      "text": "FAR Part 23 effective February 1, 1965, as amended by 23-1 through 23-6, except as follows: 23.423, 23.611, 23.619, 23.623, 23.689, 23.775, 23.871, 23.1323, 23.1563 as amended by Amendment 23-7. 23.807, 23.1524 as amended by Amendment 23-10. 23.507, 23.771, 23.853(a)(b)(c), 23.1365 as amended by Amendment 23-14. 23.951 as amended by Amendment 23-15. 23.607, 23.675, 23.685, 23.733, 23.787, 23.1309, 23.1322 as amended by Amendment 23-17. 23.1301 as amended by Amendment 23-20. 23.1353, 23.1559 as amended by Amendment 23-21. 23.603, 23.605, 23.613, 23.1329, 23.1545 as amended by Amendment 23-23. 23.441, 23.1549 as amended by Amendment 23-28. 23.779, 23.781 as amended by Amendment 23-33. 23.1, 23.51, 23.561 as amended by Amendment 23-34. 23.301, 23.331, 23.351, 23.427, 23.677, 23.701, 23.735, 23.831 as amended by Amendment 23-42. 23.961, 23.1093; 23.1143(g), 23.1147(b), 23.1303, 23.1357, 23.1361, 23.1385 as amended by Amendment 23-43. 23.562(a), 23.562(b)(2), 23.562(c)(1), 23.562(c)(2), 23.562(c)(3), 23.562(c)(4) as amended by Amendment 23-44. 23.33, 23.53, 23.305, 23.321, 23.485, 23.621, 23.655, 23.731 as amended by Amendment 23-45."
+    },
+    {
+      "id": "e782",
+      "type": "paragraph",
+      "page": 27,
+      "text": "FAR 36 dated December 1, 1969, as amended by Amendments 36-1 through 36-21."
+    },
+    {
+      "id": "e783",
+      "type": "page_header",
+      "page": 28,
+      "text": "3A12"
+    },
+    {
+      "id": "e784",
+      "type": "page_header",
+      "page": 28,
+      "text": "28"
+    },
+    {
+      "id": "e785",
+      "type": "page_header",
+      "page": 28,
+      "text": "Rev. 89"
+    },
+    {
+      "id": "e786",
+      "type": "heading",
+      "page": 28,
+      "text": "Data Pertinent to Model 172R (cont'd)",
+      "level": 2
+    },
+    {
+      "id": "e787",
+      "type": "heading",
+      "page": 28,
+      "text": "Certification Basis (cont'd):",
+      "level": 2
+    },
+    {
+      "id": "e788",
+      "type": "paragraph",
+      "page": 28,
+      "text": "Additions for the Garmin G1000 Integrated Cockpit System (ICS) Only:"
+    },
+    {
+      "id": "e789",
+      "type": "paragraph",
+      "page": 28,
+      "text": "14 CFR 23.303, 23.307, 23.601, 23.1163(a), 23.1367, 23.1381 as amended by Amendment 23- N/C. 23.1589 as amended by"
+    },
+    {
+      "id": "e790",
+      "type": "paragraph",
+      "page": 28,
+      "text": "Amendment 23-13. 23.771(a) as amended by Amendment 23-14. 23.607 and (Electrical System) 23.1309(a)(1)(2)(c) as amended by Amendment 23-17. 23.1301, 23.1327, 23.1547(e) as amended by Amendment 23-20. 23.1501, 23.1541(a)(1)(2)(b)(1)(2) as amended by Amendment 23-21. 23.603, 23.605 as amended by Amendment 23-23. 23.1529 as amended by Amendment 23-26. 23.561(e), 23.1523, 23.1581(a)(2), 23.1583(a)(c)(d)(f), 23.1585(a)(b)(d) as amended by Amendment 23-34. 23.301 as amended by Amendment 23-42. 23.1322, 23.1331, 23.1357(a)(b)(c)(d) as amended by Amendment 23-43. 23.305, 23.773(a)(1)(2), 23.1525, 23.1549 as amended by Amendment 23-45. 23.1303(a)(b)(c)(f), 23.1309(a)(1)(i)(ii)(2)(b)(1)(2)(i)(ii)(3)(4)(i)(ii)(iii)(iv)(c)(1)(2)(iii)(3)(d)(e)(f)(1), 23.1311, 23.1321(a)(c)(d)(e), 23.1323(a)(b)(1)(2)(c); 23.1329(g)(h), 23.1351(a)(1)(2)(i)(b)(1)(iii)(2)(3)(c)(4)(d)(1), 23.1353(a)(b)(c)(d)(e), 23.1359(c), 23.1361; 23.1365(a)(b)(d)(e)(f), 23.1431(a)(b)(d)(e) as amended by Amendment 23-49. 23.1325(a)(b)(1)(2)(i)(3)(c)(d)(e), 23.1543(b)(c), 23.1545(a)(b)(1)(2)(3)(4), 23.1553, 23.1555(a)(b), 23.1563(a), 23.1567(a) as amended by Amendment 23-50. 23.777(a)(b), 23.955(a)(2), 23.1337(a)(1)(2)(b)(1)(c) as amended by Amendment 23-51. 23.1305(a)(1)(2)(3)(b)(2)(3)(i) (4)(i)(5)(6)(i) as amended by Amendment 23-52. 23.901(a)(b) as amended by Amendment 23-53."
+    },
+    {
+      "id": "e791",
+      "type": "paragraph",
+      "page": 28,
+      "text": "Additions for the Garmin GFC-700 Automatic Flight Control System (AFCS) only:"
+    },
+    {
+      "id": "e792",
+      "type": "paragraph",
+      "page": 28,
+      "text": "14 CFR 23.1335 as amended by Amendment 23-20, 23.1329(a)(c)(d)(e)(f) as amended by Amendment 23-49."
+    },
+    {
+      "id": "e793",
+      "type": "heading",
+      "page": 28,
+      "text": "Equivalent Safety Items",
+      "level": 2
+    },
+    {
+      "id": "e794",
+      "type": "table",
+      "header": null,
+      "rows": [
+        [
+          "1.",
+          "Induction System Icing Protection",
+          "23.1093, refer to FAA letter dated 5/3/1996"
+        ],
+        [
+          "2.",
+          "Throttle Control",
+          "23.1143(g), refer to FAA letter dated 3/22/1996"
+        ],
+        [
+          "3.",
+          "Mixture Control",
+          "23.1147(b), refer to FAA letter dated 3/22/1996"
+        ],
+        [
+          "4.",
+          "Anti-Collision Light System",
+          "23.1401(d), refer to ACE-07-09, FAA letter dated 10/12/2007"
+        ],
+        [
+          "5.",
+          "Aviation White Color Requirement",
+          "23.1397(c), refer to ACE-07-10, FAA letter dated 11/29/2007"
+        ]
+      ],
+      "page": 28
+    },
+    {
+      "id": "e795",
+      "type": "paragraph",
+      "page": 28,
+      "text": "Date of Application for Amended Type Certificate was September 25, 1995."
+    },
+    {
+      "id": "e796",
+      "type": "paragraph",
+      "page": 28,
+      "text": "Type Certificate No. 3A12 was amended June 21, 1996."
+    },
+    {
+      "id": "e797",
+      "type": "heading",
+      "page": 28,
+      "text": "Special Conditions as follows:",
+      "level": 2
+    },
+    {
+      "id": "e798",
+      "type": "paragraph",
+      "page": 28,
+      "text": "No. 23-159-SC, \"Cessna Aircraft Company, Cessna Model 172R; Installation of Electronic Flight Instrument System and the Protection of the System from High Intensity Radiated Fields (HIRF)\"."
+    },
+    {
+      "id": "e799",
+      "type": "heading",
+      "page": 28,
+      "text": "Production Basis",
+      "level": 2
+    },
+    {
+      "id": "e800",
+      "type": "paragraph",
+      "page": 28,
+      "text": "Production Certificate No. PC-4 issued March 28, 1997. Applies to S/N 17280014, 17280015, 17280017, 17280021 thru 17280029, 17280031 and On. Airplane serial numbers not listed were produced under Type Certificate only. Cessna is authorized to issue airworthiness certificates under the delegation provisions of Delegation Option Authorization No. CE-1 in accordance with Part 21 of the FAR."
+    },
+    {
+      "id": "e801",
+      "type": "heading",
+      "page": 28,
+      "text": "Equipment",
+      "level": 2
+    },
+    {
+      "id": "e802",
+      "type": "paragraph",
+      "page": 28,
+      "text": "The basic required equipment as prescribed in the applicable airworthiness regulations (see Certification Basis) must be installed in the airplane for certification."
+    },
+    {
+      "id": "e803",
+      "type": "paragraph",
+      "page": 28,
+      "text": "NOTE 1: Weight and Balance:"
+    },
+    {
+      "id": "e804",
+      "type": "paragraph",
+      "page": 28,
+      "text": "S/N 17280001 and On The certificated empty weight and corresponding center of gravity location must include unusable fuel of 18 lb. at 46.0 inches aft of datum, and full oil of 15.0 lb. at 13.1 inches forward of datum."
+    },
+    {
+      "id": "e805",
+      "type": "page_header",
+      "page": 29,
+      "text": "Rev. 89"
+    },
+    {
+      "id": "e806",
+      "type": "page_header",
+      "page": 29,
+      "text": "29"
+    },
+    {
+      "id": "e807",
+      "type": "page_header",
+      "page": 29,
+      "text": "3A12"
+    },
+    {
+      "id": "e808",
+      "type": "heading",
+      "page": 29,
+      "text": "Data Pertinent to Model 172R (cont'd)",
+      "level": 2
+    },
+    {
+      "id": "e809",
+      "type": "paragraph",
+      "page": 29,
+      "text": "NOTE 2: The airplane must be operated according to the appropriate Pilot's Operating Handbook and FAA Approved Airplane Flight Manual (POH/AFM). POH/AFM P/N 172RPHUS00, or later FAA approved revision, is applicable to Production Model 172R. POH/AFM P/N 172R180PH00, or later FAA approved revision, is applicable to Production Model 172R airplanes when modified by Cessna Modification Kit MK172-72-01. All POH/AFM Supplements approved for P/N number 172RPHUS00, are also applicable to P/N 172R180PH00, unless specifically noted otherwise in the Supplement. All FAA required placards are included in Section 2 of the applicable POH/AFM, the applicable operating rules, or the certification basis must be installed as specified via the parts list for 0500530, Airplane Assembly (useful placarding reference is the Textron Aviation Illustrated Parts Catalogue (IPC). Any discrepancies identified between the IPC and an aircraft under inspection need to be reconciled using the previously stated parts list)."
+    },
+    {
+      "id": "e810",
+      "type": "paragraph",
+      "page": 29,
+      "text": "FAA Approved AFM: P/N 172RPHAUS-00, or later FAA approved revision, is applicable to the Model 172R equipped with Garmin G1000 Integrated Cockpit System. The airplane must be operated according to the appropriate AFM. Required placards are included in the AFM, the applicable operating rules, or the certification basis must be installed as specified via the parts list for 0500530, Airplane Assembly (useful placarding reference is the Textron Aviation IPC. Any discrepancies identified between the IPC and an aircraft under inspection need to be reconciled using the previously stated parts list)."
+    },
+    {
+      "id": "e811",
+      "type": "paragraph",
+      "page": 29,
+      "text": "FAA Approved AFM: P/N 172RPHBUS-00, or later FAA approved revision, are applicable to the Model 172R equipped with Garmin G1000 Integrated Cockpit System and Garmin GFC-700 AFCS. The airplane must be operated according to the appropriate AFM. Required placards are included in the AFM, the applicable operating rules, or the certification basis must be installed as specified via the parts list for 0500530, Airplane Assembly (useful placarding reference is the Textron Aviation IPC. Any discrepancies identified between the IPC and an aircraft under inspection need to be reconciled using the previously stated parts list)."
+    },
+    {
+      "id": "e812",
+      "type": "paragraph",
+      "page": 29,
+      "text": "NOTE 3: Special Ferry Flight Authorization. FSDO is authorized to issue special overweight ferry flight authorizations. This airplane is structurally satisfactory for ferry flight if maintained within the following limits:"
+    },
+    {
+      "id": "e813",
+      "type": "paragraph",
+      "page": 29,
+      "text": "Takeoff weight must not exceed 130% of the maximum weight for Normal Category."
+    },
+    {
+      "id": "e814",
+      "type": "paragraph",
+      "page": 29,
+      "text": "The Never Exceed Airspeed (VNE) and Maximum Structural Cruising Speed (VC) must be reduced by 30%."
+    },
+    {
+      "id": "e815",
+      "type": "paragraph",
+      "page": 29,
+      "text": "Forward and aft center of gravity limits may not be exceeded."
+    },
+    {
+      "id": "e816",
+      "type": "paragraph",
+      "page": 29,
+      "text": "Structural load factors of +2.5 g. to -1.0 g. may not be exceeded."
+    },
+    {
+      "id": "e817",
+      "type": "paragraph",
+      "page": 29,
+      "text": "Requirements for any additional oil should be established in accordance with AC 23.1011-1. Increased stall speeds and reduced climb performance should be expected for the increased weights. Flight characteristics and performance at the increased weights have not been evaluated. Flight Permit for operations of overweight aircraft may be found in AC 21-4B."
+    },
+    {
+      "id": "e818",
+      "type": "paragraph",
+      "page": 29,
+      "text": "NOTE 4: Only certain Model 172R airplane serial numbers are eligible for modification by Cessna Modification Kit MK172-72-01. Applicable serial numbers are as follows:"
+    },
+    {
+      "id": "e819",
+      "type": "table",
+      "header": null,
+      "rows": [
+        [
+          "17280159",
+          "17280242",
+          "17280251",
+          "17280253",
+          "17280257"
+        ],
+        [
+          "17280262",
+          "17280281",
+          "17280292",
+          "17280301",
+          "17280305"
+        ],
+        [
+          "17280426",
+          "17280488",
+          "17280606",
+          "17280607",
+          "17280608"
+        ],
+        [
+          "17280609",
+          "17280610",
+          "17280613",
+          "17280614",
+          "17280616"
+        ],
+        [
+          "17280621",
+          "17280622",
+          "17280623",
+          "17280624",
+          "17280631"
+        ],
+        [
+          "17280632",
+          "17280633",
+          "17280634",
+          "17280638",
+          "17280639"
+        ],
+        [
+          "17280640",
+          "17280646",
+          "17280647",
+          "17280648",
+          "17280652"
+        ],
+        [
+          "17280653",
+          "17280659",
+          "17280660",
+          "17280661",
+          "17280662"
+        ],
+        [
+          "17280664",
+          "17280667",
+          "17280668",
+          "17280669",
+          "17280670"
+        ],
+        [
+          "17280672 17280707",
+          "17280673",
+          "17280674",
+          "17280675",
+          "17280701"
+        ]
+      ],
+      "page": 29
+    },
+    {
+      "id": "e820",
+      "type": "paragraph",
+      "page": 29,
+      "text": "NOTE 5: The following serial numbers are manufactured under the name Cessna Aircraft Company: 17280001 thru 17281622."
+    },
+    {
+      "id": "e821",
+      "type": "paragraph",
+      "page": 29,
+      "text": "NOTE 6: Company name change effective 7/29/2015. The following serial numbers are manufactured under the name Textron Aviation Inc.: 17281623 and On."
+    },
+    {
+      "id": "e822",
+      "type": "page_header",
+      "page": 30,
+      "text": "3A12"
+    },
+    {
+      "id": "e823",
+      "type": "page_header",
+      "page": 30,
+      "text": "30"
+    },
+    {
+      "id": "e824",
+      "type": "page_header",
+      "page": 30,
+      "text": "Rev. 89"
+    },
+    {
+      "id": "e825",
+      "type": "heading",
+      "page": 30,
+      "text": "XII. Model 172S, Skyhawk SP, 4 PCLM (Normal Category), 2 PCLM (Utility Category), Approved May 1, 1998",
+      "level": 2
+    },
+    {
+      "id": "e826",
+      "type": "paragraph",
+      "page": 30,
+      "text": "Engine Lycoming IO-360-L2A, Rated 180 Horsepower"
+    },
+    {
+      "id": "e827",
+      "type": "paragraph",
+      "page": 30,
+      "text": "Fuel 100/100LL minimum grade aviation gasoline"
+    },
+    {
+      "id": "e828",
+      "type": "paragraph",
+      "page": 30,
+      "text": "Engine Limits For all operations, 2,700 RPM"
+    },
+    {
+      "id": "e829",
+      "type": "paragraph",
+      "page": 30,
+      "text": "Propeller and 1. McCauley Propeller Propeller Limits Hub 1A170E/JHA7660 Static rpm at full throttle setting: Not over 2400; not under 2300. No additional tolerance permitted. Diameter: Not over 76 in., not under 75 in. Spinner: Dwg. 0550236"
+    },
+    {
+      "id": "e830",
+      "type": "paragraph",
+      "page": 30,
+      "text": "Airspeed Limits Maneuvering 105 Knots IAS (102 Knots CAS) Max Structural Cruising 129 Knots IAS (126 Knots CAS) Never Exceed 163 Knots IAS (160 Knots CAS) Flaps Extended 85 Knots IAS ( 85 Knots CAS)"
+    },
+    {
+      "id": "e831",
+      "type": "paragraph",
+      "page": 30,
+      "text": "C.G. Range Normal Category (1) Aft Limits 47.3 inches aft of datum at 2,550 pounds or less. (2) Forward Limits Linear variation from 41.0 inches aft of datum at 2,550 pounds to 35.0 inches aft of datum at 1,950 pounds. 35.0 inches aft of datum at 1,950 pounds or less."
+    },
+    {
+      "id": "e832",
+      "type": "paragraph",
+      "page": 30,
+      "text": "Utility Category (1) Aft Limits 40.5 inches aft of datum at 2,200 pounds or less. (2) Forward Limits Linear variation from 37.5 inches aft of datum at 2,200 pounds to 35.0 inches aft of datum at 1,950 pounds. 35.0 inches aft of datum at 1,950 pounds or less."
+    },
+    {
+      "id": "e833",
+      "type": "paragraph",
+      "page": 30,
+      "text": "Empty Wt. C.G. Range None"
+    },
+    {
+      "id": "e834",
+      "type": "paragraph",
+      "page": 30,
+      "text": "Reference Datum Lower portion of front face of firewall"
+    },
+    {
+      "id": "e835",
+      "type": "paragraph",
+      "page": 30,
+      "text": "MAC 58.8 inches; Leading edge of MAC 25.9 inches aft of datum"
+    },
+    {
+      "id": "e836",
+      "type": "paragraph",
+      "page": 30,
+      "text": "Leveling Means Left side of Tailcone at 108.0 inches and 142.0 inches aft of datum"
+    },
+    {
+      "id": "e837",
+      "type": "paragraph",
+      "page": 30,
+      "text": "Maximum Weights Normal Category Maximum Ramp 2,558 lb. Maximum Takeoff and Landing 2,550 lb."
+    },
+    {
+      "id": "e838",
+      "type": "paragraph",
+      "page": 30,
+      "text": "Utility Category Maximum Ramp 2,208 lb. Maximum Takeoff and Landing 2,200 lb."
+    },
+    {
+      "id": "e839",
+      "type": "paragraph",
+      "page": 30,
+      "text": "No. of Seats 4 (2 at 34.0 to 46.0 inches aft of datum; 2 at 73.0 inches aft of datum)"
+    },
+    {
+      "id": "e840",
+      "type": "paragraph",
+      "page": 30,
+      "text": "Maximum Baggage 120 lb. at 82.0 to 108.0 inches aft of datum 50 lb. at 108.0 to 142.0 inches aft of datum (Max. combined weight capacity for baggage areas is 120 pounds)"
+    },
+    {
+      "id": "e841",
+      "type": "paragraph",
+      "page": 30,
+      "text": "Fuel Capacity (Gal.) 56 gallons total; 53 gallons usable (two 28-gallon tanks in wings at 48.0 inches aft of datum). (See NOTE 1 for data on unusable fuel)."
+    },
+    {
+      "id": "e842",
+      "type": "paragraph",
+      "page": 30,
+      "text": "Oil Capacity (Gal.) 8.0 quarts at 13.1 inches forward of datum 3.0 quarts usable"
+    },
+    {
+      "id": "e843",
+      "type": "page_header",
+      "page": 31,
+      "text": "Rev. 89"
+    },
+    {
+      "id": "e844",
+      "type": "page_header",
+      "page": 31,
+      "text": "31"
+    },
+    {
+      "id": "e845",
+      "type": "page_header",
+      "page": 31,
+      "text": "3A12"
+    },
+    {
+      "id": "e846",
+      "type": "heading",
+      "page": 31,
+      "text": "XII. Model 172S (cont'd)",
+      "level": 2
+    },
+    {
+      "id": "e847",
+      "type": "table",
+      "header": [
+        "Control Surface Movements",
+        "Wing Flaps",
+        "Takeoff",
+        "- 10º",
+        "",
+        "0º",
+        "",
+        "",
+        ""
+      ],
+      "rows": [
+        [
+          "",
+          "",
+          "",
+          "- 30º",
+          "Landing",
+          "0º",
+          "+",
+          "0°/-2°",
+          ""
+        ],
+        [
+          "",
+          "Ailerons",
+          "Up",
+          "",
+          "20° ± 1°",
+          "Down",
+          "",
+          "15° ± 1°",
+          ""
+        ],
+        [
+          "",
+          "Elevator tab",
+          "Up",
+          "",
+          "22° + 1°/-0°",
+          "Down",
+          "",
+          "19° + 1°/-0°",
+          ""
+        ],
+        [
+          "",
+          "Elevator",
+          "28°",
+          "Up",
+          "+ 1°/-0°",
+          "Down",
+          "23° +",
+          "",
+          "1°/-0°"
+        ],
+        [
+          "",
+          "(Neutral position is with bottom of balance area flush with bottom of stabilizer)",
+          "(Neutral position is with bottom of balance area flush with bottom of stabilizer)",
+          "(Neutral position is with bottom of balance area flush with bottom of stabilizer)",
+          "(Neutral position is with bottom of balance area flush with bottom of stabilizer)",
+          "(Neutral position is with bottom of balance area flush with bottom of stabilizer)",
+          "(Neutral position is with bottom of balance area flush with bottom of stabilizer)",
+          "(Neutral position is with bottom of balance area flush with bottom of stabilizer)",
+          "(Neutral position is with bottom of balance area flush with bottom of stabilizer)"
+        ],
+        [
+          "",
+          "Rudder (Measured parallel",
+          "to",
+          "",
+          "W.L.):",
+          "Right 16°",
+          "10'± 1°",
+          "Left 16°",
+          "10' ± 1°"
+        ],
+        [
+          "",
+          "Rudder (Measured perpendicular to Hinge:",
+          "Rudder (Measured perpendicular to Hinge:",
+          "Rudder (Measured perpendicular to Hinge:",
+          "Rudder (Measured perpendicular to Hinge:",
+          "Right 17° 44' ± 1° Left",
+          "",
+          "17°",
+          "44' ± 1°"
+        ]
+      ],
+      "page": 31
+    },
+    {
+      "id": "e848",
+      "type": "paragraph",
+      "page": 31,
+      "text": "Serial Numbers Eligible"
+    },
+    {
+      "id": "e849",
+      "type": "paragraph",
+      "page": 31,
+      "text": "172S8001 and On"
+    },
+    {
+      "id": "e850",
+      "type": "heading",
+      "page": 31,
+      "text": "Data Pertinent to Model 172S:",
+      "level": 2
+    },
+    {
+      "id": "e851",
+      "type": "heading",
+      "page": 31,
+      "text": "Certification Basis:",
+      "level": 2
+    },
+    {
+      "id": "e852",
+      "type": "paragraph",
+      "page": 31,
+      "text": "FAR Part 23 effective February 1, 1965, as amended by 23-1 through 23-6, except as follows:"
+    },
+    {
+      "id": "e853",
+      "type": "paragraph",
+      "page": 31,
+      "text": "23.423, 23.611, 23.619, 23.623, 23.689, 23.775, 23.871, 23.1323, 23.1563 as amended by Amendment 23-7. 23.807, 23.1524 as amended by Amendment 23-10. 23.507, 23.771, 23.853(a)(b)(c), 23.1365 as amended by Amendment 23-14. 23.951 as amended by Amendment 23-15. 23.607, 23.675, 23.685, 23.733, 23.787, 23.1309, 23.1322 as amended by Amendment 23-17. 23.1301 as amended by Amendment 23-20. 23.1353, 23.1559 as amended by Amendment 23-21. 23.603, 23.605, 23.613, 23.1329, 23.1545 as amended by Amendment 23-23. 23.441, 23.1549 as amended by Amendment 23-28. 23.779, 23.781 as amended by Amendment 23-33. 23.1, 23.51, 23.561 as amended by Amendment 23-34. 23.301, 23.331, 23.351, 23.427, 23.677; 23.701, 23.735, 23.831 as amended by Amendment 23-42. 23.961, 23.1093, 23.1143(g), 23.1147(b), 23.1303, 23.1357; 23.1361, 23.1385 as amended by Amendment 23-43. 23.562(a), 23.562(b)(2), 23.562(c)(1), 23.562(c)(2), 23.562(c)(3), 23.562(c)(4) as amended by Amendment 23-44. 23.33, 23.53, 23.305, 23.321; 23.485, 23.621, 23.655, 23.731 as amended by Amendment 23-45."
+    },
+    {
+      "id": "e854",
+      "type": "paragraph",
+      "page": 31,
+      "text": "FAR 36 dated December 1, 1969, as amended by Amendments 36-1 through 36-21."
+    },
+    {
+      "id": "e855",
+      "type": "paragraph",
+      "page": 31,
+      "text": "Additions for the Garmin G1000 Integrated Cockpit System (ICS) Only:"
+    },
+    {
+      "id": "e856",
+      "type": "paragraph",
+      "page": 31,
+      "text": "14 CFR 23.303, 23.307, 23.601, 23.1163(a), 23.1367, 23.1381 as amended by Amendment 23- N/C. 23.1589 as amended by Amendment 23-13. 23.771(a) as amended by Amendment 23-14. 23.607 and (Electrical System) 23.1309(a)(1)(2)(c) as amended by Amendment 23-17. 23.1301, 23.1327, 23.1547(e) as amended by Amendment 23-20. 23.1501, 23.1541(a)(1)(2)(b)(1)(2) as amended by Amendment 23-21. 23.603, 23.605 as amended by Amendment 23-23. 23.1529 as amended by Amendment 23-26. 23.561(e), 23.1523, 23.1581(a)(2), 23.1583(a)(c)(d)(f) and 23.1585(a)(b)(d) as amended by Amendment 23-34. 23.301 as amended by Amendment 23-42. 23.1322, 23.1331, 23.1357(a)(b)(c)(d) as amended by Amendment 23-43. 23.305, 23.773(a)(1)(2), 23.1525, 23.1549 as amended by Amendment 23-45. 23.1303(a)(b)(c)(f), 23.1309(a)(1)(i)(ii)(2)(b)(1)(2)(i)(ii)(3)(4)(i)(ii)(iii)(iv)(c)(1)(2)(iii)(c)(3)(d)(e)(f)(1), 23.1311, 23.1321(a)(c)(d)(e), 23.1323(a) (b)(1)(2)(c), 23.1329(g)(h), 23.1351(a)(1)(2)(i)(b)(1)(iii)(2)(3)(c)(4)(d)(1), 23.1353(a)(b)(c)(d)(e), 23.1359(c), 23.1361, 23.1365(a)(b)(d)(e)(f), 23.1431(a)(b)(d)(e) as amended by Amendment 23-49. 23.1325(a)(b)(1)(2)(i)(3)(c)(d)(e), 23.1543(b)(c), 23.1545(a)(b)(1)(2)(3)(4), 23.1553, 23.1555(a)(b), 23.1563(a), 23.1567(a) as amended by Amendment 23-50. 23.777(a)(b), 23.955(a)(2), 23.1337(a)(1)(2)(b)(1)(c) as amended by Amendment 23-51. 23.1305(a)(1)(2)(3)(b)(2)(3)(i)(b)(4)(i)(5)(6)(i) as amended by Amendment 23-52. 23.901(a)(b) as amended by Amendment 23-53."
+    },
+    {
+      "id": "e857",
+      "type": "paragraph",
+      "page": 31,
+      "text": "Additions for the Garmin GFC-700 Automatic Flight Control System (AFCS) only:"
+    },
+    {
+      "id": "e858",
+      "type": "paragraph",
+      "page": 31,
+      "text": "14 CFR 23.1335 as amended by Amendment 23-20. 23.1329(a)(c)(d)(e)(f) as amended by Amendment 23-49."
+    },
+    {
+      "id": "e859",
+      "type": "paragraph",
+      "page": 31,
+      "text": "Additions for the Garmin GI 275 Electronic Flight Instrument Only:"
+    },
+    {
+      "id": "e860",
+      "type": "paragraph",
+      "page": 31,
+      "text": "14 CFR 23.1327 as amended by Amendment 23-20. 23.1501 as amended by Amendment 23-21. 23.1529 as amended by Amendment 23-26. 23.1523(b), 23.1581(a)(1)(2) as amended by Amendment 23-34. 23.1322, 23.1331 as amended by Amendment 23-43. 23.1525 as amended by Amendment 23-45. 23.1303(a)(b)(f), 23.1309(a)(1)(2)(b)(c)(1)(2)(iii)(3)(d)(e)(f), 23.1311(a)(b), 23.1321(a)(c)(d)(e), 23.1323(a)(c), 23.1351(a)(1)(2)(i), 23.1359(c), 23.1365(a)(d)(e), 23.1431 (a)(b) as amended by Amendment 23-49. 23.1325(a)(b)(1)(i)(ii)(iii)(2)(i), 23.1543(b)(c), 23.1545(a)(b)(1)(2)(3)(4), 23.1555(a)(b) as amended by Amendment 23-50. 23.777(a)(b) as amended by Amendment 23-51. 23.1308(a)(b)(c) as amended by Amendment 23-57. 23.1306(a)(b) as amended by Amendment 23-61. 23.2010 and 23.2510 as amended by Amendment 23-64 (see NOTE 6). Effective at S/N 172S12701 and On."
+    },
+    {
+      "id": "e861",
+      "type": "paragraph",
+      "page": 31,
+      "text": "Additions for 14 CFR Part 23 Amendment 64:"
+    },
+    {
+      "id": "e862",
+      "type": "paragraph",
+      "page": 31,
+      "text": "14 CFR 23.2000, 23.2005, 23.2010 as amended by Amendment 23-64 (see NOTE 7). Effective at S/N 172S12701 and On."
+    },
+    {
+      "id": "e863",
+      "type": "page_header",
+      "page": 32,
+      "text": "3A12"
+    },
+    {
+      "id": "e864",
+      "type": "page_header",
+      "page": 32,
+      "text": "32"
+    },
+    {
+      "id": "e865",
+      "type": "page_header",
+      "page": 32,
+      "text": "Rev. 89"
+    },
+    {
+      "id": "e866",
+      "type": "heading",
+      "page": 32,
+      "text": "Data Pertinent to Model 172S: (cont'd)",
+      "level": 2
+    },
+    {
+      "id": "e867",
+      "type": "heading",
+      "page": 32,
+      "text": "Certification Basis (cont'd):",
+      "level": 2
+    },
+    {
+      "id": "e868",
+      "type": "paragraph",
+      "page": 32,
+      "text": "Additions for the Garmin G1000 NXi Integrated Cockpit System Only:"
+    },
+    {
+      "id": "e869",
+      "type": "paragraph",
+      "page": 32,
+      "text": "14 CFR 23.683, 23.867 as amended by Amendment 23-7. 23.613(a)(b) as amended by Amendment 23-45. 23.301(a), 23.337, 23.561(a)(b)(3)(e), 23.607(a)(b), 23.611 as amended by Amendment 23-48. 23.1329(b), 23.1351(g), 23.1353(h), 23.1359(a)(b), as amended by Amendment 23-49. 23.143(c), 23.1555(e)(2), 23.1581(a)(b)(1)(3)(c)(d)(f), 23.1583(h)(m), 23.1585(j) as amended by Amendment 23-50. 23.1337(b)(c) as amended by Amendment 23-51. 23.2515, 23.2520 as amended by Amendment 23-64 (see NOTE 8). Effective at S/N 172S13231 and On."
+    },
+    {
+      "id": "e870",
+      "type": "paragraph",
+      "page": 32,
+      "text": "Additions for the Dual Electronic Ignition System Only:"
+    },
+    {
+      "id": "e871",
+      "type": "paragraph",
+      "page": 32,
+      "text": "14 CFR 23.1309(a)(1)(2), 23.1353(h), 23.1431(b) as amended by Amendment 23-49. 23.1581(a)(2) as amended by Amendment 23-50. 23.901(a)(1)(2)(b)(1)(2) as amended by Amendment 23-53. Effective at S/N 172S13375 and On."
+    },
+    {
+      "id": "e872",
+      "type": "paragraph",
+      "page": 32,
+      "text": "Additions for new or changed non-rechargeable lithium battery installations:"
+    },
+    {
+      "id": "e873",
+      "type": "paragraph",
+      "page": 32,
+      "text": "14 CFR Part 23 regulations as amended by Amendment 23-64 (see NOTE 9): 14 CFR 23.2010 and 23.2325(g). Effective at S/N 172S13689 and On."
+    },
+    {
+      "id": "e874",
+      "type": "paragraph",
+      "page": 32,
+      "text": "Additions for new or changed installations affecting aeronautical security (cybersecurity): 14 CFR Part 23 regulations as amended by Amendment 23-64 (see NOTE 10): 14 CFR 23.2010, 23.2500, 23.2505 and 23.2510. Effective at S/N 172S13689 and On."
+    },
+    {
+      "id": "e875",
+      "type": "heading",
+      "page": 32,
+      "text": "Equivalent Safety Items",
+      "level": 2
+    },
+    {
+      "id": "e876",
+      "type": "table",
+      "header": null,
+      "rows": [
+        [
+          "1.",
+          "Induction System Icing Protection",
+          "23.1093, refer to FAA letter dated 5/1/1998"
+        ],
+        [
+          "2.",
+          "Throttle Control",
+          "23.1143(g), refer to FAA letter dated 5/1/1998"
+        ],
+        [
+          "3.",
+          "Mixture Control",
+          "23.1147(b), refer to FAA letter dated 5/1/1998"
+        ],
+        [
+          "4.",
+          "Anti-Collision Light System",
+          "23.1401(d), refer to ACE-07-09, FAA letter dated 10/12/2007"
+        ],
+        [
+          "5.",
+          "Aviation White Color Requirement",
+          "23.1397(c), refer to ACE-07-10, FAA letter dated 11/29/2007"
+        ]
+      ],
+      "page": 32
+    },
+    {
+      "id": "e877",
+      "type": "paragraph",
+      "page": 32,
+      "text": "Date of Application for Amended Type Certificate for Model 172S was November 13, 1997. Type Certificate No. 3A12 was amended May 1, 1998, for Model 172S."
+    },
+    {
+      "id": "e878",
+      "type": "heading",
+      "page": 32,
+      "text": "Special Conditions as follows:",
+      "level": 2
+    },
+    {
+      "id": "e879",
+      "type": "paragraph",
+      "page": 32,
+      "text": "No. 23-159-SC, \"Cessna Aircraft Company, Cessna Model 172S. Installation of Electronic Flight Instrument System and the Protection of the System from High Intensity Radiated Fields (HIRF).\""
+    },
+    {
+      "id": "e880",
+      "type": "heading",
+      "page": 32,
+      "text": "Production Basis",
+      "level": 2
+    },
+    {
+      "id": "e881",
+      "type": "paragraph",
+      "page": 32,
+      "text": "Production Certificate No. PC-4 issued August 27, 1998. Applies to S/N 172S8003 and On. Airplane serial numbers not listed were produced under Type Certificate only. Cessna is authorized to issue airworthiness certificates under the delegation provisions of Delegation Option Authorization No. CE-1 in accordance with Part 21 of the FAR."
+    },
+    {
+      "id": "e882",
+      "type": "heading",
+      "page": 32,
+      "text": "Equipment",
+      "level": 2
+    },
+    {
+      "id": "e883",
+      "type": "paragraph",
+      "page": 32,
+      "text": "The basic required equipment as prescribed in the applicable airworthiness regulations (see Certification Basis) must be installed in the airplane for certification."
+    },
+    {
+      "id": "e884",
+      "type": "paragraph",
+      "page": 32,
+      "text": "NOTE 1. Weight and Balance:"
+    },
+    {
+      "id": "e885",
+      "type": "paragraph",
+      "page": 32,
+      "text": "S/N 172S8001 and On"
+    },
+    {
+      "id": "e886",
+      "type": "paragraph",
+      "page": 32,
+      "text": "The certificated empty weight and corresponding center of gravity location must include unusable fuel of 18 pounds at 46.0 inches aft of datum, and full oil of 15.0 pounds at 13.1 inches forward of datum."
+    },
+    {
+      "id": "e887",
+      "type": "paragraph",
+      "page": 32,
+      "text": "NOTE 2. POH/AFM: P/N 172SPHUS-00 (or later FAA approved revision) is applicable to the Model 172S. The airplane must be operated according to the appropriate POH/AFM. All FAA required placards are included in Section 2 of the POH/AFM, the applicable operating rules, or the certification basis must be installed as specified via the parts list for 0500531, Airplane Assembly (useful placarding reference is the Textron Aviation IPC. Any discrepancies identified between the IPC and an aircraft under inspection need to be reconciled using the previously stated parts list)."
+    },
+    {
+      "id": "e888",
+      "type": "paragraph",
+      "page": 32,
+      "text": "FAA Approved AFM: P/N 172SPHAUS-00, or later FAA approved revision, is applicable to Model 172S equipped with Garmin G1000 Integrated Cockpit System. The airplane must be operated according to the appropriate AFM. Required placards are included in the AFM, the applicable operating rules, or the certification basis must be installed as specified via the parts list for 0500531, Airplane Assembly (A useful placarding reference is the Textron Aviation IPC. Any discrepancies identified between the IPC and an aircraft under inspection need to be reconciled using the previously stated parts list)."
+    },
+    {
+      "id": "e889",
+      "type": "page_header",
+      "page": 33,
+      "text": "Rev. 89"
+    },
+    {
+      "id": "e890",
+      "type": "page_header",
+      "page": 33,
+      "text": "33"
+    },
+    {
+      "id": "e891",
+      "type": "page_header",
+      "page": 33,
+      "text": "3A12"
+    },
+    {
+      "id": "e892",
+      "type": "heading",
+      "page": 33,
+      "text": "Data Pertinent to Model 172S: (cont'd)",
+      "level": 2
+    },
+    {
+      "id": "e893",
+      "type": "paragraph",
+      "page": 33,
+      "text": "NOTE 2. (cont'd)"
+    },
+    {
+      "id": "e894",
+      "type": "paragraph",
+      "page": 33,
+      "text": "FAA Approved AFM: P/N 172SPHBUS-00, or later FAA approved revision, are applicable to the Model 172S equipped with Garmin G1000 Integrated Cockpit System and Garmin GFC-700 AFCS. The airplane must be operated according to the appropriate AFM. Required placards are included in the AFM, the applicable operating rules, or the certification basis must be installed as specified via the parts list for 0500531, Airplane Assembly (useful placarding reference is the Textron Aviation IPC. Any discrepancies identified between the IPC and an aircraft under inspection need to be reconciled using the previously stated parts list)."
+    },
+    {
+      "id": "e895",
+      "type": "paragraph",
+      "page": 33,
+      "text": "FAA Approved AFM: P/N 172SPHCUS-00, or later FAA approved revision, are applicable to the Model 172S equipped with Garmin G1000 NXi Integrated Cockpit System. The airplane must be operated according to the appropriate AFM. Required placards are included in the AFM, the applicable operating rules, or the certification basis must be installed as specified via the parts list for 0500531, Airplane Assembly (useful placarding reference is the Textron Aviation IPC. Any discrepancies identified between the IPC and an aircraft under inspection need to be reconciled using the previously stated parts list)."
+    },
+    {
+      "id": "e896",
+      "type": "paragraph",
+      "page": 33,
+      "text": "NOTE 3. Special Ferry Flight Authorization. FSDO is authorized to issue Special overweight ferry flight authorizations. This airplane is structurally satisfactory for ferry flight if maintained within the following limits:"
+    },
+    {
+      "id": "e897",
+      "type": "paragraph",
+      "page": 33,
+      "text": "Takeoff weight must not exceed 130% of the maximum weight for Normal Category."
+    },
+    {
+      "id": "e898",
+      "type": "paragraph",
+      "page": 33,
+      "text": "The Never Exceed Airspeed (VNE) and Maximum Structural Cruising Speed (VC) must be reduced by 30%."
+    },
+    {
+      "id": "e899",
+      "type": "paragraph",
+      "page": 33,
+      "text": "Forward and aft center of gravity limits may not be exceeded."
+    },
+    {
+      "id": "e900",
+      "type": "paragraph",
+      "page": 33,
+      "text": "Structural load factors of +2.5 g. to -1.0 g. may not be exceeded."
+    },
+    {
+      "id": "e901",
+      "type": "paragraph",
+      "page": 33,
+      "text": "Requirements for any additional oil should be established in accordance with AC 23.1011-1. Increased stall speeds and reduced climb performance should be expected for the increased weights. Flight characteristics and performance at the increased weights have not been evaluated. Flight Permit for operations of overweight aircraft may be found in AC 21-4B."
+    },
+    {
+      "id": "e902",
+      "type": "paragraph",
+      "page": 33,
+      "text": "NOTE 4. The following serials numbers are manufactured under the name Cessna Aircraft Company: 172S8001 thru 172S11614."
+    },
+    {
+      "id": "e903",
+      "type": "paragraph",
+      "page": 33,
+      "text": "NOTE 5. Company name change effective 7/29/15. The following serials numbers are manufactured under the name Textron Aviation: 172S11615 and On."
+    },
+    {
+      "id": "e904",
+      "type": "paragraph",
+      "page": 33,
+      "text": "NOTE 6. Means of Compliance for 23.2510 [23-64] is draft AC 20-184A."
+    },
+    {
+      "id": "e905",
+      "type": "paragraph",
+      "page": 33,
+      "text": "NOTE 7. 14 CFR 23.2005 Certification Level and Performance Level: Level 2, Low Speed."
+    },
+    {
+      "id": "e906",
+      "type": "paragraph",
+      "page": 33,
+      "text": "NOTE 8. Means of Compliance for 23.2515 [23-64] and 23.2520 [23-64] is FAA Policy PS-ACE-23-10."
+    },
+    {
+      "id": "e907",
+      "type": "paragraph",
+      "page": 33,
+      "text": "NOTE 9. Means of Compliance for 23.2010 [23-64] and 23.2325(g) [23-64] is CPP-23.2525-1 (signed 2023.10.19)."
+    },
+    {
+      "id": "e908",
+      "type": "paragraph",
+      "page": 33,
+      "text": "NOTE 10. Means of Compliance for 23.2010, 23.2500, 23.2505, and 23.2510 as amended by Amendment 23-64 is ASTM F3532-22."
+    },
+    {
+      "id": "e909",
+      "type": "paragraph",
+      "page": 33,
+      "text": "------- END ------"
+    }
+  ]
+}

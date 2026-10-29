@@ -1,0 +1,649 @@
+{
+  "source_id": "CFR-14-91E",
+  "file": "faa/cfr/14-cfr-part-91-subpart-e.xml",
+  "format": "xml",
+  "parser": "ecfr-xml",
+  "meta": {
+    "title": "14 CFR Part 91, subpart E: Maintenance, Preventive Maintenance, and Alterations",
+    "publisher": "FAA",
+    "doc_type": "regulation",
+    "as_of": "2026-10-15",
+    "access": "employees"
+  },
+  "elements": [
+    {
+      "id": "e1",
+      "type": "heading",
+      "level": 2,
+      "text": "Subpart E—Maintenance, Preventive Maintenance, and Alterations"
+    },
+    {
+      "id": "e2",
+      "type": "paragraph",
+      "text": "Source:Docket 18334, 54 FR 34311, Aug. 18, 1989, unless otherwise noted."
+    },
+    {
+      "id": "e3",
+      "type": "heading",
+      "level": 3,
+      "text": "§ 91.401 Applicability."
+    },
+    {
+      "id": "e4",
+      "type": "paragraph",
+      "text": "(a) This subpart prescribes rules governing the maintenance, preventive maintenance, and alterations of U.S.-registered civil aircraft operating within or outside of the United States."
+    },
+    {
+      "id": "e5",
+      "type": "paragraph",
+      "text": "(b) Sections 91.405, 91.409, 91.411, 91.417, and 91.419 of this subpart do not apply to an aircraft maintained in accordance with a continuous airworthiness maintenance program as provided in part 121, 129, or §§ 91.1411 or 135.411(a)(2) of this chapter."
+    },
+    {
+      "id": "e6",
+      "type": "paragraph",
+      "text": "(c) Sections 91.405 and 91.409 of this part do not apply to an airplane inspected in accordance with part 125 of this chapter."
+    },
+    {
+      "id": "e7",
+      "type": "paragraph",
+      "text": "[Docket 18334, 54 FR 34311, Aug. 18, 1989, as amended by Amdt. 91-267, 66 FR 21066, Apr. 27, 2001; Amdt. 91-280, 68 FR 54560, Sept. 17, 2003]"
+    },
+    {
+      "id": "e8",
+      "type": "heading",
+      "level": 3,
+      "text": "§ 91.403 General."
+    },
+    {
+      "id": "e9",
+      "type": "paragraph",
+      "text": "(a) The owner or operator of an aircraft is primarily responsible for maintaining that aircraft in an airworthy condition, including compliance with part 39 of this chapter."
+    },
+    {
+      "id": "e10",
+      "type": "paragraph",
+      "text": "(b) No person may perform maintenance, preventive maintenance, or alterations on an aircraft other than as prescribed in this subpart and other applicable regulations, including part 43 of this chapter."
+    },
+    {
+      "id": "e11",
+      "type": "paragraph",
+      "text": "(c) No person may operate an aircraft for which a manufacturer's maintenance manual or instructions for continued airworthiness has been issued that contains an airworthiness limitations section unless the mandatory replacement times, inspection intervals, and related procedures specified in that section or alternative inspection intervals and related procedures set forth in an operations specification approved by the Administrator under part 121 or 135 of this chapter or in accordance with an inspection program approved under § 91.409(e) have been complied with."
+    },
+    {
+      "id": "e12",
+      "type": "paragraph",
+      "text": "(d) A person must not alter an aircraft based on a supplemental type certificate unless the owner or operator of the aircraft is the holder of the supplemental type certificate, or has written permission from the holder."
+    },
+    {
+      "id": "e13",
+      "type": "paragraph",
+      "text": "[Docket 18334, 54 FR 34311, Aug. 18, 1989, as amended by Amdt. 91-267, 66 FR 21066, Apr. 27, 2001; Amdt. 91-293, 71 FR 56005, Sept. 26, 2006]"
+    },
+    {
+      "id": "e14",
+      "type": "heading",
+      "level": 3,
+      "text": "§ 91.405 Maintenance required."
+    },
+    {
+      "id": "e15",
+      "type": "paragraph",
+      "text": "Each owner or operator of an aircraft—"
+    },
+    {
+      "id": "e16",
+      "type": "paragraph",
+      "text": "(a) Shall have that aircraft inspected as prescribed in subpart E of this part and shall between required inspections, except as provided in paragraph (c) of this section, have discrepancies repaired as prescribed in part 43 of this chapter;"
+    },
+    {
+      "id": "e17",
+      "type": "paragraph",
+      "text": "(b) Shall ensure that maintenance personnel make appropriate entries in the aircraft maintenance records indicating the aircraft has been approved for return to service;"
+    },
+    {
+      "id": "e18",
+      "type": "paragraph",
+      "text": "(c) Shall have any inoperative instrument or item of equipment, permitted to be inoperative by § 91.213(d)(2) of this part, repaired, replaced, removed, or inspected at the next required inspection; and"
+    },
+    {
+      "id": "e19",
+      "type": "paragraph",
+      "text": "(d) When listed discrepancies include inoperative instruments or equipment, shall ensure that a placard has been installed as required by § 43.11 of this chapter."
+    },
+    {
+      "id": "e20",
+      "type": "heading",
+      "level": 3,
+      "text": "§ 91.407 Operation after maintenance, preventive maintenance, rebuilding, or alteration."
+    },
+    {
+      "id": "e21",
+      "type": "paragraph",
+      "text": "(a) No person may operate any aircraft that has undergone maintenance, preventive maintenance, rebuilding, or alteration unless—"
+    },
+    {
+      "id": "e22",
+      "type": "paragraph",
+      "text": "(1) It has been approved for return to service by a person authorized under § 43.7 of this chapter; and"
+    },
+    {
+      "id": "e23",
+      "type": "paragraph",
+      "text": "(2) The maintenance record entry required by § 43.9 or § 43.11, as applicable, of this chapter has been made."
+    },
+    {
+      "id": "e24",
+      "type": "paragraph",
+      "text": "(b) No person may carry any person (other than crewmembers) in an aircraft that has been maintained, rebuilt, or altered in a manner that may have appreciably changed its flight characteristics or substantially affected its operation in flight until an appropriately rated pilot with at least a private pilot certificate flies the aircraft, makes an operational check of the maintenance performed or alteration made, and logs the flight in the aircraft records."
+    },
+    {
+      "id": "e25",
+      "type": "paragraph",
+      "text": "(c) The aircraft does not have to be flown as required by paragraph (b) of this section if, prior to flight, ground tests, inspection, or both show conclusively that the maintenance, preventive maintenance, rebuilding, or alteration has not appreciably changed the flight characteristics or substantially affected the flight operation of the aircraft."
+    },
+    {
+      "id": "e26",
+      "type": "heading",
+      "level": 3,
+      "text": "§ 91.409 Inspections."
+    },
+    {
+      "id": "e27",
+      "type": "paragraph",
+      "text": "(a) Except as provided in paragraph (c) of this section, no person may operate an aircraft unless, within the preceding 12 calendar months, it has had—"
+    },
+    {
+      "id": "e28",
+      "type": "paragraph",
+      "text": "(1) An annual inspection in accordance with part 43 of this chapter and has been approved for return to service by a person authorized by § 43.7 of this chapter; or"
+    },
+    {
+      "id": "e29",
+      "type": "paragraph",
+      "text": "(2) An inspection for the issuance of an airworthiness certificate in accordance with part 21 of this chapter."
+    },
+    {
+      "id": "e30",
+      "type": "paragraph",
+      "text": "No inspection performed under paragraph (b) of this section may be substituted for any inspection required by this paragraph unless it is performed by a person authorized to perform annual inspections and is entered as an “annual” inspection in the required maintenance records."
+    },
+    {
+      "id": "e31",
+      "type": "paragraph",
+      "text": "(b) Except as provided in paragraph (c) of this section, no person may operate an aircraft carrying any person (other than a crewmember) for hire, and no person may give flight instruction for hire in an aircraft which that person provides, unless within the preceding 100 hours of time in service the aircraft has received an annual or 100-hour inspection and been approved for return to service in accordance with part 43 of this chapter or has received an inspection for the issuance of an airworthiness certificate in accordance with part 21 of this chapter. The 100-hour limitation may be exceeded by not more than 10 hours while en route to reach a place where the inspection can be done. The excess time used to reach a place where the inspection can be done must be included in computing the next 100 hours of time in service."
+    },
+    {
+      "id": "e32",
+      "type": "paragraph",
+      "text": "(c) Paragraphs (a) and (b) of this section do not apply to—"
+    },
+    {
+      "id": "e33",
+      "type": "paragraph",
+      "text": "(1) An aircraft that carries a special flight permit, a current experimental airworthiness certificate, a special airworthiness certificate in the light-sport category, or provisional airworthiness certificate;"
+    },
+    {
+      "id": "e34",
+      "type": "paragraph",
+      "text": "(2) An aircraft inspected in accordance with an approved aircraft inspection program under part 125 or 135 of this chapter and so identified by the registration number in the operations specifications of the certificate holder having the approved inspection program;"
+    },
+    {
+      "id": "e35",
+      "type": "paragraph",
+      "text": "(3) An aircraft subject to the requirements of paragraph (d) or (e) of this section; or"
+    },
+    {
+      "id": "e36",
+      "type": "paragraph",
+      "text": "(4) Turbine-powered rotorcraft when the operator elects to inspect that rotorcraft in accordance with paragraph (e) of this section."
+    },
+    {
+      "id": "e37",
+      "type": "paragraph",
+      "text": "(d) Progressive inspection. Each registered owner or operator of an aircraft desiring to use a progressive inspection program must submit a written request to the responsible Flight Standards office, and shall provide—"
+    },
+    {
+      "id": "e38",
+      "type": "paragraph",
+      "text": "(1) A certificated mechanic holding an inspection authorization, a certificated airframe repair station, or the manufacturer of the aircraft to supervise or conduct the progressive inspection;"
+    },
+    {
+      "id": "e39",
+      "type": "paragraph",
+      "text": "(2) A current inspection procedures manual available and readily understandable to pilot and maintenance personnel containing, in detail—"
+    },
+    {
+      "id": "e40",
+      "type": "paragraph",
+      "text": "(i) An explanation of the progressive inspection, including the continuity of inspection responsibility, the making of reports, and the keeping of records and technical reference material;"
+    },
+    {
+      "id": "e41",
+      "type": "paragraph",
+      "text": "(ii) An inspection schedule, specifying the intervals in hours or days when routine and detailed inspections will be performed and including instructions for exceeding an inspection interval by not more than 10 hours while en route and for changing an inspection interval because of service experience;"
+    },
+    {
+      "id": "e42",
+      "type": "paragraph",
+      "text": "(iii) Sample routine and detailed inspection forms and instructions for their use; and"
+    },
+    {
+      "id": "e43",
+      "type": "paragraph",
+      "text": "(iv) Sample reports and records and instructions for their use;"
+    },
+    {
+      "id": "e44",
+      "type": "paragraph",
+      "text": "(3) Enough housing and equipment for necessary disassembly and proper inspection of the aircraft; and"
+    },
+    {
+      "id": "e45",
+      "type": "paragraph",
+      "text": "(4) Appropriate current technical information for the aircraft."
+    },
+    {
+      "id": "e46",
+      "type": "paragraph",
+      "text": "The frequency and detail of the progressive inspection shall provide for the complete inspection of the aircraft within each 12 calendar months and be consistent with the manufacturer's recommendations, field service experience, and the kind of operation in which the aircraft is engaged. The progressive inspection schedule must ensure that the aircraft, at all times, will be airworthy and will conform to all applicable FAA aircraft specifications, type certificate data sheets, airworthiness directives, and other approved data. If the progressive inspection is discontinued, the owner or operator shall immediately notify the responsible Flight Standards office, in writing, of the discontinuance. After the discontinuance, the first annual inspection under § 91.409(a)(1) is due within 12 calendar months after the last complete inspection of the aircraft under the progressive inspection. The 100-hour inspection under § 91.409(b) is due within 100 hours after that complete inspection. A complete inspection of the aircraft, for the purpose of determining when the annual and 100-hour inspections are due, requires a detailed inspection of the aircraft and all its components in accordance with the progressive inspection. A routine inspection of the aircraft and a detailed inspection of several components is not considered to be a complete inspection."
+    },
+    {
+      "id": "e47",
+      "type": "paragraph",
+      "text": "(e) Large airplanes (to which part 125 is not applicable), turbojet multiengine airplanes, turbopropeller-powered multiengine airplanes, and turbine-powered rotorcraft. No person may operate a large airplane, turbojet multiengine airplane, turbopropeller-powered multiengine airplane, or turbine-powered rotorcraft unless the replacement times for life-limited parts specified in the aircraft specifications, type data sheets, or other documents approved by the Administrator are complied with and the airplane or turbine-powered rotorcraft, including the airframe, engines, propellers, rotors, appliances, survival equipment, and emergency equipment, is inspected in accordance with an inspection program selected under the provisions of paragraph (f) of this section, except that, the owner or operator of a turbine-powered rotorcraft may elect to use the inspection provisions of § 91.409(a), (b), (c), or (d) in lieu of an inspection option of § 91.409(f)."
+    },
+    {
+      "id": "e48",
+      "type": "paragraph",
+      "text": "(f) Selection of inspection program under paragraph (e) of this section. The registered owner or operator of each airplane or turbine-powered rotorcraft described in paragraph (e) of this section must select, identify in the aircraft maintenance records, and use one of the following programs for the inspection of the aircraft:"
+    },
+    {
+      "id": "e49",
+      "type": "paragraph",
+      "text": "(1) A continuous airworthiness inspection program that is part of a continuous airworthiness maintenance program currently in use by a person holding an air carrier operating certificate or an operating certificate issued under part 121 or 135 of this chapter and operating that make and model aircraft under part 121 of this chapter or operating that make and model under part 135 of this chapter and maintaining it under § 135.411(a)(2) of this chapter."
+    },
+    {
+      "id": "e50",
+      "type": "paragraph",
+      "text": "(2) An approved aircraft inspection program approved under § 135.419 of this chapter and currently in use by a person holding an operating certificate issued under part 135 of this chapter."
+    },
+    {
+      "id": "e51",
+      "type": "paragraph",
+      "text": "(3) A current inspection program recommended by the manufacturer."
+    },
+    {
+      "id": "e52",
+      "type": "paragraph",
+      "text": "(4) Any other inspection program established by the registered owner or operator of that airplane or turbine-powered rotorcraft and approved by the Administrator under paragraph (g) of this section. However, the Administrator may require revision of this inspection program in accordance with the provisions of § 91.415."
+    },
+    {
+      "id": "e53",
+      "type": "paragraph",
+      "text": "Each operator shall include in the selected program the name and address of the person responsible for scheduling the inspections required by the program and make a copy of that program available to the person performing inspections on the aircraft and, upon request, to the Administrator."
+    },
+    {
+      "id": "e54",
+      "type": "paragraph",
+      "text": "(g) Inspection program approved under paragraph (e) of this section. Each operator of an airplane or turbine-powered rotorcraft desiring to establish or change an approved inspection program under paragraph (f)(4) of this section must submit the program for approval to the responsible Flight Standards office. The program must be in writing and include at least the following information:"
+    },
+    {
+      "id": "e55",
+      "type": "paragraph",
+      "text": "(1) Instructions and procedures for the conduct of inspections for the particular make and model airplane or turbine-powered rotorcraft, including necessary tests and checks. The instructions and procedures must set forth in detail the parts and areas of the airframe, engines, propellers, rotors, and appliances, including survival and emergency equipment required to be inspected."
+    },
+    {
+      "id": "e56",
+      "type": "paragraph",
+      "text": "(2) A schedule for performing the inspections that must be performed under the program expressed in terms of the time in service, calendar time, number of system operations, or any combination of these."
+    },
+    {
+      "id": "e57",
+      "type": "paragraph",
+      "text": "(h) Changes from one inspection program to another. When an operator changes from one inspection program under paragraph (f) of this section to another, the time in service, calendar times, or cycles of operation accumulated under the previous program must be applied in determining inspection due times under the new program."
+    },
+    {
+      "id": "e58",
+      "type": "paragraph",
+      "text": "[Docket 18334, 54 FR 34311, Aug. 18, 1989; Amdt. 91-211, 54 FR 41211, Oct. 5, 1989; Amdt. 91-267, 66 FR 21066, Apr. 27, 2001; Amdt. 91-282, 69 FR 44882, July 27, 2004; Docket FAA-2018-0119, Amdt. 91-350, 83 FR 9171, Mar. 5, 2018; Docket FAA-2023-1377, Amdt. 91-381, 90 FR 35222, July 24, 2025]"
+    },
+    {
+      "id": "e59",
+      "type": "heading",
+      "level": 3,
+      "text": "§ 91.410 [Reserved]"
+    },
+    {
+      "id": "e60",
+      "type": "heading",
+      "level": 3,
+      "text": "§ 91.411 Altimeter system and altitude reporting equipment tests and inspections."
+    },
+    {
+      "id": "e61",
+      "type": "paragraph",
+      "text": "(a) No person may operate an airplane, or helicopter, in controlled airspace under IFR unless—"
+    },
+    {
+      "id": "e62",
+      "type": "paragraph",
+      "text": "(1) Within the preceding 24 calendar months, each static pressure system, each altimeter instrument, and each automatic pressure altitude reporting system has been tested and inspected and found to comply with appendices E and F of part 43 of this chapter;"
+    },
+    {
+      "id": "e63",
+      "type": "paragraph",
+      "text": "(2) Except for the use of system drain and alternate static pressure valves, following any opening and closing of the static pressure system, that system has been tested and inspected and found to comply with paragraph (a), appendix E, of part 43 of this chapter; and"
+    },
+    {
+      "id": "e64",
+      "type": "paragraph",
+      "text": "(3) Following installation or maintenance on the automatic pressure altitude reporting system of the ATC transponder where data correspondence error could be introduced, the integrated system has been tested, inspected, and found to comply with paragraph (c), appendix E, of part 43 of this chapter."
+    },
+    {
+      "id": "e65",
+      "type": "paragraph",
+      "text": "(b) The tests required by paragraph (a) of this section must be conducted by—"
+    },
+    {
+      "id": "e66",
+      "type": "paragraph",
+      "text": "(1) The manufacturer of the airplane, or helicopter, on which the tests and inspections are to be performed;"
+    },
+    {
+      "id": "e67",
+      "type": "paragraph",
+      "text": "(2) A certificated repair station properly equipped to perform those functions and holding—"
+    },
+    {
+      "id": "e68",
+      "type": "paragraph",
+      "text": "(i) An instrument rating, Class I;"
+    },
+    {
+      "id": "e69",
+      "type": "paragraph",
+      "text": "(ii) A limited instrument rating appropriate to the make and model of appliance to be tested;"
+    },
+    {
+      "id": "e70",
+      "type": "paragraph",
+      "text": "(iii) A limited rating appropriate to the test to be performed;"
+    },
+    {
+      "id": "e71",
+      "type": "paragraph",
+      "text": "(iv) An airframe rating appropriate to the airplane, or helicopter, to be tested; or"
+    },
+    {
+      "id": "e72",
+      "type": "paragraph",
+      "text": "(3) A certificated mechanic with an airframe rating (static pressure system tests and inspections only)."
+    },
+    {
+      "id": "e73",
+      "type": "paragraph",
+      "text": "(c) Altimeter and altitude reporting equipment approved under Technical Standard Orders are considered to be tested and inspected as of the date of their manufacture."
+    },
+    {
+      "id": "e74",
+      "type": "paragraph",
+      "text": "(d) No person may operate an airplane, or helicopter, in controlled airspace under IFR at an altitude above the maximum altitude at which all altimeters and the automatic altitude reporting system of that airplane, or helicopter, have been tested."
+    },
+    {
+      "id": "e75",
+      "type": "paragraph",
+      "text": "[Docket 18334, 54 FR 34308, Aug. 18, 1989, as amended by Amdt. 91-269, 66 FR 41116, Aug. 6, 2001; 72 FR 7739, Feb. 20, 2007]"
+    },
+    {
+      "id": "e76",
+      "type": "heading",
+      "level": 3,
+      "text": "§ 91.413 ATC transponder tests and inspections."
+    },
+    {
+      "id": "e77",
+      "type": "paragraph",
+      "text": "(a) No persons may use an ATC transponder that is specified in 91.215(a), 121.345(c), or § 135.143(c) of this chapter unless, within the preceding 24 calendar months, the ATC transponder has been tested and inspected and found to comply with appendix F of part 43 of this chapter; and"
+    },
+    {
+      "id": "e78",
+      "type": "paragraph",
+      "text": "(b) Following any installation or maintenance on an ATC transponder where data correspondence error could be introduced, the integrated system has been tested, inspected, and found to comply with paragraph (c), appendix E, of part 43 of this chapter."
+    },
+    {
+      "id": "e79",
+      "type": "paragraph",
+      "text": "(c) The tests and inspections specified in this section must be conducted by—"
+    },
+    {
+      "id": "e80",
+      "type": "paragraph",
+      "text": "(1) A certificated repair station properly equipped to perform those functions and holding—"
+    },
+    {
+      "id": "e81",
+      "type": "paragraph",
+      "text": "(i) A radio rating, Class III;"
+    },
+    {
+      "id": "e82",
+      "type": "paragraph",
+      "text": "(ii) A limited radio rating appropriate to the make and model transponder to be tested;"
+    },
+    {
+      "id": "e83",
+      "type": "paragraph",
+      "text": "(iii) A limited rating appropriate to the test to be performed;"
+    },
+    {
+      "id": "e84",
+      "type": "paragraph",
+      "text": "(2) A holder of a continuous airworthiness maintenance program as provided in part 121 or § 135.411(a)(2) of this chapter; or"
+    },
+    {
+      "id": "e85",
+      "type": "paragraph",
+      "text": "(3) The manufacturer of the aircraft on which the transponder to be tested is installed, if the transponder was installed by that manufacturer."
+    },
+    {
+      "id": "e86",
+      "type": "paragraph",
+      "text": "[Docket 18334, 54 FR 34311, Aug. 18, 1989, as amended by Amdt. 91-267, 66 FR 21066, Apr. 27, 2001; Amdt. 91-269, 66 FR 41116, Aug. 6, 2001]"
+    },
+    {
+      "id": "e87",
+      "type": "heading",
+      "level": 3,
+      "text": "§ 91.415 Changes to aircraft inspection programs."
+    },
+    {
+      "id": "e88",
+      "type": "paragraph",
+      "text": "(a) Whenever the Administrator finds that revisions to an approved aircraft inspection program under § 91.409(f)(4) or § 91.1109 are necessary for the continued adequacy of the program, the owner or operator must, after notification by the Administrator, make any changes in the program found to be necessary by the Administrator."
+    },
+    {
+      "id": "e89",
+      "type": "paragraph",
+      "text": "(b) The owner or operator may petition the Administrator to reconsider the notice to make any changes in a program in accordance with paragraph (a) of this section."
+    },
+    {
+      "id": "e90",
+      "type": "paragraph",
+      "text": "(c) The petition must be filed with the Executive Director, Flight Standards Service within 30 days after the certificate holder or fractional ownership program manager receives the notice."
+    },
+    {
+      "id": "e91",
+      "type": "paragraph",
+      "text": "(d) Except in the case of an emergency requiring immediate action in the interest of safety, the filing of the petition stays the notice pending a decision by the Administrator."
+    },
+    {
+      "id": "e92",
+      "type": "paragraph",
+      "text": "[Docket 18334, 54 FR 34311, Aug. 18, 1989, as amended by Amdt. 91-280, 68 FR 54560, Sept. 17, 2003; Docket FAA-2018-0119, Amdt. 91-350, 83 FR 9171, Mar. 5, 2018]"
+    },
+    {
+      "id": "e93",
+      "type": "heading",
+      "level": 3,
+      "text": "§ 91.417 Maintenance records."
+    },
+    {
+      "id": "e94",
+      "type": "paragraph",
+      "text": "(a) Except for work performed in accordance with §§ 91.411 and 91.413, each registered owner or operator shall keep the following records for the periods specified in paragraph (b) of this section:"
+    },
+    {
+      "id": "e95",
+      "type": "paragraph",
+      "text": "(1) Records of the maintenance, preventive maintenance, and alteration and records of the 100-hour, annual, progressive, and other required or approved inspections, as appropriate, for each aircraft (including the airframe) and each engine, propeller, rotor, and appliance of an aircraft. The records must include—"
+    },
+    {
+      "id": "e96",
+      "type": "paragraph",
+      "text": "(i) A description (or reference to data acceptable to the Administrator) of the work performed; and"
+    },
+    {
+      "id": "e97",
+      "type": "paragraph",
+      "text": "(ii) The date of completion of the work performed; and"
+    },
+    {
+      "id": "e98",
+      "type": "paragraph",
+      "text": "(iii) The signature, and certificate number of the person approving the aircraft for return to service."
+    },
+    {
+      "id": "e99",
+      "type": "paragraph",
+      "text": "(2) Records containing the following information:"
+    },
+    {
+      "id": "e100",
+      "type": "paragraph",
+      "text": "(i) The total time in service of the airframe, each engine, each propeller, and each rotor."
+    },
+    {
+      "id": "e101",
+      "type": "paragraph",
+      "text": "(ii) The current status of life-limited parts of each airframe, engine, propeller, rotor, and appliance."
+    },
+    {
+      "id": "e102",
+      "type": "paragraph",
+      "text": "(iii) The time since last overhaul of all items installed on the aircraft which are required to be overhauled on a specified time basis."
+    },
+    {
+      "id": "e103",
+      "type": "paragraph",
+      "text": "(iv) The current inspection status of the aircraft, including the time since the last inspection required by the inspection program under which the aircraft and its appliances are maintained."
+    },
+    {
+      "id": "e104",
+      "type": "paragraph",
+      "text": "(v) The current status of applicable airworthiness directives (AD) including, for each, the method of compliance, the AD number and revision date. If the AD involves recurring action, the time and date when the next action is required."
+    },
+    {
+      "id": "e105",
+      "type": "paragraph",
+      "text": "(vi) Copies of the forms prescribed by § 43.9(d) of this chapter for each major alteration to the airframe and currently installed engines, rotors, propellers, and appliances."
+    },
+    {
+      "id": "e106",
+      "type": "paragraph",
+      "text": "(b) The owner or operator shall retain the following records for the periods prescribed:"
+    },
+    {
+      "id": "e107",
+      "type": "paragraph",
+      "text": "(1) The records specified in paragraph (a)(1) of this section shall be retained until the work is repeated or superseded by other work or for 1 year after the work is performed."
+    },
+    {
+      "id": "e108",
+      "type": "paragraph",
+      "text": "(2) The records specified in paragraph (a)(2) of this section shall be retained and transferred with the aircraft at the time the aircraft is sold."
+    },
+    {
+      "id": "e109",
+      "type": "paragraph",
+      "text": "(3) A list of defects furnished to a registered owner or operator under § 43.11 of this chapter shall be retained until the defects are repaired and the aircraft is approved for return to service."
+    },
+    {
+      "id": "e110",
+      "type": "paragraph",
+      "text": "(c) The owner or operator shall make all maintenance records required to be kept by this section available for inspection by the Administrator or any authorized representative of the National Transportation Safety Board (NTSB). In addition, the owner or operator shall present Form 337 described in paragraph (d) of this section for inspection upon request of any law enforcement officer."
+    },
+    {
+      "id": "e111",
+      "type": "paragraph",
+      "text": "(d) When a fuel tank is installed within the passenger compartment or a baggage compartment pursuant to part 43 of this chapter, a copy of FAA Form 337 shall be kept on board the modified aircraft by the owner or operator."
+    },
+    {
+      "id": "e112",
+      "type": "paragraph",
+      "text": "[Docket 18334, 54 FR 34311, Aug. 18, 1989, as amended by Amdt. 91-311, 75 FR 5223, Feb. 1, 2010; Amdt. 91-323, 76 FR 39260, July 6, 2011; Docket FAA-2023-1377, Amdt. 91-381, 90 FR 35222, July 24, 2025]"
+    },
+    {
+      "id": "e113",
+      "type": "heading",
+      "level": 3,
+      "text": "§ 91.419 Transfer of maintenance records."
+    },
+    {
+      "id": "e114",
+      "type": "paragraph",
+      "text": "Any owner or operator who sells a U.S.-registered aircraft shall transfer to the purchaser, at the time of sale, the following records of that aircraft, in plain language form or in coded form at the election of the purchaser, if the coded form provides for the preservation and retrieval of information in a manner acceptable to the Administrator:"
+    },
+    {
+      "id": "e115",
+      "type": "paragraph",
+      "text": "(a) The records specified in § 91.417(a)(2)."
+    },
+    {
+      "id": "e116",
+      "type": "paragraph",
+      "text": "(b) The records specified in § 91.417(a)(1) which are not included in the records covered by paragraph (a) of this section, except that the purchaser may permit the seller to keep physical custody of such records. However, custody of records by the seller does not relieve the purchaser of the responsibility under § 91.417(c) to make the records available for inspection by the Administrator or any authorized representative of the National Transportation Safety Board (NTSB)."
+    },
+    {
+      "id": "e117",
+      "type": "heading",
+      "level": 3,
+      "text": "§ 91.421 Rebuilt engine maintenance records."
+    },
+    {
+      "id": "e118",
+      "type": "paragraph",
+      "text": "(a) The owner or operator may use a new maintenance record, without previous operating history, for an aircraft engine rebuilt by the manufacturer or by an agency approved by the manufacturer."
+    },
+    {
+      "id": "e119",
+      "type": "paragraph",
+      "text": "(b) Each manufacturer or agency that grants zero time to an engine rebuilt by it shall enter in the new record—"
+    },
+    {
+      "id": "e120",
+      "type": "paragraph",
+      "text": "(1) A signed statement of the date the engine was rebuilt;"
+    },
+    {
+      "id": "e121",
+      "type": "paragraph",
+      "text": "(2) Each change made as required by airworthiness directives; and"
+    },
+    {
+      "id": "e122",
+      "type": "paragraph",
+      "text": "(3) Each change made in compliance with manufacturer's service bulletins, if the entry is specifically requested in that bulletin."
+    },
+    {
+      "id": "e123",
+      "type": "paragraph",
+      "text": "(c) For the purposes of this section, a rebuilt engine is a used engine that has been completely disassembled, inspected, repaired as necessary, reassembled, tested, and approved in the same manner and to the same tolerances and limits as a new engine with either new or used parts. However, all parts used in it must conform to the production drawing tolerances and limits for new parts or be of approved oversized or undersized dimensions for a new engine."
+    },
+    {
+      "id": "e124",
+      "type": "heading",
+      "level": 3,
+      "text": "§§ 91.423-91.499 [Reserved]"
+    }
+  ]
+}

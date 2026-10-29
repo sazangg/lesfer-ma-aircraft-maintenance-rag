@@ -1,0 +1,710 @@
+{
+  "source_id": "AD-99-18-14",
+  "file": "faa/ad/ad-99-18-14.pdf",
+  "format": "pdf",
+  "parser": "docling",
+  "meta": {
+    "title": "AD 99-18-14: Cessna Aircraft Company Model 172R Airplanes",
+    "publisher": "FAA",
+    "doc_type": "airworthiness directive",
+    "ad_number": "99-18-14",
+    "action": "Final rule; request for comments",
+    "published": "1999-09-01",
+    "effective": "1999-09-27",
+    "federal_register": "64 FR 47658 (document 99-22536)",
+    "access": "employees"
+  },
+  "elements": [
+    {
+      "id": "e1",
+      "type": "page_header",
+      "page": 1,
+      "text": "47658 Federal Register /Vol. 64, No. 169 /Wednesday, September 1, 1999 /Rules and Regulations"
+    },
+    {
+      "id": "e2",
+      "type": "paragraph",
+      "page": 1,
+      "text": "If all diodes pass the test, repeat the diode test thereafter, at intervals not to exceed 600 flight hours."
+    },
+    {
+      "id": "e3",
+      "type": "paragraph",
+      "page": 1,
+      "text": "If any diode fails the test: Prior to further flight, replace the GCU with a new or serviceable GCU, and if necessary, the airplane battery with new or reconditioned airplane battery, and repeat the diode test for the replaced GCU in accordance with the telex message until successful completion of the test is achieved. Repeat the diode test thereafter, at intervals not to exceed 600 flight hours."
+    },
+    {
+      "id": "e4",
+      "type": "paragraph",
+      "page": 1,
+      "text": "(d) As of the effective date of this AD, no person shall install a battery charger having P/N 10-60701-1 on any Model 737 series airplane."
+    },
+    {
+      "id": "e5",
+      "type": "paragraph",
+      "page": 1,
+      "text": "(e) Within 10 days after accomplishing the initial diode test required by paragraph (c) of this AD, submit a report of the test results (negative findings) to the Manager, Seattle Aircraft Certification Office (ACO), FAA, Transport Airplane Directorate, 1601 Lind Avenue, SW., Renton, Washington 980554056; fax (425) 227-1181. Information collection requirements contained in this regulation have been approved by the Office of Management and Budget (OMB) under the provisions of the Paperwork Reduction Act of 1980 (44 U.S.C. 3501 et seq.) and have been assigned OMB Control Number 2120-0056."
+    },
+    {
+      "id": "e6",
+      "type": "heading",
+      "page": 1,
+      "text": "Alternative Methods of Compliance",
+      "level": 2
+    },
+    {
+      "id": "e7",
+      "type": "paragraph",
+      "page": 1,
+      "text": "(f) An alternative method of compliance or adjustment of the compliance time that provides an acceptable level of safety may be used if approved by the Manager, Seattle ACO. Operators shall submit their requests through an appropriate FAA Principal Maintenance Inspector, who may add comments and then send it to the Manager, Seattle ACO."
+    },
+    {
+      "id": "e8",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Note 3: Information concerning the existence of approved alternative methods of compliance with this AD, if any, may be obtained from the Seattle ACO."
+    },
+    {
+      "id": "e9",
+      "type": "heading",
+      "page": 1,
+      "text": "Special Flight Permits",
+      "level": 2
+    },
+    {
+      "id": "e10",
+      "type": "paragraph",
+      "page": 1,
+      "text": "(g) Special flight permits may be issued in accordance with sections 21.197 and 21.199 of the Federal Aviation Regulations (14 CFR 21.197 and 21.199) to operate the airplane to a location where the requirements of this AD can be accomplished."
+    },
+    {
+      "id": "e11",
+      "type": "heading",
+      "page": 1,
+      "text": "Incorporation by Reference",
+      "level": 2
+    },
+    {
+      "id": "e12",
+      "type": "paragraph",
+      "page": 1,
+      "text": "(h) Except as provided by paragraphs (a) and (b) of this AD, the test shall be done in accordance with Boeing Telex Message M7200-99-01528, dated March 5, 1999. This incorporation by reference was approved by the Director of the Federal Register in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. Copies may be obtained from Boeing Commercial Airplane Group, P.O. Box 3707, Seattle, Washington. Copies may be inspected at the FAA, Transport Airplane Directorate, 1601 Lind Avenue, SW., Renton, Washington; or at the Office of the Federal Register, 800 North Capitol Street, NW., suite 700, Washington, DC."
+    },
+    {
+      "id": "e13",
+      "type": "paragraph",
+      "page": 1,
+      "text": "(i) This amendment becomes effective on September 16, 1999."
+    },
+    {
+      "id": "e14",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Issued in Renton, Washington, on August 24, 1999."
+    },
+    {
+      "id": "e15",
+      "type": "heading",
+      "page": 1,
+      "text": "Vi L. Lipski,",
+      "level": 2
+    },
+    {
+      "id": "e16",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Acting Manager, Transport Airplane Directorate, Aircraft Certification Service. [FR Doc. 99-22531 Filed 8-31-99; 8:45 am] BILLING CODE 4910-13-P"
+    },
+    {
+      "id": "e17",
+      "type": "heading",
+      "page": 1,
+      "text": "DEPARTMENT OF TRANSPORTATION",
+      "level": 2
+    },
+    {
+      "id": "e18",
+      "type": "heading",
+      "page": 1,
+      "text": "Federal Aviation Administration",
+      "level": 2
+    },
+    {
+      "id": "e19",
+      "type": "heading",
+      "page": 1,
+      "text": "14 CFR Part 39",
+      "level": 2
+    },
+    {
+      "id": "e20",
+      "type": "paragraph",
+      "page": 1,
+      "text": "[Docket No. 99-CE-55-AD; Amendment 3911280; AD 99-18-14]"
+    },
+    {
+      "id": "e21",
+      "type": "paragraph",
+      "page": 1,
+      "text": "RIN 2120-AA64"
+    },
+    {
+      "id": "e22",
+      "type": "heading",
+      "page": 1,
+      "text": "Airworthiness Directives; Cessna Aircraft Company Model 172R Airplanes",
+      "level": 2
+    },
+    {
+      "id": "e23",
+      "type": "paragraph",
+      "page": 1,
+      "text": "AGENCY: Federal Aviation Administration, DOT. ACTION: Final rule; request for comments."
+    },
+    {
+      "id": "e24",
+      "type": "paragraph",
+      "page": 1,
+      "text": "SUMMARY: This amendment adopts a new airworthiness directive (AD) that applies to Cessna Aircraft Company (Cessna) Model 172R airplanes equipped with a certain modification kit that reduces friction in the elevator control system. This AD requires inspecting the control yoke pivot bolt to assure positive clearance between the pivot bolt's threaded end and aileron direct cable. If positive clearance is not found, this AD requires replacing the control yoke pivot bolt, inspecting the adjacent aileron control cables for damage, and replacing any damaged aileron control cable. This AD is the result of the manufacturer supplying incorrect length control yoke pivot bolts in Cessna Modification Kits MK 17227-01 that were shipped from September 21, 1998, through April 18, 1999. The actions specified by this AD are intended to prevent failure of an aileron control cable because of an incorrect length control yoke pivot bolt rubbing on one of these cables, which could result in loss of aileron control with loss of directional control of the airplane."
+    },
+    {
+      "id": "e25",
+      "type": "heading",
+      "page": 1,
+      "text": "DATES: Effective September 27, 1999.",
+      "level": 2
+    },
+    {
+      "id": "e26",
+      "type": "paragraph",
+      "page": 1,
+      "text": "The incorporation by reference of certain publications listed in the regulations is approved by the Director of the Federal Register as of September 27, 1999."
+    },
+    {
+      "id": "e27",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Comments for inclusion in the Rules Docket must be received on or before October 27, 1999."
+    },
+    {
+      "id": "e28",
+      "type": "paragraph",
+      "page": 1,
+      "text": "ADDRESSES: Submit comments in triplicate to the Federal Aviation Administration (FAA), Central Region, Office of the Regional Counsel, Attention: Rules Docket No. 99-CE-55AD, Room 1558, 601 E. 12th Street, Kansas City, Missouri 64106."
+    },
+    {
+      "id": "e29",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Service information that applies to this AD may be obtained from the Cessna Aircraft Company, Product Support, P. O. Box 7706, Wichita, Kansas 67277; telephone: (316) 5715800; facsimile: (316) 942-9008. This information may also be examined at the Federal Aviation Administration (FAA), Central Region, Office of the Regional Counsel, Attention: Rules Docket No. 99-CE-55-AD, Room 1558, 601 E. 12th Street, Kansas City, Missouri 64106; or at the Office of the Federal Register, 800 North Capitol Street, NW, suite 700, Washington, DC."
+    },
+    {
+      "id": "e30",
+      "type": "paragraph",
+      "page": 1,
+      "text": "FOR FURTHER INFORMATION CONTACT: Mr. Paul C. DeVore, Aerospace Engineer, FAA, Wichita Aircraft Certification Office, 1801 Airport Road, Rm. 100, Mid-Continent Airport, Wichita, Kansas, 67209; telephone: (316) 946-4142; facsimile: (316) 946-4407."
+    },
+    {
+      "id": "e31",
+      "type": "heading",
+      "page": 1,
+      "text": "SUPPLEMENTARY INFORMATION:",
+      "level": 2
+    },
+    {
+      "id": "e32",
+      "type": "heading",
+      "page": 1,
+      "text": "Discussion",
+      "level": 2
+    },
+    {
+      "id": "e33",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Cessna has informed the FAA that incorrect length control yoke pivot bolts may have been shipped in Modification Kit MK 172-27-01 to certain owners/ operators of Cessna Model 172R airplanes from September 21, 1998, through April 18, 1999. This kit was issued to reduce friction in the elevator control system."
+    },
+    {
+      "id": "e34",
+      "type": "paragraph",
+      "page": 1,
+      "text": "The incorrect length bolts are longer than design specifications call for and could come in contact with or rub on one of the adjacent aileron control cables. This condition, if not detected and corrected in a timely manner, could result in loss of aileron control with loss of directional control of the airplane."
+    },
+    {
+      "id": "e35",
+      "type": "heading",
+      "page": 1,
+      "text": "Relevant Service Information",
+      "level": 2
+    },
+    {
+      "id": "e36",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Cessna has issued Service Bulletin SB99-27-01, dated July 12, 1999, which specifies procedures for:"
+    },
+    {
+      "id": "e37",
+      "type": "paragraph",
+      "page": 1,
+      "text": "-Inspecting the control yoke pivot bolt to assure positive clearance between the pivot bolt's threaded end and aileron direct cable; and"
+    },
+    {
+      "id": "e38",
+      "type": "paragraph",
+      "page": 1,
+      "text": "-If positive clearance is not found, replacing the control yoke pivot bolt, inspecting the adjacent aileron control cables for damage, and replacing any damaged aileron control cable."
+    },
+    {
+      "id": "e39",
+      "type": "heading",
+      "page": 1,
+      "text": "The FAA's Determination",
+      "level": 2
+    },
+    {
+      "id": "e40",
+      "type": "paragraph",
+      "page": 1,
+      "text": "After examining the circumstances and reviewing all available information related to the incidents described above, including the relevant service information, the FAA has determined that AD action should be taken to prevent failure of an aileron control cable because of an incorrect length control yoke pivot bolt rubbing on one of these cables, which could result in loss of aileron control with loss of directional control of the airplane."
+    },
+    {
+      "id": "e41",
+      "type": "page_header",
+      "page": 2,
+      "text": "Federal Register /Vol. 64, No. 169 /Wednesday, September 1, 1999 /Rules and Regulations"
+    },
+    {
+      "id": "e42",
+      "type": "page_header",
+      "page": 2,
+      "text": "47659"
+    },
+    {
+      "id": "e43",
+      "type": "heading",
+      "page": 2,
+      "text": "Explanation of the Provisions of the AD",
+      "level": 2
+    },
+    {
+      "id": "e44",
+      "type": "paragraph",
+      "page": 2,
+      "text": "Since an unsafe condition has been identified that is likely to exist or develop in other Cessna Model 172R airplanes of the same type design that are equipped with a Cessna Modification Kit MK 172-27-01 that was shipped sometime between September 21, 1998, and April 18, 1999, the FAA is taking AD action. This AD requires inspecting the control yoke pivot bolt to assure positive clearance between the pivot bolt's threaded end and aileron direct cable. If positive clearance is not found, this AD requires replacing the control yoke pivot bolt, inspecting the adjacent aileron control cables for damage, and replacing any damaged aileron control cable."
+    },
+    {
+      "id": "e45",
+      "type": "paragraph",
+      "page": 2,
+      "text": "Accomplishment of these actions is required in accordance with Cessna Service Bulletin SB99-27-01, dated July 12, 1999."
+    },
+    {
+      "id": "e46",
+      "type": "heading",
+      "page": 2,
+      "text": "Determination of the Effective Date of the AD",
+      "level": 2
+    },
+    {
+      "id": "e47",
+      "type": "paragraph",
+      "page": 2,
+      "text": "Since a situation exists that requires the immediate adoption of this regulation, it is found that notice and opportunity for public prior comment hereon are impracticable, and that good cause exists for making this amendment effective in less than 30 days."
+    },
+    {
+      "id": "e48",
+      "type": "heading",
+      "page": 2,
+      "text": "Comments Invited",
+      "level": 2
+    },
+    {
+      "id": "e49",
+      "type": "paragraph",
+      "page": 2,
+      "text": "Although this action is in the form of a final rule that involves requirements affecting immediate flight safety and, thus, was not preceded by notice and opportunity to comment, comments are invited on this rule. Interested persons are invited to comment on this rule by submitting such written data, views, or arguments as they may desire. Communications should identify the Rules Docket number and be submitted in triplicate to the address specified above. All communications received on or before the closing date for comments will be considered, and this rule may be amended in light of the comments received. Factual information that supports the commenter's ideas and suggestions is extremely helpful in evaluating the effectiveness of the AD action and determining whether additional rulemaking action would be needed."
+    },
+    {
+      "id": "e50",
+      "type": "paragraph",
+      "page": 2,
+      "text": "Comments are specifically invited on the overall regulatory, economic, environmental, and energy aspects of the rule that might suggest a need to modify the rule. All comments submitted will be available, both before and after the closing date for comments, in the Rules Docket for examination by interested persons. A report that summarizes each FAA-public contact concerned with the substance of this AD will be filed in the Rules Docket."
+    },
+    {
+      "id": "e51",
+      "type": "paragraph",
+      "page": 2,
+      "text": "Commenters wishing the FAA to acknowledge receipt of their comments submitted in response to this rule must submit a self-addressed, stamped postcard on which the following statement is made: ''Comments to Docket No. 99-CE-55-AD.'' The postcard will be date stamped and returned to the commenter."
+    },
+    {
+      "id": "e52",
+      "type": "heading",
+      "page": 2,
+      "text": "Regulatory Impact",
+      "level": 2
+    },
+    {
+      "id": "e53",
+      "type": "paragraph",
+      "page": 2,
+      "text": "The regulations adopted herein will not have substantial direct effects on the States, on the relationship between the national government and the States, or on the distribution of power and responsibilities among the various levels of government. Therefore, in accordance with Executive Order 12612, it is determined that this final rule does not have sufficient federalism implications to warrant the preparation of a Federalism Assessment."
+    },
+    {
+      "id": "e54",
+      "type": "paragraph",
+      "page": 2,
+      "text": "The FAA has determined that this regulation is an emergency regulation that must be issued immediately to correct an unsafe condition in aircraft, and is not a significant regulatory action under Executive Order 12866. It has been determined further that this action involves an emergency regulation under DOT Regulatory Policies and Procedures (44 FR 11034, February 26, 1979). If it is determined that this emergency regulation otherwise would be significant under DOT Regulatory Policies and Procedures, a final regulatory evaluation will be prepared and placed in the Rules Docket (otherwise, an evaluation is not required). A copy of it, if filed, may be obtained from the Rules Docket."
+    },
+    {
+      "id": "e55",
+      "type": "heading",
+      "page": 2,
+      "text": "List of Subjects in 14 CFR Part 39",
+      "level": 2
+    },
+    {
+      "id": "e56",
+      "type": "paragraph",
+      "page": 2,
+      "text": "Air transportation, Aircraft, Aviation safety, Incorporation by reference, Safety."
+    },
+    {
+      "id": "e57",
+      "type": "heading",
+      "page": 2,
+      "text": "Adoption of the Amendment",
+      "level": 2
+    },
+    {
+      "id": "e58",
+      "type": "paragraph",
+      "page": 2,
+      "text": "Accordingly, pursuant to the authority delegated to me by the Administrator, the Federal Aviation Administration amends part 39 of the Federal Aviation Regulations (14 CFR part 39) as follows:"
+    },
+    {
+      "id": "e59",
+      "type": "heading",
+      "page": 2,
+      "text": "PART 39-AIRWORTHINESS DIRECTIVES",
+      "level": 2
+    },
+    {
+      "id": "e60",
+      "type": "paragraph",
+      "page": 2,
+      "text": "1. The authority citation for part 39 continues to read as follows:"
+    },
+    {
+      "id": "e61",
+      "type": "paragraph",
+      "page": 2,
+      "text": "Authority: 49 U.S.C. 106(g), 40113, 44701."
+    },
+    {
+      "id": "e62",
+      "type": "heading",
+      "page": 2,
+      "text": "§39.13 [Amended]",
+      "level": 2
+    },
+    {
+      "id": "e63",
+      "type": "paragraph",
+      "page": 2,
+      "text": "2. Section 39.13 is amended by adding a new airworthiness directive (AD) to read as follows:"
+    },
+    {
+      "id": "e64",
+      "type": "heading",
+      "page": 2,
+      "text": "99-18-14 CESSNA AIRCRAFT COMPANY:",
+      "level": 2
+    },
+    {
+      "id": "e65",
+      "type": "paragraph",
+      "page": 2,
+      "text": "Amendment 39-11280; Docket No. 99CE-55-AD."
+    },
+    {
+      "id": "e66",
+      "type": "paragraph",
+      "page": 2,
+      "text": "Applicability: The following serial numbers of Model 172R airplanes, certificated in any category; that are equipped with a Cessna Modification Kit MK 172-27-01 that was shipped sometime between September 21, 1998, and April 18, 1999:"
+    },
+    {
+      "id": "e67",
+      "type": "heading",
+      "page": 2,
+      "text": "Serial Numbers",
+      "level": 2
+    },
+    {
+      "id": "e68",
+      "type": "paragraph",
+      "page": 2,
+      "text": "17280003 through 17280016, 17280018 through 17280060, 17280062, 17280063, 17280065 through 17280071, 17280073 through 17280083, 17280085 through 17280088, 17280090, 17280091, and 17280093 through 17280096"
+    },
+    {
+      "id": "e69",
+      "type": "paragraph",
+      "page": 2,
+      "text": "Note 1: Modification Kit MK172-27-01 was issued to reduce friction in the elevator control system."
+    },
+    {
+      "id": "e70",
+      "type": "paragraph",
+      "page": 2,
+      "text": "Note 2: This AD applies to each airplane identified in the preceding applicability provision, regardless of whether it has been modified, altered, or repaired in the area subject to the requirements of this AD. For airplanes that have been modified, altered, or repaired so that the performance of the requirements of this AD is affected, the owner/operator must request approval for an alternative method of compliance in accordance with paragraph (e) of this AD. The request should include an assessment of the effect of the modification, alteration, or repair on the unsafe condition addressed by this AD; and, if the unsafe condition has not been eliminated, the request should include specific proposed actions to address it."
+    },
+    {
+      "id": "e71",
+      "type": "paragraph",
+      "page": 2,
+      "text": "Compliance: Required as indicated in the body of this AD, unless already accomplished."
+    },
+    {
+      "id": "e72",
+      "type": "paragraph",
+      "page": 2,
+      "text": "To prevent failure of an aileron control cable because of an incorrect length control yoke pivot bolt rubbing on one of these cables, which could result in loss of aileron control with loss of directional control of the airplane, accomplish the following:"
+    },
+    {
+      "id": "e73",
+      "type": "paragraph",
+      "page": 2,
+      "text": "(a) Within the next 25 hours time-inservice (TIS) after the effective date of this AD, inspect the control yoke pivot bolt to assure positive clearance between the pivot bolt's threaded end and the aileron direct cable. Accomplish this inspection in accordance with the ACCOMPLISHMENT INSTRUCTIONS section of Cessna Service Bulletin SB99-27-01, dated July 12, 1999. If positive clearance is not found, prior to further flight, accomplish the following in accordance with the service bulletin:"
+    },
+    {
+      "id": "e74",
+      "type": "paragraph",
+      "page": 2,
+      "text": "Replace the control yoke pivot bolt; and"
+    },
+    {
+      "id": "e75",
+      "type": "paragraph",
+      "page": 2,
+      "text": "(2) Inspect the adjacent aileron control cables for damage and replace any damaged aileron control cable."
+    },
+    {
+      "id": "e76",
+      "type": "paragraph",
+      "page": 2,
+      "text": "Note 3: This AD allows the aircraft owner or pilot to check the maintenance records to determine whether a Cessna Modification Kit MK 172-27-01 was incorporated after September 21, 1998, and before the effective date of this AD. Those kits shipped between September 21, 1998, and April 18, 1999, could contain incorrect length control yoke pivot bolts and, when installed, could rub on one of the adjacent aileron control cables. See paragraph (c) of this AD for authorization."
+    },
+    {
+      "id": "e77",
+      "type": "page_header",
+      "page": 3,
+      "text": "47660 Federal Register /Vol. 64, No. 169 /Wednesday, September 1, 1999 /Rules and Regulations"
+    },
+    {
+      "id": "e78",
+      "type": "paragraph",
+      "page": 3,
+      "text": "(b) As of the effective date of this AD, no person may incorporate on any airplane, a Cessna Modification Kit MK 172-27-01 that was shipped sometime between September 21, 1998, and April 18, 1999, unless a replacement control yoke pivot bolt is obtained from the manufacturer, and incorporated with the modification kit."
+    },
+    {
+      "id": "e79",
+      "type": "paragraph",
+      "page": 3,
+      "text": "(c) The owner/operator holding at least a private pilot certificate as authorized by section 43.7 of the Federal Aviation Regulations (14 CFR 43.7) may check the maintenance records to determine whether a Cessna Modification Kit MK 172-27-01 was incorporated after September 21, 1998, and before the effective date of this AD. Those kits shipped between September 21, 1998, and April 18, 1999, could contain incorrect length control yoke pivot bolts and, when installed, could rub on one of the adjacent aileron control cables. If, by checking the maintenance records, it can be positively determined that one of these suspect kits is not incorporated on the airplane, the requirements of paragraph (a) of this AD do not apply and the owner/operator must make an entry into the aircraft records showing compliance with this portion of the AD in accordance with section 43.9 of the Federal Aviation Regulations (14 CFR 43.9)."
+    },
+    {
+      "id": "e80",
+      "type": "paragraph",
+      "page": 3,
+      "text": "(d) Special flight permits may be issued in accordance with sections 21.197 and 21.199 of the Federal Aviation Regulations (14 CFR 21.197 and 21.199) to operate the airplane to a location where the requirements of this AD can be accomplished."
+    },
+    {
+      "id": "e81",
+      "type": "paragraph",
+      "page": 3,
+      "text": "(e) An alternative method of compliance or adjustment of the compliance times that provides an equivalent level of safety may be approved by the Manager, Wichita Aircraft Certification Office (ACO), 1801 Airport Road, Rm 100, Mid-Continent Airport, Wichita, Kansas, 67209. The request shall be forwarded through an appropriate FAA Maintenance Inspector, who may add comments and then send it to the Manager, Wichita ACO."
+    },
+    {
+      "id": "e82",
+      "type": "paragraph",
+      "page": 3,
+      "text": "Note 4: Information concerning the existence of approved alternative methods of compliance with this AD, if any, may be obtained from the Wichita ACO."
+    },
+    {
+      "id": "e83",
+      "type": "paragraph",
+      "page": 3,
+      "text": "(f) The inspections and replacements required by this AD shall be done in accordance with Cessna Service Bulletin SB99-27-01, dated July 12, 1999. This incorporation by reference was approved by the Director of the Federal Register in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. Copies may be obtained from the Cessna Aircraft Company, Product Support, P. O. Box 7706, Wichita, Kansas 67277. Copies may be inspected at the FAA, Central Region, Office of the Regional Counsel, Room 1558, 601 E. 12th Street, Kansas City, Missouri, or at the Office of the Federal Register, 800 North Capitol Street, NW, suite 700, Washington, DC."
+    },
+    {
+      "id": "e84",
+      "type": "paragraph",
+      "page": 3,
+      "text": "(g) This amendment becomes effective on September 27, 1999."
+    },
+    {
+      "id": "e85",
+      "type": "paragraph",
+      "page": 3,
+      "text": "Issued in Kansas City, Missouri, on August 23, 1999."
+    },
+    {
+      "id": "e86",
+      "type": "heading",
+      "page": 3,
+      "text": "Terry L. Chasteen,",
+      "level": 2
+    },
+    {
+      "id": "e87",
+      "type": "paragraph",
+      "page": 3,
+      "text": "Acting Manager, Small Airplane Directorate, Aircraft Certification Service."
+    },
+    {
+      "id": "e88",
+      "type": "paragraph",
+      "page": 3,
+      "text": "[FR Doc. 99-22536 Filed 8-31-99; 8:45 am] BILLING CODE 4910-13-U"
+    },
+    {
+      "id": "e89",
+      "type": "heading",
+      "page": 3,
+      "text": "DEPARTMENT OF TRANSPORTATION",
+      "level": 2
+    },
+    {
+      "id": "e90",
+      "type": "heading",
+      "page": 3,
+      "text": "Federal Aviation Administration",
+      "level": 2
+    },
+    {
+      "id": "e91",
+      "type": "heading",
+      "page": 3,
+      "text": "14 CFR Part 39",
+      "level": 2
+    },
+    {
+      "id": "e92",
+      "type": "paragraph",
+      "page": 3,
+      "text": "[Docket No. 99-NM-12-AD; Amendment 39-11277; AD 99-18-11]"
+    },
+    {
+      "id": "e93",
+      "type": "paragraph",
+      "page": 3,
+      "text": "RIN 2120-AA64"
+    },
+    {
+      "id": "e94",
+      "type": "paragraph",
+      "page": 3,
+      "text": "Airworthiness Directives; Short Brothers Model SD3-SHERPA, SD3-60 SHERPA, SD3-30, and SD3-60 Series Airplanes"
+    },
+    {
+      "id": "e95",
+      "type": "paragraph",
+      "page": 3,
+      "text": "AGENCY: Federal Aviation Administration, DOT. ACTION: Final rule."
+    },
+    {
+      "id": "e96",
+      "type": "paragraph",
+      "page": 3,
+      "text": "SUMMARY: This amendment adopts a new airworthiness directive (AD), applicable to all Short Brothers Model SD3-SHERPA, SD3-60 SHERPA, SD330, and SD3-60 series airplanes, that requires replacement of the existing bolts that secure the elevator control torque tube bearing housing retaining plate with hex head bolts. This amendment is prompted by issuance of mandatory continuing airworthiness information by a foreign civil airworthiness authority. The actions specified by this AD are intended to prevent reduced movement of the elevator controls and consequent reduced controllability of the airplane, as a result of bolts coming loose on the elevator control torque tube bearing housing retaining plate."
+    },
+    {
+      "id": "e97",
+      "type": "paragraph",
+      "page": 3,
+      "text": "DATES: Effective October 6, 1999."
+    },
+    {
+      "id": "e98",
+      "type": "paragraph",
+      "page": 3,
+      "text": "The incorporation by reference of certain publications listed in the regulations is approved by the Director of the Federal Register as of October 6, 1999."
+    },
+    {
+      "id": "e99",
+      "type": "paragraph",
+      "page": 3,
+      "text": "ADDRESSES: The service information referenced in this AD may be obtained from Short Brothers, Airworthiness & Engineering Quality, P.O. Box 241, Airport Road, Belfast BT3 9DZ, Northern Ireland. This information may be examined at the Federal Aviation Administration (FAA), Transport Airplane Directorate, Rules Docket, 1601 Lind Avenue, SW., Renton, Washington; or at the Office of the Federal Register, 800 North Capitol Street, NW., suite 700, Washington, DC. FOR FURTHER INFORMATION CONTACT: Norman B. Martenson, Manager, International Branch, ANM-116, FAA, Transport Airplane Directorate, 1601 Lind Avenue, SW., Renton, Washington 98055-4056; telephone (425) 227-2110; fax (425) 227-1149."
+    },
+    {
+      "id": "e100",
+      "type": "paragraph",
+      "page": 3,
+      "text": "SUPPLEMENTARY INFORMATION: A proposal to amend part 39 of the Federal Aviation Regulations (14 CFR part 39) to include an airworthiness directive (AD) that is applicable to all Short Brothers Model SD3-SHERPA, SD3-60 SHERPA, SD3-30, and SD3-60 series airplanes was published in the Federal Register on June 28, 1999 (64 FR 34581). That action proposed to require replacement of the existing bolts that secure the elevator control torque tube bearing housing retaining plate with hex head bolts."
+    },
+    {
+      "id": "e101",
+      "type": "heading",
+      "page": 3,
+      "text": "Comments",
+      "level": 2
+    },
+    {
+      "id": "e102",
+      "type": "paragraph",
+      "page": 3,
+      "text": "Interested persons have been afforded an opportunity to participate in the making of this amendment. No comments were submitted in response to the proposal or the FAA's determination of the cost to the public."
+    },
+    {
+      "id": "e103",
+      "type": "heading",
+      "page": 3,
+      "text": "Conclusion",
+      "level": 2
+    },
+    {
+      "id": "e104",
+      "type": "paragraph",
+      "page": 3,
+      "text": "The FAA has determined that air safety and the public interest require the adoption of the rule as proposed."
+    },
+    {
+      "id": "e105",
+      "type": "heading",
+      "page": 3,
+      "text": "Cost Impact",
+      "level": 2
+    },
+    {
+      "id": "e106",
+      "type": "paragraph",
+      "page": 3,
+      "text": "The FAA estimates that 46 airplanes of U.S. registry will be affected by this AD, that it will take approximately 4 work hours per airplane to accomplish the required replacement, and that the average labor rate is $60 per work hour. Required parts will come from the operator's existing supply. Based on these figures, the cost impact of the required AD on U.S. operators is estimated to be $11,040, or $240 per airplane."
+    },
+    {
+      "id": "e107",
+      "type": "paragraph",
+      "page": 3,
+      "text": "The cost impact figure discussed above is based on assumptions that no operator has yet accomplished any of the requirements of this AD action, and that no operator would accomplish those actions in the future if this AD were not adopted."
+    },
+    {
+      "id": "e108",
+      "type": "heading",
+      "page": 3,
+      "text": "Regulatory Impact",
+      "level": 2
+    },
+    {
+      "id": "e109",
+      "type": "paragraph",
+      "page": 3,
+      "text": "The regulations adopted herein will not have substantial direct effects on the States, on the relationship between the national government and the States, or on the distribution of power and responsibilities among the various levels of government. Therefore, in accordance with Executive Order 12612, it is determined that this final rule does not have sufficient federalism implications to warrant the preparation of a Federalism Assessment."
+    },
+    {
+      "id": "e110",
+      "type": "paragraph",
+      "page": 3,
+      "text": "For the reasons discussed above, I certify that this action (1) is not a"
+    }
+  ]
+}

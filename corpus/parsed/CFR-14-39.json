@@ -1,0 +1,200 @@
+{
+  "source_id": "CFR-14-39",
+  "file": "faa/cfr/14-cfr-part-39.xml",
+  "format": "xml",
+  "parser": "ecfr-xml",
+  "meta": {
+    "title": "14 CFR Part 39: Airworthiness Directives",
+    "publisher": "FAA",
+    "doc_type": "regulation",
+    "as_of": "2026-10-15",
+    "access": "employees"
+  },
+  "elements": [
+    {
+      "id": "e1",
+      "type": "heading",
+      "level": 1,
+      "text": "PART 39—AIRWORTHINESS DIRECTIVES"
+    },
+    {
+      "id": "e2",
+      "type": "paragraph",
+      "text": "Authority:49 U.S.C. 106(g), 40113, 44701."
+    },
+    {
+      "id": "e3",
+      "type": "paragraph",
+      "text": "Source:Docket No. FAA-2000-8460, 67 FR 48003, July 22, 2002, unless otherwise noted."
+    },
+    {
+      "id": "e4",
+      "type": "heading",
+      "level": 3,
+      "text": "§ 39.1 Purpose of this regulation."
+    },
+    {
+      "id": "e5",
+      "type": "paragraph",
+      "text": "The regulations in this part provide a legal framework for FAA's system of Airworthiness Directives."
+    },
+    {
+      "id": "e6",
+      "type": "heading",
+      "level": 3,
+      "text": "§ 39.3 Definition of airworthiness directives."
+    },
+    {
+      "id": "e7",
+      "type": "paragraph",
+      "text": "FAA's airworthiness directives are legally enforceable rules that apply to the following products: aircraft, aircraft engines, propellers, and appliances."
+    },
+    {
+      "id": "e8",
+      "type": "heading",
+      "level": 3,
+      "text": "§ 39.5 When does FAA issue airworthiness directives?"
+    },
+    {
+      "id": "e9",
+      "type": "paragraph",
+      "text": "FAA issues an airworthiness directive addressing a product when we find that:"
+    },
+    {
+      "id": "e10",
+      "type": "paragraph",
+      "text": "(a) An unsafe condition exists in the product; and"
+    },
+    {
+      "id": "e11",
+      "type": "paragraph",
+      "text": "(b) The condition is likely to exist or develop in other products of the same type design."
+    },
+    {
+      "id": "e12",
+      "type": "heading",
+      "level": 3,
+      "text": "§ 39.7 What is the legal effect of failing to comply with an airworthiness directive?"
+    },
+    {
+      "id": "e13",
+      "type": "paragraph",
+      "text": "Anyone who operates a product that does not meet the requirements of an applicable airworthiness directive is in violation of this section."
+    },
+    {
+      "id": "e14",
+      "type": "heading",
+      "level": 3,
+      "text": "§ 39.9 What if I operate an aircraft or use a product that does not meet the requirements of an airworthiness directive?"
+    },
+    {
+      "id": "e15",
+      "type": "paragraph",
+      "text": "If the requirements of an airworthiness directive have not been met, you violate § 39.7 each time you operate the aircraft or use the product."
+    },
+    {
+      "id": "e16",
+      "type": "heading",
+      "level": 3,
+      "text": "§ 39.11 What actions do airworthiness directives require?"
+    },
+    {
+      "id": "e17",
+      "type": "paragraph",
+      "text": "Airworthiness directives specify inspections you must carry out, conditions and limitations you must comply with, and any actions you must take to resolve an unsafe condition."
+    },
+    {
+      "id": "e18",
+      "type": "heading",
+      "level": 3,
+      "text": "§ 39.13 Are airworthiness directives part of the Code of Federal Regulations?"
+    },
+    {
+      "id": "e19",
+      "type": "paragraph",
+      "text": "Yes, airworthiness directives are part of the Code of Federal Regulations, but they are not codified in the annual edition. FAA publishes airworthiness directives in full in the Federal Register as amendments to § 39.13."
+    },
+    {
+      "id": "e20",
+      "type": "paragraph",
+      "text": "Editorial Note:For a complete list of citations to airworthiness directives published in the Federal Register, consult the following publications: For airworthiness directives published in the Federal Register since 2001, see the entries for 14 CFR 39.13 in the List of CFR Sections Affected, which appears in the “Finding Aids” section of the printed volume and at www.govinfo.gov. For citations to prior amendments, see the entries for 14 CFR 39.13 in the separate publications List of CFR Sections Affected, 1973-1985, List of CFR Sections Affected, 1964-1972, and List of CFR Sections Affected, 1986-2000, and the entries for 14 CFR 507.10 in the List of Sections Affected, 1949-1963. See also the annual editions of the Federal Register Index for subject matter references and citations to FAA airworthiness directives."
+    },
+    {
+      "id": "e21",
+      "type": "heading",
+      "level": 3,
+      "text": "§ 39.15 Does an airworthiness directive apply if the product has been changed?"
+    },
+    {
+      "id": "e22",
+      "type": "paragraph",
+      "text": "Yes, an airworthiness directive applies to each product identified in the airworthiness directive, even if an individual product has been changed by modifying, altering, or repairing it in the area addressed by the airworthiness directive."
+    },
+    {
+      "id": "e23",
+      "type": "heading",
+      "level": 3,
+      "text": "§ 39.17 What must I do if a change in a product affects my ability to accomplish the actions required in an airworthiness directive?"
+    },
+    {
+      "id": "e24",
+      "type": "paragraph",
+      "text": "If a change in a product affects your ability to accomplish the actions required by the airworthiness directive in any way, you must request FAA approval of an alternative method of compliance. Unless you can show the change eliminated the unsafe condition, your request should include the specific actions that you propose to address the unsafe condition. Submit your request in the manner described in § 39.19."
+    },
+    {
+      "id": "e25",
+      "type": "heading",
+      "level": 3,
+      "text": "§ 39.19 May I address the unsafe condition in a way other than that set out in the airworthiness directive?"
+    },
+    {
+      "id": "e26",
+      "type": "paragraph",
+      "text": "Yes, anyone may propose to FAA an alternative method of compliance or a change in the compliance time, if the proposal provides an acceptable level of safety. Unless FAA authorizes otherwise, send your proposal to your principal inspector. Include the specific actions you are proposing to address the unsafe condition. The principal inspector may add comments and will send your request to the manager of the office identified in the airworthiness directive (manager). You may send a copy to the manager at the same time you send it to the principal inspector. If you do not have a principal inspector send your proposal directly to the manager. You may use the alternative you propose only if the manager approves it."
+    },
+    {
+      "id": "e27",
+      "type": "heading",
+      "level": 3,
+      "text": "§ 39.21 Where can I get information about FAA-approved alternative methods of compliance?"
+    },
+    {
+      "id": "e28",
+      "type": "paragraph",
+      "text": "Each airworthiness directive identifies the office responsible for approving alternative methods of compliance. That office can provide information about alternatives it has already approved."
+    },
+    {
+      "id": "e29",
+      "type": "heading",
+      "level": 3,
+      "text": "§ 39.23 May I fly my aircraft to a repair facility to do the work required by an airworthiness directive?"
+    },
+    {
+      "id": "e30",
+      "type": "paragraph",
+      "text": "Yes, the operations specifications giving some operators authority to operate include a provision that allow them to fly their aircraft to a repair facility to do the work required by an airworthiness directive. If you do not have this authority, the local Flight Standards District Office of FAA may issue you a special flight permit unless the airworthiness directive states otherwise. To ensure aviation safety, FAA may add special requirements for operating your aircraft to a place where the repairs or modifications can be accomplished. FAA may also decline to issue a special flight permit in particular cases if we determine you cannot move the aircraft safely."
+    },
+    {
+      "id": "e31",
+      "type": "heading",
+      "level": 3,
+      "text": "§ 39.25 How do I get a special flight permit?"
+    },
+    {
+      "id": "e32",
+      "type": "paragraph",
+      "text": "Apply to FAA for a special flight permit following the procedures in 14 CFR 21.199."
+    },
+    {
+      "id": "e33",
+      "type": "heading",
+      "level": 3,
+      "text": "§ 39.27 What do I do if the airworthiness directive conflicts with the service document on which it is based?"
+    },
+    {
+      "id": "e34",
+      "type": "paragraph",
+      "text": "In some cases an airworthiness directive incorporates by reference a manufacturer's service document. In these cases, the service document becomes part of the airworthiness directive. In some cases the directions in the service document may be modified by the airworthiness directive. If there is a conflict between the service document and the airworthiness directive, you must follow the requirements of the airworthiness directive."
+    }
+  ]
+}

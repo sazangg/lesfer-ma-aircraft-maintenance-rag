@@ -1,0 +1,1020 @@
+{
+  "source_id": "AD-98-01-01",
+  "file": "faa/ad/ad-98-01-01.pdf",
+  "format": "pdf",
+  "parser": "docling",
+  "meta": {
+    "title": "AD 98-01-01: Cessna Aircraft Company Models 172R and 182S Airplanes",
+    "publisher": "FAA",
+    "doc_type": "airworthiness directive",
+    "ad_number": "98-01-01",
+    "action": "Final rule; request for comments",
+    "published": "1998-01-23",
+    "effective": "1998-02-02",
+    "federal_register": "63 FR 3455 (document 98-1297)",
+    "access": "employees"
+  },
+  "elements": [
+    {
+      "id": "e1",
+      "type": "page_header",
+      "page": 1,
+      "text": "Federal Register / Vol. 63, No. 15 / Friday, January 23, 1998 / Rules and Regulations"
+    },
+    {
+      "id": "e2",
+      "type": "page_header",
+      "page": 1,
+      "text": "3455"
+    },
+    {
+      "id": "e3",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Designation of State Location for Members With Principal Place of Business in American Samoa, the Northern Mariana Islands, or GuamSection 932.11(b)"
+    },
+    {
+      "id": "e4",
+      "type": "paragraph",
+      "page": 1,
+      "text": "For the reasons discussed above, the proposed amendment of §932.11(b) provided that members with a principal place of business located in American Samoa or the Northern Mariana Islands shall be deemed to be located in Hawaii for purposes of election of Bank directors. One commenter specifically supported this designation. The final rule adopts the proposed amendment without change. The final rule also adopts, without change, the proposed amendment codifying the Finance Board's existing designation of Hawaii as the State where members with a principal place of business in Guam are deemed to be located for director election purposes."
+    },
+    {
+      "id": "e5",
+      "type": "heading",
+      "page": 1,
+      "text": "III. Regulatory Flexibility Act",
+      "level": 2
+    },
+    {
+      "id": "e6",
+      "type": "paragraph",
+      "page": 1,
+      "text": "The final rule implements statutory requirements binding on all Banks and on all applicants for Bank membership, regardless of their size. The Finance Board is not at liberty to make adjustments to those requirements to accommodate small entities. The final rule does not impose any additional regulatory requirements that will have a disproportionate impact on small entities. Therefore, in accordance with section 605(b) of the Regulatory Flexibility Act, see 5 U.S.C. 605(b), the Finance Board hereby certifies that this final rule will not have a significant economic impact on a substantial number of small entities."
+    },
+    {
+      "id": "e7",
+      "type": "heading",
+      "page": 1,
+      "text": "IV. Paperwork Reduction Act",
+      "level": 2
+    },
+    {
+      "id": "e8",
+      "type": "paragraph",
+      "page": 1,
+      "text": "The final rule does not contain any collections of information pursuant to the Paperwork Reduction Act of 1995. See 44 U.S.C. 3501 et seq. Consequently, the Finance Board has not submitted any information to the Office of Management and Budget for review."
+    },
+    {
+      "id": "e9",
+      "type": "paragraph",
+      "page": 1,
+      "text": "List of Subjects"
+    },
+    {
+      "id": "e10",
+      "type": "paragraph",
+      "page": 1,
+      "text": "12 CFR Part 900"
+    },
+    {
+      "id": "e11",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Organizations and functions (Government agencies)."
+    },
+    {
+      "id": "e12",
+      "type": "paragraph",
+      "page": 1,
+      "text": "12 CFR Part 932"
+    },
+    {
+      "id": "e13",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Conflicts of interest, Federal home loan banks."
+    },
+    {
+      "id": "e14",
+      "type": "paragraph",
+      "page": 1,
+      "text": "12 CFR Part 933"
+    },
+    {
+      "id": "e15",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Credit, Federal home loan banks, Reporting and recordkeeping requirements."
+    },
+    {
+      "id": "e16",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Accordingly, the Finance Board hereby amends title 12, chapter IX, parts"
+    },
+    {
+      "id": "e17",
+      "type": "paragraph",
+      "page": 1,
+      "text": "900, 932 and 933, Code of Federal Regulations, as follows:"
+    },
+    {
+      "id": "e18",
+      "type": "heading",
+      "page": 1,
+      "text": "PART 900-DESCRIPTION OF ORGANIZATION AND FUNCTIONS",
+      "level": 2
+    },
+    {
+      "id": "e19",
+      "type": "paragraph",
+      "page": 1,
+      "text": "The authority citation for part 900 is revised to read as follows:"
+    },
+    {
+      "id": "e20",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Authority: 5 U.S.C. 552; 12 U.S.C. 1422b(a), 1423."
+    },
+    {
+      "id": "e21",
+      "type": "paragraph",
+      "page": 1,
+      "text": "The appendix to subpart A of part 900 is designated as appendix A to subpart A of part 900, the appendix heading is revised, and the parenthetical under Federal Home Loan Bank District 12 is revised to read as follows:"
+    },
+    {
+      "id": "e22",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Appendix A to Subpart A of Part 900Federal Home Loan Banks"
+    },
+    {
+      "id": "e23",
+      "type": "paragraph",
+      "page": 1,
+      "text": "* * * * *"
+    },
+    {
+      "id": "e24",
+      "type": "paragraph",
+      "page": 1,
+      "text": "FEDERAL HOME LOAN BANK DISTRICT 12 (Alaska, American Samoa, the Commonwealth of the Northern Mariana Islands, Guam, Hawaii, Idaho, Montana, Oregon, Utah, Washington, Wyoming)"
+    },
+    {
+      "id": "e25",
+      "type": "paragraph",
+      "page": 1,
+      "text": "* * * * *"
+    },
+    {
+      "id": "e26",
+      "type": "heading",
+      "page": 1,
+      "text": "PART 932-ORGANIZATION OF THE BANKS",
+      "level": 2
+    },
+    {
+      "id": "e27",
+      "type": "paragraph",
+      "page": 1,
+      "text": "The authority citation for part 932 is revised to read as follows:"
+    },
+    {
+      "id": "e28",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Authority: 12 U.S.C. 1422, 1422a, 1422b, 1423, 1426, 1427, 1432; 42 U.S.C. 8101 et seq."
+    },
+    {
+      "id": "e29",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Section 932.11 is amended by revising paragraph (b) to read as follows:"
+    },
+    {
+      "id": "e30",
+      "type": "paragraph",
+      "page": 1,
+      "text": "§932.11 Location of member."
+    },
+    {
+      "id": "e31",
+      "type": "paragraph",
+      "page": 1,
+      "text": "* * * * *"
+    },
+    {
+      "id": "e32",
+      "type": "paragraph",
+      "page": 1,
+      "text": "(b) For purposes of this part, members with a principal place of business located in the Virgin Islands of the United States shall be deemed to be located in Puerto Rico, and members with a principal place of business located in American Samoa, the Commonwealth of the Northern Mariana Islands, or Guam, shall be deemed to be located in Hawaii."
+    },
+    {
+      "id": "e33",
+      "type": "heading",
+      "page": 1,
+      "text": "PART 933-MEMBERS OF THE BANKS",
+      "level": 2
+    },
+    {
+      "id": "e34",
+      "type": "paragraph",
+      "page": 1,
+      "text": "The authority citation for part 933 is revised to read as follows:"
+    },
+    {
+      "id": "e35",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Authority: 12 U.S.C. 1422, 1422a, 1422b, 1423, 1424, 1426, 1430, 1442."
+    },
+    {
+      "id": "e36",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Section 933.1 is amended by revising paragraph (cc) to read as follows:"
+    },
+    {
+      "id": "e37",
+      "type": "heading",
+      "page": 1,
+      "text": "§933.1 Definitions.",
+      "level": 2
+    },
+    {
+      "id": "e38",
+      "type": "paragraph",
+      "page": 1,
+      "text": "* * * * *"
+    },
+    {
+      "id": "e39",
+      "type": "paragraph",
+      "page": 1,
+      "text": "(cc) State includes a State of the United States, American Samoa, the Commonwealth of the Northern Mariana Islands, the District of Columbia, Guam, Puerto Rico, or the Virgin Islands of the United States."
+    },
+    {
+      "id": "e40",
+      "type": "paragraph",
+      "page": 1,
+      "text": "* * * * *"
+    },
+    {
+      "id": "e41",
+      "type": "paragraph",
+      "page": 1,
+      "text": "By the Board of Directors of the Federal Housing Finance Board."
+    },
+    {
+      "id": "e42",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Dated: December 17, 1997."
+    },
+    {
+      "id": "e43",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Bruce A. Morrison,"
+    },
+    {
+      "id": "e44",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Chairman."
+    },
+    {
+      "id": "e45",
+      "type": "paragraph",
+      "page": 1,
+      "text": "[FR Doc. 98-1639 Filed 1-22-98; 8:45 am]"
+    },
+    {
+      "id": "e46",
+      "type": "paragraph",
+      "page": 1,
+      "text": "BILLING CODE 6725-01-U"
+    },
+    {
+      "id": "e47",
+      "type": "heading",
+      "page": 1,
+      "text": "DEPARTMENT OF TRANSPORTATION",
+      "level": 2
+    },
+    {
+      "id": "e48",
+      "type": "heading",
+      "page": 1,
+      "text": "Federal Aviation Administration",
+      "level": 2
+    },
+    {
+      "id": "e49",
+      "type": "heading",
+      "page": 1,
+      "text": "14 CFR Part 39",
+      "level": 2
+    },
+    {
+      "id": "e50",
+      "type": "paragraph",
+      "page": 1,
+      "text": "[Docket No. 97-CE-150-AD; Amendment 39-10287; AD 98-01-01]"
+    },
+    {
+      "id": "e51",
+      "type": "paragraph",
+      "page": 1,
+      "text": "RIN 2120-AA64"
+    },
+    {
+      "id": "e52",
+      "type": "paragraph",
+      "page": 1,
+      "text": "Airworthiness Directives; Cessna Aircraft Company Models 172R and 182S Airplanes"
+    },
+    {
+      "id": "e53",
+      "type": "paragraph",
+      "page": 1,
+      "text": "AGENCY: Federal Aviation Administration, DOT."
+    },
+    {
+      "id": "e54",
+      "type": "paragraph",
+      "page": 1,
+      "text": "ACTION: Final rule; request for comments."
+    },
+    {
+      "id": "e55",
+      "type": "paragraph",
+      "page": 1,
+      "text": "SUMMARY: This document publishes in the Federal Register an amendment adopting Airworthiness Directive (AD) 98-01-01, which was sent previously to all known U.S. owners and operators of certain Cessna Aircraft Company (Cessna) Models 172R and 182S airplanes. This AD requires fabricating and installing placards to prohibit operation in instrument flight rules (IFR) conditions and use of the alternate static air source; inspecting the alternate static air source valve to assure that the alternate static air source port is not restricted by the identification placard and to assure that the valve body does not separate from the valve flange; and reworking or replacing as necessary. The AD was the result of reports of improper installation of the identification placard on the alternate static air source. The actions specified by this AD are intended to prevent erroneous indications from the altimeter, airspeed, and vertical speed indicators, which could cause the pilot to react to incorrect flight information and possibly result in loss of control of the airplane."
+    },
+    {
+      "id": "e56",
+      "type": "paragraph",
+      "page": 1,
+      "text": "DATES: Effective February 2, 1998, to all persons except those to whom it was made immediately effective by priority letter AD 98-01-01, issued December 22, 1997, which contained the requirements of this amendment."
+    },
+    {
+      "id": "e57",
+      "type": "paragraph",
+      "page": 1,
+      "text": "The incorporation by reference of certain publications listed in the regulations is approved by the Director of the Federal Register as of February 2, 1998."
+    },
+    {
+      "id": "e58",
+      "type": "page_header",
+      "page": 2,
+      "text": "3456"
+    },
+    {
+      "id": "e59",
+      "type": "page_header",
+      "page": 2,
+      "text": "Federal Register / Vol. 63, No. 15 / Friday, January 23, 1998 / Rules and Regulations"
+    },
+    {
+      "id": "e60",
+      "type": "paragraph",
+      "page": 2,
+      "text": "Comments for inclusion in the Rules Docket must be received on or before March 16, 1998."
+    },
+    {
+      "id": "e61",
+      "type": "paragraph",
+      "page": 2,
+      "text": "ADDRESSES: Submit comments in triplicate to the Federal Aviation Administration (FAA), Central Region, Office of the Regional Counsel, Attention: Rules Docket No. 97-CE150-AD, Room 1558, 601 E. 12th Street, Kansas City, Missouri 64106."
+    },
+    {
+      "id": "e62",
+      "type": "paragraph",
+      "page": 2,
+      "text": "Service information that applies to this AD may be obtained from the Cessna Aircraft Company, Product Support, P.O. Box 7706, Wichita, Kansas 67277. This information may also be examined at the Rules Docket at the address above, or at the Office of the Federal Register, 800 North Capitol Street, NW, suite 700, Washington, DC. FOR FURTHER INFORMATION CONTACT: Mr. Joel Ligon, Aerospace Engineer, Wichita Aircraft Certification Office, FAA, 1801 Airport Road, Mid-Continent Airport, Wichita, Kansas 67209; telephone (316) 946-4138; facsimile (316) 946-4407."
+    },
+    {
+      "id": "e63",
+      "type": "heading",
+      "page": 2,
+      "text": "SUPPLEMENTARY INFORMATION:",
+      "level": 2
+    },
+    {
+      "id": "e64",
+      "type": "heading",
+      "page": 2,
+      "text": "Discussion",
+      "level": 2
+    },
+    {
+      "id": "e65",
+      "type": "paragraph",
+      "page": 2,
+      "text": "On December 22, 1997, the FAA issued priority letter AD 98-01-01, which applies to Cessna Models 172R and 182S airplanes. That AD resulted from reports of improper installation of the identification placard on the alternate static air source. This placard was installed on the valve body in a location that covers the external orifice, which is the inlet for static air reference into the valve."
+    },
+    {
+      "id": "e66",
+      "type": "paragraph",
+      "page": 2,
+      "text": "Cessna discovered the problem during a preflight static check on a Model 172R airplane. Further investigation and a purge of stock at the manufacturing facility revealed 21 valve assemblies having the identification placard installed over the static air reference orifice. Cessna has no way of verifying how many of these assemblies were manufactured and sent to the field with the identification placard installed over the static air reference orifice."
+    },
+    {
+      "id": "e67",
+      "type": "paragraph",
+      "page": 2,
+      "text": "Several of these assemblies have been identified and corrected on the abovereferenced airplanes. The FAA has no way of determining which airplanes have the remaining problem alternate static air source assemblies installed without having all of the affected airplanes inspected."
+    },
+    {
+      "id": "e68",
+      "type": "paragraph",
+      "page": 2,
+      "text": "These assemblies are required for flight into instrument flight rules (IFR) conditions as defined in §91.411 of the Federal Aviation Regulations (14 CFR 91.411). Use of these assemblies is optional in visual flight rules (VFR) conditions."
+    },
+    {
+      "id": "e69",
+      "type": "paragraph",
+      "page": 2,
+      "text": "If these assemblies are not identified and reworked or replaced, selection of the alternate air source will cause the altimeter, airspeed, and vertical speed indicators to display erroneous indications. This could cause the pilot to react to incorrect flight information and possibly result in loss of control of the airplane."
+    },
+    {
+      "id": "e70",
+      "type": "heading",
+      "page": 2,
+      "text": "Relevant Service Information",
+      "level": 2
+    },
+    {
+      "id": "e71",
+      "type": "paragraph",
+      "page": 2,
+      "text": "Cessna has issued Service Bulletin No. SB97-34-02, Revision 1, dated December 22, 1997, which includes:"
+    },
+    {
+      "id": "e72",
+      "type": "paragraph",
+      "page": 2,
+      "text": "-Procedures for inspecting the alternate static air source valve to assure that the alternate static air source port is not restricted by the identification placard and to assure that the valve body does not separate from the valve flange;"
+    },
+    {
+      "id": "e73",
+      "type": "paragraph",
+      "page": 2,
+      "text": "-Procedures for reworking the alternate static air source valve if the port is restricted; and"
+    },
+    {
+      "id": "e74",
+      "type": "paragraph",
+      "page": 2,
+      "text": "-Reference to replacing the alternate static air valve assembly if the valve body separates from the valve flange in accordance with the maintenance manual."
+    },
+    {
+      "id": "e75",
+      "type": "paragraph",
+      "page": 2,
+      "text": "Cessna is providing warranty credit for both labor and parts for required inspections, reworks, and replacements."
+    },
+    {
+      "id": "e76",
+      "type": "heading",
+      "page": 2,
+      "text": "The FAA's Determination and Explanation of the AD",
+      "level": 2
+    },
+    {
+      "id": "e77",
+      "type": "paragraph",
+      "page": 2,
+      "text": "Since an unsafe condition has been identified that is likely to exist or develop in other Cessna Models 172R and 182S of the same type design, the FAA issued priority letter AD 98-01-01 to prevent erroneous indications from the altimeter, airspeed, and vertical speed indicators, which could cause the pilot to react to incorrect flight information and possibly result in loss of control of the airplane. The AD requires the following:"
+    },
+    {
+      "id": "e78",
+      "type": "paragraph",
+      "page": 2,
+      "text": "-Immediately fabricating placards that prohibit operation in IFR conditions and prohibit use of the alternate static air source, and installing these placards in the cockpit within the pilot's clear view;"
+    },
+    {
+      "id": "e79",
+      "type": "paragraph",
+      "page": 2,
+      "text": "-Eventually inspecting the alternate static air source valve to assure that the alternate static air source port is not restricted by the identification placard and to assure that the valve body does not separate from the valve flange;"
+    },
+    {
+      "id": "e80",
+      "type": "paragraph",
+      "page": 2,
+      "text": "-Reworking the alternate static air source assembly if the port is restricted; and"
+    },
+    {
+      "id": "e81",
+      "type": "paragraph",
+      "page": 2,
+      "text": "-Replacing the alternate static air source assembly if the valve body separates from the valve flange."
+    },
+    {
+      "id": "e82",
+      "type": "paragraph",
+      "page": 2,
+      "text": "Accomplishment of the inspection and rework is required in accordance with the previously referenced service information. Accomplishment of the replacement is required in accordance with the applicable maintenance manual."
+    },
+    {
+      "id": "e83",
+      "type": "heading",
+      "page": 2,
+      "text": "Determination of the Effective Date of the AD",
+      "level": 2
+    },
+    {
+      "id": "e84",
+      "type": "paragraph",
+      "page": 2,
+      "text": "Since it was found that immediate corrective action was required, notice and opportunity for prior public comment thereon were impracticable and contrary to the public interest, and good cause existed to make the AD effective immediately by individual letters issued on December 22, 1997, to all known U.S. operators of certain Cessna Models 172R and 182S airplanes. These conditions still exist, and the AD is hereby published in the Federal Register as an amendment to section 39.13 of the Federal Aviation Regulations (14 CFR 39.13) to make it effective as to all persons."
+    },
+    {
+      "id": "e85",
+      "type": "heading",
+      "page": 2,
+      "text": "Comments Invited",
+      "level": 2
+    },
+    {
+      "id": "e86",
+      "type": "paragraph",
+      "page": 2,
+      "text": "Although this action is in the form of a final rule that involves requirements affecting immediate flight safety and, thus, was not preceded by notice and opportunity to comment, comments are invited on this rule. Interested persons are invited to comment on this rule by submitting such written data, views, or arguments as they may desire. Communications should identify the Rules Docket number and be submitted in triplicate to the address specified above. All communications received on or before the closing date for comments will be considered, and this rule may be amended in light of the comments received. Factual information that supports the commenter's ideas and suggestions is extremely helpful in evaluating the effectiveness of the AD action and determining whether additional rulemaking action would be needed."
+    },
+    {
+      "id": "e87",
+      "type": "paragraph",
+      "page": 2,
+      "text": "Comments are specifically invited on the overall regulatory, economic, environmental, and energy aspects of the rule that might suggest a need to modify the rule. All comments submitted will be available, both before and after the closing date for comments, in the Rules Docket for examination by interested persons. A report that summarizes each FAA-public contact concerned with the substance of this AD will be filed in the Rules Docket."
+    },
+    {
+      "id": "e88",
+      "type": "paragraph",
+      "page": 2,
+      "text": "Commenters wishing the FAA to acknowledge receipt of their comments submitted in response to this rule must submit a self-addressed, stamped postcard on which the following statement is made: ''Comments to Docket No. 97-CE-150-AD.'' The postcard will be date stamped and returned to the commenter."
+    },
+    {
+      "id": "e89",
+      "type": "page_header",
+      "page": 3,
+      "text": "Federal Register / Vol. 63, No. 15 / Friday, January 23, 1998 / Rules and Regulations"
+    },
+    {
+      "id": "e90",
+      "type": "page_header",
+      "page": 3,
+      "text": "3457"
+    },
+    {
+      "id": "e91",
+      "type": "heading",
+      "page": 3,
+      "text": "Regulatory Impact",
+      "level": 2
+    },
+    {
+      "id": "e92",
+      "type": "paragraph",
+      "page": 3,
+      "text": "The regulations adopted herein will not have substantial direct effects on the States, on the relationship between the national government and the States, or on the distribution of power and responsibilities among the various levels of government. Therefore, in accordance with Executive Order 12612, it is determined that this final rule does not have sufficient federalism implications to warrant the preparation of a Federalism Assessment."
+    },
+    {
+      "id": "e93",
+      "type": "paragraph",
+      "page": 3,
+      "text": "The FAA has determined that this regulation is an emergency regulation that must be issued immediately to correct an unsafe condition in aircraft, and is not a ''significant regulatory action'' under Executive Order 12866. It has been determined further that this action involves an emergency regulation under DOT Regulatory Policies and Procedures (44 FR 11034, February 26, 1979). If it is determined that this emergency regulation otherwise would be significant under DOT Regulatory Policies and Procedures, a final regulatory evaluation will be prepared and placed in the Rules Docket. A copy of it, if filed, may be obtained from the Rules Docket at the location provided under the caption ADDRESSES."
+    },
+    {
+      "id": "e94",
+      "type": "heading",
+      "page": 3,
+      "text": "List of Subjects in 14 CFR Part 39",
+      "level": 2
+    },
+    {
+      "id": "e95",
+      "type": "paragraph",
+      "page": 3,
+      "text": "Air transportation, Aircraft, Aviation safety, Incorporation by reference, Safety."
+    },
+    {
+      "id": "e96",
+      "type": "heading",
+      "page": 3,
+      "text": "Adoption of the Amendment",
+      "level": 2
+    },
+    {
+      "id": "e97",
+      "type": "paragraph",
+      "page": 3,
+      "text": "Accordingly, pursuant to the authority delegated to me by the Administrator, the Federal Aviation Administration amends part 39 of the Federal Aviation Regulations (14 CFR part 39) as follows:"
+    },
+    {
+      "id": "e98",
+      "type": "heading",
+      "page": 3,
+      "text": "PART 39-AIRWORTHINESS DIRECTIVES",
+      "level": 2
+    },
+    {
+      "id": "e99",
+      "type": "paragraph",
+      "page": 3,
+      "text": "The authority citation for part 39 continues to read as follows:"
+    },
+    {
+      "id": "e100",
+      "type": "paragraph",
+      "page": 3,
+      "text": "Authority: 49 U.S.C. 106(g), 40113, 44701."
+    },
+    {
+      "id": "e101",
+      "type": "heading",
+      "page": 3,
+      "text": "§39.13 [Amended]",
+      "level": 2
+    },
+    {
+      "id": "e102",
+      "type": "paragraph",
+      "page": 3,
+      "text": "Section 39.13 is amended by adding a new airworthiness directive (AD) to read as follows:"
+    },
+    {
+      "id": "e103",
+      "type": "paragraph",
+      "page": 3,
+      "text": "98-01-01 Cessna Aircraft Company: Amendment 39-10287; Docket No. 97CE-150-AD."
+    },
+    {
+      "id": "e104",
+      "type": "paragraph",
+      "page": 3,
+      "text": "Applicability: The following airplane models and serial numbers, certificated in any category:"
+    },
+    {
+      "id": "e105",
+      "type": "paragraph",
+      "page": 3,
+      "text": "Model 172R Airplanes: serial numbers 17280003 through 17280171, 17280173 through 17280175, 17280177 through 17280179, 17280182 through 17280184,"
+    },
+    {
+      "id": "e106",
+      "type": "paragraph",
+      "page": 3,
+      "text": "17280186, 17280189, 17280190, 17280192 through 17280212, 17280214, 17280216 through 17280221, 17280223 through 17280236, 17280239 through 17280251, 17280253 through 17280263, 17280265, 17280268, 17280270 through 17280272, 17280283, 17280297, and 17280301; and Model 182S Airplanes: serial numbers 18280001, 18280002, 18280004 through 18280045, 18280048 through 18280060, 18280062 through 18280064, 18280067, and 18280070."
+    },
+    {
+      "id": "e107",
+      "type": "paragraph",
+      "page": 3,
+      "text": "Note 1: This AD applies to each airplane identified in the preceding applicability provision, regardless of whether it has been modified, altered, or repaired in the area subject to the requirements of this AD. For airplanes that have been modified, altered, or repaired so that the performance of the requirements of this AD is affected, the owner/operator must request approval for an alternative method of compliance in accordance with paragraph (h) of this AD. The request should include an assessment of the effect of the modification, alteration, or repair on the unsafe condition addressed by this AD; and, if the unsafe condition has not been eliminated, the request should include specific proposed actions to address it."
+    },
+    {
+      "id": "e108",
+      "type": "paragraph",
+      "page": 3,
+      "text": "Compliance: Required as indicated in the body of this AD, unless already accomplished, except to those operators receiving this action by priority letter issued December 22, 1997, which made these actions effective immediately upon receipt."
+    },
+    {
+      "id": "e109",
+      "type": "paragraph",
+      "page": 3,
+      "text": "To prevent erroneous indications from the altimeter, airspeed, and vertical speed indicators, which could cause the pilot to react to incorrect flight information and possibly result in loss of control of the airplane, accomplish the following:"
+    },
+    {
+      "id": "e110",
+      "type": "paragraph",
+      "page": 3,
+      "text": "(a) Prior to further flight after the effective date of this AD, fabricate placards with the following words, using letters at least 1 /8-inch in height, and install these placards in the cockpit within the pilot's clear view:"
+    },
+    {
+      "id": "e111",
+      "type": "paragraph",
+      "page": 3,
+      "text": "''IFR operation is prohibited.''"
+    },
+    {
+      "id": "e112",
+      "type": "paragraph",
+      "page": 3,
+      "text": "''Use of the alternate static air source is prohibited.''"
+    },
+    {
+      "id": "e113",
+      "type": "paragraph",
+      "page": 3,
+      "text": "(b) Within the next 100 hours time-inservice (TIS) after the effective date of this AD or within the next 4 calendar months after the effective date of this AD, whichever occurs first, inspect the alternate static air source valve to assure that the alternate static air source valve is not restricted by the identification placard and to assure that the valve body does not separate from the valve flange in accordance with Cessna Service Bulletin No. SB97-34-02, Revision 1, dated December 22, 1997."
+    },
+    {
+      "id": "e114",
+      "type": "paragraph",
+      "page": 3,
+      "text": "If the alternate static air source valve is restricted, prior to further flight after the inspection required by paragraph (b) of this AD, rework the alternate static air source assembly in accordance with Cessna Service Bulletin No. SB97-34-02, Revision 1, dated December 22, 1997."
+    },
+    {
+      "id": "e115",
+      "type": "paragraph",
+      "page": 3,
+      "text": "If the valve body separates from the valve flange, replace the alternate static air source assembly in accordance with the maintenance manual at one of the compliance times presented below (paragraph (b)(2)(i) or (b)(2)(ii) of this AD):"
+    },
+    {
+      "id": "e116",
+      "type": "paragraph",
+      "page": 3,
+      "text": "(i) Prior to further flight to eliminate the operating limitations required by the"
+    },
+    {
+      "id": "e117",
+      "type": "paragraph",
+      "page": 3,
+      "text": "placards in paragraphs (a), (a)(1), and (a)(2) of this AD; or"
+    },
+    {
+      "id": "e118",
+      "type": "paragraph",
+      "page": 3,
+      "text": "(ii) Within the next 25 hours TIS after the inspection provided the operating limitations required by the placards in paragraphs (a), (a)(1), and (a)(2) of this AD are adhered to."
+    },
+    {
+      "id": "e119",
+      "type": "paragraph",
+      "page": 3,
+      "text": "(c) The placard requirements of paragraphs (a), (a)(1), and (a)(2) of this AD may be eliminated when the inspection, rework, and replacement requirements are accomplished as specified in paragraphs (b), (b)(1), and (b)(2) of this AD."
+    },
+    {
+      "id": "e120",
+      "type": "paragraph",
+      "page": 3,
+      "text": "(d) The inspection, rework, and replacement requirements specified in paragraphs (b), (b)(1), and (b)(2) of this AD may be accomplished at any time prior to ''within the next 100 hours TIS after the effective date of this AD or within the next 4 calendar months after the effective date of this AD, whichever occurs first.''"
+    },
+    {
+      "id": "e121",
+      "type": "paragraph",
+      "page": 3,
+      "text": "(e) Within 10 days after the inspection required by paragraph (b) of this AD, send the results of the inspection in writing to the FAA at the address specified in paragraph (h) of this AD. Include the serial number of the airplane and state whether the alternate static air source assembly needed to be reworked or replaced. (Reporting approved by the Office of Management and Budget under OMB No. 2120-0056)."
+    },
+    {
+      "id": "e122",
+      "type": "paragraph",
+      "page": 3,
+      "text": "(f) Fabricating and installing the placards as required by paragraph (a) of this AD may be performed by the owner/operator holding at least a private pilot certificate as authorized by section 43.7 of the Federal Aviation Regulations (14 CFR 43.7), and must be entered into the aircraft records showing compliance with this AD in accordance with section 43.9 of the Federal Aviation Regulations (14 CFR 43.9)."
+    },
+    {
+      "id": "e123",
+      "type": "paragraph",
+      "page": 3,
+      "text": "(g) Special flight permits may be issued in accordance with sections 21.197 and 21.199 of the Federal Aviation Regulations (14 CFR 21.197 and 21.199) to operate the airplane to a location where the requirements of this AD can be accomplished."
+    },
+    {
+      "id": "e124",
+      "type": "paragraph",
+      "page": 3,
+      "text": "(h) An alternative method of compliance or adjustment of the compliance times that provides an equivalent level of safety may be approved by the Manager, Wichita Aircraft Certification Office (ACO), 1801 Airport Road, Room 100, Mid-Continent Airport, Wichita, Kansas 67209. The request shall be forwarded through an appropriate FAA Maintenance Inspector, who may add comments and then send it to the Manager, Wichita ACO."
+    },
+    {
+      "id": "e125",
+      "type": "paragraph",
+      "page": 3,
+      "text": "Note 2: Information concerning the existence of approved alternative methods of compliance with this AD, if any, may be obtained from the Wichita ACO."
+    },
+    {
+      "id": "e126",
+      "type": "paragraph",
+      "page": 3,
+      "text": "(i) The inspection and rework required by this AD shall be done in accordance with Cessna Service Bulletin No. SB97-34-02, Revision 1, dated December 22, 1997. This incorporation by reference was approved by the Director of the Federal Register in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. Copies may be obtained from the Cessna Aircraft Company, Product Support, P.O. Box 7706, Wichita, Kansas 67277. Copies may be inspected at the FAA, Central Region, Office of the Regional Counsel, Room 1558, 601 E. 12th Street, Kansas City, Missouri, or at the Office of the Federal Register, 800 North Capitol Street, NW, suite 700, Washington, DC."
+    },
+    {
+      "id": "e127",
+      "type": "page_header",
+      "page": 4,
+      "text": "3458"
+    },
+    {
+      "id": "e128",
+      "type": "page_header",
+      "page": 4,
+      "text": "Federal Register / Vol. 63, No. 15 / Friday, January 23, 1998 / Rules and Regulations"
+    },
+    {
+      "id": "e129",
+      "type": "paragraph",
+      "page": 4,
+      "text": "(j) This amendment (39-10287) becomes effective on February 2, 1998, to all persons except those persons to whom it was made immediately effective by priority letter AD 98-01-01, issued December 22, 1997, which contained the requirements of this amendment."
+    },
+    {
+      "id": "e130",
+      "type": "paragraph",
+      "page": 4,
+      "text": "Issued in Kansas City, Missouri, on January 12, 1998."
+    },
+    {
+      "id": "e131",
+      "type": "paragraph",
+      "page": 4,
+      "text": "Michael Gallagher,"
+    },
+    {
+      "id": "e132",
+      "type": "paragraph",
+      "page": 4,
+      "text": "Manager, Small Airplane Directorate, Aircraft Certification Service."
+    },
+    {
+      "id": "e133",
+      "type": "paragraph",
+      "page": 4,
+      "text": "[FR Doc. 98-1297 Filed 1-22-98; 8:45 am] BILLING CODE 4910-13-U"
+    },
+    {
+      "id": "e134",
+      "type": "heading",
+      "page": 4,
+      "text": "DEPARTMENT OF TRANSPORTATION",
+      "level": 2
+    },
+    {
+      "id": "e135",
+      "type": "heading",
+      "page": 4,
+      "text": "Federal Aviation Administration",
+      "level": 2
+    },
+    {
+      "id": "e136",
+      "type": "heading",
+      "page": 4,
+      "text": "14 CFR Part 39",
+      "level": 2
+    },
+    {
+      "id": "e137",
+      "type": "paragraph",
+      "page": 4,
+      "text": "[Docket No. 97-NM-335-AD; Amendment 39-10288; AD 98-02-06]"
+    },
+    {
+      "id": "e138",
+      "type": "paragraph",
+      "page": 4,
+      "text": "RIN 2120-AA64"
+    },
+    {
+      "id": "e139",
+      "type": "heading",
+      "page": 4,
+      "text": "Airworthiness Directives; Boeing Model 777-200 Series Airplanes",
+      "level": 2
+    },
+    {
+      "id": "e140",
+      "type": "paragraph",
+      "page": 4,
+      "text": "AGENCY: Federal Aviation Administration, DOT. ACTION: Final rule; request for"
+    },
+    {
+      "id": "e141",
+      "type": "paragraph",
+      "page": 4,
+      "text": "comments."
+    },
+    {
+      "id": "e142",
+      "type": "paragraph",
+      "page": 4,
+      "text": "SUMMARY: This amendment adopts a new airworthiness directive (AD) that is applicable to certain Boeing Model 777200 series airplanes. This action requires repetitive visual inspections to determine the presence and condition of the nut and cotter pin of the lock link mechanism on the side struts and drag struts on the main landing gear (MLG); and corrective action, if necessary. This amendment is prompted by reports of missing or damaged components on the lock link mechanism. The actions specified in this AD are intended to prevent failure of the lock link mechanism to lock the MLG in the down position, and consequent collapse of the MLG during ground operation. DATES: Effective February 9, 1998."
+    },
+    {
+      "id": "e143",
+      "type": "paragraph",
+      "page": 4,
+      "text": "The incorporation by reference of certain publications listed in the regulations is approved by the Director of the Federal Register as of February 9, 1998."
+    },
+    {
+      "id": "e144",
+      "type": "paragraph",
+      "page": 4,
+      "text": "Comments for inclusion in the Rules Docket must be received on or before March 24, 1998."
+    },
+    {
+      "id": "e145",
+      "type": "paragraph",
+      "page": 4,
+      "text": "ADDRESSES: Submit comments in triplicate to the Federal Aviation Administration (FAA), Transport Airplane Directorate, ANM-114, Attention: Rules Docket No. 97-NM335-AD, 1601 Lind Avenue, SW., Renton, Washington 98055-4056."
+    },
+    {
+      "id": "e146",
+      "type": "paragraph",
+      "page": 4,
+      "text": "The service information referenced in this AD may be obtained from Boeing Commercial Airplane Group, P.O. Box 3707, Seattle, Washington 98124-2207. This information may be examined at the FAA, Transport Airplane Directorate, 1601 Lind Avenue, SW., Renton, Washington; or at the Office of the Federal Register, 800 North Capitol Street, NW., suite 700, Washington, DC. FOR FURTHER INFORMATION CONTACT: Stan Wood, Aerospace Engineer, Airframe Branch, ANM-120S, FAA, Transport Airplane Directorate, 1601 Lind Avenue, SW., Renton, Washington 98055-4056; telephone (425) 227-2772; fax (425) 227-1181."
+    },
+    {
+      "id": "e147",
+      "type": "paragraph",
+      "page": 4,
+      "text": "SUPPLEMENTARY INFORMATION: Boeing has advised the FAA of the recent discovery of discrepancies of the lock link mechanism on the side struts and drag struts on the main landing gear (MLG) on several Model 777-200 series airplanes. The discrepancies included missing cotter pins, a missing cotter pin and nut with the bolt migrating out of the joint, and a cotter pin migrating from the bolt end through the nut. Such discrepancies, if not corrected, could result in failure of the lock link mechanism to lock the MLG in the down position, and consequent collapse of the MLG during ground operation."
+    },
+    {
+      "id": "e148",
+      "type": "heading",
+      "page": 4,
+      "text": "Explanation of Relevant Service Information",
+      "level": 2
+    },
+    {
+      "id": "e149",
+      "type": "paragraph",
+      "page": 4,
+      "text": "The FAA has reviewed and approved Boeing Alert Service Bulletin 77732A0015, dated September 4, 1997, which describes procedures for repetitive visual inspections to determine the presence and condition of the nut and cotter pin of the lock link mechanism on the side struts and drag struts on the left- and right-hand MLG. The alert service bulletin also describes procedures for corrective action for missing or damaged parts."
+    },
+    {
+      "id": "e150",
+      "type": "heading",
+      "page": 4,
+      "text": "Explanation of the Requirements of the Rule",
+      "level": 2
+    },
+    {
+      "id": "e151",
+      "type": "paragraph",
+      "page": 4,
+      "text": "Since an unsafe condition has been identified that is likely to exist or develop on other Boeing Model 777-200 series airplanes of the same type design, this AD requires accomplishment of the actions specified in the alert service bulletin described previously."
+    },
+    {
+      "id": "e152",
+      "type": "heading",
+      "page": 4,
+      "text": "Interim Action",
+      "level": 2
+    },
+    {
+      "id": "e153",
+      "type": "paragraph",
+      "page": 4,
+      "text": "This is considered to be interim action until final action is identified, at which time the FAA may consider further rulemaking."
+    },
+    {
+      "id": "e154",
+      "type": "paragraph",
+      "page": 4,
+      "text": "Determination of Rule's Effective Date"
+    },
+    {
+      "id": "e155",
+      "type": "paragraph",
+      "page": 4,
+      "text": "Since a situation exists that requires the immediate adoption of this regulation, it is found that notice and opportunity for prior public comment hereon are impracticable, and that good cause exists for making this amendment effective in less than 30 days."
+    },
+    {
+      "id": "e156",
+      "type": "heading",
+      "page": 4,
+      "text": "Comments Invited",
+      "level": 2
+    },
+    {
+      "id": "e157",
+      "type": "paragraph",
+      "page": 4,
+      "text": "Although this action is in the form of a final rule that involves requirements affecting flight safety and, thus, was not preceded by notice and an opportunity for public comment, comments are invited on this rule. Interested persons are invited to comment on this rule by submitting such written data, views, or arguments as they may desire. Communications shall identify the Rules Docket number and be submitted in triplicate to the address specified under the caption ADDRESSES. All communications received on or before the closing date for comments will be considered, and this rule may be amended in light of the comments received. Factual information that supports the commenter's ideas and suggestions is extremely helpful in evaluating the effectiveness of the AD action and determining whether additional rulemaking action would be needed."
+    },
+    {
+      "id": "e158",
+      "type": "paragraph",
+      "page": 4,
+      "text": "Comments are specifically invited on the overall regulatory, economic, environmental, and energy aspects of the rule that might suggest a need to modify the rule. All comments submitted will be available, both before and after the closing date for comments, in the Rules Docket for examination by interested persons. A report that summarizes each FAA-public contact concerned with the substance of this AD will be filed in the Rules Docket."
+    },
+    {
+      "id": "e159",
+      "type": "paragraph",
+      "page": 4,
+      "text": "Commenters wishing the FAA to acknowledge receipt of their comments submitted in response to this rule must submit a self-addressed, stamped postcard on which the following statement is made: ''Comments to Docket Number 97-NM-335-AD.'' The postcard will be date stamped and returned to the commenter."
+    },
+    {
+      "id": "e160",
+      "type": "heading",
+      "page": 4,
+      "text": "Regulatory Impact",
+      "level": 2
+    },
+    {
+      "id": "e161",
+      "type": "paragraph",
+      "page": 4,
+      "text": "The regulations adopted herein will not have substantial direct effects on the States, on the relationship between the national government and the States, or on the distribution of power and responsibilities among the various levels of government. Therefore, in accordance with Executive Order 12612, it is determined that this final rule does not have sufficient federalism implications to warrant the preparation of a Federalism Assessment."
+    },
+    {
+      "id": "e162",
+      "type": "paragraph",
+      "page": 4,
+      "text": "The FAA has determined that this regulation is an emergency regulation that must be issued immediately to correct an unsafe condition in aircraft, and that it is not a ''significant regulatory action'' under Executive"
+    }
+  ]
+}
