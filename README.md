@@ -11,7 +11,8 @@ It has one tagged checkpoint per part, like the companion repository, and record
 | 1 | How an AI assistant answers from company documents | `part-01` |
 | 2 | When a useful answer isn't a correct answer | `part-02` |
 | 3 | From raw files to structured documents | `part-03` |
-| 4–14 | | coming |
+| 4 | From documents to evidence | `part-04` |
+| 5–14 | | coming |
 
 ## Run it without a key
 
@@ -34,7 +35,7 @@ Each case in `cases/cases.json` states the part meant to handle it. Failing case
 
 ## Run it live
 
-Set `OPENROUTER_API_KEY` in `.env` and `ANFA_MODE=live`. The default models are free on OpenRouter; OpenRouter allows 50 requests a day to them (1,000 once an account has bought 10 credits, which free models don't spend), and ingesting the corpus takes about 202: 171 to describe the figures, 31 to embed the chunks. The code calls only models whose name ends in `:free`. Free endpoints may keep what you send: fine for public FAA documents and a fictional company, not for real company documents. With `ANFA_MODE=record`, recorded responses are replayed and only the missing ones are requested and saved to `fixtures/`.
+Set `OPENROUTER_API_KEY` in `.env` and `ANFA_MODE=live`. The default models are free on OpenRouter; OpenRouter allows 50 requests a day to them (1,000 once an account has bought 10 credits, which free models don't spend), and ingesting the corpus takes about 218: 171 to describe the figures, 47 to embed the searched pieces. The code calls only models whose name ends in `:free`. Free endpoints may keep what you send: fine for public FAA documents and a fictional company, not for real company documents. With `ANFA_MODE=record`, recorded responses are replayed and only the missing ones are requested and saved to `fixtures/`.
 
 A changed question, prompt, or model misses its recorded response, so replay mode stops with a message instead of answering something else.
 
@@ -57,7 +58,7 @@ corpus/corrections.json  corrections a person made after checking a page, each t
 scripts/              build_anfa.py and anfa_history.py (the company's documents), build_eval.py, parse_sources.py (Docling), excerpt_pdf.py
 fixtures/             recorded model responses
 anfa/                 the assistant
-tests/                tests that need no model
+tests/                tests that need no model (the converter, the evidence units)
 ```
 
 To rebuild the company documents or the parse: `uv run --group corpus python scripts/build_anfa.py` and `uv run --group parse python scripts/parse_sources.py` (Docling downloads its models on first use; the full parse takes about an hour on a CPU). `uv run python scripts/build_eval.py` rebuilds `cases/eval.json` from the same history the company's records are written from.

@@ -3,12 +3,22 @@
 from __future__ import annotations
 
 import copy
+from dataclasses import dataclass
 
 import pytest
 
 from anfa.convert import convert, load_corrections, repair_ad_numbers
 from anfa.corpus import load_corpus
-from anfa.pipeline import rendered_sections
+
+
+@dataclass
+class Rendered:
+    text: str
+
+
+def rendered_sections(doc) -> list[Rendered]:
+    """Each section's elements as text, the way Part 3 indexed them."""
+    return [Rendered("\n\n".join(e.render() for e in s.elements)) for s in doc.sections]
 
 
 class StubDescriber:

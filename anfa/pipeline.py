@@ -1,10 +1,12 @@
 """The assistant: prepare documents once, then answer questions.
 
-Part 3 (document preparation):
+Part 3 (document preparation) and Part 4 (evidence units): each kind of content gets a searched
+form and a supplied form.
 
     Preparing:  parsed documents -> structured documents (+ ingestion report)
-                -> rendered text -> size-based chunks -> embeddings -> vector index
-    Answering:  question -> embedding -> top-k chunks -> prompt -> model -> answer
+                -> searchable pieces (embedded) + blocks (stored) -> Postgres
+    Answering:  question -> embedding -> top-k pieces -> the block each belongs to, once
+                -> prompt -> model -> answer
 
 Preparing is a separate step (`python -m anfa ingest`): embedding the collection costs calls and
 time, so it runs once and the index lives in Postgres.
@@ -15,19 +17,16 @@ from __future__ import annotations
 import hashlib
 from dataclasses import dataclass, field
 
-from anfa.chunking import Chunk, size_based_chunks
+from anfa.chunking import Chunk
 from anfa.convert import IngestReport, StructuredDocument, convert, load_corrections
 from anfa.corpus import ParsedDocument
-from anfa.extract import TextSection
+from anfa.evidence import evidence_units
 from anfa.real import OpenRouterDescriber, OpenRouterEmbedder, OpenRouterGenerator
 from anfa.store import PgVectorIndex
 
 INSTRUCTIONS = """Answer the question using the supplied passages.
 Identify the source of your answer.
 If the passages don't establish an answer, say so."""
-
-# About 200 words: long enough to hold a paragraph of a directive, short enough to search.
-CHUNK_CHARS = 1200
 
 
 @dataclass
@@ -66,22 +65,30 @@ class Assistant:
         self.reports = [doc.report for doc in converted]
         return converted
 
-    def chunks(self, documents: list[ParsedDocument]) -> list[Chunk]:
-        return [chunk for doc in self.convert(documents)
-                for chunk in size_based_chunks(doc.source_id, doc.meta, rendered_sections(doc), CHUNK_CHARS)]
+    def units(self, documents: list[ParsedDocument]) -> tuple[list[Chunk], list[Chunk]]:
+        searchable: list[Chunk] = []
+        blocks: list[Chunk] = []
+        for doc in self.convert(documents):
+            pieces, doc_blocks = evidence_units(doc)
+            searchable += pieces
+            blocks += doc_blocks
+        return searchable, blocks
 
     def ingest(self, documents: list[ParsedDocument]) -> int:
-        """Embed and store every chunk. Skipped when the index already holds exactly these chunks."""
-        chunks = self.chunks(documents)
+        """Embed and store every searched piece, and store the blocks. Skipped when the index
+        already holds exactly these."""
+        searchable, blocks = self.units(documents)
         fingerprint = hashlib.sha256(
             "\n".join([self.embedder.model, str(self.embedder.dimensions)]
-                      + [f"{c.id}\t{c.text}" for c in chunks]).encode()
+                      + [f"{c.id}\t{c.parent_id}\t{c.search_text}" for c in searchable]
+                      + [f"{b.id}\t{b.text}" for b in blocks]).encode()
         ).hexdigest()
         if self.index.fingerprint() == fingerprint:
             return 0
         self.index.reset(fingerprint)
-        self.index.add(chunks, self.embedder.embed_documents([c.text for c in chunks]))
-        return len(chunks)
+        self.index.add(searchable, self.embedder.embed_documents([c.search_text or c.text for c in searchable]))
+        self.index.add_blocks(blocks)
+        return len(searchable)
 
     # Answering a question ---------------------------------------------------
 
@@ -91,15 +98,21 @@ class Assistant:
         # Access is enforced before any passage can reach the prompt.
         hits = self.index.search(self.embedder.embed_query(question), user.groups, self.k)
         trace.retrieved = [(chunk.id, round(score, 3)) for score, chunk in hits]
-        trace.context = [chunk for _, chunk in hits]
+        trace.context = self.supplied_blocks([chunk for _, chunk in hits], user)
 
         trace.prompt = build_prompt(INSTRUCTIONS, question, trace.context)
         trace.answer = self.generator.generate(trace.prompt)
         return trace
 
-
-def rendered_sections(doc: StructuredDocument) -> list[TextSection]:
-    return [TextSection(s.number, s.title, "\n\n".join(e.render() for e in s.elements)) for s in doc.sections]
+    def supplied_blocks(self, hits: list[Chunk], user: User) -> list[Chunk]:
+        """Replace each searched piece by the block it belongs to, once."""
+        blocks = self.index.blocks([c.parent_id for c in hits if c.parent_id], user.groups)
+        context: list[Chunk] = []
+        for chunk in hits:
+            block = blocks.get(chunk.parent_id, chunk)
+            if block.id not in {c.id for c in context}:
+                context.append(block)
+        return context
 
 
 def build_prompt(instructions: str, question: str, context: list[Chunk]) -> str:

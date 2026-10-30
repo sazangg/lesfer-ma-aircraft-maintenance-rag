@@ -1,0 +1,78 @@
+{
+ "request": {
+  "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+  "messages": [
+   {
+    "role": "user",
+    "content": "Answer the question using the supplied passages.\nIdentify the source of your answer.\nIf the passages don't establish an answer, say so.\n\nQuestion:\nWhich of our aircraft are affected by AD 2018-02-04?\n\nSource: AD-2006-17-04, section \nAD 2006-17-04: The Cessna Aircraft Company Models 172R, 172S, 182T, T182T, 206H, and T206H Airplanes\nApplicability\n\n(c) This AD affects the following airplane models and serial numbers that are certificated in any category:\n\nSource: AD-2018-02-04, section \nAD 2018-02-04: Aerospace Welding Minneapolis, Inc., Mufflers\nFIGURE 2 OF PARAGRAPH (c) OF THIS AD-AFFECTED AIRPLANES\n\n| Muffler part No. | Textron Aviation Inc. (type certificate previously held by Cessna Aircraft Company) airplanes |\n| --- | --- |\n| A1754001-23 ............ | Model 172 Serial numbers (S/Ns) 17259224 and up; Model 172R S/Ns 80001 and up; and Model 172S S/Ns 8001 and up. |\n| A1754001-25 ............ | Model 172 S/Ns 17256513 and up; Model 172R S/Ns 80001 and up; 172S S/N 8001 and up; and Model 177 S/N 1770001 and up. |\n\nSource: AD-2008-02-18, section \nAD 2008-02-18: Cessna Aircraft Company 172 and 182 Series Airplanes\nApplicability\n\n| Cessna 172 models | Cessna 182 models |\n| --- | --- |\n| 172 172A 172B 172C 172D 172E 172F (USAF T-41A) 172G 172H (USAF T-41A) 172I 172K 172L 172M 172N 172P 172Q 172R 172S R172J R172K | 182G 182H 182J 182K 182L 182M 182N 182P 182Q 182R 182S 182T T182 T182T |\n\nSource: AD-2004-15-18, section \nAD 2004-15-18: Cessna Aircraft Company Models 172R, 172S, 182S, 182T, T182T, 206H, and T206H Airplanes\nWhat Airplanes Are Affected by This AD?\n\n| Model | Serial Nos. |\n| --- | --- |\n| 172R ................................................ 172S ................................................ 182S ................................................ 182T ................................................ T182T .............................................. 206H ................................................ T206H ............................................. | 17280001 through 17281073, 17281075 through 17281127, and 17281130. 172S8001 through 172S9195, 172S9197, 172S9198, and 172S9200 through 172S9203. 18280001 through 18280944. 18280945 through 18281065, 18281067 through 18281145, 18281147 through 18281163, 18281165 through 18281167, and 18281172. T18208001 through T18208109, and T18208111 through T18208177. 20608001 through 20608183, 20608185, 20608187, and 20608188. T20608001 through T20608039, T20608041 through T20608367, T20608369 through T20608379, T20608381, T20608382, and T20608385. |\n\nSource: AD-2006-17-04, section \nAD 2006-17-04: The Cessna Aircraft Company Models 172R, 172S, 182T, T182T, 206H, and T206H Airplanes\nAffected ADs\n\n(b) None."
+   }
+  ],
+  "max_tokens": 4000,
+  "temperature": 0
+ },
+ "response": {
+  "id": "gen-1793386057-sgZr9iom0vepRm2KKYby",
+  "choices": [
+   {
+    "finish_reason": "stop",
+    "index": 0,
+    "logprobs": null,
+    "message": {
+     "content": "Based on the provided source for AD 2018-02-04, the affected aircraft are Textron Aviation Inc. (formerly Cessna Aircraft Company) airplanes equipped with specific Aerospace Welding Minneapolis, Inc. muffler part numbers. The applicability is defined by muffler part number and aircraft model/serial number:\n\n**For Muffler Part No. A1754001-23:**\n- Model 172, Serial Numbers 17259224 and up\n- Model 172R, Serial Numbers 80001 and up\n- Model 172S, Serial Numbers 8001 and up\n\n**For Muffler Part No. A1754001-25:**\n- Model 172, Serial Numbers 17256513 and up\n- Model 172R, Serial Numbers 80001 and up\n- Model 172S, Serial Numbers 8001 and up\n- Model 177, Serial Numbers 1770001 and up\n\n**Source:** AD-2018-02-04, section \"FIGURE 2 OF PARAGRAPH (c) OF THIS AD-AFFECTED AIRPLANES\"",
+     "refusal": null,
+     "role": "assistant",
+     "annotations": null,
+     "audio": null,
+     "function_call": null,
+     "tool_calls": null,
+     "reasoning": "The user is asking which aircraft are affected by AD 2018-02-04. I need to look at the provided source for AD 2018-02-04.\n\nFrom the source: \"AD 2018-02-04: Aerospace Welding Minneapolis, Inc., Mufflers FIGURE 2 OF PARAGRAPH (c) OF THIS AD-AFFECTED AIRPLANES\"\n\nThe table shows:\n\n| Muffler part No. | Textron Aviation Inc. (type certificate previously held by Cessna Aircraft Company) airplanes |\n| --- | --- |\n| A1754001-23 ............ | Model 172 Serial numbers (S/Ns) 17259224 and up; Model 172R S/Ns 80001 and up; and Model 172S S/Ns 8001 and up. |\n| A1754001-25 ............ | Model 172 S/Ns 17256513 and up; Model 172R S/Ns 80001 and up; 172S S/N 8001 and up; and Model 177 S/N 1770001 and up. |\n\nSo the affected aircraft are:\n- Model 172 (S/N 17259224 and up) for muffler part A1754001-23\n- Model 172R (S/N 80001 and up) for both muffler parts\n- Model 172S (S/N 8001 and up) for both muffler parts\n- Model 172 (S/N 17256513 and up) for muffler part A1754001-25\n- Model 177 (S/N 1770001 and up) for muffler part A1754001-25\n\nThe question asks \"Which of our aircraft are affected by AD 2018-02-04?\" The answer should list the affected aircraft models and serial numbers as specified in the AD.\n\nI should cite the source: AD-2018-02-04, section \"FIGURE 2 OF PARAGRAPH (c) OF THIS AD-AFFECTED AIRPLANES\".",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "The user is asking which aircraft are affected by AD 2018-02-04. I need to look at the provided source for AD 2018-02-04.\n\nFrom the source: \"AD 2018-02-04: Aerospace Welding Minneapolis, Inc., Mufflers FIGURE 2 OF PARAGRAPH (c) OF THIS AD-AFFECTED AIRPLANES\"\n\nThe table shows:\n\n| Muffler part No. | Textron Aviation Inc. (type certificate previously held by Cessna Aircraft Company) airplanes |\n| --- | --- |\n| A1754001-23 ............ | Model 172 Serial numbers (S/Ns) 17259224 and up; Model 172R S/Ns 80001 and up; and Model 172S S/Ns 8001 and up. |\n| A1754001-25 ............ | Model 172 S/Ns 17256513 and up; Model 172R S/Ns 80001 and up; 172S S/N 8001 and up; and Model 177 S/N 1770001 and up. |\n\nSo the affected aircraft are:\n- Model 172 (S/N 17259224 and up) for muffler part A1754001-23\n- Model 172R (S/N 80001 and up) for both muffler parts\n- Model 172S (S/N 8001 and up) for both muffler parts\n- Model 172 (S/N 17256513 and up) for muffler part A1754001-25\n- Model 177 (S/N 1770001 and up) for muffler part A1754001-25\n\nThe question asks \"Which of our aircraft are affected by AD 2018-02-04?\" The answer should list the affected aircraft models and serial numbers as specified in the AD.\n\nI should cite the source: AD-2018-02-04, section \"FIGURE 2 OF PARAGRAPH (c) OF THIS AD-AFFECTED AIRPLANES\".",
+       "format": "unknown",
+       "index": 0
+      }
+     ]
+    },
+    "native_finish_reason": "stop"
+   }
+  ],
+  "created": 1793386057,
+  "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+  "object": "chat.completion",
+  "metadata": null,
+  "moderation": null,
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+   "completion_tokens": 844,
+   "prompt_tokens": 1369,
+   "total_tokens": 2213,
+   "completion_tokens_details": {
+    "accepted_prediction_tokens": null,
+    "audio_tokens": 0,
+    "reasoning_tokens": 332,
+    "rejected_prediction_tokens": null,
+    "text_tokens": null,
+    "image_tokens": 0
+   },
+   "prompt_tokens_details": {
+    "audio_tokens": 0,
+    "cache_write_tokens": 0,
+    "cached_tokens": 0,
+    "image_tokens": null,
+    "text_tokens": null,
+    "video_tokens": 0
+   },
+   "cost": 0,
+   "is_byok": false,
+   "cost_details": {
+    "upstream_inference_cost": 0,
+    "upstream_inference_prompt_cost": 0,
+    "upstream_inference_completions_cost": 0
+   }
+  },
+  "provider": "Nvidia"
+ }
+}

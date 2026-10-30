@@ -73,6 +73,8 @@ class Section:
     number: str
     title: str
     elements: list[Element] = field(default_factory=list)
+    # What the page is, when one file holds several documents (a reviewer's page title).
+    context: str = ""
 
 
 @dataclass
@@ -198,6 +200,7 @@ def convert(doc: ParsedDocument, describer: Describer | None, corrections: dict)
     report = IngestReport(doc.source_id, doc.file)
     fixes = corrections.get("corrections", {}).get(doc.source_id, {})
     checked_pages = set(corrections.get("reviewed_pages", {}).get(doc.source_id, []))
+    page_titles = corrections.get("page_titles", {}).get(doc.source_id, {})
     source = CORPUS_DIR / "source" / doc.file
     notes = slide_notes(source) if doc.format == "pptx" else {}
     sheets = sheet_names(source) if doc.format == "xlsx" else []
@@ -215,7 +218,7 @@ def convert(doc: ParsedDocument, describer: Describer | None, corrections: dict)
 
     def section() -> Section:
         if not sections:
-            sections.append(Section("", ""))
+            sections.append(Section("", "", context=page_titles.get(str(raw.get("page")), "")))  # the element being placed
         return sections[-1]
 
     read_by_ocr = ocr_pages(doc, elements)
@@ -253,7 +256,7 @@ def convert(doc: ParsedDocument, describer: Describer | None, corrections: dict)
 
         if kind == "heading":
             number, title = _heading(text)
-            sections.append(Section(number, title))
+            sections.append(Section(number, title, context=page_titles.get(str(raw.get("page")), "")))
             continue
         if kind == "slide":
             # 6. The parser keeps a slide's title and text and drops its notes; the source file has them.
@@ -294,6 +297,9 @@ def convert(doc: ParsedDocument, describer: Describer | None, corrections: dict)
         elif kind == "figure":
             # 7. A figure's content is in the image; a vision model turns it into text.
             description = describer.describe(CORPUS_DIR / raw["image"], raw["caption"], doc.meta["title"]) if describer else ""
+            if description is None:
+                report.needs_review.append(f"{raw['id']} (page {raw.get('page')}): no usable figure description")
+                description = ""
             report.described_figures += bool(description)
             current.elements.append(Element("figure", raw.get("page"), {
                 "caption": raw["caption"], "image": raw["image"], "description": description,

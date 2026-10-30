@@ -24,6 +24,7 @@ class Generator(Protocol):
 
 
 class Describer(Protocol):
-    """A vision model that turns a figure into text: what it shows, and the values printed in it."""
+    """A vision model that turns a figure into text: what it shows, and the values printed in it.
+    None means it produced no usable description."""
 
-    def describe(self, image: Path, caption: str, document: str) -> str: ...
+    def describe(self, image: Path, caption: str, document: str) -> str | None: ...

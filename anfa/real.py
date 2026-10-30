@@ -53,7 +53,12 @@ class OpenRouterGenerator:
             "model": self.model, "messages": [{"role": "user", "content": prompt}],
             "max_tokens": self.max_tokens, "temperature": 0,
         })
-        return (response["choices"][0]["message"].get("content") or "").strip()
+        choice = response["choices"][0]
+        # A description that ran to the token limit is a loop ("81 IN. CABLE, 81-1/4 IN. CABLE, ..."),
+        # not a transcription: 9 of 170 figures. None tells the converter to ask a person.
+        if choice["finish_reason"] == "length":
+            return None
+        return (choice["message"].get("content") or "").strip()
 
 
 DESCRIBE = """This figure is from {document}.{caption}
@@ -68,7 +73,7 @@ class OpenRouterDescriber:
     def __init__(self, model: str = SETTINGS.vision_model, max_tokens: int = 4000):
         self.model, self.max_tokens = model, max_tokens
 
-    def describe(self, image: Path, caption: str, document: str) -> str:
+    def describe(self, image: Path, caption: str, document: str) -> str | None:
         data = base64.b64encode(image.read_bytes()).decode()
         prompt = DESCRIBE.format(document=document, caption=f' Its caption: "{caption}".' if caption else "")
         # Transcribing a figure needs no reasoning. With it on, the model sometimes spent all 4,000
@@ -81,4 +86,9 @@ class OpenRouterDescriber:
                 {"type": "image_url", "image_url": {"url": f"data:image/png;base64,{data}"}},
             ]}],
         })
-        return (response["choices"][0]["message"].get("content") or "").strip()
+        choice = response["choices"][0]
+        # A description that ran to the token limit is a loop ("81 IN. CABLE, 81-1/4 IN. CABLE, ..."),
+        # not a transcription: 9 of 170 figures. None tells the converter to ask a person.
+        if choice["finish_reason"] == "length":
+            return None
+        return (choice["message"].get("content") or "").strip()

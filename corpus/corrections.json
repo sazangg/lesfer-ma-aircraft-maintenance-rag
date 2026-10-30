@@ -1,5 +1,5 @@
 {
-  "about": "Corrections a person made after checking the page image. Keyed by source ID, then parser element ID. 'was' is the fingerprint of the element the correction was written against: if a new parse changes that element, the correction is not applied and the ingestion report asks for another look. 'reviewed_pages' lists the scanned pages checked against the image.",
+  "about": "Corrections a person made after checking the page image. Keyed by source ID, then parser element ID. 'was' is the fingerprint of the element the correction was written against: if a new parse changes that element, the correction is not applied and the ingestion report asks for another look. 'reviewed_pages' lists the scanned pages checked against the image. 'page_titles' names what each page is when one file holds several documents.",
   "corrections": {
     "AC-43.13-1B-CH7": {
       "e102": {
@@ -81,10 +81,13 @@
     }
   },
   "reviewed_pages": {
-    "WO-SCAN": [
-      1,
-      2,
-      3
-    ]
+    "WO-SCAN": [1, 2, 3]
+  },
+  "page_titles": {
+    "WO-SCAN": {
+      "1": "Work order WO-2021-0544: CN-TFE, oil pressure switch replacement (scanned)",
+      "2": "Work order WO-2024-0071: CN-TFA, oil pressure switch replacement (scanned)",
+      "3": "Work order WO-2026-0388: CN-TFC, muffler inspection (scanned)"
+    }
   }
 }

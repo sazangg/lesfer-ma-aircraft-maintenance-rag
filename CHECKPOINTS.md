@@ -168,3 +168,67 @@ The index holds 3,091 chunks, down from 3,353: the neighbouring rules and the pr
 **The engine question changed answer.** Retrieval still misses the 172S section (Part 4's job), but the model now says the passages "do not establish the engine and rated power for the Cessna 172S", where Part 1 answered with the 172R's values. Nothing in this checkpoint asks for that: the passages changed, and the model behaved differently. One more reason the checks look at evidence, not wording.
 
 **Stop here if** your documents are born digital or a person checks the scanned ones, and each question is answered by one passage. The next gaps are about how text is cut and found, not about the text itself.
+
+## part-04: From documents to evidence
+
+**Article:** [From Documents to Evidence](https://lesfer.ma/academy/reliable-ai-company-knowledge/from-documents-to-evidence)
+
+**Lands in:** ingestion, plus one answering step.
+
+What is easy to find is often not what the model needs to read. Each kind of content now gets a **searched form** and a **supplied form** (`anfa/evidence.py`):
+
+| Kind | Searched as | Supplied to the model as |
+| --- | --- | --- |
+| paragraphs | up to 1,200 characters of a section's text | the whole section |
+| table | a table of up to 12 rows whole; a longer one row by row, each cell labelled with its column ("Work order: WO-2024-0284") | the whole table, with its caption, header, and note |
+| figure | caption and description | caption, description, image file, page |
+| slide | title, text, speaker notes | the whole slide |
+
+Every searched piece starts with the document's title and its section heading. The article searches paragraphs alone, under their section title. Here that isn't enough: a work order's "Replaced engine oil pressure switch" paragraph never names the aircraft; its title does.
+
+A block is at most about 6,000 characters. A longer section or table is supplied in consecutive parts, each with its heading, and each table part with its header. The article's documents are short enough to supply whole; a 150-row logbook isn't.
+
+```
+Preparing:  structured documents -> searchable pieces (embedded, 4,633) + blocks (stored, 2,535)
+Answering:  question -> top-5 pieces -> the block each belongs to, once -> prompt
+```
+
+**What the runner measured:**
+
+```
+PASS                 C01-record-entry           all 1 supplied; 'A description (...) of work performed' supplied
+PASS                 C02-price-access           none supplied
+PASS                 C03-torque-row             '8-36 12-15 7-9 20 12' supplied
+PASS                 C04-slide-notes            'applied once' supplied
+PASS                 C05-scanned-signature      'Approved for return to service: A. Tazi' supplied
+PASS                 C06-engine-model-context   ['172S', 'Rated 180 Horsepower'] together in one passage
+EARLY PASS           C07-exact-ad-number        first is AD-2000-04-01
+EARLY PASS           C08-part-number            all 1 supplied
+EARLY PASS           C09-engine-only-172S       every passage with 'IO-360-L2A, Rated' names '172S'
+KNOWN GAP -> part-06 C10-which-aircraft         status answered
+KNOWN GAP -> part-09 C11-every-ad               missing 19 of 21; completeness not guaranteed
+KNOWN GAP -> part-10 C12-switch-hours           answer lacks ['39.4']
+KNOWN GAP -> part-11 C13-muffler-fleet          answer lacks ['CN-TFA', 'CN-TFF']
+KNOWN GAP -> part-12 C14-records-trail          missing 3 of 3: ['FLEET-2026-10', 'WO-SCAN', 'AD-2013-11-11']
+KNOWN GAP -> part-13 C15-revision-diff          all 2 supplied; 'Overview of FAA Form 8130-3' not supplied
+
+9 passing, 6 known gaps, 0 regressions
+```
+
+**Closed gap:** the engine question. The model receives section XII of the type certificate data sheet whole, with "Model 172S, Skyhawk SP" above "Engine Lycoming IO-360-L2A, Rated 180 Horsepower", and answers "Lycoming IO-360-L2A, rated at 180 horsepower", citing section XII. Part 1 gave the 172R's values; Part 3 said the passages didn't establish it.
+
+**Early passes:**
+- **C09** (Part 6's case): every passage that gives an engine and a power now names its model, because the section's heading travels with it. Part 6 still has its own job: making sure an answer uses only the evidence for the aircraft asked about.
+- **C07** (Part 5's case): asked "What does AD 2000-04-01 require?", that directive now ranks first. Each of its pieces starts with its title, "AD 2000-04-01: ...", so the number is in the searched text of every piece, not only where the body mentions it. Vector search still has no notion of an exact code; Part 5 adds one.
+
+**What the real documents added:**
+- **One file can hold several documents.** The scanned file holds three work orders, and its title names none of their aircraft. With the title prefix, the CN-TFE switch question (C05) found CN-TFD's work order instead, a regression. The person who checks a scan against its image now also records what each page is (`page_titles` in `corpus/corrections.json`), and each page's sections carry that title.
+- **9 of 170 figure descriptions were loops, not descriptions.** The vision model, with reasoning off, sometimes repeats a pattern until it runs out of tokens ("80-3/4 IN. CABLE, 81 IN. CABLE, 81-1/4 IN. CABLE, ..."). Part 3 indexed them. A description that reaches the token limit is now treated as no description: the figure is searched by its caption, and the ingestion report lists it for a person.
+- **The records disagree, and the model blends them.** Asked how many hours CN-TFE's switch has left (C12), the model now receives both the fleet register (installed at 10,560.2 hours) and the AD compliance record (10,650.2). It quotes the first as the installation time and the second's due point as if they agreed, and says, correctly, that it lacks the current hours. It never notices that the two records conflict. Parts 11 and 12 deal with records that disagree.
+- **Same evidence, opposite conclusions.** Asked whether that switch is within its limit (C14), the model answers "Yes", from the compliance record's next due point, without the current hours it said in C12 that it needed.
+
+**What real models and infrastructure added:**
+- **The approximate index was not reproducible.** Part 3 raised HNSW's `ef_search` to 100 after the default missed one case's evidence. With 4,633 pieces, it missed again: for C02, a fresh build of the index returned a piece at similarity 0.546 that the recorded run never saw, and its best was 0.44. Which pieces an HNSW index misses depends on how the graph was built, so a recorded run and a replay can retrieve different passages. This checkpoint drops the index and compares the question with every piece: exact, identical on every build, and a few milliseconds at this size. An approximate index pays off at hundreds of thousands of vectors, not a few thousand.
+- Ingesting now takes 47 embedding requests (4,633 pieces, 100 per request), plus the 171 figure descriptions.
+
+**Stop here if** each question is answered by one passage, table, figure, or slide, and plain wording is enough to find it. C07 passing here is luck of the title prefix; Part 5 makes exact codes reliable.
