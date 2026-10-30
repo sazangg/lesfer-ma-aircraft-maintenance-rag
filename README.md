@@ -12,7 +12,8 @@ It has one tagged checkpoint per part, like the companion repository, and record
 | 2 | When a useful answer isn't a correct answer | `part-02` |
 | 3 | From raw files to structured documents | `part-03` |
 | 4 | From documents to evidence | `part-04` |
-| 5–14 | | coming |
+| 5 | When search misses the evidence | `part-05` |
+| 6–14 | | coming |
 
 ## Run it without a key
 
@@ -35,7 +36,7 @@ Each case in `cases/cases.json` states the part meant to handle it. Failing case
 
 ## Run it live
 
-Set `OPENROUTER_API_KEY` in `.env` and `ANFA_MODE=live`. The default models are free on OpenRouter; OpenRouter allows 50 requests a day to them (1,000 once an account has bought 10 credits, which free models don't spend), and ingesting the corpus takes about 218: 171 to describe the figures, 47 to embed the searched pieces. The code calls only models whose name ends in `:free`. Free endpoints may keep what you send: fine for public FAA documents and a fictional company, not for real company documents. With `ANFA_MODE=record`, recorded responses are replayed and only the missing ones are requested and saved to `fixtures/`.
+Set `OPENROUTER_API_KEY` in `.env` and `ANFA_MODE=live`. The default models are free on OpenRouter; OpenRouter allows 50 requests a day to them (1,000 once an account has bought 10 credits, which free models don't spend), and ingesting the corpus takes about 218: 171 to describe the figures, 47 to embed the searched pieces. Each question then takes three: one to embed it, one to rerank the candidates, one to answer. The code calls only models whose name ends in `:free`. Free endpoints may keep what you send: fine for public FAA documents and a fictional company, not for real company documents. With `ANFA_MODE=record`, recorded responses are replayed and only the missing ones are requested and saved to `fixtures/`.
 
 A changed question, prompt, or model misses its recorded response, so replay mode stops with a message instead of answering something else.
 

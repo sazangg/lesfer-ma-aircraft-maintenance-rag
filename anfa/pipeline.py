@@ -8,6 +8,12 @@ form and a supplied form.
     Answering:  question -> embedding -> top-k pieces -> the block each belongs to, once
                 -> prompt -> model -> answer
 
+Part 5 replaces the single vector search with a retrieval stage (anfa/retrieval.py):
+
+    AD number lookup  ┐
+    keyword (BM25)    ├─> reciprocal rank fusion -> rerank -> top-k
+    vector search     ┘
+
 Preparing is a separate step (`python -m anfa ingest`): embedding the collection costs calls and
 time, so it runs once and the index lives in Postgres.
 """
@@ -21,8 +27,9 @@ from anfa.chunking import Chunk
 from anfa.convert import IngestReport, StructuredDocument, convert, load_corrections
 from anfa.corpus import ParsedDocument
 from anfa.evidence import evidence_units
-from anfa.real import OpenRouterDescriber, OpenRouterEmbedder, OpenRouterGenerator
-from anfa.store import PgVectorIndex
+from anfa.real import OpenRouterDescriber, OpenRouterEmbedder, OpenRouterGenerator, OpenRouterReranker
+from anfa.retrieval import ad_numbers, reciprocal_rank_fusion
+from anfa.store import SCHEMA, TERMS, PgVectorIndex
 
 INSTRUCTIONS = """Answer the question using the supplied passages.
 Identify the source of your answer.
@@ -51,8 +58,10 @@ class Trace:
 
 
 class Assistant:
-    def __init__(self, k: int = 5):
-        self.k = k
+    def __init__(self, k: int = 5, candidates: int = 10):
+        self.k = k  # pieces supplied to the model (before expanding to blocks)
+        self.candidates = candidates  # pieces each search contributes to the shortlist
+        self.reranker = OpenRouterReranker()
         self.embedder, self.generator, self.index = OpenRouterEmbedder(), OpenRouterGenerator(), PgVectorIndex()
         self.describer = OpenRouterDescriber()
         self.reports: list[IngestReport] = []
@@ -79,7 +88,8 @@ class Assistant:
         already holds exactly these."""
         searchable, blocks = self.units(documents)
         fingerprint = hashlib.sha256(
-            "\n".join([self.embedder.model, str(self.embedder.dimensions)]
+            # The schema is part of it: an index built by an earlier checkpoint lacks newer columns.
+            "\n".join([SCHEMA, TERMS, self.embedder.model, str(self.embedder.dimensions)]
                       + [f"{c.id}\t{c.parent_id}\t{c.search_text}" for c in searchable]
                       + [f"{b.id}\t{b.text}" for b in blocks]).encode()
         ).hexdigest()
@@ -95,14 +105,28 @@ class Assistant:
     def ask(self, question: str, user: User = MECHANIC) -> Trace:
         trace = Trace(question)
 
-        # Access is enforced before any passage can reach the prompt.
-        hits = self.index.search(self.embedder.embed_query(question), user.groups, self.k)
+        hits = self.retrieve(question, user)
         trace.retrieved = [(chunk.id, round(score, 3)) for score, chunk in hits]
         trace.context = self.supplied_blocks([chunk for _, chunk in hits], user)
 
         trace.prompt = build_prompt(INSTRUCTIONS, question, trace.context)
         trace.answer = self.generator.generate(trace.prompt)
         return trace
+
+    def retrieve(self, question: str, user: User) -> list[tuple[float, Chunk]]:
+        """The top-k pieces for the question. Access is enforced inside every search."""
+        groups, vector = user.groups, self.embedder.embed_query(question)
+
+        # An AD number in the question: that directive's own pieces come first, best match first.
+        exact = [c for _, c in self.index.search(vector, groups, 2, ad_numbers(question))] if ad_numbers(question) else []
+
+        lexical = [c for _, c in self.index.keyword_search(question, groups, self.candidates)]
+        dense = [c for _, c in self.index.search(vector, groups, self.candidates)]
+        shortlist = [c for c in reciprocal_rank_fusion(lexical, dense) if c.id not in {e.id for e in exact}]
+
+        scores = self.reranker.score(question, [c.search_text or c.text for c in shortlist])
+        ranked = sorted(zip(scores, shortlist), key=lambda pair: (-pair[0], pair[1].id))
+        return ([(float("inf"), c) for c in exact] + ranked)[: self.k]
 
     def supplied_blocks(self, hits: list[Chunk], user: User) -> list[Chunk]:
         """Replace each searched piece by the block it belongs to, once."""

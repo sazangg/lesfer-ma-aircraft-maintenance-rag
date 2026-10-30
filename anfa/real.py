@@ -1,4 +1,4 @@
-"""Real model-backed providers: the embedding model, the language model, and the vision model, on OpenRouter.
+"""Real model-backed providers: the embedding, language, vision, and reranking models, on OpenRouter.
 
 They implement the interfaces in anfa/providers.py.
 """
@@ -92,3 +92,19 @@ class OpenRouterDescriber:
         if choice["finish_reason"] == "length":
             return None
         return (choice["message"].get("content") or "").strip()
+
+
+class OpenRouterReranker:
+    """Scores each candidate passage against the question, reading the two together."""
+
+    def __init__(self, model: str = SETTINGS.rerank_model):
+        self.model = model
+
+    def score(self, question: str, passages: list[str]) -> list[float]:
+        if not passages:
+            return []
+        response = call("rerank", {"model": self.model, "query": question, "documents": passages})
+        scores = [0.0] * len(passages)
+        for result in response["results"]:
+            scores[result["index"]] = result["relevance_score"]
+        return scores

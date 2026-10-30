@@ -23,6 +23,12 @@ class Generator(Protocol):
     def generate(self, prompt: str) -> str: ...
 
 
+class Reranker(Protocol):
+    """Reads the question with each candidate passage and scores how well the passage answers it."""
+
+    def score(self, question: str, passages: list[str]) -> list[float]: ...
+
+
 class Describer(Protocol):
     """A vision model that turns a figure into text: what it shows, and the values printed in it.
     None means it produced no usable description."""

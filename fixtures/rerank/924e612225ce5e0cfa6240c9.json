@@ -1,0 +1,179 @@
+{
+ "request": {
+  "model": "nvidia/nemotron-3.5-rerank-8b:free",
+  "query": "Which airworthiness directive covers part number 2013142-18?",
+  "documents": [
+   "AD 2008-26-10: Cessna Aircraft Company 172, 175, 177, 180, 182, 185, 188, 206, 207, 208, 210, 303, 336, and 337 Series Airplanes\nTABLE 1-APPLICABLE AIRPLANE MODELS\ndone and you remain in compliance with that AD.\nNote 1: The affected part was shipped from Cessna Parts Distribution (CPD) between January 1, 1993, and March 31, 2008.\nNote 2: P/N 2013142-18 replaced P/Ns 2013142-9, -13, and -17.\n172A\n172B\n172C\n172D\n172E\n172F (USAF T-41A)\n172G\n172H (USAF T-41A)\n172I\n172K\n172L\n172M\n172N\n172P\n172Q\n172R\n172S\nF172D\nF172E\nF172F\nF172G\nF172H\n182G\n182H\n182J\n182K\n182L\n182M\n182N\n182P\n182Q\n182R\n182S\n182T\nF182P\nF182Q\nFR182\nR182\nT182\nT182T\nTR182\n185A\n185B\n185C\n185D\n185E\nA185E\n210-5A (205A)\nT210F\nT210G\nT210H\nT210J\nT210K\nT210L\nT210M\nT210N\nT210R\nT303\n337A (USAF 02B)",
+   "14 CFR Part 39: Airworthiness Directives\n\u00a7 39.27 What do I do if the airworthiness directive conflicts with the service document on which it is based?\nIn some cases an airworthiness directive incorporates by reference a manufacturer's service document. In these cases, the service document becomes part of the airworthiness directive. In some cases the directions in the service document may be modified by the airworthiness directive. If there is a conflict between the service document and the airworthiness directive, you must follow the requirements of the airworthiness directive.",
+   "AD 2008-10-02: Cessna Aircraft Company 172, 175, 180, 182, 185, 206, 207, 208, 210, and 303 Series Airplanes\nApplicability\n(c) This AD applies to airplanes listed in Table 1 and Table 2 of this AD that:\n(1) Have a part number (P/N) 2013142-18 alternate static air source selector valve installed after November 19, 2007; and (2) Are certificated in any category:\nNote 1: Airplanes listed in Table 1 may have also had the affected part installed as a replacement part.",
+   "Airworthiness directives at Anfa: training deck for new mechanics\n1 Airworthiness directives at Anfa\nAirworthiness directives at Anfa\nNew mechanics, first month Quality: Karim Bennani\nSpeaker notes: This deck is for mechanics in their first month. It covers how we decide whether a directive applies and how we record it. Ask the quality manager about anything it does not cover.",
+   "AD 2008-10-02: Cessna Aircraft Company 172, 175, 180, 182, 185, 206, 207, 208, 210, and 303 Series Airplanes\nApplicability\nTABLE 2.-APPLICABILITY FOR AIRPLANES THAT COULD HAVE HAD THE AFFECTED PART INSTALLED AS A REPLACEMENT PART OR FROM PARTS HELD AS SPARES-Continued TABLE 2.-APPLICABILITY FOR AIRPLANES THAT COULD HAVE HAD THE AFFECTED PART INSTALLED AS A REPLACEMENT PART OR FROM PARTS HELD AS SPARES-Continued TABLE 2.-APPLICABILITY FOR AIRPLANES THAT COULD HAVE HAD THE AFFECTED PART INSTALLED AS A REPLACEMENT PART OR FROM PARTS HELD AS SPARES-Continued Note 2: P/N 2013142-18 replaced P/Ns 2013142-9, -13, and -17.\n| Model | S/Ns | Model | S/Ns |\n| --- | --- | --- | --- |\n| 175 ........... 180 ........... 182 ........... 182S ........ 182T ........ R182 ........ T182 ........ TR182 ...... T182T ...... F182P ...... F182Q ...... FR182 ...... 185 ........... 206 ........... 206H ........ P206 ........ U206 ........ T206H ...... TU206A ... | All S/Ns. All S/Ns. All S/Ns. 18280001 through 18280944. 18280945 through 18282061. All S/Ns. All S/Ns. All S/Ns. T18208001 through T18208821. All S/Ns. All S/Ns. All S/Ns. All S/Ns. All S/Ns. All S/Ns beginning with 20608001. All S/Ns. All S/Ns. All S/Ns beginning with T20608001. All S/Ns. | TU206B ... TU206C ... TU206D ... TU206E ... TU206F .... TU206G ... 207 ........... 208 ........... 208B ........ 210 ........... 210-5 (205). T210F ...... T210G ...... T210H ...... T210J ....... T210K ...... T210L ...... T210M ..... T210N ...... T210R ...... | All S/Ns. All S/Ns. All S/Ns. All S/Ns. All S/Ns. All S/Ns All S/Ns. 20800001 through 20800416. 208B0001 through 208B1293. All S/Ns. All S/Ns. All S/Ns. All S/Ns. All S/Ns. All S/Ns. All S/Ns. All S/Ns. All S/Ns. All S/Ns. All S/Ns. |\n| Model | S/Ns |\n| T303 ........ | All S/Ns. |",
+   "AD 2008-10-02: Cessna Aircraft Company 172, 175, 180, 182, 185, 206, 207, 208, 210, and 303 Series Airplanes\nDiscussion\nWe recently received reports of improper installation of the part number identification placard on alternate static air source selector valves of certain Cessna 172, 175, 180, 182, 185, 206, 207, 208, 210, and 303 series airplanes. The part number identification placard refers to alternative air source selector valves, part number 2013142-18 that were manufactured between November 20, 2007, and February 18, 2008. The part number identification placard was installed on the valve body in a location that covers the port, which is the inlet for static air reference into the valve. The problem was discovered during a quality control check.\nAll parts held in stock at Cessna have been corrected. Cessna has no way of verifying how many of these assemblies were manufactured and sent to the field with the part number identification placard installed over the alternate static air source selector valve port.\nWe have no way of determining which airplanes have the remaining problem alternate static air source selector valve assemblies installed without having all of the affected airplanes and spares stock inspected.",
+   "AD 2008-26-10: Cessna Aircraft Company 172, 175, 177, 180, 182, 185, 188, 206, 207, 208, 210, 303, 336, and 337 Series Airplanes\nApplicability\n(c) This AD applies to all serial numbers (S/Ns) of the airplanes listed in Table 1 of this AD, certificated in any category, that:\n(1) Were initially delivered from the manufacturer between January 1, 1993, and March 31, 2008, unless the modification/\nrework required in AD 2008-10-02 has been done and you remain in compliance with that AD; or\n(2) Have a part number (P/N) 2013142-18 installed as a replacement part anytime after January 1, 1993, unless the modification/ rework required in AD 2008-10-02 has been",
+   "Procedures manual, revision 7 (excerpt)\n1 Purpose and scope\nThis manual describes how Anfa Aero Services maintains the aircraft it looks after. It covers the Cessna 172 fleet of Tadla Flight Academy, based in Casablanca and Beni Mellal. This excerpt holds the sections that mechanics use every week; the full manual is kept by the quality manager.\nWhere this manual and a manufacturer's instruction or an airworthiness directive differ, the directive comes first, then the manufacturer's instruction, then this manual. This manual may be stricter than either; it may never be less strict.",
+   "AD 2008-02-18: Cessna Aircraft Company 172 and 182 Series Airplanes\n14 CFR Part 39\n[Docket No. FAA-2007-29317; Directorate Identifier 2007-CE-079-AD; Amendment 39-15348; AD 2008-02-18]",
+   "14 CFR Part 39: Airworthiness Directives\n\u00a7 39.15 Does an airworthiness directive apply if the product has been changed?\nYes, an airworthiness directive applies to each product identified in the airworthiness directive, even if an individual product has been changed by modifying, altering, or repairing it in the area addressed by the airworthiness directive.",
+   "AD 2008-02-18: Cessna Aircraft Company 172 and 182 Series Airplanes\nPART 39-AIRWORTHINESS DIRECTIVES\n\u25a0 1. The authority citation for part 39 continues to read as follows:\nAuthority: 49 U.S.C. 106(g), 40113, 44701.",
+   "Procedures manual, revision 7 (excerpt)\n2 Airworthiness directives\n2.1 Weekly review. Every Monday the quality manager checks the FAA's list of new and revised airworthiness directives for the Cessna 172 series, the engines, propellers, and appliances installed in the fleet. The FAA is the state of design for every type we maintain, and its directives are applied as mandatory.\n2.2 Corrections. A directive can be corrected after publication, in a separate Federal Register notice. Always read a directive together with its corrections before deciding whether it applies.\n2.3 Applicability. A directive applies to an aircraft only when every condition in its applicability paragraph is met: model, serial number range, installed equipment, part number, software version, and any modification or service bulletin it names. Check each condition against the fleet register and the aircraft records, and write down which conditions you checked.\n2.4 Records. Each aircraft has an AD compliance record in the format suggested in AC 43-9D, appendix A: the directive number and revision, the method of compliance, the date and hours, and for recurring directives the next time due. A directive found not applicable is recorded too, with the reason.",
+   "AD 2004-15-18: Cessna Aircraft Company Models 172R, 172S, 182S, 182T, T182T, 206H, and T206H Airplanes\n\u00a739.13 [Amended]\n\u25a0 2. The FAA amends \u00a739.13 by removing Airworthiness Directive (AD) 2003-24-13, Amendment 39-13382 (68 FR 67789, December 4, 2003), and by adding a new AD to read as follows:\n2004-15-18 Cessna Aircraft Company: Amendment 39-13752; Docket No. 2004-CE-03-AD.",
+   "14 CFR Part 39: Airworthiness Directives\n\u00a7 39.7 What is the legal effect of failing to comply with an airworthiness directive?\nAnyone who operates a product that does not meet the requirements of an applicable airworthiness directive is in violation of this section.",
+   "AD 2008-02-18: Cessna Aircraft Company 172 and 182 Series Airplanes\n\u00a739.13 [Amended]\n\u25a0 2. FAA amends \u00a739.13 by adding the following new AD:",
+   "14 CFR Part 39: Airworthiness Directives\n\u00a7 39.9 What if I operate an aircraft or use a product that does not meet the requirements of an airworthiness directive?\nIf the requirements of an airworthiness directive have not been met, you violate \u00a7 39.7 each time you operate the aircraft or use the product.",
+   "AC 39-7D, Airworthiness Directives\n15 DETERMINING REVISION DATES.\nRevision Date. The revision date required by \u00a7 91.417(a)(2)(v) is the effective date of the latest amendment to the AD and may be found in paragraph (a) of the body of each AD. For example, \"This airworthiness directive (AD) is effective April 12, 2005.\"\nEmergency ADs. Similarly, the revision date for an Emergency AD is the date it was issued. For example, \"Emergency airworthiness directive (AD) 2006-17-51, issued\nAugust 15, 2006, is effective immediately upon receipt.\" Each emergency AD is followed by an FRC version published in the FR that will reflect the amendment number of the regulation, including effective date. For example, \"This AD is effective September 18, 2006, to all persons except those persons to whom it was made immediately effective by Emergency AD 2006-17-51, issued on August 15, 2006, which contained the requirements of this amendment.\"",
+   "AD 2008-26-10: Cessna Aircraft Company 172, 175, 177, 180, 182, 185, 188, 206, 207, 208, 210, 303, 336, and 337 Series Airplanes\nDiscussion\nAfter issuing AD 98-01-01 and AD 2008-10-02, we received reports of 15 airplanes not previously affected by either AD with a P/N 2013142-18 installed and the alternate static air source selector valve port was found obstructed by the P/N identification placard.\nWe have been informed that all P/N 2013142-18 alternate static air source selector valves shipped from Cessna Parts Distribution between January 1, 1993, and March 31, 2008, may have port obstruction caused by the P/N identification placard.\nThis condition, if not corrected, could result in the altimeter, airspeed, and vertical speed indicators displaying erroneous indications. This could cause the pilot to react to incorrect flight information and possibly result in loss of control.",
+   "AD 2004-15-18: Cessna Aircraft Company Models 172R, 172S, 182S, 182T, T182T, 206H, and T206H Airplanes\nPART 39-AIRWORTHINESS DIRECTIVES\n\u25a0 1. The authority citation for part 39 continues to read as follows:\nAuthority: 49 U.S.C. 106(g), 40113, 44701.",
+   "CN-TFA AD compliance record, 26 October 2026\nSheet: AD compliance record\nAD number: 2008-10-02; Effective: 2008-05-12; Subject: Alternate static air source selector valve P/N 2013142-18; Applies: No; Notes: No P/N 2013142-18 selector valve installed."
+  ]
+ },
+ "response": {
+  "model": "nvidia/nemotron-3.5-rerank-8b",
+  "results": [
+   {
+    "index": 2,
+    "relevance_score": 0.14005783651205153,
+    "document": {
+     "text": "AD 2008-10-02: Cessna Aircraft Company 172, 175, 180, 182, 185, 206, 207, 208, 210, and 303 Series Airplanes\nApplicability\n(c) This AD applies to airplanes listed in Table 1 and Table 2 of this AD that:\n(1) Have a part number (P/N) 2013142-18 alternate static air source selector valve installed after November 19, 2007; and (2) Are certificated in any category:\nNote 1: Airplanes listed in Table 1 may have also had the affected part installed as a replacement part."
+    }
+   },
+   {
+    "index": 6,
+    "relevance_score": 0.13432176071282909,
+    "document": {
+     "text": "AD 2008-26-10: Cessna Aircraft Company 172, 175, 177, 180, 182, 185, 188, 206, 207, 208, 210, 303, 336, and 337 Series Airplanes\nApplicability\n(c) This AD applies to all serial numbers (S/Ns) of the airplanes listed in Table 1 of this AD, certificated in any category, that:\n(1) Were initially delivered from the manufacturer between January 1, 1993, and March 31, 2008, unless the modification/\nrework required in AD 2008-10-02 has been done and you remain in compliance with that AD; or\n(2) Have a part number (P/N) 2013142-18 installed as a replacement part anytime after January 1, 1993, unless the modification/ rework required in AD 2008-10-02 has been"
+    }
+   },
+   {
+    "index": 0,
+    "relevance_score": 0.12565062668967353,
+    "document": {
+     "text": "AD 2008-26-10: Cessna Aircraft Company 172, 175, 177, 180, 182, 185, 188, 206, 207, 208, 210, 303, 336, and 337 Series Airplanes\nTABLE 1-APPLICABLE AIRPLANE MODELS\ndone and you remain in compliance with that AD.\nNote 1: The affected part was shipped from Cessna Parts Distribution (CPD) between January 1, 1993, and March 31, 2008.\nNote 2: P/N 2013142-18 replaced P/Ns 2013142-9, -13, and -17.\n172A\n172B\n172C\n172D\n172E\n172F (USAF T-41A)\n172G\n172H (USAF T-41A)\n172I\n172K\n172L\n172M\n172N\n172P\n172Q\n172R\n172S\nF172D\nF172E\nF172F\nF172G\nF172H\n182G\n182H\n182J\n182K\n182L\n182M\n182N\n182P\n182Q\n182R\n182S\n182T\nF182P\nF182Q\nFR182\nR182\nT182\nT182T\nTR182\n185A\n185B\n185C\n185D\n185E\nA185E\n210-5A (205A)\nT210F\nT210G\nT210H\nT210J\nT210K\nT210L\nT210M\nT210N\nT210R\nT303\n337A (USAF 02B)"
+    }
+   },
+   {
+    "index": 17,
+    "relevance_score": 0.1230665952556622,
+    "document": {
+     "text": "AD 2008-26-10: Cessna Aircraft Company 172, 175, 177, 180, 182, 185, 188, 206, 207, 208, 210, 303, 336, and 337 Series Airplanes\nDiscussion\nAfter issuing AD 98-01-01 and AD 2008-10-02, we received reports of 15 airplanes not previously affected by either AD with a P/N 2013142-18 installed and the alternate static air source selector valve port was found obstructed by the P/N identification placard.\nWe have been informed that all P/N 2013142-18 alternate static air source selector valves shipped from Cessna Parts Distribution between January 1, 1993, and March 31, 2008, may have port obstruction caused by the P/N identification placard.\nThis condition, if not corrected, could result in the altimeter, airspeed, and vertical speed indicators displaying erroneous indications. This could cause the pilot to react to incorrect flight information and possibly result in loss of control."
+    }
+   },
+   {
+    "index": 4,
+    "relevance_score": 0.12072550633781311,
+    "document": {
+     "text": "AD 2008-10-02: Cessna Aircraft Company 172, 175, 180, 182, 185, 206, 207, 208, 210, and 303 Series Airplanes\nApplicability\nTABLE 2.-APPLICABILITY FOR AIRPLANES THAT COULD HAVE HAD THE AFFECTED PART INSTALLED AS A REPLACEMENT PART OR FROM PARTS HELD AS SPARES-Continued TABLE 2.-APPLICABILITY FOR AIRPLANES THAT COULD HAVE HAD THE AFFECTED PART INSTALLED AS A REPLACEMENT PART OR FROM PARTS HELD AS SPARES-Continued TABLE 2.-APPLICABILITY FOR AIRPLANES THAT COULD HAVE HAD THE AFFECTED PART INSTALLED AS A REPLACEMENT PART OR FROM PARTS HELD AS SPARES-Continued Note 2: P/N 2013142-18 replaced P/Ns 2013142-9, -13, and -17.\n| Model | S/Ns | Model | S/Ns |\n| --- | --- | --- | --- |\n| 175 ........... 180 ........... 182 ........... 182S ........ 182T ........ R182 ........ T182 ........ TR182 ...... T182T ...... F182P ...... F182Q ...... FR182 ...... 185 ........... 206 ........... 206H ........ P206 ........ U206 ........ T206H ...... TU206A ... | All S/Ns. All S/Ns. All S/Ns. 18280001 through 18280944. 18280945 through 18282061. All S/Ns. All S/Ns. All S/Ns. T18208001 through T18208821. All S/Ns. All S/Ns. All S/Ns. All S/Ns. All S/Ns. All S/Ns beginning with 20608001. All S/Ns. All S/Ns. All S/Ns beginning with T20608001. All S/Ns. | TU206B ... TU206C ... TU206D ... TU206E ... TU206F .... TU206G ... 207 ........... 208 ........... 208B ........ 210 ........... 210-5 (205). T210F ...... T210G ...... T210H ...... T210J ....... T210K ...... T210L ...... T210M ..... T210N ...... T210R ...... | All S/Ns. All S/Ns. All S/Ns. All S/Ns. All S/Ns. All S/Ns All S/Ns. 20800001 through 20800416. 208B0001 through 208B1293. All S/Ns. All S/Ns. All S/Ns. All S/Ns. All S/Ns. All S/Ns. All S/Ns. All S/Ns. All S/Ns. All S/Ns. All S/Ns. |\n| Model | S/Ns |\n| T303 ........ | All S/Ns. |"
+    }
+   },
+   {
+    "index": 19,
+    "relevance_score": 0.11226741133987059,
+    "document": {
+     "text": "CN-TFA AD compliance record, 26 October 2026\nSheet: AD compliance record\nAD number: 2008-10-02; Effective: 2008-05-12; Subject: Alternate static air source selector valve P/N 2013142-18; Applies: No; Notes: No P/N 2013142-18 selector valve installed."
+    }
+   },
+   {
+    "index": 5,
+    "relevance_score": 0.10912218433924671,
+    "document": {
+     "text": "AD 2008-10-02: Cessna Aircraft Company 172, 175, 180, 182, 185, 206, 207, 208, 210, and 303 Series Airplanes\nDiscussion\nWe recently received reports of improper installation of the part number identification placard on alternate static air source selector valves of certain Cessna 172, 175, 180, 182, 185, 206, 207, 208, 210, and 303 series airplanes. The part number identification placard refers to alternative air source selector valves, part number 2013142-18 that were manufactured between November 20, 2007, and February 18, 2008. The part number identification placard was installed on the valve body in a location that covers the port, which is the inlet for static air reference into the valve. The problem was discovered during a quality control check.\nAll parts held in stock at Cessna have been corrected. Cessna has no way of verifying how many of these assemblies were manufactured and sent to the field with the part number identification placard installed over the alternate static air source selector valve port.\nWe have no way of determining which airplanes have the remaining problem alternate static air source selector valve assemblies installed without having all of the affected airplanes and spares stock inspected."
+    }
+   },
+   {
+    "index": 8,
+    "relevance_score": 0.06156135938688233,
+    "document": {
+     "text": "AD 2008-02-18: Cessna Aircraft Company 172 and 182 Series Airplanes\n14 CFR Part 39\n[Docket No. FAA-2007-29317; Directorate Identifier 2007-CE-079-AD; Amendment 39-15348; AD 2008-02-18]"
+    }
+   },
+   {
+    "index": 18,
+    "relevance_score": 0.059849633885296606,
+    "document": {
+     "text": "AD 2004-15-18: Cessna Aircraft Company Models 172R, 172S, 182S, 182T, T182T, 206H, and T206H Airplanes\nPART 39-AIRWORTHINESS DIRECTIVES\n\u25a0 1. The authority citation for part 39 continues to read as follows:\nAuthority: 49 U.S.C. 106(g), 40113, 44701."
+    }
+   },
+   {
+    "index": 12,
+    "relevance_score": 0.05870025997114469,
+    "document": {
+     "text": "AD 2004-15-18: Cessna Aircraft Company Models 172R, 172S, 182S, 182T, T182T, 206H, and T206H Airplanes\n\u00a739.13 [Amended]\n\u25a0 2. The FAA amends \u00a739.13 by removing Airworthiness Directive (AD) 2003-24-13, Amendment 39-13382 (68 FR 67789, December 4, 2003), and by adding a new AD to read as follows:\n2004-15-18 Cessna Aircraft Company: Amendment 39-13752; Docket No. 2004-CE-03-AD."
+    }
+   },
+   {
+    "index": 10,
+    "relevance_score": 0.058664240243947625,
+    "document": {
+     "text": "AD 2008-02-18: Cessna Aircraft Company 172 and 182 Series Airplanes\nPART 39-AIRWORTHINESS DIRECTIVES\n\u25a0 1. The authority citation for part 39 continues to read as follows:\nAuthority: 49 U.S.C. 106(g), 40113, 44701."
+    }
+   },
+   {
+    "index": 14,
+    "relevance_score": 0.05863021505665606,
+    "document": {
+     "text": "AD 2008-02-18: Cessna Aircraft Company 172 and 182 Series Airplanes\n\u00a739.13 [Amended]\n\u25a0 2. FAA amends \u00a739.13 by adding the following new AD:"
+    }
+   },
+   {
+    "index": 11,
+    "relevance_score": 0.0463798088007236,
+    "document": {
+     "text": "Procedures manual, revision 7 (excerpt)\n2 Airworthiness directives\n2.1 Weekly review. Every Monday the quality manager checks the FAA's list of new and revised airworthiness directives for the Cessna 172 series, the engines, propellers, and appliances installed in the fleet. The FAA is the state of design for every type we maintain, and its directives are applied as mandatory.\n2.2 Corrections. A directive can be corrected after publication, in a separate Federal Register notice. Always read a directive together with its corrections before deciding whether it applies.\n2.3 Applicability. A directive applies to an aircraft only when every condition in its applicability paragraph is met: model, serial number range, installed equipment, part number, software version, and any modification or service bulletin it names. Check each condition against the fleet register and the aircraft records, and write down which conditions you checked.\n2.4 Records. Each aircraft has an AD compliance record in the format suggested in AC 43-9D, appendix A: the directive number and revision, the method of compliance, the date and hours, and for recurring directives the next time due. A directive found not applicable is recorded too, with the reason."
+    }
+   },
+   {
+    "index": 9,
+    "relevance_score": 0.04195573009145559,
+    "document": {
+     "text": "14 CFR Part 39: Airworthiness Directives\n\u00a7 39.15 Does an airworthiness directive apply if the product has been changed?\nYes, an airworthiness directive applies to each product identified in the airworthiness directive, even if an individual product has been changed by modifying, altering, or repairing it in the area addressed by the airworthiness directive."
+    }
+   },
+   {
+    "index": 1,
+    "relevance_score": 0.041398662993201704,
+    "document": {
+     "text": "14 CFR Part 39: Airworthiness Directives\n\u00a7 39.27 What do I do if the airworthiness directive conflicts with the service document on which it is based?\nIn some cases an airworthiness directive incorporates by reference a manufacturer's service document. In these cases, the service document becomes part of the airworthiness directive. In some cases the directions in the service document may be modified by the airworthiness directive. If there is a conflict between the service document and the airworthiness directive, you must follow the requirements of the airworthiness directive."
+    }
+   },
+   {
+    "index": 15,
+    "relevance_score": 0.040943277834200584,
+    "document": {
+     "text": "14 CFR Part 39: Airworthiness Directives\n\u00a7 39.9 What if I operate an aircraft or use a product that does not meet the requirements of an airworthiness directive?\nIf the requirements of an airworthiness directive have not been met, you violate \u00a7 39.7 each time you operate the aircraft or use the product."
+    }
+   },
+   {
+    "index": 13,
+    "relevance_score": 0.04046622413316754,
+    "document": {
+     "text": "14 CFR Part 39: Airworthiness Directives\n\u00a7 39.7 What is the legal effect of failing to comply with an airworthiness directive?\nAnyone who operates a product that does not meet the requirements of an applicable airworthiness directive is in violation of this section."
+    }
+   },
+   {
+    "index": 3,
+    "relevance_score": 0.03876138993930607,
+    "document": {
+     "text": "Airworthiness directives at Anfa: training deck for new mechanics\n1 Airworthiness directives at Anfa\nAirworthiness directives at Anfa\nNew mechanics, first month Quality: Karim Bennani\nSpeaker notes: This deck is for mechanics in their first month. It covers how we decide whether a directive applies and how we record it. Ask the quality manager about anything it does not cover."
+    }
+   },
+   {
+    "index": 16,
+    "relevance_score": 0.0380769955378364,
+    "document": {
+     "text": "AC 39-7D, Airworthiness Directives\n15 DETERMINING REVISION DATES.\nRevision Date. The revision date required by \u00a7 91.417(a)(2)(v) is the effective date of the latest amendment to the AD and may be found in paragraph (a) of the body of each AD. For example, \"This airworthiness directive (AD) is effective April 12, 2005.\"\nEmergency ADs. Similarly, the revision date for an Emergency AD is the date it was issued. For example, \"Emergency airworthiness directive (AD) 2006-17-51, issued\nAugust 15, 2006, is effective immediately upon receipt.\" Each emergency AD is followed by an FRC version published in the FR that will reflect the amendment number of the regulation, including effective date. For example, \"This AD is effective September 18, 2006, to all persons except those persons to whom it was made immediately effective by Emergency AD 2006-17-51, issued on August 15, 2006, which contained the requirements of this amendment.\""
+    }
+   },
+   {
+    "index": 7,
+    "relevance_score": 0.03476295832662004,
+    "document": {
+     "text": "Procedures manual, revision 7 (excerpt)\n1 Purpose and scope\nThis manual describes how Anfa Aero Services maintains the aircraft it looks after. It covers the Cessna 172 fleet of Tadla Flight Academy, based in Casablanca and Beni Mellal. This excerpt holds the sections that mechanics use every week; the full manual is kept by the quality manager.\nWhere this manual and a manufacturer's instruction or an airworthiness directive differ, the directive comes first, then the manufacturer's instruction, then this manual. This manual may be stricter than either; it may never be less strict."
+    }
+   }
+  ],
+  "usage": {
+   "total_tokens": 4721,
+   "cost": 0
+  },
+  "provider": "Nvidia",
+  "id": "gen-rerank-1793399766-2NXZ8SYSUEb4xEnYQFo5"
+ }
+}

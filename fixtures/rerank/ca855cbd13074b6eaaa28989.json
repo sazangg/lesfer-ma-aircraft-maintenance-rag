@@ -1,0 +1,171 @@
+{
+ "request": {
+  "model": "nvidia/nemotron-3.5-rerank-8b:free",
+  "query": "List all airworthiness directives that apply to the Cessna 172S.",
+  "documents": [
+   "AD 2005-13-10: Cessna Aircraft Company Models 172R, 172S, 182T, T182T, 206H, and T206H Airplanes\nRIN 2120-AA64\nAirworthiness Directives; Cessna Aircraft Company Models 172R, 172S, 182T, T182T, 206H, and T206H Airplanes\nAGENCY: Federal Aviation Administration (FAA), DOT. ACTION: Final rule.",
+   "AD 98-01-01: Cessna Aircraft Company Models 172R and 182S Airplanes\n14 CFR Part 39\n[Docket No. 97-CE-150-AD; Amendment 39-10287; AD 98-01-01]\nRIN 2120-AA64\nAirworthiness Directives; Cessna Aircraft Company Models 172R and 182S Airplanes\nAGENCY: Federal Aviation Administration, DOT.\nACTION: Final rule; request for comments.",
+   "14 CFR Part 39: Airworthiness Directives\n\u00a7 39.3 Definition of airworthiness directives.\nFAA's airworthiness directives are legally enforceable rules that apply to the following products: aircraft, aircraft engines, propellers, and appliances.",
+   "AD 2013-03-15: Cessna Aircraft Company Airplanes\n(c) Applicability\nThis AD applies to the following Cessna Aircraft Company (Cessna) airplanes, certificated in any category:\n(1) Model 172R, serial numbers (S/N) 17281573 through 17281616; and\n(2) Model 172S, S/N l72S11074 through 172S11193.",
+   "14 CFR Part 39: Airworthiness Directives\n\u00a7 39.13 Are airworthiness directives part of the Code of Federal Regulations?\nYes, airworthiness directives are part of the Code of Federal Regulations, but they are not codified in the annual edition. FAA publishes airworthiness directives in full in the Federal Register as amendments to \u00a7 39.13.\nEditorial Note:For a complete list of citations to airworthiness directives published in the Federal Register, consult the following publications: For airworthiness directives published in the Federal Register since 2001, see the entries for 14 CFR 39.13 in the List of CFR Sections Affected, which appears in the \u201cFinding Aids\u201d section of the printed volume and at www.govinfo.gov. For citations to prior amendments, see the entries for 14 CFR 39.13 in the separate publications List of CFR Sections Affected, 1973-1985, List of CFR Sections Affected, 1964-1972, and List of CFR Sections Affected, 1986-2000, and the entries for 14 CFR 507.10 in the List of Sections Affected, 1949-1963. See also the annual editions of the Federal Register Index for subject matter references and citations to FAA airworthiness directives.",
+   "AD 2008-03-02: Cessna Aircraft Company Models 172R and 172S Airplanes\n14 CFR Part 39\n[Docket No. FAA-2007-29138; Directorate Identifier 2007-CE-073-AD; Amendment 39-15351; AD 2008-03-02]",
+   "AD 2018-02-04: Aerospace Welding Minneapolis, Inc., Mufflers\nRequest To Prohibit the Installation of the Affected Muffler on Cessna 172R and 172S Airplanes\nWe do not agree with the implication that the installation prohibition should apply to all produced parts or only apply to the Cessna Model 172R and 172S airplanes. The unsafe condition resulted from a design change with a limited serial number effectivity and that is approved for installation on other models. We don't know how many parts are installed or could be installed in the future on the Cessna Models C172R and C172S airplanes. The current applicability captures all the potentially unsafe parts in the field. Concerns about material substitutions complying with 14 CFR 23.1125(a)(1) goes beyond the scope of this AD.\nWe have not changed this AD based on this comment.",
+   "AD 2012-02-02: Cessna Aircraft Company Airplanes\nAirworthiness Directives; Cessna Aircraft Company Airplanes\nAGENCY: Federal Aviation Administration (FAA), DOT. ACTION: Final rule.\nSUMMARY: We are superseding an existing airworthiness directive (AD) for certain Cessna Aircraft Company (Cessna) Models 172R and 172S airplanes. That AD currently requires you to inspect the fuel return line assembly for chafing; replace the fuel return line assembly if chafing is found; and inspect the clearance between the fuel return line assembly and both the right steering tube assembly and the airplane structure, adjusting as necessary. Since we issued that AD, we have received a field report of a fuel return line chafing incident on a Cessna Model 172 airplane with a serial number (S/N) that was not included in the AD. This AD retains the actions of the current AD and adds S/Ns to the Applicability section of the AD. Chafing of the fuel return line assembly could lead to fire. This new AD requires the actions of the current AD and adds S/ Ns to the Applicability section of the AD. We are issuing this AD to correct the unsafe condition on these products. DATES: This AD is effective March 13, 2012.",
+   "14 CFR Part 39: Airworthiness Directives\n\u00a7 39.15 Does an airworthiness directive apply if the product has been changed?\nYes, an airworthiness directive applies to each product identified in the airworthiness directive, even if an individual product has been changed by modifying, altering, or repairing it in the area addressed by the airworthiness directive.",
+   "AD 98-01-01: Cessna Aircraft Company Models 172R and 182S Airplanes\n\u00a739.13 [Amended]\nSection 39.13 is amended by adding a new airworthiness directive (AD) to read as follows:\n98-01-01 Cessna Aircraft Company: Amendment 39-10287; Docket No. 97CE-150-AD.\nApplicability: The following airplane models and serial numbers, certificated in any category:\nModel 172R Airplanes: serial numbers 17280003 through 17280171, 17280173 through 17280175, 17280177 through 17280179, 17280182 through 17280184,\n17280186, 17280189, 17280190, 17280192 through 17280212, 17280214, 17280216 through 17280221, 17280223 through 17280236, 17280239 through 17280251, 17280253 through 17280263, 17280265, 17280268, 17280270 through 17280272, 17280283, 17280297, and 17280301; and Model 182S Airplanes: serial numbers 18280001, 18280002, 18280004 through 18280045, 18280048 through 18280060, 18280062 through 18280064, 18280067, and 18280070.",
+   "14 CFR Part 39: Airworthiness Directives\n\u00a7 39.25 How do I get a special flight permit?\nApply to FAA for a special flight permit following the procedures in 14 CFR 21.199.",
+   "AD 2001-06-17: Cessna Aircraft Company Models 172R and 172S Airplanes\n14 CFR Part 39\n[Docket No. 2001-CE-14-AD; Amendment 39-12164; AD 2001-06-17]\nRIN 2120-AA64",
+   "AD 2005-05-53 R1: The Cessna Aircraft Company Models 172R, 172S, 182T, and T182T Airplanes\nAirworthiness Directives; The Cessna Aircraft Company Models 172R, 172S, 182T, and T182T Airplanes\nAGENCY: Federal Aviation Administration (FAA), DOT. ACTION: Final rule; request for comments.\nSUMMARY: The FAA is adopting a new airworthiness directive (AD) to revise emergency AD 2005-05-53 for The Cessna Aircraft Company (Cessna) Models 172R, 172S, 182T, and T182T airplanes. This AD contains the same information as emergency AD 2005-05-53 R1 and publishes the action in the Federal Register. It requires you to do a one-time detailed inspection of the flight control system, correct installations that do not conform to type design, and repair any damage. This AD is the result of flight control system problems found on airplanes within Cessna's control that could also exist on airplanes produced and delivered within a certain time period. We are issuing this AD to prevent loss of airplane control due to incorrect or inadequate rigging of critical flight systems.",
+   "AD 2005-05-53 R1: The Cessna Aircraft Company Models 172R, 172S, 182T, and T182T Airplanes\nAirworthiness Directives; The Cessna Aircraft Company Models 172R, 172S, 182T, and T182T Airplanes\nTo get the service information identified in this proposed AD, contact The Cessna Aircraft Company, Product Support P.O. Box 7706, Wichita, Kansas 67277; telephone: (316) 517-5800; facsimile: (316) 942-9006.\nTo view the comments to this AD, go to http://dms.dot.gov. The docket number is FAA-2005-20587; Directorate Identifier 2005-CE-10-AD.",
+   "AD 2008-03-02: Cessna Aircraft Company Models 172R and 172S Airplanes\n2008-03-02 Cessna Aircraft Company:\nAmendment 39-15351; Docket No. FAA-2007-29138; Directorate Identifier 2007-CE-073-AD.",
+   "AD 2008-10-02: Cessna Aircraft Company 172, 175, 180, 182, 185, 206, 207, 208, 210, and 303 Series Airplanes\nApplicability\nTABLE 2.-APPLICABILITY FOR AIRPLANES THAT COULD HAVE HAD THE AFFECTED PART INSTALLED AS A REPLACEMENT PART OR FROM PARTS HELD AS SPARES\nModel: 172S; S/Ns: 172S8001 through 172S10671.",
+   "14 CFR Part 39: Airworthiness Directives\n\u00a7 39.5 When does FAA issue airworthiness directives?\nFAA issues an airworthiness directive addressing a product when we find that:\n(a) An unsafe condition exists in the product; and\n(b) The condition is likely to exist or develop in other products of the same type design.",
+   "AD 2008-03-02: Cessna Aircraft Company Models 172R and 172S Airplanes\n14 CFR Part 71\n[Docket No. FAA-2007-0276; Airspace Docket No. 07-AEA-16]",
+   "AD 2003-24-13 (correction): Cessna Aircraft Company Models 172R, 172S, 182S, 182T, T182T, 206H, and T206H Airplanes\nRIN 2120-AA64\nAirworthiness Directives; Cessna Aircraft Company Models 172R, 172S, 182S, 182T, T182T, 206H, and T206H Airplanes\nAGENCY: Federal Aviation\nAdministration, DOT.\nACTION: Final rule; correction.\nSUMMARY: This document makes a correction to Airworthiness Directive (AD) 2003-24-13, which was published in the Federal Register on December 4, 2003 (68 FR 67789), and applies to certain Cessna Aircraft Company (Cessna) Models 172R, 172S, 182S, 182T, T182T, 206H, and T206H\nairplanes that are equipped with a Honeywell KAP 140 autopilot computer system installed on the center instrument control panel near the throttle. We inadvertently duplicated affected airplane serial numbers and included a serial number that should not be affected by this AD in the applicability section. This action corrects the applicability section of AD 2003-24-13, Amendment 39-13382.\nEFFECTIVE DATE: The effective date of this AD remains January 20, 2004.\nFOR FURTHER INFORMATION CONTACT: Dan Withers, Aerospace Engineer, Wichita Aircraft Certification Office (ACO), FAA, 1801 Airport Road, Mid-Continent Airport, Wichita, Kansas 67209; telephone: (316) 946-4196; facsimile: (316) 946-4407."
+  ]
+ },
+ "response": {
+  "model": "nvidia/nemotron-3.5-rerank-8b",
+  "results": [
+   {
+    "index": 15,
+    "relevance_score": 0.13995561177499072,
+    "document": {
+     "text": "AD 2008-10-02: Cessna Aircraft Company 172, 175, 180, 182, 185, 206, 207, 208, 210, and 303 Series Airplanes\nApplicability\nTABLE 2.-APPLICABILITY FOR AIRPLANES THAT COULD HAVE HAD THE AFFECTED PART INSTALLED AS A REPLACEMENT PART OR FROM PARTS HELD AS SPARES\nModel: 172S; S/Ns: 172S8001 through 172S10671."
+    }
+   },
+   {
+    "index": 14,
+    "relevance_score": 0.12387545453347691,
+    "document": {
+     "text": "AD 2008-03-02: Cessna Aircraft Company Models 172R and 172S Airplanes\n2008-03-02 Cessna Aircraft Company:\nAmendment 39-15351; Docket No. FAA-2007-29138; Directorate Identifier 2007-CE-073-AD."
+    }
+   },
+   {
+    "index": 12,
+    "relevance_score": 0.1236062758491979,
+    "document": {
+     "text": "AD 2005-05-53 R1: The Cessna Aircraft Company Models 172R, 172S, 182T, and T182T Airplanes\nAirworthiness Directives; The Cessna Aircraft Company Models 172R, 172S, 182T, and T182T Airplanes\nAGENCY: Federal Aviation Administration (FAA), DOT. ACTION: Final rule; request for comments.\nSUMMARY: The FAA is adopting a new airworthiness directive (AD) to revise emergency AD 2005-05-53 for The Cessna Aircraft Company (Cessna) Models 172R, 172S, 182T, and T182T airplanes. This AD contains the same information as emergency AD 2005-05-53 R1 and publishes the action in the Federal Register. It requires you to do a one-time detailed inspection of the flight control system, correct installations that do not conform to type design, and repair any damage. This AD is the result of flight control system problems found on airplanes within Cessna's control that could also exist on airplanes produced and delivered within a certain time period. We are issuing this AD to prevent loss of airplane control due to incorrect or inadequate rigging of critical flight systems."
+    }
+   },
+   {
+    "index": 5,
+    "relevance_score": 0.12281740745922441,
+    "document": {
+     "text": "AD 2008-03-02: Cessna Aircraft Company Models 172R and 172S Airplanes\n14 CFR Part 39\n[Docket No. FAA-2007-29138; Directorate Identifier 2007-CE-073-AD; Amendment 39-15351; AD 2008-03-02]"
+    }
+   },
+   {
+    "index": 11,
+    "relevance_score": 0.1204296487976101,
+    "document": {
+     "text": "AD 2001-06-17: Cessna Aircraft Company Models 172R and 172S Airplanes\n14 CFR Part 39\n[Docket No. 2001-CE-14-AD; Amendment 39-12164; AD 2001-06-17]\nRIN 2120-AA64"
+    }
+   },
+   {
+    "index": 0,
+    "relevance_score": 0.11917278628104279,
+    "document": {
+     "text": "AD 2005-13-10: Cessna Aircraft Company Models 172R, 172S, 182T, T182T, 206H, and T206H Airplanes\nRIN 2120-AA64\nAirworthiness Directives; Cessna Aircraft Company Models 172R, 172S, 182T, T182T, 206H, and T206H Airplanes\nAGENCY: Federal Aviation Administration (FAA), DOT. ACTION: Final rule."
+    }
+   },
+   {
+    "index": 3,
+    "relevance_score": 0.11533999172112598,
+    "document": {
+     "text": "AD 2013-03-15: Cessna Aircraft Company Airplanes\n(c) Applicability\nThis AD applies to the following Cessna Aircraft Company (Cessna) airplanes, certificated in any category:\n(1) Model 172R, serial numbers (S/N) 17281573 through 17281616; and\n(2) Model 172S, S/N l72S11074 through 172S11193."
+    }
+   },
+   {
+    "index": 17,
+    "relevance_score": 0.11522910497921109,
+    "document": {
+     "text": "AD 2008-03-02: Cessna Aircraft Company Models 172R and 172S Airplanes\n14 CFR Part 71\n[Docket No. FAA-2007-0276; Airspace Docket No. 07-AEA-16]"
+    }
+   },
+   {
+    "index": 13,
+    "relevance_score": 0.11366531347485807,
+    "document": {
+     "text": "AD 2005-05-53 R1: The Cessna Aircraft Company Models 172R, 172S, 182T, and T182T Airplanes\nAirworthiness Directives; The Cessna Aircraft Company Models 172R, 172S, 182T, and T182T Airplanes\nTo get the service information identified in this proposed AD, contact The Cessna Aircraft Company, Product Support P.O. Box 7706, Wichita, Kansas 67277; telephone: (316) 517-5800; facsimile: (316) 942-9006.\nTo view the comments to this AD, go to http://dms.dot.gov. The docket number is FAA-2005-20587; Directorate Identifier 2005-CE-10-AD."
+    }
+   },
+   {
+    "index": 7,
+    "relevance_score": 0.11076489347358426,
+    "document": {
+     "text": "AD 2012-02-02: Cessna Aircraft Company Airplanes\nAirworthiness Directives; Cessna Aircraft Company Airplanes\nAGENCY: Federal Aviation Administration (FAA), DOT. ACTION: Final rule.\nSUMMARY: We are superseding an existing airworthiness directive (AD) for certain Cessna Aircraft Company (Cessna) Models 172R and 172S airplanes. That AD currently requires you to inspect the fuel return line assembly for chafing; replace the fuel return line assembly if chafing is found; and inspect the clearance between the fuel return line assembly and both the right steering tube assembly and the airplane structure, adjusting as necessary. Since we issued that AD, we have received a field report of a fuel return line chafing incident on a Cessna Model 172 airplane with a serial number (S/N) that was not included in the AD. This AD retains the actions of the current AD and adds S/Ns to the Applicability section of the AD. Chafing of the fuel return line assembly could lead to fire. This new AD requires the actions of the current AD and adds S/ Ns to the Applicability section of the AD. We are issuing this AD to correct the unsafe condition on these products. DATES: This AD is effective March 13, 2012."
+    }
+   },
+   {
+    "index": 18,
+    "relevance_score": 0.10159049041474023,
+    "document": {
+     "text": "AD 2003-24-13 (correction): Cessna Aircraft Company Models 172R, 172S, 182S, 182T, T182T, 206H, and T206H Airplanes\nRIN 2120-AA64\nAirworthiness Directives; Cessna Aircraft Company Models 172R, 172S, 182S, 182T, T182T, 206H, and T206H Airplanes\nAGENCY: Federal Aviation\nAdministration, DOT.\nACTION: Final rule; correction.\nSUMMARY: This document makes a correction to Airworthiness Directive (AD) 2003-24-13, which was published in the Federal Register on December 4, 2003 (68 FR 67789), and applies to certain Cessna Aircraft Company (Cessna) Models 172R, 172S, 182S, 182T, T182T, 206H, and T206H\nairplanes that are equipped with a Honeywell KAP 140 autopilot computer system installed on the center instrument control panel near the throttle. We inadvertently duplicated affected airplane serial numbers and included a serial number that should not be affected by this AD in the applicability section. This action corrects the applicability section of AD 2003-24-13, Amendment 39-13382.\nEFFECTIVE DATE: The effective date of this AD remains January 20, 2004.\nFOR FURTHER INFORMATION CONTACT: Dan Withers, Aerospace Engineer, Wichita Aircraft Certification Office (ACO), FAA, 1801 Airport Road, Mid-Continent Airport, Wichita, Kansas 67209; telephone: (316) 946-4196; facsimile: (316) 946-4407."
+    }
+   },
+   {
+    "index": 1,
+    "relevance_score": 0.09239669965071856,
+    "document": {
+     "text": "AD 98-01-01: Cessna Aircraft Company Models 172R and 182S Airplanes\n14 CFR Part 39\n[Docket No. 97-CE-150-AD; Amendment 39-10287; AD 98-01-01]\nRIN 2120-AA64\nAirworthiness Directives; Cessna Aircraft Company Models 172R and 182S Airplanes\nAGENCY: Federal Aviation Administration, DOT.\nACTION: Final rule; request for comments."
+    }
+   },
+   {
+    "index": 9,
+    "relevance_score": 0.08979592739804235,
+    "document": {
+     "text": "AD 98-01-01: Cessna Aircraft Company Models 172R and 182S Airplanes\n\u00a739.13 [Amended]\nSection 39.13 is amended by adding a new airworthiness directive (AD) to read as follows:\n98-01-01 Cessna Aircraft Company: Amendment 39-10287; Docket No. 97CE-150-AD.\nApplicability: The following airplane models and serial numbers, certificated in any category:\nModel 172R Airplanes: serial numbers 17280003 through 17280171, 17280173 through 17280175, 17280177 through 17280179, 17280182 through 17280184,\n17280186, 17280189, 17280190, 17280192 through 17280212, 17280214, 17280216 through 17280221, 17280223 through 17280236, 17280239 through 17280251, 17280253 through 17280263, 17280265, 17280268, 17280270 through 17280272, 17280283, 17280297, and 17280301; and Model 182S Airplanes: serial numbers 18280001, 18280002, 18280004 through 18280045, 18280048 through 18280060, 18280062 through 18280064, 18280067, and 18280070."
+    }
+   },
+   {
+    "index": 6,
+    "relevance_score": 0.08129414910417876,
+    "document": {
+     "text": "AD 2018-02-04: Aerospace Welding Minneapolis, Inc., Mufflers\nRequest To Prohibit the Installation of the Affected Muffler on Cessna 172R and 172S Airplanes\nWe do not agree with the implication that the installation prohibition should apply to all produced parts or only apply to the Cessna Model 172R and 172S airplanes. The unsafe condition resulted from a design change with a limited serial number effectivity and that is approved for installation on other models. We don't know how many parts are installed or could be installed in the future on the Cessna Models C172R and C172S airplanes. The current applicability captures all the potentially unsafe parts in the field. Concerns about material substitutions complying with 14 CFR 23.1125(a)(1) goes beyond the scope of this AD.\nWe have not changed this AD based on this comment."
+    }
+   },
+   {
+    "index": 2,
+    "relevance_score": 0.05482613884430693,
+    "document": {
+     "text": "14 CFR Part 39: Airworthiness Directives\n\u00a7 39.3 Definition of airworthiness directives.\nFAA's airworthiness directives are legally enforceable rules that apply to the following products: aircraft, aircraft engines, propellers, and appliances."
+    }
+   },
+   {
+    "index": 16,
+    "relevance_score": 0.048819059331363594,
+    "document": {
+     "text": "14 CFR Part 39: Airworthiness Directives\n\u00a7 39.5 When does FAA issue airworthiness directives?\nFAA issues an airworthiness directive addressing a product when we find that:\n(a) An unsafe condition exists in the product; and\n(b) The condition is likely to exist or develop in other products of the same type design."
+    }
+   },
+   {
+    "index": 4,
+    "relevance_score": 0.04788370017715323,
+    "document": {
+     "text": "14 CFR Part 39: Airworthiness Directives\n\u00a7 39.13 Are airworthiness directives part of the Code of Federal Regulations?\nYes, airworthiness directives are part of the Code of Federal Regulations, but they are not codified in the annual edition. FAA publishes airworthiness directives in full in the Federal Register as amendments to \u00a7 39.13.\nEditorial Note:For a complete list of citations to airworthiness directives published in the Federal Register, consult the following publications: For airworthiness directives published in the Federal Register since 2001, see the entries for 14 CFR 39.13 in the List of CFR Sections Affected, which appears in the \u201cFinding Aids\u201d section of the printed volume and at www.govinfo.gov. For citations to prior amendments, see the entries for 14 CFR 39.13 in the separate publications List of CFR Sections Affected, 1973-1985, List of CFR Sections Affected, 1964-1972, and List of CFR Sections Affected, 1986-2000, and the entries for 14 CFR 507.10 in the List of Sections Affected, 1949-1963. See also the annual editions of the Federal Register Index for subject matter references and citations to FAA airworthiness directives."
+    }
+   },
+   {
+    "index": 8,
+    "relevance_score": 0.04543091014191776,
+    "document": {
+     "text": "14 CFR Part 39: Airworthiness Directives\n\u00a7 39.15 Does an airworthiness directive apply if the product has been changed?\nYes, an airworthiness directive applies to each product identified in the airworthiness directive, even if an individual product has been changed by modifying, altering, or repairing it in the area addressed by the airworthiness directive."
+    }
+   },
+   {
+    "index": 10,
+    "relevance_score": 0.041787788049316474,
+    "document": {
+     "text": "14 CFR Part 39: Airworthiness Directives\n\u00a7 39.25 How do I get a special flight permit?\nApply to FAA for a special flight permit following the procedures in 14 CFR 21.199."
+    }
+   }
+  ],
+  "usage": {
+   "total_tokens": 4028,
+   "cost": 0
+  },
+  "provider": "Nvidia",
+  "id": "gen-rerank-1793399675-0iIw2PElwpo85mxNHfpP"
+ }
+}

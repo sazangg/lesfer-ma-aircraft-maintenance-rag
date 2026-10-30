@@ -45,7 +45,7 @@ def _client():
 
 
 def call(kind: str, request: dict) -> dict:
-    """Run one request (kind 'embeddings' or 'chat') and return the response as a plain dict."""
+    """Run one request (kind 'embeddings', 'chat', or 'rerank') and return the response as a plain dict."""
     key = hashlib.sha256(json.dumps({"kind": kind, **request}, sort_keys=True).encode()).hexdigest()[:24]
     path = FIXTURES / kind / f"{key}.json"
     # Record mode records only what is missing: free accounts have a daily request limit.
@@ -90,6 +90,21 @@ def _unpack(response: dict) -> dict:
     return {**response, "data": data} if data else response
 
 
+def _rerank(request: dict) -> dict:
+    # The OpenAI client has no rerank call; OpenRouter's endpoint takes a plain JSON POST.
+    import urllib.request
+
+    req = urllib.request.Request(
+        f"{SETTINGS.base_url}/rerank", data=json.dumps(request).encode(),
+        headers={"Authorization": f"Bearer {SETTINGS.api_key}", "Content-Type": "application/json"},
+    )
+    with urllib.request.urlopen(req, timeout=120) as reply:
+        response = json.load(reply)
+    if not response.get("results"):
+        raise RuntimeError(f"no results in rerank response: {response.get('error')}")
+    return response
+
+
 def _with_retries(kind: str, request: dict, attempts: int = 5) -> dict:
     # Free endpoints fail now and then (502s, rate limits). A real system paces its requests and retries with backoff.
     global _last_request
@@ -98,6 +113,8 @@ def _with_retries(kind: str, request: dict, attempts: int = 5) -> dict:
         time.sleep(max(0.0, _last_request + MIN_INTERVAL - time.monotonic()))
         _last_request = time.monotonic()
         try:
+            if kind == "rerank":
+                return _rerank(request)
             if kind == "embeddings":
                 response = client.embeddings.create(**request).model_dump()
                 if not response.get("data"):

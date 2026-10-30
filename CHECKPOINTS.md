@@ -232,3 +232,68 @@ KNOWN GAP -> part-13 C15-revision-diff          all 2 supplied; 'Overview of FAA
 - Ingesting now takes 47 embedding requests (4,633 pieces, 100 per request), plus the 171 figure descriptions.
 
 **Stop here if** each question is answered by one passage, table, figure, or slide, and plain wording is enough to find it. C07 passing here is luck of the title prefix; Part 5 makes exact codes reliable.
+
+## part-05: When search misses the evidence
+
+**Article:** [When Search Misses the Evidence](https://lesfer.ma/academy/reliable-ai-company-knowledge/when-search-misses-the-evidence)
+
+**Lands in:** answering (`anfa/retrieval.py`, `Assistant.retrieve`), plus a keyword index at ingestion.
+
+Vector search finds passages that mean what the question means. It treats "2000-04-01" or "2013142-18" as one more number. This checkpoint adds a second search that matches words and codes exactly, merges the two, and lets a reranker order the result:
+
+```
+AD number in the question -> that directive's own pieces (2, nearest first) ---------┐
+question -> keyword search (BM25, 10) ┐                                                ├-> top 5
+         -> vector search (10) -------┴-> reciprocal rank fusion -> reranker ----------┘
+```
+
+- **Keyword search** is BM25 in Postgres (ParadeDB's `pg_search`), over the same searched text as the vectors. The access filter is part of the same query.
+- **Reciprocal rank fusion** merges the two lists by position (1 / (60 + rank)), because a BM25 score and a cosine similarity are on different scales.
+- **The reranker** (`nvidia/nemotron-3.5-rerank-8b:free`) reads the question with each candidate and scores it. One request per question.
+- **An AD number in the question** fetches that directive's own pieces first, from its metadata, not from any score.
+
+**What the runner measured:**
+
+```
+PASS                 C01-record-entry           all 1 supplied; 'A description (...) of work performed' supplied
+PASS                 C02-price-access           none supplied
+PASS                 C03-torque-row             '8-36 12-15 7-9 20 12' supplied
+PASS                 C04-slide-notes            'applied once' supplied
+PASS                 C05-scanned-signature      'Approved for return to service: A. Tazi' supplied
+PASS                 C06-engine-model-context   ['172S', 'Rated 180 Horsepower'] together in one passage
+PASS                 C07-exact-ad-number        first is AD-2000-04-01
+PASS                 C08-part-number            all 1 supplied
+EARLY PASS           C09-engine-only-172S       every passage with 'IO-360-L2A, Rated' names '172S'
+KNOWN GAP -> part-06 C10-which-aircraft         status answered
+KNOWN GAP -> part-09 C11-every-ad               missing 18 of 21; completeness not guaranteed
+KNOWN GAP -> part-10 C12-switch-hours           answer lacks ['39.4']
+KNOWN GAP -> part-11 C13-muffler-fleet          answer lacks ['CN-TFA', 'CN-TFF']
+KNOWN GAP -> part-12 C14-records-trail          missing 2 of 3: ['FLEET-2026-10', 'WO-SCAN']
+KNOWN GAP -> part-13 C15-revision-diff          all 2 supplied; 'Overview of FAA Form 8130-3' not supplied
+
+9 passing, 6 known gaps, 0 regressions
+```
+
+**What each stage did** (source of the top 5, for the cases this part is about):
+
+| Case | Vector search | Keyword search | Final |
+| --- | --- | --- | --- |
+| C07 "What does AD 2000-04-01 require?" | the AD twice, between compliance records of three aircraft | the AD three times, then AD 2008-03-02 and AD 2001-06-17 | the AD, five times |
+| C08 "Which directive covers part number 2013142-18?" | AD 2008-26-10 first, AD 2008-10-02 second | 14 CFR part 39 and the training deck first; AD 2008-10-02 third | AD 2008-10-02 first, with AD 2008-26-10, which also names the part |
+| C06 the 172S's engine | the type certificate first | pieces of three ADs, no type certificate | the type certificate's three pieces first |
+
+- **C07 is now a real pass.** In Part 4 it passed because every piece of the directive starts with its title. Now the number itself finds the directive, and all five passages are from it; the answer gives the inspection, the replacement of P/N 77041 by P/N 83278, the 25 hours, and the service bulletin.
+- **C08 passes because of the merge, not because of the keyword search.** BM25 matches any of the question's words, and "airworthiness directive", "part", "number" fill 14 CFR part 39 and the training deck. Vector search had the right directives; the reranker put the one the case asks for first. Neither search alone was enough; both together, reordered, were.
+- **C14 is closer.** The AD number in the question brings AD 2013-11-11 (Part 4 supplied none of the three documents). The answer changed with it: Part 4 said "Yes" from the next due point; now the model quotes the AD's 3,000-hour limit and the compliance record, and says the records don't give the current hours, so they don't establish it.
+
+**What the real documents added:**
+- **The default tokenizer splits codes.** `pg_search`'s default tokenizer turns "AD 2000-04-01" into "2000", "04", "01", and those match any passage with a "01" in it: a paragraph number, a date, a page. The index here uses a regex tokenizer that keeps letters and digits joined by "-", "." or "/" as one term (`TERMS` in `anfa/store.py`), so a directive number, a part number, or "43.9" is matched whole.
+- **A question is not a query.** BM25's query syntax reads quotes, colons, and brackets as operators, and a question has all three. The search uses `|||` ("any of these terms"), which takes the question as plain text.
+- **An ISO date looks like an AD number.** "2008-05-21" has the shape of AD 08-05-21's number. The lookup is on the directive's metadata, so a date finds nothing and adds nothing.
+- **The reranker can't tell aircraft apart.** For C12 and C14, about CN-TFE, it ranks the AD compliance records of CN-TFA, CN-TFC, and CN-TFD next to CN-TFE's: same table, same row, same directive, a different aircraft in the title. Three of C12's five passages are other aircraft's records. Part 6 deals with answers that must use only the evidence for the aircraft asked about.
+
+**What real models and infrastructure added:**
+- The reranker is free on OpenRouter, like the other models, and costs one request per question: a question now takes three (embed, rerank, answer).
+- No new service: the Postgres image (ParadeDB) has carried `pg_search` since Part 1, next to pgvector. Keyword search is one more index on the same table.
+
+**Stop here if** the questions use the words of the documents and name no codes. Once people ask by directive number, part number, or registration, plain vector search ranks the right document below ones that merely look like it.

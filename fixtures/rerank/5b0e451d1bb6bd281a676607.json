@@ -1,0 +1,147 @@
+{
+ "request": {
+  "model": "nvidia/nemotron-3.5-rerank-8b:free",
+  "query": "What does AD 2000-04-01 require?",
+  "documents": [
+   "AD 2000-04-01: Cessna Aircraft Company Models 172R, 172S, 182S, 206H, and T206H Airplanes\nDEPARTMENT OF TRANSPORTATION\nFederal Aviation Administration",
+   "AD 2000-04-01: Cessna Aircraft Company Models 172R, 172S, 182S, 206H, and T206H Airplanes\n\u00a739.13 [Amended]\nSection 39.13 is amended by adding a new airworthiness directive (AD) to read as follows:\n2000-04-01 Cessna Aircraft Company: Amendment 39-11583; Docket No. 2000-CE-07-AD.\n(a) What airplanes are affected by this AD?: The following model and serial number airplanes, certificated in any category:\n(b) Who must comply with this AD?: Anyone who wishes to operate any of the above airplanes on the U.S. Register.\n(c) What problem does this AD address?: The actions of this AD are intended to prevent failure of the engine oil pressure switch diaphragm, which results in loss of\nengine oil through the vent hole. This could lead to partial or complete loss of engine power.\n(d) What must I do to address this problem?: Within the next 25 hours time-inservice after the effective date of this AD, inspect the oil pressure switch to determine\nif it is part-number (P/N) 77041 (or FAAapproved equivalent part number) or P/N 83278 (or FAA-approved equivalent part number). Then accomplish the following, as applicable:\nIf Then\nP/N 77041 (or FAA-approved equivalent part number) oil pressure switch is installed,\nP/N 83278 (or FAA-approved equivalent part number) oil pressure switch is installed,",
+   "CN-TFD AD compliance record, 26 October 2026\nSheet: AD compliance record\nAD number: 2000-04-01; Effective: 2000-03-11; Subject: Engine oil pressure switch P/N 77041; Applies: No; Notes: Superseded by AD 2013-11-11.",
+   "AD 2000-04-01: Cessna Aircraft Company Models 172R, 172S, 182S, 206H, and T206H Airplanes\nDiscussion\nWhat events have caused this AD?: We have received three reports of the diaphragm of the oil pressure switch failing on Cessna Modesl 172R, 182S, and 206H airplanes. The part number (P/N) of the failed oil pressure switch is 77041. The P/N 77041 oil pressure switch is utilized on the following Cessna airplanes:\nWhat are the consequences if the condition is not corrected?: Failure of the engine oil pressure switch diaphragm results in loss of engine oil through the vent hole. This could lead to partial or complete loss of engine power.",
+   "AD 2008-03-02: Cessna Aircraft Company Models 172R and 172S Airplanes\nDifferences Between This AD and the Service Information\nThe service information permits tube damage up to a depth of 0.0035 inch. There is no known method to accurately measure the thickness damage on a tube. We require replacement of the fuel return line assembly if any damage is found.\nIf no chafing is found in the inspection of the fuel return line assembly, the service information does not require inspection for clearance around the fuel return line assembly. We require you to inspect the clearance between the fuel return line assembly and both the right steering tube assembly and airplane structure, for all applicable aircraft.\nThe service information does not specify a minimum clearance requirement between the fuel return line assembly and the right steering tube assembly, only that the fuel return line assembly does not touch either the right steering tube assembly or the airplane structure. We require a minimum of 0.5 inch of clearance between the fuel return line assembly and both the right steering tube assembly and the airplane structure, during full rudder pedal actuation.\nThe requirements of this AD take precedence over the provisions in the service information.",
+   "CN-TFF AD compliance record, 26 October 2026\nSheet: AD compliance record\nAD number: 2000-04-01; Effective: 2000-03-11; Subject: Engine oil pressure switch P/N 77041; Applies: No; Notes: Superseded by AD 2013-11-11.",
+   "AD 2001-06-17: Cessna Aircraft Company Models 172R and 172S Airplanes\nFAA's Determination and an Explanation of the Provisions of this AD\nWhat has FAA decided? The FAA has reviewed all available information and determined that:\n-The unsafe condition referenced in this document exists or could develop on other Cessna Models 172R and 172S airplanes of the same type design;\n-These airplanes should be inspected for proper engine idle speed and fuel control mixture setting, the engine idle speed or fuel control mixture setting should be adjusted as necessary, and engine operating procedures should be incorporated into the POH/AFM; and\n-AD action should be taken in order to correct this unsafe condition.\nIs there service information that applies to this subject? Cessna has issued Service Bulletin SB01-11-02,\ndated March 5, 2001. This service bulletin:\n-Includes procedures for inspecting the engine idle speed; and\n-Specifies pilot operating procedure changes.\nWhat does this AD require? This AD requires a one-time inspection for proper engine idle speed and fuel control mixture setting and adjustment, as necessary. This AD also requires incorporating engine operating procedures into the POH/AFM.",
+   "CN-TFG AD compliance record, 26 October 2026\nSheet: AD compliance record\nAD number: 2000-04-01; Effective: 2000-03-11; Subject: Engine oil pressure switch P/N 77041; Applies: No; Notes: Superseded by AD 2013-11-11.",
+   "AD 2000-04-01: Cessna Aircraft Company Models 172R, 172S, 182S, 206H, and T206H Airplanes\nRelevant Service Information\nIs there service information that applies to this subject?: Yes. Cessna has issued Service Bulletin No. SB00-7901, dated January 31, 2000.\nWhat are the provisions of this service bulletin?: The service bulletin specifies and includes procedures for accomplishing the following:\n-Inspecting the oil pressure switch to determine if the oil pressure switch is P/N 77041 or P/N 83278; and\n-Replacing any P/N 77041 oil pressure switch with a P/N 83278 switch.",
+   "CN-TFC AD compliance record, 26 October 2026\nSheet: AD compliance record\nAD number: 2000-04-01; Effective: 2000-03-11; Subject: Engine oil pressure switch P/N 77041; Applies: No; Notes: Superseded by AD 2013-11-11.",
+   "CN-TFA AD compliance record, 26 October 2026\nSheet: AD compliance record\nAD number: 2000-04-01; Effective: 2000-03-11; Subject: Engine oil pressure switch P/N 77041; Applies: No; Notes: Superseded by AD 2013-11-11.",
+   "14 CFR Part 39: Airworthiness Directives\n\u00a7 39.11 What actions do airworthiness directives require?\nAirworthiness directives specify inspections you must carry out, conditions and limitations you must comply with, and any actions you must take to resolve an unsafe condition.",
+   "AD 2013-11-11: Cessna Aircraft Company Airplanes\n(b) Affected ADs\nThis AD supersedes AD 2000-04-01, Amendment 39-11583 (65 FR 8649, February 22, 2000).",
+   "CN-TFB AD compliance record, 26 October 2026\nSheet: AD compliance record\nAD number: 2000-04-01; Effective: 2000-03-11; Subject: Engine oil pressure switch P/N 77041; Applies: No; Notes: Superseded by AD 2013-11-11.",
+   "AD 2000-04-01: Cessna Aircraft Company Models 172R, 172S, 182S, 206H, and T206H Airplanes\n\u00a739.13 [Amended]\n(h) What if I need to fly the airplane to another location to comply with this AD?: The FAA can issue a special flight permit under sections 21.197 and 21.199 of the Federal Aviation Regulations (14 CFR 21.197 and 21.199) to operate your airplane to a location where you can accomplish the requirements of this AD.\n(i) Are any service bulletins incorporated into this AD by reference?: Yes. Actions required by this AD must be done in accordance with Cessna Service Bulletin SB00-79-01, dated January 31, 2000. The Director of the Federal Register approved this incorporation by reference under 5 U.S.C. 552(a) and 1 CFR part 51. You can get copies from the Cessna Aircraft Company, Product Support, P.O. Box 7706, Wichita, Kansas 67277. You can look at copies at the FAA, Central Region, Office of the Regional Counsel, 901 Locust, Room 506, Kansas City, Missouri, or at the Office of the Federal Register, 800 North Capitol Street, NW, suite 700, Washington, DC.\n(j) When does this amendment become effective?: This amendment becomes effective on March 11, 2000.\nIssued in Kansas City, Missouri, on February 11, 2000.\nMichael K. Dahl,",
+   "CN-TFE AD compliance record, 26 October 2026\nSheet: AD compliance record\nAD number: 2000-04-01; Effective: 2000-03-11; Subject: Engine oil pressure switch P/N 77041; Applies: No; Notes: Superseded by AD 2013-11-11."
+  ]
+ },
+ "response": {
+  "model": "nvidia/nemotron-3.5-rerank-8b",
+  "results": [
+   {
+    "index": 1,
+    "relevance_score": 0.14563469953709973,
+    "document": {
+     "text": "AD 2000-04-01: Cessna Aircraft Company Models 172R, 172S, 182S, 206H, and T206H Airplanes\n\u00a739.13 [Amended]\nSection 39.13 is amended by adding a new airworthiness directive (AD) to read as follows:\n2000-04-01 Cessna Aircraft Company: Amendment 39-11583; Docket No. 2000-CE-07-AD.\n(a) What airplanes are affected by this AD?: The following model and serial number airplanes, certificated in any category:\n(b) Who must comply with this AD?: Anyone who wishes to operate any of the above airplanes on the U.S. Register.\n(c) What problem does this AD address?: The actions of this AD are intended to prevent failure of the engine oil pressure switch diaphragm, which results in loss of\nengine oil through the vent hole. This could lead to partial or complete loss of engine power.\n(d) What must I do to address this problem?: Within the next 25 hours time-inservice after the effective date of this AD, inspect the oil pressure switch to determine\nif it is part-number (P/N) 77041 (or FAAapproved equivalent part number) or P/N 83278 (or FAA-approved equivalent part number). Then accomplish the following, as applicable:\nIf Then\nP/N 77041 (or FAA-approved equivalent part number) oil pressure switch is installed,\nP/N 83278 (or FAA-approved equivalent part number) oil pressure switch is installed,"
+    }
+   },
+   {
+    "index": 14,
+    "relevance_score": 0.13304014745429374,
+    "document": {
+     "text": "AD 2000-04-01: Cessna Aircraft Company Models 172R, 172S, 182S, 206H, and T206H Airplanes\n\u00a739.13 [Amended]\n(h) What if I need to fly the airplane to another location to comply with this AD?: The FAA can issue a special flight permit under sections 21.197 and 21.199 of the Federal Aviation Regulations (14 CFR 21.197 and 21.199) to operate your airplane to a location where you can accomplish the requirements of this AD.\n(i) Are any service bulletins incorporated into this AD by reference?: Yes. Actions required by this AD must be done in accordance with Cessna Service Bulletin SB00-79-01, dated January 31, 2000. The Director of the Federal Register approved this incorporation by reference under 5 U.S.C. 552(a) and 1 CFR part 51. You can get copies from the Cessna Aircraft Company, Product Support, P.O. Box 7706, Wichita, Kansas 67277. You can look at copies at the FAA, Central Region, Office of the Regional Counsel, 901 Locust, Room 506, Kansas City, Missouri, or at the Office of the Federal Register, 800 North Capitol Street, NW, suite 700, Washington, DC.\n(j) When does this amendment become effective?: This amendment becomes effective on March 11, 2000.\nIssued in Kansas City, Missouri, on February 11, 2000.\nMichael K. Dahl,"
+    }
+   },
+   {
+    "index": 8,
+    "relevance_score": 0.12138489368090412,
+    "document": {
+     "text": "AD 2000-04-01: Cessna Aircraft Company Models 172R, 172S, 182S, 206H, and T206H Airplanes\nRelevant Service Information\nIs there service information that applies to this subject?: Yes. Cessna has issued Service Bulletin No. SB00-7901, dated January 31, 2000.\nWhat are the provisions of this service bulletin?: The service bulletin specifies and includes procedures for accomplishing the following:\n-Inspecting the oil pressure switch to determine if the oil pressure switch is P/N 77041 or P/N 83278; and\n-Replacing any P/N 77041 oil pressure switch with a P/N 83278 switch."
+    }
+   },
+   {
+    "index": 0,
+    "relevance_score": 0.10407112279200638,
+    "document": {
+     "text": "AD 2000-04-01: Cessna Aircraft Company Models 172R, 172S, 182S, 206H, and T206H Airplanes\nDEPARTMENT OF TRANSPORTATION\nFederal Aviation Administration"
+    }
+   },
+   {
+    "index": 7,
+    "relevance_score": 0.100864091610878,
+    "document": {
+     "text": "CN-TFG AD compliance record, 26 October 2026\nSheet: AD compliance record\nAD number: 2000-04-01; Effective: 2000-03-11; Subject: Engine oil pressure switch P/N 77041; Applies: No; Notes: Superseded by AD 2013-11-11."
+    }
+   },
+   {
+    "index": 13,
+    "relevance_score": 0.10048271048423549,
+    "document": {
+     "text": "CN-TFB AD compliance record, 26 October 2026\nSheet: AD compliance record\nAD number: 2000-04-01; Effective: 2000-03-11; Subject: Engine oil pressure switch P/N 77041; Applies: No; Notes: Superseded by AD 2013-11-11."
+    }
+   },
+   {
+    "index": 9,
+    "relevance_score": 0.09981421929149961,
+    "document": {
+     "text": "CN-TFC AD compliance record, 26 October 2026\nSheet: AD compliance record\nAD number: 2000-04-01; Effective: 2000-03-11; Subject: Engine oil pressure switch P/N 77041; Applies: No; Notes: Superseded by AD 2013-11-11."
+    }
+   },
+   {
+    "index": 2,
+    "relevance_score": 0.0994325899606746,
+    "document": {
+     "text": "CN-TFD AD compliance record, 26 October 2026\nSheet: AD compliance record\nAD number: 2000-04-01; Effective: 2000-03-11; Subject: Engine oil pressure switch P/N 77041; Applies: No; Notes: Superseded by AD 2013-11-11."
+    }
+   },
+   {
+    "index": 5,
+    "relevance_score": 0.09892881652589572,
+    "document": {
+     "text": "CN-TFF AD compliance record, 26 October 2026\nSheet: AD compliance record\nAD number: 2000-04-01; Effective: 2000-03-11; Subject: Engine oil pressure switch P/N 77041; Applies: No; Notes: Superseded by AD 2013-11-11."
+    }
+   },
+   {
+    "index": 10,
+    "relevance_score": 0.09892010310204395,
+    "document": {
+     "text": "CN-TFA AD compliance record, 26 October 2026\nSheet: AD compliance record\nAD number: 2000-04-01; Effective: 2000-03-11; Subject: Engine oil pressure switch P/N 77041; Applies: No; Notes: Superseded by AD 2013-11-11."
+    }
+   },
+   {
+    "index": 15,
+    "relevance_score": 0.09637266207406843,
+    "document": {
+     "text": "CN-TFE AD compliance record, 26 October 2026\nSheet: AD compliance record\nAD number: 2000-04-01; Effective: 2000-03-11; Subject: Engine oil pressure switch P/N 77041; Applies: No; Notes: Superseded by AD 2013-11-11."
+    }
+   },
+   {
+    "index": 3,
+    "relevance_score": 0.0953386891236847,
+    "document": {
+     "text": "AD 2000-04-01: Cessna Aircraft Company Models 172R, 172S, 182S, 206H, and T206H Airplanes\nDiscussion\nWhat events have caused this AD?: We have received three reports of the diaphragm of the oil pressure switch failing on Cessna Modesl 172R, 182S, and 206H airplanes. The part number (P/N) of the failed oil pressure switch is 77041. The P/N 77041 oil pressure switch is utilized on the following Cessna airplanes:\nWhat are the consequences if the condition is not corrected?: Failure of the engine oil pressure switch diaphragm results in loss of engine oil through the vent hole. This could lead to partial or complete loss of engine power."
+    }
+   },
+   {
+    "index": 12,
+    "relevance_score": 0.07709070537731269,
+    "document": {
+     "text": "AD 2013-11-11: Cessna Aircraft Company Airplanes\n(b) Affected ADs\nThis AD supersedes AD 2000-04-01, Amendment 39-11583 (65 FR 8649, February 22, 2000)."
+    }
+   },
+   {
+    "index": 11,
+    "relevance_score": 0.06769237743020001,
+    "document": {
+     "text": "14 CFR Part 39: Airworthiness Directives\n\u00a7 39.11 What actions do airworthiness directives require?\nAirworthiness directives specify inspections you must carry out, conditions and limitations you must comply with, and any actions you must take to resolve an unsafe condition."
+    }
+   },
+   {
+    "index": 6,
+    "relevance_score": 0.060071301925207966,
+    "document": {
+     "text": "AD 2001-06-17: Cessna Aircraft Company Models 172R and 172S Airplanes\nFAA's Determination and an Explanation of the Provisions of this AD\nWhat has FAA decided? The FAA has reviewed all available information and determined that:\n-The unsafe condition referenced in this document exists or could develop on other Cessna Models 172R and 172S airplanes of the same type design;\n-These airplanes should be inspected for proper engine idle speed and fuel control mixture setting, the engine idle speed or fuel control mixture setting should be adjusted as necessary, and engine operating procedures should be incorporated into the POH/AFM; and\n-AD action should be taken in order to correct this unsafe condition.\nIs there service information that applies to this subject? Cessna has issued Service Bulletin SB01-11-02,\ndated March 5, 2001. This service bulletin:\n-Includes procedures for inspecting the engine idle speed; and\n-Specifies pilot operating procedure changes.\nWhat does this AD require? This AD requires a one-time inspection for proper engine idle speed and fuel control mixture setting and adjustment, as necessary. This AD also requires incorporating engine operating procedures into the POH/AFM."
+    }
+   },
+   {
+    "index": 4,
+    "relevance_score": 0.051189582368468406,
+    "document": {
+     "text": "AD 2008-03-02: Cessna Aircraft Company Models 172R and 172S Airplanes\nDifferences Between This AD and the Service Information\nThe service information permits tube damage up to a depth of 0.0035 inch. There is no known method to accurately measure the thickness damage on a tube. We require replacement of the fuel return line assembly if any damage is found.\nIf no chafing is found in the inspection of the fuel return line assembly, the service information does not require inspection for clearance around the fuel return line assembly. We require you to inspect the clearance between the fuel return line assembly and both the right steering tube assembly and airplane structure, for all applicable aircraft.\nThe service information does not specify a minimum clearance requirement between the fuel return line assembly and the right steering tube assembly, only that the fuel return line assembly does not touch either the right steering tube assembly or the airplane structure. We require a minimum of 0.5 inch of clearance between the fuel return line assembly and both the right steering tube assembly and the airplane structure, during full rudder pedal actuation.\nThe requirements of this AD take precedence over the provisions in the service information."
+    }
+   }
+  ],
+  "usage": {
+   "total_tokens": 2846,
+   "cost": 0
+  },
+  "provider": "Nvidia",
+  "id": "gen-rerank-1793399742-B4dV7ekeekFfU7tKesQw"
+ }
+}

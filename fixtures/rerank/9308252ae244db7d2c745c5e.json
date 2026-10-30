@@ -1,0 +1,139 @@
+{
+ "request": {
+  "model": "nvidia/nemotron-3.5-rerank-8b:free",
+  "query": "What changed between AC 43-9C and AC 43-9D?",
+  "documents": [
+   "AC 43-9D, Maintenance Records\nAdvisory Circular\n2 AUDIENCE. The audience of this AC is persons authorized by 14 CFR \u00a7 43.7(b)-(e) to approve aircraft, airframes, aircraft engines, propellers, appliances, or component parts for return to service after maintenance, preventive maintenance, or alteration and FAA personnel tasked with the review and oversight of said entities.\n3 WHERE YOU CAN FIND THIS AC. You can find this AC on the FAA's website at https://www.faa.gov/regulations_policies/advisory_circulars and the Dynamic Regulatory System (DRS) at https://drs.faa.gov.\n4 WHAT THIS AC CANCELS. AC 43-9C, Maintenance Records, dated June 8, 1998, is canceled.\n5 RELATED REGULATIONS. Title 14 CFR parts 1, 43, 65, 91, and 145.",
+   "AC 43-9D, Maintenance Records\nAdvisory Circular Feedback Form\nIf you find an error in this AC, have recommendations for improving it, or have suggestions for new items/subjects to be added, you may let us know by contacting the Flight Standards Directives Management Officer at 9-AWA-AFB-120-Directives@faa.gov.\nSubject: AC 43-9D, Maintenance Records and FAA Form 8130-3 Return to Service\nDate: _____________________\nPlease check all appropriate line items:\nAn error (procedural or typographical) has been noted in paragraph ____________ on page _______.\nRecommend paragraph _____________ on page __________ be changed as follows:\n______________________________________________________________________\n______________________________________________________________________\nIn a future change to this AC, please cover the following subject:\n(Briefly describe what you want added.)\n______________________________________________________________________\n______________________________________________________________________\nOther comments:\n______________________________________________________________________\n______________________________________________________________________\nI would like to discuss the above. Please contact me.\nSubmitted by:",
+   "AC 43-9D, Maintenance Records\n6 RELATED GUIDANCE (current editions).\nAC 43.9-1, Instructions for Completion of FAA Form 337.\nAC 43-12, Preventive Maintenance.\nAC 120-78, Electronic Signatures, Electronic Recordkeeping, and Electronic Manuals.",
+   "AC 43-9C, Maintenance Records (cancelled 22 September 2025)\nFigure description: The figure shows the FAA logo and agency name.\n\nU.S. Department of Transportation\nFederal Aviation Administration",
+   "AC 43-9D, Maintenance Records\nAdvisory Circular Feedback Form\nDate: ______________________",
+   "AC 43-9D, Maintenance Records\nAdvisory Circular\nSubject: Maintenance Records and FAA Form 8130-3 Return to Service\nDate: 9/22/25\nAC No: 43-9D\nInitiated by: AFS-300 Change:\n1 PURPOSE OF THIS ADVISORY CIRCULAR (AC). This AC provides information relevant to the public for the maintenance recordkeeping and record-making requirements of Title 14 of the Code of Federal Regulations (14 CFR) parts 43 and 91. This AC provides one means, but not the only means, of ensuring that the contemplated maintenance, alterations, or continue-in-service condition is in compliance with applicable regulations and existing policy.\nNote 1: The information in this AC, with the exception of that information related to Federal Aviation Administration (FAA) Form 8130-3, Authorized Release Certificate, Airworthiness Approval Tag, does not apply to air carrier maintenance programs under 14 CFR \u00a7\u00a7 121.367 and 135.425.",
+   "Procedures manual, revision 7 (excerpt)\nAnfa Aero Services: procedures manual, revision 7 (excerpt)\n| Revision | Date | Change |\n| --- | --- | --- |\n| 7 | 2026-06-01 | Section 3.2 extended to every Cessna 172R and 172S; section 3.3 added. |\n| 6 | 2025-09-29 | Section 2.4 and section 7 refer to AC 43-9D, which replaced AC 43-9C. |\n| 5 | 2024-01-15 | Section 4.2: torque wrench calibration every 12 months instead of 24. |",
+   "AC 43-9C, Maintenance Records (cancelled 22 September 2025)\n16 MAINTENANCE RELEASE.\ne. Some repair stations use what they call a maintenance release for other than major repairs. This is sometimes a tag and sometimes information on a work order. When this is done, all of the requirements of section 43.9 must be met (paragraph (b)(3), appendix B, not applicable) and the document is to be made and retained as part of the maintenance records under section 91.417 per discussion in paragraph 5c.",
+   "AC 43-9D, Maintenance Records\nFigure description: The figure shows only the U.S. Department of Transportation logo and text; it contains no maintenance record information of use.",
+   "AC 43-9C, Maintenance Records (cancelled 22 September 2025)\nAdvisory Circular\nSubjet: MAINTENANCE RECORDS\nDate:\n6/8/98\nAC No: 43-9C\nInitiated by: AFS-340\nChange:\nPURPOSE. This advisory circular (AC) describes methods, procedures and practices that have. been determined to be acceptable means of showing compliance with the general aviation maintenance record making and record keeping requirements of Title 14 of the Code of Federal Regulations (14 CFR) parts 43 and 91. This material is not mandatory, nor is it regulatory and acknowledges that the Federal Aviation Administration (FAA) will consider other methods that may be presented. It is issued for guidance purposes and outlines several methods of compliance with the regulations.\nNOTE: The information in this AC does not apply to air carrier maintenance records made and retained in accordance with 14 CFR part 121.\nCANCELLATION. AC 43-9B, Maintenance Records, dated January 9, 1984, is canceled.\nRELATED REGULATIONS. 14 CFR parts 1, 43, 91, and 145.",
+   "AC 43-9D, Maintenance Records\n19 MAINTENANCE RELEASE.\nRepair Stations. Some repair stations use what they call a maintenance release for other than major repairs. This is sometimes a tag and sometimes information on a work order. When this is done, all of the requirements of 14 CFR \u00a7 43.9 must be met, and the document is to be made and retained as part of the maintenance records under 14 CFR \u00a7 91.417 per discussion in paragraph 8.4.",
+   "AC 43-9C, Maintenance Records (cancelled 22 September 2025)\n5 MAINTENANCE RECORD REQUIREMENTS.\nd. Section 91.417(a)(1)(i). Requires the maintenance record entry to include \"a description of the work performed.\"The description should be in sufficient detail to permit a person unfamiliar with the work to understand what was done, and the methods and procedures used in doing it. When the work is extensive, this results in a voluminous record. To provide for this contingency, the rule permits reference to technical data acceptable to the Administrator in lieu of making the detailed entry. Manufacturer's manuals, service letters, bulletins, work orders, FAA AC's, and others, which accurately describe what was done, or how it was done, may be referenced. Except for the documents mentioned, which are in common usage, referenced documents are to be made a part of the maintenance records and retained in accordance with section 91.417(b).",
+   "AC 43-9D, Maintenance Records\nFederal Aviation Administration",
+   "AC 43-9D, Maintenance Records\nAdvisory Circular\nNote 2: This is a guidance document. Its content is not legally binding in its own right and will not be relied upon by the Department as a separate basis for affirmative enforcement action or other administrative penalty. Conformity with the guidance document is voluntary only. Nonconformity will not affect rights and obligations under existing statutes and regulations.\nFAA Form 8130-3. The FAA has transferred the information regarding FAA Form 8130-3 from FAA Order 8130.21, Completion of FAA Form 8130-3 Under Part 21, into this AC. Furthermore, the FAA will incorporate the same information into FAA Order 8900.1, Flight Standards Information Management System, which is a comprehensive aviation safety inspector's (ASI) guide. The details moved to this AC and Order 8900.1 outline the instructions for FAA Form 8130-3 and the Airworthiness Approval Tag for approving return to service under 14 CFR part 43 of the regulations.",
+   "AC 43-9D, Maintenance Records\nAPPENDIX A. AIRWORTHINESS DIRECTIVE COMPLIANCE RECORD (SUGGESTED FORMAT)\nAircraft, Engine, Propeller, Rotor, or Appliance: Make Model S.N."
+  ]
+ },
+ "response": {
+  "model": "nvidia/nemotron-3.5-rerank-8b",
+  "results": [
+   {
+    "index": 0,
+    "relevance_score": 0.1192042237141781,
+    "document": {
+     "text": "AC 43-9D, Maintenance Records\nAdvisory Circular\n2 AUDIENCE. The audience of this AC is persons authorized by 14 CFR \u00a7 43.7(b)-(e) to approve aircraft, airframes, aircraft engines, propellers, appliances, or component parts for return to service after maintenance, preventive maintenance, or alteration and FAA personnel tasked with the review and oversight of said entities.\n3 WHERE YOU CAN FIND THIS AC. You can find this AC on the FAA's website at https://www.faa.gov/regulations_policies/advisory_circulars and the Dynamic Regulatory System (DRS) at https://drs.faa.gov.\n4 WHAT THIS AC CANCELS. AC 43-9C, Maintenance Records, dated June 8, 1998, is canceled.\n5 RELATED REGULATIONS. Title 14 CFR parts 1, 43, 65, 91, and 145."
+    }
+   },
+   {
+    "index": 5,
+    "relevance_score": 0.10334038163062807,
+    "document": {
+     "text": "AC 43-9D, Maintenance Records\nAdvisory Circular\nSubject: Maintenance Records and FAA Form 8130-3 Return to Service\nDate: 9/22/25\nAC No: 43-9D\nInitiated by: AFS-300 Change:\n1 PURPOSE OF THIS ADVISORY CIRCULAR (AC). This AC provides information relevant to the public for the maintenance recordkeeping and record-making requirements of Title 14 of the Code of Federal Regulations (14 CFR) parts 43 and 91. This AC provides one means, but not the only means, of ensuring that the contemplated maintenance, alterations, or continue-in-service condition is in compliance with applicable regulations and existing policy.\nNote 1: The information in this AC, with the exception of that information related to Federal Aviation Administration (FAA) Form 8130-3, Authorized Release Certificate, Airworthiness Approval Tag, does not apply to air carrier maintenance programs under 14 CFR \u00a7\u00a7 121.367 and 135.425."
+    }
+   },
+   {
+    "index": 6,
+    "relevance_score": 0.0908193960331859,
+    "document": {
+     "text": "Procedures manual, revision 7 (excerpt)\nAnfa Aero Services: procedures manual, revision 7 (excerpt)\n| Revision | Date | Change |\n| --- | --- | --- |\n| 7 | 2026-06-01 | Section 3.2 extended to every Cessna 172R and 172S; section 3.3 added. |\n| 6 | 2025-09-29 | Section 2.4 and section 7 refer to AC 43-9D, which replaced AC 43-9C. |\n| 5 | 2024-01-15 | Section 4.2: torque wrench calibration every 12 months instead of 24. |"
+    }
+   },
+   {
+    "index": 13,
+    "relevance_score": 0.08996320400933136,
+    "document": {
+     "text": "AC 43-9D, Maintenance Records\nAdvisory Circular\nNote 2: This is a guidance document. Its content is not legally binding in its own right and will not be relied upon by the Department as a separate basis for affirmative enforcement action or other administrative penalty. Conformity with the guidance document is voluntary only. Nonconformity will not affect rights and obligations under existing statutes and regulations.\nFAA Form 8130-3. The FAA has transferred the information regarding FAA Form 8130-3 from FAA Order 8130.21, Completion of FAA Form 8130-3 Under Part 21, into this AC. Furthermore, the FAA will incorporate the same information into FAA Order 8900.1, Flight Standards Information Management System, which is a comprehensive aviation safety inspector's (ASI) guide. The details moved to this AC and Order 8900.1 outline the instructions for FAA Form 8130-3 and the Airworthiness Approval Tag for approving return to service under 14 CFR part 43 of the regulations."
+    }
+   },
+   {
+    "index": 9,
+    "relevance_score": 0.08845941584330966,
+    "document": {
+     "text": "AC 43-9C, Maintenance Records (cancelled 22 September 2025)\nAdvisory Circular\nSubjet: MAINTENANCE RECORDS\nDate:\n6/8/98\nAC No: 43-9C\nInitiated by: AFS-340\nChange:\nPURPOSE. This advisory circular (AC) describes methods, procedures and practices that have. been determined to be acceptable means of showing compliance with the general aviation maintenance record making and record keeping requirements of Title 14 of the Code of Federal Regulations (14 CFR) parts 43 and 91. This material is not mandatory, nor is it regulatory and acknowledges that the Federal Aviation Administration (FAA) will consider other methods that may be presented. It is issued for guidance purposes and outlines several methods of compliance with the regulations.\nNOTE: The information in this AC does not apply to air carrier maintenance records made and retained in accordance with 14 CFR part 121.\nCANCELLATION. AC 43-9B, Maintenance Records, dated January 9, 1984, is canceled.\nRELATED REGULATIONS. 14 CFR parts 1, 43, 91, and 145."
+    }
+   },
+   {
+    "index": 2,
+    "relevance_score": 0.08467898860763352,
+    "document": {
+     "text": "AC 43-9D, Maintenance Records\n6 RELATED GUIDANCE (current editions).\nAC 43.9-1, Instructions for Completion of FAA Form 337.\nAC 43-12, Preventive Maintenance.\nAC 120-78, Electronic Signatures, Electronic Recordkeeping, and Electronic Manuals."
+    }
+   },
+   {
+    "index": 1,
+    "relevance_score": 0.07886105276606392,
+    "document": {
+     "text": "AC 43-9D, Maintenance Records\nAdvisory Circular Feedback Form\nIf you find an error in this AC, have recommendations for improving it, or have suggestions for new items/subjects to be added, you may let us know by contacting the Flight Standards Directives Management Officer at 9-AWA-AFB-120-Directives@faa.gov.\nSubject: AC 43-9D, Maintenance Records and FAA Form 8130-3 Return to Service\nDate: _____________________\nPlease check all appropriate line items:\nAn error (procedural or typographical) has been noted in paragraph ____________ on page _______.\nRecommend paragraph _____________ on page __________ be changed as follows:\n______________________________________________________________________\n______________________________________________________________________\nIn a future change to this AC, please cover the following subject:\n(Briefly describe what you want added.)\n______________________________________________________________________\n______________________________________________________________________\nOther comments:\n______________________________________________________________________\n______________________________________________________________________\nI would like to discuss the above. Please contact me.\nSubmitted by:"
+    }
+   },
+   {
+    "index": 12,
+    "relevance_score": 0.07757277677164834,
+    "document": {
+     "text": "AC 43-9D, Maintenance Records\nFederal Aviation Administration"
+    }
+   },
+   {
+    "index": 4,
+    "relevance_score": 0.07302951417287913,
+    "document": {
+     "text": "AC 43-9D, Maintenance Records\nAdvisory Circular Feedback Form\nDate: ______________________"
+    }
+   },
+   {
+    "index": 11,
+    "relevance_score": 0.07036430614576551,
+    "document": {
+     "text": "AC 43-9C, Maintenance Records (cancelled 22 September 2025)\n5 MAINTENANCE RECORD REQUIREMENTS.\nd. Section 91.417(a)(1)(i). Requires the maintenance record entry to include \"a description of the work performed.\"The description should be in sufficient detail to permit a person unfamiliar with the work to understand what was done, and the methods and procedures used in doing it. When the work is extensive, this results in a voluminous record. To provide for this contingency, the rule permits reference to technical data acceptable to the Administrator in lieu of making the detailed entry. Manufacturer's manuals, service letters, bulletins, work orders, FAA AC's, and others, which accurately describe what was done, or how it was done, may be referenced. Except for the documents mentioned, which are in common usage, referenced documents are to be made a part of the maintenance records and retained in accordance with section 91.417(b)."
+    }
+   },
+   {
+    "index": 7,
+    "relevance_score": 0.0695893983016897,
+    "document": {
+     "text": "AC 43-9C, Maintenance Records (cancelled 22 September 2025)\n16 MAINTENANCE RELEASE.\ne. Some repair stations use what they call a maintenance release for other than major repairs. This is sometimes a tag and sometimes information on a work order. When this is done, all of the requirements of section 43.9 must be met (paragraph (b)(3), appendix B, not applicable) and the document is to be made and retained as part of the maintenance records under section 91.417 per discussion in paragraph 5c."
+    }
+   },
+   {
+    "index": 8,
+    "relevance_score": 0.06885193326598911,
+    "document": {
+     "text": "AC 43-9D, Maintenance Records\nFigure description: The figure shows only the U.S. Department of Transportation logo and text; it contains no maintenance record information of use."
+    }
+   },
+   {
+    "index": 3,
+    "relevance_score": 0.06879840801195455,
+    "document": {
+     "text": "AC 43-9C, Maintenance Records (cancelled 22 September 2025)\nFigure description: The figure shows the FAA logo and agency name.\n\nU.S. Department of Transportation\nFederal Aviation Administration"
+    }
+   },
+   {
+    "index": 14,
+    "relevance_score": 0.0684833881344969,
+    "document": {
+     "text": "AC 43-9D, Maintenance Records\nAPPENDIX A. AIRWORTHINESS DIRECTIVE COMPLIANCE RECORD (SUGGESTED FORMAT)\nAircraft, Engine, Propeller, Rotor, or Appliance: Make Model S.N."
+    }
+   },
+   {
+    "index": 10,
+    "relevance_score": 0.06593099755847798,
+    "document": {
+     "text": "AC 43-9D, Maintenance Records\n19 MAINTENANCE RELEASE.\nRepair Stations. Some repair stations use what they call a maintenance release for other than major repairs. This is sometimes a tag and sometimes information on a work order. When this is done, all of the requirements of 14 CFR \u00a7 43.9 must be met, and the document is to be made and retained as part of the maintenance records under 14 CFR \u00a7 91.417 per discussion in paragraph 8.4."
+    }
+   }
+  ],
+  "usage": {
+   "total_tokens": 2502,
+   "cost": 0
+  },
+  "provider": "Nvidia",
+  "id": "gen-rerank-1793399863-5E30OYKqKBLccucTcpUK"
+ }
+}
