@@ -1,9 +1,12 @@
-"""Real model-backed providers: the embedding model and the language model, on OpenRouter.
+"""Real model-backed providers: the embedding model, the language model, and the vision model, on OpenRouter.
 
 They implement the interfaces in anfa/providers.py.
 """
 
 from __future__ import annotations
+
+import base64
+from pathlib import Path
 
 from anfa.config import SETTINGS
 from anfa.models import call
@@ -49,5 +52,33 @@ class OpenRouterGenerator:
         response = call("chat", {
             "model": self.model, "messages": [{"role": "user", "content": prompt}],
             "max_tokens": self.max_tokens, "temperature": 0,
+        })
+        return (response["choices"][0]["message"].get("content") or "").strip()
+
+
+DESCRIBE = """This figure is from {document}.{caption}
+Describe it for a mechanic who can't see it: say what it shows, then transcribe every label,
+value, unit, part number, and note printed in it. Don't add anything that isn't in the figure.
+If it shows nothing of use (a logo, a signature, a blank area), say so in one sentence."""
+
+
+class OpenRouterDescriber:
+    """Describes a figure with a vision model, so what it shows can be searched and quoted."""
+
+    def __init__(self, model: str = SETTINGS.vision_model, max_tokens: int = 4000):
+        self.model, self.max_tokens = model, max_tokens
+
+    def describe(self, image: Path, caption: str, document: str) -> str:
+        data = base64.b64encode(image.read_bytes()).decode()
+        prompt = DESCRIBE.format(document=document, caption=f' Its caption: "{caption}".' if caption else "")
+        # Transcribing a figure needs no reasoning. With it on, the model sometimes spent all 4,000
+        # tokens thinking and returned no description; with it off, a figure takes seconds.
+        response = call("chat", {
+            "model": self.model, "max_tokens": self.max_tokens, "temperature": 0,
+            "extra_body": {"reasoning": {"enabled": False}},
+            "messages": [{"role": "user", "content": [
+                {"type": "text", "text": prompt},
+                {"type": "image_url", "image_url": {"url": f"data:image/png;base64,{data}"}},
+            ]}],
         })
         return (response["choices"][0]["message"].get("content") or "").strip()

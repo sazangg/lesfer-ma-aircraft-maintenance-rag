@@ -1,8 +1,9 @@
 """The assistant: prepare documents once, then answer questions.
 
-Part 1 (naive RAG):
+Part 3 (document preparation):
 
-    Preparing:  parsed documents -> plain text -> size-based chunks -> embeddings -> vector index
+    Preparing:  parsed documents -> structured documents (+ ingestion report)
+                -> rendered text -> size-based chunks -> embeddings -> vector index
     Answering:  question -> embedding -> top-k chunks -> prompt -> model -> answer
 
 Preparing is a separate step (`python -m anfa ingest`): embedding the collection costs calls and
@@ -15,9 +16,10 @@ import hashlib
 from dataclasses import dataclass, field
 
 from anfa.chunking import Chunk, size_based_chunks
+from anfa.convert import IngestReport, StructuredDocument, convert, load_corrections
 from anfa.corpus import ParsedDocument
-from anfa.extract import plain_text_sections
-from anfa.real import OpenRouterEmbedder, OpenRouterGenerator
+from anfa.extract import TextSection
+from anfa.real import OpenRouterDescriber, OpenRouterEmbedder, OpenRouterGenerator
 from anfa.store import PgVectorIndex
 
 INSTRUCTIONS = """Answer the question using the supplied passages.
@@ -53,12 +55,20 @@ class Assistant:
     def __init__(self, k: int = 5):
         self.k = k
         self.embedder, self.generator, self.index = OpenRouterEmbedder(), OpenRouterGenerator(), PgVectorIndex()
+        self.describer = OpenRouterDescriber()
+        self.reports: list[IngestReport] = []
 
     # Preparing the documents ------------------------------------------------
 
+    def convert(self, documents: list[ParsedDocument], corrections: dict | None = None) -> list[StructuredDocument]:
+        corrections = load_corrections() if corrections is None else corrections
+        converted = [convert(doc, self.describer, corrections) for doc in documents]
+        self.reports = [doc.report for doc in converted]
+        return converted
+
     def chunks(self, documents: list[ParsedDocument]) -> list[Chunk]:
-        return [chunk for doc in documents
-                for chunk in size_based_chunks(doc.source_id, doc.meta, plain_text_sections(doc), CHUNK_CHARS)]
+        return [chunk for doc in self.convert(documents)
+                for chunk in size_based_chunks(doc.source_id, doc.meta, rendered_sections(doc), CHUNK_CHARS)]
 
     def ingest(self, documents: list[ParsedDocument]) -> int:
         """Embed and store every chunk. Skipped when the index already holds exactly these chunks."""
@@ -86,6 +96,10 @@ class Assistant:
         trace.prompt = build_prompt(INSTRUCTIONS, question, trace.context)
         trace.answer = self.generator.generate(trace.prompt)
         return trace
+
+
+def rendered_sections(doc: StructuredDocument) -> list[TextSection]:
+    return [TextSection(s.number, s.title, "\n\n".join(e.render() for e in s.elements)) for s in doc.sections]
 
 
 def build_prompt(instructions: str, question: str, context: list[Chunk]) -> str:

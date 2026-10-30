@@ -8,7 +8,8 @@ Every request goes through `call()`, which runs in one of three modes (ANFA_MODE
 
 A fixture is keyed by the request itself (model, input, settings), so a changed prompt or a
 changed model misses its fixture instead of replaying an answer to a different question.
-Embedding vectors are stored as base64 float32, the same numbers in a quarter of the space.
+Embedding vectors are stored as base64 float32, the same numbers in a quarter of the space. An
+image sent to a vision model is stored as its hash: the image itself is in corpus/figures/.
 """
 
 from __future__ import annotations
@@ -60,8 +61,21 @@ def call(kind: str, request: dict) -> dict:
     response = _pack(_with_retries(kind, request))
     if SETTINGS.mode == "record":
         path.parent.mkdir(parents=True, exist_ok=True)
-        path.write_bytes((json.dumps({"request": request, "response": response}, indent=1) + "\n").encode("utf-8"))
+        path.write_bytes((json.dumps({"request": _without_images(request), "response": response}, indent=1) + "\n").encode("utf-8"))
     return _unpack(response)  # live and record see exactly the numbers that replay will
+
+
+def _without_images(request: dict) -> dict:
+    def strip(value):
+        if isinstance(value, str) and value.startswith("data:image/"):
+            return f"<image sha256:{hashlib.sha256(value.encode()).hexdigest()[:24]}>"
+        if isinstance(value, dict):
+            return {k: strip(v) for k, v in value.items()}
+        if isinstance(value, list):
+            return [strip(v) for v in value]
+        return value
+
+    return strip(request)
 
 
 def _pack(response: dict) -> dict:

@@ -1,0 +1,86 @@
+{
+ "request": {
+  "model": "nvidia/nemotron-3.5-super-vl:free",
+  "max_tokens": 4000,
+  "temperature": 0,
+  "extra_body": {
+   "reasoning": {
+    "enabled": false
+   }
+  },
+  "messages": [
+   {
+    "role": "user",
+    "content": [
+     {
+      "type": "text",
+      "text": "This figure is from FAA-H-8083-30A, Aviation Maintenance Technician Handbook: General, chapter 2 (regulations, maintenance forms, records, and publications). Its caption: \"Figure 2-15. Numbering system for type certificates (TCs) and supplemental type certificates (STCs).\".\nDescribe it for a mechanic who can't see it: say what it shows, then transcribe every label,\nvalue, unit, part number, and note printed in it. Don't add anything that isn't in the figure.\nIf it shows nothing of use (a logo, a signature, a blank area), say so in one sentence."
+     },
+     {
+      "type": "image_url",
+      "image_url": {
+       "url": "<image sha256:fe8bc3cee928ef3bb1b2f877>"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ "response": {
+  "id": "gen-1793373768-e24pJ4iviJEnSUa9FGiO",
+  "choices": [
+   {
+    "finish_reason": "stop",
+    "index": 0,
+    "logprobs": null,
+    "message": {
+     "content": "The figure shows an FAA project numbering format and five tables of designators used for type certificates, supplemental type certificates, aircraft certification offices, product types, directorates, and aircraft evaluation groups.\n\nFAA Project Numbers will use the following format:\nAA nnnnn YY-X\n\nWhere:\n- AA is the two-letter designator for Project Type \u2013 see table 1 below\n- nnnnn is the integer sequential number for the specified ACO; e.g., 00146\n- YY is the two-letter designator for the Aircraft Certification Office (ACO) \u2013 see Table 2 below\n- X is the one-letter designator for the Product Type \u2013 see Table 3 below\n\nAs an example, TC00125AT-A would be a TC project assigned by the Atlanta ACO on a small airplane with the assigned number 00125.\n\nTable 1\u2014Project Type Designators\nCode | Description\nTC | New Type Certificate (TC)\nST | New Supplemental Type Certificate (STC)\nAT | Amended Type Certificate\nSA | Amended Supplemental Type Certificate\nSP | Special Project (e.g. approval under section 21.305 project)\nPM | Parts Manufacturer Approval (PMA)\n\nTable 2\u2014Aircraft Certification Office (ACO) Designators\nCode | Branch | Description\nAC | ASW-150 | Ft. Worth Airplane Certification Office\nAK | ACE-115N | Anchorage Aircraft Certification Office\nAT | ACE-115A | Atlanta Aircraft Certification Office\nBA | ANM-100B | Boeing Aviation Safety Oversight Office (BASOO)\nBO | ANE-150 | Boston Aircraft Certification Office\nCE | ACE-112 | Small Airplane Directorate\nCH | ACE-115C | Chicago Aircraft Certification Office\nDE | ANM-100D | Denver Aircraft Certification Office\nEN | ANE-140 | Engine Certification Office\nGU | ACE-100G | Gulfstream Aviation Safety Oversight Office (GASOO)\nIB | ANM-116 | Transport Airplane Directorate International Branch\nLA | ANM-100L | Los Angeles Aircraft Certification Office\nMC | ACE-100M | Military Certification Office\nNY | ANE-170 | New York Aircraft Certification Office\nRC | SW-170 | Ft. Worth Rotorcraft Certification Office\nSC | ASW-190 | Ft. Worth Special Certification Office\nSE | ANM-100S | Seattle Aircraft Certification Office\nWI | ACE-115W | Wichita Aircraft Certification Office\n\nTable 3\u2014Product Type Designators\nCode | Description\nA | Small Airplane\nB | Balloon\nE | Engine\nG | Glider\nP | Propeller\nR | Rotorcraft\nS | Airship\nT | Transport Airplane\nI | Experimental\nQ | Other, or not product\n\nTable 4\u2014Directorate Designators\nCode | Description\nEPD | Engine-Propeller\nRCD | Rotorcraft\nSAD | Small Airplane\nTAD | Transport Airplane\n\nTable 5\u2014Aircraft Evaluation Group Designators\nCode | Description\nBOS-AEG | Boston AEG\nFTW-AEG | Fort Worth AEG\nMKC-AEG | Kansas City AEG\nLGB-AEG | Long Beach AEG\nSEA-AEG | Seattle AEG\n\nAs an example, TC00125AT-A would be a TC project assigned by the Atlanta ACO on a small airplane with the assigned number 00125.",
+     "refusal": null,
+     "role": "assistant",
+     "annotations": null,
+     "audio": null,
+     "function_call": null,
+     "tool_calls": null,
+     "reasoning": null
+    },
+    "native_finish_reason": "stop"
+   }
+  ],
+  "created": 1793373768,
+  "model": "nvidia/nemotron-3.5-super-vl:free",
+  "object": "chat.completion",
+  "metadata": null,
+  "moderation": null,
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+   "completion_tokens": 781,
+   "prompt_tokens": 1119,
+   "total_tokens": 1900,
+   "completion_tokens_details": {
+    "accepted_prediction_tokens": null,
+    "audio_tokens": 0,
+    "reasoning_tokens": 0,
+    "rejected_prediction_tokens": null,
+    "text_tokens": null,
+    "image_tokens": 0
+   },
+   "prompt_tokens_details": {
+    "audio_tokens": 0,
+    "cache_write_tokens": 0,
+    "cached_tokens": 0,
+    "image_tokens": null,
+    "text_tokens": null,
+    "video_tokens": 0
+   },
+   "cost": 0,
+   "is_byok": false,
+   "cost_details": {
+    "upstream_inference_cost": 0,
+    "upstream_inference_prompt_cost": 0,
+    "upstream_inference_completions_cost": 0
+   }
+  },
+  "provider": "Nvidia"
+ }
+}

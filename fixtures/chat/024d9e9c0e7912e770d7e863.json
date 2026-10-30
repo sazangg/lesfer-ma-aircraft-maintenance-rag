@@ -1,0 +1,86 @@
+{
+ "request": {
+  "model": "nvidia/nemotron-3.5-super-vl:free",
+  "max_tokens": 4000,
+  "temperature": 0,
+  "extra_body": {
+   "reasoning": {
+    "enabled": false
+   }
+  },
+  "messages": [
+   {
+    "role": "user",
+    "content": [
+     {
+      "type": "text",
+      "text": "This figure is from FAA-H-8083-30A, Aviation Maintenance Technician Handbook: General, chapter 2 (regulations, maintenance forms, records, and publications). Its caption: \"Figure 2-1. FAA historical background of aircraft airworthiness regulations.\".\nDescribe it for a mechanic who can't see it: say what it shows, then transcribe every label,\nvalue, unit, part number, and note printed in it. Don't add anything that isn't in the figure.\nIf it shows nothing of use (a logo, a signature, a blank area), say so in one sentence."
+     },
+     {
+      "type": "image_url",
+      "image_url": {
+       "url": "<image sha256:c105457f4cb99d8187316b5f>"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ "response": {
+  "id": "gen-1793373689-d3Jjz4NONKXDv6CcFwx1",
+  "choices": [
+   {
+    "finish_reason": "stop",
+    "index": 0,
+    "logprobs": null,
+    "message": {
+     "content": "The figure is a flowchart titled \u201cHISTORICAL BACKGROUND OF 14 CFR PARTS 23, 25, 27, AND 29.\u201d It shows events, regulating agencies, and rules and regulations in chronological order from 1926 to 1966, with blue arrows connecting the boxes.\n\nEvent column:\n- 1926 Air Commerce Act\n- 1934 Consolidation of Functions\n- 1935 Cutting Air Crash\n- 1938 Civil Aeronautics Act\n- 1946 First Helicopter Certified\n- 1958 Federal Aviation Act\n- 1965 Codification of CARs to FARs\n- 1966 Agency becomes Administration under DOT\n\nRegulating Agency column:\n- Department of Commerce Aeronautics Branch\n- Bureau of Air Commerce\n- Civil Aeronautics Administration\n- Federal Aviation Agency\n- Federal Aviation Administration\n\nRules and Regulations column:\n- Bulletin 7\n- Bulletin 7-A\n- Civil Air Regulation CAR Part 04\n- CAR 04 <12,500 lb\n- CAR 4T Transport\n- CAR 4a Small A/C\n- CAR 4b Large A/C\n- CAR 3\n- CAR 4a-T >12,500 lb\n- CAR Part 6 Rotorcraft\n- Part 6 Normal Rotorcraft 1956\n- Part 7 Transport Rotorcraft >6,000 lb 1956\n- SR 422 Jets\n- SR 422A\n- SR 422B\n- PART 23\n- PART 25\n- PART 27\n- PART 29\n\nComment: Civil Aeronautics Manuals (CAMs) contain both regulations and advisory material in the same document.",
+     "refusal": null,
+     "role": "assistant",
+     "annotations": null,
+     "audio": null,
+     "function_call": null,
+     "tool_calls": null,
+     "reasoning": null
+    },
+    "native_finish_reason": "stop"
+   }
+  ],
+  "created": 1793373689,
+  "model": "nvidia/nemotron-3.5-super-vl:free",
+  "object": "chat.completion",
+  "metadata": null,
+  "moderation": null,
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+   "completion_tokens": 406,
+   "prompt_tokens": 1111,
+   "total_tokens": 1517,
+   "completion_tokens_details": {
+    "accepted_prediction_tokens": null,
+    "audio_tokens": 0,
+    "reasoning_tokens": 0,
+    "rejected_prediction_tokens": null,
+    "text_tokens": null,
+    "image_tokens": 0
+   },
+   "prompt_tokens_details": {
+    "audio_tokens": 0,
+    "cache_write_tokens": 0,
+    "cached_tokens": 0,
+    "image_tokens": null,
+    "text_tokens": null,
+    "video_tokens": 0
+   },
+   "cost": 0,
+   "is_byok": false,
+   "cost_details": {
+    "upstream_inference_cost": 0,
+    "upstream_inference_prompt_cost": 0,
+    "upstream_inference_completions_cost": 0
+   }
+  },
+  "provider": "Nvidia"
+ }
+}

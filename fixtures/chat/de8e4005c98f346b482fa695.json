@@ -1,0 +1,86 @@
+{
+ "request": {
+  "model": "nvidia/nemotron-3.5-super-vl:free",
+  "max_tokens": 4000,
+  "temperature": 0,
+  "extra_body": {
+   "reasoning": {
+    "enabled": false
+   }
+  },
+  "messages": [
+   {
+    "role": "user",
+    "content": [
+     {
+      "type": "text",
+      "text": "This figure is from AC 43.13-2B, Acceptable Methods, Techniques, and Practices: Aircraft Alterations. Its caption: \"FIGURE 7-8. TYPICAL CARGO SLING INSTALLATION NO. 3 (SHOWING CABLE SLING LEG ATTACHMENT TO LANDING GEAR CROSSTUBE FITTING)\".\nDescribe it for a mechanic who can't see it: say what it shows, then transcribe every label,\nvalue, unit, part number, and note printed in it. Don't add anything that isn't in the figure.\nIf it shows nothing of use (a logo, a signature, a blank area), say so in one sentence."
+     },
+     {
+      "type": "image_url",
+      "image_url": {
+       "url": "<image sha256:422713e1d746f5eecb9903d1>"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ "response": {
+  "id": "gen-1793373188-rDiubRSI3Z6KWve3rHEk",
+  "choices": [
+   {
+    "finish_reason": "length",
+    "index": 0,
+    "logprobs": null,
+    "message": {
+     "content": "The figure shows a close-up of a cable sling leg attached to a landing gear crosstube fitting, with a section of aircraft skin above showing rivet patterns.\n\nLabels, values, units, part numbers, and notes printed in the figure:\n- CABLE SLING LEG\n- LANDING GEAR CROSSTUBE FITTING\n- CABLE THIMBLE\n- CABLE CLIP\n- COTTER PIN\n- CLEVIS PIN\n- CLEVIS\n- BOLT\n- NUT\n- WASHER\n- COTTER PIN\n- CABLE\n- CABLE CLIP\n- CABLE THIMBLE\n- CLEVIS PIN\n- CLEVIS\n- BOLT\n- NUT\n- WASHER\n- COTTER PIN\n- CABLE\n- CABLE CLIP\n- CABLE THIMBLE\n- CLEVIS PIN\n- CLEVIS\n- BOLT\n- NUT\n- WASHER\n- COTTER PIN\n- CABLE\n- CABLE CLIP\n- CABLE THIMBLE\n- CLEVIS PIN\n- CLEVIS\n- BOLT\n- NUT\n- WASHER\n- COTTER PIN\n- CABLE\n- CABLE CLIP\n- CABLE THIMBLE\n- CLEVIS PIN\n- CLEVIS\n- BOLT\n- NUT\n- WASHER\n- COTTER PIN\n- CABLE\n- CABLE CLIP\n- CABLE THIMBLE\n- CLEVIS PIN\n- CLEVIS\n- BOLT\n- NUT\n- WASHER\n- COTTER PIN\n- CABLE\n- CABLE CLIP\n- CABLE THIMBLE\n- CLEVIS PIN\n- CLEVIS\n- BOLT\n- NUT\n- WASHER\n- COTTER PIN\n- CABLE\n- CABLE CLIP\n- CABLE THIMBLE\n- CLEVIS PIN\n- CLEVIS\n- BOLT\n- NUT\n- WASHER\n- COTTER PIN\n- CABLE\n- CABLE CLIP\n- CABLE THIMBLE\n- CLEVIS PIN\n- CLEVIS\n- BOLT\n- NUT\n- WASHER\n- COTTER PIN\n- CABLE\n- CABLE CLIP\n- CABLE THIMBLE\n- CLEVIS PIN\n- CLEVIS\n- BOLT\n- NUT\n- WASHER\n- COTTER PIN\n- CABLE\n- CABLE CLIP\n- CABLE THIMBLE\n- CLEVIS PIN\n- CLEVIS\n- BOLT\n- NUT\n- WASHER\n- COTTER PIN\n- CABLE\n- CABLE CLIP\n- CABLE THIMBLE\n- CLEVIS PIN\n- CLEVIS\n- BOLT\n- NUT\n- WASHER\n- COTTER PIN\n- CABLE\n- CABLE CLIP\n- CABLE THIMBLE\n- CLEVIS PIN\n- CLEVIS\n- BOLT\n- NUT\n- WASHER\n- COTTER PIN\n- CABLE\n- CABLE CLIP\n- CABLE THIMBLE\n- CLEVIS PIN\n- CLEVIS\n- BOLT\n- NUT\n- WASHER\n- COTTER PIN\n- CABLE\n- CABLE CLIP\n- CABLE THIMBLE\n- CLEVIS PIN\n- CLEVIS\n- BOLT\n- NUT\n- WASHER\n- COTTER PIN\n- CABLE\n- CABLE CLIP\n- CABLE THIMBLE\n- CLEVIS PIN\n- CLEVIS\n- BOLT\n- NUT\n- WASHER\n- COTTER PIN\n- CABLE\n- CABLE CLIP\n- CABLE THIMBLE\n- CLEVIS PIN\n- CLEVIS\n- BOLT\n- NUT\n- WASHER\n- COTTER PIN\n- CABLE\n- CABLE CLIP\n- CABLE THIMBLE\n- CLEVIS PIN\n- CLEVIS\n- BOLT\n- NUT\n- WASHER\n- COTTER PIN\n- CABLE\n- CABLE CLIP\n- CABLE THIMBLE\n- CLEVIS PIN\n- CLEVIS\n- BOLT\n- NUT\n- WASHER\n- COTTER PIN\n- CABLE\n- CABLE CLIP\n- CABLE THIMBLE\n- CLEVIS PIN\n- CLEVIS\n- BOLT\n- NUT\n- WASHER\n- COTTER PIN\n- CABLE\n- CABLE CLIP\n- CABLE THIMBLE\n- CLEVIS PIN\n- CLEVIS\n- BOLT\n- NUT\n- WASHER\n- COTTER PIN\n- CABLE\n- CABLE CLIP\n- CABLE THIMBLE\n- CLEVIS PIN\n- CLEVIS\n- BOLT\n- NUT\n- WASHER\n- COTTER PIN\n- CABLE\n- CABLE CLIP\n- CABLE THIMBLE\n- CLEVIS PIN\n- CLEVIS\n- BOLT\n- NUT\n- WASHER\n- COTTER PIN\n- CABLE\n- CABLE CLIP\n- CABLE THIMBLE\n- CLEVIS PIN\n- CLEVIS\n- BOLT\n- NUT\n- WASHER\n- COTTER PIN\n- CABLE\n- CABLE CLIP\n- CABLE THIMBLE\n- CLEVIS PIN\n- CLEVIS\n- BOLT\n- NUT\n- WASHER\n- COTTER PIN\n- CABLE\n- CABLE CLIP\n- CABLE THIMBLE\n- CLEVIS PIN\n- CLEVIS\n- BOLT\n- NUT\n- WASHER\n- COTTER PIN\n- CABLE\n- CABLE CLIP\n- CABLE THIMBLE\n- CLEVIS PIN\n- CLEVIS\n- BOLT\n- NUT\n- WASHER\n- COTTER PIN\n- CABLE\n- CABLE CLIP\n- CABLE THIMBLE\n- CLEVIS PIN\n- CLEVIS\n- BOLT\n- NUT\n- WASHER\n- COTTER PIN\n- CABLE\n- CABLE CLIP\n- CABLE THIMBLE\n- CLEVIS PIN\n- CLEVIS\n- BOLT\n- NUT\n- WASHER\n- COTTER PIN\n- CABLE\n- CABLE CLIP\n- CABLE THIMBLE\n- CLEVIS PIN\n- CLEVIS\n- BOLT\n- NUT\n- WASHER\n- COTTER PIN\n- CABLE\n- CABLE CLIP\n- CABLE THIMBLE\n- CLEVIS PIN\n- CLEVIS\n- BOLT\n- NUT\n- WASHER\n- COTTER PIN\n- CABLE\n- CABLE CLIP\n- CABLE THIMBLE\n- CLEVIS PIN\n- CLEVIS\n- BOLT\n- NUT\n- WASHER\n- COTTER PIN\n- CABLE\n- CABLE CLIP\n- CABLE THIMBLE\n- CLEVIS PIN\n- CLEVIS\n- BOLT\n- NUT\n- WASHER\n- COTTER PIN\n- CABLE\n- CABLE CLIP\n- CABLE THIMBLE\n- CLEVIS PIN\n- CLEVIS\n- BOLT\n- NUT\n- WASHER\n- COTTER PIN\n- CABLE\n- CABLE CLIP\n- CABLE THIMBLE\n- CLEVIS PIN\n- CLEVIS\n- BOLT\n- NUT\n- WASHER\n- COTTER PIN\n- CABLE\n- CABLE CLIP\n- CABLE THIMBLE\n- CLEVIS PIN\n- CLEVIS\n- BOLT\n- NUT\n- WASHER\n- COTTER PIN\n- CABLE\n- CABLE CLIP\n- CABLE THIMBLE\n- CLEVIS PIN\n- CLEVIS\n- BOLT\n- NUT\n- WASHER\n- COTTER PIN\n- CABLE\n- CABLE CLIP\n- CABLE THIMBLE\n- CLEVIS PIN\n- CLEVIS\n- BOLT\n- NUT\n- WASHER\n- COTTER PIN\n- CABLE\n- CABLE CLIP\n- CABLE THIMBLE\n- CLEVIS PIN\n- CLEVIS\n- BOLT\n- NUT\n- WASHER\n- COTTER PIN\n- CABLE\n- CABLE CLIP\n- CABLE THIMBLE\n- CLEVIS PIN\n- CLEVIS\n- BOLT\n- NUT\n- WASHER\n- COTTER PIN\n- CABLE\n- CABLE CLIP\n- CABLE THIMBLE\n- CLEVIS PIN\n- CLEVIS\n- BOLT\n- NUT\n- WASHER\n- COTTER PIN\n- CABLE\n- CABLE CLIP\n- CABLE THIMBLE\n- CLEVIS PIN\n- CLEVIS\n- BOLT\n- NUT\n- WASHER\n- COTTER PIN\n- CABLE\n- CABLE CLIP\n- CABLE THIMBLE\n- CLEVIS PIN\n- CLEVIS\n- BOLT\n- NUT\n- WASHER\n- COTTER PIN\n- CABLE\n- CABLE CLIP\n- CABLE THIMBLE\n- CLEVIS PIN\n- CLEVIS\n- BOLT\n- NUT\n- WASHER\n- COTTER PIN\n- CABLE\n- CABLE CLIP\n- CABLE THIMBLE\n- CLEVIS PIN\n- CLEVIS\n- BOLT\n- NUT\n- WASHER\n- COTTER PIN\n- CABLE\n- CABLE CLIP\n- CABLE THIMBLE\n- CLEVIS PIN\n- CLEVIS\n- BOLT\n- NUT\n- WASHER\n- COTTER PIN\n- CABLE\n- CABLE CLIP\n- CABLE THIMBLE\n- CLEVIS PIN\n- CLEVIS\n- BOLT\n- NUT\n- WASHER\n- COTTER PIN\n- CABLE\n- CABLE CLIP\n- CABLE THIMBLE\n- CLEVIS PIN\n- CLEVIS\n- BOLT\n- NUT\n- WASHER\n- COTTER PIN\n- CABLE\n- CABLE CLIP\n- CABLE THIMBLE\n- CLEVIS PIN\n- CLEVIS\n- BOLT\n- NUT\n- WASHER\n- COTTER PIN\n- CABLE\n- CABLE CLIP\n- CABLE THIMBLE\n- CLEVIS PIN\n- CLEVIS\n- BOLT\n- NUT\n- WASHER\n- COTTER PIN\n- CABLE\n- CABLE CLIP\n- CABLE THIMBLE\n- CLEVIS PIN\n- CLEVIS\n- BOLT\n- NUT\n- WASHER\n- COTTER PIN\n- CABLE\n- CABLE CLIP\n- CABLE THIMBLE\n- CLEVIS PIN\n- CLEVIS\n- BOLT\n- NUT\n- WASHER\n- COTTER PIN\n- CABLE\n- CABLE CLIP\n- CABLE THIMBLE\n- CLEVIS PIN\n- CLEVIS\n- BOLT\n- NUT\n- WASHER\n- COTTER PIN\n- CABLE\n- CABLE CLIP\n- CABLE THIMBLE\n- CLEVIS PIN\n- CLEVIS\n- BOLT\n- NUT\n- WASHER\n- COTTER PIN\n- CABLE\n- CABLE CLIP\n- CABLE THIMBLE\n- CLEVIS PIN\n- CLEVIS\n- BOLT\n- NUT\n- WASHER\n- COTTER PIN\n- CABLE\n- CABLE CLIP\n- CABLE THIMBLE\n- CLEVIS PIN\n- CLEVIS\n- BOLT\n- NUT\n- WASHER\n- COTTER PIN\n- CABLE\n- CABLE CLIP\n- CABLE THIMBLE\n- CLEVIS PIN\n- CLEVIS\n- BOLT\n- NUT\n- WASHER\n- COTTER PIN\n- CABLE\n- CABLE CLIP\n- CABLE THIMBLE\n- CLEVIS PIN\n- CLEVIS\n- BOLT\n- NUT\n- WASHER\n- COTTER PIN\n- CABLE\n- CABLE CLIP\n- CABLE THIMBLE\n- CLEVIS PIN\n- CLEVIS\n- BOLT\n- NUT\n- WASHER\n- COTTER PIN\n- CABLE\n- CABLE CLIP\n- CABLE THIMBLE\n- CLEVIS PIN\n- CLEVIS\n- BOLT\n- NUT\n- WASHER\n- COTTER PIN\n- CABLE\n- CABLE CLIP\n- CABLE THIMBLE\n- CLEVIS PIN\n- CLEVIS\n- BOLT\n- NUT\n- WASHER\n- COTTER PIN\n- CABLE\n- CABLE CLIP\n- CABLE THIMBLE\n- CLEVIS PIN\n- CLEVIS\n- BOLT\n- NUT\n- WASHER\n- COTTER PIN\n- CABLE\n- CABLE CLIP\n- CABLE THIMBLE\n- CLEVIS PIN\n- CLEVIS\n- BOLT\n- NUT\n- WASHER\n- COTTER PIN\n- CABLE\n- CABLE CLIP\n- CABLE THIMBLE\n- CLEVIS PIN\n- CLEVIS\n- BOLT\n- NUT\n- WASHER\n- COTTER PIN\n- CABLE\n- CABLE CLIP\n- CABLE THIMBLE\n- CLEVIS PIN\n- CLEVIS\n- BOLT\n- NUT\n- WASHER\n- COTTER PIN\n- CABLE\n- CABLE CLIP\n- CABLE THIMBLE\n- CLEVIS PIN\n- CLEVIS\n- BOLT\n- NUT\n- WASHER\n- COTTER PIN\n- CABLE\n- CABLE CLIP\n- CABLE THIMBLE\n- CLEVIS PIN\n- CLEVIS\n- BOLT\n- NUT\n- WASHER\n- COTTER PIN\n- CABLE\n- CABLE CLIP\n- CABLE THIMBLE\n- CLEVIS PIN\n- CLEVIS\n- BOLT\n- NUT\n- WASHER\n- COTTER PIN\n- CABLE\n- CABLE CLIP\n- CABLE THIMBLE\n- CLEVIS PIN\n- CLEVIS\n- BOLT\n- NUT\n- WASHER\n- COTTER PIN\n- CABLE\n- CABLE CLIP\n- CABLE THIMBLE\n- CLEVIS PIN\n- CLEVIS\n- BOLT\n- NUT\n- WASHER\n- COTTER PIN\n- CABLE\n- CABLE CLIP\n- CABLE THIMBLE\n- CLEVIS PIN\n- CLEVIS\n- BOLT\n- NUT\n- WASHER\n- COTTER PIN\n- CABLE\n- CABLE CLIP\n- CABLE THIMBLE\n- CLEVIS PIN\n- CLEVIS\n- BOLT\n- NUT\n- WASHER\n- COTTER PIN\n- CABLE\n- CABLE CLIP\n- CABLE THIMBLE\n- CLEVIS PIN\n- CLEVIS\n- BOLT\n- NUT\n- WASHER\n- COTTER PIN\n- CABLE\n- CABLE CLIP\n- CABLE THIMBLE\n- CLEVIS PIN\n- CLEVIS\n- BOLT\n- NUT\n- WASHER\n- COTTER PIN\n- CABLE\n- CABLE CLIP\n- CABLE THIMBLE\n- CLEVIS PIN\n- CLEVIS\n- BOLT\n- NUT\n- WASHER\n- COTTER PIN\n- CABLE\n- CABLE CLIP\n- CABLE THIMBLE\n- CLEVIS PIN\n- CLEVIS\n- BOLT\n- NUT\n- WASHER\n- COTTER PIN\n- CABLE\n- CABLE CLIP\n- CABLE THIMBLE\n- CLEVIS PIN\n- CLEVIS\n- BOLT\n- NUT\n- WASHER\n- COTTER PIN\n- CABLE\n- CABLE CLIP\n- CABLE THIMBLE\n- CLEVIS PIN\n- CLEVIS\n- BOLT\n- NUT\n- WASHER\n- COTTER PIN\n- CABLE\n- CABLE CLIP\n- CABLE THIMBLE\n- CLEVIS PIN\n- CLEVIS\n- BOLT\n- NUT\n- WASHER\n- COTTER PIN\n- CABLE\n- CABLE CLIP\n- CABLE THIMBLE\n- CLEVIS PIN\n- CLEVIS\n- BOLT\n- NUT\n- WASHER\n- COTTER PIN\n- CABLE\n- CABLE CLIP\n- CABLE THIMBLE\n- CLEVIS PIN\n- CLEVIS\n- BOLT\n- NUT\n- WASHER\n- COTTER PIN\n- CABLE\n- CABLE CLIP\n- CABLE THIMBLE\n- CLEVIS PIN\n- CLEVIS\n- BOLT\n- N",
+     "refusal": null,
+     "role": "assistant",
+     "annotations": null,
+     "audio": null,
+     "function_call": null,
+     "tool_calls": null,
+     "reasoning": null
+    },
+    "native_finish_reason": "length"
+   }
+  ],
+  "created": 1793373188,
+  "model": "nvidia/nemotron-3.5-super-vl:free",
+  "object": "chat.completion",
+  "metadata": null,
+  "moderation": null,
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+   "completion_tokens": 4000,
+   "prompt_tokens": 439,
+   "total_tokens": 4439,
+   "completion_tokens_details": {
+    "accepted_prediction_tokens": null,
+    "audio_tokens": 0,
+    "reasoning_tokens": 0,
+    "rejected_prediction_tokens": null,
+    "text_tokens": null,
+    "image_tokens": 0
+   },
+   "prompt_tokens_details": {
+    "audio_tokens": 0,
+    "cache_write_tokens": 0,
+    "cached_tokens": 0,
+    "image_tokens": null,
+    "text_tokens": null,
+    "video_tokens": 0
+   },
+   "cost": 0,
+   "is_byok": false,
+   "cost_details": {
+    "upstream_inference_cost": 0,
+    "upstream_inference_prompt_cost": 0,
+    "upstream_inference_completions_cost": 0
+   }
+  },
+  "provider": "Nvidia"
+ }
+}

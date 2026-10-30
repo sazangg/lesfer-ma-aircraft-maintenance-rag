@@ -1,0 +1,86 @@
+{
+ "request": {
+  "model": "nvidia/nemotron-3.5-super-vl:free",
+  "max_tokens": 4000,
+  "temperature": 0,
+  "extra_body": {
+   "reasoning": {
+    "enabled": false
+   }
+  },
+  "messages": [
+   {
+    "role": "user",
+    "content": [
+     {
+      "type": "text",
+      "text": "This figure is from FAA-H-8083-30A, Aviation Maintenance Technician Handbook: General, chapter 2 (regulations, maintenance forms, records, and publications). Its caption: \"Figure 2-5. Graphic chart of FAA regulations.\".\nDescribe it for a mechanic who can't see it: say what it shows, then transcribe every label,\nvalue, unit, part number, and note printed in it. Don't add anything that isn't in the figure.\nIf it shows nothing of use (a logo, a signature, a blank area), say so in one sentence."
+     },
+     {
+      "type": "image_url",
+      "image_url": {
+       "url": "<image sha256:167c5d919fbaf9b1dcbf49ea>"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ "response": {
+  "id": "gen-1793373715-XSD58AWkbi89LTXf7xbU",
+  "choices": [
+   {
+    "finish_reason": "stop",
+    "index": 0,
+    "logprobs": null,
+    "message": {
+     "content": "The figure is a flowchart titled \u201cAircraft Certification Service (AIR)\u2014Original Airworthiness,\u201d showing how FAA regulations, offices, certificates, and handbooks relate to aircraft certification. It is organized around a central column of regulation parts (21, 45, 47, 183) with branches to the left for airworthiness standards and to the right for manufacturing and design approvals.\n\nTranscribed labels, values, units, part numbers, and notes:\n\n- Aircraft Certification Service (AIR)\u2014\n- Original Airworthiness\n- Aircraft Certification Office (ACO)\n- Certificate Management Office (CMO)\n- Manufacturing Inspection District Office (MIDO)\n- UNITED STATES OF AMERICA\n- DEPARTMENT OF TRANSPORTATION\n- FEDERAL AVIATION ADMINISTRATION\n- STANDARD AIRWORTHINESS CERTIFICATE\n- NATIONALITY AND REGISTRATION MARKS: N2631A\n- MANUFACTURER AND MODEL: PIPER PA-22-135\n- AIRCRAFT SERIAL NO.: 22-903\n- CATEGORY: NORMAL\n- AUTHORITY AND BASIS FOR ISSUANCE\n- This airworthiness certificate is issued pursuant to the Federal Aviation Act of 1958 and certifies that, as of the date of issuance, the aircraft to which issued has been inspected and found to conform to the type certificate therefor, to be in condition for safe operation, and has been shown to meet the requirements of the applicable comprehensive and detailed airworthiness code as provided by Annex 8 to the Convention on International Civil Aviation, except as noted herein.\n- Exceptions: NONE\n- TERMS AND CONDITIONS\n- Unless sooner surrendered, suspended, revoked, or a termination date is otherwise established by the Administrator, this airworthiness certificate is effective as long as the maintenance, preventative maintenance, and alterations are performed in accordance with Parts 21, 43, and 91 of the Federal Aviation Regulations, as appropriate, and the aircraft is registered in the United States.\n- DATE OF ISSUANCE: 08-10-95\n- FAA REPRESENTATIVE: MARION W. WILLIAMS\n- DESIGNATION NUMBER: SW-FSDO-OKC\n- Any alteration, reproduction, or misuse of this certificate may be punishable by a fine not exceeding $1,000, or imprisonment not exceeding 3 years, or both. THIS CERTIFICATE MUST BE DISPLAYED IN THE AIRCRAFT IN ACCORDANCE WITH APPLICABLE FEDERAL AVIATION REGULATIONS.\n- FAA Form 8100-2 (8-82)\n- GPO 840-164\n- 91\n- General Operating and Flight Rules\n- 14 CFR 91.319\n- 14 CFR 91.409\n- Investigative and Enforcement Procedures 13\n- Airworthiness Standards: Normal, Utility, Acrobatic, and Commuter Category Airplanes 23\n- Airworthiness Standards: Transport Category Airplanes 25\n- Continued Airworthiness and Safety Improvements for Transport Category Airplanes 26\n- Airworthiness Standards: Normal Category Rotorcraft 27\n- Airworthiness Standards: Transport Category Rotorcraft 29\n- Airworthiness Standards: Manned Free Balloons 31\n- Airworthiness Standards: Aircraft Engines 33\n- Fuel Venting and Exhaust Emission Requirements for Turbine Engine Powered Airplanes 34\n- Airworthiness Standards: Propellers 35\n- Noise Standards: Aircraft Type and Airworthiness Certification 36\n- Airworthiness Directives 39\n- 21 Certification Procedures for Products and Parts\n- Manufacturer 43.3(j)\n- PMA\n- TC\n- STC\n- TSOA\n- \u00a721.8(d)\n- 8110.42 Parts Manufacturing Approval\n- \u00a721.9(a)(5)\n- Owner Operator Built Parts\n- 45 Identification and Registration Marking\n- 47 Aircraft Registration\n- 183 Representatives of the Administrator\n- DMIR\n- DER\n- DAR\n- DAS\n- DAR\n- DPE\n- DME\n- DPRE\n- 8110.37 DER Guidance Handbook\n- 8100.8 Designee Management Handbook\n- 8130.2 Airworthiness Certification\n- 8132.2 Designee Airworthiness Certification\n- Suspected Unapproved Parts Program\n- 2150.3 Compliance & Enforcement\n- FAA ORDERS: 8110.4, 8107.1, ACSEP 8120.2, Type Certification, Production Approvals",
+     "refusal": null,
+     "role": "assistant",
+     "annotations": null,
+     "audio": null,
+     "function_call": null,
+     "tool_calls": null,
+     "reasoning": null
+    },
+    "native_finish_reason": "stop"
+   }
+  ],
+  "created": 1793373715,
+  "model": "nvidia/nemotron-3.5-super-vl:free",
+  "object": "chat.completion",
+  "metadata": null,
+  "moderation": null,
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+   "completion_tokens": 1104,
+   "prompt_tokens": 1355,
+   "total_tokens": 2459,
+   "completion_tokens_details": {
+    "accepted_prediction_tokens": null,
+    "audio_tokens": 0,
+    "reasoning_tokens": 0,
+    "rejected_prediction_tokens": null,
+    "text_tokens": null,
+    "image_tokens": 0
+   },
+   "prompt_tokens_details": {
+    "audio_tokens": 0,
+    "cache_write_tokens": 0,
+    "cached_tokens": 0,
+    "image_tokens": null,
+    "text_tokens": null,
+    "video_tokens": 0
+   },
+   "cost": 0,
+   "is_byok": false,
+   "cost_details": {
+    "upstream_inference_cost": 0,
+    "upstream_inference_prompt_cost": 0,
+    "upstream_inference_completions_cost": 0
+   }
+  },
+  "provider": "Nvidia"
+ }
+}

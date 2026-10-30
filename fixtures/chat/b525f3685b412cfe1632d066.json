@@ -1,0 +1,86 @@
+{
+ "request": {
+  "model": "nvidia/nemotron-3.5-super-vl:free",
+  "max_tokens": 4000,
+  "temperature": 0,
+  "extra_body": {
+   "reasoning": {
+    "enabled": false
+   }
+  },
+  "messages": [
+   {
+    "role": "user",
+    "content": [
+     {
+      "type": "text",
+      "text": "This figure is from FAA-H-8083-30A, Aviation Maintenance Technician Handbook: General, chapter 2 (regulations, maintenance forms, records, and publications). Its caption: \"Figure 2-20. FAA Form 8100-2, Standard Airworthiness Certificate.\".\nDescribe it for a mechanic who can't see it: say what it shows, then transcribe every label,\nvalue, unit, part number, and note printed in it. Don't add anything that isn't in the figure.\nIf it shows nothing of use (a logo, a signature, a blank area), say so in one sentence."
+     },
+     {
+      "type": "image_url",
+      "image_url": {
+       "url": "<image sha256:129abb9b8a4ac0ea8e8490df>"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ "response": {
+  "id": "gen-1793373780-UNj37vC4yYtXHANujogD",
+  "choices": [
+   {
+    "finish_reason": "stop",
+    "index": 0,
+    "logprobs": null,
+    "message": {
+     "content": "This figure shows a sample FAA Form 8100-2, Standard Airworthiness Certificate, with a large diagonal \u201cSAMPLE\u201d watermark across the face.\n\nPrinted labels, values, units, part numbers, and notes:\n\nHeader:\n- UNITED STATES OF AMERICA\n- DEPARTMENT OF TRANSPORTATION-FEDERAL AVIATION ADMINISTRATION\n- STANDARD AIRWORTHINESS CERTIFICATE\n\nBox 1:\n- Label: 1 NATIONALITY AND REGISTRATION MARKS\n- Value: N12345\n\nBox 2:\n- Label: 2 MANUFACTURER AND MODEL\n- Value: Boeing 787\n\nBox 3:\n- Label: 3 AIRCRAFT SERIAL NUMBER\n- Value: 43219\n\nBox 4:\n- Label: 4 CATEGORY\n- Value: Transport\n\nBox 5:\n- Label: 5 AUTHORITY AND BASIS FOR ISSUANCE\n- Text: This airworthiness certificate is issued pursuant to 49 U.S.C. 44704 and certifies that, as of the date of issuance, the aircraft to which issued has been inspected and found to conform to the type certificate therefor, to be in condition for safe operation, and has been shown to meet the requirements of the applicable comprehensive and detailed airworthiness code as provided by Annex 8 to the Convention on International Civil Aviation, except as noted herein.\n- Label: Exceptions:\n- Value: None\n\nBox 6:\n- Label: 6 TERMS AND CONDITIONS\n- Text: Unless sooner surrendered, suspended, revoked, or a termination date is otherwise established by the FAA, this airworthiness certificate is effective as long as the maintenance, preventive maintenance, and alterations are performed in accordance with Parts 21, 43, and 91 of the Federal Aviation Regulations, as appropriate, and the aircraft is registered in the United States.\n\nBottom row:\n- Label: DATE OF ISSUANCE\n- Value: 9 Jan 2015\n- Label: FAA REPRESENTATIVE\n- Value: E.R. White\n- Label: DESIGNATION NUMBER\n- Value: NE-XX\n\nFooter notes:\n- Any alteration, reproduction, or misuse of this certificate may be punishable by a fine not exceeding $1,000 or imprisonment not exceeding 3 years or both.\n- THIS CERTIFICATE MUST BE DISPLAYED IN THE AIRCRAFT IN ACCORDANCE WITH APPLICABLE FEDERAL AVIATION REGULATIONS.\n- FAA Form 8100-2 (04-11) Supersedes Previous Edition",
+     "refusal": null,
+     "role": "assistant",
+     "annotations": null,
+     "audio": null,
+     "function_call": null,
+     "tool_calls": null,
+     "reasoning": null
+    },
+    "native_finish_reason": "stop"
+   }
+  ],
+  "created": 1793373780,
+  "model": "nvidia/nemotron-3.5-super-vl:free",
+  "object": "chat.completion",
+  "metadata": null,
+  "moderation": null,
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+   "completion_tokens": 601,
+   "prompt_tokens": 715,
+   "total_tokens": 1316,
+   "completion_tokens_details": {
+    "accepted_prediction_tokens": null,
+    "audio_tokens": 0,
+    "reasoning_tokens": 0,
+    "rejected_prediction_tokens": null,
+    "text_tokens": null,
+    "image_tokens": 0
+   },
+   "prompt_tokens_details": {
+    "audio_tokens": 0,
+    "cache_write_tokens": 0,
+    "cached_tokens": 0,
+    "image_tokens": null,
+    "text_tokens": null,
+    "video_tokens": 0
+   },
+   "cost": 0,
+   "is_byok": false,
+   "cost_details": {
+    "upstream_inference_cost": 0,
+    "upstream_inference_prompt_cost": 0,
+    "upstream_inference_completions_cost": 0
+   }
+  },
+  "provider": "Nvidia"
+ }
+}

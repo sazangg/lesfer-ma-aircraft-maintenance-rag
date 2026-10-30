@@ -3218,6 +3218,7 @@
     {
       "source_id": "NACA-TM-579",
       "file": "faa/naca/naca-tm-579.pdf",
+      "parse": {"ocr": "off"},
       "meta": {
         "title": "NACA Technical Memorandum 579, Structural Details of German Light Airplanes (1930, scanned)",
         "publisher": "NACA",

@@ -1,0 +1,86 @@
+{
+ "request": {
+  "model": "nvidia/nemotron-3.5-super-vl:free",
+  "max_tokens": 4000,
+  "temperature": 0,
+  "extra_body": {
+   "reasoning": {
+    "enabled": false
+   }
+  },
+  "messages": [
+   {
+    "role": "user",
+    "content": [
+     {
+      "type": "text",
+      "text": "This figure is from AC 43.13-2B, Acceptable Methods, Techniques, and Practices: Aircraft Alterations.\nDescribe it for a mechanic who can't see it: say what it shows, then transcribe every label,\nvalue, unit, part number, and note printed in it. Don't add anything that isn't in the figure.\nIf it shows nothing of use (a logo, a signature, a blank area), say so in one sentence."
+     },
+     {
+      "type": "image_url",
+      "image_url": {
+       "url": "<image sha256:cf13c12fc4f270f5762cbf57>"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ "response": {
+  "id": "gen-1793373670-cCQvXNeczz7wNPZ6Qk5a",
+  "choices": [
+   {
+    "finish_reason": "stop",
+    "index": 0,
+    "logprobs": null,
+    "message": {
+     "content": "The figure shows several types of aircraft cargo restraint hardware and rigging configurations, including slide assemblies, strap assemblies, tensioning slides, and cargo nets.\n\n**THREE BAR TYPE SLIDE**\n- Rigging for easiest adjustment and moderate loads.\n- Rigging for maximum load whether slide is joggled or not.\n- When applicable\n\n**TYPICAL NAS STRAP ASSEMBLY**\n- Available with various types of end hardware and up to 5000# capacity.\n\n**TENSIONING SLIDE**\n- Used to preload cargo tie down straps.\n- Handhold\n\n**CARGO BARRIER NET**\n\n**CARGO TIE DOWN NET**\n- Commonly used to restrain bulky or composite cargo.",
+     "refusal": null,
+     "role": "assistant",
+     "annotations": null,
+     "audio": null,
+     "function_call": null,
+     "tool_calls": null,
+     "reasoning": null
+    },
+    "native_finish_reason": "stop"
+   }
+  ],
+  "created": 1793373670,
+  "model": "nvidia/nemotron-3.5-super-vl:free",
+  "object": "chat.completion",
+  "metadata": null,
+  "moderation": null,
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+   "completion_tokens": 148,
+   "prompt_tokens": 1007,
+   "total_tokens": 1155,
+   "completion_tokens_details": {
+    "accepted_prediction_tokens": null,
+    "audio_tokens": 0,
+    "reasoning_tokens": 0,
+    "rejected_prediction_tokens": null,
+    "text_tokens": null,
+    "image_tokens": 0
+   },
+   "prompt_tokens_details": {
+    "audio_tokens": 0,
+    "cache_write_tokens": 0,
+    "cached_tokens": 0,
+    "image_tokens": null,
+    "text_tokens": null,
+    "video_tokens": 0
+   },
+   "cost": 0,
+   "is_byok": false,
+   "cost_details": {
+    "upstream_inference_cost": 0,
+    "upstream_inference_prompt_cost": 0,
+    "upstream_inference_completions_cost": 0
+   }
+  },
+  "provider": "Nvidia"
+ }
+}

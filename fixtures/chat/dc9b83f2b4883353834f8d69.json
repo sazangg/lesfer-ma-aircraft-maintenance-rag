@@ -1,0 +1,86 @@
+{
+ "request": {
+  "model": "nvidia/nemotron-3.5-super-vl:free",
+  "max_tokens": 4000,
+  "temperature": 0,
+  "extra_body": {
+   "reasoning": {
+    "enabled": false
+   }
+  },
+  "messages": [
+   {
+    "role": "user",
+    "content": [
+     {
+      "type": "text",
+      "text": "This figure is from AC 43.13-2B, Acceptable Methods, Techniques, and Practices: Aircraft Alterations. Its caption: \"FIGURE 7-3. TYPICAL CARGO SLING INSTALLATION NO. 1\".\nDescribe it for a mechanic who can't see it: say what it shows, then transcribe every label,\nvalue, unit, part number, and note printed in it. Don't add anything that isn't in the figure.\nIf it shows nothing of use (a logo, a signature, a blank area), say so in one sentence."
+     },
+     {
+      "type": "image_url",
+      "image_url": {
+       "url": "<image sha256:335ef775c1bd3d14bd58afa5>"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ "response": {
+  "id": "gen-1793373063-6E5NqIR842aLAWpmi4Le",
+  "choices": [
+   {
+    "finish_reason": "length",
+    "index": 0,
+    "logprobs": null,
+    "message": {
+     "content": "The figure shows a line drawing of a typical cargo sling installation, consisting of a tubular frame with diagonal bracing, a central vertical support, a hook assembly at the bottom, and a rectangular object mounted near the top.\n\nLabels, values, units, part numbers, and notes printed in the figure:\n\n- 1/4\" CABLE\n- 1/4\" THIMBLE\n- 1/4\" CABLE CLAMPS\n- 1/4\" STEEL\n- 1\" x 1\" x 1/8\" STEEL TUBING\n- 1/2\" EYE BOLT\n- 1/2\" NUT\n- 1/2\" LOCKWASHER\n- 1/2\" FLAT WASHER\n- 1/2\" CLEVIS PIN\n- 1/2\" COTTER PIN\n- 1/2\" SHACKLE\n- 1/2\" HOOK\n- 1/2\" SWIVEL\n- 1/2\" EYE\n- 1/2\" CLEVIS\n- 1/2\" PIN\n- 1/2\" WASHER\n- 1/2\" NUT\n- 1/2\" LOCKWASHER\n- 1/2\" FLAT WASHER\n- 1/2\" CLEVIS PIN\n- 1/2\" COTTER PIN\n- 1/2\" SHACKLE\n- 1/2\" HOOK\n- 1/2\" SWIVEL\n- 1/2\" EYE\n- 1/2\" CLEVIS\n- 1/2\" PIN\n- 1/2\" WASHER\n- 1/2\" NUT\n- 1/2\" LOCKWASHER\n- 1/2\" FLAT WASHER\n- 1/2\" CLEVIS PIN\n- 1/2\" COTTER PIN\n- 1/2\" SHACKLE\n- 1/2\" HOOK\n- 1/2\" SWIVEL\n- 1/2\" EYE\n- 1/2\" CLEVIS\n- 1/2\" PIN\n- 1/2\" WASHER\n- 1/2\" NUT\n- 1/2\" LOCKWASHER\n- 1/2\" FLAT WASHER\n- 1/2\" CLEVIS PIN\n- 1/2\" COTTER PIN\n- 1/2\" SHACKLE\n- 1/2\" HOOK\n- 1/2\" SWIVEL\n- 1/2\" EYE\n- 1/2\" CLEVIS\n- 1/2\" PIN\n- 1/2\" WASHER\n- 1/2\" NUT\n- 1/2\" LOCKWASHER\n- 1/2\" FLAT WASHER\n- 1/2\" CLEVIS PIN\n- 1/2\" COTTER PIN\n- 1/2\" SHACKLE\n- 1/2\" HOOK\n- 1/2\" SWIVEL\n- 1/2\" EYE\n- 1/2\" CLEVIS\n- 1/2\" PIN\n- 1/2\" WASHER\n- 1/2\" NUT\n- 1/2\" LOCKWASHER\n- 1/2\" FLAT WASHER\n- 1/2\" CLEVIS PIN\n- 1/2\" COTTER PIN\n- 1/2\" SHACKLE\n- 1/2\" HOOK\n- 1/2\" SWIVEL\n- 1/2\" EYE\n- 1/2\" CLEVIS\n- 1/2\" PIN\n- 1/2\" WASHER\n- 1/2\" NUT\n- 1/2\" LOCKWASHER\n- 1/2\" FLAT WASHER\n- 1/2\" CLEVIS PIN\n- 1/2\" COTTER PIN\n- 1/2\" SHACKLE\n- 1/2\" HOOK\n- 1/2\" SWIVEL\n- 1/2\" EYE\n- 1/2\" CLEVIS\n- 1/2\" PIN\n- 1/2\" WASHER\n- 1/2\" NUT\n- 1/2\" LOCKWASHER\n- 1/2\" FLAT WASHER\n- 1/2\" CLEVIS PIN\n- 1/2\" COTTER PIN\n- 1/2\" SHACKLE\n- 1/2\" HOOK\n- 1/2\" SWIVEL\n- 1/2\" EYE\n- 1/2\" CLEVIS\n- 1/2\" PIN\n- 1/2\" WASHER\n- 1/2\" NUT\n- 1/2\" LOCKWASHER\n- 1/2\" FLAT WASHER\n- 1/2\" CLEVIS PIN\n- 1/2\" COTTER PIN\n- 1/2\" SHACKLE\n- 1/2\" HOOK\n- 1/2\" SWIVEL\n- 1/2\" EYE\n- 1/2\" CLEVIS\n- 1/2\" PIN\n- 1/2\" WASHER\n- 1/2\" NUT\n- 1/2\" LOCKWASHER\n- 1/2\" FLAT WASHER\n- 1/2\" CLEVIS PIN\n- 1/2\" COTTER PIN\n- 1/2\" SHACKLE\n- 1/2\" HOOK\n- 1/2\" SWIVEL\n- 1/2\" EYE\n- 1/2\" CLEVIS\n- 1/2\" PIN\n- 1/2\" WASHER\n- 1/2\" NUT\n- 1/2\" LOCKWASHER\n- 1/2\" FLAT WASHER\n- 1/2\" CLEVIS PIN\n- 1/2\" COTTER PIN\n- 1/2\" SHACKLE\n- 1/2\" HOOK\n- 1/2\" SWIVEL\n- 1/2\" EYE\n- 1/2\" CLEVIS\n- 1/2\" PIN\n- 1/2\" WASHER\n- 1/2\" NUT\n- 1/2\" LOCKWASHER\n- 1/2\" FLAT WASHER\n- 1/2\" CLEVIS PIN\n- 1/2\" COTTER PIN\n- 1/2\" SHACKLE\n- 1/2\" HOOK\n- 1/2\" SWIVEL\n- 1/2\" EYE\n- 1/2\" CLEVIS\n- 1/2\" PIN\n- 1/2\" WASHER\n- 1/2\" NUT\n- 1/2\" LOCKWASHER\n- 1/2\" FLAT WASHER\n- 1/2\" CLEVIS PIN\n- 1/2\" COTTER PIN\n- 1/2\" SHACKLE\n- 1/2\" HOOK\n- 1/2\" SWIVEL\n- 1/2\" EYE\n- 1/2\" CLEVIS\n- 1/2\" PIN\n- 1/2\" WASHER\n- 1/2\" NUT\n- 1/2\" LOCKWASHER\n- 1/2\" FLAT WASHER\n- 1/2\" CLEVIS PIN\n- 1/2\" COTTER PIN\n- 1/2\" SHACKLE\n- 1/2\" HOOK\n- 1/2\" SWIVEL\n- 1/2\" EYE\n- 1/2\" CLEVIS\n- 1/2\" PIN\n- 1/2\" WASHER\n- 1/2\" NUT\n- 1/2\" LOCKWASHER\n- 1/2\" FLAT WASHER\n- 1/2\" CLEVIS PIN\n- 1/2\" COTTER PIN\n- 1/2\" SHACKLE\n- 1/2\" HOOK\n- 1/2\" SWIVEL\n- 1/2\" EYE\n- 1/2\" CLEVIS\n- 1/2\" PIN\n- 1/2\" WASHER\n- 1/2\" NUT\n- 1/2\" LOCKWASHER\n- 1/2\" FLAT WASHER\n- 1/2\" CLEVIS PIN\n- 1/2\" COTTER PIN\n- 1/2\" SHACKLE\n- 1/2\" HOOK\n- 1/2\" SWIVEL\n- 1/2\" EYE\n- 1/2\" CLEVIS\n- 1/2\" PIN\n- 1/2\" WASHER\n- 1/2\" NUT\n- 1/2\" LOCKWASHER\n- 1/2\" FLAT WASHER\n- 1/2\" CLEVIS PIN\n- 1/2\" COTTER PIN\n- 1/2\" SHACKLE\n- 1/2\" HOOK\n- 1/2\" SWIVEL\n- 1/2\" EYE\n- 1/2\" CLEVIS\n- 1/2\" PIN\n- 1/2\" WASHER\n- 1/2\" NUT\n- 1/2\" LOCKWASHER\n- 1/2\" FLAT WASHER\n- 1/2\" CLEVIS PIN\n- 1/2\" COTTER PIN\n- 1/2\" SHACKLE\n- 1/2\" HOOK\n- 1/2\" SWIVEL\n- 1/2\" EYE\n- 1/2\" CLEVIS\n- 1/2\" PIN\n- 1/2\" WASHER\n- 1/2\" NUT\n- 1/2\" LOCKWASHER\n- 1/2\" FLAT WASHER\n- 1/2\" CLEVIS PIN\n- 1/2\" COTTER PIN\n- 1/2\" SHACKLE\n- 1/2\" HOOK\n- 1/2\" SWIVEL\n- 1/2\" EYE\n- 1/2\" CLEVIS\n- 1/2\" PIN\n- 1/2\" WASHER\n- 1/2\" NUT\n- 1/2\" LOCKWASHER\n- 1/2\" FLAT WASHER\n- 1/2\" CLEVIS PIN\n- 1/2\" COTTER PIN\n- 1/2\" SHACKLE\n- 1/2\" HOOK\n- 1/2\" SWIVEL\n- 1/2\" EYE\n- 1/2\" CLEVIS\n- 1/2\" PIN\n- 1/2\" WASHER\n- 1/2\" NUT\n- 1/2\" LOCKWASHER\n- 1/2\" FLAT WASHER\n- 1/2\" CLEVIS PIN\n- 1/2\" COTTER PIN\n- 1/2\" SHACKLE\n- 1/2\" HOOK\n- 1/2\" SWIVEL\n- 1/2\" EYE\n- 1/2\" CLEVIS\n- 1/2\" PIN\n- 1/2\" WASHER\n- 1/2\" NUT\n- 1/2\" LOCKWASHER\n- 1/2\" FLAT WASHER\n- 1/2\" CLEVIS PIN\n- 1/2\" COTTER PIN\n- 1/2\" SHACKLE\n- 1/2\" HOOK\n- 1/2\" SWIVEL\n- 1/2\" EYE\n- 1/2\" CLEVIS\n- 1/2\" PIN\n- 1/2\" WASHER\n- 1/2\" NUT\n- 1/2\" LOCKWASHER\n- 1/2\" FLAT WASHER\n- 1/2\" CLEVIS PIN\n- 1/2\" COTTER PIN\n- 1/2\" SHACKLE\n- 1/2\" HOOK\n- 1/2\" SWIVEL\n- 1/2\" EYE\n- 1/2\" CLEVIS\n- 1/2\" PIN\n- 1/2\" WASHER\n- 1/2\" NUT\n- 1/2\" LOCKWASHER\n- 1/2\" FLAT WASHER\n- 1/2\" CLEVIS PIN\n- 1/2\" COTTER PIN\n- 1/2\" SHACKLE\n- 1/2\" HOOK\n- 1/2\" SWIVEL\n- 1/2\" EYE\n- 1/2\" CLEVIS\n- 1/2\" PIN\n- 1/2\" WASHER\n- 1/2\" NUT\n- 1/2\" LOCKWASHER\n- 1/2\" FLAT WASHER\n- 1/2\" CLEVIS PIN\n- 1/2\" COTTER PIN\n- 1/2\" SHACKLE\n- 1/2\" HOOK\n- 1/2\" SWIVEL\n- 1/2\" EYE\n- 1/2\" CLEVIS\n- 1/2\" PIN\n- 1/2\" WASHER\n- 1/2\" NUT\n- 1/2\" LOCKWASHER\n- 1/2\" FLAT WASHER\n- 1/2\" CLEVIS PIN\n- 1/2\" COTTER PIN\n- 1/2\" SHACKLE\n- 1/2\" HOOK\n- 1/2\" SWIVEL\n- 1/2\" EYE\n- 1/2\" CLEVIS\n- 1/2\" PIN\n- 1/2\" WASHER\n- 1/2\" NUT\n- 1/2\" LOCKWASHER\n- 1/2\" FLAT WASHER\n- 1/2\" CLEVIS PIN\n- 1/2\" COTTER PIN\n- 1/2\" SHACKLE\n- 1/2\" HOOK\n- 1/2\" SWIVEL\n- 1/2\" EYE\n- 1/2\" CLEVIS\n- 1/2\" PIN\n- 1/2\" WASHER\n- 1/2\" NUT\n- 1/2\" LOCKWASHER\n- 1/2\" FLAT WASHER\n- 1/2\" CLEVIS PIN\n- 1/2\" COTTER PIN\n- 1/2\" SHACKLE\n- 1/2\" HOOK\n- 1/2\" SWIVEL\n- 1/2\" EYE\n- 1/2\" CLEVIS\n- 1/2\" PIN\n- 1/2\" WASHER\n- 1/2\" NUT\n- 1/2\" LOCKWASHER\n- 1/2\" FLAT WASHER\n- 1/2\" CLEVIS PIN\n- 1/2\" COTTER PIN\n- 1/2\" SHACKLE\n- 1/2\" HOOK\n- 1/2\" SWIVEL\n- 1/2\" EYE\n- 1/2\" CLEVIS\n- 1/2\" PIN\n- 1/2\" WASHER\n- 1/2\" NUT\n- 1/2\" LOCKWASHER\n- 1/2\" FLAT WASHER\n- 1/2\" CLEVIS PIN\n- 1/2\" COTTER PIN\n- 1/2\" SHACKLE\n- 1/2\" HOOK\n- 1/2\" SWIVEL\n- 1/2\" EYE\n- 1/2\" CLEVIS\n- 1/2\" PIN\n- 1/2\" WASHER\n- 1/2\" NUT\n- 1/2\" LOCKWASHER\n- 1/2\" FLAT WASHER\n- 1/2\" CLEVIS PIN\n- 1/2\" COTTER PIN\n- 1/2\" SHACKLE\n- 1/2\" HOOK\n- 1/2\" SWIVEL\n- 1/2\" EYE\n- 1/2\" CLEVIS\n- 1/2\" PIN\n- 1/2\" WASHER\n- 1/2\" NUT\n- 1/2\" LOCKWASHER\n- 1/2\" FLAT WASHER\n- 1/2\" CLEVIS PIN\n- 1/2\" COTTER PIN\n- 1/2\" SHACKLE\n- 1/2\" HOOK\n- 1/2\" SWIV",
+     "refusal": null,
+     "role": "assistant",
+     "annotations": null,
+     "audio": null,
+     "function_call": null,
+     "tool_calls": null,
+     "reasoning": null
+    },
+    "native_finish_reason": "length"
+   }
+  ],
+  "created": 1793373063,
+  "model": "nvidia/nemotron-3.5-super-vl:free",
+  "object": "chat.completion",
+  "metadata": null,
+  "moderation": null,
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+   "completion_tokens": 4000,
+   "prompt_tokens": 429,
+   "total_tokens": 4429,
+   "completion_tokens_details": {
+    "accepted_prediction_tokens": null,
+    "audio_tokens": 0,
+    "reasoning_tokens": 0,
+    "rejected_prediction_tokens": null,
+    "text_tokens": null,
+    "image_tokens": 0
+   },
+   "prompt_tokens_details": {
+    "audio_tokens": 0,
+    "cache_write_tokens": 0,
+    "cached_tokens": 0,
+    "image_tokens": null,
+    "text_tokens": null,
+    "video_tokens": 0
+   },
+   "cost": 0,
+   "is_byok": false,
+   "cost_details": {
+    "upstream_inference_cost": 0,
+    "upstream_inference_prompt_cost": 0,
+    "upstream_inference_completions_cost": 0
+   }
+  },
+  "provider": "Nvidia"
+ }
+}

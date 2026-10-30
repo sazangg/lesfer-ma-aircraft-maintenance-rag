@@ -3,6 +3,7 @@
   "file": "faa/naca/naca-tm-579.pdf",
   "format": "pdf",
   "parser": "docling",
+  "ocr": "off",
   "meta": {
     "title": "NACA Technical Memorandum 579, Structural Details of German Light Airplanes (1930, scanned)",
     "publisher": "NACA",
@@ -15,1030 +16,986 @@
       "id": "e1",
       "type": "paragraph",
       "page": 1,
-      "text": "-",
-      "ocr_confidence": 0.95
+      "text": "-"
     },
     {
       "id": "e2",
       "type": "paragraph",
       "page": 1,
-      "text": "FILE COPY NO. I-W",
-      "ocr_confidence": 0.95
+      "text": "FILE COPY"
     },
     {
       "id": "e3",
       "type": "heading",
       "page": 1,
-      "text": "FILE CASE COPY",
-      "level": 2,
-      "ocr_confidence": 0.95
+      "text": "NO I -w A S E F I COPY",
+      "level": 2
     },
     {
       "id": "e4",
       "type": "paragraph",
       "page": 1,
-      "text": "TECHNICAL MEMORANDUMS NATIONAL ADVISORY COMITTEE FOR AERONAUTICS",
-      "ocr_confidence": 0.95
+      "text": "TECHITICAL i.IEMORANDU LS"
     },
     {
       "id": "e5",
       "type": "paragraph",
       "page": 1,
-      "text": "S9",
-      "ocr_confidence": 0.95
+      "text": "ITATIOITAL ADVISORY OOLITTE FOR AEROJAUTIOS"
     },
     {
       "id": "e6",
       "type": "paragraph",
       "page": 1,
-      "text": "STRUOTURAL DETAILS OF GERMAN LIGHT AIRPLANES By Martin Schrenk",
-      "ocr_confidence": 0.95
+      "text": "No. 579"
     },
     {
       "id": "e7",
       "type": "paragraph",
       "page": 1,
-      "text": "From Zeitschrift des Vereines Deutscher Ingenieure March 15, 1950",
-      "ocr_confidence": 0.95
+      "text": "STRUCTURAL DETAILS OF GER.AU LIHT AIEFLAS"
     },
     {
       "id": "e8",
       "type": "paragraph",
       "page": 1,
-      "text": "Washington August,\"1930",
-      "ocr_confidence": 0.95
+      "text": "BIT Martin Scirenk"
     },
     {
       "id": "e9",
-      "type": "figure",
+      "type": "paragraph",
       "page": 1,
-      "caption": "",
-      "image": "figures/NACA-TM-579-fig1.png",
-      "ocr_confidence": 0.95
+      "text": "Fro:n Zeitschri±'t deo Vereines Deutscici' Ingenieure March 13, 133O"
     },
     {
       "id": "e10",
       "type": "paragraph",
-      "page": 2,
-      "text": "NATIONAL ADVISORY COMMITTEE FOR AERONAUTICS.",
-      "ocr_confidence": 0.94
+      "page": 1,
+      "text": "Washington August, 13"
     },
     {
       "id": "e11",
-      "type": "paragraph",
-      "page": 2,
-      "text": "TECHNICAL MEMORANDUM NO. 579.",
-      "ocr_confidence": 0.94
+      "type": "figure",
+      "page": 1,
+      "caption": "",
+      "image": "figures/NACA-TM-579-fig1.png"
     },
     {
       "id": "e12",
       "type": "paragraph",
       "page": 2,
-      "text": "STRUCTURAL DETAILS OF GERMAN LIGHT AIRPLANES.* By Martin Schrenk.",
-      "ocr_confidence": 0.94
+      "text": "NATIONAL ADVISORY COITTEE FOR AERONAUTICS."
     },
     {
       "id": "e13",
       "type": "paragraph",
       "page": 2,
-      "text": "T  t   t 1 nnss Io of Europe (v,D.I. Nachrichten of September 4, 1929) demonstrated the great interest taken in the development of the small twoeo a aAnt et nt n t tntt ant an largest number of participants, for after the war Germany soon became the home of the light airplane, due to the political restrictions of German aviation and to the development of gliders.",
-      "ocr_confidence": 0.94
+      "text": "TECHNICAL MEMORANDUM NO. 579."
     },
     {
       "id": "e14",
       "type": "paragraph",
       "page": 2,
-      "text": "Even now German airplane construction is restricted to airplanes for peaceful purposes. Much interest is therefore manifested in the construction of light airplanes, the market for hich seems capable of development. It will be worth while to cusider them more closely since, as recent solutions of a very e  y  y  c es ent status of airplane construction.",
-      "ocr_confidence": 0.94
+      "text": "STRUCTURAL DETAILS OF GERMAN LIGHT AIRPLANES.* By Martin Schrenk."
     },
     {
       "id": "e15",
       "type": "paragraph",
       "page": 2,
-      "text": "The German light airplane had two sources, one of which was the glider. The simple glider was equipped with a light engine, at first usually a motorcycle engine, which did not need to be very powerful. This \"light airplane\" justified its right Many aeronautic engineers at first rejected this method as inadequate and preferred the high-powered two-seater prevalent at the end of the war. Under the compulsion of economy, however, the pover of this \"sport plane\" was gradually reduced, while on the other hand, the \"light airplane\" met the demand for greater speed by the adoption of more powerful engines. Thus they met each other halfway, and to-day we find almost every transition stage between the two original types.",
-      "ocr_confidence": 0.94
+      "text": "The success of the 1929 International Light Airplane Tour of Europe (V,D.I. Nachrichten df September 4, 1929) demonstrated the great interest taken in the development of the small twoseat touring airplane. It is no accident that Germany had the largest number of participants, for after the war Germany soon became the home of the light airplane, due to the political restrictions of German aviation and to the development of gliders."
     },
     {
       "id": "e16",
       "type": "paragraph",
       "page": 2,
-      "text": "to existence, as soon as suitable engines were put on the market. *\"Aufbau und Einzelheiten deutscher Leicht- und Sportflugzeuge.\" e r    r nie. 1930, pp. 321-330.",
-      "ocr_confidence": 0.94
+      "text": "Even now German airplane construction is restricted to airlanes for peaceful purposes. Much interest is therefore manifested in the construction of light airplanes, the market for hich seems capable of development. I will be worth while to isider them more closely since, as recent solutions of a very ciefinite problem, they furnish information concerning the present status of airplane construction."
     },
     {
       "id": "e17",
-      "type": "page_header",
-      "page": 3,
-      "text": "N.A.C.A. Technical Memorandum No. 579",
-      "ocr_confidence": 0.97
+      "type": "paragraph",
+      "page": 2,
+      "text": "The German light airplane had two sources, one of which Was the glider. The simple glider was equipped- with a light engine, at first usually a motorcycle engine, which did not need."
     },
     {
       "id": "e18",
-      "type": "page_header",
-      "page": 3,
-      "text": "2",
-      "ocr_confidence": 0.97
+      "type": "paragraph",
+      "page": 2,
+      "text": "to be very powerful. This \"light airplan&' justified its right Many aeronautic engineers at first rejected this method as inadequate and preferred the high-powered two-seater prevalent at the end of the war. Under the compulsion of economy, howev . -er, th power ± this ttsport plane\" was gradually reduced, while on the other hand, the \"light airplane\" met the demand for greater speed by the adoption of more powerful engines. Thus they - met each other halfway, and to-day we find, almost every transition stage between the two original types."
     },
     {
       "id": "e19",
       "type": "paragraph",
-      "page": 3,
-      "text": "Table I gives the characteristics and maximum speed of recent German light airplanes. Aside from the GMG IIa and the Klemm L 25a, they were all made in 1929. They have a flying weight of 500 to 750 kg (1100 to 1650 lb.) and a weight equipped s       s three. Aside from the Albatros L 79, which was designed for a special purpose, they were of about 70 hp, in two cases even as low.as 40 hp. The illustrations .are grouped according to the types, Figures l-l? being line drawings.",
-      "ocr_confidence": 0.97
+      "page": 2,
+      "text": "to existence, as soon as suitable engines were put on the market. *\"Aufbau und Einzelheiten deutscher Leicht- und. Sportflugzeuge.\" From Zeitschrift des Vereines deutscher Ingenieure, March 15, 1930, pp. 321-330."
     },
     {
       "id": "e20",
-      "type": "paragraph",
+      "type": "page_header",
       "page": 3,
-      "text": "Their source is revealed by the relative values of the load",
-      "ocr_confidence": 0.97
+      "text": "N.A.C.A. Technical Memorandum N0 . 579"
     },
     {
       "id": "e21",
       "type": "paragraph",
       "page": 3,
-      "text": "unit G/b and power loading.* Low span loading means an econom* G/b² is the load per m of the span. It is the chief factor in the determination of the power requirement. From the Prandtl wing theory we can derive, for the sinking speed ws (that is, the minimum power requirement inmkg/s.for maintaining horizontal flight, based on one kilogram of flying weight), the simple approximation formula",
-      "ocr_confidence": 0.97
+      "text": "Table I gives the characteristics and maximum speed of recent German light airplanes. aside from the GMG ha and the Klemm L 25a, they were all made in 1929. They have a flying weight of 500 to 750 kg (1100 to 1650 lb.) and a weight equipped of less than 400 kg (880 lb.), with the exception of the first three. Aside from the Albatros L 79, which was designed for a special purpose, they were of about 70 hp, in two cases even as loW.as 40 hp. The illustrations are grouped adcording to the types, Figures 1-17 being line drawings."
     },
     {
       "id": "e22",
       "type": "paragraph",
       "page": 3,
-      "text": "",
-      "ocr_confidence": 0.97
+      "text": "Their source is revealed by the relative values of the load."
     },
     {
       "id": "e23",
       "type": "paragraph",
       "page": 3,
-      "text": "in which emin is the best lift-drag or fineness ratio of. the airplane (in part also a function of the span), while C depends only·on the air density. Since e min iikewise generally (Continued at bottom of page 3)",
-      "ocr_confidence": 0.97
+      "text": "unitG/b and power loading.* Low span loading means an econorn* G/b2 is the load per m of the span. It is the chief factor in the determination of the power requirement, From the P,randtl wing theory we can derive, for the sinking speed w (that is, the minimum power requirement in.mkg/s.for maintaining horizontal flight, based on one kilogram of flying weight), the simple approximation formula"
     },
     {
       "id": "e24",
-      "type": "page_header",
-      "page": 4,
-      "text": "N.A.C.A. Technical Memorandum No. 579",
-      "ocr_confidence": 0.93
+      "type": "paragraph",
+      "page": 3,
+      "text": ""
     },
     {
       "id": "e25",
-      "type": "page_header",
-      "page": 4,
-      "text": "3",
-      "ocr_confidence": 0.93
+      "type": "paragraph",
+      "page": 3,
+      "text": "in which Emin is the best lift-drag or fineness ratio of. the airplane (in part lso a function of the span), while C depends onlyon the air density. Since mm likewise generally (Continued at bottom of page 3)"
     },
     {
       "id": "e26",
-      "type": "paragraph",
+      "type": "page_header",
       "page": 4,
-      "text": "ical airfoil system. Such a system may increase the power loading without impairing the necessary power reserve (the ratio of h  r  trr rx r n  ne climbing speed, as the difference between the two specific powers is, for such highly loaded airplanes, relatively smaller n r onr r nr onr r r r r ons",
-      "ocr_confidence": 0.93
+      "text": "N..A.C.A. Technical Memoranthm No.. 579"
     },
     {
       "id": "e27",
-      "type": "paragraph",
+      "type": "page_header",
       "page": 4,
-      "text": "This monoplane type, which is strongly influenced by the glider, is represented by the Klemm L 25 and GMG II and in a lesser degree by the L 26 and BFW M23. In contrast with these n  o  t  r n a o     t   st if the airplanes were all in the same load group.",
-      "ocr_confidence": 0.93
+      "text": "3"
     },
     {
       "id": "e28",
       "type": "paragraph",
       "page": 4,
-      "text": "The German airplane specifications,* according to which the air-traffic ministry passes on new airplane types, indicate five stress groups which are classified, according to their use, in one or the other of the four employment groups.",
-      "ocr_confidence": 0.93
+      "text": "ical airfoil system. Such a system may increase the power loading without impairing the necessary power reserve (the ratio of the maximum to the required power). On the other hand, the climbing speed, as the difference between the two specific powers is, for such highly loaded airplanes, relatively smaller than for airplanes of like reserve power but lower power loading."
     },
     {
       "id": "e29",
       "type": "paragraph",
       "page": 4,
-      "text": "Nearly all German airplanes,are designed for cross-country s  s  rns s s  s ans ans nne largest capacity of all). They are well suited to this purpose, since they combine large capacity with small fuei consumption.",
-      "ocr_confidence": 0.93
+      "text": "This monoplane type, which is strongly influenced by the glider, is represented by the Klemm L 25 and GMG II and in a lesser degree by the L 26 and. BFW M23. In contrast with these stand the biplanes with a considerably higher loading of the square of the span. The differences would be still more manifest if the airplanes were all in the sari1 load group."
     },
     {
       "id": "e30",
-      "type": "heading",
+      "type": "paragraph",
       "page": 4,
-      "text": "Their relative capacity is considerably greater in some cases",
-      "level": 2,
-      "ocr_confidence": 0.93
+      "text": "The German airplane specifications,* according to which the air-traffic ministry passes on new airplane types, indicate five stress groups which are classified, according to their use, in one or the other of the four employment groups."
     },
     {
       "id": "e31",
       "type": "paragraph",
       "page": 4,
-      "text": "(Continued from page 2) dec  s ns n  c  ven weight), G/b² is a satisfactory and obvious criterion for the sinking speed, i.e., the specific minimum power requirement of the airplane. On a biplane we must take, strictly speaking, not the span of the longer wing, but a value about 5% greater, which read      t s t se. *The 1928 Airplane Specifications, published by the D.V.L.",
-      "ocr_confidence": 0.93
+      "text": "Nearly all German airplanesare designed for cross-country flying (Load group P 3 is for carrying passengers and has the largest capacity of all). They are well suited to this purpose, since they combine large capacity with small fuel consumption."
     },
     {
       "id": "e32",
-      "type": "paragraph",
+      "type": "heading",
       "page": 4,
-      "text": "(Deutsche Versuchsanstalt für Luftfahrt) Berlin-Adlershof.",
-      "ocr_confidence": 0.93
+      "text": "Their relative capacity is considerably greater in some cases",
+      "level": 2
     },
     {
       "id": "e33",
-      "type": "page_header",
-      "page": 5,
-      "text": "N.A.C.A. Technical Memorandum No. 579",
-      "ocr_confidence": 0.93
+      "type": "paragraph",
+      "page": 4,
+      "text": "(Continued from page 2)"
     },
     {
       "id": "e34",
-      "type": "page_header",
-      "page": 5,
-      "text": "4",
-      "ocr_confidence": 0.93
+      "type": "paragraph",
+      "page": 4,
+      "text": "decreases with decreasing G/b 2 (increasing span for a given weight), G/'o2 is a satisfactoryand obvious criterion for the sinking speed, i.e., the specific minimum power requirement of the airplane. On a biplane we must take, strictly speaking, not the span of the longer wing, but a value about 5% greater, which reduces the value of G/b about 10% on the average,"
     },
     {
       "id": "e35",
       "type": "paragraph",
-      "page": 5,
-      "text": "than that of large commercial airplanes.* The BFW M23 has the tss t t  s s  onn sumption at cruising speed is no greater than that of a mediumsized automobile (6-l0 kg per l00 km at cruising speed with wellregulated carburetor). The cruising speed in still air is about 8g   n    s  n  n (75-87 mi./hr.). It is high enough to overcome a wind of 36 km (22 mi.) per hour without any considerable loss of time.",
-      "ocr_confidence": 0.93
+      "page": 4,
+      "text": "*The 1928 Airplane Specifictions, published by the D.V.L. (Deutsche Versuchsanstalt fur Luftfahrt) Berlin-Adlersho±'."
     },
     {
       "id": "e36",
-      "type": "paragraph",
+      "type": "page_header",
       "page": 5,
-      "text": "- n s  s    s s n tional Light Airplane Tour of Europe:of 6300 km (3915 mi.) over some geographically and meteorologically difficult regions (Jura, Alps, Karst) in 7† days. The successful German participants were the L 82, M 23, D 18, L 25, L 26, A 50, and RK 25. German airplanes won the first, third, fourth, and sixth prizes.",
-      "ocr_confidence": 0.93
+      "text": "NA.O.A. Technical Memorandum No. 579"
     },
     {
       "id": "e37",
-      "type": "paragraph",
+      "type": "page_header",
       "page": 5,
-      "text": "As regards maximum speed (Table I, line l5), two airplanes ae    ss     d wa    n     ed vertical engine in the well-formed fuselage, while that of the D 18 was due to the excellent aerodynamic construction of all its parts, despite the aerodynamically less favorable radial engine.with its cylinders obstructing the air flow. Both airplanes attained.their high cruising speed without greatly increasing their landing speed. The wing loading (Table I, line li), which reached by several other airplanes.",
-      "ocr_confidence": 0.93
+      "text": "4"
     },
     {
       "id": "e38",
       "type": "paragraph",
       "page": 5,
-      "text": "largely determines the landing speed, does not exceed the values *In comparing, it is to be remembered that some airplanes are admitted only to the S 4 class (school and simple stunts) or S 5 (highest stressed stunt flying).",
-      "ocr_confidence": 0.93
+      "text": "than that of large commercial airplaxles.* The BFW M23 has the greatest capacity with 53% of the flying weight. The fuel consumption at cruising speed is no greater than that of a mediumsized automobile (6-10 kg per 100 km at cruising speed with wellregulated carburetor). The cruising speed in still air is about 85% of the maximum speed given in Table I, mostly 120-140 km/h (75-87 mi./hr.). It is high enough to overcome a wind of 36 km (22 mi.) per hour without any considerable loss of time."
     },
     {
       "id": "e39",
-      "type": "page_header",
-      "page": 6,
-      "text": "N.A.C.A. Technical Memorandum No. 579",
-      "ocr_confidence": 0.92
+      "type": "paragraph",
+      "page": 5,
+      "text": "What such airplanes can do was shown by the 1929 International Light Airplane Tour of Europe' of 6300 km (3915 mi.) over some geographically and meteorologically difficult regions (Jura, Alps, Karst) in 7- days. The successful German participants were the L 82, M 23, D 18, L 25, L 26, A 50, and RK 25. German airplanes won the first, third, fourth, and sixth prizes."
     },
     {
       "id": "e40",
-      "type": "page_header",
-      "page": 6,
-      "text": "5",
-      "ocr_confidence": 0.92
+      "type": "paragraph",
+      "page": 5,
+      "text": "As regards maximum speed (Table I, line 15), two airplanes made particularly good records. The high speed of the RK 25 was largely due to the skillful installation of its air-cooled vertical engine in the well-formed fuselage, while that of the D 18 was due to the excellent aerodynamic construction of all its parts, despite the aerodynamically less favorable radial enginewith its cylinders obstructing the air flow. Both airplanes attained.their high cruising speed without greatly increasing their landing speed. The wing loding (Table I, line U), which reached by several other airplanes."
     },
     {
       "id": "e41",
       "type": "paragraph",
-      "page": 6,
-      "text": "s ) e  s  s s s t) lie between 4 and 9 minutes; and the ceilings between 3500 and 5000 meters (1l483 and l6404 feet). Worthy of special notice are the short take-off and landing runs and the.steep climbing a y   y  onys an which are accordingly especially suitable for landing on small - s e   s s  es prepared fields.",
-      "ocr_confidence": 0.92
+      "page": 5,
+      "text": "largely determines the landing speed, does not exceed the values *In comparing, it is to be ren-embered that some airplanes are admitted only to the S 4 class (school and simple stunts) or S 5 (highest stressed stunt flying)."
     },
     {
       "id": "e42",
-      "type": "paragraph",
+      "type": "page_header",
       "page": 6,
-      "text": "All these airplanes can be used with reduced load as training and sport airplanes (load group S 4). They, may be equipped, for this purpose, with a removable set of dual controls. They are being increasingly used in aviation schools and clubs for training beginners, for which they are excellently suited by their moderate landing speed (small danger of failure), but can also be used for learning and practicing simple stunts. The Eot ne  t o t t e  ns (group S 5) with a load of 230 kg (507 1b.). The A1batros L 79, corresponding to its special purpose as a high-performance stunt airplane, is classified only in this group.",
-      "ocr_confidence": 0.92
+      "text": "N.A.C.A. Technical Memorandusil N 0 . 579"
     },
     {
       "id": "e43",
-      "type": "paragraph",
+      "type": "page_header",
       "page": 6,
-      "text": "Table II gives the characteristics of the engines used on n n  oe n nt no foreign than from German sources. In recent years, however, in addition to the older Siemens and Halske engines, there have appeared various German engines in this power class, but only one of these, the Argus vertical engine with four hanging cylinders a  y      y tested.",
-      "ocr_confidence": 0.92
+      "text": "5"
     },
     {
       "id": "e44",
-      "type": "page_header",
-      "page": 7,
-      "text": "N.A.C.A. Technical Memorandum No. 579",
-      "ocr_confidence": 0.98
+      "type": "paragraph",
+      "page": 6,
+      "text": "The climbing times for the first 1000 meters (3280 feet) lie between 4 and 9 minutes and the ceilings between 3500 and 5000 meters (11483 and 16404 feet). Worthy of special notice are the short take-off and landing runs and the steep climbing angles, principally for airplanes of moderate wing loading, which are accordingly especially suitable for landing on small fields surrounded by o1bstacles and for forced landings on unprepared fields."
     },
     {
       "id": "e45",
-      "type": "page_header",
-      "page": 7,
-      "text": "6",
-      "ocr_confidence": 0.98
+      "type": "paragraph",
+      "page": 6,
+      "text": "All these airplanes can be used with reduced load as training and sport airplanes (load group S 4). They , may be equipped, for this purpose, with a renovable set of dual controls. They are being increasingly used. in aviation schools and clubs for training beginners, for which they are excellently suited by their moderate landing speed (small danger of failure), but can also be used for learning and practicing simple stunts. The Focke-Wulf S 24 is indeed suitable for unlimited stunt flying (group S 5) with a load of 230 kg (5b7 lb.). The Aibatros L 79, corresponding to its special purpose as a highperformance stunt airplane, is classified only in this group."
     },
     {
       "id": "e46",
       "type": "paragraph",
-      "page": 7,
-      "text": "As regards the cylinder arrangement, the vertical engine is gaining on the radial. The reciprocating two-cylinder engine of 20-30 hp has practically disappeared, despite its undeniable merits. It does not follow, however, that it may not yet reappear .i n connection with a further refinement of the airfoil system (e.g., in the direction of the backswept tailless airplane).",
-      "ocr_confidence": 0.98
+      "page": 6,
+      "text": "Table II gives the characteristics of the engines used on German light airplanes. Unfortunately more of these are from foreign than from German sources. In recent years, however, in addition to the older Siemens and Halske engines, there have appeared. various German engines in this power class, but only one of these, the Argus vertical engine with four hanging cylinders and a remarkably low, revolution speed, has been practically tested."
     },
     {
       "id": "e47",
-      "type": "paragraph",
+      "type": "page_header",
       "page": 7,
-      "text": "Reduction gears for the propeller have almost completely disappeared. The swifter airplanes can dispense with them without appreciable impairment of the propeller efficiency, when the engine offers but little resistance to the slipstream (as in the case of a well-cowled vertical engine). With the two-cylinder Mercedes engine, the large· slow-running propeller has done well in ascending and descending flight. It would probably work well also with the relatively rapid radial Salmson and Armstrong engines with their unfavorable ratio of propeller-disk area to the frontal area of the engine. Of course all these engines are air-cooled.",
-      "ocr_confidence": 0.98
+      "text": "N.AO.A. Technical Memorandum No. 579"
     },
     {
       "id": "e48",
-      "type": "paragraph",
+      "type": "page_header",
       "page": 7,
-      "text": "The long-debated question regarding the relative merits of the monoplane and biplane had not been settled in l929. Of our twelve porticipants in the Light Airplane Tour, five were biplanes which were designed principally for school and sport uses. Five of the seven monoplanes had low wings, which may surprise mar ns  nns os s s os the technical point of view, as demonstrated by tests with models and experiments with high-performance gliders. Practical consos  s cos ccoons one structural.union of the wing and fuselage is simpler; the seats are more readily accessible and are easier to leave with parahu       ce of the ground and, lastly, in a crash, the wing takes the principal shock and affords a considerable degree of protection to the occupants.",
-      "ocr_confidence": 0.98
+      "text": "6"
     },
     {
       "id": "e49",
-      "type": "page_header",
-      "page": 8,
-      "text": "N.A.C.A. Technical Memorandum No. 579",
-      "ocr_confidence": 0.93
+      "type": "paragraph",
+      "page": 7,
+      "text": "As regards the cylinder arrangement, the vertical engine is gaining on the radial, The reciprocating two-cylinder engine of 20-30 hp has practically diappeaed-, despite its undeniable merits. It does not follow, however, that it may not yet reappear .i ii connection with a further refinement of the airfoil system (e.g., in the direction of the backswept tailless airp1ane."
     },
     {
       "id": "e50",
-      "type": "page_header",
-      "page": 8,
-      "text": "7",
-      "ocr_confidence": 0.93
+      "type": "paragraph",
+      "page": 7,
+      "text": "Reduction gears for the propeller have almost completely disappeared. The swifter airplanes can dispense with them without appreciable impairment of the propeller efficiency, when the engine offers but little resistance to the slipstream (as in the case of a well-cowled vertical engine). With the two-cylinder Mercedes engine, the large slow-running propeller has dane well in ascending and descending flight. It would probably work well also with the relatively rapid radial Saimson and Armstrong engines with their unfavorable ratio of propeller-disk area to the frontal area of the engine. Of course all these engines are air-cooled."
     },
     {
       "id": "e51",
       "type": "paragraph",
-      "page": 8,
-      "text": "The numerical ratio existing between monoplanes and biplanes also existed between the cantilever and externally braced types of wing construction. In general the biplanes were braced, but the two swiftest airplanes (D 18 and RK 25) had cantilever wings.",
-      "ocr_confidence": 0.93
+      "page": 7,
+      "text": "The long-debated question regarding the relative merits 0±' the monoplane and biplane had not been settled in 1929. Of our twelve participants in tiie Light Airplane Tour, five were biplanes which were designed principally for school and sport uses. Five of the seven monoplanes had low wings, which may surprise many, since high-wing monoplanes axe appreciably superior from the technical point of view, as demonstrated by tests with models and experiments with high-performance gliders. Practical considerations doubtless constituted the deciding factor. The struotural.union of the wing and fuselage is simpler; the seats are more readily accessible and. are easier to leave with paxachutes. The landing is appreciably improved by the influence of the ground and., lastly, in a crash, the wing takes the principal shock and affords a considerable degree of protection to the occupants."
     },
     {
       "id": "e52",
-      "type": "paragraph",
+      "type": "page_header",
       "page": 8,
-      "text": "wond  d  d   d oe (Figs. l8-2l). All-wood construction of the wings and fuselage, as in the M 23, D 18, L 25, L 26, GMG II, and L 2e, has the advantage that the aviator can make most of the necessary repairs without the aid of an experienced welder or the carrying of a welding outfit. On the other hand, a steel-tubing fuselage has the advantage in the event of a break, because the high-resistance steel still holds after buckling, while the wood simply goes to pieces.",
-      "ocr_confidence": 0.93
+      "text": "N.A.C.A. Technical Memorandum No. 579"
     },
     {
       "id": "e53",
-      "type": "paragraph",
+      "type": "page_header",
       "page": 8,
-      "text": "Figure l8 shows the structure and attachment fittings of a wing of the BFW M 23. It is of the Messerschmitt type with the",
-      "ocr_confidence": 0.93
+      "text": "7"
     },
     {
       "id": "e54",
-      "type": "page_header",
-      "page": 9,
-      "text": "N.A.C.A. Technical Memorandum No: 579",
-      "ocr_confidence": 0.91
+      "type": "paragraph",
+      "page": 8,
+      "text": "The numerical ratio existing between monoplanes and biplanes also existed between the cantilever and externally braced types of wing construction. In general the biplanes were braced, but the two swiftest airplanes (D 18 and RK 25) had cantilever wings."
     },
     {
       "id": "e55",
-      "type": "page_header",
-      "page": 9,
-      "text": "8",
-      "ocr_confidence": 0.91
+      "type": "paragraph",
+      "page": 8,
+      "text": "Wood and mixed construction were about equally in evidence (Figs. 18-21). All-wood construction of the wings and fuselage, as in the M 23, D 18, L 25, L 26, GMG II, and L 2e, has the advantage that the aviator can make most of the necessary repairs without the aid of an experienced welder or the carrying of a welding outfit. On the other hand, a steel-tubing fuselage has the advantage in the event of a break, because the high-resistance steel still holds after buckling, while the wood simply goes to pieces."
     },
     {
       "id": "e56",
       "type": "paragraph",
-      "page": 9,
-      "text": "a",
-      "ocr_confidence": 0.91
+      "page": 8,
+      "text": "Figure 18 shows the structure and attachment fittings of a wing of the BFW M 23. It is of the Messerschmitt type with the"
     },
     {
       "id": "e57",
-      "type": "paragraph",
+      "type": "page_header",
       "page": 9,
-      "text": "main. spar at the point of maximum thickness of the wing and an auxiliary spar, at which the plywood covering ends.",
-      "ocr_confidence": 0.91
+      "text": "N.A.C.A. Technical Memorandum No. 579"
     },
     {
       "id": "e58",
-      "type": "paragraph",
+      "type": "page_header",
       "page": 9,
-      "text": "iie ne  e e e e e s e nrs",
-      "ocr_confidence": 0.91
+      "text": "8"
     },
     {
       "id": "e59",
       "type": "paragraph",
       "page": 9,
-      "text": ": Figure 20 shows the fuselage framework of the Darmstadt",
-      "ocr_confidence": 0.91
+      "text": "a"
     },
     {
       "id": "e60",
       "type": "paragraph",
       "page": 9,
-      "text": "hr re r ns r  ner n rn Figure 21 shows the fuselage of the Junkers A 50.",
-      "ocr_confidence": 0.91
+      "text": "mai-n. spar at the point of maximum thickness the wing and an auxil,iary spar, at which the plyWood covering ends."
     },
     {
       "id": "e61",
       "type": "paragraph",
       "page": 9,
-      "text": "As regards endurance and weathering, the all-metal type Bra ass n a aa (ns  naa) ht r r her t rt st o  o oons n os oo et e  d  d d b  bo",
-      "ocr_confidence": 0.91
+      "text": "Figure 19 shows the structure of a Junkers A 50 wing."
     },
     {
       "id": "e62",
       "type": "paragraph",
       "page": 9,
-      "text": "Aside from the single-seat stunting airplane L 79 and the L II, all the airplanes had two open cockpits in tandem. This very natural arrangement on a small school or sport plane .is not ideal for a passenger, who would gladly be protected from the wind and weather, and be able to converse with the pilot. For this reason, small airplanes with enclosed seats are becoming more general in other countries, especially in America. In Germany only the Arado factory has made a touring airplane (L II) with two sheltered seats abreast, which shows great progress in this respect. Such an arrangement would also be advantageous on a school plane for beginners.",
-      "ocr_confidence": 0.91
+      "text": "Figure 20 shows the fuse1ge framework of the Daimstadt"
     },
     {
       "id": "e63",
       "type": "paragraph",
       "page": 9,
-      "text": "In what follows, we will consider only the most important details with special attention to those differing from the usual types.",
-      "ocr_confidence": 0.91
+      "text": "D 18. The two upward projectthg frames support the upper wing. Figure 21 shows the fuselage of the Junkers A 50."
     },
     {
       "id": "e64",
-      "type": "page_header",
-      "page": 10,
-      "text": "N.A.C.A. Technical Memorandum No. 579",
-      "ocr_confidence": 0.97
+      "type": "paragraph",
+      "page": 9,
+      "text": "As regards endurance and weathering, the all-metal type (Junkers A 50) naturally has the advantage. Expeieiice has shown, however, that'well-cared-for wooden airplanes often last so long, even in strenuous operation, that they become obsolete before, they have to be discarded because of deterioration."
     },
     {
       "id": "e65",
-      "type": "page_header",
-      "page": 10,
-      "text": "6",
-      "ocr_confidence": 0.97
+      "type": "paragraph",
+      "page": 9,
+      "text": "Aalde from the single-seat stunting airplane L 79 and the L II, all the airplanes had two open cockpits in tandem. This very natural arrangement on a small school or sport plane is not ideal for a passenger, who would gladly be protected from the wind and weather and be able to converse with the pilot. For this reason, small airplanes with enclosed seats are becoming more general in other countries, especially in America. In Germany only the Arado factory has made a touring airplane CL Ii) with two sheltered seats abreast, which shows great progress in this respect. Such an arrangement would also be advantageous on a school plane for beginners."
     },
     {
       "id": "e66",
       "type": "paragraph",
-      "page": 10,
-      "text": "The monoplanes with wooden wings adhered to the usual mode of construction, with one or two spars for absorbing the bending moments and a covering of plywood over the ribbed framework e   r  a exr   ad ity. In conjunction with a. strongly tapered contour, this type of construction largely meets the requirements as regards strength and protection against vibrations, which constitute the most difficult problem of the cantilever wing.*",
-      "ocr_confidence": 0.97
+      "page": 9,
+      "text": "In what follows, we will consider only the most important details with special attenti.on to those differing from the usual types."
     },
     {
       "id": "e67",
-      "type": "paragraph",
+      "type": "page_header",
       "page": 10,
-      "text": "Instead of the ordinary cambered wing section, symmetrical or slightly S-shaped profiles are being increasingly used (L 79, L 82, L II, S 24, RK 25). In comparison with the usual forms, they have a somewhat poorer fineness ratio and smaller maximum lift but, at all normal angles of attack, the lift remains about the same. This considerably reduces the static stresses of the whole airfoil system in gliding and diving flight and improves the stability and controllability under otherwise like conditions (type of airplane, location of center of gravity).",
-      "ocr_confidence": 0.97
+      "text": "N.A.C.A. Technical Memorandum No. 579"
     },
     {
       "id": "e68",
-      "type": "paragraph",
+      "type": "page_header",
       "page": 10,
-      "text": "The forward location of the center of pressure of this wing section (about l/4 of the chord) renders it possible, on an unstaggered biplane, to place the whole load on the front spar : and omit the bracing of the rear-spar area. Torsional stresses o       n    act is taken advantage of by the L 79 and S 24, while the L 2e has the lower wing and the rear spar of the upper wing, which is free from torsional moments with cambered wing sections, at least in normal flight. Such a statically determinate structure with a clearly defined power curve enables a very accurate dimensioning of the structureal members. Despite the lack of torsional stresses, the wing must have a certain degree of torsional rigidity with respect to vibrations. This is obtained by reinforcing each wing in its plane, which is never accomplished in German airplanes by internal bracing, but by a onesided boarding of the wing between the spars.",
-      "ocr_confidence": 0.97
+      "text": "9"
     },
     {
       "id": "e69",
       "type": "paragraph",
       "page": 10,
-      "text": "the usual wing stagger with bracing between the front spar of *Compare the corresponding experiments of the D.V.L. (Deutsche Versuchsanstalt für Luftfahrt), a short report of which appeared in V.D.I. 1930, page 25.",
-      "ocr_confidence": 0.97
+      "text": "The monoplanes with wooden wings adhered to the usual mode of construction, with one or two spars for absorbing the bending moments and a covering of plywood over the ribbed framework back to the rear spar to afford the necessary torsional rigidity. In conjunction with a strongly tapered contour, this type of construction largely meets the requirements as regards strength and protection against vibrations, which constitute the most difficult problem of the cantilever wing.*"
     },
     {
       "id": "e70",
-      "type": "page_header",
-      "page": 11,
-      "text": "N.A.C.A. Technical Memorandum No. 579",
-      "ocr_confidence": 0.97
+      "type": "paragraph",
+      "page": 10,
+      "text": "Instead of the ordinary cambered wing section, symmetrical or slightly S-shaped profiles are being increasingly ued (L 79, L 82, L II, S 24, RK 25). In comparison with the usual forms, they have a somewhat poorer fineness ratio and smaller maximum lift but, at all normal angles of attack, the lift remains about the same. This considerably reduces the static stresses of the whole airfOil system in gliding and diving flight and improves the stability and controllability under otherwise like conditions (type of airplane, location of center of gravity)."
     },
     {
       "id": "e71",
-      "type": "page_header",
-      "page": 11,
-      "text": "10",
-      "ocr_confidence": 0.97
+      "type": "paragraph",
+      "page": 10,
+      "text": "The forward location of the center of pressure of this wing section (about 1/4 of the chord) renders it possible, on an Unstaggered biplane, to place the whole load on the front spar and omit the bracing of the rear-sar area. Torsional stresses are not then produced in the wing by the air forces. This fact is taken advantage of by the L 79 and S 24, while the L 2e has the lower wing and the rear spar of the upper wing, which is free from torsional moments with cambered wing sections, at least in normal flight. Such a statically determinate structure with a clearly defined power curve enables a very accurate dimensioning of the structureal members. Despite the lack of torsional stresses, the wing must have a certain degree of torsional rigidity with respect to vibrations. This is obtained by reinforcing each wing in its plane, which is never accomplished in German airplanes by internal bracing, but by a onesided boarding of the wing between the spars."
     },
     {
       "id": "e72",
       "type": "paragraph",
-      "page": 11,
-      "text": "The fittings for assembling the parts are nearly alwoys made of welded sheet stecl. It is not possible by any·other method to make complex joints with so little material. Good examples of such joints are shown in Figures 22, 23, and 25. Figures 22 and 23 show fittings for attaching the lower wing of the D 18 to the fuselage. Figure 25 represents a hinge joint on the top of the rear wing spar of the Phoenix L 2e (Cf. Figs. n 1 s  n  ns s s 1on The fittings are welded sheet steel.",
-      "ocr_confidence": 0.97
+      "page": 10,
+      "text": "the usual wing stagger withbracing between the front spar of *Compare the corrsponding experiments of the D.V.L. (Deutsche Versuchsanstalt fur Luftfahrt), a short report of which appeared in V,D.I. 1930, page 25."
     },
     {
       "id": "e73",
-      "type": "paragraph",
+      "type": "page_header",
       "page": 11,
-      "text": "The middle portion of the fuselage is very highly stressed. ' r ' r  ns     tt landing gear and tail surfaces. It is weakened by cutaways for the cockpits. Hence it has a strong steel-tubing framework with rigid diagonal braces, while the adjoining rear portion of the fuselage is of simpler construction with wire bracing.",
-      "ocr_confidence": 0.97
+      "text": "N.A.C.A. Technical Memorandum No. 579"
     },
     {
       "id": "e74",
       "type": "page_header",
-      "page": 12,
-      "text": "N.A.C.A. Technical Memoranduin No. 579",
-      "ocr_confidence": 0.93
+      "page": 11,
+      "text": "10"
     },
     {
       "id": "e75",
-      "type": "page_header",
-      "page": 12,
-      "text": "11",
-      "ocr_confidence": 0.93
+      "type": "paragraph",
+      "page": 11,
+      "text": "The fittings foi assembling the parts are nearly always made of welded sheet stel. It is not, possible by any other method to make complex joints with so little material. Good examples of such joints are shown in Figures 22, 23, and 25. Figures 22 and 23 show fittings for attaching the lower wing of the D 18 to the fuselage. Figure 25 represents a hinge joint on the top of the rear wing spar 0±' the Phoenix L 2e (Cf. Figs. 15 and 16). It serves for folding the wing for transportation. The fittings are welded sheet steel."
     },
     {
       "id": "e76",
       "type": "paragraph",
-      "page": 12,
-      "text": "The boarded wooden fuselage, whose structural advantages have already been touched upon, is at a disadvantage in comparison with the steel-tubing fuselage as regards accessibility to the inside spaces and controls. The accessibility of the fabriccovered. steel-tubing fuselage has been still further improved tf e  ne t s   s e  s ne removable piece from.the rear cockpit to the tail. The same o     d e oed   n framework with cross wires instead of plywood, a. method which has not been employed, however, on any German airplane.",
-      "ocr_confidence": 0.93
+      "page": 11,
+      "text": "The middle portion of the fuselage is very highly stressed. It is subjected to the stresses from the wings, power plant, landing gear and tail surfaces. It is weakened b.y cutaways for the cockpits. Hence it has a strong steel-tubing framework with rigid diagonal braces, while the adjoining rear portion of the fuselage is of simpler construction with wire bracing."
     },
     {
       "id": "e77",
-      "type": "paragraph",
+      "type": "page_header",
       "page": 12,
-      "text": "There is great diversity in the construction of the tail surfaces. On wooden airplanes the fixed, and generally the movable, tail surfaces are also wooden (plywood box construction). hr ms  n m nn s mr  n no on some airplanes of mixed construction where, however, welded steel-tubing and riveted light-metal movable tail surfaces are also used, sometimes both on the same airplane.* Roller bearnr  s n e ss as n   ds",
-      "ocr_confidence": 0.93
+      "text": "N.A.C.A. Technical Memoi'andurn N0 . 579"
     },
     {
       "id": "e78",
-      "type": "paragraph",
+      "type": "page_header",
       "page": 12,
-      "text": "On some types (L 79, L 82, L II) the elevators are placed high for aerodynamic reasons and for protection against injury (Fig. 27).",
-      "ocr_confidence": 0.93
+      "text": "11"
     },
     {
       "id": "e79",
       "type": "paragraph",
       "page": 12,
-      "text": "Figure 26 is a diagram of the control lines of the Arado",
-      "ocr_confidence": 0.93
+      "text": "The boarded wooden fuselage, whose structural advantages have already been touched upon, is at a disadvantage in comparison with the steel-tubing fuselage as regards accessibility to the inside spaces and controls. The accessibility of the fabriccovered, steel-tubing fuselage has been still further improved in various types 'by making the top of the fuselage in a single removable piece from the rear cockpit to the tail. The same could be done with a plywood fuselage by bracing the top of the framework with cross wires itead of plywood, a method which has not been employed, however, on any German airplane."
     },
     {
       "id": "e80",
-      "type": "heading",
+      "type": "paragraph",
       "page": 12,
-      "text": "L II. They are not drawn to scale.",
-      "level": 2,
-      "ocr_confidence": 0.93
+      "text": "There is great diversity in the construction of the tail surfaces. On wooden airplanes the fixed, and generally the movable, tail surfaces are also wooden (plywood box construction. This manner of making the movable tail surfaces is also found on some airplanes of mixed construction where, however, welded steel-tubing and riveted light-metal movable tail surfaces are also used, sometimes both on the same airplane.* Roller bearings for the movable tail surfaces are also used (Arado, Junkers)."
     },
     {
       "id": "e81",
       "type": "paragraph",
       "page": 12,
-      "text": "-_________________",
-      "ocr_confidence": 0.93
+      "text": "On some types (L 79, L 82, L Ii) the elevators are placed high for aerodynamic reasons and for protection against injury (Fig. 27)."
     },
     {
       "id": "e82",
       "type": "paragraph",
       "page": 12,
-      "text": "*The Raab-Katzenstein airplanes have elektron ailerons. The ey er ous use of elektron for cowlings, etc.",
-      "ocr_confidence": 0.93
+      "text": "Figure 26 is a diagram of the control lines of the Arado"
     },
     {
       "id": "e83",
-      "type": "page_header",
-      "page": 13,
-      "text": "N.A.C.A. Technical Memorandum No. 579",
-      "ocr_confidence": 0.89
+      "type": "heading",
+      "page": 12,
+      "text": "L II. They are not drawn to scale.",
+      "level": 2
     },
     {
       "id": "e84",
-      "type": "page_header",
-      "page": 13,
-      "text": "12",
-      "ocr_confidence": 0.89
+      "type": "paragraph",
+      "page": 12,
+      "text": "-_________________"
     },
     {
       "id": "e85",
       "type": "paragraph",
-      "page": 13,
-      "text": "Figure 2? shows the tail of the Arado L II with its hori- nttt nt n rd  ot n s      o der below the elevator. The tail skid is fitted with rubber compression springs. Nearly all airplanes have stabilizers - mt t t t  t t t  est due to the smallness of the moments.",
-      "ocr_confidence": 0.89
+      "page": 12,
+      "text": "*The Raab-Katzenstein airplanes have elekton ailerons. The light weight of the RK 25 is largely due, however, to the generous use of elektron for cowlings, etc."
     },
     {
       "id": "e86",
-      "type": "paragraph",
+      "type": "page_header",
       "page": 13,
-      "text": "a t    n n n  tt faces for reducing the control force. The shifting of the axes and outside balancing surfaces are used together. Due to the smallness of the moments, the balancing is usually dispensed with, however.",
-      "ocr_confidence": 0.89
+      "text": "N.A.C.A. Technical Memorandum No. 579"
     },
     {
       "id": "e87",
-      "type": "paragraph",
+      "type": "page_header",
       "page": 13,
-      "text": "e   t   t   a The stabilizer, elevator and rudder all have the form of ply-   s a     n min tube.",
-      "ocr_confidence": 0.89
+      "text": "12"
     },
     {
       "id": "e88",
       "type": "paragraph",
       "page": 13,
-      "text": "In general the controllability may be pronounced excellent, the reaction times being very small, due to the favorable ratio of the flight speed to the length of the airplane. Such airplanes are therefore well suited to stunt flying.",
-      "ocr_confidence": 0.89
+      "text": "Figure 27 shows the tail of the Arado L II with its horizontal empennage elev.atedto protect it from injury. Its spini4ng characteristics are improved by the extension of the rudder below the elevator. The tail skid is fitted with rubber compression springs. Nearly all airplanes have stabilizers which can be adjusted. on the ground to various loads. Adjustment during flight is not necessary on these light airplanes, due to the smallness of the moments."
     },
     {
       "id": "e89",
       "type": "paragraph",
       "page": 13,
-      "text": "\"Flying means landing.\" This aphorism applies not only to the pilot, but also to the airplane. An airplane is of no value without a good landing gear, which can stand hard landings withn s   o able springs.",
-      "ocr_confidence": 0.89
+      "text": "There is no uniformity in balancing the movable tail surfaces for reducing the control force. The shifting of the axes and outside balancing surfaces are used together. Due to the smallness of the moments, the balancing is usually dispensed with, however."
     },
     {
       "id": "e90",
-      "type": "page_header",
-      "page": 14,
-      "text": "N.A.C.A. Technical Memorandum No. 579",
-      "ocr_confidence": 0.96
+      "type": "paragraph",
+      "page": 13,
+      "text": "Figure 28 shows the tail of the Raab-Katzenstein RK 25. The stabilizer, elevator and. rudder all have the form of plywood box girders. The orientable spring tail skid is a d.uralumm tube."
     },
     {
       "id": "e91",
-      "type": "page_header",
-      "page": 14,
-      "text": "13",
-      "ocr_confidence": 0.96
+      "type": "paragraph",
+      "page": 13,
+      "text": "In general the controllability may be pronounced excellent, the reaction times being very small, due to the favorable ratio of the flight speed to the length of the airplane. Such airplanes are therefore well suited to stunt flying."
     },
     {
       "id": "e92",
       "type": "paragraph",
-      "page": 14,
-      "text": "In the general arrangement of the landing gear, the divided axle hinged to the fuselage or auxiliary strut with supports from the fuselage or wings has been largely adopted. Due to the small diameter of the wheel, it has very desirable clearance for landing on marshy or rough grounã. The springs can then be removed from the points of junction with the wheels, where they are structurally undesirable and obstruct the air flow, and placed in struts where they can be well cowled, or at their upper point of attachment (Fig. 31). · This arrangement, which proved very successful on the Daimler airplanes of l923, entirely removes the springs from the air stream, Figure 3l shows e r r   r  r  a e fuselage of the RK 25. The springs offer no air resistance and are easily accessible on removing the fuselage covering. Figure.30 shows a shock absorber of the Junkers A 50, the springs being made of rubber cable.",
-      "ocr_confidence": 0.96
+      "page": 13,
+      "text": "11 Fiying means landing. This aphorism applies not only to the pilot, but also to the airplane. An airplane is of no value without a good landing gear, which can stand hard landings without breaking or bouncing, with indestructible or easily replaceable springs."
     },
     {
       "id": "e93",
-      "type": "paragraph",
+      "type": "page_header",
       "page": 14,
-      "text": "The springs are made exclusively of rubber, either in the form of cables or compression blocks. Figure 29 shows a shock absorber of the Arado L II, which uses rubber cable, either in a continuous form or in separate rings or loops. It is well faired and easily accessible. It is yielding at first, but requires a long stroke. This is desirable, however, in any case. cc   k     on stroke.",
-      "ocr_confidence": 0.96
+      "text": "N.A.C.A. Technical Memorand.um No. 579"
     },
     {
       "id": "e94",
-      "type": "paragraph",
+      "type": "page_header",
       "page": 14,
-      "text": "ne  e  e   x  ce spring consists of rubber compression disks with interposed metal disks, which increase the shock absorption by their fricit     b  rube   e buffers.",
-      "ocr_confidence": 0.96
+      "text": "13"
     },
     {
       "id": "e95",
-      "type": "page_header",
-      "page": 15,
-      "text": "NA.C.A. Technical Memorandum No. 579",
-      "ocr_confidence": 0.98
+      "type": "paragraph",
+      "page": 14,
+      "text": "In the general arrangement of the landing gear, the divided axle hinged to the fuselage or auxiliary strut with supports from the fuselage or wings has been largely adopted. Due to the small diieter of the wheel, it has very desirable clearance for landing on marshy or rough ground. The springs can then be removed from the points of junction with the wheels, where they are structurally undesirable and obstruct the air flow, and placed in struts where they can be well cowled, or at their upper point of attachment (Fig. 31). This arrangement, which proved very successful on the Daimler airplanes of 1923, entirely removes the springs from the air strearn, Figure 31 shows the landing-gear springs and. the junction of the wing in the fuselage of the RK 25. The springs offer no air resistance and are easily accessible on removing the fuselage covering. Figure30 shows a shock absorber of the Junkers 50, the springs being made of rubber cable."
     },
     {
       "id": "e96",
-      "type": "page_header",
-      "page": 15,
-      "text": "14",
-      "ocr_confidence": 0.98
+      "type": "paragraph",
+      "page": 14,
+      "text": "The springs are made exclusively of rubber, either in the form of cables or compression blocks.. Figure 29 shows a shock absorber of the Arado L II, which uses rubber cable, either in a continuous form or in separate rings or loops. It is well faired and easily accessible. It is yielding at first, but requires a long stroke. This is desirable, however, in any case. The secret of success of riiany a shock absorber lies in its long stroke."
     },
     {
       "id": "e97",
       "type": "paragraph",
-      "page": 15,
-      "text": "The tail skid, which is greatly stressed in every landing and in curvilinear taxying, has recently received much attention. It is generally made orientable in every direction, or so constructed as not to be affected by lateral forces. Figure 33 shows the tail skid of the Albatros L 82. The shoe is wide and has rubber compression springs.",
-      "ocr_confidence": 0.98
+      "page": 14,
+      "text": "Figure 32 represents the shock absorber of the D 18. The spring consists of rubber compIession disks with interposed metal disks, which increase the shock absorption by their friction with the rubber. The down stroke is limited by two rubber buffers."
     },
     {
       "id": "e98",
-      "type": "paragraph",
+      "type": "page_header",
       "page": 15,
-      "text": "The wooden tail skid is often replaced by a welded steel skid - Junkers, Klemm and Raab-Katzenstein even using cast elektron, which is very strong in comparison with the other light metals. The lower end of such a skid is protected from wear by a replaceable steel plate.",
-      "ocr_confidence": 0.98
+      "text": "N.A,C.A. Technical Memorandum No. 579"
     },
     {
       "id": "e99",
-      "type": "paragraph",
+      "type": "page_header",
       "page": 15,
-      "text": "Wheel brakes for shortening the landing run, which are now much in demand for commercial airplanes, appear only on the L 26, where they are operated by special pedals attached to the rudder pedals. With the aid of these brakes, the airplane can be turned almost on the spot. The engine can also be allowed to run at full speed while the airplane is held at a standstill without outside aid. These are great advantages in landing on small fields.",
-      "ocr_confidence": 0.98
+      "text": "14"
     },
     {
       "id": "e100",
       "type": "paragraph",
       "page": 15,
-      "text": "Lastly, the airplanes M 23, L 25, L 26, and A 50 were also equipped with floats whose flat bottoms enable taking off from quiet water even under heavy loads. Since the exchange of the landing gears and floats is effected without much trouble, the utility of these airplanes is thus greatly increased.",
-      "ocr_confidence": 0.98
+      "text": "The tail skid, which is greatly stressed in every landing and in curvilinear taxying, has recently received much attention. It is generally made orientable in every direction, or so constructed as not to be affected by lateral forces. Figure 33 shows the tail skid of the Alb.tros L 82. The shoe is wide and has rubber compression springs."
     },
     {
       "id": "e101",
-      "type": "page_header",
-      "page": 16,
-      "text": "N.A.C.A. Technical Memorandum No. 579",
-      "ocr_confidence": 0.94
+      "type": "paragraph",
+      "page": 15,
+      "text": "The wooden tail skid is often replaced by a velded steel skid - Junkers, Klemm and Raab-Katzenstein even using cast elektron, which is very strong in comparison with the other light metals. The lowei end of such a skid is protecced from wear by a replaceable steel plate."
     },
     {
       "id": "e102",
-      "type": "page_header",
-      "page": 16,
-      "text": "15",
-      "ocr_confidence": 0.94
+      "type": "paragraph",
+      "page": 15,
+      "text": "Wheel brakes for shortening the landing run, which are now much in demand for commercial airplanes, appear only on the L 26, where they are operated by special pedals attached to the rudder pedals. With the aid of these brakes, the airplane can be turned almost on the spot. The engine can also be allowed to run at full speed while the airplane is held at a standstill without outside aid. These are great advantages in landing on small fields."
     },
     {
       "id": "e103",
       "type": "paragraph",
-      "page": 16,
-      "text": "With the exception of the A 50, the engines are mounted exclusively on welded steel-tubing frames, which are removable in some instances. Riveted and bolted girders have entirely disappeared, since they cannot permanently withstand the vibrations without loosening. It has been found that a properly made and dimensioned weld, in which secondary stresses are avoided, is especially favorable in the case of alternating compressive and tensile stresses, since it forms a perfectly homogeneous union.",
-      "ocr_confidence": 0.94
+      "page": 15,
+      "text": "Lastly, the airplanes M 23, L 25, L 26, and A 50 were also equipped with floats whose flat bottoms enable taking off from quiet water even under heavy lóad. Since the exbhange of the landing gears and floats is effected without much trouble, the utility of these airplanes thus greatly increased."
     },
     {
       "id": "e104",
-      "type": "paragraph",
+      "type": "page_header",
       "page": 16,
-      "text": "Devices for starting the engine from the pilot's seat are being increasingly used. These starters gave an especially good account of themselves in the Light Airplane Tour of Europe. It is usually a Bosch hand starter, such as used on large airplanes, or some more or less simple device.(crank, toothed segment and pnt t n  t n n n   ct starting. The starter and wheel brakes make the pilot largely independent of outside aid.",
-      "ocr_confidence": 0.94
+      "text": "NIA.C.AS Technical Memorandum No. 579"
     },
     {
       "id": "e105",
-      "type": "paragraph",
+      "type": "page_header",
       "page": 16,
-      "text": "With three exceptions (the L 79, A 50, RK 25), the fuel was tet t t    t t te t  re sr  r  r   r r m aor r r n e   s  s o  o o this Junkers low-wing monoplane, the fuel tank in the wing is lower than the engine.",
-      "ocr_confidence": 0.94
+      "text": "15"
     },
     {
       "id": "e106",
-      "type": "page_header",
-      "page": 17,
-      "text": "N.A.C.A. Technical Memorandum No. 579",
-      "ocr_confidence": 0.94
+      "type": "paragraph",
+      "page": 16,
+      "text": "With the exception of the A 50, the eilgines are mounted exclusively on welded steel-tubing frames, which are removable in some instances. Riveted and bolted girders have entirely disappeared, since they cannot permanently withstand the vibrations without loosening. It has been found that a properly made and dimensioned weld, in which secondary stresses are avoided, is especially favora'ole in the case of alternating contpresslye and tensile stresses, since it forms a perfectly homogeneOUS UiliOfl."
     },
     {
       "id": "e107",
-      "type": "page_header",
-      "page": 17,
-      "text": "16",
-      "ocr_confidence": 0.94
+      "type": "paragraph",
+      "page": 16,
+      "text": "Devices for starting the engine from the pilot's seat are being increasingly used. These starters gave an especially good account of themselves in the Light Airplane Tour of Europe. It is usually a osch hand starter, such as used. on large airplanes,. or some more or less simple device (crank, toothed segment and pinion on the engine haft with tension cable, etc.) for direct starting. The starter and wheel brakes rnak the pilot largely independent Qf outside aid."
     },
     {
       "id": "e108",
       "type": "paragraph",
-      "page": 17,
-      "text": "Figure 34 shows the front end of the fuselage and the cockpit of the Arado L II. The seat is perfectly protected from the wind. The vertical engine affords good visibility and slight air resistance. The framework is of ideal simplicity, which -e  ee e e e  e e e e sorption of framework stresses.",
-      "ocr_confidence": 0.94
+      "page": 16,
+      "text": "With three exceptions (the L 79, A 50, RX 25), the fuel was delivered to the engine by the force of gravity, than which there is no simpler nor surer method. The L 79 and RK 25 have pumps to return the overflow. The A50 rsquires a pump because, in this Junkers low-wing monoplane, the fuel tank in the wing is lower than the engine."
     },
     {
       "id": "e109",
-      "type": "paragraph",
+      "type": "page_header",
       "page": 17,
-      "text": "Figure 35 shows the engine mount of the Focke-Wulf S 24. It is characterized by steel-tubing supports with easy accessibility to the auxiliary apparatus, pipes and rods behind the engine.",
-      "ocr_confidence": 0.94
+      "text": "N.A.C.A. Technical Memorandum No. 579"
     },
     {
       "id": "e110",
-      "type": "paragraph",
+      "type": "page_header",
       "page": 17,
-      "text": "-e e e e  e e  s  n gine on the GMG II. An engine so symmetrically arranged about the propeller shaft is excellently adapted to the streamline nn   nes t netne nt n ne been tried out.",
-      "ocr_confidence": 0.94
+      "text": "16"
     },
     {
       "id": "e111",
       "type": "paragraph",
       "page": 17,
-      "text": "Figure 37 shows the cockpit of the Junkers A 50. The operating levers (throttle on the left, fuel pump on the right) and the instruments are well arranged. Note the arm rests.",
-      "ocr_confidence": 0.94
+      "text": "Figure 34 shows the front end of the fuselage and the cockpit of the Arado L II. The seat is perfectly protected from the wind, The vertical engine affords good. visibility and slight air resistance. The framework is of ideal simplicity, which was made possible by utilizing the engine housir!g for the absorption of framework stresses."
     },
     {
       "id": "e112",
       "type": "paragraph",
       "page": 17,
-      "text": "The question of stowing and transportation is a very practical one for an airplane owner. When not in use, an airplane should not require much space. This is especially desirable when landing away from home. In case of engine failure, it nd n d  d n d n onne quire but a few minutes to fold or unfold and make ready for flight and should not require many tools.",
-      "ocr_confidence": 0.94
+      "text": "Figure 35 shows the engine mount of the Focke-Wulf S 24. It is characterized by steel-tubing supports with easy accessibility to the auxiliary apparatus, pipes and rods behind the engine."
     },
     {
       "id": "e113",
-      "type": "page_header",
-      "page": 18,
-      "text": "N.A.C.A. Technical Memorandum No. 579",
-      "ocr_confidence": 0.95
+      "type": "paragraph",
+      "page": 17,
+      "text": "Figure 36 shows the installation of the 40 hp Statax engine on the GMG II. A engine so symmetrically arranged about the propeller shaft is excellently adapted. to the streamline shape of the fuselage. Unfortunately, this engine has not yet been tried out."
     },
     {
       "id": "e114",
-      "type": "page_header",
-      "page": 18,
-      "text": "17",
-      "ocr_confidence": 0.95
+      "type": "paragraph",
+      "page": 17,
+      "text": "Figure 37 shows the cockpit of the Junkers A 50. The operating levers (throttle on the left, fuel pump on the right) and. the instruments are well arranged. Note the arm rests."
     },
     {
       "id": "e115",
       "type": "paragraph",
-      "page": 18,
-      "text": "Figure 40 shows the Albatros L 82 with the wings partially folded about the hinges on the rear spars. An auxiliary strut is added to maintain the rigidity of the cell.",
-      "ocr_confidence": 0.95
+      "page": 17,
+      "text": "The question of stowing and transportation is a very practical one for an airplane owner. When not in use, an airplane should not require much space. This is especially desirable when laning away from home. In case of engine failure, it should be easily transported along the highway. It should require but a few minutes to fold or unfold and make ready for flight and should not require many tools."
     },
     {
       "id": "e116",
-      "type": "paragraph",
+      "type": "page_header",
       "page": 18,
-      "text": "Figure 41 shows the Focke-Wulf S 24 with its wings folded ready for transportation by a small automobile.",
-      "ocr_confidence": 0.95
+      "text": "N.A.C.A. Technical Memorandum No. 579"
     },
     {
       "id": "e117",
-      "type": "paragraph",
+      "type": "page_header",
       "page": 18,
-      "text": "s s  s  ons  s s ns -a  t  nt    n  nt   n  ae",
-      "ocr_confidence": 0.95
+      "text": "17"
     },
     {
       "id": "e118",
       "type": "paragraph",
       "page": 18,
-      "text": "three parts, the outer parts being usually joined to the central tirely removed, on account of their great length, and laid alongside the fuselage. The L II, D 18 and RK 25 have one-part wings which can be removed as a whole. Their detachment and attaone taome te te tnae tne ne toam",
-      "ocr_confidence": 0.95
+      "text": "Figure 40 shows the Albatros L 82 with the wings partially folded about the hinges on the rear spars. An auxiliary strut is added to maintain the rigidity of the cell."
     },
     {
       "id": "e119",
       "type": "paragraph",
       "page": 18,
-      "text": "Figure 42 shows a wing of the BFW M23 folded for transportation. After removing the three coupling bolts on the main and auxiliary spars, the wing is swung on the universal joint on the. fitting attached to the leading edge and hung to the side of the fuselage.",
-      "ocr_confidence": 0.95
+      "text": "Figure 41 shows the Focke-Wuif S 24 with its wings folded ready for transportation by a small automobile."
     },
     {
       "id": "e120",
       "type": "paragraph",
       "page": 18,
-      "text": "Figures 43 and 44 show the Klemm L 25 ready for transportation, its greatest width (through the wheels) being only l.5 m (4.92 ft.) and its height only 3 m (9.84 ft.).",
-      "ocr_confidence": 0.95
+      "text": "Most airplanes solve this problem by making the wings in three parts, the outer parts being usually joined to the central part by hinges. On the L 25 and L 26 the outer parts are entirely removed, on account of their great length, and laid alongside the fuselage. The L II, 18 and RK 25 have one-part wings which can be removed as a whOle. Their detachment and attachment to the fuselage is therefore more troublesome."
     },
     {
       "id": "e121",
       "type": "paragraph",
       "page": 18,
-      "text": "The folding is greatly facilitated by making the aileron controls so they will separate and reunite automatically, which can be easily done. In the technical contest of the l929 International Light Airplane Tour of Europe the time required for folding and unfolding the L 82 was only l minutes, while the De Havilland Moth required only 22 seconds.",
-      "ocr_confidence": 0.95
+      "text": "Figure 42 shows a wing of th BFW M23 folded for transportation. After removing the three coupling bolts on the main and auxiliary spars, the wing is svung on the universal joint on the, fitting attached to the leading edge and hung to the side of the fuselage."
     },
     {
       "id": "e122",
-      "type": "page_header",
-      "page": 19,
-      "text": "N.A.C.A. Technical Memorandum No. 579",
-      "ocr_confidence": 0.92
+      "type": "paragraph",
+      "page": 18,
+      "text": "Figures 43 and 44 show the Klemm L 25 ready for transportation, its greatest width (thrdugh the wheels) being only 1.5 m (4.92 ft.) and its height only 3 m (9.84 ft.)."
     },
     {
       "id": "e123",
-      "type": "page_header",
-      "page": 19,
-      "text": "18",
-      "ocr_confidence": 0.92
+      "type": "paragraph",
+      "page": 18,
+      "text": "The folding is greatly facilitated by making the aileron controls so they will separate and reunite automatically, which can be easily done. In the technical contest of the 1929 Intern.tional Light Airplane Tour of Europe the time required for folding and unfolding the L 82 Was only l-- minutes, while the De Havilland Moth required only 22 seconds."
     },
     {
       "id": "e124",
-      "type": "paragraph",
+      "type": "page_header",
       "page": 19,
-      "text": "However pleasing the large number of new types is, as an expression of the popular interest, it nevertheless interferes with the economical production and cheapening of the airplanes, due to the limited market. In the interest of the popularization of German light airplanes, it would be well to reduce their number to a few select types.",
-      "ocr_confidence": 0.92
+      "text": "N.A.C.A. Technical Memoranthim No. 579"
     },
     {
       "id": "e125",
-      "type": "paragraph",
+      "type": "page_header",
       "page": 19,
-      "text": "ord   d ood   oryy equipment, which is favorable to small-scale production. On the other hand, it is claimed that this method is not well adapted to large-scale. production, since the work of gluing and welding cannot be done so well by machines. This is contradicted, ot t ot  t t t t t t  r a   n  e in mixed construction. In 1929 the number reached 450, which o s n  n n s   n adt   ar dr aer bearings), and pressed light-metal fittings are being increasns     oo",
-      "ocr_confidence": 0.92
+      "text": "18"
     },
     {
       "id": "e126",
       "type": "paragraph",
       "page": 19,
-      "text": "The A 50 represents an interesting experiment. The Junkers",
-      "ocr_confidence": 0.92
+      "text": "However pleasing the large nuiriber of new types is, as an expression of the popular interest, it nevertheless interferes with the economical production and cheapening of the airplanes, due to the limited market.. In the interest of the populaization of German light airplanes, it would be well to reduce their number to a few select types."
     },
     {
       "id": "e127",
       "type": "paragraph",
       "page": 19,
-      "text": "Company has ventured to make an all-metal light airplane similar to its large airplanes, although in a much simplified form. The company had the advantage of a trained personnel for the difficult inside riveting of the small tubes. The construction:",
-      "ocr_confidence": 0.92
+      "text": "Wood and mixed construction require relatively small factory equipment, which is favorable to small-scale production. On the other hand, it is claimed that this method is not well adapted to large-scale. production, since the work of gluing and weld-. ing cannot be done so well by machines. This is contradicted, however, by the fact that the most widely used foreign light airplane, the De Havilland Moth,u was first made in wood and then in mixed construction. In 1929 the number reached 450, which can be regarded as mass production in the present status of airplane building. Light-metal castings (tail skids, rudder bearings), and pressed light-metal fittings are being increasingly used and facilitate mass production."
     },
     {
       "id": "e128",
-      "type": "page_header",
-      "page": 20,
-      "text": "N.A.C.A. Technical Memorandum No. 579",
-      "ocr_confidence": 0.97
+      "type": "paragraph",
+      "page": 19,
+      "text": "The A 50 represents an interesting experiment. The Junkers Company has ventured to make an all-metal light airplane similar to its large airplanes, although in a much simplified form. The company had the advantage of a trained personnel for the difficult inside riveting of the small tubes. The construction Was greatly simplified- by the extensive use of corrugated sheet metal. The use of metal enables extensive replacements and facilitates mass production."
     },
     {
       "id": "e129",
       "type": "page_header",
       "page": 20,
-      "text": "19",
-      "ocr_confidence": 0.97
+      "text": "N.A.C.A. Technical Memorandum No. 573"
     },
     {
       "id": "e130",
-      "type": "paragraph",
+      "type": "page_header",
       "page": 20,
-      "text": "was greatly simplified by the extensive use of corrugated sheet metal. The use of metal enables extensive replacements and facilitates mass production.",
-      "ocr_confidence": 0.97
+      "text": "19"
     },
     {
       "id": "e131",
       "type": "paragraph",
       "page": 20,
-      "text": "The Albatros L 79 was made for the D.V.L. in accordance with their specifications. It was designed especinlly for the investigetion of inverted flight and therefore has unstoggered wings with symmetrical wing seotions, for which the same flight characteristics can be expected in upright and inverted flight. The movable tail surfaces were very carefully designed for good agreement and maximum efficiency. The principal masses, the engine cnd the pilot, were placed as near together as possible in order to improve the spinning properties. Special attention -a ery of the fuel even in the event of long inverted flight.",
-      "ocr_confidence": 0.97
+      "text": "The Albatros L 79 was made for the D.V.L. in accordance with their specifications. It was designed especially for the investigation of inverted flight and therefore has unstaggered wings with symmetrical wing sections, far which the same flight characteristics can be expected in upright and inverted flight. The movable tail surfaces were very carefully designed for good agreement and. maximum efficiency. The principal masses, the engine and the pilot, were placed as near together as possible in order to improve the spinning properties. Special attention had to be given to the fuel system, so as to insure the delivery of the fuel even in the event of long inverted flight."
     },
     {
       "id": "e132",
       "type": "paragraph",
       "page": 20,
-      "text": "Figure 38 represents the fuel system and Figure 39 the oil system of the Albatros L 79. a is the main fuel tank; b, the t     y t c, fuel intake on flexible tube; à, fuel pump; e, return valve; f, air chamber; g, reversing cock for gravity fuel; h, strainer; i, drain cock; k, fresh-oil pump for inverted flight; l, pressure-reduction valve; m, check valve (against flow of fuel into oil pipe); n, fresh-oil pump; o, return pump; p, return purp for inverted flight; q, air vent.",
-      "ocr_confidence": 0.97
+      "text": "Figure 38 represents the fuel system and Figure 39 the oil system of the Albatros L 79. a is the main fuel tank; b, the gravity fuel tank; b 1 , auxiliary oil tank for inverted flight; c, fuel intake on flexible tube; d, fuel pump; e, return valve; f, air chamber; g, reversing cock for gravity fuel; h, strainer; i, drain cock; k, fresh-oil pump for inverted. flight; 1, pressure-reduction valve; m, check valve (against flow of fuel into oil pipe; n, fresh-oil pump; o, return pump; p, return pur1p for inverted flight; q, air vent."
     },
     {
       "id": "e133",
       "type": "paragraph",
       "page": 20,
-      "text": "In the Arado L II the designer followed his own ideas throughout. The form of the L II, as shown in Figures 3, 4, 26,",
-      "ocr_confidence": 0.97
+      "text": "In the Arado L II the designer followed his own ideas throughout. The form of the L II, as shown in Figures 3, 4, 26,'"
     },
     {
       "id": "e134",
       "type": "page_header",
       "page": 21,
-      "text": "N.A.C.A. Technical Memorandum No. 579",
-      "ocr_confidence": 0.94
+      "text": "N.A.C.A. Technical Memorandum No. 579"
     },
     {
       "id": "e135",
       "type": "page_header",
       "page": 21,
-      "text": "20",
-      "ocr_confidence": 0.94
+      "text": "20"
     },
     {
       "id": "e136",
       "type": "paragraph",
       "page": 21,
-      "text": "27, 29, and 34, is determined by the side-by-side arrangement of the two seats and by the vertical engine with hanging cylinders. The seats are readily accessible through doors and are so sheltered that the occupants require no extra clothing. The peculiar hanging control stick (Fig. 26) makes the seat space more roomy and accessible. Large baggage pockets behind the seats, map pockets and nets provide for the convenience of the air voyagers. The good visibility past the low.narrow bow y y  yy  y y ne L II are of the same order as most of the other airplanes. Apaer r  r  ar r r r rc successfully offset by a skillful arrangement of the whole and careful attention to details.",
-      "ocr_confidence": 0.94
+      "text": "27, 29, and 34, is determined by the side-by-side arrangement of the two seats and by the vertical engine with hanging cylinders. The seats are readily accessible through doors and are so sheltered that the occupants require no extra clothing. The peculiar hanging control stick (Fig. 26) makes the seat space more roomy and accessible. Large baggage pockets behind the seats, map pockets and nets provide for the convenience of the air voyagers. The good visibility past the low, narrow bow is especially worthy of mention. The flight perforniancesof the L II are of the same order as most of the other airplanes. Apparently the greater form resistance of the broad fuselage was successfully offset by a skillful arrangement of the whole and areful attetition to details."
     },
     {
       "id": "e137",
       "type": "paragraph",
       "page": 21,
-      "text": "The Junkers A 50 has duralumin tubes and corrugated duralumin sheets in common with the well-known Junkers airplanes, but differs considerably in structure (Figs. 19, 21, 24, 30). The wing does not have the usual Z arrangement of five or more tubular spars, but has two normal, relatively close vertical spars with tubular flanges joined by simple corrugated. sheeturs s rs   s ss s inside riveting is necessary to any considerable extent. The function of the ribs is assumed by the corrugated duralumin. wing covering. The shearing forces are transmitted by oblique rrs ss es s     s  z (Fig. 21) has no longerons, the longitudinal and shearing srr r br  b   r r gated metal covering. This is supported by hoops of oval duralumin tubing with slots on the inside for introducing the rivets. The engine is held by a conical support of sheet duralumin which is attached to the fuselage covering by fifty small screws, a method necessitated by the absence of longerons. This conical support forms a direct continuation of the fuselage covering.",
-      "ocr_confidence": 0.94
+      "text": "The Junkers A 50 has duralurnin tubes and corrugated duralurnin sheets in common with the well-known Junkers airplanes, but differs considerably in structure (Figs. 19, 21, 24, 30). The wing does not have the usual Z arrangement of five or more tubular spars, but has two normal, relatively close vertical spars with tubular flanges joined by simple corrugated sheetduralumiawebmembers. The spars are the only parts in which inside riveting is necessary to any considerable extent. The function of the ribs is assumed by the corrugated duralumin. wing covering. The shearing forces are transmitted by oblique Z braces to the planes of the spars (Fig. 19). The fuselage, (Fig. 21) has no longerons, the longitudinal and shearing stresses being transmitted only by the radially braced corrugated metal covering. This is supported by hoops of oval du.ralumin tubing with slots on the inside for introducing the rivets. The engine is held by a conical support of sheet duralumin which is attached. to the fuselage covering by fifty small screws, a method necessitated by the absence of longerons. This conic. support forms a direct continuation of the fuselage covering."
     },
     {
       "id": "e138",
       "type": "page_header",
       "page": 22,
-      "text": "N.A.C.A. Technical Memorandum No. 579",
-      "ocr_confidence": 0.91
+      "text": "N.A.C... Technical Memorandum N0, 579"
     },
     {
       "id": "e139",
       "type": "page_header",
       "page": 22,
-      "text": "21",
-      "ocr_confidence": 0.91
+      "text": "21"
     },
     {
       "id": "e140",
       "type": "paragraph",
       "page": 22,
-      "text": "- t at ' t   a   aa a tory, but in the workshop of an academic aero club. In construction and performances, however, it compares favorably with the o o  Dro o  a aa soas s long and glorious history. It is only necessary to mention t   ys e G t    t airplanes of the Bahnbedarf Company and of Muller-Griesheim, t t e a  e te te t  de The exceptionally large stagger of the cantilever wings affords easy access and good visibility. It was designed to effect the greatest possible reduction in the air resistance, though the structural features were not neglected. Figures 20, 22, 23, and 32 show several interesting details. Mention has already been made of its remarkable speed. which were designed or largely influenced by the Darmstadt Club.",
-      "ocr_confidence": 0.91
+      "text": "The Darmstad-t D 18 waS not made in a regular airplane factory, but in the workshop of an academic aero club. In construction and performances, however, it compares favorably with the other types. The Darmstadt Academic Aero Club can boast of a long and glorious history. It is only necessary to mention the excellent Mahomet of the 1925 German Ai r Derby and the airplanes of the Bahnbedarf Company and. of M.11er-Griesheim, which were designed or largely influenced by the Darmstadt Club. The D 18 is the first biplane built by the Darmstadt Club. The exceptionally laxe stagger of the cantilever wings aSfords easy access and good visibility. It was designed to effect the greatest possible reduction in the air resistance, though the structural features were not neglected. Figures 20, 22, 23, and 32 show several interesting details. Mention has already been made of its remarkable speed."
     },
     {
       "id": "e141",
       "type": "page_header",
       "page": 23,
-      "text": "N.A.C.A. Technical Memorandum No. 579",
-      "ocr_confidence": 0.94
+      "text": "N.A.C.A. Technical Memorandum No. 579"
     },
     {
       "id": "e142",
       "type": "page_header",
       "page": 23,
-      "text": "2 22",
-      "ocr_confidence": 0.94
+      "text": "22"
     },
     {
       "id": "e143",
       "type": "paragraph",
       "page": 23,
-      "text": "Construction Numbers and Characteristics TABLE I.",
-      "ocr_confidence": 0.94
+      "text": "Cl) C.) .1-4 4) Cl) ·r-4 ci) 4) 0 ci cii cci 1) 0 .1-4 4.)"
     },
     {
       "id": "e144",
       "type": "paragraph",
       "page": 23,
-      "text": "f = cantilever",
-      "ocr_confidence": 0.94
+      "text": "-P 0"
     },
     {
       "id": "e145",
       "type": "paragraph",
       "page": 23,
-      "text": "strut-braced;",
-      "ocr_confidence": 0.94
+      "text": "4)"
     },
     {
       "id": "e146",
       "type": "paragraph",
       "page": 23,
-      "text": "= e M = all-metal construction.",
-      "ocr_confidence": 0.94
+      "text": "()"
     },
     {
       "id": "e147",
+      "type": "paragraph",
+      "page": 23,
+      "text": "4-)"
+    },
+    {
+      "id": "e148",
+      "type": "paragraph",
+      "page": 23,
+      "text": "Cd 0 0"
+    },
+    {
+      "id": "e149",
+      "type": "paragraph",
+      "page": 23,
+      "text": "Cl)"
+    },
+    {
+      "id": "e150",
+      "type": "paragraph",
+      "page": 23,
+      "text": "d H"
+    },
+    {
+      "id": "e151",
+      "type": "paragraph",
+      "page": 23,
+      "text": "0) ci"
+    },
+    {
+      "id": "e152",
+      "type": "paragraph",
+      "page": 23,
+      "text": "-P"
+    },
+    {
+      "id": "e153",
+      "type": "paragraph",
+      "page": 23,
+      "text": "ci)"
+    },
+    {
+      "id": "e154",
+      "type": "paragraph",
+      "page": 23,
+      "text": "I H"
+    },
+    {
+      "id": "e155",
+      "type": "paragraph",
+      "page": 23,
+      "text": "I"
+    },
+    {
+      "id": "e156",
+      "type": "paragraph",
+      "page": 23,
+      "text": "0) H"
+    },
+    {
+      "id": "e157",
+      "type": "paragraph",
+      "page": 23,
+      "text": "-H II"
+    },
+    {
+      "id": "e158",
+      "type": "paragraph",
+      "page": 23,
+      "text": ".4 Cli"
+    },
+    {
+      "id": "e159",
+      "type": "paragraph",
+      "page": 23,
+      "text": "0"
+    },
+    {
+      "id": "e160",
+      "type": "paragraph",
+      "page": 23,
+      "text": "-4-)"
+    },
+    {
+      "id": "e161",
+      "type": "paragraph",
+      "page": 23,
+      "text": "Cii) ·rI"
+    },
+    {
+      "id": "e162",
+      "type": "paragraph",
+      "page": 23,
+      "text": "II"
+    },
+    {
+      "id": "e163",
+      "type": "paragraph",
+      "page": 23,
+      "text": "0"
+    },
+    {
+      "id": "e164",
       "type": "table",
       "header": null,
       "rows": [
@@ -1071,95 +1028,82 @@
           "•H •H ,c II = . -H c!,-' ElPi ci 'dc -.. Piti P P4 (j '1) r i 0) 0) .. 4 C44 0 ciO -'-4 -(P4 0 01 0 --4 ci Ti -P 0 0) Cl) 5Q) fl H-P 0) ci-HP4P4 cij) •r-4 ci4,0O .Pci HSO)4-'j0Q) -c (I) 0) -rI Cii) fl 'Ci ti) Cii) 'Ci .r-c Cii) -H fZCii).rl -4 •HCuciDr44 cii 0) ( WO.r4Pi.r4OQ)CH o uVr 0 C') I 0 0 O10 I 10 • • • I NCO0)0HC'.)to1010 S • I I i-I H H H H H H"
         ]
       ],
-      "page": 23,
-      "ocr_confidence": 0.94
+      "page": 23
     },
     {
-      "id": "e148",
+      "id": "e165",
       "type": "paragraph",
       "page": 23,
-      "text": "G = mixed construction;",
-      "ocr_confidence": 0.94
+      "text": "ci)"
     },
     {
-      "id": "e149",
+      "id": "e166",
       "type": "paragraph",
       "page": 23,
-      "text": "wood construction;",
-      "ocr_confidence": 0.94
+      "text": "0)"
     },
     {
-      "id": "e150",
+      "id": "e167",
       "type": "paragraph",
       "page": 23,
-      "text": "H",
-      "ocr_confidence": 0.94
+      "text": "II"
     },
     {
-      "id": "e151",
+      "id": "e168",
       "type": "paragraph",
       "page": 23,
-      "text": "anan a    ne. d t in 2",
-      "ocr_confidence": 0.94
+      "text": "-H"
     },
     {
-      "id": "e152",
+      "id": "e169",
       "type": "paragraph",
       "page": 23,
-      "text": "0)",
-      "ocr_confidence": 0.94
+      "text": "cci"
     },
     {
-      "id": "e153",
+      "id": "e170",
       "type": "paragraph",
       "page": 23,
-      "text": "4Not yet officially admitted.",
-      "ocr_confidence": 0.94
+      "text": "ci)"
     },
     {
-      "id": "e154",
+      "id": "e171",
       "type": "paragraph",
       "page": 23,
-      "text": "S4 = school and simple stunts; P3 = passenger carrying; a) C/) 0) 4) CO 0 -H CO 4) Cl) 0) 'Ci 0 4., 0) r -P 0) p4 0) El IC)",
-      "ocr_confidence": 0.94
+      "text": "Ct)"
     },
     {
-      "id": "e155",
+      "id": "e172",
       "type": "paragraph",
       "page": 23,
-      "text": "The weight loaded and the other data are based on the maximum carrying",
-      "ocr_confidence": 0.94
+      "text": "Cl)"
     },
     {
-      "id": "e156",
+      "id": "e173",
       "type": "paragraph",
       "page": 23,
-      "text": "S5 = stunts, maximum stresses.",
-      "ocr_confidence": 0.94
+      "text": "-4-)"
     },
     {
-      "id": "e157",
+      "id": "e174",
       "type": "paragraph",
       "page": 23,
-      "text": "ot      n   o ds am n capacity.",
-      "ocr_confidence": 0.94
+      "text": "Cii) Cli 0 ci) ci) Cl) Cl) ci P1 II a) C/) 0) r 4-) Cii)H ci) -H -P 4) Cl) CO 0 -H ci) 'Ci . ci) -H CO Cl) 0 ci) 'Ci -H Ci) ci) 4) ci) ci ci) P Cl) ·H C,) Cl) 0) 'Ci -H H ·H 0 4., 0) El r -P 0) 4) -'-4 p4 0 ci 0) 0 El IC) Cl) I"
     },
     {
-      "id": "e158",
+      "id": "e175",
       "type": "page_header",
       "page": 24,
-      "text": "N.A.C.A. Technical Memorandum No. 579",
-      "ocr_confidence": 0.93
+      "text": "N.A.C.A. Technical emoraridum No. 579"
     },
     {
-      "id": "e159",
+      "id": "e176",
       "type": "page_header",
       "page": 24,
-      "text": "23",
-      "ocr_confidence": 0.93
+      "text": "23"
     },
     {
-      "id": "e160",
+      "id": "e177",
       "type": "table",
       "header": null,
       "rows": [
@@ -1284,46 +1228,46 @@
           "G) S H"
         ]
       ],
-      "page": 24,
-      "ocr_confidence": 0.93
+      "page": 24
     },
     {
-      "id": "e161",
+      "id": "e178",
       "type": "paragraph",
       "page": 24,
-      "text": "(cont.) TABLE I. Construction Numbers and Characteristics",
-      "ocr_confidence": 0.93
+      "text": "-p 0 0 Cl) 0 \"-4 -p C') \"-I a) -I-, 0 Cli Cli .0 rtj U) a)"
     },
     {
-      "id": "e162",
+      "id": "e179",
       "type": "paragraph",
       "page": 24,
-      "text": "22. See footnote on page 15",
-      "ocr_confidence": 0.93
+      "text": "C') C') ci) P. ci) 0 4' 0 0 a) C/) HLU"
     },
     {
-      "id": "e163",
+      "id": "e180",
       "type": "page_header",
       "page": 25,
-      "text": "24",
-      "ocr_confidence": 0.93
+      "text": "24"
     },
     {
-      "id": "e164",
+      "id": "e181",
       "type": "paragraph",
       "page": 25,
-      "text": "N.A.C.A. Technical Memorandum No. 579",
-      "ocr_confidence": 0.93
+      "text": "N.A.C.A. Technical Memorandum No. 579"
     },
     {
-      "id": "e165",
+      "id": "e182",
       "type": "paragraph",
       "page": 25,
-      "text": "TABLE II. Engine Data National Advisory Committee Translation by Dwight M. Miner, for Aeronautics.",
-      "ocr_confidence": 0.93
+      "text": "0)"
     },
     {
-      "id": "e166",
+      "id": "e183",
+      "type": "paragraph",
+      "page": 25,
+      "text": "I-i E.4 OO)a)"
+    },
+    {
+      "id": "e184",
       "type": "table",
       "header": null,
       "rows": [
@@ -1426,25 +1370,28 @@
           ",i b.D -H CC)"
         ]
       ],
-      "page": 25,
-      "ocr_confidence": 0.93
+      "page": 25
     },
     {
-      "id": "e167",
+      "id": "e185",
       "type": "page_header",
       "page": 26,
-      "text": "N.A.C.A. Technical·Memorandum No. 579",
-      "ocr_confidence": 0.94
+      "text": "N.A.C.A. Technical Memoranthin No. 579"
     },
     {
-      "id": "e168",
+      "id": "e186",
       "type": "page_header",
       "page": 26,
-      "text": "25",
-      "ocr_confidence": 0.94
+      "text": "25"
     },
     {
-      "id": "e169",
+      "id": "e187",
+      "type": "paragraph",
+      "page": 26,
+      "text": "· 4.) 1:1 C.) Ct 4) Cl fl (1) ·"
+    },
+    {
+      "id": "e188",
       "type": "table",
       "header": [
         "-o •d .0) C.) c .H 1(1) 0)1 0 .4.) r-I",
@@ -1546,69 +1493,132 @@
           "--_______ LID -i 'Cl - 1 LID •r4"
         ]
       ],
-      "page": 26,
-      "ocr_confidence": 0.94
+      "page": 26
     },
     {
-      "id": "e170",
+      "id": "e189",
       "type": "paragraph",
       "page": 26,
-      "text": "TABLE II. Engine Data (cont.)",
-      "ocr_confidence": 0.94
+      "text": "a)"
     },
     {
-      "id": "e171",
+      "id": "e190",
+      "type": "paragraph",
+      "page": 26,
+      "text": "· 4)"
+    },
+    {
+      "id": "e191",
+      "type": "paragraph",
+      "page": 26,
+      "text": "4.)"
+    },
+    {
+      "id": "e192",
+      "type": "paragraph",
+      "page": 26,
+      "text": "·r4"
+    },
+    {
+      "id": "e193",
+      "type": "paragraph",
+      "page": 26,
+      "text": "·r-I(.)"
+    },
+    {
+      "id": "e194",
+      "type": "paragraph",
+      "page": 26,
+      "text": "oo"
+    },
+    {
+      "id": "e195",
+      "type": "paragraph",
+      "page": 26,
+      "text": ".i-4 4)"
+    },
+    {
+      "id": "e196",
+      "type": "paragraph",
+      "page": 26,
+      "text": "otSc3"
+    },
+    {
+      "id": "e197",
+      "type": "paragraph",
+      "page": 26,
+      "text": "·,-i '"
+    },
+    {
+      "id": "e198",
+      "type": "paragraph",
+      "page": 26,
+      "text": ".p"
+    },
+    {
+      "id": "e199",
+      "type": "paragraph",
+      "page": 26,
+      "text": "0"
+    },
+    {
+      "id": "e200",
+      "type": "paragraph",
+      "page": 26,
+      "text": "Cl)O4."
+    },
+    {
+      "id": "e201",
+      "type": "paragraph",
+      "page": 26,
+      "text": "Elc-4"
+    },
+    {
+      "id": "e202",
       "type": "figure",
       "page": 27,
       "caption": "",
-      "image": "figures/NACA-TM-579-fig2.png",
-      "ocr_confidence": 0.98
+      "image": "figures/NACA-TM-579-fig2.png"
     },
     {
-      "id": "e172",
+      "id": "e203",
       "type": "figure",
       "page": 28,
       "caption": "",
-      "image": "figures/NACA-TM-579-fig3.png",
-      "ocr_confidence": 0.95
+      "image": "figures/NACA-TM-579-fig3.png"
     },
     {
-      "id": "e173",
+      "id": "e204",
       "type": "page_header",
       "page": 29,
-      "text": "N.A.C.A. Technical Memorandum No. 579",
-      "ocr_confidence": 0.98
+      "text": "N.A.C.A. Technical ieniorandum Nc. 579"
     },
     {
-      "id": "e174",
+      "id": "e205",
       "type": "page_header",
       "page": 29,
-      "text": "Fig. 17",
-      "ocr_confidence": 0.98
+      "text": "Fig. 17"
     },
     {
-      "id": "e175",
+      "id": "e206",
       "type": "figure",
       "page": 29,
-      "caption": "Fig. l7 Raab-Katzenstein R K 25 airplane",
-      "image": "figures/NACA-TM-579-fig4.png",
-      "ocr_confidence": 0.98
+      "caption": "Fig. 17 Raab-Katzenstein F. K 25 airplane",
+      "image": "figures/NACA-TM-579-fig4.png"
     },
     {
-      "id": "e176",
+      "id": "e207",
       "type": "figure",
       "page": 30,
       "caption": "",
-      "image": "figures/NACA-TM-579-fig5.png",
-      "ocr_confidence": 0.98
+      "image": "figures/NACA-TM-579-fig5.png"
     },
     {
-      "id": "e177",
+      "id": "e208",
       "type": "figure",
       "page": 31,
       "caption": "",
-      "image": "figures/NACA-TM-579-fig6.png",
-      "ocr_confidence": 0.95
+      "image": "figures/NACA-TM-579-fig6.png"
     }
   ]
 }

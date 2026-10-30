@@ -3,6 +3,7 @@
     python -m anfa ingest                       embed the documents and store them (once)
     python -m anfa ask "question" [--show-prompt]
     python -m anfa check [--save-traces]         run the cases against this checkpoint
+    python -m anfa ingest-report [--no-corrections]
 """
 
 from __future__ import annotations
@@ -22,6 +23,8 @@ def main() -> None:
     ask.add_argument("--show-prompt", action="store_true")
     check = commands.add_parser("check", help="run the cases against this checkpoint")
     check.add_argument("--save-traces", action="store_true", help="write each trace to traces/")
+    report = commands.add_parser("ingest-report", help="show what conversion changed and what needs review")
+    report.add_argument("--no-corrections", action="store_true", help="ignore corpus/corrections.json")
     args = parser.parse_args()
 
     from anfa.corpus import load_corpus
@@ -30,6 +33,15 @@ def main() -> None:
     if args.command == "ingest":
         added = Assistant().ingest(load_corpus())
         print(f"Indexed {added} chunks." if added else "The index already holds these chunks; nothing to do.")
+        return
+
+    if args.command == "ingest-report":
+        assistant = Assistant()
+        assistant.convert(load_corpus(), corrections={} if args.no_corrections else None)
+        for r in assistant.reports:
+            print(f"{r.source_id} ({r.file})")
+            for line in r.lines():
+                print(f"  - {line}")
         return
 
     if args.command == "ask":

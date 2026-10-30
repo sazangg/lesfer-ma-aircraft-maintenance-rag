@@ -33,7 +33,7 @@ FORMATS = {".pdf": "pdf", ".docx": "docx", ".pptx": "pptx", ".xlsx": "xlsx", ".x
 
 # --- Docling ------------------------------------------------------------------------------------
 
-def converter():
+def converter(ocr: str = "auto"):
     from docling.datamodel.base_models import InputFormat
     from docling.datamodel.pipeline_options import PdfPipelineOptions
     from docling.document_converter import DocumentConverter, PdfFormatOption
@@ -41,6 +41,11 @@ def converter():
     options = PdfPipelineOptions()
     options.generate_picture_images = True  # keep each figure as an image, next to its caption
     options.images_scale = 2.0
+    # By default the parser reads the PDF's text layer and runs OCR on whatever is only an image. A
+    # catalog entry can change that: "off" keeps only the text layer (a scan that already carries a
+    # good one), "full-page" reads every page from the image (a scan whose text layer is wrong).
+    options.do_ocr = ocr != "off"
+    options.ocr_options.force_full_page_ocr = ocr == "full-page"
     return DocumentConverter(format_options={InputFormat.PDF: PdfFormatOption(pipeline_options=options)})
 
 
@@ -133,7 +138,7 @@ def ecfr_elements(path: Path) -> list[dict]:
 def main() -> None:
     catalog = json.loads((SOURCE / "catalog.json").read_text(encoding="utf-8"))["documents"]
     only = set(sys.argv[1:])
-    conv = None
+    conv: dict[str, object] = {}
     OUT.mkdir(parents=True, exist_ok=True)
     for entry in catalog:
         if only and entry["source_id"] not in only:
@@ -144,8 +149,9 @@ def main() -> None:
         if fmt == "xml":
             parser, elements, scores = "ecfr-xml", ecfr_elements(path), {}
         else:
-            conv = conv or converter()
-            result = conv.convert(str(path))
+            ocr = entry.get("parse", {}).get("ocr", "auto")
+            conv[ocr] = conv.get(ocr) or converter(ocr)
+            result = conv[ocr].convert(str(path))
             parser = "docling"
             elements = docling_elements(result.document, entry["source_id"], is_slides=fmt == "pptx")
             report = getattr(result, "confidence", None)
@@ -158,8 +164,9 @@ def main() -> None:
             if element.get("page") is None:
                 element.pop("page", None)
             elements[n - 1] = {"id": f"e{n}", **element}
-        data = {"source_id": entry["source_id"], "file": entry["file"], "format": fmt,
-                "parser": parser, "meta": entry["meta"], "elements": elements}
+        data = {"source_id": entry["source_id"], "file": entry["file"], "format": fmt, "parser": parser,
+                **({"ocr": entry["parse"]["ocr"]} if "ocr" in entry.get("parse", {}) else {}),
+                "meta": entry["meta"], "elements": elements}
         (OUT / f"{entry['source_id']}.json").write_bytes((json.dumps(data, indent=2, ensure_ascii=False) + "\n").encode("utf-8"))
         print(f"{entry['source_id']:20} {len(elements):4} elements  ({fmt}, {time.time() - start:5.1f}s)", flush=True)
 

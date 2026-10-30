@@ -1,0 +1,86 @@
+{
+ "request": {
+  "model": "nvidia/nemotron-3.5-super-vl:free",
+  "max_tokens": 4000,
+  "temperature": 0,
+  "extra_body": {
+   "reasoning": {
+    "enabled": false
+   }
+  },
+  "messages": [
+   {
+    "role": "user",
+    "content": [
+     {
+      "type": "text",
+      "text": "This figure is from FAA-H-8083-30A, Aviation Maintenance Technician Handbook: General, chapter 2 (regulations, maintenance forms, records, and publications). Its caption: \"Figure 2-10. Maintenance records.\".\nDescribe it for a mechanic who can't see it: say what it shows, then transcribe every label,\nvalue, unit, part number, and note printed in it. Don't add anything that isn't in the figure.\nIf it shows nothing of use (a logo, a signature, a blank area), say so in one sentence."
+     },
+     {
+      "type": "image_url",
+      "image_url": {
+       "url": "<image sha256:bda3402692a57125a15cefc4>"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ "response": {
+  "id": "gen-1793373753-4Zw0LncBWAfnddBjbpf5",
+  "choices": [
+   {
+    "finish_reason": "stop",
+    "index": 0,
+    "logprobs": null,
+    "message": {
+     "content": "The figure is a flowchart titled \u201c14 CFR 91.417 Maintenance Records\u201d that shows how maintenance record requirements branch from regulatory sections and paragraphs into specific record content and retention rules.\n\nLabels, values, units, part numbers, and notes printed in the figure:\n\n- 14 CFR 91.417 Maintenance Records\n- Sections 91.411 and 91.413.\n- paragraph (a): Retain for 2 years.\n- Paragraph (d); FAA Form 337 for extended range fuel tanks in cabin or cargo. Keep on board A/C.\n- Paragraph (a)(1): Maintenance, Preventive Maintenance, Alterations and all Inspections.\n- Description of work.\n- Date of completion.\n- Signature and Certificate Number of person approving RTS.\n- Paragraph (a)(2): Records of total time in service for A/F, each engine, each propeller and each rotor. Currents status of life-limited parts of A/F engine, prop, rotor, or app.\n- Time since last overhaul for items that are required to overhaul.\n- Current inspection status.\n- Current status of applicable ADs.\n- Copies of Form 337.\n- Paragraph (b)(3) List of defects furnished to the Owner/Operator in accordance with Section 43.11.\n- Retained until defects are repaired and the A/C is approved for RTS.\n- Paragraph (b)(2): Retain and transfer with A/C.",
+     "refusal": null,
+     "role": "assistant",
+     "annotations": null,
+     "audio": null,
+     "function_call": null,
+     "tool_calls": null,
+     "reasoning": null
+    },
+    "native_finish_reason": "stop"
+   }
+  ],
+  "created": 1793373753,
+  "model": "nvidia/nemotron-3.5-super-vl:free",
+  "object": "chat.completion",
+  "metadata": null,
+  "moderation": null,
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+   "completion_tokens": 320,
+   "prompt_tokens": 608,
+   "total_tokens": 928,
+   "completion_tokens_details": {
+    "accepted_prediction_tokens": null,
+    "audio_tokens": 0,
+    "reasoning_tokens": 0,
+    "rejected_prediction_tokens": null,
+    "text_tokens": null,
+    "image_tokens": 0
+   },
+   "prompt_tokens_details": {
+    "audio_tokens": 0,
+    "cache_write_tokens": 0,
+    "cached_tokens": 0,
+    "image_tokens": null,
+    "text_tokens": null,
+    "video_tokens": 0
+   },
+   "cost": 0,
+   "is_byok": false,
+   "cost_details": {
+    "upstream_inference_cost": 0,
+    "upstream_inference_prompt_cost": 0,
+    "upstream_inference_completions_cost": 0
+   }
+  },
+  "provider": "Nvidia"
+ }
+}

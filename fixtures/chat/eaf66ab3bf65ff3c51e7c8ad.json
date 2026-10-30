@@ -1,0 +1,86 @@
+{
+ "request": {
+  "model": "nvidia/nemotron-3.5-super-vl:free",
+  "max_tokens": 4000,
+  "temperature": 0,
+  "extra_body": {
+   "reasoning": {
+    "enabled": false
+   }
+  },
+  "messages": [
+   {
+    "role": "user",
+    "content": [
+     {
+      "type": "text",
+      "text": "This figure is from AC 43.13-2B, Acceptable Methods, Techniques, and Practices: Aircraft Alterations.\nDescribe it for a mechanic who can't see it: say what it shows, then transcribe every label,\nvalue, unit, part number, and note printed in it. Don't add anything that isn't in the figure.\nIf it shows nothing of use (a logo, a signature, a blank area), say so in one sentence."
+     },
+     {
+      "type": "image_url",
+      "image_url": {
+       "url": "<image sha256:694a12fafdc4eae639eaa8f1>"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ "response": {
+  "id": "gen-1793373675-yE70Vkgym22uY4mwCB0W",
+  "choices": [
+   {
+    "finish_reason": "stop",
+    "index": 0,
+    "logprobs": null,
+    "message": {
+     "content": "The figure is an aircraft weight-and-balance diagram showing a side view of a fuselage section with station locations and component weights.\n\nLabels, values, units, part numbers, and notes printed in the figure:\n\n- AirDesign\n- 1906 Conard Circle\n- Austin, Texas 78734\n- (512) 266-5250 fax (512) 266-5052\n- report 490-1\n- prepared by\n- checked by\n- revision\n- sheet E3\n- H.Wells\n- H. Wells Howard\n- G\n- STA. (87.834)\n- STA. (168.780)\n- 100 lbs. (45 kg) each\n- 50 lbs. (23 kg)\n- NO LOAD (heat duct)\n- 183 lbs. (83 kg) (total)\n- STA. (128.737)\n- STA. (106.628)\n- STA. 73.040\n- STA. 53.986\n- 183 lbs. (83 kg) (total)\n- 544 lbs. (247 kg)\n- Seat belt fittings 170 lbs. each (77 kg)\n- 183 lbs. (83 kg) (total)",
+     "refusal": null,
+     "role": "assistant",
+     "annotations": null,
+     "audio": null,
+     "function_call": null,
+     "tool_calls": null,
+     "reasoning": null
+    },
+    "native_finish_reason": "stop"
+   }
+  ],
+  "created": 1793373675,
+  "model": "nvidia/nemotron-3.5-super-vl:free",
+  "object": "chat.completion",
+  "metadata": null,
+  "moderation": null,
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+   "completion_tokens": 321,
+   "prompt_tokens": 1052,
+   "total_tokens": 1373,
+   "completion_tokens_details": {
+    "accepted_prediction_tokens": null,
+    "audio_tokens": 0,
+    "reasoning_tokens": 0,
+    "rejected_prediction_tokens": null,
+    "text_tokens": null,
+    "image_tokens": 0
+   },
+   "prompt_tokens_details": {
+    "audio_tokens": 0,
+    "cache_write_tokens": 0,
+    "cached_tokens": 0,
+    "image_tokens": null,
+    "text_tokens": null,
+    "video_tokens": 0
+   },
+   "cost": 0,
+   "is_byok": false,
+   "cost_details": {
+    "upstream_inference_cost": 0,
+    "upstream_inference_prompt_cost": 0,
+    "upstream_inference_completions_cost": 0
+   }
+  },
+  "provider": "Nvidia"
+ }
+}

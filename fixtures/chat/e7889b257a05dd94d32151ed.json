@@ -1,0 +1,78 @@
+{
+ "request": {
+  "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+  "messages": [
+   {
+    "role": "user",
+    "content": "Answer the question using the supplied passages.\nIdentify the source of your answer.\nIf the passages don't establish an answer, say so.\n\nQuestion:\nWhat is the recommended torque for an 8-36 fine thread bolt with an MS20365 tension nut?\n\nSource: AC-43.13-1B-CH7, section 7-41\n| Thread size | Recommended for installation (bolts loaded primarily in shear): tension type nuts MS20365 and AN310 (40,000 psi in bolts) | Recommended for installation (bolts loaded primarily in shear): shear type nuts MS20364 and AN320 (24,000 psi in bolts) | Maximum allowable tightening torque: nuts MS20365 and AN310 (90,000 psi in bolts) | Maximum allowable tightening torque: nuts MS20364 and AN320 (54,000 psi in bolts) |\n| --- | --- | --- | --- | --- |\n| Fine thread series |  |  |  |  |\n| 8-36 | 12-15 | 7-9 | 20 | 12 |\n| 10-32 | 20-25 | 12-15 | 40 | 25 |\n| 1/4-28 | 50-70 | 30-40 | 100 | 60 |\n| 5/16-24 | 100-140 | 60-85 | 225 | 140 |\n| 3/8-24 | 160-190 | 95-110 | 390 | 240 |\n| 7/16-20 | 450-500 | 270-300 | 840 | 500 |\n| 1/2-20 | 480-690 | 290-410 | 1100 | 660 |\n| 9/16-18 | 800-1000 | 480-600 | 1600 | 960 |\n| 5/8-18 | 1100-1300 | 600-780 | 2400 | 1400 |\n| 3/4-16 | 2300-2500 | 1300-1500 | 5000 | 3000 |\n| 7/8-14 | 2500-3000 | 1500-1800 | 7000 | 4200 |\n| 1-14 | 3700-5500 | 2200-3300* | 10,000 | 6000 |\n| 1-1/8-12 | 5000-7000 | 3000-4200* | 15,000 | 9000 |\n| 1-1/4-12 | 9000-11,000 | 5400-6600* | 25,000 | 15,000 |\n| Coarse thread series |  |  |  |  |\n| 8-32 | 12-15 | 7-9 | 20 | 12 |\n\nSource: AC-43.13-1B-CH7, section 7-41\n| 10-24 | 20-25 | 12-15 | 35 | 21 |\n| 1/4-20 | 40-50 | 25-30 | 75 | 45 |\n| 5/16-18 | 80-90 | 48-55 | 160 | 100 |\n| 3/8-16 | 160-185 | 95-100 | 275 | 170 |\n| 7/16-14 | 235-255 | 140-155 | 475 | 280 |\n| 1/2-13 | 400-480 | 240-290 | 880 | 520 |\n| 9/16-12 | 500-700 | 300-420 | 1100 | 650 |\n| 5/8-11 | 700-900 | 420-540 | 1500 | 900 |\n| 3/4-10 | 1150-1600 | 700-950 | 2500 | 1500 |\n| 7/8-9 | 2200-3000 | 1300-1800 | 4600 | 2700 |\nThe above torque values may be used for all cadmium-plated steel nuts of the fine or coarse thread series which have approximately equal number of threads and equal face bearing areas. * Estimated corresponding values.\n\nSource: AC-43.13-1B-CH7, section \n| MS9939-9946 | Bolt, mach., dbl. Hex. Ext. wash. Hd., drilled, full shank, steel AMS 6322 cad. |\n| MS20004-20024 | Bolt, int. wrench, 160 KSI |\n| MS20033-20046 | Bolt, machine, hex. Head, 1200 \u00b0F |\n| MS20073-20074 | Bolt, machine, aircraft, drilled hd., fine & coarse thr. |\n| MS21091-21093 | Bolt, self-lock., 100\u00b0 flush head, cross re- cessed |\n| MS21094-21095 | Bolt, self-lock., hex. head |\n| MS21096-21097 | Bolt, self-lock., pan- head, crass recessed |\n| MS21098-21099 | Bolt, self-lock., 12 pt. ext. wrenching |\n| MS21250 | Bolt, 12 pt., ext. wrenching |\n| NAS144-158 | Bolt, internal wrench- ing, steel, 1/4-28 thru 1-1/8-12 |\n| NAS333-340 | Bolt, 100\u00b0, close tolerance, hi-strength |\n| NAS428 | Bolt, adjusting, crowned hex. hd. |\n| NAS464 | Bolt, shear, close tolerance |\n| NAS501 | Bolt, hex. head, drilled & undrilled |\n| NAS551 | Bolt, universal fitting |\n| NAS563-572 | Bolt, full thread, fully identified head |\n| NAS583-590 | Bolt, 100\u00b0 head, hi-torque, close tol. 160,000 psi |\n| NAS624-644 | Bolt, twelve point ex- ternal wrench, 180000 psi |\n| NAS653-658 | Bolt, hex. head, close tolerance, ti. alloy |\n| NAS663-668 | Bolt, full thread, fully identified head |\n\nSource: AC-43.13-1B-CH7, section 7-44\nCAUTION: Caution must be exercised in the use of close-tolerance bolts for all critical applications, such as landing gear, control systems, and helicopter rotary controls. Do not substitute for close-tolerance fasteners without specific instructions from the aircraft manufacturer or the FAA.\n\n7-45. INTERNAL WRENCHING BOLTS (NAS144 THROUGH NAS158 AND NAS172 THROUGH NAS176). These are highstrength bolts used primarily in tension applications. Use a special heat-treated washer (NAS143C) under the head to prevent the large radius of the shank from contacting only the sharp edge of the hole. Use a special heattreated washer (NAS143) under the nut.\n\n7-46. INTERNAL WRENCHING BOLTS (MS20004 THROUGH MS20024) AND SIX HOLE, DRILLED SOCKET HEAD BOLTS (AN148551 THROUGH AN149350). These are very similar to the bolts in paragraph 7-45, except these bolts are made from different alloys. The NAS144 through NAS158 and NAS172 through NAS176 are interchangeable with MS20004 through MS20024 in the same thread configuration and grip lengths. The AN148551 through AN149350 have been superseded by MS9088 through MS9094 with the exception of AN149251 through 149350, which has no superseding MS standard.\n\n\nSource: AC-43.13-1B-CH7, section \n| NAS6403-6420 | Bolt, hex. head, short thread, titanium |\n\nTABLE 7-12. (CONTINUED)\n| Bolt Number | Description |\n| --- | --- |\n| NAS6604-6620 | Bolt, hex head, long thread, alloy steel |\n| NAS6704-6720 | Bolt, hex. head, long thread, cres. |\n\nTABLE 7-13. TABLE OF NUTS.\n| Nut Part Number | Description |\n| --- | --- |\n| AN256 | Nut, self-lock right angle plate |\n| AN310 | Nuts, castellated |\n| AN315 | Nut, plain |\n| AN316 | Nut, check |\n| AN320 | Nut, castle shear |\n| AN335 | Nut, plain, hex, nonstructural |\n| AN340 | Nut, plain, hex., n-s, course thread |\n| AN341 | Nut, plain, hex. |\n| AN345 | Nut, plain, hex., n-s, fine thread |\n| AN350 | Nut, plain, wing |\n| AN355 | Nut, engine, slotted |\n| AN356 | Nut, stamped |\n| AN360 | Nut, plain, engine |\n| AN361 | Self-locking nut plate, countersunk 100\u00b0, 550 \u00b0F. |\n| AN362 | Nut, plate, self-locking, noncounters., 550\u00b0F. |\n| AN363 | Nut, self-locking, 550 \u00b0F. |\n| AN364 | Nut, self-locking, thin, 250 \u00b0F. |\n| AN365 | Nut, self-locking 250\u00b0F. |\n| AN366 | Nut, plate, noncounters., 250\u00b0F. |\n| AN373 | Countersunk nut, plate 100\u00b0, 250\u00b0F. |\n| AN805 | Nut, union |\n| AN817 | Nut, coupling |\n| AN818 | Nut, coupling |\n| AN924 | Nut, flared tube |"
+   }
+  ],
+  "max_tokens": 4000,
+  "temperature": 0
+ },
+ "response": {
+  "id": "gen-1793374018-GVEQmSM80nXIpsLVq6QW",
+  "choices": [
+   {
+    "finish_reason": "stop",
+    "index": 0,
+    "logprobs": null,
+    "message": {
+     "content": "Based on the provided table from AC-43.13-1B-CH7, section 7-41, the recommended installation torque for an 8-36 fine thread bolt with an MS20365 tension nut (bolts loaded primarily in shear) is **12-15 inch-pounds**.\n\n**Source:** AC-43.13-1B-CH7, section 7-41, first table (Fine thread series, row 8-36, column \"Recommended for installation (bolts loaded primarily in shear): tension type nuts MS20365 and AN310 (40,000 psi in bolts)\").",
+     "refusal": null,
+     "role": "assistant",
+     "annotations": null,
+     "audio": null,
+     "function_call": null,
+     "tool_calls": null,
+     "reasoning": "The user is asking for the recommended torque for an 8-36 fine thread bolt with an MS20365 tension nut. I need to look at the provided tables.\n\nThe first table shows \"Recommended for installation (bolts loaded primarily in shear): tension type nuts MS20365 and AN310 (40,000 psi in bolts)\" for fine thread series.\n\nLooking at the row for 8-36 fine thread, the value under that column is \"12-15\".\n\nThe units are likely inch-pounds, as typical for small fasteners, but the table doesn't explicitly state units. However, standard torque tables in AC 43.13-1B are in inch-pounds for these sizes.\n\nThe question asks for \"recommended torque\". The table has two categories: \"Recommended for installation (bolts loaded primarily in shear): tension type nuts MS20365 and AN310 (40,000 psi in bolts)\" and \"Maximum allowable tightening torque: nuts MS20365 and AN310 (90,000 psi in bolts)\".\n\nThe question specifies \"recommended torque\", which corresponds to the first column for tension type nuts MS20365.\n\nSo for 8-36 fine thread, the recommended torque is 12-15 (inch-pounds).\n\nI should cite the source: AC-43.13-1B-CH7, section 7-41, first table.",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "The user is asking for the recommended torque for an 8-36 fine thread bolt with an MS20365 tension nut. I need to look at the provided tables.\n\nThe first table shows \"Recommended for installation (bolts loaded primarily in shear): tension type nuts MS20365 and AN310 (40,000 psi in bolts)\" for fine thread series.\n\nLooking at the row for 8-36 fine thread, the value under that column is \"12-15\".\n\nThe units are likely inch-pounds, as typical for small fasteners, but the table doesn't explicitly state units. However, standard torque tables in AC 43.13-1B are in inch-pounds for these sizes.\n\nThe question asks for \"recommended torque\". The table has two categories: \"Recommended for installation (bolts loaded primarily in shear): tension type nuts MS20365 and AN310 (40,000 psi in bolts)\" and \"Maximum allowable tightening torque: nuts MS20365 and AN310 (90,000 psi in bolts)\".\n\nThe question specifies \"recommended torque\", which corresponds to the first column for tension type nuts MS20365.\n\nSo for 8-36 fine thread, the recommended torque is 12-15 (inch-pounds).\n\nI should cite the source: AC-43.13-1B-CH7, section 7-41, first table.",
+       "format": "unknown",
+       "index": 0
+      }
+     ]
+    },
+    "native_finish_reason": "stop"
+   }
+  ],
+  "created": 1793374018,
+  "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+  "object": "chat.completion",
+  "metadata": null,
+  "moderation": null,
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+   "completion_tokens": 472,
+   "prompt_tokens": 2708,
+   "total_tokens": 3180,
+   "completion_tokens_details": {
+    "accepted_prediction_tokens": null,
+    "audio_tokens": 0,
+    "reasoning_tokens": 288,
+    "rejected_prediction_tokens": null,
+    "text_tokens": null,
+    "image_tokens": 0
+   },
+   "prompt_tokens_details": {
+    "audio_tokens": 0,
+    "cache_write_tokens": 0,
+    "cached_tokens": 0,
+    "image_tokens": null,
+    "text_tokens": null,
+    "video_tokens": 0
+   },
+   "cost": 0,
+   "is_byok": false,
+   "cost_details": {
+    "upstream_inference_cost": 0,
+    "upstream_inference_prompt_cost": 0,
+    "upstream_inference_completions_cost": 0
+   }
+  },
+  "provider": "Nvidia"
+ }
+}

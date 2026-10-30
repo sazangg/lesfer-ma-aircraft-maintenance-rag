@@ -1,0 +1,86 @@
+{
+ "request": {
+  "model": "nvidia/nemotron-3.5-super-vl:free",
+  "max_tokens": 4000,
+  "temperature": 0,
+  "extra_body": {
+   "reasoning": {
+    "enabled": false
+   }
+  },
+  "messages": [
+   {
+    "role": "user",
+    "content": [
+     {
+      "type": "text",
+      "text": "This figure is from AC 43.13-1B, Acceptable Methods, Techniques, and Practices: Aircraft Inspection and Repair, chapter 7 (aircraft hardware, control cables, and turnbuckles). Its caption: \"FIGURE 7-5b. Safety-wiring procedures.\".\nDescribe it for a mechanic who can't see it: say what it shows, then transcribe every label,\nvalue, unit, part number, and note printed in it. Don't add anything that isn't in the figure.\nIf it shows nothing of use (a logo, a signature, a blank area), say so in one sentence."
+     },
+     {
+      "type": "image_url",
+      "image_url": {
+       "url": "<image sha256:7f6fdfc46e5684ac209fe385>"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ "response": {
+  "id": "gen-1793372568-emNssOjFZ7QNeUdsROkW",
+  "choices": [
+   {
+    "finish_reason": "stop",
+    "index": 0,
+    "logprobs": null,
+    "message": {
+     "content": "The figure shows eight examples of safety-wiring procedures for aircraft hardware, including coupling nuts, straight connectors, and turnbuckles, with accompanying notes on proper wiring methods.\n\nEXAMPLE 22\nEXAMPLE 23\nCoupling nuts attached to straight connectors shall be wired as, shown, when hex is an integral part of the connector.\nEXAMPLE 24\nCoupling nuts on a tee shall be wired, as shown above, so that tension is always in the tightening direction.\nEXAMPLE 25\nStraight Connector (Bulkhead Type)\nEXAMPLE 26\nEXAMPLE 27\nEXAMPLE 28\nExamples 26, 27, and 28 show the proper method for wiring various standard fittings with checknut wired independently so that it need not be disturbed when removing the coupling nut.",
+     "refusal": null,
+     "role": "assistant",
+     "annotations": null,
+     "audio": null,
+     "function_call": null,
+     "tool_calls": null,
+     "reasoning": null
+    },
+    "native_finish_reason": "stop"
+   }
+  ],
+  "created": 1793372568,
+  "model": "nvidia/nemotron-3.5-super-vl:free",
+  "object": "chat.completion",
+  "metadata": null,
+  "moderation": null,
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+   "completion_tokens": 177,
+   "prompt_tokens": 1292,
+   "total_tokens": 1469,
+   "completion_tokens_details": {
+    "accepted_prediction_tokens": null,
+    "audio_tokens": 0,
+    "reasoning_tokens": 0,
+    "rejected_prediction_tokens": null,
+    "text_tokens": null,
+    "image_tokens": 0
+   },
+   "prompt_tokens_details": {
+    "audio_tokens": 0,
+    "cache_write_tokens": 0,
+    "cached_tokens": 0,
+    "image_tokens": null,
+    "text_tokens": null,
+    "video_tokens": 0
+   },
+   "cost": 0,
+   "is_byok": false,
+   "cost_details": {
+    "upstream_inference_cost": 0,
+    "upstream_inference_prompt_cost": 0,
+    "upstream_inference_completions_cost": 0
+   }
+  },
+  "provider": "Nvidia"
+ }
+}

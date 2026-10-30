@@ -1,0 +1,86 @@
+{
+ "request": {
+  "model": "nvidia/nemotron-3.5-super-vl:free",
+  "max_tokens": 4000,
+  "temperature": 0,
+  "extra_body": {
+   "reasoning": {
+    "enabled": false
+   }
+  },
+  "messages": [
+   {
+    "role": "user",
+    "content": [
+     {
+      "type": "text",
+      "text": "This figure is from FAA-H-8083-30A, Aviation Maintenance Technician Handbook: General, chapter 2 (regulations, maintenance forms, records, and publications). Its caption: \"Figure 2-6. Graphic chart of FAA regulations (continued).\".\nDescribe it for a mechanic who can't see it: say what it shows, then transcribe every label,\nvalue, unit, part number, and note printed in it. Don't add anything that isn't in the figure.\nIf it shows nothing of use (a logo, a signature, a blank area), say so in one sentence."
+     },
+     {
+      "type": "image_url",
+      "image_url": {
+       "url": "<image sha256:ab83d86096757d551113c7dc>"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ "response": {
+  "id": "gen-1793373724-bftj7L0o690bQbHNovCE",
+  "choices": [
+   {
+    "finish_reason": "stop",
+    "index": 0,
+    "logprobs": null,
+    "message": {
+     "content": "The figure is a flowchart titled \u201cRecurrent Airworthiness\u201d that maps FAA organizations, regulations, certificates, and guidance documents. It shows relationships among Flight Standards Service (AFS), the Certificate Management Office (CMO), Flight Standards District Office (FSDO), and International Field Office (IFO), with numbered regulatory parts, certificate details, and associated handbooks or forms.\n\nLabels, values, units, part numbers, and notes printed in the figure:\n\nFlight Standards Service (AFS)\u2014\nRecurrent Airworthiness\nCertificate Management Office (CMO)\nFlight Standards District Office (FSDO)\nInternational Field Office (IFO)\n\nDEPARTMENT OF TRANSPORTATION\u2014FEDERAL AVIATION ADMINISTRATION\nSTANDARD AIRWORTHINESS CERTIFICATE\n\n1 NATIONALITY AND MARKS\nN2631A\n\n2 MANUFACTURER AND MODEL\nPIPER PA-22-135\n\n3 AIRCRAFT SERIAL NUMBER\n22-903\n\n4 CATEGORY\nNORMAL\n\n5 AUTHORITY AND BASIS FOR ISSUANCE\nThis airworthiness certificate is issued pursuant to the Federal Aviation Act of 1958 and certifies that, as of the date of issuance, the aircraft to which issued has been inspected and found to conform to the type certificate therefor, to be in condition for safe operation, and has been shown to meet the requirements of the applicable comprehensive and detailed airworthiness code as provided by Annex 8 to the Convention on International Civil Aviation, except as noted herein.\n\nExceptions:\nNONE\n\n6 TERMS AND CONDITIONS\nUnless sooner surrendered, suspended, revoked, or a termination date is otherwise established by the Administrator, this airworthiness certificate is effective as long as the maintenance, preventative maintenance, and alterations are performed in accordance with Parts 21, 43, and 91 of the Federal Aviation Regulations, as appropriate, and the aircraft is registered in the United States.\n\nDATE OF ISSUANCE\n08-10-95\n\nFAA REPRESENTATIVE\nMARION W. WILLIAMS\n\nDESIGNATION NUMBER\nSW-FSDO-OKC\n\nAny alteration, reproduction, or misuse of this certificate may be punishable by a fine not exceeding $1,000, or imprisonment not exceeding 3 years, or both. THIS CERTIFICATE MUST BE DISPLAYED IN THE AIRCRAFT IN ACCORDANCE WITH APPLICABLE FEDERAL AVIATION REGULATIONS.\n\nFAA Form 8100-2 (4-80)\nGPO 860-164\n\n21\nCertification Procedures for Products and Parts Subpart H, L, K\n\n\u00a7 43.5\nNo person may approve for return to service, unless...\n\n\u00a7 43.5\nMaintenance record entry required by \u00a743.9 or \u00a743.11, as appropriate\n\n14 CFR 43\nAppendix B\nFAA Form 337\n\n\u00a7 43.13a\nMethods, techniques, and practices current manufacturer\u2019s maintenance manuals\n\n\u00a7 43.13b\nWork and materials of such a quality that this condition will be at least equal to the original or property altered condition\n\n91\nGeneral Operating and Flight Rules\n\n43\nMaintenance, Preventive Maintenance, Maintenance, Rebuild, and Alteration\n\n45\nIdentification and Registration Marking\n\n47\nAircraft Registration\n\n183\nRepresentatives of the Administrator\n\n8100.8\nDesignee Management Handbook\n\n8130.2\nAirworthiness Certification\n\n8132.2\nDesignee Airworthiness Certification\n\nSuspected Unapproved Parts Program\n\n2150.3\nCompliance & Enforcement\n\nCertification: Pilots and Flight Instructors\n61\n\nCertification: Flight Crewmembers Other Than Pilots\n63\n\nCertification: Airmen Other Than Flight Crewmembers\n65\n\nA&P\nIA\nDispatcher\nRepairman\nParachute Rigger\n\nCertification: Air Carriers and Commercial Operators\n119\n\nCertification and Operation: Domestic, Flag, and Supplemental Air Carriers and Commercial Operators of Large Aircraft\n121\n\nCertification and Operations: Airplanes Having a Seating Capacity of 20 or More Passengers or a Maximum Payload Capacity of 6,000 Pounds or More\n125\n\n8400.10 Deviation\n\nAir Taxi Operators and Commercial Operators\n135\n\n9 or Less\n10 or More\n\nRepair Stations\n145\n\nOperating Specifications\nRepair Station Manual\n\nDrug and Alcohol Testing Program\n120\n\n8110.37\nDER Guidance Handbook\n\nDMIR\nDER\nDAR\nODA\nDAR\nDPE\nDME\nDPRE\n\nFAA ORDERS:\n8900.1 FSIMS",
+     "refusal": null,
+     "role": "assistant",
+     "annotations": null,
+     "audio": null,
+     "function_call": null,
+     "tool_calls": null,
+     "reasoning": null
+    },
+    "native_finish_reason": "stop"
+   }
+  ],
+  "created": 1793373724,
+  "model": "nvidia/nemotron-3.5-super-vl:free",
+  "object": "chat.completion",
+  "metadata": null,
+  "moderation": null,
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+   "completion_tokens": 1091,
+   "prompt_tokens": 1357,
+   "total_tokens": 2448,
+   "completion_tokens_details": {
+    "accepted_prediction_tokens": null,
+    "audio_tokens": 0,
+    "reasoning_tokens": 0,
+    "rejected_prediction_tokens": null,
+    "text_tokens": null,
+    "image_tokens": 0
+   },
+   "prompt_tokens_details": {
+    "audio_tokens": 0,
+    "cache_write_tokens": 0,
+    "cached_tokens": 0,
+    "image_tokens": null,
+    "text_tokens": null,
+    "video_tokens": 0
+   },
+   "cost": 0,
+   "is_byok": false,
+   "cost_details": {
+    "upstream_inference_cost": 0,
+    "upstream_inference_prompt_cost": 0,
+    "upstream_inference_completions_cost": 0
+   }
+  },
+  "provider": "Nvidia"
+ }
+}

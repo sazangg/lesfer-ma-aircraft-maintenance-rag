@@ -35,6 +35,10 @@ class PgVectorIndex:
         self.conn = psycopg.connect(dsn, autocommit=True)
         self.conn.execute(SCHEMA.format(dims=dimensions))
         register_vector(self.conn)
+        # HNSW searches a candidate list of ef_search entries (40 by default). The 194 work orders give
+        # nearly identical header chunks, and at 40 a question about CN-TFE's switch records found only
+        # those headers: none of the five nearest chunks. At 100, every case matches an exact search.
+        self.conn.execute("set hnsw.ef_search = 100")
 
     def reset(self, fingerprint: str) -> None:
         self.conn.execute("truncate chunks")

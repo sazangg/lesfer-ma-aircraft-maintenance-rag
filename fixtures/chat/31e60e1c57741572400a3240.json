@@ -1,0 +1,86 @@
+{
+ "request": {
+  "model": "nvidia/nemotron-3.5-super-vl:free",
+  "max_tokens": 4000,
+  "temperature": 0,
+  "extra_body": {
+   "reasoning": {
+    "enabled": false
+   }
+  },
+  "messages": [
+   {
+    "role": "user",
+    "content": [
+     {
+      "type": "text",
+      "text": "This figure is from FAA-H-8083-30A, Aviation Maintenance Technician Handbook: General, chapter 2 (regulations, maintenance forms, records, and publications). Its caption: \"Figure 2-16. Type certificate.\".\nDescribe it for a mechanic who can't see it: say what it shows, then transcribe every label,\nvalue, unit, part number, and note printed in it. Don't add anything that isn't in the figure.\nIf it shows nothing of use (a logo, a signature, a blank area), say so in one sentence."
+     },
+     {
+      "type": "image_url",
+      "image_url": {
+       "url": "<image sha256:430f7ea7949d28643fd97599>"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ "response": {
+  "id": "gen-1793373774-0IbWoCHbO1JAfcDQ8By9",
+  "choices": [
+   {
+    "finish_reason": "stop",
+    "index": 0,
+    "logprobs": null,
+    "message": {
+     "content": "The figure shows a blank FAA Type Certificate form with a large diagonal \u201cSAMPLE\u201d watermark across the page.\n\nPrinted text:\n- The United States of America\n- Department of Transportation\n- Federal Aviation Administration\n- Type Certificate\n- Number ______\n- This certificate issued to\n- certifies that the type design for the following product with the operating limitations and conditions thereof as specified in the Federal Aviation Regulations and the Type Certificate Data Sheet, meets the airworthiness requirements of part ______ of the Federal Aviation Regulations.\n- This certificate, and the Type Certificate Data Sheet which is a part hereof, shall remain in effect until surrendered, suspended, revoked, or a termination date is otherwise established by the Administrator of the Federal Aviation Administration.\n- Date of application:\n- Original Date of issuance:\n- Date of re-issuance:\n- By Direction of the Administrator\n- (Signature)\n- ____________________\n- (Title)\n- ____________________\n- This certificate may be transferred if endorsed as provided on the reverse hereof.\n- Any alteration of this certificate and/or the Type Certificate Data Sheet is punishable by a fine not exceeding $1,000, or imprisonment not exceeding 3 years, or both.\n- FAA FORM 8110-9 (2/82)(Representation)",
+     "refusal": null,
+     "role": "assistant",
+     "annotations": null,
+     "audio": null,
+     "function_call": null,
+     "tool_calls": null,
+     "reasoning": null
+    },
+    "native_finish_reason": "stop"
+   }
+  ],
+  "created": 1793373774,
+  "model": "nvidia/nemotron-3.5-super-vl:free",
+  "object": "chat.completion",
+  "metadata": null,
+  "moderation": null,
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+   "completion_tokens": 279,
+   "prompt_tokens": 1414,
+   "total_tokens": 1693,
+   "completion_tokens_details": {
+    "accepted_prediction_tokens": null,
+    "audio_tokens": 0,
+    "reasoning_tokens": 0,
+    "rejected_prediction_tokens": null,
+    "text_tokens": null,
+    "image_tokens": 0
+   },
+   "prompt_tokens_details": {
+    "audio_tokens": 0,
+    "cache_write_tokens": 0,
+    "cached_tokens": 0,
+    "image_tokens": null,
+    "text_tokens": null,
+    "video_tokens": 0
+   },
+   "cost": 0,
+   "is_byok": false,
+   "cost_details": {
+    "upstream_inference_cost": 0,
+    "upstream_inference_prompt_cost": 0,
+    "upstream_inference_completions_cost": 0
+   }
+  },
+  "provider": "Nvidia"
+ }
+}

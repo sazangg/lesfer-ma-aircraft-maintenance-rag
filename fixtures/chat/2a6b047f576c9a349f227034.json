@@ -1,0 +1,86 @@
+{
+ "request": {
+  "model": "nvidia/nemotron-3.5-super-vl:free",
+  "max_tokens": 4000,
+  "temperature": 0,
+  "extra_body": {
+   "reasoning": {
+    "enabled": false
+   }
+  },
+  "messages": [
+   {
+    "role": "user",
+    "content": [
+     {
+      "type": "text",
+      "text": "This figure is from AC 43.13-2B, Acceptable Methods, Techniques, and Practices: Aircraft Alterations. Its caption: \"FIGURE 4-2. TYPICAL ANTICOLLISION OR SUPPLEMENTARY LIGHT INSTALLATION INVOLVING A CUT STRINGER (UNPRESSURIZED)\".\nDescribe it for a mechanic who can't see it: say what it shows, then transcribe every label,\nvalue, unit, part number, and note printed in it. Don't add anything that isn't in the figure.\nIf it shows nothing of use (a logo, a signature, a blank area), say so in one sentence."
+     },
+     {
+      "type": "image_url",
+      "image_url": {
+       "url": "<image sha256:efe1bc741d89c97b939c94f0>"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ "response": {
+  "id": "gen-1793372916-m2VUwt7Vq3CCEmAoO5NA",
+  "choices": [
+   {
+    "finish_reason": "stop",
+    "index": 0,
+    "logprobs": null,
+    "message": {
+     "content": "The figure shows a structural repair detail for an unpressurized aircraft where a stringer has been cut to install an anticollision or supplementary light, including reinforcement doublers, added rivets, and flange modifications around the light opening.\n\nLabels, values, units, part numbers, and notes printed in the figure:\n\n- Anticollision Light or Supplementary Light\n- Cut Stringer\n- Reinforcing Doubler Alclad 2024-T3\n- Frame\n- Stringer\n- Double Flanges at Least the Height of Cut Stringer Flange\n- Stringer and Doubler Existing Rivets\n- Rivets Added as Shown on Frames\n- Stringer\n- Frame",
+     "refusal": null,
+     "role": "assistant",
+     "annotations": null,
+     "audio": null,
+     "function_call": null,
+     "tool_calls": null,
+     "reasoning": null
+    },
+    "native_finish_reason": "stop"
+   }
+  ],
+  "created": 1793372916,
+  "model": "nvidia/nemotron-3.5-super-vl:free",
+  "object": "chat.completion",
+  "metadata": null,
+  "moderation": null,
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+   "completion_tokens": 145,
+   "prompt_tokens": 545,
+   "total_tokens": 690,
+   "completion_tokens_details": {
+    "accepted_prediction_tokens": null,
+    "audio_tokens": 0,
+    "reasoning_tokens": 0,
+    "rejected_prediction_tokens": null,
+    "text_tokens": null,
+    "image_tokens": 0
+   },
+   "prompt_tokens_details": {
+    "audio_tokens": 0,
+    "cache_write_tokens": 0,
+    "cached_tokens": 0,
+    "image_tokens": null,
+    "text_tokens": null,
+    "video_tokens": 0
+   },
+   "cost": 0,
+   "is_byok": false,
+   "cost_details": {
+    "upstream_inference_cost": 0,
+    "upstream_inference_prompt_cost": 0,
+    "upstream_inference_completions_cost": 0
+   }
+  },
+  "provider": "Nvidia"
+ }
+}

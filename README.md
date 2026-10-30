@@ -10,7 +10,8 @@ It has one tagged checkpoint per part, like the companion repository, and record
 | --- | --- | --- |
 | 1 | How an AI assistant answers from company documents | `part-01` |
 | 2 | When a useful answer isn't a correct answer | `part-02` |
-| 3–14 | | coming |
+| 3 | From raw files to structured documents | `part-03` |
+| 4–14 | | coming |
 
 ## Run it without a key
 
@@ -33,9 +34,17 @@ Each case in `cases/cases.json` states the part meant to handle it. Failing case
 
 ## Run it live
 
-Set `OPENROUTER_API_KEY` in `.env` and `ANFA_MODE=live`. The default models are free on OpenRouter; OpenRouter allows 50 requests a day to them (1,000 once an account has bought 10 credits, which free models don't spend), and ingesting the corpus takes 34. The code calls only models whose name ends in `:free`. Free endpoints may keep what you send: fine for public FAA documents and a fictional company, not for real company documents. With `ANFA_MODE=record`, recorded responses are replayed and only the missing ones are requested and saved to `fixtures/`.
+Set `OPENROUTER_API_KEY` in `.env` and `ANFA_MODE=live`. The default models are free on OpenRouter; OpenRouter allows 50 requests a day to them (1,000 once an account has bought 10 credits, which free models don't spend), and ingesting the corpus takes about 202: 171 to describe the figures, 31 to embed the chunks. The code calls only models whose name ends in `:free`. Free endpoints may keep what you send: fine for public FAA documents and a fictional company, not for real company documents. With `ANFA_MODE=record`, recorded responses are replayed and only the missing ones are requested and saved to `fixtures/`.
 
 A changed question, prompt, or model misses its recorded response, so replay mode stops with a message instead of answering something else.
+
+## See what preparing the documents changed
+
+```bash
+uv run python -m anfa ingest-report                    # per document: what was removed, repaired, restored, corrected, and what needs a person
+uv run python -m anfa ingest-report --no-corrections   # the same, ignoring the reviewed corrections in corpus/corrections.json
+uv run pytest -q                                       # the converter's tests; no model is called
+```
 
 ## What's in here
 
@@ -44,9 +53,11 @@ corpus/source/faa/    the FAA documents, unchanged (SOURCES.md says where each c
 corpus/source/anfa/   the fictional company's documents, built by scripts/build_anfa.py
 cases/                cases.json: regression cases, one or two per part; eval.json: about 100 questions for measuring
 corpus/parsed/        the parser's output, committed so you don't need Docling installed
+corpus/corrections.json  corrections a person made after checking a page, each tied to the parse it was written against
 scripts/              build_anfa.py and anfa_history.py (the company's documents), build_eval.py, parse_sources.py (Docling), excerpt_pdf.py
 fixtures/             recorded model responses
 anfa/                 the assistant
+tests/                tests that need no model
 ```
 
 To rebuild the company documents or the parse: `uv run --group corpus python scripts/build_anfa.py` and `uv run --group parse python scripts/parse_sources.py` (Docling downloads its models on first use; the full parse takes about an hour on a CPU). `uv run python scripts/build_eval.py` rebuilds `cases/eval.json` from the same history the company's records are written from.

@@ -47,7 +47,7 @@ The list question fails as the article predicts: five passages can't hold 26 dir
 - The type certificate data sheet's two-column layout, label on the left and value on the right, comes back as "Engine / Fuel Lycoming IO-360-L2A...": the label "Fuel" lands on the engine's line.
 - Some section headings are not recognized, so their text is filed under the previous heading: the chunk labelled section III starts with "IV. Model 172D".
 - In AC 43.13-1B Table 7-1, a note printed sideways across the columns is read into the cells: the 8-36 row reads "FOLLOWING TORQUE 12-15", "CAUTION DERIVED FROM 7-9", "CADMIUM 20".
-- The 1930 NACA scan has an embedded text layer from an old OCR, and the parser uses it: "T t t 1 nnss Io of Europe", "STRUOTURAL", "COMITTEE", "March 15, 1950" for 1930.
+- The 1930 NACA scan comes back garbled: "T t t 1 nnss Io of Europe", "STRUOTURAL", "COMITTEE", "March 15, 1950" for 1930. (This note first blamed the scan's embedded text layer. Part 3 found the opposite: the text layer is good, and the garble came from the parser's own OCR.)
 - The training deck loses its speaker notes. The scanned work orders lose a work order number and merge the signatures into the text ("Approved for return to service: A.Tazi alaouí"), at a reported OCR confidence of 0.99.
 
 **What real models added:**
@@ -104,3 +104,67 @@ KNOWN GAP -> part-13 C15-revision-diff          missing 1 of 2: ['AC-43-9C']; 'O
 - **The work orders compete.** Questions about CN-TFE's oil pressure switch (C05, C12, C14) retrieve WO-2025-0095, which replaced CN-TFD's switch: same part, same directive, same wording, wrong aircraft. With 194 work orders that differ in a date, a registration, and a finding, similar text is the normal case.
 
 **Not a stopping point.** Keep this case file and runner whatever you build next. Every later checkpoint is judged by it.
+
+## part-03: From raw files to structured documents
+
+**Article:** [From Raw Files to Structured Documents](https://lesfer.ma/academy/reliable-ai-company-knowledge/from-raw-files-to-structured-documents)
+
+**Lands in:** ingestion. Answering doesn't change.
+
+```
+Preparing (once):  parser output -> conversion (anfa/convert.py) -> structured documents + ingestion report
+                   -> rendered text -> 1,200-character chunks -> embeddings -> Postgres + pgvector
+```
+
+`anfa/convert.py` turns each parsed document into the document a reader would recognize, and reports what it did. `python -m anfa ingest-report` prints the report; `--no-corrections` shows the documents without the reviewed corrections.
+
+| Step | On these documents |
+| --- | --- |
+| Drop page furniture | Running headers and footers, and the Federal Register's print-shop lines ("VerDate", "BILLING CODE", "TKELLEY on DSK3SPTVN1PROD with RULES", bare page numbers) |
+| Keep only the directive | A rule starts at "DEPARTMENT OF TRANSPORTATION" above the docket line that names the directive, and ends at its own "[FR Doc." line. In 35 of the 36 directives, between 6 and 83 elements of other rules go |
+| Apply reviewed corrections | `corpus/corrections.json`: Table 7-1 rebuilt from the page, and six lines of the scanned work orders. Each is tied to a fingerprint of the element it was written against; if a new parse changes that element, the correction isn't applied and the report asks for another look |
+| Repair predictable breaks | 10 AD numbers split at a line break ("AD 200324-13"); misprints quoted by correction notices, and EASA's own numbering (AD 2007-0232), left alone. TCDS section IV promoted from paragraph to heading |
+| Rejoin tables | Tables split across pages (43 parts in AC 43.13-1B chapter 7, one or two per logbook); the "TABLE 7-1." caption attached to its table; each workbook table scoped by its sheet name, which the parser drops |
+| Put back what the parser left out | The training deck's speaker notes, read from the PPTX |
+| Describe figures | 171 figures, by `nvidia/nemotron-3.5-super-vl:free` |
+| Report what needs a person | Pages whose text came from OCR and that nobody has checked against the image |
+
+**What the runner measured:**
+
+```
+PASS                 C01-record-entry           all 1 supplied; 'A description (...) of work performed' supplied
+PASS                 C02-price-access           none supplied
+PASS                 C03-torque-row             '8-36 12-15 7-9 20 12' supplied
+PASS                 C04-slide-notes            'applied once' supplied
+PASS                 C05-scanned-signature      'Approved for return to service: A. Tazi' supplied
+KNOWN GAP -> part-04 C06-engine-model-context   ['172S', 'Rated 180 Horsepower'] not in the same passage
+KNOWN GAP -> part-05 C07-exact-ad-number        first is AD-2013-11-11
+EARLY PASS           C08-part-number            all 1 supplied
+KNOWN GAP -> part-06 C09-engine-only-172S       'IO-360-L2A, Rated' not supplied
+KNOWN GAP -> part-06 C10-which-aircraft         status answered
+KNOWN GAP -> part-09 C11-every-ad               missing 17 of 21; completeness not guaranteed
+KNOWN GAP -> part-10 C12-switch-hours           answer lacks ['39.4']
+KNOWN GAP -> part-11 C13-muffler-fleet          answer lacks ['CN-TFA', 'CN-TFF']
+KNOWN GAP -> part-12 C14-records-trail          missing 1 of 3: ['AD-2013-11-11']
+KNOWN GAP -> part-13 C15-revision-diff          all 2 supplied; 'Overview of FAA Form 8130-3' not supplied
+
+6 passing, 9 known gaps, 0 regressions
+```
+
+The index holds 3,091 chunks, down from 3,353: the neighbouring rules and the print-shop lines are gone.
+
+**What the real documents added:**
+- **The OCR's confidence can't sort pages for review.** Docling scored every page of the scanned work orders 0.99, including the lines where it read a handwritten signature as text ("Approved for return to service: A.Tazi alaouí"). The article flags text below a confidence threshold; here nothing would be flagged. So the converter lists a scanned page as needing review until a person has checked it against the image (`reviewed_pages` in `corpus/corrections.json`).
+- **An OCR score on a page doesn't mean its text came from OCR.** The parser runs OCR on every bitmap, so printed advisory circulars get scores because of their figures. A page counts as OCR'd when the parser found much more text on it than the PDF's own text layer holds. That leaves three pages of printed documents to check, plus the NACA scan.
+- **The NACA scan's text layer is better than a new OCR.** Part 1 blamed the text layer for the garble. The layer reads "The success of the 1929 International Light Airplane Tour"; the parser's OCR read "T t t 1 nnss Io of Europe". Forcing full-page OCR made no difference. The catalog now tells the parser to skip OCR on that scan (`"parse": {"ocr": "off"}`), and the converter still lists all 31 pages as unchecked: the layer came from an earlier OCR and has its own slips ("COITTEE").
+- **Columns interleave.** Where two rules share a page, the parser sometimes reads their columns alternately. AD 2001-06-17's correction notice keeps a few lines of the Cessna 750 rule printed beside it: the reading order gives no way to separate them.
+- **Some tables need a person.** Table 7-1's sideways caution went into the cells of its first row and its bottom note into its last, and the two-level header came back in fragments. No rule recovers that; the reviewed correction does.
+
+**What real models added:**
+- The vision model reasons by default. On AC 43.13-1B Figure 7-27 it spent all 4,000 tokens reasoning and returned no description, five times in a row. With reasoning off, a figure takes about 5 seconds and the description is complete. Ingesting now takes 171 requests for figures and 31 for embeddings.
+- Fixtures store an image as its hash, not its bytes: the image is in `corpus/figures/`.
+- **The index stopped finding the evidence for one question.** pgvector's HNSW index keeps 40 candidates by default. After conversion, the 194 work orders' header chunks are nearly identical, and for "Is CN-TFE's oil pressure switch within the limit of AD 2013-11-11?" the search returned five of those headers (similarity 0.31) instead of the fleet register's switch row (0.62). An exact search found it. At `hnsw.ef_search = 100`, all 15 cases match an exact search. An approximate index is a setting to measure, not a default to trust.
+
+**The engine question changed answer.** Retrieval still misses the 172S section (Part 4's job), but the model now says the passages "do not establish the engine and rated power for the Cessna 172S", where Part 1 answered with the 172R's values. Nothing in this checkpoint asks for that: the passages changed, and the model behaved differently. One more reason the checks look at evidence, not wording.
+
+**Stop here if** your documents are born digital or a person checks the scanned ones, and each question is answered by one passage. The next gaps are about how text is cut and found, not about the text itself.

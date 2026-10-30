@@ -1,0 +1,86 @@
+{
+ "request": {
+  "model": "nvidia/nemotron-3.5-super-vl:free",
+  "max_tokens": 4000,
+  "temperature": 0,
+  "extra_body": {
+   "reasoning": {
+    "enabled": false
+   }
+  },
+  "messages": [
+   {
+    "role": "user",
+    "content": [
+     {
+      "type": "text",
+      "text": "This figure is from FAA-H-8083-30A, Aviation Maintenance Technician Handbook: General, chapter 2 (regulations, maintenance forms, records, and publications). Its caption: \"Figure 2-21. FAA Form 8130-7, Special Airworthiness Certificate.\".\nDescribe it for a mechanic who can't see it: say what it shows, then transcribe every label,\nvalue, unit, part number, and note printed in it. Don't add anything that isn't in the figure.\nIf it shows nothing of use (a logo, a signature, a blank area), say so in one sentence."
+     },
+     {
+      "type": "image_url",
+      "image_url": {
+       "url": "<image sha256:51c448d1185c9f8398695a95>"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ "response": {
+  "id": "gen-1793373786-6dLxyOTucYF6SBrglUhz",
+  "choices": [
+   {
+    "finish_reason": "stop",
+    "index": 0,
+    "logprobs": null,
+    "message": {
+     "content": "The figure shows the front and back of FAA Form 8130-7, Special Airworthiness Certificate, marked \u201cSAMPLE\u201d diagonally across both sides.\n\nFront:\nUNITED STATES OF AMERICA\nDEPARTMENT OF TRANSPORTATION - FEDERAL AVIATION ADMINISTRATION\nSPECIAL AIRWORTHINESS CERTIFICATE\n\nA\nCATEGORY/DESIGNATION\nPURPOSE\n\nB\nMANUFACTURER\nNAME\nADDRESS\n\nC\nFLIGHT\nFROM\nTO\n\nD\nN-\nBUILDER\nSERIAL NO.\nMODEL\nDATE OF ISSUANCE\nEXPIRY\n\nE\nOPERATING LIMITATIONS DATED\nARE PART OF THIS CERTIFICATE\nSIGNATURE OF FAA REPRESENTATIVE\nDESIGNATION OR OFFICE NO.\n\nAny alteration, reproduction or misuse of this certificate may be punishable by a fine not exceeding $1,000 or imprisonment not exceeding 3 years, or both. THIS CERTIFICATE MUST BE DISPLAYED IN THE AIRCRAFT IN ACCORDANCE WITH APPLICABLE TITLE 14, CODE OF FEDERAL REGULATIONS (CFR).\n\nFAA Form 8130-7 (04-11) Previous Edition 07/04 May be Used until Depleted\nSEE REVERSE SIDE\nNSN: 0052-00-693-4000\n\nBack:\nBack\n\nA\nThis airworthiness certificate is issued under the authority of Public Law 104-6, 49 United States Code (USC) 44704 and Title 14 Code of Federal Regulations (CFR).\n\nB\nThe airworthiness certificate authorizes the manufacturer named on the reverse side to conduct production flight tests, and only production flight tests, of aircraft registered in his name. No person may conduct production flight tests under this certificate: (1) Carrying persons or property for compensation or hire: and/or (2) Carrying persons not essential to the purpose of the flight.\n\nC\nThis airworthiness certificate authorizes the flight specified on the reverse side for the purpose shown in Block A.\n\nD\nThis airworthiness certificate certifies that as of the date of issuance, the aircraft to which issued has been inspected and found to meet the requirements of the applicable CFR. The aircraft does not meet the requirements of the applicable comprehensive and detailed airworthiness code as provided by Annex 8 to the Convention On International Civil Aviation. No person may operate the aircraft described on the reverse side: (1) except in accordance with the applicable CFR and in accordance with conditions and limitations which may be prescribed by the FAA as part of this certificate; (2) over any foreign country without the special permission of that country.\n\nE\nUnless sooner surrendered, suspended, or revoked, this airworthiness certificate is effective for the duration and under the conditions prescribed in 14 CFR, Part 21, Section 21.181 or 21.217.",
+     "refusal": null,
+     "role": "assistant",
+     "annotations": null,
+     "audio": null,
+     "function_call": null,
+     "tool_calls": null,
+     "reasoning": null
+    },
+    "native_finish_reason": "stop"
+   }
+  ],
+  "created": 1793373786,
+  "model": "nvidia/nemotron-3.5-super-vl:free",
+  "object": "chat.completion",
+  "metadata": null,
+  "moderation": null,
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+   "completion_tokens": 680,
+   "prompt_tokens": 1147,
+   "total_tokens": 1827,
+   "completion_tokens_details": {
+    "accepted_prediction_tokens": null,
+    "audio_tokens": 0,
+    "reasoning_tokens": 0,
+    "rejected_prediction_tokens": null,
+    "text_tokens": null,
+    "image_tokens": 0
+   },
+   "prompt_tokens_details": {
+    "audio_tokens": 0,
+    "cache_write_tokens": 0,
+    "cached_tokens": 0,
+    "image_tokens": null,
+    "text_tokens": null,
+    "video_tokens": 0
+   },
+   "cost": 0,
+   "is_byok": false,
+   "cost_details": {
+    "upstream_inference_cost": 0,
+    "upstream_inference_prompt_cost": 0,
+    "upstream_inference_completions_cost": 0
+   }
+  },
+  "provider": "Nvidia"
+ }
+}

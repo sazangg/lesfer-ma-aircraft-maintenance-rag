@@ -1,0 +1,86 @@
+{
+ "request": {
+  "model": "nvidia/nemotron-3.5-super-vl:free",
+  "max_tokens": 4000,
+  "temperature": 0,
+  "extra_body": {
+   "reasoning": {
+    "enabled": false
+   }
+  },
+  "messages": [
+   {
+    "role": "user",
+    "content": [
+     {
+      "type": "text",
+      "text": "This figure is from AC 43.13-1B, Acceptable Methods, Techniques, and Practices: Aircraft Inspection and Repair, chapter 7 (aircraft hardware, control cables, and turnbuckles).\nDescribe it for a mechanic who can't see it: say what it shows, then transcribe every label,\nvalue, unit, part number, and note printed in it. Don't add anything that isn't in the figure.\nIf it shows nothing of use (a logo, a signature, a blank area), say so in one sentence."
+     },
+     {
+      "type": "image_url",
+      "image_url": {
+       "url": "<image sha256:4775489d6e439dcc8c2354f6>"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ "response": {
+  "id": "gen-1793372692-evC08nkTUD9VoRj4UyAT",
+  "choices": [
+   {
+    "finish_reason": "stop",
+    "index": 0,
+    "logprobs": null,
+    "message": {
+     "content": "The figure shows Table 7-12 (continued), a two-column table listing aircraft bolt part numbers, line drawings of each bolt, and descriptions of head style, material, thread type, strength, and temperature rating.\n\nLeft column:\n- NAS1223-1235: Bolt, self-locking, hex. head 250 \u00b0F\n- NAS1236: Bolt, universal, Tube-end, flaresless\n- NAS1243-1250: Bolt, 100\u00b0 head, hi-torq. 1600 psi\n- NAS1253-1260: Bolt, 100\u00b0 head, flush hd., .0312 O.S. hi-torque\n- NAS1261-1270: Bolt, hex. head, short thread\n- NAS1271-1280: Bolt, 12 point hd., external wrenching\n- NAS1297: Bolt, shoulder, hex. head\n- NAS1303-1320: Bolt, hex. head, close tolerance, 160,000 psi\n- NAS1414-1422: Lock bolt, shear 100\u00b0 head, all. steel\n- NAS1424-1432: Lock bolt, shear protruding head, steel\n- NAS1503-1510: Bolt, 100\u00b0 flush head, hi-torq.\n\nRight column:\n- NAS1516-1522: Lock Bolt, 100\u00b0 head, pull type, al. Alloy\n- NAS1578: Bolt, shear panhead, 1200 \u00b0F\n- NAS1580: Bolt, tension, flush hd., 1200 \u00b0F\n- NAS1581: Bolt, shear reduced 100 \u00b0F flush head, 1200 \u00b0F\n- NAS1586: Bolt-tension, 1200 \u00b0F, 12 point, external wrenching\n- NAS1588: Bolt, tension, flush hd., 1200 \u00b0F\n- NAS1703-1710: Bolt, 100\u00b0 head, .0156 O.S. shank,\n- NAS2005-2012: Bolt lock, protruding head, ti. Alloy\n- NAS2105-2112: Bolt, lock, 100\u00b0 head, ti. Alloy\n- NAS2206-2210: Bolt, lock, stump type, protruding head, ti. Alloy\n- NAS2306-2310: Bolt, lock, stump type, 100\u00b0 head, ti. Alloy",
+     "refusal": null,
+     "role": "assistant",
+     "annotations": null,
+     "audio": null,
+     "function_call": null,
+     "tool_calls": null,
+     "reasoning": null
+    },
+    "native_finish_reason": "stop"
+   }
+  ],
+  "created": 1793372692,
+  "model": "nvidia/nemotron-3.5-super-vl:free",
+  "object": "chat.completion",
+  "metadata": null,
+  "moderation": null,
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+   "completion_tokens": 633,
+   "prompt_tokens": 1304,
+   "total_tokens": 1937,
+   "completion_tokens_details": {
+    "accepted_prediction_tokens": null,
+    "audio_tokens": 0,
+    "reasoning_tokens": 0,
+    "rejected_prediction_tokens": null,
+    "text_tokens": null,
+    "image_tokens": 0
+   },
+   "prompt_tokens_details": {
+    "audio_tokens": 0,
+    "cache_write_tokens": 0,
+    "cached_tokens": 0,
+    "image_tokens": null,
+    "text_tokens": null,
+    "video_tokens": 0
+   },
+   "cost": 0,
+   "is_byok": false,
+   "cost_details": {
+    "upstream_inference_cost": 0,
+    "upstream_inference_prompt_cost": 0,
+    "upstream_inference_completions_cost": 0
+   }
+  },
+  "provider": "Nvidia"
+ }
+}

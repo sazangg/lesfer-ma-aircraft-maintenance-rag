@@ -20,11 +20,13 @@ class ParsedDocument:
     format: str
     meta: dict[str, str]
     elements: list[dict]
+    ocr: str = ""  # how the parser was told to use OCR: "" (where needed), "off", or "full-page"
 
 
 def load_corpus(directory: Path = CORPUS_DIR / "parsed") -> list[ParsedDocument]:
     documents = []
     for path in sorted(directory.glob("*.json")):
         data = json.loads(path.read_text(encoding="utf-8"))
-        documents.append(ParsedDocument(data["source_id"], data["file"], data["format"], data["meta"], data["elements"]))
+        documents.append(ParsedDocument(data["source_id"], data["file"], data["format"], data["meta"], data["elements"],
+                                         data.get("ocr", "")))
     return documents

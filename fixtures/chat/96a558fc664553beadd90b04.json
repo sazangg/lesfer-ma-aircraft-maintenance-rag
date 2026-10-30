@@ -1,0 +1,86 @@
+{
+ "request": {
+  "model": "nvidia/nemotron-3.5-super-vl:free",
+  "max_tokens": 4000,
+  "temperature": 0,
+  "extra_body": {
+   "reasoning": {
+    "enabled": false
+   }
+  },
+  "messages": [
+   {
+    "role": "user",
+    "content": [
+     {
+      "type": "text",
+      "text": "This figure is from FAA-H-8083-30A, Aviation Maintenance Technician Handbook: General, chapter 2 (regulations, maintenance forms, records, and publications). Its caption: \"Figure 2-14. Supplemental type certificate (STC).\".\nDescribe it for a mechanic who can't see it: say what it shows, then transcribe every label,\nvalue, unit, part number, and note printed in it. Don't add anything that isn't in the figure.\nIf it shows nothing of use (a logo, a signature, a blank area), say so in one sentence."
+     },
+     {
+      "type": "image_url",
+      "image_url": {
+       "url": "<image sha256:59fc08455c49cdd2dfbe5d5a>"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ "response": {
+  "id": "gen-1793373761-U3GXpY5kKeswndK6iJ6H",
+  "choices": [
+   {
+    "finish_reason": "stop",
+    "index": 0,
+    "logprobs": null,
+    "message": {
+     "content": "The figure shows a sample FAA Supplemental Type Certificate (STC) for a propeller installation on a Commander Model 114 airplane, with a large diagonal \u201cSAMPLE\u201d watermark across the page.\n\nUnited States Of America\nDepartment of Transportation - Federal Aviation Administration\nSupplemental Type Certificate\nNumber SA7855SW\nThis Certificate issued to Commander Premier Aircraft Corporation\n20 Stanford Drive\nFarmington, CT 06032\ncertifies that the change in the type design for the following product with the limitations and conditions therefore as specified hereon meets the airworthiness requirements of Part 23 of the Federal Aviation Regulations.\nOriginal Product Type Certificate Number: A12SO\nMake: Commander\nModel: 114\nDescription of Type Design Change: Installation of McCauley B3D32C419/82NHA-5 Propeller on Commander Model 114 airplane in accordance with Commander Aircraft Co., Installation Instructions dated July 13, 1990, Revision A dated August 22, 1990, or later FAA approved revision.\nLimitations and Conditions: FAA approved Commander Aircraft Co. Flight Manual Supplement dated August 23, 1990, must accompany this modification. The installer must determine whether this design change is compatible with previously approved modifications. If the holder agrees to permit another person to use this certificate to alter a product, the holder must give the other person written evidence of that permission.\nThis certificate and the supporting data which is the basis for approval shall remain in effect until surrendered, suspended, revoked or a termination date is otherwise established by the Administrator of the Federal Aviation Administration.\nDate of application: February 09, 1990\nDate of issuance: August 23, 1990\nDate reissued: March 03, 2006\nDate amended: Amd. 1, September 10, 1990\nBy direction of the Administrator\n(Signature)\nMichele M. Owsley, Manager\nAirplane Certification Office,\nSouthwest Region\n(Title)\nAny alteration of this certificate is punishable by a fine of not exceeding $1,000, or imprisonment not exceeding 3 years, or both.\nFAA Form 8110-2 (10-68) Page 1 of 1\nThis certificate may be transferred in accordance with FAR 21.47.",
+     "refusal": null,
+     "role": "assistant",
+     "annotations": null,
+     "audio": null,
+     "function_call": null,
+     "tool_calls": null,
+     "reasoning": null
+    },
+    "native_finish_reason": "stop"
+   }
+  ],
+  "created": 1793373761,
+  "model": "nvidia/nemotron-3.5-super-vl:free",
+  "object": "chat.completion",
+  "metadata": null,
+  "moderation": null,
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+   "completion_tokens": 524,
+   "prompt_tokens": 1418,
+   "total_tokens": 1942,
+   "completion_tokens_details": {
+    "accepted_prediction_tokens": null,
+    "audio_tokens": 0,
+    "reasoning_tokens": 0,
+    "rejected_prediction_tokens": null,
+    "text_tokens": null,
+    "image_tokens": 0
+   },
+   "prompt_tokens_details": {
+    "audio_tokens": 0,
+    "cache_write_tokens": 0,
+    "cached_tokens": 0,
+    "image_tokens": null,
+    "text_tokens": null,
+    "video_tokens": 0
+   },
+   "cost": 0,
+   "is_byok": false,
+   "cost_details": {
+    "upstream_inference_cost": 0,
+    "upstream_inference_prompt_cost": 0,
+    "upstream_inference_completions_cost": 0
+   }
+  },
+  "provider": "Nvidia"
+ }
+}

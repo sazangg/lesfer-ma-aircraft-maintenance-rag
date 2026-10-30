@@ -1,0 +1,78 @@
+{
+ "request": {
+  "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+  "messages": [
+   {
+    "role": "user",
+    "content": "Answer the question using the supplied passages.\nIdentify the source of your answer.\nIf the passages don't establish an answer, say so.\n\nQuestion:\nWhat must a maintenance record entry contain?\n\nSource: CFR-14-43, section \u00a7\n(a) Maintenance record entries. Except as provided in paragraphs (b) and (c) of this section, each person who maintains, performs preventive maintenance, rebuilds, or alters an aircraft, airframe, aircraft engine, propeller, appliance, or component part shall make an entry in the maintenance record of that equipment containing the following information:\n\n(1) A description (or reference to data acceptable to the Administrator) of work performed.\n\n(2) The date of completion of the work performed.\n\n(3) The name of the person performing the work if other than the person specified in paragraph (a)(4) of this section.\n\n(4) If the work performed on the aircraft, airframe, aircraft engine, propeller, appliance, or component part has been performed satisfactorily, the signature, certificate number, and kind of certificate held by the person approving the work. The signature constitutes the approval for return to service only for the work performed.\n\n\nSource: AC-43-9C, section 5\nSection 91.417(a)(2)(iv). Deals with the current inspection status and requires it to be refiected in the maintenance record. Again, the explanation in paragraph 5g (2) is appropriate even though section 43.1 1(a)(2) requires maintenance persons to determine timein-service of the item being inspected and to include it as part of the inspection entry.\n\nSection 91.417(a)(2)(v). Requires the current status of applicable AD's to be a part of the maintenance record. The record is to include, at minimum, the method used to comply with the AD, the AD number, and revision date; and if the AD has requirements for recurring\n\naction, the time-in-service and the date when that action is required. When AD's are accomplished, maintenance persons are required to include the items specified in section 43.9(a)(2), (3), and (4) in addition to those required by section 91.417(a)(2)(v). An example of a maintenance record format for AD compliance is contained in Appendix 1.\n\n\nSource: AC-43-9C, section 5\nSection 91.417(a)(2). Requires six items to be made a part of the maintenance record and maintained as such. Section 43.9 does not require maintenance personnel to enter these itens. Section 43.11 requires some of them to be part of entries made for inspections, but they ar\u0119 all the responsibility of the owner or operator. The six items are discussed as follows:\n\nSection 91.417(a)(2)(i). Requires a record of total time-in-service to be kept for the airframe, each engine, and each propeller. Part 1, section 1.1, Definitions, defines time in service, with respect to maintenance time records, as that time from the moment an aircraft leaves the surface of the earth until it touches down at the next point of landing. Section 43.9 does not require this to be part of the entries for maintenance, preventive maintenance, rebuilding, or alterations. However, section 43.11 requires maintenance personnel to make it a part of the entries for inspections made under parts 91, 125, and time-in-service in all entries.\n\n\nSource: AC-43-9C, section 5\nd. Section 91.417(a)(1)(i). Requires the maintenance record entry to include \"a description of the work performed.\"The description should be in sufficient detail to permit a person unfamiliar with the work to understand what was done, and the methods and procedures used in doing it. When the work is extensive, this results in a voluminous record. To provide for this contingency, the rule permits reference to technical data acceptable to the Administrator in lieu of making the detailed entry. Manufacturer's manuals, service letters, bulletins, work orders, FAA AC's, and others, which accurately describe what was done, or how it was done, may be referenced. Except for the documents mentioned, which are in common usage, referenced documents are to be made a part of the maintenance records and retained in accordance with section 91.417(b).\n\n\nSource: PROC-R7, section 5\n5.1 Every maintenance record entry contains what 14 CFR 43.9 requires: a description of the work, the date it was completed, the name of the person who did it, and the signature and certificate number of the person approving the aircraft for return to service.\n\n5.2 Write airframe hours as read from the aircraft's hour meter, to one decimal place, and check the figure you copied from the work order into the register before signing.\n\n5.3 Work orders are scanned and kept with the aircraft records. The paper originals are kept for two years."
+   }
+  ],
+  "max_tokens": 4000,
+  "temperature": 0
+ },
+ "response": {
+  "id": "gen-1793373959-qyKSyiKJsM99t6lnI0EK",
+  "choices": [
+   {
+    "finish_reason": "stop",
+    "index": 0,
+    "logprobs": null,
+    "message": {
+     "content": "Based on the supplied passages, a maintenance record entry must contain the following information as required by **14 CFR 43.9(a)** (Source: CFR-14-43, section \u00a7):\n\n1.  **A description (or reference to data acceptable to the Administrator) of work performed.**\n2.  **The date of completion of the work performed.**\n3.  **The name of the person performing the work** (if other than the person approving the work for return to service).\n4.  **If the work has been performed satisfactorily, the signature, certificate number, and kind of certificate held by the person approving the work.** The signature constitutes the approval for return to service only for the work performed.\n\nThis is also summarized in **PROC-R7, section 5.1**, which states: \"Every maintenance record entry contains what 14 CFR 43.9 requires: a description of the work, the date it was completed, the name of the person who did it, and the signature and certificate number of the person approving the aircraft for return to service.\"",
+     "refusal": null,
+     "role": "assistant",
+     "annotations": null,
+     "audio": null,
+     "function_call": null,
+     "tool_calls": null,
+     "reasoning": "The user is asking what a maintenance record entry must contain, and has provided several source passages. I need to answer based on these passages and identify the source.\n\nLooking at the sources:\n\n1. CFR-14-43, section \u00a7 (appears to be \u00a743.9(a)) - lists four requirements:\n   (1) Description of work performed (or reference to acceptable data)\n   (2) Date of completion\n   (3) Name of person performing work (if different from approver)\n   (4) Signature, certificate number, and kind of certificate of person approving work (if work performed satisfactorily)\n\n2. AC-43-9C, section 5 - discusses Section 91.417 requirements which are owner/operator responsibilities, not maintenance personnel requirements under 43.9\n\n3. AC-43-9C, section 5 (another excerpt) - discusses description of work performed in more detail\n\n4. PROC-R7, section 5 - summarizes 14 CFR 43.9 requirements as: description of work, date completed, name of person who did it, signature and certificate number of person approving for return to service\n\nThe question asks \"What must a maintenance record entry contain?\" The primary regulatory source is 14 CFR 43.9(a), which is provided in the first source (CFR-14-43). The PROC-R7 also summarizes this.\n\nI should answer based on the regulatory requirement in CFR-14-43, which is the actual regulation. The other sources provide additional context but the core answer is from 43.9(a).",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "The user is asking what a maintenance record entry must contain, and has provided several source passages. I need to answer based on these passages and identify the source.\n\nLooking at the sources:\n\n1. CFR-14-43, section \u00a7 (appears to be \u00a743.9(a)) - lists four requirements:\n   (1) Description of work performed (or reference to acceptable data)\n   (2) Date of completion\n   (3) Name of person performing work (if different from approver)\n   (4) Signature, certificate number, and kind of certificate of person approving work (if work performed satisfactorily)\n\n2. AC-43-9C, section 5 - discusses Section 91.417 requirements which are owner/operator responsibilities, not maintenance personnel requirements under 43.9\n\n3. AC-43-9C, section 5 (another excerpt) - discusses description of work performed in more detail\n\n4. PROC-R7, section 5 - summarizes 14 CFR 43.9 requirements as: description of work, date completed, name of person who did it, signature and certificate number of person approving for return to service\n\nThe question asks \"What must a maintenance record entry contain?\" The primary regulatory source is 14 CFR 43.9(a), which is provided in the first source (CFR-14-43). The PROC-R7 also summarizes this.\n\nI should answer based on the regulatory requirement in CFR-14-43, which is the actual regulation. The other sources provide additional context but the core answer is from 43.9(a).",
+       "format": "unknown",
+       "index": 0
+      }
+     ]
+    },
+    "native_finish_reason": "stop"
+   }
+  ],
+  "created": 1793373959,
+  "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+  "object": "chat.completion",
+  "metadata": null,
+  "moderation": null,
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+   "completion_tokens": 585,
+   "prompt_tokens": 1099,
+   "total_tokens": 1684,
+   "completion_tokens_details": {
+    "accepted_prediction_tokens": null,
+    "audio_tokens": 0,
+    "reasoning_tokens": 356,
+    "rejected_prediction_tokens": null,
+    "text_tokens": null,
+    "image_tokens": 0
+   },
+   "prompt_tokens_details": {
+    "audio_tokens": 0,
+    "cache_write_tokens": 0,
+    "cached_tokens": 0,
+    "image_tokens": null,
+    "text_tokens": null,
+    "video_tokens": 0
+   },
+   "cost": 0,
+   "is_byok": false,
+   "cost_details": {
+    "upstream_inference_cost": 0,
+    "upstream_inference_prompt_cost": 0,
+    "upstream_inference_completions_cost": 0
+   }
+  },
+  "provider": "Nvidia"
+ }
+}

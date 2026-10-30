@@ -1,0 +1,86 @@
+{
+ "request": {
+  "model": "nvidia/nemotron-3.5-super-vl:free",
+  "max_tokens": 4000,
+  "temperature": 0,
+  "extra_body": {
+   "reasoning": {
+    "enabled": false
+   }
+  },
+  "messages": [
+   {
+    "role": "user",
+    "content": [
+     {
+      "type": "text",
+      "text": "This figure is from AC 43.13-2B, Acceptable Methods, Techniques, and Practices: Aircraft Alterations.\nDescribe it for a mechanic who can't see it: say what it shows, then transcribe every label,\nvalue, unit, part number, and note printed in it. Don't add anything that isn't in the figure.\nIf it shows nothing of use (a logo, a signature, a blank area), say so in one sentence."
+     },
+     {
+      "type": "image_url",
+      "image_url": {
+       "url": "<image sha256:72e6900cc97f5a09b5ff7932>"
+      }
+     }
+    ]
+   }
+  ]
+ },
+ "response": {
+  "id": "gen-1793373550-peCyZbUEzgoHpQAjmONZ",
+  "choices": [
+   {
+    "finish_reason": "stop",
+    "index": 0,
+    "logprobs": null,
+    "message": {
+     "content": "The figure shows an aircraft battery installation with a battery box, battery, vent lines, and mounting hardware.\n\nLabels, values, units, part numbers, and notes:\n- BATTERY\n- VENT LINE\n- DRAIN TUBE\n- BATTERY BOX\n- BATTERY TRAY\n- BATTERY HOLD-DOWN\n- BATTERY TERMINAL\n- BATTERY CABLE\n- BATTERY VENT\n- BATTERY DRAIN\n- BATTERY MOUNTING\n- BATTERY SECURING\n- BATTERY PROTECTION\n- BATTERY VENTING\n- BATTERY DRAINAGE\n- BATTERY INSTALLATION\n- BATTERY SYSTEM\n- BATTERY COMPONENT\n- BATTERY ASSEMBLY\n- BATTERY CONNECTION\n- BATTERY TERMINAL CONNECTION\n- BATTERY CABLE CONNECTION\n- BATTERY VENT CONNECTION\n- BATTERY DRAIN CONNECTION\n- BATTERY MOUNTING CONNECTION\n- BATTERY SECURING CONNECTION\n- BATTERY PROTECTION CONNECTION\n- BATTERY VENTING CONNECTION\n- BATTERY DRAINAGE CONNECTION\n- BATTERY INSTALLATION CONNECTION\n- BATTERY SYSTEM CONNECTION\n- BATTERY COMPONENT CONNECTION\n- BATTERY ASSEMBLY CONNECTION",
+     "refusal": null,
+     "role": "assistant",
+     "annotations": null,
+     "audio": null,
+     "function_call": null,
+     "tool_calls": null,
+     "reasoning": null
+    },
+    "native_finish_reason": "stop"
+   }
+  ],
+  "created": 1793373550,
+  "model": "nvidia/nemotron-3.5-super-vl:free",
+  "object": "chat.completion",
+  "metadata": null,
+  "moderation": null,
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+   "completion_tokens": 341,
+   "prompt_tokens": 396,
+   "total_tokens": 737,
+   "completion_tokens_details": {
+    "accepted_prediction_tokens": null,
+    "audio_tokens": 0,
+    "reasoning_tokens": 0,
+    "rejected_prediction_tokens": null,
+    "text_tokens": null,
+    "image_tokens": 0
+   },
+   "prompt_tokens_details": {
+    "audio_tokens": 0,
+    "cache_write_tokens": 0,
+    "cached_tokens": 0,
+    "image_tokens": null,
+    "text_tokens": null,
+    "video_tokens": 0
+   },
+   "cost": 0,
+   "is_byok": false,
+   "cost_details": {
+    "upstream_inference_cost": 0,
+    "upstream_inference_prompt_cost": 0,
+    "upstream_inference_completions_cost": 0
+   }
+  },
+  "provider": "Nvidia"
+ }
+}
