@@ -1,0 +1,211 @@
+{
+ "request": {
+  "model": "nvidia/nemotron-3.5-rerank-8b:free",
+  "query": "Which 172S serial numbers does AD 2007-05-10 cover?",
+  "documents": [
+   "AD 2007-05-10: Cessna Aircraft Company Models 172R, 172S, 182S, 182T, T182T, 206H, and T206H Airplanes\nApplicability\n| Model | Serial Nos. |\n| --- | --- |\n| 172R ...... 172S ...... 182S ...... 182T ....... T182T .... 206H ...... T206H .... | 17280001 through 17281262. 172S8001 through 172S9994. 18280001 through 18280944. 18280945 through 18281701. T18208001 through T18208453. 20608001 through 20608250. T20608001 through T20608570. |",
+   "AD 2007-05-10: Cessna Aircraft Company Models 172R, 172S, 182S, 182T, T182T, 206H, and T206H Airplanes\nApplicability\n(c) This AD affects the following airplane models and serial numbers that are certificated in any category:",
+   "AD 2007-05-10: Cessna Aircraft Company Models 172R, 172S, 182S, 182T, T182T, 206H, and T206H Airplanes\nAffected ADs\n(b) None.",
+   "AD 2007-05-10: Cessna Aircraft Company Models 172R, 172S, 182S, 182T, T182T, 206H, and T206H Airplanes\n14 CFR Part 39\n[Docket No. FAA-2006-25261; Directorate Identifier 2006-CE-38-AD; Amendment 3914971; AD 2007-05-10]",
+   "AD 2007-05-10: Cessna Aircraft Company Models 172R, 172S, 182S, 182T, T182T, 206H, and T206H Airplanes\nKim Smith,\nManager, Small Airplane Directorate, Aircraft Certification Service.",
+   "AD 2007-05-10: Cessna Aircraft Company Models 172R, 172S, 182S, 182T, T182T, 206H, and T206H Airplanes\n2007-05-10 Cessna Aircraft Company:\nAmendment 39-14971; Docket No. FAA-2006-25261; Directorate Identifier\n2006-CE-38-AD.",
+   "AD 2007-05-10: Cessna Aircraft Company Models 172R, 172S, 182S, 182T, T182T, 206H, and T206H Airplanes\nEffective Date\n(a) This AD becomes effective on April 11, 2007.",
+   "AD 2007-05-10: Cessna Aircraft Company Models 172R, 172S, 182S, 182T, T182T, 206H, and T206H Airplanes\nList of Subjects in 14 CFR Part 39\nAir transportation, Aircraft, Aviation safety, Incorporation by reference, Safety.",
+   "AD 2007-05-10: Cessna Aircraft Company Models 172R, 172S, 182S, 182T, T182T, 206H, and T206H Airplanes\n\u00a739.13 [Amended]\n\u25a0 2. FAA amends \u00a739.13 by adding a new AD to read as follows:",
+   "AD 2007-05-10: Cessna Aircraft Company Models 172R, 172S, 182S, 182T, T182T, 206H, and T206H Airplanes\nPART 39-AIRWORTHINESS DIRECTIVES\n\u25a0 1. The authority citation for part 39 continues to read as follows:\nAuthority: 49 U.S.C. 106(g), 40113, 44701.",
+   "AD 2007-05-10: Cessna Aircraft Company Models 172R, 172S, 182S, 182T, T182T, 206H, and T206H Airplanes\nAdoption of the Amendment\n\u25a0 Accordingly, under the authority delegated to me by the Administrator, the Federal Aviation Administration amends part 39 of the Federal Aviation Regulations (14 CFR part 39) as follows:",
+   "AD 2007-05-10: Cessna Aircraft Company Models 172R, 172S, 182S, 182T, T182T, 206H, and T206H Airplanes\nRIN 2120-AA64\nAirworthiness Directives; Cessna Aircraft Company Models 172R, 172S, 182S, 182T, T182T, 206H, and T206H Airplanes\nAGENCY: Federal Aviation Administration (FAA), DOT. ACTION: Final rule.\nSUMMARY: The FAA adopts a new airworthiness directive (AD) for certain Cessna Aircraft Company (Cessna) Models 172R, 172S, 182S, 182T, T182T, 206H, and T206H airplanes.\nThis AD requires you to install Modification Kit MK172-25-10C or a steel lock rod/bar on both crew seat back cylinder lock assemblies.\nIf a steel lock rod/bar has already been installed on the crew seat back cylinder lock assembly, no further action is required.\nIf you have already installed Modification Kit MK172-2510A or MK172-25-10B, this AD requires you to do an installation inspection and correct any discrepancies found.\nThis AD results from reports of the crew seat back cylinder lock assembly failing at the aft end and other cylinder lock assemblies found cracked.\nWe are issuing this AD to prevent the crew seat back cylinder lock assembly from bending, cracking, or failing.\nThis failure could cause uncontrolled movement of the seat back, resulting in possible backward collapse during flight.",
+   "AD 2007-05-10: Cessna Aircraft Company Models 172R, 172S, 182S, 182T, T182T, 206H, and T206H Airplanes\nCompliance\n(e) To address this problem, you must do the following, unless already done:\n(1) Airplanes that do not have Modification Kit MK172-25-10A or Modification Kit MK172-25-10B installed:\n(2) Airplanes that have Modification Kit MK172-25-10A or Modification Kit MK17225-10B installed:\nNote: Although not required for the airplanes affected by this AD, you may replace the steel lock rod/bar with Modification Kit MK172-25-10C.",
+   "AD 2007-05-10: Cessna Aircraft Company Models 172R, 172S, 182S, 182T, T182T, 206H, and T206H Airplanes\nMaterial Incorporated by Reference\n(g) You must use Cessna Single Engine Service Bulletin SB04-25-01, Revision 4, dated December 26, 2006; and Cessna Single Engine Service Bulletin SB04-25-02, Revision 1, dated October 17, 2005, or Revision 2, dated June 5, 2006, to do the actions required by this AD, unless the AD specifies otherwise.\nThe Director of the Federal Register approved the incorporation by reference of this service information under 5 U.S.C. 552(a) and 1 CFR part 51.\nFor service information identified in this AD, contact Cessna Aircraft Company, Product Support, P.O. Box 7706, Wichita, KS 67277; telephone: (316) 517-5800; fax: (316) 942-9006.\n(3) You may review copies at the FAA, Central Region, Office of the Regional Counsel, 901 Locust, Kansas City, Missouri 64106; or at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202-741-6030, or go to: http://www.archives.gov/federal_register/ code_of_federal_regulations/ ibr_locations.html.\nIssued in Kansas City, Missouri, on February 26, 2007.",
+   "AD 2007-05-10: Cessna Aircraft Company Models 172R, 172S, 182S, 182T, T182T, 206H, and T206H Airplanes\nDiscussion\nOn August 3, 2006, we issued a proposal to amend part 39 of the Federal Aviation Regulations (14 CFR part 39) to include an AD that would apply to certain Cessna Models 172R, 172S, 182S, 182T, T182T, 206H, and T206H airplanes. This proposal was published in the Federal Register as a notice of proposed rulemaking (NPRM) on August 9, 2006 (71 FR 45454). The NPRM proposed to require you to install a modification kit on both crew seat back cylinder lock assemblies, which replaces the cylinder lock with a new model cylinder lock, or install a steel lock rod/bar on both crew seat back cylinder lock assemblies. The NPRM also proposed to require you to do an installation inspection on previously installed modification kits and correct any discrepancies found.",
+   "AD 2007-05-10: Cessna Aircraft Company Models 172R, 172S, 182S, 182T, T182T, 206H, and T206H Airplanes\nConclusion\nWe have carefully reviewed the available data and determined that air safety and the public interest require adopting the AD as proposed except for minor editorial corrections. We have determined that these minor corrections:\nAre consistent with the intent that was proposed in the NPRM for correcting the unsafe condition; and\nDo not add any additional burden upon the public than was already proposed in the NPRM.",
+   "AD 2007-05-10: Cessna Aircraft Company Models 172R, 172S, 182S, 182T, T182T, 206H, and T206H Airplanes\nAuthority for This Rulemaking\nTitle 49 of the United States Code specifies the FAA's authority to issue rules on aviation safety. Subtitle I, Section 106 describes the authority of the FAA Administrator. Subtitle VII, Aviation Programs, describes in more detail the scope of the agency's authority.\nWe are issuing this rulemaking under the authority described in Subtitle VII, Part A, Subpart III, Section 44701, ''General requirements.'' Under that section, Congress charges the FAA with promoting safe flight of civil aircraft in air commerce by prescribing regulations for practices, methods, and procedures the Administrator finds necessary for safety in air commerce. This regulation is within the scope of that authority because it addresses an unsafe condition that is likely to exist or develop on products identified in this AD.",
+   "AD 2007-05-10: Cessna Aircraft Company Models 172R, 172S, 182S, 182T, T182T, 206H, and T206H Airplanes\nRIN 2120-AA64\nBackward collapse of either crew seat back could result in an abrupt pitch-up if the affected crew member continues to hold on to the control yoke during this failure and could cause difficulty in exiting the airplane from an aft passenger seat after landing.\nDATES: This AD becomes effective on April 11, 2007.\nAs of April 11, 2007, the Director of the Federal Register approved the incorporation by reference of certain publications listed in the regulation.\nADDRESSES: To get the service information identified in this AD, contact Cessna Aircraft Company, Product Support, P.O. Box 7706, Wichita, KS 67277; telephone: (316) 517-5800; fax: (316) 942-9006.\nTo view the AD docket, go to the Docket Management Facility, U.S. Department of Transportation, 400 Seventh Street, SW., Nassif Building, Room PL-401, Washington, DC 20590001 or on the Internet at http:// dms.dot.gov. The docket number is FAA-2006-25261; Directorate Identifier 2006-CE-38-AD.\nFOR FURTHER INFORMATION CONTACT: Gary Park, Aerospace Engineer, FAA, Wichita Aircraft Certification Office, 1801 Airport Road, Mid-Continent Airport, Wichita, Kansas 67209; telephone: (316) 946-4123; facsimile: (316) 946-4107.",
+   "AD 2007-05-10: Cessna Aircraft Company Models 172R, 172S, 182S, 182T, T182T, 206H, and T206H Airplanes\nCosts of Compliance\nWe estimate that this AD will affect 4,039 airplanes in the U.S. registry. We provide below total fleet costs for both the modification and the steel lock rod/ bar installation; however, only one of these actions will be required.\nWe estimate the following costs to do the installation of the modification kit:\nWe estimate the following costs to do the fabrication and installation of a steel lock rod/bar:\nWe estimate the following costs to do the installation inspection on airplanes that have Modification Kit MK172-2510A or MK172-25-10B installed:\nWe have no method of determining the number of airplanes that may have Modification Kit MK172-25-10A or MK172-25-10B previously installed.",
+   "AD 2007-05-10: Cessna Aircraft Company Models 172R, 172S, 182S, 182T, T182T, 206H, and T206H Airplanes\nUnsafe Condition\n(d) This AD results from reports of the crew seat back cylinder lock assembly failing at the aft end area and other cylinder lock assemblies found cracked. The actions specified in this AD are intended to prevent the crew seat cylinder lock assembly from bending, cracking, or failing. This failure could cause uncontrolled movement of the seat back, resulting in possible backward collapse during flight. Backward collapse of either crew seat back could result in an abrupt pitch-up if the affected crew member continues to hold on to the control yoke during this failure and could cause difficulty in exiting the airplane from an aft passenger seat after landing.",
+   "CN-TFC AD compliance record, 26 October 2026\nSheet: AD compliance record\nAD number: 2007-05-10; Effective: 2007-04-11; Subject: Crew seat back cylinder lock assemblies; Applies: No; Notes: Serial number outside 172R 17280001 to 17281262 and 172S 172S8001 to 172S9994.",
+   "CN-TFB AD compliance record, 26 October 2026\nSheet: AD compliance record\nAD number: 2007-05-10; Effective: 2007-04-11; Subject: Crew seat back cylinder lock assemblies; Applies: No; Notes: Serial number outside 172R 17280001 to 17281262 and 172S 172S8001 to 172S9994.",
+   "CN-TFF AD compliance record, 26 October 2026\nSheet: AD compliance record\nAD number: 2007-05-10; Effective: 2007-04-11; Subject: Crew seat back cylinder lock assemblies; Applies: No; Notes: Serial number outside 172R 17280001 to 17281262 and 172S 172S8001 to 172S9994.",
+   "AD 2008-03-02: Cessna Aircraft Company Models 172R and 172S Airplanes\nApplicability\n(c) This AD applies to the following airplane models and serial numbers that are certificated in any category:"
+  ]
+ },
+ "response": {
+  "model": "nvidia/nemotron-3.5-rerank-8b",
+  "results": [
+   {
+    "index": 0,
+    "relevance_score": 0.20338288065657412,
+    "document": {
+     "text": "AD 2007-05-10: Cessna Aircraft Company Models 172R, 172S, 182S, 182T, T182T, 206H, and T206H Airplanes\nApplicability\n| Model | Serial Nos. |\n| --- | --- |\n| 172R ...... 172S ...... 182S ...... 182T ....... T182T .... 206H ...... T206H .... | 17280001 through 17281262. 172S8001 through 172S9994. 18280001 through 18280944. 18280945 through 18281701. T18208001 through T18208453. 20608001 through 20608250. T20608001 through T20608570. |"
+    }
+   },
+   {
+    "index": 21,
+    "relevance_score": 0.16479159464945406,
+    "document": {
+     "text": "CN-TFB AD compliance record, 26 October 2026\nSheet: AD compliance record\nAD number: 2007-05-10; Effective: 2007-04-11; Subject: Crew seat back cylinder lock assemblies; Applies: No; Notes: Serial number outside 172R 17280001 to 17281262 and 172S 172S8001 to 172S9994."
+    }
+   },
+   {
+    "index": 22,
+    "relevance_score": 0.16418800245719534,
+    "document": {
+     "text": "CN-TFF AD compliance record, 26 October 2026\nSheet: AD compliance record\nAD number: 2007-05-10; Effective: 2007-04-11; Subject: Crew seat back cylinder lock assemblies; Applies: No; Notes: Serial number outside 172R 17280001 to 17281262 and 172S 172S8001 to 172S9994."
+    }
+   },
+   {
+    "index": 20,
+    "relevance_score": 0.1618109372375829,
+    "document": {
+     "text": "CN-TFC AD compliance record, 26 October 2026\nSheet: AD compliance record\nAD number: 2007-05-10; Effective: 2007-04-11; Subject: Crew seat back cylinder lock assemblies; Applies: No; Notes: Serial number outside 172R 17280001 to 17281262 and 172S 172S8001 to 172S9994."
+    }
+   },
+   {
+    "index": 1,
+    "relevance_score": 0.12941747827145342,
+    "document": {
+     "text": "AD 2007-05-10: Cessna Aircraft Company Models 172R, 172S, 182S, 182T, T182T, 206H, and T206H Airplanes\nApplicability\n(c) This AD affects the following airplane models and serial numbers that are certificated in any category:"
+    }
+   },
+   {
+    "index": 6,
+    "relevance_score": 0.10158829263229717,
+    "document": {
+     "text": "AD 2007-05-10: Cessna Aircraft Company Models 172R, 172S, 182S, 182T, T182T, 206H, and T206H Airplanes\nEffective Date\n(a) This AD becomes effective on April 11, 2007."
+    }
+   },
+   {
+    "index": 3,
+    "relevance_score": 0.09936367409894215,
+    "document": {
+     "text": "AD 2007-05-10: Cessna Aircraft Company Models 172R, 172S, 182S, 182T, T182T, 206H, and T206H Airplanes\n14 CFR Part 39\n[Docket No. FAA-2006-25261; Directorate Identifier 2006-CE-38-AD; Amendment 3914971; AD 2007-05-10]"
+    }
+   },
+   {
+    "index": 8,
+    "relevance_score": 0.09804980079769766,
+    "document": {
+     "text": "AD 2007-05-10: Cessna Aircraft Company Models 172R, 172S, 182S, 182T, T182T, 206H, and T206H Airplanes\n\u00a739.13 [Amended]\n\u25a0 2. FAA amends \u00a739.13 by adding a new AD to read as follows:"
+    }
+   },
+   {
+    "index": 5,
+    "relevance_score": 0.09629688417542547,
+    "document": {
+     "text": "AD 2007-05-10: Cessna Aircraft Company Models 172R, 172S, 182S, 182T, T182T, 206H, and T206H Airplanes\n2007-05-10 Cessna Aircraft Company:\nAmendment 39-14971; Docket No. FAA-2006-25261; Directorate Identifier\n2006-CE-38-AD."
+    }
+   },
+   {
+    "index": 14,
+    "relevance_score": 0.09467923448523377,
+    "document": {
+     "text": "AD 2007-05-10: Cessna Aircraft Company Models 172R, 172S, 182S, 182T, T182T, 206H, and T206H Airplanes\nDiscussion\nOn August 3, 2006, we issued a proposal to amend part 39 of the Federal Aviation Regulations (14 CFR part 39) to include an AD that would apply to certain Cessna Models 172R, 172S, 182S, 182T, T182T, 206H, and T206H airplanes. This proposal was published in the Federal Register as a notice of proposed rulemaking (NPRM) on August 9, 2006 (71 FR 45454). The NPRM proposed to require you to install a modification kit on both crew seat back cylinder lock assemblies, which replaces the cylinder lock with a new model cylinder lock, or install a steel lock rod/bar on both crew seat back cylinder lock assemblies. The NPRM also proposed to require you to do an installation inspection on previously installed modification kits and correct any discrepancies found."
+    }
+   },
+   {
+    "index": 2,
+    "relevance_score": 0.09457863474609357,
+    "document": {
+     "text": "AD 2007-05-10: Cessna Aircraft Company Models 172R, 172S, 182S, 182T, T182T, 206H, and T206H Airplanes\nAffected ADs\n(b) None."
+    }
+   },
+   {
+    "index": 11,
+    "relevance_score": 0.09431318540258667,
+    "document": {
+     "text": "AD 2007-05-10: Cessna Aircraft Company Models 172R, 172S, 182S, 182T, T182T, 206H, and T206H Airplanes\nRIN 2120-AA64\nAirworthiness Directives; Cessna Aircraft Company Models 172R, 172S, 182S, 182T, T182T, 206H, and T206H Airplanes\nAGENCY: Federal Aviation Administration (FAA), DOT. ACTION: Final rule.\nSUMMARY: The FAA adopts a new airworthiness directive (AD) for certain Cessna Aircraft Company (Cessna) Models 172R, 172S, 182S, 182T, T182T, 206H, and T206H airplanes.\nThis AD requires you to install Modification Kit MK172-25-10C or a steel lock rod/bar on both crew seat back cylinder lock assemblies.\nIf a steel lock rod/bar has already been installed on the crew seat back cylinder lock assembly, no further action is required.\nIf you have already installed Modification Kit MK172-2510A or MK172-25-10B, this AD requires you to do an installation inspection and correct any discrepancies found.\nThis AD results from reports of the crew seat back cylinder lock assembly failing at the aft end and other cylinder lock assemblies found cracked.\nWe are issuing this AD to prevent the crew seat back cylinder lock assembly from bending, cracking, or failing.\nThis failure could cause uncontrolled movement of the seat back, resulting in possible backward collapse during flight."
+    }
+   },
+   {
+    "index": 17,
+    "relevance_score": 0.09251737221255306,
+    "document": {
+     "text": "AD 2007-05-10: Cessna Aircraft Company Models 172R, 172S, 182S, 182T, T182T, 206H, and T206H Airplanes\nRIN 2120-AA64\nBackward collapse of either crew seat back could result in an abrupt pitch-up if the affected crew member continues to hold on to the control yoke during this failure and could cause difficulty in exiting the airplane from an aft passenger seat after landing.\nDATES: This AD becomes effective on April 11, 2007.\nAs of April 11, 2007, the Director of the Federal Register approved the incorporation by reference of certain publications listed in the regulation.\nADDRESSES: To get the service information identified in this AD, contact Cessna Aircraft Company, Product Support, P.O. Box 7706, Wichita, KS 67277; telephone: (316) 517-5800; fax: (316) 942-9006.\nTo view the AD docket, go to the Docket Management Facility, U.S. Department of Transportation, 400 Seventh Street, SW., Nassif Building, Room PL-401, Washington, DC 20590001 or on the Internet at http:// dms.dot.gov. The docket number is FAA-2006-25261; Directorate Identifier 2006-CE-38-AD.\nFOR FURTHER INFORMATION CONTACT: Gary Park, Aerospace Engineer, FAA, Wichita Aircraft Certification Office, 1801 Airport Road, Mid-Continent Airport, Wichita, Kansas 67209; telephone: (316) 946-4123; facsimile: (316) 946-4107."
+    }
+   },
+   {
+    "index": 10,
+    "relevance_score": 0.09136988952630969,
+    "document": {
+     "text": "AD 2007-05-10: Cessna Aircraft Company Models 172R, 172S, 182S, 182T, T182T, 206H, and T206H Airplanes\nAdoption of the Amendment\n\u25a0 Accordingly, under the authority delegated to me by the Administrator, the Federal Aviation Administration amends part 39 of the Federal Aviation Regulations (14 CFR part 39) as follows:"
+    }
+   },
+   {
+    "index": 9,
+    "relevance_score": 0.0900066243442811,
+    "document": {
+     "text": "AD 2007-05-10: Cessna Aircraft Company Models 172R, 172S, 182S, 182T, T182T, 206H, and T206H Airplanes\nPART 39-AIRWORTHINESS DIRECTIVES\n\u25a0 1. The authority citation for part 39 continues to read as follows:\nAuthority: 49 U.S.C. 106(g), 40113, 44701."
+    }
+   },
+   {
+    "index": 4,
+    "relevance_score": 0.08908898184970941,
+    "document": {
+     "text": "AD 2007-05-10: Cessna Aircraft Company Models 172R, 172S, 182S, 182T, T182T, 206H, and T206H Airplanes\nKim Smith,\nManager, Small Airplane Directorate, Aircraft Certification Service."
+    }
+   },
+   {
+    "index": 15,
+    "relevance_score": 0.08839040417029877,
+    "document": {
+     "text": "AD 2007-05-10: Cessna Aircraft Company Models 172R, 172S, 182S, 182T, T182T, 206H, and T206H Airplanes\nConclusion\nWe have carefully reviewed the available data and determined that air safety and the public interest require adopting the AD as proposed except for minor editorial corrections. We have determined that these minor corrections:\nAre consistent with the intent that was proposed in the NPRM for correcting the unsafe condition; and\nDo not add any additional burden upon the public than was already proposed in the NPRM."
+    }
+   },
+   {
+    "index": 12,
+    "relevance_score": 0.08808272231252215,
+    "document": {
+     "text": "AD 2007-05-10: Cessna Aircraft Company Models 172R, 172S, 182S, 182T, T182T, 206H, and T206H Airplanes\nCompliance\n(e) To address this problem, you must do the following, unless already done:\n(1) Airplanes that do not have Modification Kit MK172-25-10A or Modification Kit MK172-25-10B installed:\n(2) Airplanes that have Modification Kit MK172-25-10A or Modification Kit MK17225-10B installed:\nNote: Although not required for the airplanes affected by this AD, you may replace the steel lock rod/bar with Modification Kit MK172-25-10C."
+    }
+   },
+   {
+    "index": 13,
+    "relevance_score": 0.08783982977838797,
+    "document": {
+     "text": "AD 2007-05-10: Cessna Aircraft Company Models 172R, 172S, 182S, 182T, T182T, 206H, and T206H Airplanes\nMaterial Incorporated by Reference\n(g) You must use Cessna Single Engine Service Bulletin SB04-25-01, Revision 4, dated December 26, 2006; and Cessna Single Engine Service Bulletin SB04-25-02, Revision 1, dated October 17, 2005, or Revision 2, dated June 5, 2006, to do the actions required by this AD, unless the AD specifies otherwise.\nThe Director of the Federal Register approved the incorporation by reference of this service information under 5 U.S.C. 552(a) and 1 CFR part 51.\nFor service information identified in this AD, contact Cessna Aircraft Company, Product Support, P.O. Box 7706, Wichita, KS 67277; telephone: (316) 517-5800; fax: (316) 942-9006.\n(3) You may review copies at the FAA, Central Region, Office of the Regional Counsel, 901 Locust, Kansas City, Missouri 64106; or at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202-741-6030, or go to: http://www.archives.gov/federal_register/ code_of_federal_regulations/ ibr_locations.html.\nIssued in Kansas City, Missouri, on February 26, 2007."
+    }
+   },
+   {
+    "index": 7,
+    "relevance_score": 0.0842480851103426,
+    "document": {
+     "text": "AD 2007-05-10: Cessna Aircraft Company Models 172R, 172S, 182S, 182T, T182T, 206H, and T206H Airplanes\nList of Subjects in 14 CFR Part 39\nAir transportation, Aircraft, Aviation safety, Incorporation by reference, Safety."
+    }
+   },
+   {
+    "index": 16,
+    "relevance_score": 0.08343211179951343,
+    "document": {
+     "text": "AD 2007-05-10: Cessna Aircraft Company Models 172R, 172S, 182S, 182T, T182T, 206H, and T206H Airplanes\nAuthority for This Rulemaking\nTitle 49 of the United States Code specifies the FAA's authority to issue rules on aviation safety. Subtitle I, Section 106 describes the authority of the FAA Administrator. Subtitle VII, Aviation Programs, describes in more detail the scope of the agency's authority.\nWe are issuing this rulemaking under the authority described in Subtitle VII, Part A, Subpart III, Section 44701, ''General requirements.'' Under that section, Congress charges the FAA with promoting safe flight of civil aircraft in air commerce by prescribing regulations for practices, methods, and procedures the Administrator finds necessary for safety in air commerce. This regulation is within the scope of that authority because it addresses an unsafe condition that is likely to exist or develop on products identified in this AD."
+    }
+   },
+   {
+    "index": 19,
+    "relevance_score": 0.08195380928081446,
+    "document": {
+     "text": "AD 2007-05-10: Cessna Aircraft Company Models 172R, 172S, 182S, 182T, T182T, 206H, and T206H Airplanes\nUnsafe Condition\n(d) This AD results from reports of the crew seat back cylinder lock assembly failing at the aft end area and other cylinder lock assemblies found cracked. The actions specified in this AD are intended to prevent the crew seat cylinder lock assembly from bending, cracking, or failing. This failure could cause uncontrolled movement of the seat back, resulting in possible backward collapse during flight. Backward collapse of either crew seat back could result in an abrupt pitch-up if the affected crew member continues to hold on to the control yoke during this failure and could cause difficulty in exiting the airplane from an aft passenger seat after landing."
+    }
+   },
+   {
+    "index": 18,
+    "relevance_score": 0.08074534301117246,
+    "document": {
+     "text": "AD 2007-05-10: Cessna Aircraft Company Models 172R, 172S, 182S, 182T, T182T, 206H, and T206H Airplanes\nCosts of Compliance\nWe estimate that this AD will affect 4,039 airplanes in the U.S. registry. We provide below total fleet costs for both the modification and the steel lock rod/ bar installation; however, only one of these actions will be required.\nWe estimate the following costs to do the installation of the modification kit:\nWe estimate the following costs to do the fabrication and installation of a steel lock rod/bar:\nWe estimate the following costs to do the installation inspection on airplanes that have Modification Kit MK172-2510A or MK172-25-10B installed:\nWe have no method of determining the number of airplanes that may have Modification Kit MK172-25-10A or MK172-25-10B previously installed."
+    }
+   },
+   {
+    "index": 23,
+    "relevance_score": 0.07290473704986135,
+    "document": {
+     "text": "AD 2008-03-02: Cessna Aircraft Company Models 172R and 172S Airplanes\nApplicability\n(c) This AD applies to the following airplane models and serial numbers that are certificated in any category:"
+    }
+   }
+  ],
+  "usage": {
+   "total_tokens": 4911,
+   "cost": 0
+  },
+  "provider": "Nvidia",
+  "id": "gen-rerank-1793459645-z3xyxDGXa85euNtxum3w"
+ }
+}

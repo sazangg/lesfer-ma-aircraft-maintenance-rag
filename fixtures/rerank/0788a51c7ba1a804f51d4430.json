@@ -3,21 +3,37 @@
   "model": "nvidia/nemotron-3.5-rerank-8b:free",
   "query": "Which of our aircraft are affected by AD 2018-02-04?",
   "documents": [
+   "AD 2018-02-04: Aerospace Welding Minneapolis, Inc., Mufflers\nFIGURE 2 OF PARAGRAPH (c) OF THIS AD-AFFECTED AIRPLANES\n| Muffler part No. | Textron Aviation Inc. (type certificate previously held by Cessna Aircraft Company) airplanes |\n| --- | --- |\n| A1754001-23 ............ | Model 172 Serial numbers (S/Ns) 17259224 and up; Model 172R S/Ns 80001 and up; and Model 172S S/Ns 8001 and up. |\n| A1754001-25 ............ | Model 172 S/Ns 17256513 and up; Model 172R S/Ns 80001 and up; 172S S/N 8001 and up; and Model 177 S/N 1770001 and up. |",
+   "AD 2018-02-04: Aerospace Welding Minneapolis, Inc., Mufflers\n(c) Applicability\nThis AD applies to Aerospace Welding Minneapolis, Inc. (AWI) mufflers listed in figure 1 of paragraph (c) of this AD that are installed on but not limited to the airplanes listed in figure 2 of paragraph (c) of this AD.\nNote 1 to paragraph (c) of this AD: You may use AWI Mandatory Service Bulletin No. 15063001, dated June 30, 2015, to identify if an affected muffler is installed on the airplane.\nhow to identify the installation of an affected muffler.",
+   "AD 2018-02-04: Aerospace Welding Minneapolis, Inc., Mufflers\nRequest To Prohibit the Installation of the Affected Muffler on Cessna 172R and 172S Airplanes\nWe do not agree with the implication that the installation prohibition should apply to all produced parts or only apply to the Cessna Model 172R and 172S airplanes. The unsafe condition resulted from a design change with a limited serial number effectivity and that is approved for installation on other models. We don't know how many parts are installed or could be installed in the future on the Cessna Models C172R and C172S airplanes. The current applicability captures all the potentially unsafe parts in the field. Concerns about material substitutions complying with 14 CFR 23.1125(a)(1) goes beyond the scope of this AD.\nWe have not changed this AD based on this comment.",
+   "AD 2018-02-04: Aerospace Welding Minneapolis, Inc., Mufflers\nCosts of Compliance\nWe estimate that this AD affects 171 mufflers installed on airplanes of U.S. registry.\nWe estimate the following costs to comply with this AD:\nFIGURE 1 OF PARAGRAPH (c) OF THIS AD-AFFECTED MUFFLERS",
+   "AD 2018-02-04: Aerospace Welding Minneapolis, Inc., Mufflers\nAuthority for This Rulemaking\nIn accordance with that order, issuance of ADs is normally a function of the Compliance and Airworthiness Division, but during this transition period, the Executive Director has delegated the authority to issue ADs applicable to small airplanes, gliders, balloons, airships, domestic business jet transport airplanes, and associated appliances to the Director of the Policy and Innovation Division.",
+   "AD 2018-02-04: Aerospace Welding Minneapolis, Inc., Mufflers\n\u00a739.13 [Amended]\n\u25a0 2. The FAA amends \u00a739.13 by adding the following new airworthiness directive (AD):",
+   "AD 2018-02-04: Aerospace Welding Minneapolis, Inc., Mufflers\nRequest To Prohibit the Installation of the Affected Muffler on Cessna 172R and 172S Airplanes\nAn anonymous commenter pointed out that that all 10 SDRs address the Models 172R and 172S airplanes. This commenter also asks how many of the 56 parts were installed on Cessna Models C172R and C172S airplanes. The commenter explains that (AWI) mufflers, part numbers A1754001-23 and A1754001-25, lack the reinforced ends and high temperature corrosion resistant material specified in FAR Part 23.1125(a)(1). The material substitution\nmakes it less resistant to high temperature and corrosion than the original type-certificated product. Based on the comments, the FAA infers that the commenter wants the AD to prohibit the installation of the affected parts, regardless of serial number, specifically on the Cessna Models 172R and 172S airplanes.",
+   "AD 2018-02-04: Aerospace Welding Minneapolis, Inc., Mufflers\nAirworthiness Directives; Aerospace Welding Minneapolis, Inc., Mufflers\nAGENCY: Federal Aviation Administration (FAA), DOT.\nACTION: Final rule.\nSUMMARY: We are adopting a new airworthiness directive (AD) for certain Aerospace Welding Minneapolis, Inc. mufflers, part numbers A1754001-23 and A1754001-25, installed on airplanes. This AD was prompted by occurrences of cracks or broken welds in the connecting weld of the muffler body to muffler cuff that may allow carbon monoxide exhaust fumes into the cockpit heating system. This AD requires an inspection of the muffler for leaking to identify cracks and replacement of the muffler. We are issuing this AD to address the unsafe condition on these products.\nDATES: This AD is effective February 21, 2018.\nThe Director of the Federal Register approved the incorporation by reference of a certain publication listed in this AD as of February 21, 2018.",
+   "AD 2018-02-04: Aerospace Welding Minneapolis, Inc., Mufflers\n14 CFR Part 39\n[Docket No. FAA-2017-0324; Product Identifier 2017-CE-004-AD; Amendment 39-19157; AD 2018-02-04]\nRIN 2120-AA64",
+   "AD 2018-02-04: Aerospace Welding Minneapolis, Inc., Mufflers\n2018-02-04 Aerospace Welding\nMinneapolis, Inc.: Amendment 3919157; Docket No. FAA-2017-0324; Product Identifier 2017-CE-004-AD.",
+   "AD 2018-02-04: Aerospace Welding Minneapolis, Inc., Mufflers\nList of Subjects in 14 CFR Part 39\nAir transportation, Aircraft, Aviation safety, Incorporation by reference, Safety.",
+   "AD 2018-02-04: Aerospace Welding Minneapolis, Inc., Mufflers\nAirworthiness Directives; Aerospace Welding Minneapolis, Inc., Mufflers\nADDRESSES: For service information identified in this final rule, contact Aerospace Welding Minneapolis, Inc. (AWI) 1045 Gemini Road, Eagan, Minnesota 55121; telephone: 651-3799888; fax: 651-379-9889; internet: www.awi-ami.com. You may view this service information at the FAA, Policy and Innovation Division, 901 Locust, Kansas City, Missouri 64106. For information on the availability of this material at the FAA, call (816) 3294148. It is also available on the internet at http://www.regulations.gov by searching for and locating Docket No. FAA-2017-0324.",
+   "AD 2018-02-04: Aerospace Welding Minneapolis, Inc., Mufflers\n(a) Effective Date\nThis AD is effective February 21, 2018.",
+   "AD 2018-02-04: Aerospace Welding Minneapolis, Inc., Mufflers\n(b) Affected ADs\nNone.",
+   "AD 2018-02-04: Aerospace Welding Minneapolis, Inc., Mufflers\n(j) Related Information\nFor more information about this AD, contact Mark Grace, Aerospace Engineer, FAA, Chicago ACO Branch, 2300 East Devon Avenue, Des Plaines, IL 60018-4696; telephone: (847) 294-7377; fax: (847) 2947834; email: mark.grace@faa.gov.",
+   "AD 2018-02-04: Aerospace Welding Minneapolis, Inc., Mufflers\nRequest To Expand the Applicability\nAn anonymous commenter requested we expand the applicability of the AD to include additional part number mufflers produced by the same manufacturer as the mufflers affected by this AD. The commenter thinks the additional part number mufflers may share some of the same materials, processes, and methods of assembly as the mufflers affected by this AD.\nWe do not agree with this comment. We addressed this concern during the investigation of the unsafe condition. We found that the unsafe condition is related to a design change and was applicable to one manufacturing lot. The unsafe condition applies to only the part numbers and serial numbers affected by this AD.\nWe have not changed this AD based on this comment.",
+   "AD 2018-02-04: Aerospace Welding Minneapolis, Inc., Mufflers\n(d) Subject\nJoint Aircraft System Component (JASC)/ Air Transport Association (ATA) of America Code 7820, Exhaust Noise Suppressor.",
+   "AD 2018-02-04: Aerospace Welding Minneapolis, Inc., Mufflers\nAdoption of the Amendment\nAccordingly, under the authority delegated to me by the Administrator, the FAA amends 14 CFR part 39 as follows:",
+   "AD 2018-02-04: Aerospace Welding Minneapolis, Inc., Mufflers\nFOR FURTHER INFORMATION CONTACT:\nMark Grace, Aerospace Engineer, FAA, Chicago ACO Branch, 2300 East Devon Avenue, Des Plaines, IL 60018-4696; telephone: (847) 294-7377; fax: (847) 294-7834; email: mark.grace@faa.gov.",
+   "AD 2018-02-04: Aerospace Welding Minneapolis, Inc., Mufflers\nPART 39-AIRWORTHINESS DIRECTIVES\n\u25a0 1. The authority citation for part 39 continues to read as follows:\nAuthority: 49 U.S.C. 106(g), 40113, 44701.",
    "AD 2006-17-04: The Cessna Aircraft Company Models 172R, 172S, 182T, T182T, 206H, and T206H Airplanes\nApplicability\n(c) This AD affects the following airplane models and serial numbers that are certificated in any category:",
    "AD 2018-02-04: Aerospace Welding Minneapolis, Inc., Mufflers\nESTIMATED COSTS\nThis AD affects 171 mufflers with PMA; however, only 9 mufflers remain in service.\nAccording to the manufacturer, some of the costs of this AD may be covered under warranty, thereby reducing the cost impact on affected individuals. We do not control warranty coverage for affected individuals. As a result, we have included all costs in our cost estimate.",
    "AD 2013-03-15: Cessna Aircraft Company Airplanes\nON-CONDITION COSTS\nAccording to the manufacturer, some of the costs of this AD may be covered under warranty, thereby reducing the cost impact on affected individuals. We do not control warranty coverage for affected individuals. As a result, we have included all costs in our cost estimate.",
    "AD 2008-02-18: Cessna Aircraft Company 172 and 182 Series Airplanes\nApplicability\n| Cessna 172 models | Cessna 182 models |\n| --- | --- |\n| 172 172A 172B 172C 172D 172E 172F (USAF T-41A) 172G 172H (USAF T-41A) 172I 172K 172L 172M 172N 172P 172Q 172R 172S R172J R172K | 182G 182H 182J 182K 182L 182M 182N 182P 182Q 182R 182S 182T T182 T182T |",
    "AD 2018-02-04: Aerospace Welding Minneapolis, Inc., Mufflers\nRequest We Add an Exhaust Systems Inspection\nAn anonymous commenter requested we issue an AD similar to a Transport Canada AD which requires an ongoing periodic pressure testing of the exhaust systems to help identify and reduce the risk of CO entering the cabin area.\nWe do not agree with this comment. This AD addresses the identified unsafe condition on the affected mufflers by requiring removal of the affected mufflers from airplanes. A more general pressure testing of exhaust systems is beyond the scope of this AD.\nWe have not changed this AD based on this comment.",
    "AD 2004-15-18: Cessna Aircraft Company Models 172R, 172S, 182S, 182T, T182T, 206H, and T206H Airplanes\nWhat Airplanes Are Affected by This AD?\n| Model | Serial Nos. |\n| --- | --- |\n| 172R ................................................ 172S ................................................ 182S ................................................ 182T ................................................ T182T .............................................. 206H ................................................ T206H ............................................. | 17280001 through 17281073, 17281075 through 17281127, and 17281130. 172S8001 through 172S9195, 172S9197, 172S9198, and 172S9200 through 172S9203. 18280001 through 18280944. 18280945 through 18281065, 18281067 through 18281145, 18281147 through 18281163, 18281165 through 18281167, and 18281172. T18208001 through T18208109, and T18208111 through T18208177. 20608001 through 20608183, 20608185, 20608187, and 20608188. T20608001 through T20608039, T20608041 through T20608367, T20608369 through T20608379, T20608381, T20608382, and T20608385. |",
-   "AD 2018-02-04: Aerospace Welding Minneapolis, Inc., Mufflers\n(b) Affected ADs\nNone.",
    "AD 2006-17-04: The Cessna Aircraft Company Models 172R, 172S, 182T, T182T, 206H, and T206H Airplanes\nAffected ADs\n(b) None.",
    "AD 2018-02-04: Aerospace Welding Minneapolis, Inc., Mufflers\nRequest We Prohibit the Use of Less Heat Resistant Material\nAn anonymous commenter requested we not allow the substitution of less heat resistant material for higher heat resistant material. There are a number of FAA-approved PMA articles in existence certified by Identicality or Test and Computation where less heat resistant materials have been substituted. In many cases these PMA articles are used as terminating action to ADs and undermine the basis of the AD.\nWe do not agree with this comment. An applicant for a PMA must demonstrate compliance with the applicable regulations before the PMA is granted. This AD addresses the unsafe condition on the affected mufflers by requiring removal of the affected mufflers from airplanes. Changing the PMA process goes beyond the scope of this AD.\nWe have not changed this AD based on this comment.",
-   "AD 2018-02-04: Aerospace Welding Minneapolis, Inc., Mufflers\nRequest To Prohibit the Installation of the Affected Muffler on Cessna 172R and 172S Airplanes\nWe do not agree with the implication that the installation prohibition should apply to all produced parts or only apply to the Cessna Model 172R and 172S airplanes. The unsafe condition resulted from a design change with a limited serial number effectivity and that is approved for installation on other models. We don't know how many parts are installed or could be installed in the future on the Cessna Models C172R and C172S airplanes. The current applicability captures all the potentially unsafe parts in the field. Concerns about material substitutions complying with 14 CFR 23.1125(a)(1) goes beyond the scope of this AD.\nWe have not changed this AD based on this comment.",
    "AD 2018-02-04: Aerospace Welding Minneapolis, Inc., Mufflers\nRequest To Make Spot Weld Procedures More Rigid\nAn anonymous commenter requested we require parts manufacturer approval (PMA) spot weld procedures to be more rigid. The commenter stated that manually operated spot welding machines do not consistently control pressure, time, or frequency as required by weld schedules because the human operator controls those factors. It is almost impossible to meet the weld code without a computer aided machine.\nWe do not agree with this comment. Regulating how spot welds are done goes beyond the scope of this AD. This AD addresses the identified unsafe condition on the affected mufflers by requiring removal of the affected mufflers from airplanes.\nWe have not changed this AD based on this comment.",
-   "AD 2018-02-04: Aerospace Welding Minneapolis, Inc., Mufflers\nRequest To Expand the Applicability\nAn anonymous commenter requested we expand the applicability of the AD to include additional part number mufflers produced by the same manufacturer as the mufflers affected by this AD. The commenter thinks the additional part number mufflers may share some of the same materials, processes, and methods of assembly as the mufflers affected by this AD.\nWe do not agree with this comment. We addressed this concern during the investigation of the unsafe condition. We found that the unsafe condition is related to a design change and was applicable to one manufacturing lot. The unsafe condition applies to only the part numbers and serial numbers affected by this AD.\nWe have not changed this AD based on this comment.",
    "AD 2020-16-08 (correction): Aspen Avionics, Inc.\n(c) Applicability\n185, 185A, 185B, 185C, 185D, 185E, 206, 206H, 207, 207A, 210, 210A, 210B, 210C, 210D, 210E, 210F, 210G, 210H, 210J, 210K, 210L, 210M, 210N, 210R, 210-5 (205), 2105A (205A), 310, 310A (USAF U-3A), 310B, 310C, 310D, 310E (USAF U-3B), 310F, 310G, 310H, 310I, 310J, 310J-1, 310K, 310L, 310N, 310P, 310Q, 310R, 320, 320A, 320B, 320C, 320D, 320E, 320F, 320-1, 335, 336, 337, 337A, 337B, 340, 340A, A150K, A150L, A150M, A152, A185E, A185F, E310H, E310J, LC40-550FG, LC41-550FG, LC42-550FG, P172D, P206, P206A, P206B, P206C, P206D, P206E, P210N, P210R, R172E (USAF T-41B, USAF T-41C and D), R172F (USAF T-41D), R172G (USAF T-41C and D), R172H (USAF T-41D), R172J, R172K, R182, T182, T182T, T206H, T207, T207A, T210F, T210G, T210H, T210J, T210K, T210L, T210M, T210N, T210R, T303, T310P, T310Q, T310R, TP206A, TP206B, TP206C, TP206D, TP206E, TR182, TU206A, TU206B, TU206C, TU206D, TU206E, TU206F, TU206G, U206, U206A, U206B, U206C, U206D, U206E, U206F, and U206G airplanes;",
    "AC 39-7D, Airworthiness Directives\n8 ELECTRONIC DISTRIBUTION OF ADS.\n9. APPLICABILITY OF ADs. Each AD contains an applicability statement specifying the product (aircraft, aircraft engine, propeller, or appliance) to which it applies. Unless stated otherwise (see subparagraph 9b of this AC), ADs only apply to type-certificated (TC) aircraft, including ADs issued for an engine, propeller, and appliance.\nTC'd Aircraft, Engines, and Propellers. For ADs issued against aircraft, engines, and propellers certified under 14 CFR part 21, the Type Certificate Data Sheet (TCDS) is used to identify the affected product. Limitations may be placed on applicability by specifying the serial number or number series to which the AD is applicable. When there is no reference to serial numbers, all serial numbers are affected. The following are examples of AD applicability statements for TC'd products:\n(1) \"This AD applies to Hawker Beechcraft Corporation (Type Certificate previously held by Raytheon Aircraft Company) Model 1900, 1900C, and 1900D airplanes, certificated in any category.\" This statement makes the AD applicable to all airplanes of the model listed, regardless of the type of airworthiness certificate issued to the TC'd aircraft.",
-   "AD 2018-02-04: Aerospace Welding Minneapolis, Inc., Mufflers\nCosts of Compliance\nWe estimate that this AD affects 171 mufflers installed on airplanes of U.S. registry.\nWe estimate the following costs to comply with this AD:\nFIGURE 1 OF PARAGRAPH (c) OF THIS AD-AFFECTED MUFFLERS",
    "AD 2005-05-53 R1: The Cessna Aircraft Company Models 172R, 172S, 182T, and T182T Airplanes\nWhat Airplanes Are Affected by This AD?\n(c) This AD affects the following airplanes that are certificated in any category:",
    "CN-TFB AD compliance record, 26 October 2026\nSheet: AD compliance record\nAD number: 2018-02-04; Effective: 2018-02-21; Subject: AWI mufflers P/N A1754001-23 and A1754001-25; Applies: No; Notes: No affected AWI muffler installed."
   ]
@@ -26,119 +42,231 @@
   "model": "nvidia/nemotron-3.5-rerank-8b",
   "results": [
    {
-    "index": 9,
+    "index": 0,
+    "relevance_score": 0.11424416930896913,
+    "document": {
+     "text": "AD 2018-02-04: Aerospace Welding Minneapolis, Inc., Mufflers\nFIGURE 2 OF PARAGRAPH (c) OF THIS AD-AFFECTED AIRPLANES\n| Muffler part No. | Textron Aviation Inc. (type certificate previously held by Cessna Aircraft Company) airplanes |\n| --- | --- |\n| A1754001-23 ............ | Model 172 Serial numbers (S/Ns) 17259224 and up; Model 172R S/Ns 80001 and up; and Model 172S S/Ns 8001 and up. |\n| A1754001-25 ............ | Model 172 S/Ns 17256513 and up; Model 172R S/Ns 80001 and up; 172S S/N 8001 and up; and Model 177 S/N 1770001 and up. |"
+    }
+   },
+   {
+    "index": 1,
+    "relevance_score": 0.10916875715941327,
+    "document": {
+     "text": "AD 2018-02-04: Aerospace Welding Minneapolis, Inc., Mufflers\n(c) Applicability\nThis AD applies to Aerospace Welding Minneapolis, Inc. (AWI) mufflers listed in figure 1 of paragraph (c) of this AD that are installed on but not limited to the airplanes listed in figure 2 of paragraph (c) of this AD.\nNote 1 to paragraph (c) of this AD: You may use AWI Mandatory Service Bulletin No. 15063001, dated June 30, 2015, to identify if an affected muffler is installed on the airplane.\nhow to identify the installation of an affected muffler."
+    }
+   },
+   {
+    "index": 6,
+    "relevance_score": 0.10759950022522365,
+    "document": {
+     "text": "AD 2018-02-04: Aerospace Welding Minneapolis, Inc., Mufflers\nRequest To Prohibit the Installation of the Affected Muffler on Cessna 172R and 172S Airplanes\nAn anonymous commenter pointed out that that all 10 SDRs address the Models 172R and 172S airplanes. This commenter also asks how many of the 56 parts were installed on Cessna Models C172R and C172S airplanes. The commenter explains that (AWI) mufflers, part numbers A1754001-23 and A1754001-25, lack the reinforced ends and high temperature corrosion resistant material specified in FAR Part 23.1125(a)(1). The material substitution\nmakes it less resistant to high temperature and corrosion than the original type-certificated product. Based on the comments, the FAA infers that the commenter wants the AD to prohibit the installation of the affected parts, regardless of serial number, specifically on the Cessna Models 172R and 172S airplanes."
+    }
+   },
+   {
+    "index": 2,
     "relevance_score": 0.09973778938694629,
     "document": {
      "text": "AD 2018-02-04: Aerospace Welding Minneapolis, Inc., Mufflers\nRequest To Prohibit the Installation of the Affected Muffler on Cessna 172R and 172S Airplanes\nWe do not agree with the implication that the installation prohibition should apply to all produced parts or only apply to the Cessna Model 172R and 172S airplanes. The unsafe condition resulted from a design change with a limited serial number effectivity and that is approved for installation on other models. We don't know how many parts are installed or could be installed in the future on the Cessna Models C172R and C172S airplanes. The current applicability captures all the potentially unsafe parts in the field. Concerns about material substitutions complying with 14 CFR 23.1125(a)(1) goes beyond the scope of this AD.\nWe have not changed this AD based on this comment."
     }
    },
    {
-    "index": 6,
+    "index": 13,
     "relevance_score": 0.09731208420741419,
     "document": {
      "text": "AD 2018-02-04: Aerospace Welding Minneapolis, Inc., Mufflers\n(b) Affected ADs\nNone."
     }
    },
    {
-    "index": 14,
+    "index": 3,
     "relevance_score": 0.09529199983389014,
     "document": {
      "text": "AD 2018-02-04: Aerospace Welding Minneapolis, Inc., Mufflers\nCosts of Compliance\nWe estimate that this AD affects 171 mufflers installed on airplanes of U.S. registry.\nWe estimate the following costs to comply with this AD:\nFIGURE 1 OF PARAGRAPH (c) OF THIS AD-AFFECTED MUFFLERS"
     }
    },
    {
-    "index": 16,
+    "index": 32,
     "relevance_score": 0.09239108158156119,
     "document": {
      "text": "CN-TFB AD compliance record, 26 October 2026\nSheet: AD compliance record\nAD number: 2018-02-04; Effective: 2018-02-21; Subject: AWI mufflers P/N A1754001-23 and A1754001-25; Applies: No; Notes: No affected AWI muffler installed."
     }
    },
    {
-    "index": 1,
+    "index": 7,
+    "relevance_score": 0.09213371974999905,
+    "document": {
+     "text": "AD 2018-02-04: Aerospace Welding Minneapolis, Inc., Mufflers\nAirworthiness Directives; Aerospace Welding Minneapolis, Inc., Mufflers\nAGENCY: Federal Aviation Administration (FAA), DOT.\nACTION: Final rule.\nSUMMARY: We are adopting a new airworthiness directive (AD) for certain Aerospace Welding Minneapolis, Inc. mufflers, part numbers A1754001-23 and A1754001-25, installed on airplanes. This AD was prompted by occurrences of cracks or broken welds in the connecting weld of the muffler body to muffler cuff that may allow carbon monoxide exhaust fumes into the cockpit heating system. This AD requires an inspection of the muffler for leaking to identify cracks and replacement of the muffler. We are issuing this AD to address the unsafe condition on these products.\nDATES: This AD is effective February 21, 2018.\nThe Director of the Federal Register approved the incorporation by reference of a certain publication listed in this AD as of February 21, 2018."
+    }
+   },
+   {
+    "index": 4,
+    "relevance_score": 0.08873296109072672,
+    "document": {
+     "text": "AD 2018-02-04: Aerospace Welding Minneapolis, Inc., Mufflers\nAuthority for This Rulemaking\nIn accordance with that order, issuance of ADs is normally a function of the Compliance and Airworthiness Division, but during this transition period, the Executive Director has delegated the authority to issue ADs applicable to small airplanes, gliders, balloons, airships, domestic business jet transport airplanes, and associated appliances to the Director of the Policy and Innovation Division."
+    }
+   },
+   {
+    "index": 12,
+    "relevance_score": 0.08441516157423742,
+    "document": {
+     "text": "AD 2018-02-04: Aerospace Welding Minneapolis, Inc., Mufflers\n(a) Effective Date\nThis AD is effective February 21, 2018."
+    }
+   },
+   {
+    "index": 5,
+    "relevance_score": 0.08327013459806178,
+    "document": {
+     "text": "AD 2018-02-04: Aerospace Welding Minneapolis, Inc., Mufflers\n\u00a739.13 [Amended]\n\u25a0 2. The FAA amends \u00a739.13 by adding the following new airworthiness directive (AD):"
+    }
+   },
+   {
+    "index": 16,
+    "relevance_score": 0.08068418649661302,
+    "document": {
+     "text": "AD 2018-02-04: Aerospace Welding Minneapolis, Inc., Mufflers\n(d) Subject\nJoint Aircraft System Component (JASC)/ Air Transport Association (ATA) of America Code 7820, Exhaust Noise Suppressor."
+    }
+   },
+   {
+    "index": 8,
+    "relevance_score": 0.08000403498689916,
+    "document": {
+     "text": "AD 2018-02-04: Aerospace Welding Minneapolis, Inc., Mufflers\n14 CFR Part 39\n[Docket No. FAA-2017-0324; Product Identifier 2017-CE-004-AD; Amendment 39-19157; AD 2018-02-04]\nRIN 2120-AA64"
+    }
+   },
+   {
+    "index": 9,
+    "relevance_score": 0.0790572943562429,
+    "document": {
+     "text": "AD 2018-02-04: Aerospace Welding Minneapolis, Inc., Mufflers\n2018-02-04 Aerospace Welding\nMinneapolis, Inc.: Amendment 3919157; Docket No. FAA-2017-0324; Product Identifier 2017-CE-004-AD."
+    }
+   },
+   {
+    "index": 19,
+    "relevance_score": 0.07784686319985225,
+    "document": {
+     "text": "AD 2018-02-04: Aerospace Welding Minneapolis, Inc., Mufflers\nPART 39-AIRWORTHINESS DIRECTIVES\n\u25a0 1. The authority citation for part 39 continues to read as follows:\nAuthority: 49 U.S.C. 106(g), 40113, 44701."
+    }
+   },
+   {
+    "index": 17,
+    "relevance_score": 0.07729326582796744,
+    "document": {
+     "text": "AD 2018-02-04: Aerospace Welding Minneapolis, Inc., Mufflers\nAdoption of the Amendment\nAccordingly, under the authority delegated to me by the Administrator, the FAA amends 14 CFR part 39 as follows:"
+    }
+   },
+   {
+    "index": 21,
     "relevance_score": 0.0767494268811772,
     "document": {
      "text": "AD 2018-02-04: Aerospace Welding Minneapolis, Inc., Mufflers\nESTIMATED COSTS\nThis AD affects 171 mufflers with PMA; however, only 9 mufflers remain in service.\nAccording to the manufacturer, some of the costs of this AD may be covered under warranty, thereby reducing the cost impact on affected individuals. We do not control warranty coverage for affected individuals. As a result, we have included all costs in our cost estimate."
     }
    },
    {
-    "index": 4,
+    "index": 11,
+    "relevance_score": 0.07630679395195636,
+    "document": {
+     "text": "AD 2018-02-04: Aerospace Welding Minneapolis, Inc., Mufflers\nAirworthiness Directives; Aerospace Welding Minneapolis, Inc., Mufflers\nADDRESSES: For service information identified in this final rule, contact Aerospace Welding Minneapolis, Inc. (AWI) 1045 Gemini Road, Eagan, Minnesota 55121; telephone: 651-3799888; fax: 651-379-9889; internet: www.awi-ami.com. You may view this service information at the FAA, Policy and Innovation Division, 901 Locust, Kansas City, Missouri 64106. For information on the availability of this material at the FAA, call (816) 3294148. It is also available on the internet at http://www.regulations.gov by searching for and locating Docket No. FAA-2017-0324."
+    }
+   },
+   {
+    "index": 10,
+    "relevance_score": 0.0761385475472219,
+    "document": {
+     "text": "AD 2018-02-04: Aerospace Welding Minneapolis, Inc., Mufflers\nList of Subjects in 14 CFR Part 39\nAir transportation, Aircraft, Aviation safety, Incorporation by reference, Safety."
+    }
+   },
+   {
+    "index": 18,
+    "relevance_score": 0.07474586677508616,
+    "document": {
+     "text": "AD 2018-02-04: Aerospace Welding Minneapolis, Inc., Mufflers\nFOR FURTHER INFORMATION CONTACT:\nMark Grace, Aerospace Engineer, FAA, Chicago ACO Branch, 2300 East Devon Avenue, Des Plaines, IL 60018-4696; telephone: (847) 294-7377; fax: (847) 294-7834; email: mark.grace@faa.gov."
+    }
+   },
+   {
+    "index": 14,
+    "relevance_score": 0.07471554957668808,
+    "document": {
+     "text": "AD 2018-02-04: Aerospace Welding Minneapolis, Inc., Mufflers\n(j) Related Information\nFor more information about this AD, contact Mark Grace, Aerospace Engineer, FAA, Chicago ACO Branch, 2300 East Devon Avenue, Des Plaines, IL 60018-4696; telephone: (847) 294-7377; fax: (847) 2947834; email: mark.grace@faa.gov."
+    }
+   },
+   {
+    "index": 24,
     "relevance_score": 0.0738476461820119,
     "document": {
      "text": "AD 2018-02-04: Aerospace Welding Minneapolis, Inc., Mufflers\nRequest We Add an Exhaust Systems Inspection\nAn anonymous commenter requested we issue an AD similar to a Transport Canada AD which requires an ongoing periodic pressure testing of the exhaust systems to help identify and reduce the risk of CO entering the cabin area.\nWe do not agree with this comment. This AD addresses the identified unsafe condition on the affected mufflers by requiring removal of the affected mufflers from airplanes. A more general pressure testing of exhaust systems is beyond the scope of this AD.\nWe have not changed this AD based on this comment."
     }
    },
    {
-    "index": 11,
+    "index": 15,
     "relevance_score": 0.07279623117683946,
     "document": {
      "text": "AD 2018-02-04: Aerospace Welding Minneapolis, Inc., Mufflers\nRequest To Expand the Applicability\nAn anonymous commenter requested we expand the applicability of the AD to include additional part number mufflers produced by the same manufacturer as the mufflers affected by this AD. The commenter thinks the additional part number mufflers may share some of the same materials, processes, and methods of assembly as the mufflers affected by this AD.\nWe do not agree with this comment. We addressed this concern during the investigation of the unsafe condition. We found that the unsafe condition is related to a design change and was applicable to one manufacturing lot. The unsafe condition applies to only the part numbers and serial numbers affected by this AD.\nWe have not changed this AD based on this comment."
     }
    },
    {
-    "index": 10,
+    "index": 28,
     "relevance_score": 0.06793623820105178,
     "document": {
      "text": "AD 2018-02-04: Aerospace Welding Minneapolis, Inc., Mufflers\nRequest To Make Spot Weld Procedures More Rigid\nAn anonymous commenter requested we require parts manufacturer approval (PMA) spot weld procedures to be more rigid. The commenter stated that manually operated spot welding machines do not consistently control pressure, time, or frequency as required by weld schedules because the human operator controls those factors. It is almost impossible to meet the weld code without a computer aided machine.\nWe do not agree with this comment. Regulating how spot welds are done goes beyond the scope of this AD. This AD addresses the identified unsafe condition on the affected mufflers by requiring removal of the affected mufflers from airplanes.\nWe have not changed this AD based on this comment."
     }
    },
    {
-    "index": 8,
+    "index": 27,
     "relevance_score": 0.06625366393247417,
     "document": {
      "text": "AD 2018-02-04: Aerospace Welding Minneapolis, Inc., Mufflers\nRequest We Prohibit the Use of Less Heat Resistant Material\nAn anonymous commenter requested we not allow the substitution of less heat resistant material for higher heat resistant material. There are a number of FAA-approved PMA articles in existence certified by Identicality or Test and Computation where less heat resistant materials have been substituted. In many cases these PMA articles are used as terminating action to ADs and undermine the basis of the AD.\nWe do not agree with this comment. An applicant for a PMA must demonstrate compliance with the applicable regulations before the PMA is granted. This AD addresses the unsafe condition on the affected mufflers by requiring removal of the affected mufflers from airplanes. Changing the PMA process goes beyond the scope of this AD.\nWe have not changed this AD based on this comment."
     }
    },
    {
-    "index": 13,
+    "index": 30,
     "relevance_score": 0.056191492214942525,
     "document": {
      "text": "AC 39-7D, Airworthiness Directives\n8 ELECTRONIC DISTRIBUTION OF ADS.\n9. APPLICABILITY OF ADs. Each AD contains an applicability statement specifying the product (aircraft, aircraft engine, propeller, or appliance) to which it applies. Unless stated otherwise (see subparagraph 9b of this AC), ADs only apply to type-certificated (TC) aircraft, including ADs issued for an engine, propeller, and appliance.\nTC'd Aircraft, Engines, and Propellers. For ADs issued against aircraft, engines, and propellers certified under 14 CFR part 21, the Type Certificate Data Sheet (TCDS) is used to identify the affected product. Limitations may be placed on applicability by specifying the serial number or number series to which the AD is applicable. When there is no reference to serial numbers, all serial numbers are affected. The following are examples of AD applicability statements for TC'd products:\n(1) \"This AD applies to Hawker Beechcraft Corporation (Type Certificate previously held by Raytheon Aircraft Company) Model 1900, 1900C, and 1900D airplanes, certificated in any category.\" This statement makes the AD applicable to all airplanes of the model listed, regardless of the type of airworthiness certificate issued to the TC'd aircraft."
     }
    },
    {
-    "index": 12,
+    "index": 29,
     "relevance_score": 0.05270265240046719,
     "document": {
      "text": "AD 2020-16-08 (correction): Aspen Avionics, Inc.\n(c) Applicability\n185, 185A, 185B, 185C, 185D, 185E, 206, 206H, 207, 207A, 210, 210A, 210B, 210C, 210D, 210E, 210F, 210G, 210H, 210J, 210K, 210L, 210M, 210N, 210R, 210-5 (205), 2105A (205A), 310, 310A (USAF U-3A), 310B, 310C, 310D, 310E (USAF U-3B), 310F, 310G, 310H, 310I, 310J, 310J-1, 310K, 310L, 310N, 310P, 310Q, 310R, 320, 320A, 320B, 320C, 320D, 320E, 320F, 320-1, 335, 336, 337, 337A, 337B, 340, 340A, A150K, A150L, A150M, A152, A185E, A185F, E310H, E310J, LC40-550FG, LC41-550FG, LC42-550FG, P172D, P206, P206A, P206B, P206C, P206D, P206E, P210N, P210R, R172E (USAF T-41B, USAF T-41C and D), R172F (USAF T-41D), R172G (USAF T-41C and D), R172H (USAF T-41D), R172J, R172K, R182, T182, T182T, T206H, T207, T207A, T210F, T210G, T210H, T210J, T210K, T210L, T210M, T210N, T210R, T303, T310P, T310Q, T310R, TP206A, TP206B, TP206C, TP206D, TP206E, TR182, TU206A, TU206B, TU206C, TU206D, TU206E, TU206F, TU206G, U206, U206A, U206B, U206C, U206D, U206E, U206F, and U206G airplanes;"
     }
    },
    {
-    "index": 15,
+    "index": 31,
     "relevance_score": 0.05096304755313954,
     "document": {
      "text": "AD 2005-05-53 R1: The Cessna Aircraft Company Models 172R, 172S, 182T, and T182T Airplanes\nWhat Airplanes Are Affected by This AD?\n(c) This AD affects the following airplanes that are certificated in any category:"
     }
    },
    {
-    "index": 0,
-    "relevance_score": 0.05072368381502401,
+    "index": 20,
+    "relevance_score": 0.05072269654039125,
     "document": {
      "text": "AD 2006-17-04: The Cessna Aircraft Company Models 172R, 172S, 182T, T182T, 206H, and T206H Airplanes\nApplicability\n(c) This AD affects the following airplane models and serial numbers that are certificated in any category:"
     }
    },
    {
-    "index": 3,
+    "index": 23,
     "relevance_score": 0.04776034972542555,
     "document": {
      "text": "AD 2008-02-18: Cessna Aircraft Company 172 and 182 Series Airplanes\nApplicability\n| Cessna 172 models | Cessna 182 models |\n| --- | --- |\n| 172 172A 172B 172C 172D 172E 172F (USAF T-41A) 172G 172H (USAF T-41A) 172I 172K 172L 172M 172N 172P 172Q 172R 172S R172J R172K | 182G 182H 182J 182K 182L 182M 182N 182P 182Q 182R 182S 182T T182 T182T |"
     }
    },
    {
-    "index": 7,
+    "index": 26,
     "relevance_score": 0.04764219046002369,
     "document": {
      "text": "AD 2006-17-04: The Cessna Aircraft Company Models 172R, 172S, 182T, T182T, 206H, and T206H Airplanes\nAffected ADs\n(b) None."
     }
    },
    {
-    "index": 5,
+    "index": 25,
     "relevance_score": 0.04754797101912809,
     "document": {
      "text": "AD 2004-15-18: Cessna Aircraft Company Models 172R, 172S, 182S, 182T, T182T, 206H, and T206H Airplanes\nWhat Airplanes Are Affected by This AD?\n| Model | Serial Nos. |\n| --- | --- |\n| 172R ................................................ 172S ................................................ 182S ................................................ 182T ................................................ T182T .............................................. 206H ................................................ T206H ............................................. | 17280001 through 17281073, 17281075 through 17281127, and 17281130. 172S8001 through 172S9195, 172S9197, 172S9198, and 172S9200 through 172S9203. 18280001 through 18280944. 18280945 through 18281065, 18281067 through 18281145, 18281147 through 18281163, 18281165 through 18281167, and 18281172. T18208001 through T18208109, and T18208111 through T18208177. 20608001 through 20608183, 20608185, 20608187, and 20608188. T20608001 through T20608039, T20608041 through T20608367, T20608369 through T20608379, T20608381, T20608382, and T20608385. |"
     }
    },
    {
-    "index": 2,
+    "index": 22,
     "relevance_score": 0.038246419417905894,
     "document": {
      "text": "AD 2013-03-15: Cessna Aircraft Company Airplanes\nON-CONDITION COSTS\nAccording to the manufacturer, some of the costs of this AD may be covered under warranty, thereby reducing the cost impact on affected individuals. We do not control warranty coverage for affected individuals. As a result, we have included all costs in our cost estimate."
@@ -146,10 +274,10 @@
    }
   ],
   "usage": {
-   "total_tokens": 3892,
+   "total_tokens": 6341,
    "cost": 0
   },
   "provider": "Nvidia",
-  "id": "gen-rerank-1793399827-F7m5T6WilvuyaPYaCTvw"
+  "id": "gen-rerank-1793459550-SPyAhC1N1k08HO6L9JTT"
  }
 }

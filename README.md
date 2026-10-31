@@ -14,7 +14,8 @@ It has one tagged checkpoint per part, like the companion repository, and record
 | 4 | From documents to evidence | `part-04` |
 | 5 | When search misses the evidence | `part-05` |
 | 6 | Choosing the evidence that applies | `part-06` |
-| 7–14 | | coming |
+| 7 | Measuring whether it works | `part-07` |
+| 8–14 | | coming |
 
 ## Run it without a key
 
@@ -34,6 +35,15 @@ uv run python -m anfa check                 # add --save-traces to write each tr
 ```
 
 Each case in `cases/cases.json` states the part meant to handle it. Failing cases that a later part will close are reported as known gaps, not errors; a failure the current checkpoint should handle is a regression.
+
+From `part-07`, measure how well it works, not only whether each case passes:
+
+```bash
+uv run python -m anfa measure               # hit, recall, precision, rank, prompt size; by kind; rewordings
+uv run python -m anfa measure --held-out    # questions never used to tune the system (cases/held_out.json)
+uv run python -m anfa measure --sweep       # what a minimum reranker score would cost
+uv run python -m anfa judge-calibration     # the judge's verdicts against labelled answers
+```
 
 ## Run it live
 

@@ -1,0 +1,147 @@
+{
+ "request": {
+  "model": "nvidia/nemotron-3.5-rerank-8b:free",
+  "query": "Were there cracks in CN-TFC's muffler in October 2026?",
+  "documents": [
+   "CN-TFC airframe logbook extract, 2024 to 2026\nCN-TFC airframe logbook: entries from 1 January 2024 to 26 October 2026 (printed extract)\nDate: 2026-10-06; Airframe hours: 6,184.9; Work order: WO-2026-0388; Entry: Muffler AWI P/N A1754001-23 S/N 34729 inspected for cracks after a carbon monoxide alert: none found. CO detector card replaced.; Signed: K. Bennani, MA-B1-0212",
+   "Work orders WO-2021-0544, WO-2024-0071, WO-2026-0388 (scanned)\nWork order WO-2026-0388: CN-TFC, muffler inspection (scanned)\nWork performed\nCustomer request: inspect muffler for cracks after a carbon monoxide detector alert in flight.\nMuffler AWI P/N A1754001-23, S/N 34729. Not among the serial numbers listed in AD 2018-02-04, figure 1. Inspected the weld of the muffler body to the cuff following the method of AD 2018-02-04 paragraph (g)(1) anyway: no cracks, no broken welds.\nReplaced the carbon monoxide detector card (expired). Cabin heat checked on ground run.\nPerformed by: Y. Alaoui\nApproved for return to service: K. Bennani",
+   "Work orders WO-2021-0544, WO-2024-0071, WO-2026-0388 (scanned)\nWork order WO-2026-0388: CN-TFC, muffler inspection (scanned)\nANFA AERO SERVICES\n| Date | 6 October 2026 |\n| Registration | CN-TFC |\n| Aircraft | Cessna 172S |\n| Serial number | 172S11290 |\n| Airframe total time at completion (h) | 6,184.9 |",
+   "Tadla Flight Academy fleet register, 26 October 2026\nSheet: Equipment\nRegistration: CN-TFC; Item: Muffler; Manufacturer: Aerospace Welding Minneapolis (AWI); Model / part number: A1754001-23; Serial number: 34729; Installed: 2019-09-02",
+   "AD 2018-02-04: Aerospace Welding Minneapolis, Inc., Mufflers\n(e) Unsafe Condition\nThis AD was prompted by occurrences of cracks or broken welds in the connecting weld of the muffler body to muffler cuff that may allow carbon monoxide (CO) exhaust fumes into the cockpit heating system. We are issuing this AD to prevent cracks in the connecting weld of the muffler body to muffler cuff that may allow CO fumes to enter the cockpit heating system and possibly inhibit the pilot's ability to maintain control of the airplane.",
+   "CN-TFC AD compliance record, 26 October 2026\nSheet: AD compliance record\nAD number: 2018-02-04; Effective: 2018-02-21; Subject: AWI mufflers P/N A1754001-23 and A1754001-25; Applies: No; Notes: Muffler A1754001-23 S/N 34729 is not in figure 1 (range 34721 to 34728).",
+   "CN-TFC airframe logbook extract, 2024 to 2026\nCN-TFC airframe logbook: entries from 1 January 2024 to 26 October 2026 (printed extract)\nDate: 2026-03-21; Airframe hours: 5,786.3; Work order: WO-2026-0110; Entry: 100-hour inspection per 14 CFR 91.409(b). Replaced left cabin door seal. Replaced all eight spark plugs. Replaced exhaust gasket at cylinder 3. Oil and filter changed.; Signed: R. El Fassi, MA-B1-0618",
+   "CN-TFC AD compliance record, 26 October 2026\nSheet: AD compliance record\nAD number: 98-02-05; Effective: 1998-02-23; Subject: Aeroquip engine exhaust muffler; Applies: No; Notes: 172R serial numbers up to 17280305 with an Aeroquip muffler only.",
+   "Work orders WO-2021-0544, WO-2024-0071, WO-2026-0388 (scanned)\nWork order WO-2026-0388: CN-TFC, muffler inspection (scanned)\nANFA AERO SERVICES\nHangar 3, Casablanca | Work order WO-2026-0388",
+   "Work orders WO-2021-0544, WO-2024-0071, WO-2026-0388 (scanned)\nWork order WO-2026-0388: CN-TFC, muffler inspection (scanned)\nWork performed\nFigure description: The figure shows a simple oval outline containing the word \"QUALITY\" in the center. There are no labels, values, units, part numbers, or notes printed in it.",
+   "CN-TFC airframe logbook extract, 2024 to 2026\nCN-TFC airframe logbook: entries from 1 January 2024 to 26 October 2026 (printed extract)\nDate: 2026-01-31; Airframe hours: 5,688.2; Work order: WO-2026-0042; Entry: 100-hour inspection per 14 CFR 91.409(b). Replaced trim tab actuator rod end bearings; free play within limits. Replaced left brake linings. Oil and filter changed.; Signed: R. El Fassi, MA-B1-0618",
+   "CN-TFC airframe logbook extract, 2024 to 2026\nCN-TFC airframe logbook: entries from 1 January 2024 to 26 October 2026 (printed extract)\nDate: 2026-05-06; Airframe hours: 5,878.4; Work order: WO-2026-0172; Entry: 100-hour inspection per 14 CFR 91.409(b). Replaced right main tire. Replaced left main tire. Oil and filter changed.; Signed: K. Bennani, MA-B1-0212",
+   "AD 2018-02-04: Aerospace Welding Minneapolis, Inc., Mufflers\nDiscussion\nWe issued a notice of proposed rulemaking (NPRM) to amend 14 CFR part 39 by adding an AD that would apply to certain Aerospace Welding Minneapolis, Inc. (AWI) mufflers, part numbers A1754001-23 and A175400125, installed on airplanes. The NPRM published in the Federal Register on April 18, 2017 (82 FR 18265). The NPRM was prompted by reports of broken or cracked welds in the connecting weld of the muffler body to muffler cuff. There have been 54 occurrences identified by maintenance and 2 occurrences identified by the carbon monoxide (CO) gas monitor warning system. The NPRM proposed to require an inspection of the muffler for leaking to identify cracks and replacement of the muffler. We are issuing this AD to correct the unsafe condition on these products.",
+   "CN-TFC airframe logbook extract, 2024 to 2026\nCN-TFC airframe logbook: entries from 1 January 2024 to 26 October 2026 (printed extract)\nDate: 2026-08-10; Airframe hours: 6,070.7; Work order: WO-2026-0303; Entry: 100-hour inspection per 14 CFR 91.409(b). Replaced left cabin door seal. Oil and filter changed.; Signed: R. El Fassi, MA-B1-0618",
+   "AD 2018-02-04: Aerospace Welding Minneapolis, Inc., Mufflers\nAirworthiness Directives; Aerospace Welding Minneapolis, Inc., Mufflers\nAGENCY: Federal Aviation Administration (FAA), DOT.\nACTION: Final rule.\nSUMMARY: We are adopting a new airworthiness directive (AD) for certain Aerospace Welding Minneapolis, Inc. mufflers, part numbers A1754001-23 and A1754001-25, installed on airplanes. This AD was prompted by occurrences of cracks or broken welds in the connecting weld of the muffler body to muffler cuff that may allow carbon monoxide exhaust fumes into the cockpit heating system. This AD requires an inspection of the muffler for leaking to identify cracks and replacement of the muffler. We are issuing this AD to address the unsafe condition on these products.\nDATES: This AD is effective February 21, 2018.\nThe Director of the Federal Register approved the incorporation by reference of a certain publication listed in this AD as of February 21, 2018.",
+   "CN-TFC airframe logbook extract, 2024 to 2026\nCN-TFC airframe logbook: entries from 1 January 2024 to 26 October 2026 (printed extract)\nDate: 2024-07-30; Airframe hours: 4,586.5; Work order: WO-2024-0332; Entry: Bled right brake system. Replaced right brake linings.; Signed: R. El Fassi, MA-B1-0618"
+  ]
+ },
+ "response": {
+  "model": "nvidia/nemotron-3.5-rerank-8b",
+  "results": [
+   {
+    "index": 0,
+    "relevance_score": 0.16175390416536908,
+    "document": {
+     "text": "CN-TFC airframe logbook extract, 2024 to 2026\nCN-TFC airframe logbook: entries from 1 January 2024 to 26 October 2026 (printed extract)\nDate: 2026-10-06; Airframe hours: 6,184.9; Work order: WO-2026-0388; Entry: Muffler AWI P/N A1754001-23 S/N 34729 inspected for cracks after a carbon monoxide alert: none found. CO detector card replaced.; Signed: K. Bennani, MA-B1-0212"
+    }
+   },
+   {
+    "index": 1,
+    "relevance_score": 0.10850921233131797,
+    "document": {
+     "text": "Work orders WO-2021-0544, WO-2024-0071, WO-2026-0388 (scanned)\nWork order WO-2026-0388: CN-TFC, muffler inspection (scanned)\nWork performed\nCustomer request: inspect muffler for cracks after a carbon monoxide detector alert in flight.\nMuffler AWI P/N A1754001-23, S/N 34729. Not among the serial numbers listed in AD 2018-02-04, figure 1. Inspected the weld of the muffler body to the cuff following the method of AD 2018-02-04 paragraph (g)(1) anyway: no cracks, no broken welds.\nReplaced the carbon monoxide detector card (expired). Cabin heat checked on ground run.\nPerformed by: Y. Alaoui\nApproved for return to service: K. Bennani"
+    }
+   },
+   {
+    "index": 2,
+    "relevance_score": 0.0959383946745657,
+    "document": {
+     "text": "Work orders WO-2021-0544, WO-2024-0071, WO-2026-0388 (scanned)\nWork order WO-2026-0388: CN-TFC, muffler inspection (scanned)\nANFA AERO SERVICES\n| Date | 6 October 2026 |\n| Registration | CN-TFC |\n| Aircraft | Cessna 172S |\n| Serial number | 172S11290 |\n| Airframe total time at completion (h) | 6,184.9 |"
+    }
+   },
+   {
+    "index": 3,
+    "relevance_score": 0.08787525328400503,
+    "document": {
+     "text": "Tadla Flight Academy fleet register, 26 October 2026\nSheet: Equipment\nRegistration: CN-TFC; Item: Muffler; Manufacturer: Aerospace Welding Minneapolis (AWI); Model / part number: A1754001-23; Serial number: 34729; Installed: 2019-09-02"
+    }
+   },
+   {
+    "index": 8,
+    "relevance_score": 0.07257923244970652,
+    "document": {
+     "text": "Work orders WO-2021-0544, WO-2024-0071, WO-2026-0388 (scanned)\nWork order WO-2026-0388: CN-TFC, muffler inspection (scanned)\nANFA AERO SERVICES\nHangar 3, Casablanca | Work order WO-2026-0388"
+    }
+   },
+   {
+    "index": 5,
+    "relevance_score": 0.06292130567185919,
+    "document": {
+     "text": "CN-TFC AD compliance record, 26 October 2026\nSheet: AD compliance record\nAD number: 2018-02-04; Effective: 2018-02-21; Subject: AWI mufflers P/N A1754001-23 and A1754001-25; Applies: No; Notes: Muffler A1754001-23 S/N 34729 is not in figure 1 (range 34721 to 34728)."
+    }
+   },
+   {
+    "index": 9,
+    "relevance_score": 0.060331059365538474,
+    "document": {
+     "text": "Work orders WO-2021-0544, WO-2024-0071, WO-2026-0388 (scanned)\nWork order WO-2026-0388: CN-TFC, muffler inspection (scanned)\nWork performed\nFigure description: The figure shows a simple oval outline containing the word \"QUALITY\" in the center. There are no labels, values, units, part numbers, or notes printed in it."
+    }
+   },
+   {
+    "index": 7,
+    "relevance_score": 0.059156233605257895,
+    "document": {
+     "text": "CN-TFC AD compliance record, 26 October 2026\nSheet: AD compliance record\nAD number: 98-02-05; Effective: 1998-02-23; Subject: Aeroquip engine exhaust muffler; Applies: No; Notes: 172R serial numbers up to 17280305 with an Aeroquip muffler only."
+    }
+   },
+   {
+    "index": 6,
+    "relevance_score": 0.05597337271651995,
+    "document": {
+     "text": "CN-TFC airframe logbook extract, 2024 to 2026\nCN-TFC airframe logbook: entries from 1 January 2024 to 26 October 2026 (printed extract)\nDate: 2026-03-21; Airframe hours: 5,786.3; Work order: WO-2026-0110; Entry: 100-hour inspection per 14 CFR 91.409(b). Replaced left cabin door seal. Replaced all eight spark plugs. Replaced exhaust gasket at cylinder 3. Oil and filter changed.; Signed: R. El Fassi, MA-B1-0618"
+    }
+   },
+   {
+    "index": 10,
+    "relevance_score": 0.04917806965471257,
+    "document": {
+     "text": "CN-TFC airframe logbook extract, 2024 to 2026\nCN-TFC airframe logbook: entries from 1 January 2024 to 26 October 2026 (printed extract)\nDate: 2026-01-31; Airframe hours: 5,688.2; Work order: WO-2026-0042; Entry: 100-hour inspection per 14 CFR 91.409(b). Replaced trim tab actuator rod end bearings; free play within limits. Replaced left brake linings. Oil and filter changed.; Signed: R. El Fassi, MA-B1-0618"
+    }
+   },
+   {
+    "index": 13,
+    "relevance_score": 0.04887034428207405,
+    "document": {
+     "text": "CN-TFC airframe logbook extract, 2024 to 2026\nCN-TFC airframe logbook: entries from 1 January 2024 to 26 October 2026 (printed extract)\nDate: 2026-08-10; Airframe hours: 6,070.7; Work order: WO-2026-0303; Entry: 100-hour inspection per 14 CFR 91.409(b). Replaced left cabin door seal. Oil and filter changed.; Signed: R. El Fassi, MA-B1-0618"
+    }
+   },
+   {
+    "index": 11,
+    "relevance_score": 0.04787997200583236,
+    "document": {
+     "text": "CN-TFC airframe logbook extract, 2024 to 2026\nCN-TFC airframe logbook: entries from 1 January 2024 to 26 October 2026 (printed extract)\nDate: 2026-05-06; Airframe hours: 5,878.4; Work order: WO-2026-0172; Entry: 100-hour inspection per 14 CFR 91.409(b). Replaced right main tire. Replaced left main tire. Oil and filter changed.; Signed: K. Bennani, MA-B1-0212"
+    }
+   },
+   {
+    "index": 15,
+    "relevance_score": 0.04481916252352645,
+    "document": {
+     "text": "CN-TFC airframe logbook extract, 2024 to 2026\nCN-TFC airframe logbook: entries from 1 January 2024 to 26 October 2026 (printed extract)\nDate: 2024-07-30; Airframe hours: 4,586.5; Work order: WO-2024-0332; Entry: Bled right brake system. Replaced right brake linings.; Signed: R. El Fassi, MA-B1-0618"
+    }
+   },
+   {
+    "index": 4,
+    "relevance_score": 0.03762381752191973,
+    "document": {
+     "text": "AD 2018-02-04: Aerospace Welding Minneapolis, Inc., Mufflers\n(e) Unsafe Condition\nThis AD was prompted by occurrences of cracks or broken welds in the connecting weld of the muffler body to muffler cuff that may allow carbon monoxide (CO) exhaust fumes into the cockpit heating system. We are issuing this AD to prevent cracks in the connecting weld of the muffler body to muffler cuff that may allow CO fumes to enter the cockpit heating system and possibly inhibit the pilot's ability to maintain control of the airplane."
+    }
+   },
+   {
+    "index": 14,
+    "relevance_score": 0.03209995854519499,
+    "document": {
+     "text": "AD 2018-02-04: Aerospace Welding Minneapolis, Inc., Mufflers\nAirworthiness Directives; Aerospace Welding Minneapolis, Inc., Mufflers\nAGENCY: Federal Aviation Administration (FAA), DOT.\nACTION: Final rule.\nSUMMARY: We are adopting a new airworthiness directive (AD) for certain Aerospace Welding Minneapolis, Inc. mufflers, part numbers A1754001-23 and A1754001-25, installed on airplanes. This AD was prompted by occurrences of cracks or broken welds in the connecting weld of the muffler body to muffler cuff that may allow carbon monoxide exhaust fumes into the cockpit heating system. This AD requires an inspection of the muffler for leaking to identify cracks and replacement of the muffler. We are issuing this AD to address the unsafe condition on these products.\nDATES: This AD is effective February 21, 2018.\nThe Director of the Federal Register approved the incorporation by reference of a certain publication listed in this AD as of February 21, 2018."
+    }
+   },
+   {
+    "index": 12,
+    "relevance_score": 0.031115965792641313,
+    "document": {
+     "text": "AD 2018-02-04: Aerospace Welding Minneapolis, Inc., Mufflers\nDiscussion\nWe issued a notice of proposed rulemaking (NPRM) to amend 14 CFR part 39 by adding an AD that would apply to certain Aerospace Welding Minneapolis, Inc. (AWI) mufflers, part numbers A1754001-23 and A175400125, installed on airplanes. The NPRM published in the Federal Register on April 18, 2017 (82 FR 18265). The NPRM was prompted by reports of broken or cracked welds in the connecting weld of the muffler body to muffler cuff. There have been 54 occurrences identified by maintenance and 2 occurrences identified by the carbon monoxide (CO) gas monitor warning system. The NPRM proposed to require an inspection of the muffler for leaking to identify cracks and replacement of the muffler. We are issuing this AD to correct the unsafe condition on these products."
+    }
+   }
+  ],
+  "usage": {
+   "total_tokens": 2748,
+   "cost": 0
+  },
+  "provider": "Nvidia",
+  "id": "gen-rerank-1793459228-dA26w9kOgbPDVB4Zz4R1"
+ }
+}

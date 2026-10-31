@@ -1,0 +1,78 @@
+{
+ "request": {
+  "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+  "messages": [
+   {
+    "role": "user",
+    "content": "You check answers written by a maintenance assistant against the sources it was given.\n\nQuestion:\nCan we still use the 50-hour allowance in AD 2013-11-11 when a switch reaches 3,000 hours?\n\nSources:\n[S1]\nAD 2013-11-11: Cessna Aircraft Company Airplanes\n(g) Actions\n\nAt the next scheduled oil change, annual inspection, or 100-hour time-inservice (TIS) inspection after August 1, 2013 (the effective date of this AD), whichever occurs later, but in no case later than 12 months after August 1, 2013 (the effective date of this AD), inspect the engine oil pressure switch to determine if it is partnumber (P/N) 77041 or P/N 83278.\n\nIf after the inspection required in paragraph (g)(1) of this AD, P/N 77041 engine oil pressure switch is installed, before further flight, replace the engine oil pressure switch with a new, zero time, P/N 83278 engine oil pressure switch. Record the engine oil pressure switch part number, date, and airplane hours TIS in the airplane log book. The recorded engine oil pressure switch TIS will be used as the benchmark for calculation of the 3,000 hour TIS limit on the engine oil pressure switch.\n\nAfter August 1, 2013 (the effective date of this AD), do not install a P/N 77041 engine oil pressure switch on any affected airplane.\n\nIf after the inspection required in paragraph (g)(1) of this AD it is confirmed that P/N 83278 engine oil pressure switch is installed, through inspection of the airplane or engine logbooks determine the TIS of the engine oil pressure switch.\n\nIf after the inspection required in paragraph (g)(1) of this AD you cannot positively identify the hours TIS on the P/N 83278 engine oil pressure switch, before further flight, replace the engine oil pressure switch with a new, zero time, P/N 83278 engine oil pressure switch. Record the engine oil pressure switch part number, date, and airplane hours in the airplane log book. The recorded engine oil pressure switch TIS will be used as the benchmark for calculation of the 3,000 hour TIS limit on the engine oil pressure switch.\n\n(6) When the engine oil pressure switch is at or greater than 3,000 hours TIS or within 50 hours TIS after August 1, 2013 (the effective date of this AD), whichever occurs later, and repetitively thereafter at intervals not to exceed 3,000 hours TIS on the P/N\n\n83278 engine oil pressure switch, replace it with a new, zero time, P/N 83278 engine oil pressure switch. Record the engine oil pressure switch part number, date, and airplane hours in the airplane log book. The recorded engine oil pressure switch TIS will be used as the benchmark for calculation of the 3,000 hour TIS limit on the engine oil pressure switch.\n\n[S2]\nAD 2013-11-11: Cessna Aircraft Company Airplanes\n(e) Unsafe Condition\n\nThis AD was prompted by new reports of internal failure of the improved engine oil pressure switch, which could result in complete loss of engine oil with consequent partial or complete loss of engine power or fire. We are issuing this AD to increase the applicability of the AD and place a life-limit of 3,000 hours time-in-service (TIS) on the engine oil pressure switch, requiring replacement when the engine oil pressure switch reaches its life limit.\n\n[S3]\nAirworthiness directives at Anfa: training deck for new mechanics\n4 The engine oil pressure switch\n\nSlide 4: The engine oil pressure switch\nP/N 83278, 3,000 hours Replace with a new, zero-time switch Record part number, date, and airframe hours\nSpeaker notes: The 50-hour allowance in paragraph (g)(6) of AD 2013-11-11 applied once, to switches that were already at or near the limit when the directive took effect on 1 August 2013. It is not a grace period you can use today. Our manual, section 3.2, applies the same 3,000-hour limit to every 172R and 172S we maintain.\n\n[S4]\nAD 2013-11-11: Cessna Aircraft Company Airplanes\nAuthority for This Rulemaking\n\nTitle 49 of the United States Code specifies the FAA's authority to issue rules on aviation safety. Subtitle I, Section 106, describes the authority of the FAA Administrator. Subtitle VII, Aviation Programs, describes in more detail the scope of the Agency's authority.\n\nWe are issuing this rulemaking under the authority described in Subtitle VII, Part A, Subpart III, Section 44701, ''General requirements.'' Under that section, Congress charges the FAA with promoting safe flight of civil aircraft in air commerce by prescribing regulations for practices, methods, and procedures the Administrator finds necessary for safety in air commerce. This regulation is within the scope of that authority because it addresses an unsafe condition that is likely to exist or develop on products identified in this rulemaking action.\n\n04-01 applies to the specified products. The SNPRM published in the Federal Register on March 7, 2013 (78 FR 14726). The NPRM (77 FR 60062, October 2, 2012) proposed to increase the applicability of the AD and place a life-limit of 3,000 hours time-in-service (TIS) on the engine oil pressure switch, requiring replacement when the engine oil pressure switch reaches its life limit. The SNPRM proposed to change the applicable serial numbers ranges and place a life-limit of 3,000 hours TIS on the engine oil pressure switch, requiring replacement when the engine oil pressure switch reaches its life limit.\n\nAnswer to check:\nNo. The 50-hour allowance applied once, when the AD took effect; after that the switch is replaced at 3,000 hours.\n\nIs every claim in the answer supported by the sources? A claim the sources don't state is\nunsupported, even if it may be true. Reply with one line, \"VERDICT: supported\" or\n\"VERDICT: unsupported\", then one sentence saying why."
+   }
+  ],
+  "max_tokens": 8000,
+  "temperature": 0
+ },
+ "response": {
+  "id": "gen-1793459720-mdXosDRyCjMDlAezX16e",
+  "choices": [
+   {
+    "finish_reason": "stop",
+    "index": 0,
+    "logprobs": null,
+    "message": {
+     "content": "VERDICT: supported\nThe sources explicitly state the 50-hour allowance was a one-time provision for switches near the limit when the AD took effect on August 1, 2013, and is not a grace period applicable today, with replacement required at 3,000-hour intervals thereafter.",
+     "refusal": null,
+     "role": "assistant",
+     "annotations": null,
+     "audio": null,
+     "function_call": null,
+     "tool_calls": null,
+     "reasoning": "The user wants me to check if the answer is fully supported by the provided sources.\n\nAnswer: \"No. The 50-hour allowance applied once, when the AD took effect; after that the switch is replaced at 3,000 hours.\"\n\nSources:\n[S1] Contains the actual AD text. Paragraph (g)(6) says: \"When the engine oil pressure switch is at or greater than 3,000 hours TIS or within 50 hours TIS after August 1, 2013 (the effective date of this AD), whichever occurs later, and repetitively thereafter at intervals not to exceed 3,000 hours TIS on the P/N 83278 engine oil pressure switch, replace it...\"\n[S2] Describes the unsafe condition and life limit.\n[S3] Training deck slide and speaker notes: \"The 50-hour allowance in paragraph (g)(6) of AD 2013-11-11 applied once, to switches that were already at or near the limit when the directive took effect on 1 August 2013. It is not a grace period you can use today.\"\n[S4] Authority/rulemaking history.\n\nThe answer claims: \"The 50-hour allowance applied once, when the AD took effect; after that the switch is replaced at 3,000 hours.\"\n\nSource [S3] explicitly states: \"The 50-hour allowance in paragraph (g)(6) of AD 2013-11-11 applied once, to switches that were already at or near the limit when the directive took effect on 1 August 2013. It is not a grace period you can use today.\"\n\nSource [S1] paragraph (g)(6) text supports the mechanism: \"at or greater than 3,000 hours TIS or within 50 hours TIS after August 1, 2013... whichever occurs later, and repetitively thereafter at intervals not to exceed 3,000 hours TIS\". This implies the 50-hour window was only relevant relative to the effective date (Aug 1, 2013). After that, the repetitive interval is 3,000 hours.\n\nThe answer is fully supported by the sources, specifically [S1] and [S3].",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "The user wants me to check if the answer is fully supported by the provided sources.\n\nAnswer: \"No. The 50-hour allowance applied once, when the AD took effect; after that the switch is replaced at 3,000 hours.\"\n\nSources:\n[S1] Contains the actual AD text. Paragraph (g)(6) says: \"When the engine oil pressure switch is at or greater than 3,000 hours TIS or within 50 hours TIS after August 1, 2013 (the effective date of this AD), whichever occurs later, and repetitively thereafter at intervals not to exceed 3,000 hours TIS on the P/N 83278 engine oil pressure switch, replace it...\"\n[S2] Describes the unsafe condition and life limit.\n[S3] Training deck slide and speaker notes: \"The 50-hour allowance in paragraph (g)(6) of AD 2013-11-11 applied once, to switches that were already at or near the limit when the directive took effect on 1 August 2013. It is not a grace period you can use today.\"\n[S4] Authority/rulemaking history.\n\nThe answer claims: \"The 50-hour allowance applied once, when the AD took effect; after that the switch is replaced at 3,000 hours.\"\n\nSource [S3] explicitly states: \"The 50-hour allowance in paragraph (g)(6) of AD 2013-11-11 applied once, to switches that were already at or near the limit when the directive took effect on 1 August 2013. It is not a grace period you can use today.\"\n\nSource [S1] paragraph (g)(6) text supports the mechanism: \"at or greater than 3,000 hours TIS or within 50 hours TIS after August 1, 2013... whichever occurs later, and repetitively thereafter at intervals not to exceed 3,000 hours TIS\". This implies the 50-hour window was only relevant relative to the effective date (Aug 1, 2013). After that, the repetitive interval is 3,000 hours.\n\nThe answer is fully supported by the sources, specifically [S1] and [S3].",
+       "format": "unknown",
+       "index": 0
+      }
+     ]
+    },
+    "native_finish_reason": "stop"
+   }
+  ],
+  "created": 1793459720,
+  "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+  "object": "chat.completion",
+  "metadata": null,
+  "moderation": null,
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+   "completion_tokens": 573,
+   "prompt_tokens": 1455,
+   "total_tokens": 2028,
+   "completion_tokens_details": {
+    "accepted_prediction_tokens": null,
+    "audio_tokens": 0,
+    "reasoning_tokens": 449,
+    "rejected_prediction_tokens": null,
+    "text_tokens": null,
+    "image_tokens": 0
+   },
+   "prompt_tokens_details": {
+    "audio_tokens": 0,
+    "cache_write_tokens": 0,
+    "cached_tokens": 0,
+    "image_tokens": null,
+    "text_tokens": null,
+    "video_tokens": 0
+   },
+   "cost": 0,
+   "is_byok": false,
+   "cost_details": {
+    "upstream_inference_cost": 0,
+    "upstream_inference_prompt_cost": 0,
+    "upstream_inference_completions_cost": 0
+   }
+  },
+  "provider": "Nvidia"
+ }
+}

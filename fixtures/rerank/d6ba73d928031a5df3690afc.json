@@ -1,0 +1,171 @@
+{
+ "request": {
+  "model": "nvidia/nemotron-3.5-rerank-8b:free",
+  "query": "Which hours do I use when the fleet register and a work order disagree about an installation?",
+  "documents": [
+   "Procedures manual, revision 7 (excerpt)\n3 Life-limited and time-controlled parts\n3.1 Tracking. Time-controlled parts are listed in the fleet register, sheet Time-controlled parts, with the airframe hours at installation. The hours used on a part are the airframe's current total time minus the airframe hours at installation.\n3.2 Engine oil pressure switch. AD 2013-11-11 limits the engine oil pressure switch, P/N 83278, to 3,000 hours time-in-service on the airplanes within its applicability. Anfa applies the same 3,000-hour limit to every Cessna 172R and 172S it maintains, including those outside the directive's serial number ranges. Plan the replacement when a switch reaches 2,900 hours. Keep two switches in stock.\n3.3 When the records disagree. If the fleet register and a work order or logbook give different hours for the same installation, use the lower airframe hours at installation until the quality manager has resolved the difference. Never use the figure that gives the part more time.",
+   "Procedures manual, revision 7 (excerpt)\n2 Airworthiness directives\n2.1 Weekly review. Every Monday the quality manager checks the FAA's list of new and revised airworthiness directives for the Cessna 172 series, the engines, propellers, and appliances installed in the fleet. The FAA is the state of design for every type we maintain, and its directives are applied as mandatory.\n2.2 Corrections. A directive can be corrected after publication, in a separate Federal Register notice. Always read a directive together with its corrections before deciding whether it applies.\n2.3 Applicability. A directive applies to an aircraft only when every condition in its applicability paragraph is met: model, serial number range, installed equipment, part number, software version, and any modification or service bulletin it names. Check each condition against the fleet register and the aircraft records, and write down which conditions you checked.\n2.4 Records. Each aircraft has an AD compliance record in the format suggested in AC 43-9D, appendix A: the directive number and revision, the method of compliance, the date and hours, and for recurring directives the next time due. A directive found not applicable is recorded too, with the reason.",
+   "Airworthiness directives at Anfa: training deck for new mechanics\n6 Records\nRecords\n14 CFR 43.9 content in every entry AD compliance record for each aircraft Hours to one decimal place\nSpeaker notes: Check every number you copy. A swapped pair of digits in an installation time moves the next due time by 90 hours, and nobody notices until the records are audited.",
+   "FAA-H-8083-30A, Aviation Maintenance Technician Handbook: General, chapter 13 (mechanic privileges and limitations)\nFinal Observation\n\"As a certified technician, I am aware that it is not possible to have knowledge and skill in every aspect of aviation maintenance for every airplane, so I pledge that I will never undertake work or approve work which I believe to be beyond the limits of my knowledge. I shall not allow any superior to persuade me to approve aircraft or equipment as airworthy when there is doubt in my mind as to the validity of my action. Under no circumstances will I permit the offer of money or other personal favors to influence me to act contrary to my best judgment, nor to pass as airworthy aircraft or equipment about which I am in doubt.\"\n\"The responsibility that I have accepted as a certified technician demands that I exercise my judgment on the airworthiness of aircraft and equipment; therefore, I pledge unyielding adherence to these precepts for the advancement of aviation and for the dignity of my vocation.\"",
+   "Procedures manual, revision 7 (excerpt)\n5 Maintenance records and return to service\n5.1 Every maintenance record entry contains what 14 CFR 43.9 requires: a description of the work, the date it was completed, the name of the person who did it, and the signature and certificate number of the person approving the aircraft for return to service.\n5.2 Write airframe hours as read from the aircraft's hour meter, to one decimal place, and check the figure you copied from the work order into the register before signing.\n5.3 Work orders are scanned and kept with the aircraft records. The paper originals are kept for two years.",
+   "AC 43-9C, Maintenance Records (cancelled 22 September 2025)\n5 MAINTENANCE RECORD REQUIREMENTS.\nNOTE: Certificated repair stations frequently work on components shipped to them without the maintenance records. To provide for this situation, repair stations should supply owners and operators with copies of work orders written for the work, in lieu of maintenance record entries. The work order copy must include the information, required by section 91.417(a)(1) through section 91.417(a)(1)(iii), be made a part of the maintenance record, and retained per section 91.417(b). This procedure is not the same as that for maintenance releases discussed in paragraph 16, and it may not be used when maintenance records are available. Section 91.417(a)(1)(i) is identical to its counterpart, section 43.9(a)(1), which imposes the same requirements on maintenance personnel.",
+   "14 CFR Part 91, subpart E: Maintenance, Preventive Maintenance, and Alterations\n\u00a7 91.409 Inspections.\n(i) An explanation of the progressive inspection, including the continuity of inspection responsibility, the making of reports, and the keeping of records and technical reference material;\n(ii) An inspection schedule, specifying the intervals in hours or days when routine and detailed inspections will be performed and including instructions for exceeding an inspection interval by not more than 10 hours while en route and for changing an inspection interval because of service experience;\n(iii) Sample routine and detailed inspection forms and instructions for their use; and\n(iv) Sample reports and records and instructions for their use;\n(3) Enough housing and equipment for necessary disassembly and proper inspection of the aircraft; and\n(4) Appropriate current technical information for the aircraft.\nThe frequency and detail of the progressive inspection shall provide for the complete inspection of the aircraft within each 12 calendar months and be consistent with the manufacturer's recommendations, field service experience, and the kind of operation in which the aircraft is engaged.",
+   "AC 43.13-2B, Acceptable Methods, Techniques, and Practices: Aircraft Alterations\n803 INSTALLATION CONSIDERATIONS.\na. Weight and Balance. In most cases, the weight of the tow-hitch assembly will affect the aft center of gravity (c.g.) location. To assure that the possibility of an adverse effect caused by the installation has not been ignored, enter all pertinent computations in the aircraft weight and balance records, in accordance with the provisions contained in 14 CFR part 43, \u00a7 43.5(c). The requirements of \u00a7 43.5(a) and (b) should also be addressed, for maintenance record entries and repair and alteration forms.\nb. Equipment List. The aircraft equipment list should be updated to reflect any tow equipment installations. Consideration should also be given to adding appropriate revisions to the aircraft's Pilot Operating Handbook (POH), or Flight Manual, as required.",
+   "AD 2007-05-10: Cessna Aircraft Company Models 172R, 172S, 182S, 182T, T182T, 206H, and T206H Airplanes\nCosts of Compliance\nWe estimate that this AD will affect 4,039 airplanes in the U.S. registry. We provide below total fleet costs for both the modification and the steel lock rod/ bar installation; however, only one of these actions will be required.\nWe estimate the following costs to do the installation of the modification kit:\nWe estimate the following costs to do the fabrication and installation of a steel lock rod/bar:\nWe estimate the following costs to do the installation inspection on airplanes that have Modification Kit MK172-2510A or MK172-25-10B installed:\nWe have no method of determining the number of airplanes that may have Modification Kit MK172-25-10A or MK172-25-10B previously installed.",
+   "14 CFR Part 43: Maintenance, Preventive Maintenance, Rebuilding, and Alteration\nAppendix A to Part 43\u2014Major Alterations, Major Repairs, and Preventive Maintenance\n(i) Conversion of an aircraft engine from one approved model to another, involving any changes in compression ratio, propeller reduction gear, impeller gear ratios or the substitution of major engine parts which requires extensive rework and testing of the engine.\n(ii) Changes to the engine by replacing aircraft engine structural parts with parts not supplied by the original manufacturer or parts not specifically approved by the Administrator.\n(iii) Installation of an accessory which is not approved for the engine.\n(iv) Removal of accessories that are listed as required equipment on the aircraft or engine specification.\n(v) Installation of structural parts other than the type of parts approved for the installation.\n(vi) Conversions of any sort for the purpose of using fuel of a rating or grade other than that listed in the engine specifications.\n(3) Propeller major alterations. The following alterations of a propeller when not authorized in the propeller specifications issued by the FAA are propeller major alterations:\n(i) Changes in blade design.\n(ii) Changes in hub design.\n(iii) Changes in the governor or control design.",
+   "Work order WO-2025-0210: CN-TFD, repair\nAnfa Aero Services: work order WO-2025-0210\n| Field | Value |\n| --- | --- |\n| Date completed | 20 May 2025 |\n| Registration | CN-TFD |\n| Aircraft | Cessna 172R |\n| Serial number | 17281201 |\n| Airframe total time at completion (h) | 10,189.7 |\n| Station | Casablanca |",
+   "AD 2001-06-17: Cessna Aircraft Company Models 172R and 172S Airplanes\n\u00a739.13 [Amended]\nFAA amends \u00a739.13 by adding a new airworthiness directive (AD) to read as follows:\n2001-06-14 Cessna Aircraft Company: Amendment 39-12164; Docket No.\n2001-CE-14-AD.\n(a) What airplanes are affected by this AD? This AD applies to Models 172R and 172S, all serial numbers, that are certificated in any category.\n(b) Who must comply with this AD? Anyone who wishes to operate any of the above airplanes must comply with this AD.\n(c) What problem does this AD address? The actions specified by this AD are intended to detect and correct an over-rich fuel mixture (improper fuel flow settings), which could result in rough engine operation or engine stoppage. This over-rich fuel mixture also contributes to the engine not restarting during flight when using published in-flight restart procedures.\n(d) What must I do to address this problem? To address this problem, you must accomplish the following actions:\n(e) Can I comply with this AD in any other way? You may use an alternative method of compliance or adjust the compliance time if:\nYour alternative method of compliance provides an equivalent level of safety; and",
+   "Work order WO-2024-0207: CN-TFC, 100-hour inspection\nWork performed\n100-hour inspection per 14 CFR 91.409(b), using the Cessna 172 inspection checklist.\nChanged engine oil and filter. Compression check, cylinders 1 to 4: 77/80, 72/80, 75/80, 73/80.\nDiscrepancy: Left cabin door seal torn. Corrective action: Replaced left cabin door seal.\nDiscrepancy: Alternator belt tension low. Corrective action: Adjusted alternator belt tension per maintenance manual.\nAircraft found airworthy after correction of the discrepancies listed.",
+   "AD 2019-01-02: Aspen Avionics, Inc., Evolution Flight Display Units\nCosts of Compliance\nWe estimate that this AD affects 2,000 aircraft of U.S. registry. We estimate that operators may incur the following costs in order to comply with this AD. Labor costs are estimated at $85 per workhour.\nDisabling the ADS-B In function and revising the AFMS would take about 0.5 work-hour for an estimated cost of $43 per unit and up to $258,000 for the U.S. fleet.",
+   "Work order WO-2025-0341: CN-TFF, 100-hour inspection\nWork performed\n100-hour inspection per 14 CFR 91.409(b), using the Cessna 172 inspection checklist.\nChanged engine oil and filter. Compression check, cylinders 1 to 4: 72/80, 70/80, 75/80, 75/80.\nDiscrepancy: Spark plugs eroded. Corrective action: Cleaned, gapped, and rotated all eight spark plugs.\nDiscrepancy: Alternator belt tension low. Corrective action: Adjusted alternator belt tension per maintenance manual.\nAircraft found airworthy after correction of the discrepancies listed.",
+   "AD 2010-04-06: Thielert Aircraft Engines GmbH (TAE) Model TAE 125-01 Reciprocating Engines\nActions and Compliance\n(e) Unless already done, do the following actions within the next 50 flight hours after the effective date of this AD:\n(1) Modify the engine oil system by installing a filter adaptor to the catch tank.\n(2) Use the installation instructions in Thielert Service Bulletin No. TM TAE 1250016, Revision 1, dated June 15, 2007, to install the filter adaptor.",
+   "Work order WO-2024-0262: CN-TFD, 100-hour inspection\nWork performed\n100-hour inspection per 14 CFR 91.409(b), using the Cessna 172 inspection checklist.\nChanged engine oil and filter. Compression check, cylinders 1 to 4: 77/80, 71/80, 73/80, 75/80.\nDiscrepancy: Spark plugs eroded. Corrective action: Cleaned, gapped, and rotated all eight spark plugs.\nDiscrepancy: Left main tire worn to the wear limit. Corrective action: Replaced left main tire.\nAircraft found airworthy after correction of the discrepancies listed.",
+   "14 CFR Part 39: Airworthiness Directives\n\u00a7 39.27 What do I do if the airworthiness directive conflicts with the service document on which it is based?\nIn some cases an airworthiness directive incorporates by reference a manufacturer's service document. In these cases, the service document becomes part of the airworthiness directive. In some cases the directions in the service document may be modified by the airworthiness directive. If there is a conflict between the service document and the airworthiness directive, you must follow the requirements of the airworthiness directive.",
+   "Work order WO-2025-0130: CN-TFG, repair\nAnfa Aero Services: work order WO-2025-0130\n| Field | Value |\n| --- | --- |\n| Date completed | 26 March 2025 |\n| Registration | CN-TFG |\n| Aircraft | Cessna 172N |\n| Serial number | 17272851 |\n| Airframe total time at completion (h) | 14,134.9 |\n| Station | Beni Mellal |"
+  ]
+ },
+ "response": {
+  "model": "nvidia/nemotron-3.5-rerank-8b",
+  "results": [
+   {
+    "index": 0,
+    "relevance_score": 0.10679612063478162,
+    "document": {
+     "text": "Procedures manual, revision 7 (excerpt)\n3 Life-limited and time-controlled parts\n3.1 Tracking. Time-controlled parts are listed in the fleet register, sheet Time-controlled parts, with the airframe hours at installation. The hours used on a part are the airframe's current total time minus the airframe hours at installation.\n3.2 Engine oil pressure switch. AD 2013-11-11 limits the engine oil pressure switch, P/N 83278, to 3,000 hours time-in-service on the airplanes within its applicability. Anfa applies the same 3,000-hour limit to every Cessna 172R and 172S it maintains, including those outside the directive's serial number ranges. Plan the replacement when a switch reaches 2,900 hours. Keep two switches in stock.\n3.3 When the records disagree. If the fleet register and a work order or logbook give different hours for the same installation, use the lower airframe hours at installation until the quality manager has resolved the difference. Never use the figure that gives the part more time."
+    }
+   },
+   {
+    "index": 4,
+    "relevance_score": 0.0459195054830503,
+    "document": {
+     "text": "Procedures manual, revision 7 (excerpt)\n5 Maintenance records and return to service\n5.1 Every maintenance record entry contains what 14 CFR 43.9 requires: a description of the work, the date it was completed, the name of the person who did it, and the signature and certificate number of the person approving the aircraft for return to service.\n5.2 Write airframe hours as read from the aircraft's hour meter, to one decimal place, and check the figure you copied from the work order into the register before signing.\n5.3 Work orders are scanned and kept with the aircraft records. The paper originals are kept for two years."
+    }
+   },
+   {
+    "index": 2,
+    "relevance_score": 0.03813519726562289,
+    "document": {
+     "text": "Airworthiness directives at Anfa: training deck for new mechanics\n6 Records\nRecords\n14 CFR 43.9 content in every entry AD compliance record for each aircraft Hours to one decimal place\nSpeaker notes: Check every number you copy. A swapped pair of digits in an installation time moves the next due time by 90 hours, and nobody notices until the records are audited."
+    }
+   },
+   {
+    "index": 10,
+    "relevance_score": 0.03752384033026197,
+    "document": {
+     "text": "Work order WO-2025-0210: CN-TFD, repair\nAnfa Aero Services: work order WO-2025-0210\n| Field | Value |\n| --- | --- |\n| Date completed | 20 May 2025 |\n| Registration | CN-TFD |\n| Aircraft | Cessna 172R |\n| Serial number | 17281201 |\n| Airframe total time at completion (h) | 10,189.7 |\n| Station | Casablanca |"
+    }
+   },
+   {
+    "index": 18,
+    "relevance_score": 0.03636657109816772,
+    "document": {
+     "text": "Work order WO-2025-0130: CN-TFG, repair\nAnfa Aero Services: work order WO-2025-0130\n| Field | Value |\n| --- | --- |\n| Date completed | 26 March 2025 |\n| Registration | CN-TFG |\n| Aircraft | Cessna 172N |\n| Serial number | 17272851 |\n| Airframe total time at completion (h) | 14,134.9 |\n| Station | Beni Mellal |"
+    }
+   },
+   {
+    "index": 16,
+    "relevance_score": 0.02875735842223797,
+    "document": {
+     "text": "Work order WO-2024-0262: CN-TFD, 100-hour inspection\nWork performed\n100-hour inspection per 14 CFR 91.409(b), using the Cessna 172 inspection checklist.\nChanged engine oil and filter. Compression check, cylinders 1 to 4: 77/80, 71/80, 73/80, 75/80.\nDiscrepancy: Spark plugs eroded. Corrective action: Cleaned, gapped, and rotated all eight spark plugs.\nDiscrepancy: Left main tire worn to the wear limit. Corrective action: Replaced left main tire.\nAircraft found airworthy after correction of the discrepancies listed."
+    }
+   },
+   {
+    "index": 1,
+    "relevance_score": 0.02846958611007478,
+    "document": {
+     "text": "Procedures manual, revision 7 (excerpt)\n2 Airworthiness directives\n2.1 Weekly review. Every Monday the quality manager checks the FAA's list of new and revised airworthiness directives for the Cessna 172 series, the engines, propellers, and appliances installed in the fleet. The FAA is the state of design for every type we maintain, and its directives are applied as mandatory.\n2.2 Corrections. A directive can be corrected after publication, in a separate Federal Register notice. Always read a directive together with its corrections before deciding whether it applies.\n2.3 Applicability. A directive applies to an aircraft only when every condition in its applicability paragraph is met: model, serial number range, installed equipment, part number, software version, and any modification or service bulletin it names. Check each condition against the fleet register and the aircraft records, and write down which conditions you checked.\n2.4 Records. Each aircraft has an AD compliance record in the format suggested in AC 43-9D, appendix A: the directive number and revision, the method of compliance, the date and hours, and for recurring directives the next time due. A directive found not applicable is recorded too, with the reason."
+    }
+   },
+   {
+    "index": 14,
+    "relevance_score": 0.02770631054929385,
+    "document": {
+     "text": "Work order WO-2025-0341: CN-TFF, 100-hour inspection\nWork performed\n100-hour inspection per 14 CFR 91.409(b), using the Cessna 172 inspection checklist.\nChanged engine oil and filter. Compression check, cylinders 1 to 4: 72/80, 70/80, 75/80, 75/80.\nDiscrepancy: Spark plugs eroded. Corrective action: Cleaned, gapped, and rotated all eight spark plugs.\nDiscrepancy: Alternator belt tension low. Corrective action: Adjusted alternator belt tension per maintenance manual.\nAircraft found airworthy after correction of the discrepancies listed."
+    }
+   },
+   {
+    "index": 12,
+    "relevance_score": 0.02749837386514847,
+    "document": {
+     "text": "Work order WO-2024-0207: CN-TFC, 100-hour inspection\nWork performed\n100-hour inspection per 14 CFR 91.409(b), using the Cessna 172 inspection checklist.\nChanged engine oil and filter. Compression check, cylinders 1 to 4: 77/80, 72/80, 75/80, 73/80.\nDiscrepancy: Left cabin door seal torn. Corrective action: Replaced left cabin door seal.\nDiscrepancy: Alternator belt tension low. Corrective action: Adjusted alternator belt tension per maintenance manual.\nAircraft found airworthy after correction of the discrepancies listed."
+    }
+   },
+   {
+    "index": 5,
+    "relevance_score": 0.027437327377364984,
+    "document": {
+     "text": "AC 43-9C, Maintenance Records (cancelled 22 September 2025)\n5 MAINTENANCE RECORD REQUIREMENTS.\nNOTE: Certificated repair stations frequently work on components shipped to them without the maintenance records. To provide for this situation, repair stations should supply owners and operators with copies of work orders written for the work, in lieu of maintenance record entries. The work order copy must include the information, required by section 91.417(a)(1) through section 91.417(a)(1)(iii), be made a part of the maintenance record, and retained per section 91.417(b). This procedure is not the same as that for maintenance releases discussed in paragraph 16, and it may not be used when maintenance records are available. Section 91.417(a)(1)(i) is identical to its counterpart, section 43.9(a)(1), which imposes the same requirements on maintenance personnel."
+    }
+   },
+   {
+    "index": 15,
+    "relevance_score": 0.02507443779570505,
+    "document": {
+     "text": "AD 2010-04-06: Thielert Aircraft Engines GmbH (TAE) Model TAE 125-01 Reciprocating Engines\nActions and Compliance\n(e) Unless already done, do the following actions within the next 50 flight hours after the effective date of this AD:\n(1) Modify the engine oil system by installing a filter adaptor to the catch tank.\n(2) Use the installation instructions in Thielert Service Bulletin No. TM TAE 1250016, Revision 1, dated June 15, 2007, to install the filter adaptor."
+    }
+   },
+   {
+    "index": 17,
+    "relevance_score": 0.023309145537903538,
+    "document": {
+     "text": "14 CFR Part 39: Airworthiness Directives\n\u00a7 39.27 What do I do if the airworthiness directive conflicts with the service document on which it is based?\nIn some cases an airworthiness directive incorporates by reference a manufacturer's service document. In these cases, the service document becomes part of the airworthiness directive. In some cases the directions in the service document may be modified by the airworthiness directive. If there is a conflict between the service document and the airworthiness directive, you must follow the requirements of the airworthiness directive."
+    }
+   },
+   {
+    "index": 7,
+    "relevance_score": 0.02222682665179532,
+    "document": {
+     "text": "AC 43.13-2B, Acceptable Methods, Techniques, and Practices: Aircraft Alterations\n803 INSTALLATION CONSIDERATIONS.\na. Weight and Balance. In most cases, the weight of the tow-hitch assembly will affect the aft center of gravity (c.g.) location. To assure that the possibility of an adverse effect caused by the installation has not been ignored, enter all pertinent computations in the aircraft weight and balance records, in accordance with the provisions contained in 14 CFR part 43, \u00a7 43.5(c). The requirements of \u00a7 43.5(a) and (b) should also be addressed, for maintenance record entries and repair and alteration forms.\nb. Equipment List. The aircraft equipment list should be updated to reflect any tow equipment installations. Consideration should also be given to adding appropriate revisions to the aircraft's Pilot Operating Handbook (POH), or Flight Manual, as required."
+    }
+   },
+   {
+    "index": 8,
+    "relevance_score": 0.021619023889743367,
+    "document": {
+     "text": "AD 2007-05-10: Cessna Aircraft Company Models 172R, 172S, 182S, 182T, T182T, 206H, and T206H Airplanes\nCosts of Compliance\nWe estimate that this AD will affect 4,039 airplanes in the U.S. registry. We provide below total fleet costs for both the modification and the steel lock rod/ bar installation; however, only one of these actions will be required.\nWe estimate the following costs to do the installation of the modification kit:\nWe estimate the following costs to do the fabrication and installation of a steel lock rod/bar:\nWe estimate the following costs to do the installation inspection on airplanes that have Modification Kit MK172-2510A or MK172-25-10B installed:\nWe have no method of determining the number of airplanes that may have Modification Kit MK172-25-10A or MK172-25-10B previously installed."
+    }
+   },
+   {
+    "index": 9,
+    "relevance_score": 0.02125344191911541,
+    "document": {
+     "text": "14 CFR Part 43: Maintenance, Preventive Maintenance, Rebuilding, and Alteration\nAppendix A to Part 43\u2014Major Alterations, Major Repairs, and Preventive Maintenance\n(i) Conversion of an aircraft engine from one approved model to another, involving any changes in compression ratio, propeller reduction gear, impeller gear ratios or the substitution of major engine parts which requires extensive rework and testing of the engine.\n(ii) Changes to the engine by replacing aircraft engine structural parts with parts not supplied by the original manufacturer or parts not specifically approved by the Administrator.\n(iii) Installation of an accessory which is not approved for the engine.\n(iv) Removal of accessories that are listed as required equipment on the aircraft or engine specification.\n(v) Installation of structural parts other than the type of parts approved for the installation.\n(vi) Conversions of any sort for the purpose of using fuel of a rating or grade other than that listed in the engine specifications.\n(3) Propeller major alterations. The following alterations of a propeller when not authorized in the propeller specifications issued by the FAA are propeller major alterations:\n(i) Changes in blade design.\n(ii) Changes in hub design.\n(iii) Changes in the governor or control design."
+    }
+   },
+   {
+    "index": 3,
+    "relevance_score": 0.019682572889500146,
+    "document": {
+     "text": "FAA-H-8083-30A, Aviation Maintenance Technician Handbook: General, chapter 13 (mechanic privileges and limitations)\nFinal Observation\n\"As a certified technician, I am aware that it is not possible to have knowledge and skill in every aspect of aviation maintenance for every airplane, so I pledge that I will never undertake work or approve work which I believe to be beyond the limits of my knowledge. I shall not allow any superior to persuade me to approve aircraft or equipment as airworthy when there is doubt in my mind as to the validity of my action. Under no circumstances will I permit the offer of money or other personal favors to influence me to act contrary to my best judgment, nor to pass as airworthy aircraft or equipment about which I am in doubt.\"\n\"The responsibility that I have accepted as a certified technician demands that I exercise my judgment on the airworthiness of aircraft and equipment; therefore, I pledge unyielding adherence to these precepts for the advancement of aviation and for the dignity of my vocation.\""
+    }
+   },
+   {
+    "index": 13,
+    "relevance_score": 0.019553869666534857,
+    "document": {
+     "text": "AD 2019-01-02: Aspen Avionics, Inc., Evolution Flight Display Units\nCosts of Compliance\nWe estimate that this AD affects 2,000 aircraft of U.S. registry. We estimate that operators may incur the following costs in order to comply with this AD. Labor costs are estimated at $85 per workhour.\nDisabling the ADS-B In function and revising the AFMS would take about 0.5 work-hour for an estimated cost of $43 per unit and up to $258,000 for the U.S. fleet."
+    }
+   },
+   {
+    "index": 6,
+    "relevance_score": 0.01932415542183739,
+    "document": {
+     "text": "14 CFR Part 91, subpart E: Maintenance, Preventive Maintenance, and Alterations\n\u00a7 91.409 Inspections.\n(i) An explanation of the progressive inspection, including the continuity of inspection responsibility, the making of reports, and the keeping of records and technical reference material;\n(ii) An inspection schedule, specifying the intervals in hours or days when routine and detailed inspections will be performed and including instructions for exceeding an inspection interval by not more than 10 hours while en route and for changing an inspection interval because of service experience;\n(iii) Sample routine and detailed inspection forms and instructions for their use; and\n(iv) Sample reports and records and instructions for their use;\n(3) Enough housing and equipment for necessary disassembly and proper inspection of the aircraft; and\n(4) Appropriate current technical information for the aircraft.\nThe frequency and detail of the progressive inspection shall provide for the complete inspection of the aircraft within each 12 calendar months and be consistent with the manufacturer's recommendations, field service experience, and the kind of operation in which the aircraft is engaged."
+    }
+   },
+   {
+    "index": 11,
+    "relevance_score": 0.01766632131076321,
+    "document": {
+     "text": "AD 2001-06-17: Cessna Aircraft Company Models 172R and 172S Airplanes\n\u00a739.13 [Amended]\nFAA amends \u00a739.13 by adding a new airworthiness directive (AD) to read as follows:\n2001-06-14 Cessna Aircraft Company: Amendment 39-12164; Docket No.\n2001-CE-14-AD.\n(a) What airplanes are affected by this AD? This AD applies to Models 172R and 172S, all serial numbers, that are certificated in any category.\n(b) Who must comply with this AD? Anyone who wishes to operate any of the above airplanes must comply with this AD.\n(c) What problem does this AD address? The actions specified by this AD are intended to detect and correct an over-rich fuel mixture (improper fuel flow settings), which could result in rough engine operation or engine stoppage. This over-rich fuel mixture also contributes to the engine not restarting during flight when using published in-flight restart procedures.\n(d) What must I do to address this problem? To address this problem, you must accomplish the following actions:\n(e) Can I comply with this AD in any other way? You may use an alternative method of compliance or adjust the compliance time if:\nYour alternative method of compliance provides an equivalent level of safety; and"
+    }
+   }
+  ],
+  "usage": {
+   "total_tokens": 3966,
+   "cost": 0
+  },
+  "provider": "Nvidia",
+  "id": "gen-rerank-1793459222-yvwVYUaLtnWtkfzK2lYt"
+ }
+}

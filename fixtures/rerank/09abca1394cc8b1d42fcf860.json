@@ -1,0 +1,123 @@
+{
+ "request": {
+  "model": "nvidia/nemotron-3.5-rerank-8b:free",
+  "query": "Is there an AD about P/N 2013142-18?",
+  "documents": [
+   "CN-TFA AD compliance record, 26 October 2026\nSheet: AD compliance record\nAD number: 2008-10-02; Effective: 2008-05-12; Subject: Alternate static air source selector valve P/N 2013142-18; Applies: No; Notes: No P/N 2013142-18 selector valve installed.",
+   "CN-TFE AD compliance record, 26 October 2026\nSheet: AD compliance record\nAD number: 2008-10-02; Effective: 2008-05-12; Subject: Alternate static air source selector valve P/N 2013142-18; Applies: No; Notes: No P/N 2013142-18 selector valve installed.",
+   "CN-TFC AD compliance record, 26 October 2026\nSheet: AD compliance record\nAD number: 2008-10-02; Effective: 2008-05-12; Subject: Alternate static air source selector valve P/N 2013142-18; Applies: No; Notes: No P/N 2013142-18 selector valve installed.",
+   "CN-TFD AD compliance record, 26 October 2026\nSheet: AD compliance record\nAD number: 2008-10-02; Effective: 2008-05-12; Subject: Alternate static air source selector valve P/N 2013142-18; Applies: No; Notes: No P/N 2013142-18 selector valve installed.",
+   "CN-TFF AD compliance record, 26 October 2026\nSheet: AD compliance record\nAD number: 2008-10-02; Effective: 2008-05-12; Subject: Alternate static air source selector valve P/N 2013142-18; Applies: No; Notes: No P/N 2013142-18 selector valve installed.",
+   "CN-TFB AD compliance record, 26 October 2026\nSheet: AD compliance record\nAD number: 2008-10-02; Effective: 2008-05-12; Subject: Alternate static air source selector valve P/N 2013142-18; Applies: No; Notes: No P/N 2013142-18 selector valve installed.",
+   "CN-TFG AD compliance record, 26 October 2026\nSheet: AD compliance record\nAD number: 2008-10-02; Effective: 2008-05-12; Subject: Alternate static air source selector valve P/N 2013142-18; Applies: No; Notes: No P/N 2013142-18 selector valve installed.",
+   "AD 2008-10-02: Cessna Aircraft Company 172, 175, 180, 182, 185, 206, 207, 208, 210, and 303 Series Airplanes\nApplicability\nTABLE 2.-APPLICABILITY FOR AIRPLANES THAT COULD HAVE HAD THE AFFECTED PART INSTALLED AS A REPLACEMENT PART OR FROM PARTS HELD AS SPARES-Continued TABLE 2.-APPLICABILITY FOR AIRPLANES THAT COULD HAVE HAD THE AFFECTED PART INSTALLED AS A REPLACEMENT PART OR FROM PARTS HELD AS SPARES-Continued TABLE 2.-APPLICABILITY FOR AIRPLANES THAT COULD HAVE HAD THE AFFECTED PART INSTALLED AS A REPLACEMENT PART OR FROM PARTS HELD AS SPARES-Continued Note 2: P/N 2013142-18 replaced P/Ns 2013142-9, -13, and -17.\n| Model | S/Ns | Model | S/Ns |\n| --- | --- | --- | --- |\n| 175 ........... 180 ........... 182 ........... 182S ........ 182T ........ R182 ........ T182 ........ TR182 ...... T182T ...... F182P ...... F182Q ...... FR182 ...... 185 ........... 206 ........... 206H ........ P206 ........ U206 ........ T206H ...... TU206A ... | All S/Ns. All S/Ns. All S/Ns. 18280001 through 18280944. 18280945 through 18282061. All S/Ns. All S/Ns. All S/Ns. T18208001 through T18208821. All S/Ns. All S/Ns. All S/Ns. All S/Ns. All S/Ns. All S/Ns beginning with 20608001. All S/Ns. All S/Ns. All S/Ns beginning with T20608001. All S/Ns. | TU206B ... TU206C ... TU206D ... TU206E ... TU206F .... TU206G ... 207 ........... 208 ........... 208B ........ 210 ........... 210-5 (205). T210F ...... T210G ...... T210H ...... T210J ....... T210K ...... T210L ...... T210M ..... T210N ...... T210R ...... | All S/Ns. All S/Ns. All S/Ns. All S/Ns. All S/Ns. All S/Ns All S/Ns. 20800001 through 20800416. 208B0001 through 208B1293. All S/Ns. All S/Ns. All S/Ns. All S/Ns. All S/Ns. All S/Ns. All S/Ns. All S/Ns. All S/Ns. All S/Ns. All S/Ns. |\n| Model | S/Ns |\n| T303 ........ | All S/Ns. |",
+   "AD 2008-26-10: Cessna Aircraft Company 172, 175, 177, 180, 182, 185, 188, 206, 207, 208, 210, 303, 336, and 337 Series Airplanes\nTABLE 1-APPLICABLE AIRPLANE MODELS\ndone and you remain in compliance with that AD.\nNote 1: The affected part was shipped from Cessna Parts Distribution (CPD) between January 1, 1993, and March 31, 2008.\nNote 2: P/N 2013142-18 replaced P/Ns 2013142-9, -13, and -17.\n172A\n172B\n172C\n172D\n172E\n172F (USAF T-41A)\n172G\n172H (USAF T-41A)\n172I\n172K\n172L\n172M\n172N\n172P\n172Q\n172R\n172S\nF172D\nF172E\nF172F\nF172G\nF172H\n182G\n182H\n182J\n182K\n182L\n182M\n182N\n182P\n182Q\n182R\n182S\n182T\nF182P\nF182Q\nFR182\nR182\nT182\nT182T\nTR182\n185A\n185B\n185C\n185D\n185E\nA185E\n210-5A (205A)\nT210F\nT210G\nT210H\nT210J\nT210K\nT210L\nT210M\nT210N\nT210R\nT303\n337A (USAF 02B)",
+   "CN-TFC AD compliance record, 26 October 2026\nSheet: AD compliance record\nAD number: 2008-26-10; Effective: 2009-01-05; Subject: Alternate static air source selector valve placard; Applies: No; Notes: Delivered after 31 March 2008; no replacement P/N 2013142-18 installed.",
+   "CN-TFF AD compliance record, 26 October 2026\nSheet: AD compliance record\nAD number: 2008-26-10; Effective: 2009-01-05; Subject: Alternate static air source selector valve placard; Applies: No; Notes: Delivered after 31 March 2008; no replacement P/N 2013142-18 installed.",
+   "AD 2008-10-02: Cessna Aircraft Company 172, 175, 180, 182, 185, 206, 207, 208, 210, and 303 Series Airplanes\nApplicability\n(c) This AD applies to airplanes listed in Table 1 and Table 2 of this AD that:\n(1) Have a part number (P/N) 2013142-18 alternate static air source selector valve installed after November 19, 2007; and (2) Are certificated in any category:\nNote 1: Airplanes listed in Table 1 may have also had the affected part installed as a replacement part.",
+   "CN-TFG AD compliance record, 26 October 2026\nSheet: AD compliance record\nAD number: 2008-26-10; Effective: 2009-01-05; Subject: Alternate static air source selector valve placard; Applies: No; Notes: Delivered before 1 January 1993; no replacement P/N 2013142-18 installed."
+  ]
+ },
+ "response": {
+  "model": "nvidia/nemotron-3.5-rerank-8b",
+  "results": [
+   {
+    "index": 11,
+    "relevance_score": 0.138728455137198,
+    "document": {
+     "text": "AD 2008-10-02: Cessna Aircraft Company 172, 175, 180, 182, 185, 206, 207, 208, 210, and 303 Series Airplanes\nApplicability\n(c) This AD applies to airplanes listed in Table 1 and Table 2 of this AD that:\n(1) Have a part number (P/N) 2013142-18 alternate static air source selector valve installed after November 19, 2007; and (2) Are certificated in any category:\nNote 1: Airplanes listed in Table 1 may have also had the affected part installed as a replacement part."
+    }
+   },
+   {
+    "index": 0,
+    "relevance_score": 0.12977885553296864,
+    "document": {
+     "text": "CN-TFA AD compliance record, 26 October 2026\nSheet: AD compliance record\nAD number: 2008-10-02; Effective: 2008-05-12; Subject: Alternate static air source selector valve P/N 2013142-18; Applies: No; Notes: No P/N 2013142-18 selector valve installed."
+    }
+   },
+   {
+    "index": 5,
+    "relevance_score": 0.12943072195542396,
+    "document": {
+     "text": "CN-TFB AD compliance record, 26 October 2026\nSheet: AD compliance record\nAD number: 2008-10-02; Effective: 2008-05-12; Subject: Alternate static air source selector valve P/N 2013142-18; Applies: No; Notes: No P/N 2013142-18 selector valve installed."
+    }
+   },
+   {
+    "index": 4,
+    "relevance_score": 0.12898540942929743,
+    "document": {
+     "text": "CN-TFF AD compliance record, 26 October 2026\nSheet: AD compliance record\nAD number: 2008-10-02; Effective: 2008-05-12; Subject: Alternate static air source selector valve P/N 2013142-18; Applies: No; Notes: No P/N 2013142-18 selector valve installed."
+    }
+   },
+   {
+    "index": 6,
+    "relevance_score": 0.12895950968733905,
+    "document": {
+     "text": "CN-TFG AD compliance record, 26 October 2026\nSheet: AD compliance record\nAD number: 2008-10-02; Effective: 2008-05-12; Subject: Alternate static air source selector valve P/N 2013142-18; Applies: No; Notes: No P/N 2013142-18 selector valve installed."
+    }
+   },
+   {
+    "index": 3,
+    "relevance_score": 0.12870129059552635,
+    "document": {
+     "text": "CN-TFD AD compliance record, 26 October 2026\nSheet: AD compliance record\nAD number: 2008-10-02; Effective: 2008-05-12; Subject: Alternate static air source selector valve P/N 2013142-18; Applies: No; Notes: No P/N 2013142-18 selector valve installed."
+    }
+   },
+   {
+    "index": 8,
+    "relevance_score": 0.1277031446211173,
+    "document": {
+     "text": "AD 2008-26-10: Cessna Aircraft Company 172, 175, 177, 180, 182, 185, 188, 206, 207, 208, 210, 303, 336, and 337 Series Airplanes\nTABLE 1-APPLICABLE AIRPLANE MODELS\ndone and you remain in compliance with that AD.\nNote 1: The affected part was shipped from Cessna Parts Distribution (CPD) between January 1, 1993, and March 31, 2008.\nNote 2: P/N 2013142-18 replaced P/Ns 2013142-9, -13, and -17.\n172A\n172B\n172C\n172D\n172E\n172F (USAF T-41A)\n172G\n172H (USAF T-41A)\n172I\n172K\n172L\n172M\n172N\n172P\n172Q\n172R\n172S\nF172D\nF172E\nF172F\nF172G\nF172H\n182G\n182H\n182J\n182K\n182L\n182M\n182N\n182P\n182Q\n182R\n182S\n182T\nF182P\nF182Q\nFR182\nR182\nT182\nT182T\nTR182\n185A\n185B\n185C\n185D\n185E\nA185E\n210-5A (205A)\nT210F\nT210G\nT210H\nT210J\nT210K\nT210L\nT210M\nT210N\nT210R\nT303\n337A (USAF 02B)"
+    }
+   },
+   {
+    "index": 2,
+    "relevance_score": 0.12767889853876815,
+    "document": {
+     "text": "CN-TFC AD compliance record, 26 October 2026\nSheet: AD compliance record\nAD number: 2008-10-02; Effective: 2008-05-12; Subject: Alternate static air source selector valve P/N 2013142-18; Applies: No; Notes: No P/N 2013142-18 selector valve installed."
+    }
+   },
+   {
+    "index": 1,
+    "relevance_score": 0.12731558594559061,
+    "document": {
+     "text": "CN-TFE AD compliance record, 26 October 2026\nSheet: AD compliance record\nAD number: 2008-10-02; Effective: 2008-05-12; Subject: Alternate static air source selector valve P/N 2013142-18; Applies: No; Notes: No P/N 2013142-18 selector valve installed."
+    }
+   },
+   {
+    "index": 7,
+    "relevance_score": 0.11782888509317321,
+    "document": {
+     "text": "AD 2008-10-02: Cessna Aircraft Company 172, 175, 180, 182, 185, 206, 207, 208, 210, and 303 Series Airplanes\nApplicability\nTABLE 2.-APPLICABILITY FOR AIRPLANES THAT COULD HAVE HAD THE AFFECTED PART INSTALLED AS A REPLACEMENT PART OR FROM PARTS HELD AS SPARES-Continued TABLE 2.-APPLICABILITY FOR AIRPLANES THAT COULD HAVE HAD THE AFFECTED PART INSTALLED AS A REPLACEMENT PART OR FROM PARTS HELD AS SPARES-Continued TABLE 2.-APPLICABILITY FOR AIRPLANES THAT COULD HAVE HAD THE AFFECTED PART INSTALLED AS A REPLACEMENT PART OR FROM PARTS HELD AS SPARES-Continued Note 2: P/N 2013142-18 replaced P/Ns 2013142-9, -13, and -17.\n| Model | S/Ns | Model | S/Ns |\n| --- | --- | --- | --- |\n| 175 ........... 180 ........... 182 ........... 182S ........ 182T ........ R182 ........ T182 ........ TR182 ...... T182T ...... F182P ...... F182Q ...... FR182 ...... 185 ........... 206 ........... 206H ........ P206 ........ U206 ........ T206H ...... TU206A ... | All S/Ns. All S/Ns. All S/Ns. 18280001 through 18280944. 18280945 through 18282061. All S/Ns. All S/Ns. All S/Ns. T18208001 through T18208821. All S/Ns. All S/Ns. All S/Ns. All S/Ns. All S/Ns. All S/Ns beginning with 20608001. All S/Ns. All S/Ns. All S/Ns beginning with T20608001. All S/Ns. | TU206B ... TU206C ... TU206D ... TU206E ... TU206F .... TU206G ... 207 ........... 208 ........... 208B ........ 210 ........... 210-5 (205). T210F ...... T210G ...... T210H ...... T210J ....... T210K ...... T210L ...... T210M ..... T210N ...... T210R ...... | All S/Ns. All S/Ns. All S/Ns. All S/Ns. All S/Ns. All S/Ns All S/Ns. 20800001 through 20800416. 208B0001 through 208B1293. All S/Ns. All S/Ns. All S/Ns. All S/Ns. All S/Ns. All S/Ns. All S/Ns. All S/Ns. All S/Ns. All S/Ns. All S/Ns. |\n| Model | S/Ns |\n| T303 ........ | All S/Ns. |"
+    }
+   },
+   {
+    "index": 12,
+    "relevance_score": 0.10534860862327586,
+    "document": {
+     "text": "CN-TFG AD compliance record, 26 October 2026\nSheet: AD compliance record\nAD number: 2008-26-10; Effective: 2009-01-05; Subject: Alternate static air source selector valve placard; Applies: No; Notes: Delivered before 1 January 1993; no replacement P/N 2013142-18 installed."
+    }
+   },
+   {
+    "index": 10,
+    "relevance_score": 0.10378390354950391,
+    "document": {
+     "text": "CN-TFF AD compliance record, 26 October 2026\nSheet: AD compliance record\nAD number: 2008-26-10; Effective: 2009-01-05; Subject: Alternate static air source selector valve placard; Applies: No; Notes: Delivered after 31 March 2008; no replacement P/N 2013142-18 installed."
+    }
+   },
+   {
+    "index": 9,
+    "relevance_score": 0.10343362556126239,
+    "document": {
+     "text": "CN-TFC AD compliance record, 26 October 2026\nSheet: AD compliance record\nAD number: 2008-26-10; Effective: 2009-01-05; Subject: Alternate static air source selector valve placard; Applies: No; Notes: Delivered after 31 March 2008; no replacement P/N 2013142-18 installed."
+    }
+   }
+  ],
+  "usage": {
+   "total_tokens": 2907,
+   "cost": 0
+  },
+  "provider": "Nvidia",
+  "id": "gen-rerank-1793459170-ZuMlOkwXQ8phBYerOPeV"
+ }
+}

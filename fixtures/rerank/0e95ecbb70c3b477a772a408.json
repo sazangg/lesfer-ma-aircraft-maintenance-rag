@@ -1,0 +1,163 @@
+{
+ "request": {
+  "model": "nvidia/nemotron-3.5-rerank-8b:free",
+  "query": "Can we propose a different way to comply with an airworthiness directive?",
+  "documents": [
+   "14 CFR Part 39: Airworthiness Directives\n\u00a7 39.19 May I address the unsafe condition in a way other than that set out in the airworthiness directive?\nYes, anyone may propose to FAA an alternative method of compliance or a change in the compliance time, if the proposal provides an acceptable level of safety. Unless FAA authorizes otherwise, send your proposal to your principal inspector. Include the specific actions you are proposing to address the unsafe condition. The principal inspector may add comments and will send your request to the manager of the office identified in the airworthiness directive (manager). You may send a copy to the manager at the same time you send it to the principal inspector. If you do not have a principal inspector send your proposal directly to the manager. You may use the alternative you propose only if the manager approves it.",
+   "14 CFR Part 39: Airworthiness Directives\n\u00a7 39.17 What must I do if a change in a product affects my ability to accomplish the actions required in an airworthiness directive?\nIf a change in a product affects your ability to accomplish the actions required by the airworthiness directive in any way, you must request FAA approval of an alternative method of compliance. Unless you can show the change eliminated the unsafe condition, your request should include the specific actions that you propose to address the unsafe condition. Submit your request in the manner described in \u00a7 39.19.",
+   "AD 2004-15-18: Cessna Aircraft Company Models 172R, 172S, 182S, 182T, T182T, 206H, and T206H Airplanes\nMay I Request an Alternative Method of Compliance?\n(g) You may request a different method of compliance or a different compliance time for this AD by following the procedures in 14 CFR 39.19.\nUnless FAA authorizes otherwise, send your request to your principal inspector. The principal inspector may add comments and will send your request to the Manager, Wichita Aircraft Certification (ACO), FAA. For information on any already approved alternative methods of compliance, contact Dan Withers, Aerospace Engineer, Wichita Aircraft Certification Office (ACO), FAA, 1801 Airport Road, Mid-Continent Airport, Wichita, Kansas 67209; telephone: (316) 946-4196; facsimile: (316) 946-4407.\nAlternative methods of compliance approved in accordance with AD 2003-24-13, which is superseded by this AD, are approved as alternative methods of compliance with this AD.",
+   "14 CFR Part 39: Airworthiness Directives\n\u00a7 39.7 What is the legal effect of failing to comply with an airworthiness directive?\nAnyone who operates a product that does not meet the requirements of an applicable airworthiness directive is in violation of this section.",
+   "AD 2001-06-17: Cessna Aircraft Company Models 172R and 172S Airplanes\n\u00a739.13 [Amended]\nFAA amends \u00a739.13 by adding a new airworthiness directive (AD) to read as follows:\n2001-06-14 Cessna Aircraft Company: Amendment 39-12164; Docket No.\n2001-CE-14-AD.\n(a) What airplanes are affected by this AD? This AD applies to Models 172R and 172S, all serial numbers, that are certificated in any category.\n(b) Who must comply with this AD? Anyone who wishes to operate any of the above airplanes must comply with this AD.\n(c) What problem does this AD address? The actions specified by this AD are intended to detect and correct an over-rich fuel mixture (improper fuel flow settings), which could result in rough engine operation or engine stoppage. This over-rich fuel mixture also contributes to the engine not restarting during flight when using published in-flight restart procedures.\n(d) What must I do to address this problem? To address this problem, you must accomplish the following actions:\n(e) Can I comply with this AD in any other way? You may use an alternative method of compliance or adjust the compliance time if:\nYour alternative method of compliance provides an equivalent level of safety; and",
+   "AD 2003-24-13: Cessna Aircraft Company Models 172R, 172S, 182S, 182T, T182T, 206H, and T206H Airplanes\nMay I Request an Alternative Method of Compliance?\n(g) You may request a different method of compliance or a different compliance time for this AD by following the procedures in 14 CFR 39.13. Send your request to the Manager, Wichita Aircraft Certification Office (ACO), FAA. For information on any already\napproved alternative methods of compliance, contact Dan Withers, Aerospace Engineer, Wichita Aircraft Certification Office, FAA, 1801 Airport Road, Wichita, Kansas 67209; telephone: (316) 946-4196; facsimile: (316) 946-4107.",
+   "AD 2005-05-53 R1: The Cessna Aircraft Company Models 172R, 172S, 182T, and T182T Airplanes\nMay I Request an Alternative Method of Compliance?\n(f) You may request a different method of compliance or a different compliance time for this AD by following the procedures in 14 CFR 39.19. You may submit your request through your Flight Standards District Office (FSDO) Principal Inspector, who may add comments and then send your request to the Manager, Wichita Aircraft Certification Office (ACO), FAA. For information on any already approved alternative methods of compliance or for further information about this AD, contact Chris B. Morgan, Aerospace Engineer, FAA, Wichita ACO, 1801 Airport Road, MidContinent Airport, Wichita, Kansas 67209; telephone: (316) 946-4154; facsimile: (316) 946-4107; e-mail: chris.b.morgan@faa.gov.",
+   "14 CFR Part 39: Airworthiness Directives\n\u00a7 39.23 May I fly my aircraft to a repair facility to do the work required by an airworthiness directive?\nYes, the operations specifications giving some operators authority to operate include a provision that allow them to fly their aircraft to a repair facility to do the work required by an airworthiness directive. If you do not have this authority, the local Flight Standards District Office of FAA may issue you a special flight permit unless the airworthiness directive states otherwise. To ensure aviation safety, FAA may add special requirements for operating your aircraft to a place where the repairs or modifications can be accomplished. FAA may also decline to issue a special flight permit in particular cases if we determine you cannot move the aircraft safely.",
+   "AD 2005-13-10: Cessna Aircraft Company Models 172R, 172S, 182T, T182T, 206H, and T206H Airplanes\nMay I Request an Alternative Method of Compliance?\n(f) You may request a different method of compliance or a different compliance time for this AD by following the procedures in 14 CFR 39.19. Unless FAA authorizes otherwise, send your request to your principal inspector. The principal inspector may add comments and will send your request to the Manager, Wichita Aircraft Certification Office (ACO), FAA. For information on any already approved alternative methods of compliance, contact Jose Flores, Aerospace Engineer, Wichita ACO, FAA, 1801 Airport Road, Wichita, Kansas 67209; telephone: (316) 9464133; facsimile: (316) 946-4107.",
+   "Procedures manual, revision 7 (excerpt)\n2 Airworthiness directives\n2.1 Weekly review. Every Monday the quality manager checks the FAA's list of new and revised airworthiness directives for the Cessna 172 series, the engines, propellers, and appliances installed in the fleet. The FAA is the state of design for every type we maintain, and its directives are applied as mandatory.\n2.2 Corrections. A directive can be corrected after publication, in a separate Federal Register notice. Always read a directive together with its corrections before deciding whether it applies.\n2.3 Applicability. A directive applies to an aircraft only when every condition in its applicability paragraph is met: model, serial number range, installed equipment, part number, software version, and any modification or service bulletin it names. Check each condition against the fleet register and the aircraft records, and write down which conditions you checked.\n2.4 Records. Each aircraft has an AD compliance record in the format suggested in AC 43-9D, appendix A: the directive number and revision, the method of compliance, the date and hours, and for recurring directives the next time due. A directive found not applicable is recorded too, with the reason.",
+   "14 CFR Part 39: Airworthiness Directives\n\u00a7 39.21 Where can I get information about FAA-approved alternative methods of compliance?\nEach airworthiness directive identifies the office responsible for approving alternative methods of compliance. That office can provide information about alternatives it has already approved.",
+   "14 CFR Part 39: Airworthiness Directives\n\u00a7 39.5 When does FAA issue airworthiness directives?\nFAA issues an airworthiness directive addressing a product when we find that:\n(a) An unsafe condition exists in the product; and\n(b) The condition is likely to exist or develop in other products of the same type design.",
+   "AD 99-18-14: Cessna Aircraft Company Model 172R Airplanes\nSerial Numbers\n(e) An alternative method of compliance or adjustment of the compliance times that provides an equivalent level of safety may be approved by the Manager, Wichita Aircraft Certification Office (ACO), 1801 Airport Road, Rm 100, Mid-Continent Airport, Wichita, Kansas, 67209. The request shall be forwarded through an appropriate FAA Maintenance Inspector, who may add comments and then send it to the Manager, Wichita ACO.\nNote 4: Information concerning the existence of approved alternative methods of compliance with this AD, if any, may be obtained from the Wichita ACO.",
+   "14 CFR Part 39: Airworthiness Directives\n\u00a7 39.27 What do I do if the airworthiness directive conflicts with the service document on which it is based?\nIn some cases an airworthiness directive incorporates by reference a manufacturer's service document. In these cases, the service document becomes part of the airworthiness directive. In some cases the directions in the service document may be modified by the airworthiness directive. If there is a conflict between the service document and the airworthiness directive, you must follow the requirements of the airworthiness directive.",
+   "AC 39-7D, Airworthiness Directives\n12 AMOCs.\nAMOC Definition. An AD contains the required method for resolving an unsafe condition. An AMOC is a different way, other than the one specified in an AD, to address the unsafe condition on an aircraft, aircraft engine, propeller, or appliance. The term AMOC is used to define a FAA-approved AMOC to the specific requirements of an AD, including a change in the required time to accomplish the AD. An AMOC must ensure the unsafe condition is resolved by providing an acceptable level of safety.\nSubmitting an AMOC Request. In accordance with part 39, \u00a7 39.19, AMOC requesters should send their AMOC proposal to their principal inspector (PI). The PI may add comments and must forward a copy of the AMOC proposal to the manager of the FAA office identified in the AD. The requester may, at the same time they send it to their PI, send a copy of the proposal to the manager of the office identified in the AD. If the requester doesn't have a PI (such as a design approval holder (DAH)), we advise them to send the proposal directly to the manager of the FAA office identified in the AD.",
+   "FAA-H-8083-30A, Aviation Maintenance Technician Handbook: General, chapter 2 (regulations, maintenance forms, records, and publications)\nAlternative Method of Compliance\nDifferent approaches or techniques that are not specified in an AD can, after FAA approval, be used to correct an unsafe condition on an aircraft or aircraft product. Although the alternative was not known at the time the AD was issued, an alternative method may be acceptable to accomplish the intent of the AD. A compliance time that differs from the requirements of the AD can also be approved if the revised time period and approved alternative method provides an acceptable level of safety as the requirements of the AD.",
+   "AD 98-13-41: Cessna Aircraft Company Model 172R Airplanes\n\u00a739.13 [Amended]\n(g) An alternative method of compliance or adjustment of the compliance time that provides an equivalent level of safety may be approved by the Manager, Wichita Aircraft Certification Office (ACO), 1801 Airport Road, Rm. 100, Mid-Continent Airport, Wichita, Kansas, 67209. The request shall be forwarded through an appropriate FAA Maintenance Inspector, who may add comments and then send it to the Manager, Wichita ACO.\nNote 3: Information concerning the existence of approved alternative methods of compliance with this AD, if any, may be obtained from the Wichita ACO.",
+   "14 CFR Part 39: Airworthiness Directives\n\u00a7 39.15 Does an airworthiness directive apply if the product has been changed?\nYes, an airworthiness directive applies to each product identified in the airworthiness directive, even if an individual product has been changed by modifying, altering, or repairing it in the area addressed by the airworthiness directive."
+  ]
+ },
+ "response": {
+  "model": "nvidia/nemotron-3.5-rerank-8b",
+  "results": [
+   {
+    "index": 0,
+    "relevance_score": 0.22222732094058945,
+    "document": {
+     "text": "14 CFR Part 39: Airworthiness Directives\n\u00a7 39.19 May I address the unsafe condition in a way other than that set out in the airworthiness directive?\nYes, anyone may propose to FAA an alternative method of compliance or a change in the compliance time, if the proposal provides an acceptable level of safety. Unless FAA authorizes otherwise, send your proposal to your principal inspector. Include the specific actions you are proposing to address the unsafe condition. The principal inspector may add comments and will send your request to the manager of the office identified in the airworthiness directive (manager). You may send a copy to the manager at the same time you send it to the principal inspector. If you do not have a principal inspector send your proposal directly to the manager. You may use the alternative you propose only if the manager approves it."
+    }
+   },
+   {
+    "index": 1,
+    "relevance_score": 0.1262658430903219,
+    "document": {
+     "text": "14 CFR Part 39: Airworthiness Directives\n\u00a7 39.17 What must I do if a change in a product affects my ability to accomplish the actions required in an airworthiness directive?\nIf a change in a product affects your ability to accomplish the actions required by the airworthiness directive in any way, you must request FAA approval of an alternative method of compliance. Unless you can show the change eliminated the unsafe condition, your request should include the specific actions that you propose to address the unsafe condition. Submit your request in the manner described in \u00a7 39.19."
+    }
+   },
+   {
+    "index": 14,
+    "relevance_score": 0.12356899889623477,
+    "document": {
+     "text": "AC 39-7D, Airworthiness Directives\n12 AMOCs.\nAMOC Definition. An AD contains the required method for resolving an unsafe condition. An AMOC is a different way, other than the one specified in an AD, to address the unsafe condition on an aircraft, aircraft engine, propeller, or appliance. The term AMOC is used to define a FAA-approved AMOC to the specific requirements of an AD, including a change in the required time to accomplish the AD. An AMOC must ensure the unsafe condition is resolved by providing an acceptable level of safety.\nSubmitting an AMOC Request. In accordance with part 39, \u00a7 39.19, AMOC requesters should send their AMOC proposal to their principal inspector (PI). The PI may add comments and must forward a copy of the AMOC proposal to the manager of the FAA office identified in the AD. The requester may, at the same time they send it to their PI, send a copy of the proposal to the manager of the office identified in the AD. If the requester doesn't have a PI (such as a design approval holder (DAH)), we advise them to send the proposal directly to the manager of the FAA office identified in the AD."
+    }
+   },
+   {
+    "index": 15,
+    "relevance_score": 0.12034115876368918,
+    "document": {
+     "text": "FAA-H-8083-30A, Aviation Maintenance Technician Handbook: General, chapter 2 (regulations, maintenance forms, records, and publications)\nAlternative Method of Compliance\nDifferent approaches or techniques that are not specified in an AD can, after FAA approval, be used to correct an unsafe condition on an aircraft or aircraft product. Although the alternative was not known at the time the AD was issued, an alternative method may be acceptable to accomplish the intent of the AD. A compliance time that differs from the requirements of the AD can also be approved if the revised time period and approved alternative method provides an acceptable level of safety as the requirements of the AD."
+    }
+   },
+   {
+    "index": 10,
+    "relevance_score": 0.11124978687194793,
+    "document": {
+     "text": "14 CFR Part 39: Airworthiness Directives\n\u00a7 39.21 Where can I get information about FAA-approved alternative methods of compliance?\nEach airworthiness directive identifies the office responsible for approving alternative methods of compliance. That office can provide information about alternatives it has already approved."
+    }
+   },
+   {
+    "index": 2,
+    "relevance_score": 0.10678875215337157,
+    "document": {
+     "text": "AD 2004-15-18: Cessna Aircraft Company Models 172R, 172S, 182S, 182T, T182T, 206H, and T206H Airplanes\nMay I Request an Alternative Method of Compliance?\n(g) You may request a different method of compliance or a different compliance time for this AD by following the procedures in 14 CFR 39.19.\nUnless FAA authorizes otherwise, send your request to your principal inspector. The principal inspector may add comments and will send your request to the Manager, Wichita Aircraft Certification (ACO), FAA. For information on any already approved alternative methods of compliance, contact Dan Withers, Aerospace Engineer, Wichita Aircraft Certification Office (ACO), FAA, 1801 Airport Road, Mid-Continent Airport, Wichita, Kansas 67209; telephone: (316) 946-4196; facsimile: (316) 946-4407.\nAlternative methods of compliance approved in accordance with AD 2003-24-13, which is superseded by this AD, are approved as alternative methods of compliance with this AD."
+    }
+   },
+   {
+    "index": 6,
+    "relevance_score": 0.1061520976772016,
+    "document": {
+     "text": "AD 2005-05-53 R1: The Cessna Aircraft Company Models 172R, 172S, 182T, and T182T Airplanes\nMay I Request an Alternative Method of Compliance?\n(f) You may request a different method of compliance or a different compliance time for this AD by following the procedures in 14 CFR 39.19. You may submit your request through your Flight Standards District Office (FSDO) Principal Inspector, who may add comments and then send your request to the Manager, Wichita Aircraft Certification Office (ACO), FAA. For information on any already approved alternative methods of compliance or for further information about this AD, contact Chris B. Morgan, Aerospace Engineer, FAA, Wichita ACO, 1801 Airport Road, MidContinent Airport, Wichita, Kansas 67209; telephone: (316) 946-4154; facsimile: (316) 946-4107; e-mail: chris.b.morgan@faa.gov."
+    }
+   },
+   {
+    "index": 5,
+    "relevance_score": 0.10479023321059479,
+    "document": {
+     "text": "AD 2003-24-13: Cessna Aircraft Company Models 172R, 172S, 182S, 182T, T182T, 206H, and T206H Airplanes\nMay I Request an Alternative Method of Compliance?\n(g) You may request a different method of compliance or a different compliance time for this AD by following the procedures in 14 CFR 39.13. Send your request to the Manager, Wichita Aircraft Certification Office (ACO), FAA. For information on any already\napproved alternative methods of compliance, contact Dan Withers, Aerospace Engineer, Wichita Aircraft Certification Office, FAA, 1801 Airport Road, Wichita, Kansas 67209; telephone: (316) 946-4196; facsimile: (316) 946-4107."
+    }
+   },
+   {
+    "index": 8,
+    "relevance_score": 0.10382815296950461,
+    "document": {
+     "text": "AD 2005-13-10: Cessna Aircraft Company Models 172R, 172S, 182T, T182T, 206H, and T206H Airplanes\nMay I Request an Alternative Method of Compliance?\n(f) You may request a different method of compliance or a different compliance time for this AD by following the procedures in 14 CFR 39.19. Unless FAA authorizes otherwise, send your request to your principal inspector. The principal inspector may add comments and will send your request to the Manager, Wichita Aircraft Certification Office (ACO), FAA. For information on any already approved alternative methods of compliance, contact Jose Flores, Aerospace Engineer, Wichita ACO, FAA, 1801 Airport Road, Wichita, Kansas 67209; telephone: (316) 9464133; facsimile: (316) 946-4107."
+    }
+   },
+   {
+    "index": 16,
+    "relevance_score": 0.09813630352883555,
+    "document": {
+     "text": "AD 98-13-41: Cessna Aircraft Company Model 172R Airplanes\n\u00a739.13 [Amended]\n(g) An alternative method of compliance or adjustment of the compliance time that provides an equivalent level of safety may be approved by the Manager, Wichita Aircraft Certification Office (ACO), 1801 Airport Road, Rm. 100, Mid-Continent Airport, Wichita, Kansas, 67209. The request shall be forwarded through an appropriate FAA Maintenance Inspector, who may add comments and then send it to the Manager, Wichita ACO.\nNote 3: Information concerning the existence of approved alternative methods of compliance with this AD, if any, may be obtained from the Wichita ACO."
+    }
+   },
+   {
+    "index": 12,
+    "relevance_score": 0.09728398195966609,
+    "document": {
+     "text": "AD 99-18-14: Cessna Aircraft Company Model 172R Airplanes\nSerial Numbers\n(e) An alternative method of compliance or adjustment of the compliance times that provides an equivalent level of safety may be approved by the Manager, Wichita Aircraft Certification Office (ACO), 1801 Airport Road, Rm 100, Mid-Continent Airport, Wichita, Kansas, 67209. The request shall be forwarded through an appropriate FAA Maintenance Inspector, who may add comments and then send it to the Manager, Wichita ACO.\nNote 4: Information concerning the existence of approved alternative methods of compliance with this AD, if any, may be obtained from the Wichita ACO."
+    }
+   },
+   {
+    "index": 4,
+    "relevance_score": 0.07621717233353381,
+    "document": {
+     "text": "AD 2001-06-17: Cessna Aircraft Company Models 172R and 172S Airplanes\n\u00a739.13 [Amended]\nFAA amends \u00a739.13 by adding a new airworthiness directive (AD) to read as follows:\n2001-06-14 Cessna Aircraft Company: Amendment 39-12164; Docket No.\n2001-CE-14-AD.\n(a) What airplanes are affected by this AD? This AD applies to Models 172R and 172S, all serial numbers, that are certificated in any category.\n(b) Who must comply with this AD? Anyone who wishes to operate any of the above airplanes must comply with this AD.\n(c) What problem does this AD address? The actions specified by this AD are intended to detect and correct an over-rich fuel mixture (improper fuel flow settings), which could result in rough engine operation or engine stoppage. This over-rich fuel mixture also contributes to the engine not restarting during flight when using published in-flight restart procedures.\n(d) What must I do to address this problem? To address this problem, you must accomplish the following actions:\n(e) Can I comply with this AD in any other way? You may use an alternative method of compliance or adjust the compliance time if:\nYour alternative method of compliance provides an equivalent level of safety; and"
+    }
+   },
+   {
+    "index": 13,
+    "relevance_score": 0.06843702880645022,
+    "document": {
+     "text": "14 CFR Part 39: Airworthiness Directives\n\u00a7 39.27 What do I do if the airworthiness directive conflicts with the service document on which it is based?\nIn some cases an airworthiness directive incorporates by reference a manufacturer's service document. In these cases, the service document becomes part of the airworthiness directive. In some cases the directions in the service document may be modified by the airworthiness directive. If there is a conflict between the service document and the airworthiness directive, you must follow the requirements of the airworthiness directive."
+    }
+   },
+   {
+    "index": 9,
+    "relevance_score": 0.06342731627866287,
+    "document": {
+     "text": "Procedures manual, revision 7 (excerpt)\n2 Airworthiness directives\n2.1 Weekly review. Every Monday the quality manager checks the FAA's list of new and revised airworthiness directives for the Cessna 172 series, the engines, propellers, and appliances installed in the fleet. The FAA is the state of design for every type we maintain, and its directives are applied as mandatory.\n2.2 Corrections. A directive can be corrected after publication, in a separate Federal Register notice. Always read a directive together with its corrections before deciding whether it applies.\n2.3 Applicability. A directive applies to an aircraft only when every condition in its applicability paragraph is met: model, serial number range, installed equipment, part number, software version, and any modification or service bulletin it names. Check each condition against the fleet register and the aircraft records, and write down which conditions you checked.\n2.4 Records. Each aircraft has an AD compliance record in the format suggested in AC 43-9D, appendix A: the directive number and revision, the method of compliance, the date and hours, and for recurring directives the next time due. A directive found not applicable is recorded too, with the reason."
+    }
+   },
+   {
+    "index": 3,
+    "relevance_score": 0.06338987938113425,
+    "document": {
+     "text": "14 CFR Part 39: Airworthiness Directives\n\u00a7 39.7 What is the legal effect of failing to comply with an airworthiness directive?\nAnyone who operates a product that does not meet the requirements of an applicable airworthiness directive is in violation of this section."
+    }
+   },
+   {
+    "index": 7,
+    "relevance_score": 0.06197641245848604,
+    "document": {
+     "text": "14 CFR Part 39: Airworthiness Directives\n\u00a7 39.23 May I fly my aircraft to a repair facility to do the work required by an airworthiness directive?\nYes, the operations specifications giving some operators authority to operate include a provision that allow them to fly their aircraft to a repair facility to do the work required by an airworthiness directive. If you do not have this authority, the local Flight Standards District Office of FAA may issue you a special flight permit unless the airworthiness directive states otherwise. To ensure aviation safety, FAA may add special requirements for operating your aircraft to a place where the repairs or modifications can be accomplished. FAA may also decline to issue a special flight permit in particular cases if we determine you cannot move the aircraft safely."
+    }
+   },
+   {
+    "index": 17,
+    "relevance_score": 0.06083144242181985,
+    "document": {
+     "text": "14 CFR Part 39: Airworthiness Directives\n\u00a7 39.15 Does an airworthiness directive apply if the product has been changed?\nYes, an airworthiness directive applies to each product identified in the airworthiness directive, even if an individual product has been changed by modifying, altering, or repairing it in the area addressed by the airworthiness directive."
+    }
+   },
+   {
+    "index": 11,
+    "relevance_score": 0.059737433390776494,
+    "document": {
+     "text": "14 CFR Part 39: Airworthiness Directives\n\u00a7 39.5 When does FAA issue airworthiness directives?\nFAA issues an airworthiness directive addressing a product when we find that:\n(a) An unsafe condition exists in the product; and\n(b) The condition is likely to exist or develop in other products of the same type design."
+    }
+   }
+  ],
+  "usage": {
+   "total_tokens": 3531,
+   "cost": 0
+  },
+  "provider": "Nvidia",
+  "id": "gen-rerank-1793459273-e5XoQhz6JUkgch3fjUsi"
+ }
+}

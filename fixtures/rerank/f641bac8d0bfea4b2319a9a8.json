@@ -1,0 +1,139 @@
+{
+ "request": {
+  "model": "nvidia/nemotron-3.5-rerank-8b:free",
+  "query": "How much recent experience does a mechanic need to use their certificate?",
+  "documents": [
+   "FAA-H-8083-30A, Aviation Maintenance Technician Handbook: General, chapter 13 (mechanic privileges and limitations)\nSection 65.83, Recent Experience Requirements\nIn addition to having the proper documentation, the mechanic is required by this regulation to have recent and relevant work experience. Although, as it was stated earlier in this chapter, the A&P certificate is valid until it is surrendered, suspended, or revoked, it may not be exercised if the holder has not been actively working as a mechanic for at least 6 of the preceding 24 months.\nThis activity can be any one or a combination of the following:\nServed as a mechanic under the certificate and rating\nTechnically supervised other mechanics\nSupervised (in an executive capacity) the maintenance or alteration of an aircraft",
+   "FAA-H-8083-30A, Aviation Maintenance Technician Handbook: General, chapter 13 (mechanic privileges and limitations)\nSection 65.77, Experience Requirements\nEach mechanic applicant must have a certificate of completion from a certificated aviation maintenance technician school (AMTS) (14 CFR part 147) or provide documented evidence of a minimum of 18 months practical experience related to either airframe or powerplant maintenance (30 months required if applying for certification for both airframe and powerplant).",
+   "FAA-H-8083-30A, Aviation Maintenance Technician Handbook: General, chapter 13 (mechanic privileges and limitations)\nSection 65.71, Eligibility Requirements: General\nThe requirements for obtaining a mechanic certificate are:\nBe at least 18 years of age.\nBe able to read, write, speak, and understand the English language. (Note: If the applicant does not meet this requirement and is employed outside the United States by a U.S. carrier, the certificate will be endorsed \"valid only outside the United States.\")\nHave passed all the required tests (written, oral, and practical) within the preceding 24 months from application.\nPossess and demonstrate the appropriate knowledge and skill for the certificate rating being sought.\nIf a technician has one of the ratings and desires to add the other, he or she must meet the requirements set forth in section 65.77, and take the written, oral, and practical tests within 24 months.",
+   "FAA-H-8083-30A, Aviation Maintenance Technician Handbook: General, chapter 13 (mechanic privileges and limitations)\nSection 65.11, Application and Issue\nAny person who meets the criteria for obtaining a mechanic certificate must apply by means of FAA Form 8610-2, Airman Certificate and/or Rating Application. If a mechanic has had a certificate suspended, they may not apply for additional ratings during the time of suspension. A revocation of a mechanic certificate prevents that person from applying for a certificate within a period of 1 year after the revocation.",
+   "14 CFR Part 145: Repair Stations\n\u00a7 145.157 Personnel authorized to approve an article for return to service.\n(a) A certificated repair station located inside the United States must ensure each person authorized to approve an article for return to service under the repair station certificate and operations specifications is appropriately certificated as a mechanic or repairman under part 65.\n(b) A certificated repair station located outside the United States must ensure each person authorized to approve an article for return to service under the repair station certificate and operations specifications is\u2014\n(1) Trained in or has 18 months practical experience with the methods, techniques, practices, aids, equipment, and tools used to perform the maintenance, preventive maintenance, or alterations; and\n(2) Thoroughly familiar with the applicable regulations in this chapter and proficient in the use of the various inspection methods, techniques, practices, aids, equipment, and tools appropriate for the work being performed and approved for return to service.\n(c) A certificated repair station must ensure each person authorized to approve an article for return to service understands, reads, and writes English.",
+   "Airworthiness directives at Anfa: training deck for new mechanics\n1 Airworthiness directives at Anfa\nAirworthiness directives at Anfa\nNew mechanics, first month Quality: Karim Bennani\nSpeaker notes: This deck is for mechanics in their first month. It covers how we decide whether a directive applies and how we record it. Ask the quality manager about anything it does not cover.",
+   "AC 43.13-2B, Acceptable Methods, Techniques, and Practices: Aircraft Alterations\nNOTE: Refer to AC 43.1309-1 (current edition) for additional information on FHA.\na. Many older aircraft designs did not provide for all weather operations or potential increases in the pilot's reliance on installed systems and equipment. Requirements to assure design safeguards against hazards have developed as technologies have become available and pilots have increased their reliance on installed systems and equipment. A fundamental analysis to assure design safeguards is accomplished through a functional hazard assessment.\nb. Alterations that involve systems or equipment that perform critical functions or that include complex designs that have a high degree of integration, use of new technology, or novel applications of conventional technology, must be assessed to determine the severity of failure conditions. Complexity in itself does not drive the need to perform a system safety analysis but the effect of a failure does. Comparison with similar, previously approved systems is sometimes helpful.",
+   "FAA-H-8083-30A, Aviation Maintenance Technician Handbook: General, chapter 13 (mechanic privileges and limitations)\nSection 65.89, Display of Certificate\nOnce a technician receives his or her mechanic certificate, the certificate must be kept in the immediate area where he or she normally conducts work and exercises the privileges of the certificate. When requested, the technician is required to present the certificate for inspection to the FAA, or any authorized representation from the National Transportation Safety Board (NTSB), or any federal, state, or local law enforcement officer.",
+   "FAA-H-8083-30A, Aviation Maintenance Technician Handbook: General, chapter 13 (mechanic privileges and limitations)\nSection 65.14, Security Disqualification\nThis section was added following the terrorist attacks of September 11, 2001. It basically states that anyone determined by the Transportation Security Administration (TSA) to be a security threat will either have their application held if they are applying for a certificate, or have the certificate that they do hold revoked.",
+   "FAA-H-8083-30A, Aviation Maintenance Technician Handbook: General, chapter 13 (mechanic privileges and limitations)\nIntroduction\nThe FAA certificates two separate categories of maintenance technicians: mechanic and repairman. The fundamental difference between these two is that the mechanic certificate is transportable, is issued to the technician based upon his or her training and knowledge, and is not dependent on the technician's location. Although the repairman certificate is also based upon the training and knowledge of the technician, it is specifically issued to that technician while he or she is employed at a distinct location of a specific company. This certificate carries a literal address where he or she is authorized to work using his or her repairman skills. When the technician is no longer employed there, the repairman certificate must be returned to the Flight Standards District Office (FSDO) that issued it.",
+   "FAA-H-8083-30A, Aviation Maintenance Technician Handbook: General, chapter 13 (mechanic privileges and limitations)\nSection 65.81, General Privileges and Limitations\nThe certified mechanic must have and be able to comprehend the maintenance manuals and/ or instructions for continued airworthiness for the task he or she is accomplishing.",
+   "FAA-H-8083-30A, Aviation Maintenance Technician Handbook: General, chapter 13 (mechanic privileges and limitations)\nFinal Observation\nIt is encouraging to note that more and more institutions of learning, whether business schools or technical colleges, are adding ethics courses into their required curriculum. More and more organizations are developing a corporate \"code of ethics.\" Some are using the following seven-step checklist to help employees deal with an ethical decision:\nRecognize and clarify the dilemma.\nGet all the possible facts.\nList options-all of them.\nTest each option by asking such questions as:\n-Is it legal?\n-Is it right?\n-Is it beneficial?\nMake your decision.\nDouble check your decision by asking:\n-How would I feel if my family found out about this?\n-How would I feel if my decision is printed in the local newspaper?\nTake action (Schermerhorn 1989).\nFinally, the technician is encouraged to read the following code of ethics developed by Professional Aviation Maintenance Association (PAMA), Inc. and consider adopting it as their own.",
+   "FAA-H-8083-30A, Aviation Maintenance Technician Handbook: General, chapter 13 (mechanic privileges and limitations)\nSection 65.15, Duration of Certificates\nMechanic's certificates are effective until they are surrendered, suspended, or revoked. The difference in these terms can be summarized in the following manner:\nSurrendered means given up voluntarily.\nSuspended means the FAA temporarily removes the certificate from the holder.\nRevoked means the FAA permanently removes the certificate from the holder.",
+   "FAA-H-8083-30A, Aviation Maintenance Technician Handbook: General, chapter 13 (mechanic privileges and limitations)\nSection 65.81, General Privileges and Limitations\nOnce a technician becomes a certificated mechanic, he or she may perform or supervise the maintenance, preventive maintenance, or alterations of an aircraft or appliance (or part thereof) for which he or she is rated.\nHowever, he or she is not permitted to perform major repair or major alterations to propellers nor accomplish any repair to or alteration of instruments.\nThese activities are reserved for certificated repairmen at an authorized repair station.\nAlso, he or she may not supervise the maintenance, preventive maintenance, or alteration of any aircraft or appliance (or part thereof) for which he or she is rated, unless he or she has satisfactorily performed this work at an earlier date.\nThis is where the benefit of keeping an on the job training (OJT) log cannot be overemphasized.\nWhether the technician attends a part 147 maintenance training school or receives the required number of months as practical experience, he or she has only scratched the surface of the tremendously complex world of aviation maintenance.\nThe technician must either work with someone (like a shop mentor) or must perform the task satisfactorily for the FAA.",
+   "14 CFR Part 145: Repair Stations\n\u00a7 145.161 Records of management, supervisory, and inspection personnel.\n(a) A certificated repair station must maintain and make available in a format acceptable to the FAA the following:\n(1) A roster of management and supervisory personnel that includes the names of the repair station officials who are responsible for its management and the names of its supervisors who oversee maintenance functions.\n(2) A roster with the names of all inspection personnel.\n(3) A roster of personnel authorized to sign a maintenance release for approving a maintained or altered article for return to service.\n(4) A summary of the employment of each individual whose name is on the personnel rosters required by paragraphs (a)(1) through (a)(3) of this section. The summary must contain enough information on each individual listed on the roster to show compliance with the experience requirements of this part and must include the following:\n(i) Present title,\n(ii) Total years of experience and the type of maintenance work performed,\n(iii) Past relevant employment with names of employers and periods of employment,\n(iv) Scope of present employment, and\n(v) The type of mechanic or repairman certificate held and the ratings on that certificate, if applicable."
+  ]
+ },
+ "response": {
+  "model": "nvidia/nemotron-3.5-rerank-8b",
+  "results": [
+   {
+    "index": 0,
+    "relevance_score": 0.18817170767625893,
+    "document": {
+     "text": "FAA-H-8083-30A, Aviation Maintenance Technician Handbook: General, chapter 13 (mechanic privileges and limitations)\nSection 65.83, Recent Experience Requirements\nIn addition to having the proper documentation, the mechanic is required by this regulation to have recent and relevant work experience. Although, as it was stated earlier in this chapter, the A&P certificate is valid until it is surrendered, suspended, or revoked, it may not be exercised if the holder has not been actively working as a mechanic for at least 6 of the preceding 24 months.\nThis activity can be any one or a combination of the following:\nServed as a mechanic under the certificate and rating\nTechnically supervised other mechanics\nSupervised (in an executive capacity) the maintenance or alteration of an aircraft"
+    }
+   },
+   {
+    "index": 2,
+    "relevance_score": 0.08323616155108216,
+    "document": {
+     "text": "FAA-H-8083-30A, Aviation Maintenance Technician Handbook: General, chapter 13 (mechanic privileges and limitations)\nSection 65.71, Eligibility Requirements: General\nThe requirements for obtaining a mechanic certificate are:\nBe at least 18 years of age.\nBe able to read, write, speak, and understand the English language. (Note: If the applicant does not meet this requirement and is employed outside the United States by a U.S. carrier, the certificate will be endorsed \"valid only outside the United States.\")\nHave passed all the required tests (written, oral, and practical) within the preceding 24 months from application.\nPossess and demonstrate the appropriate knowledge and skill for the certificate rating being sought.\nIf a technician has one of the ratings and desires to add the other, he or she must meet the requirements set forth in section 65.77, and take the written, oral, and practical tests within 24 months."
+    }
+   },
+   {
+    "index": 1,
+    "relevance_score": 0.07712146481061113,
+    "document": {
+     "text": "FAA-H-8083-30A, Aviation Maintenance Technician Handbook: General, chapter 13 (mechanic privileges and limitations)\nSection 65.77, Experience Requirements\nEach mechanic applicant must have a certificate of completion from a certificated aviation maintenance technician school (AMTS) (14 CFR part 147) or provide documented evidence of a minimum of 18 months practical experience related to either airframe or powerplant maintenance (30 months required if applying for certification for both airframe and powerplant)."
+    }
+   },
+   {
+    "index": 13,
+    "relevance_score": 0.07117373643646063,
+    "document": {
+     "text": "FAA-H-8083-30A, Aviation Maintenance Technician Handbook: General, chapter 13 (mechanic privileges and limitations)\nSection 65.81, General Privileges and Limitations\nOnce a technician becomes a certificated mechanic, he or she may perform or supervise the maintenance, preventive maintenance, or alterations of an aircraft or appliance (or part thereof) for which he or she is rated.\nHowever, he or she is not permitted to perform major repair or major alterations to propellers nor accomplish any repair to or alteration of instruments.\nThese activities are reserved for certificated repairmen at an authorized repair station.\nAlso, he or she may not supervise the maintenance, preventive maintenance, or alteration of any aircraft or appliance (or part thereof) for which he or she is rated, unless he or she has satisfactorily performed this work at an earlier date.\nThis is where the benefit of keeping an on the job training (OJT) log cannot be overemphasized.\nWhether the technician attends a part 147 maintenance training school or receives the required number of months as practical experience, he or she has only scratched the surface of the tremendously complex world of aviation maintenance.\nThe technician must either work with someone (like a shop mentor) or must perform the task satisfactorily for the FAA."
+    }
+   },
+   {
+    "index": 10,
+    "relevance_score": 0.06456625670039033,
+    "document": {
+     "text": "FAA-H-8083-30A, Aviation Maintenance Technician Handbook: General, chapter 13 (mechanic privileges and limitations)\nSection 65.81, General Privileges and Limitations\nThe certified mechanic must have and be able to comprehend the maintenance manuals and/ or instructions for continued airworthiness for the task he or she is accomplishing."
+    }
+   },
+   {
+    "index": 12,
+    "relevance_score": 0.061967750183653164,
+    "document": {
+     "text": "FAA-H-8083-30A, Aviation Maintenance Technician Handbook: General, chapter 13 (mechanic privileges and limitations)\nSection 65.15, Duration of Certificates\nMechanic's certificates are effective until they are surrendered, suspended, or revoked. The difference in these terms can be summarized in the following manner:\nSurrendered means given up voluntarily.\nSuspended means the FAA temporarily removes the certificate from the holder.\nRevoked means the FAA permanently removes the certificate from the holder."
+    }
+   },
+   {
+    "index": 3,
+    "relevance_score": 0.061702126394792375,
+    "document": {
+     "text": "FAA-H-8083-30A, Aviation Maintenance Technician Handbook: General, chapter 13 (mechanic privileges and limitations)\nSection 65.11, Application and Issue\nAny person who meets the criteria for obtaining a mechanic certificate must apply by means of FAA Form 8610-2, Airman Certificate and/or Rating Application. If a mechanic has had a certificate suspended, they may not apply for additional ratings during the time of suspension. A revocation of a mechanic certificate prevents that person from applying for a certificate within a period of 1 year after the revocation."
+    }
+   },
+   {
+    "index": 7,
+    "relevance_score": 0.0596518107953391,
+    "document": {
+     "text": "FAA-H-8083-30A, Aviation Maintenance Technician Handbook: General, chapter 13 (mechanic privileges and limitations)\nSection 65.89, Display of Certificate\nOnce a technician receives his or her mechanic certificate, the certificate must be kept in the immediate area where he or she normally conducts work and exercises the privileges of the certificate. When requested, the technician is required to present the certificate for inspection to the FAA, or any authorized representation from the National Transportation Safety Board (NTSB), or any federal, state, or local law enforcement officer."
+    }
+   },
+   {
+    "index": 9,
+    "relevance_score": 0.05811047714346516,
+    "document": {
+     "text": "FAA-H-8083-30A, Aviation Maintenance Technician Handbook: General, chapter 13 (mechanic privileges and limitations)\nIntroduction\nThe FAA certificates two separate categories of maintenance technicians: mechanic and repairman. The fundamental difference between these two is that the mechanic certificate is transportable, is issued to the technician based upon his or her training and knowledge, and is not dependent on the technician's location. Although the repairman certificate is also based upon the training and knowledge of the technician, it is specifically issued to that technician while he or she is employed at a distinct location of a specific company. This certificate carries a literal address where he or she is authorized to work using his or her repairman skills. When the technician is no longer employed there, the repairman certificate must be returned to the Flight Standards District Office (FSDO) that issued it."
+    }
+   },
+   {
+    "index": 4,
+    "relevance_score": 0.05427630390023134,
+    "document": {
+     "text": "14 CFR Part 145: Repair Stations\n\u00a7 145.157 Personnel authorized to approve an article for return to service.\n(a) A certificated repair station located inside the United States must ensure each person authorized to approve an article for return to service under the repair station certificate and operations specifications is appropriately certificated as a mechanic or repairman under part 65.\n(b) A certificated repair station located outside the United States must ensure each person authorized to approve an article for return to service under the repair station certificate and operations specifications is\u2014\n(1) Trained in or has 18 months practical experience with the methods, techniques, practices, aids, equipment, and tools used to perform the maintenance, preventive maintenance, or alterations; and\n(2) Thoroughly familiar with the applicable regulations in this chapter and proficient in the use of the various inspection methods, techniques, practices, aids, equipment, and tools appropriate for the work being performed and approved for return to service.\n(c) A certificated repair station must ensure each person authorized to approve an article for return to service understands, reads, and writes English."
+    }
+   },
+   {
+    "index": 14,
+    "relevance_score": 0.04792417345839388,
+    "document": {
+     "text": "14 CFR Part 145: Repair Stations\n\u00a7 145.161 Records of management, supervisory, and inspection personnel.\n(a) A certificated repair station must maintain and make available in a format acceptable to the FAA the following:\n(1) A roster of management and supervisory personnel that includes the names of the repair station officials who are responsible for its management and the names of its supervisors who oversee maintenance functions.\n(2) A roster with the names of all inspection personnel.\n(3) A roster of personnel authorized to sign a maintenance release for approving a maintained or altered article for return to service.\n(4) A summary of the employment of each individual whose name is on the personnel rosters required by paragraphs (a)(1) through (a)(3) of this section. The summary must contain enough information on each individual listed on the roster to show compliance with the experience requirements of this part and must include the following:\n(i) Present title,\n(ii) Total years of experience and the type of maintenance work performed,\n(iii) Past relevant employment with names of employers and periods of employment,\n(iv) Scope of present employment, and\n(v) The type of mechanic or repairman certificate held and the ratings on that certificate, if applicable."
+    }
+   },
+   {
+    "index": 8,
+    "relevance_score": 0.041344746590278834,
+    "document": {
+     "text": "FAA-H-8083-30A, Aviation Maintenance Technician Handbook: General, chapter 13 (mechanic privileges and limitations)\nSection 65.14, Security Disqualification\nThis section was added following the terrorist attacks of September 11, 2001. It basically states that anyone determined by the Transportation Security Administration (TSA) to be a security threat will either have their application held if they are applying for a certificate, or have the certificate that they do hold revoked."
+    }
+   },
+   {
+    "index": 11,
+    "relevance_score": 0.040822165402904606,
+    "document": {
+     "text": "FAA-H-8083-30A, Aviation Maintenance Technician Handbook: General, chapter 13 (mechanic privileges and limitations)\nFinal Observation\nIt is encouraging to note that more and more institutions of learning, whether business schools or technical colleges, are adding ethics courses into their required curriculum. More and more organizations are developing a corporate \"code of ethics.\" Some are using the following seven-step checklist to help employees deal with an ethical decision:\nRecognize and clarify the dilemma.\nGet all the possible facts.\nList options-all of them.\nTest each option by asking such questions as:\n-Is it legal?\n-Is it right?\n-Is it beneficial?\nMake your decision.\nDouble check your decision by asking:\n-How would I feel if my family found out about this?\n-How would I feel if my decision is printed in the local newspaper?\nTake action (Schermerhorn 1989).\nFinally, the technician is encouraged to read the following code of ethics developed by Professional Aviation Maintenance Association (PAMA), Inc. and consider adopting it as their own."
+    }
+   },
+   {
+    "index": 5,
+    "relevance_score": 0.028292646014852447,
+    "document": {
+     "text": "Airworthiness directives at Anfa: training deck for new mechanics\n1 Airworthiness directives at Anfa\nAirworthiness directives at Anfa\nNew mechanics, first month Quality: Karim Bennani\nSpeaker notes: This deck is for mechanics in their first month. It covers how we decide whether a directive applies and how we record it. Ask the quality manager about anything it does not cover."
+    }
+   },
+   {
+    "index": 6,
+    "relevance_score": 0.026984851030470217,
+    "document": {
+     "text": "AC 43.13-2B, Acceptable Methods, Techniques, and Practices: Aircraft Alterations\nNOTE: Refer to AC 43.1309-1 (current edition) for additional information on FHA.\na. Many older aircraft designs did not provide for all weather operations or potential increases in the pilot's reliance on installed systems and equipment. Requirements to assure design safeguards against hazards have developed as technologies have become available and pilots have increased their reliance on installed systems and equipment. A fundamental analysis to assure design safeguards is accomplished through a functional hazard assessment.\nb. Alterations that involve systems or equipment that perform critical functions or that include complex designs that have a high degree of integration, use of new technology, or novel applications of conventional technology, must be assessed to determine the severity of failure conditions. Complexity in itself does not drive the need to perform a system safety analysis but the effect of a failure does. Comparison with similar, previously approved systems is sometimes helpful."
+    }
+   }
+  ],
+  "usage": {
+   "total_tokens": 2792,
+   "cost": 0
+  },
+  "provider": "Nvidia",
+  "id": "gen-rerank-1793459279-N23GwhqLcR65tNYe70fJ"
+ }
+}

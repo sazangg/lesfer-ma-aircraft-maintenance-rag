@@ -1,6 +1,23 @@
 {
   "about": "Corrections a person made after checking the page image. Keyed by source ID, then parser element ID. 'was' is the fingerprint of the element the correction was written against: if a new parse changes that element, the correction is not applied and the ingestion report asks for another look. 'reviewed_pages' lists the scanned pages checked against the image. 'page_titles' names what each page is when one file holds several documents, and 'page_meta' records what it applies to.",
   "corrections": {
+    "AD-2012-22-01": {
+      "e92": {
+        "was": "fe38696a292a",
+        "why": "paragraph (c) continues at the top of page 3, column 1; the parser read it after another column's 'Costs of Compliance', so the 172S range was searched and supplied as costs (found by a held-out question in Part 7). Page 3 prints 'l72S8001' with a letter l",
+        "text": "(1) Model 172R, serial numbers (S/N) 17280001 through 17281187, that have incorporated Cessna Aircraft Company Service Bulletin SB04-28-03, dated August 30, 2004, and Engine Fuel Return System, Modification Kit MK172-28-01, dated August 30, 2004; and\n\n(2) Model 172S, S/N l72S8001 through 172S9490, that have incorporated Cessna Aircraft Company Service Bulletin SB04-28-03, dated August 30, 2004, and Engine Fuel Return System, Modification Kit MK172-28-01, dated August 30, 2004."
+      },
+      "e103": {
+        "was": "8544d288a85d",
+        "why": "moved into e92, where it belongs",
+        "drop": true
+      },
+      "e104": {
+        "was": "55264e672fa9",
+        "why": "moved into e92, where it belongs",
+        "drop": true
+      }
+    },
     "AC-43.13-1B-CH7": {
       "e102": {
         "was": "b046155693b0",

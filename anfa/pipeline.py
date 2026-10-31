@@ -41,6 +41,9 @@ from anfa.retrieval import ad_numbers, reciprocal_rank_fusion
 from anfa.situation import Situation, fleet_from, situation_from, which_aircraft
 from anfa.store import SCHEMA, TERMS, PgVectorIndex
 
+# Pieces of a directive named in the question that the reranker reads (nearest to the question first).
+LOOKUP = 20
+
 INSTRUCTIONS = """Answer the question using the supplied sources.
 Cite the source label, for example [S1], beside each claim it supports.
 If the sources don't establish an answer, say so."""
@@ -71,9 +74,10 @@ class Trace:
 
 
 class Assistant:
-    def __init__(self, k: int = 5, candidates: int = 10):
+    def __init__(self, k: int = 5, candidates: int = 10, min_score: float = 0.0):
         self.k = k  # pieces supplied to the model (before expanding to blocks)
         self.candidates = candidates  # pieces each search contributes to the shortlist
+        self.min_score = min_score  # Part 7: a reranked piece scoring below this is not supplied
         self.reranker = OpenRouterReranker()
         self.embedder, self.generator, self.index = OpenRouterEmbedder(), OpenRouterGenerator(), PgVectorIndex()
         self.describer = OpenRouterDescriber()
@@ -113,6 +117,18 @@ class Assistant:
     # Answering a question ---------------------------------------------------
 
     def ask(self, question: str, user: User = MECHANIC) -> Trace:
+        trace = self.prepare(question, user)
+        if trace.status != "answered":
+            return trace
+        trace.raw_answer = self.generator.generate(trace.prompt)
+        trace.answer, unknown = resolve_citations(trace.raw_answer, trace.citations)
+        if unknown:
+            trace.status = "format_error"
+            trace.answer = f"The answer cited sources that weren't supplied ({', '.join(unknown)}) and was withheld."
+        return trace
+
+    def prepare(self, question: str, user: User = MECHANIC) -> Trace:
+        """Everything up to the prompt: what the model would receive. Measuring retrieval stops here."""
         trace = Trace(question)
         trace.situation = situation_from(question, self.index.fleet(), self.index.models())
 
@@ -128,28 +144,27 @@ class Assistant:
         trace.context = self.supplied_blocks([chunk for _, chunk in hits], user)
         trace.citations = {f"S{n}": block.ref for n, block in enumerate(trace.context, start=1)}
         trace.prompt = build_prompt(INSTRUCTIONS, question, trace.situation, trace.context)
-        trace.raw_answer = self.generator.generate(trace.prompt)
-        trace.answer, unknown = resolve_citations(trace.raw_answer, trace.citations)
-        if unknown:
-            trace.status = "format_error"
-            trace.answer = f"The answer cited sources that weren't supplied ({', '.join(unknown)}) and was withheld."
         return trace
 
     def retrieve(self, question: str, user: User, situation: Situation | None = None) -> list[tuple[float, Chunk]]:
         """The top-k pieces for the question. Access and the situation filter every search."""
         groups, vector = user.groups, self.embedder.embed_query(question)
 
-        # An AD number in the question: that directive's own pieces come first, best match first.
+        # An AD number in the question: that directive's pieces join the shortlist, and its two best
+        # come first. The reranker picks them: every piece of a directive looks alike to vector search,
+        # which ranked AD 2012-22-01's applicability 13th of 35 (Part 7).
         codes = ad_numbers(question)
-        exact = [c for _, c in self.index.search(vector, groups, 2, codes, situation)] if codes else []
+        named = [c for _, c in self.index.search(vector, groups, LOOKUP, codes, situation)] if codes else []
 
         lexical = [c for _, c in self.index.keyword_search(question, groups, self.candidates, situation)]
         dense = [c for _, c in self.index.search(vector, groups, self.candidates, situation=situation)]
-        shortlist = [c for c in reciprocal_rank_fusion(lexical, dense) if c.id not in {e.id for e in exact}]
+        shortlist = named + [c for c in reciprocal_rank_fusion(lexical, dense) if c.id not in {n.id for n in named}]
 
         scores = self.reranker.score(question, [c.search_text or c.text for c in shortlist])
         ranked = sorted(zip(scores, shortlist), key=lambda pair: (-pair[0], pair[1].id))
-        return ([(float("inf"), c) for c in exact] + ranked)[: self.k]
+        first = [(score, c) for score, c in ranked if c in named][:2]
+        rest = [(score, c) for score, c in ranked if (score, c) not in first and score >= self.min_score]
+        return (first + rest)[: self.k]
 
     def supplied_blocks(self, hits: list[Chunk], user: User) -> list[Chunk]:
         """Replace each searched piece by the block it belongs to, once."""

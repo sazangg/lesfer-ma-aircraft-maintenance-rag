@@ -1,0 +1,155 @@
+{
+ "request": {
+  "model": "nvidia/nemotron-3.5-rerank-8b:free",
+  "query": "How much torque does an 8-36 fine thread bolt take with an MS20365 tension nut?",
+  "documents": [
+   "AC 43.13-1B, Acceptable Methods, Techniques, and Practices: Aircraft Inspection and Repair, chapter 7 (aircraft hardware, control cables, and turnbuckles)\n7-41 STANDARD AIRCRAFT HEX HEAD BOLTS (AN3 THROUGH AN20).\nTABLE 7-1. Recommended torque values (inch-pounds). CAUTION: THE FOLLOWING TORQUE VALUES ARE DERIVED FROM OIL FREE CADMIUM PLATED THREADS.\nThread size: 8-36; Recommended for installation (bolts loaded primarily in shear): tension type nuts MS20365 and AN310 (40,000 psi in bolts): 12-15; Recommended for installation (bolts loaded primarily in shear): shear type nuts MS20364 and AN320 (24,000 psi in bolts): 7-9; Maximum allowable tightening torque: nuts MS20365 and AN310 (90,000 psi in bolts): 20; Maximum allowable tightening torque: nuts MS20364 and AN320 (54,000 psi in bolts): 12",
+   "AC 43.13-1B, Acceptable Methods, Techniques, and Practices: Aircraft Inspection and Repair, chapter 7 (aircraft hardware, control cables, and turnbuckles)\n7-41 STANDARD AIRCRAFT HEX HEAD BOLTS (AN3 THROUGH AN20).\nTABLE 7-1. Recommended torque values (inch-pounds). CAUTION: THE FOLLOWING TORQUE VALUES ARE DERIVED FROM OIL FREE CADMIUM PLATED THREADS.\nThread size: 1-14; Recommended for installation (bolts loaded primarily in shear): tension type nuts MS20365 and AN310 (40,000 psi in bolts): 3700-5500; Recommended for installation (bolts loaded primarily in shear): shear type nuts MS20364 and AN320 (24,000 psi in bolts): 2200-3300*; Maximum allowable tightening torque: nuts MS20365 and AN310 (90,000 psi in bolts): 10,000; Maximum allowable tightening torque: nuts MS20364 and AN320 (54,000 psi in bolts): 6000",
+   "AC 43.13-1B, Acceptable Methods, Techniques, and Practices: Aircraft Inspection and Repair, chapter 7 (aircraft hardware, control cables, and turnbuckles)\n7-41 STANDARD AIRCRAFT HEX HEAD BOLTS (AN3 THROUGH AN20).\nTABLE 7-1. Recommended torque values (inch-pounds). CAUTION: THE FOLLOWING TORQUE VALUES ARE DERIVED FROM OIL FREE CADMIUM PLATED THREADS.\nThread size: 1-1/8-12; Recommended for installation (bolts loaded primarily in shear): tension type nuts MS20365 and AN310 (40,000 psi in bolts): 5000-7000; Recommended for installation (bolts loaded primarily in shear): shear type nuts MS20364 and AN320 (24,000 psi in bolts): 3000-4200*; Maximum allowable tightening torque: nuts MS20365 and AN310 (90,000 psi in bolts): 15,000; Maximum allowable tightening torque: nuts MS20364 and AN320 (54,000 psi in bolts): 9000",
+   "AC 43.13-1B, Acceptable Methods, Techniques, and Practices: Aircraft Inspection and Repair, chapter 7 (aircraft hardware, control cables, and turnbuckles)\n7-41 STANDARD AIRCRAFT HEX HEAD BOLTS (AN3 THROUGH AN20).\nTABLE 7-1. Recommended torque values (inch-pounds). CAUTION: THE FOLLOWING TORQUE VALUES ARE DERIVED FROM OIL FREE CADMIUM PLATED THREADS.\nThread size: 8-32; Recommended for installation (bolts loaded primarily in shear): tension type nuts MS20365 and AN310 (40,000 psi in bolts): 12-15; Recommended for installation (bolts loaded primarily in shear): shear type nuts MS20364 and AN320 (24,000 psi in bolts): 7-9; Maximum allowable tightening torque: nuts MS20365 and AN310 (90,000 psi in bolts): 20; Maximum allowable tightening torque: nuts MS20364 and AN320 (54,000 psi in bolts): 12",
+   "AC 43.13-1B, Acceptable Methods, Techniques, and Practices: Aircraft Inspection and Repair, chapter 7 (aircraft hardware, control cables, and turnbuckles)\nSECTION 4. NUTS\nTABLE 7-2. Minimum prevailing torque values for reused self-locking nuts.\nFINE THREAD SERIES: THREAD SIZE; FINE THREAD SERIES: MINIMUM PREVAILING TORQUE",
+   "AC 43.13-1B, Acceptable Methods, Techniques, and Practices: Aircraft Inspection and Repair, chapter 7 (aircraft hardware, control cables, and turnbuckles)\n7-41 STANDARD AIRCRAFT HEX HEAD BOLTS (AN3 THROUGH AN20).\nTABLE 7-1. Recommended torque values (inch-pounds). CAUTION: THE FOLLOWING TORQUE VALUES ARE DERIVED FROM OIL FREE CADMIUM PLATED THREADS.\nThread size: 3/8-16; Recommended for installation (bolts loaded primarily in shear): tension type nuts MS20365 and AN310 (40,000 psi in bolts): 160-185; Recommended for installation (bolts loaded primarily in shear): shear type nuts MS20364 and AN320 (24,000 psi in bolts): 95-100; Maximum allowable tightening torque: nuts MS20365 and AN310 (90,000 psi in bolts): 275; Maximum allowable tightening torque: nuts MS20364 and AN320 (54,000 psi in bolts): 170",
+   "AC 43.13-1B, Acceptable Methods, Techniques, and Practices: Aircraft Inspection and Repair, chapter 7 (aircraft hardware, control cables, and turnbuckles)\nSECTION 4. NUTS\nTABLE 7-2. Minimum prevailing torque values for reused self-locking nuts.\nFINE THREAD SERIES: THREAD SIZE; FINE THREAD SERIES: MINIMUM PREVAILING TORQUE",
+   "AC 43.13-1B, Acceptable Methods, Techniques, and Practices: Aircraft Inspection and Repair, chapter 7 (aircraft hardware, control cables, and turnbuckles)\nSECTION 4. NUTS\nTABLE 7-2. Minimum prevailing torque values for reused self-locking nuts.\nFINE THREAD SERIES: COARSE THREAD SERIES; FINE THREAD SERIES: COARSE THREAD SERIES",
+   "AC 43.13-1B, Acceptable Methods, Techniques, and Practices: Aircraft Inspection and Repair, chapter 7 (aircraft hardware, control cables, and turnbuckles)\n7-41 STANDARD AIRCRAFT HEX HEAD BOLTS (AN3 THROUGH AN20).\nTABLE 7-1. Recommended torque values (inch-pounds). CAUTION: THE FOLLOWING TORQUE VALUES ARE DERIVED FROM OIL FREE CADMIUM PLATED THREADS.\nThread size: 10-32; Recommended for installation (bolts loaded primarily in shear): tension type nuts MS20365 and AN310 (40,000 psi in bolts): 20-25; Recommended for installation (bolts loaded primarily in shear): shear type nuts MS20364 and AN320 (24,000 psi in bolts): 12-15; Maximum allowable tightening torque: nuts MS20365 and AN310 (90,000 psi in bolts): 40; Maximum allowable tightening torque: nuts MS20364 and AN320 (54,000 psi in bolts): 25",
+   "AC 43.13-1B, Acceptable Methods, Techniques, and Practices: Aircraft Inspection and Repair, chapter 7 (aircraft hardware, control cables, and turnbuckles)\n7-41 STANDARD AIRCRAFT HEX HEAD BOLTS (AN3 THROUGH AN20).\nTABLE 7-1. Recommended torque values (inch-pounds). CAUTION: THE FOLLOWING TORQUE VALUES ARE DERIVED FROM OIL FREE CADMIUM PLATED THREADS.\nThread size: 1/4-28; Recommended for installation (bolts loaded primarily in shear): tension type nuts MS20365 and AN310 (40,000 psi in bolts): 50-70; Recommended for installation (bolts loaded primarily in shear): shear type nuts MS20364 and AN320 (24,000 psi in bolts): 30-40; Maximum allowable tightening torque: nuts MS20365 and AN310 (90,000 psi in bolts): 100; Maximum allowable tightening torque: nuts MS20364 and AN320 (54,000 psi in bolts): 60",
+   "AC 43.13-1B, Acceptable Methods, Techniques, and Practices: Aircraft Inspection and Repair, chapter 7 (aircraft hardware, control cables, and turnbuckles)\n7-41 STANDARD AIRCRAFT HEX HEAD BOLTS (AN3 THROUGH AN20).\nTABLE 7-1. Recommended torque values (inch-pounds). CAUTION: THE FOLLOWING TORQUE VALUES ARE DERIVED FROM OIL FREE CADMIUM PLATED THREADS.\nThread size: 3/4-10; Recommended for installation (bolts loaded primarily in shear): tension type nuts MS20365 and AN310 (40,000 psi in bolts): 1150-1600; Recommended for installation (bolts loaded primarily in shear): shear type nuts MS20364 and AN320 (24,000 psi in bolts): 700-950; Maximum allowable tightening torque: nuts MS20365 and AN310 (90,000 psi in bolts): 2500; Maximum allowable tightening torque: nuts MS20364 and AN320 (54,000 psi in bolts): 1500",
+   "AC 43.13-1B, Acceptable Methods, Techniques, and Practices: Aircraft Inspection and Repair, chapter 7 (aircraft hardware, control cables, and turnbuckles)\n7-41 STANDARD AIRCRAFT HEX HEAD BOLTS (AN3 THROUGH AN20).\nTABLE 7-1. Recommended torque values (inch-pounds). CAUTION: THE FOLLOWING TORQUE VALUES ARE DERIVED FROM OIL FREE CADMIUM PLATED THREADS.\nThread size: 5/16-24; Recommended for installation (bolts loaded primarily in shear): tension type nuts MS20365 and AN310 (40,000 psi in bolts): 100-140; Recommended for installation (bolts loaded primarily in shear): shear type nuts MS20364 and AN320 (24,000 psi in bolts): 60-85; Maximum allowable tightening torque: nuts MS20365 and AN310 (90,000 psi in bolts): 225; Maximum allowable tightening torque: nuts MS20364 and AN320 (54,000 psi in bolts): 140",
+   "AC 43.13-1B, Acceptable Methods, Techniques, and Practices: Aircraft Inspection and Repair, chapter 7 (aircraft hardware, control cables, and turnbuckles)\n7-41 STANDARD AIRCRAFT HEX HEAD BOLTS (AN3 THROUGH AN20).\nTABLE 7-1. Recommended torque values (inch-pounds). CAUTION: THE FOLLOWING TORQUE VALUES ARE DERIVED FROM OIL FREE CADMIUM PLATED THREADS.\nThread size: 3/4-16; Recommended for installation (bolts loaded primarily in shear): tension type nuts MS20365 and AN310 (40,000 psi in bolts): 2300-2500; Recommended for installation (bolts loaded primarily in shear): shear type nuts MS20364 and AN320 (24,000 psi in bolts): 1300-1500; Maximum allowable tightening torque: nuts MS20365 and AN310 (90,000 psi in bolts): 5000; Maximum allowable tightening torque: nuts MS20364 and AN320 (54,000 psi in bolts): 3000",
+   "AC 43.13-1B, Acceptable Methods, Techniques, and Practices: Aircraft Inspection and Repair, chapter 7 (aircraft hardware, control cables, and turnbuckles)\n7-41 STANDARD AIRCRAFT HEX HEAD BOLTS (AN3 THROUGH AN20).\nTABLE 7-1. Recommended torque values (inch-pounds). CAUTION: THE FOLLOWING TORQUE VALUES ARE DERIVED FROM OIL FREE CADMIUM PLATED THREADS.\nThread size: 10-24; Recommended for installation (bolts loaded primarily in shear): tension type nuts MS20365 and AN310 (40,000 psi in bolts): 20-25; Recommended for installation (bolts loaded primarily in shear): shear type nuts MS20364 and AN320 (24,000 psi in bolts): 12-15; Maximum allowable tightening torque: nuts MS20365 and AN310 (90,000 psi in bolts): 35; Maximum allowable tightening torque: nuts MS20364 and AN320 (54,000 psi in bolts): 21",
+   "AC 43.13-1B, Acceptable Methods, Techniques, and Practices: Aircraft Inspection and Repair, chapter 7 (aircraft hardware, control cables, and turnbuckles)\n7-41 STANDARD AIRCRAFT HEX HEAD BOLTS (AN3 THROUGH AN20).\nTABLE 7-1. Recommended torque values (inch-pounds). CAUTION: THE FOLLOWING TORQUE VALUES ARE DERIVED FROM OIL FREE CADMIUM PLATED THREADS.\nThread size: 7/8-14; Recommended for installation (bolts loaded primarily in shear): tension type nuts MS20365 and AN310 (40,000 psi in bolts): 2500-3000; Recommended for installation (bolts loaded primarily in shear): shear type nuts MS20364 and AN320 (24,000 psi in bolts): 1500-1800; Maximum allowable tightening torque: nuts MS20365 and AN310 (90,000 psi in bolts): 7000; Maximum allowable tightening torque: nuts MS20364 and AN320 (54,000 psi in bolts): 4200",
+   "AC 43.13-1B, Acceptable Methods, Techniques, and Practices: Aircraft Inspection and Repair, chapter 7 (aircraft hardware, control cables, and turnbuckles)\n7-41 STANDARD AIRCRAFT HEX HEAD BOLTS (AN3 THROUGH AN20).\nTABLE 7-1. Recommended torque values (inch-pounds). CAUTION: THE FOLLOWING TORQUE VALUES ARE DERIVED FROM OIL FREE CADMIUM PLATED THREADS.\nThread size: 1-1/4-12; Recommended for installation (bolts loaded primarily in shear): tension type nuts MS20365 and AN310 (40,000 psi in bolts): 9000-11,000; Recommended for installation (bolts loaded primarily in shear): shear type nuts MS20364 and AN320 (24,000 psi in bolts): 5400-6600*; Maximum allowable tightening torque: nuts MS20365 and AN310 (90,000 psi in bolts): 25,000; Maximum allowable tightening torque: nuts MS20364 and AN320 (54,000 psi in bolts): 15,000",
+   "AC 43.13-1B, Acceptable Methods, Techniques, and Practices: Aircraft Inspection and Repair, chapter 7 (aircraft hardware, control cables, and turnbuckles)\n7-41 STANDARD AIRCRAFT HEX HEAD BOLTS (AN3 THROUGH AN20).\nTABLE 7-1. Recommended torque values (inch-pounds). CAUTION: THE FOLLOWING TORQUE VALUES ARE DERIVED FROM OIL FREE CADMIUM PLATED THREADS.\nThread size: 3/8-24; Recommended for installation (bolts loaded primarily in shear): tension type nuts MS20365 and AN310 (40,000 psi in bolts): 160-190; Recommended for installation (bolts loaded primarily in shear): shear type nuts MS20364 and AN320 (24,000 psi in bolts): 95-110; Maximum allowable tightening torque: nuts MS20365 and AN310 (90,000 psi in bolts): 390; Maximum allowable tightening torque: nuts MS20364 and AN320 (54,000 psi in bolts): 240"
+  ]
+ },
+ "response": {
+  "model": "nvidia/nemotron-3.5-rerank-8b",
+  "results": [
+   {
+    "index": 0,
+    "relevance_score": 0.11474373315314648,
+    "document": {
+     "text": "AC 43.13-1B, Acceptable Methods, Techniques, and Practices: Aircraft Inspection and Repair, chapter 7 (aircraft hardware, control cables, and turnbuckles)\n7-41 STANDARD AIRCRAFT HEX HEAD BOLTS (AN3 THROUGH AN20).\nTABLE 7-1. Recommended torque values (inch-pounds). CAUTION: THE FOLLOWING TORQUE VALUES ARE DERIVED FROM OIL FREE CADMIUM PLATED THREADS.\nThread size: 8-36; Recommended for installation (bolts loaded primarily in shear): tension type nuts MS20365 and AN310 (40,000 psi in bolts): 12-15; Recommended for installation (bolts loaded primarily in shear): shear type nuts MS20364 and AN320 (24,000 psi in bolts): 7-9; Maximum allowable tightening torque: nuts MS20365 and AN310 (90,000 psi in bolts): 20; Maximum allowable tightening torque: nuts MS20364 and AN320 (54,000 psi in bolts): 12"
+    }
+   },
+   {
+    "index": 3,
+    "relevance_score": 0.07737077062297576,
+    "document": {
+     "text": "AC 43.13-1B, Acceptable Methods, Techniques, and Practices: Aircraft Inspection and Repair, chapter 7 (aircraft hardware, control cables, and turnbuckles)\n7-41 STANDARD AIRCRAFT HEX HEAD BOLTS (AN3 THROUGH AN20).\nTABLE 7-1. Recommended torque values (inch-pounds). CAUTION: THE FOLLOWING TORQUE VALUES ARE DERIVED FROM OIL FREE CADMIUM PLATED THREADS.\nThread size: 8-32; Recommended for installation (bolts loaded primarily in shear): tension type nuts MS20365 and AN310 (40,000 psi in bolts): 12-15; Recommended for installation (bolts loaded primarily in shear): shear type nuts MS20364 and AN320 (24,000 psi in bolts): 7-9; Maximum allowable tightening torque: nuts MS20365 and AN310 (90,000 psi in bolts): 20; Maximum allowable tightening torque: nuts MS20364 and AN320 (54,000 psi in bolts): 12"
+    }
+   },
+   {
+    "index": 1,
+    "relevance_score": 0.07090547284542846,
+    "document": {
+     "text": "AC 43.13-1B, Acceptable Methods, Techniques, and Practices: Aircraft Inspection and Repair, chapter 7 (aircraft hardware, control cables, and turnbuckles)\n7-41 STANDARD AIRCRAFT HEX HEAD BOLTS (AN3 THROUGH AN20).\nTABLE 7-1. Recommended torque values (inch-pounds). CAUTION: THE FOLLOWING TORQUE VALUES ARE DERIVED FROM OIL FREE CADMIUM PLATED THREADS.\nThread size: 1-14; Recommended for installation (bolts loaded primarily in shear): tension type nuts MS20365 and AN310 (40,000 psi in bolts): 3700-5500; Recommended for installation (bolts loaded primarily in shear): shear type nuts MS20364 and AN320 (24,000 psi in bolts): 2200-3300*; Maximum allowable tightening torque: nuts MS20365 and AN310 (90,000 psi in bolts): 10,000; Maximum allowable tightening torque: nuts MS20364 and AN320 (54,000 psi in bolts): 6000"
+    }
+   },
+   {
+    "index": 2,
+    "relevance_score": 0.06782276742085983,
+    "document": {
+     "text": "AC 43.13-1B, Acceptable Methods, Techniques, and Practices: Aircraft Inspection and Repair, chapter 7 (aircraft hardware, control cables, and turnbuckles)\n7-41 STANDARD AIRCRAFT HEX HEAD BOLTS (AN3 THROUGH AN20).\nTABLE 7-1. Recommended torque values (inch-pounds). CAUTION: THE FOLLOWING TORQUE VALUES ARE DERIVED FROM OIL FREE CADMIUM PLATED THREADS.\nThread size: 1-1/8-12; Recommended for installation (bolts loaded primarily in shear): tension type nuts MS20365 and AN310 (40,000 psi in bolts): 5000-7000; Recommended for installation (bolts loaded primarily in shear): shear type nuts MS20364 and AN320 (24,000 psi in bolts): 3000-4200*; Maximum allowable tightening torque: nuts MS20365 and AN310 (90,000 psi in bolts): 15,000; Maximum allowable tightening torque: nuts MS20364 and AN320 (54,000 psi in bolts): 9000"
+    }
+   },
+   {
+    "index": 14,
+    "relevance_score": 0.06739098567480724,
+    "document": {
+     "text": "AC 43.13-1B, Acceptable Methods, Techniques, and Practices: Aircraft Inspection and Repair, chapter 7 (aircraft hardware, control cables, and turnbuckles)\n7-41 STANDARD AIRCRAFT HEX HEAD BOLTS (AN3 THROUGH AN20).\nTABLE 7-1. Recommended torque values (inch-pounds). CAUTION: THE FOLLOWING TORQUE VALUES ARE DERIVED FROM OIL FREE CADMIUM PLATED THREADS.\nThread size: 7/8-14; Recommended for installation (bolts loaded primarily in shear): tension type nuts MS20365 and AN310 (40,000 psi in bolts): 2500-3000; Recommended for installation (bolts loaded primarily in shear): shear type nuts MS20364 and AN320 (24,000 psi in bolts): 1500-1800; Maximum allowable tightening torque: nuts MS20365 and AN310 (90,000 psi in bolts): 7000; Maximum allowable tightening torque: nuts MS20364 and AN320 (54,000 psi in bolts): 4200"
+    }
+   },
+   {
+    "index": 9,
+    "relevance_score": 0.06698241888461379,
+    "document": {
+     "text": "AC 43.13-1B, Acceptable Methods, Techniques, and Practices: Aircraft Inspection and Repair, chapter 7 (aircraft hardware, control cables, and turnbuckles)\n7-41 STANDARD AIRCRAFT HEX HEAD BOLTS (AN3 THROUGH AN20).\nTABLE 7-1. Recommended torque values (inch-pounds). CAUTION: THE FOLLOWING TORQUE VALUES ARE DERIVED FROM OIL FREE CADMIUM PLATED THREADS.\nThread size: 1/4-28; Recommended for installation (bolts loaded primarily in shear): tension type nuts MS20365 and AN310 (40,000 psi in bolts): 50-70; Recommended for installation (bolts loaded primarily in shear): shear type nuts MS20364 and AN320 (24,000 psi in bolts): 30-40; Maximum allowable tightening torque: nuts MS20365 and AN310 (90,000 psi in bolts): 100; Maximum allowable tightening torque: nuts MS20364 and AN320 (54,000 psi in bolts): 60"
+    }
+   },
+   {
+    "index": 15,
+    "relevance_score": 0.06638071162410179,
+    "document": {
+     "text": "AC 43.13-1B, Acceptable Methods, Techniques, and Practices: Aircraft Inspection and Repair, chapter 7 (aircraft hardware, control cables, and turnbuckles)\n7-41 STANDARD AIRCRAFT HEX HEAD BOLTS (AN3 THROUGH AN20).\nTABLE 7-1. Recommended torque values (inch-pounds). CAUTION: THE FOLLOWING TORQUE VALUES ARE DERIVED FROM OIL FREE CADMIUM PLATED THREADS.\nThread size: 1-1/4-12; Recommended for installation (bolts loaded primarily in shear): tension type nuts MS20365 and AN310 (40,000 psi in bolts): 9000-11,000; Recommended for installation (bolts loaded primarily in shear): shear type nuts MS20364 and AN320 (24,000 psi in bolts): 5400-6600*; Maximum allowable tightening torque: nuts MS20365 and AN310 (90,000 psi in bolts): 25,000; Maximum allowable tightening torque: nuts MS20364 and AN320 (54,000 psi in bolts): 15,000"
+    }
+   },
+   {
+    "index": 16,
+    "relevance_score": 0.06603545436523921,
+    "document": {
+     "text": "AC 43.13-1B, Acceptable Methods, Techniques, and Practices: Aircraft Inspection and Repair, chapter 7 (aircraft hardware, control cables, and turnbuckles)\n7-41 STANDARD AIRCRAFT HEX HEAD BOLTS (AN3 THROUGH AN20).\nTABLE 7-1. Recommended torque values (inch-pounds). CAUTION: THE FOLLOWING TORQUE VALUES ARE DERIVED FROM OIL FREE CADMIUM PLATED THREADS.\nThread size: 3/8-24; Recommended for installation (bolts loaded primarily in shear): tension type nuts MS20365 and AN310 (40,000 psi in bolts): 160-190; Recommended for installation (bolts loaded primarily in shear): shear type nuts MS20364 and AN320 (24,000 psi in bolts): 95-110; Maximum allowable tightening torque: nuts MS20365 and AN310 (90,000 psi in bolts): 390; Maximum allowable tightening torque: nuts MS20364 and AN320 (54,000 psi in bolts): 240"
+    }
+   },
+   {
+    "index": 5,
+    "relevance_score": 0.06528851459709598,
+    "document": {
+     "text": "AC 43.13-1B, Acceptable Methods, Techniques, and Practices: Aircraft Inspection and Repair, chapter 7 (aircraft hardware, control cables, and turnbuckles)\n7-41 STANDARD AIRCRAFT HEX HEAD BOLTS (AN3 THROUGH AN20).\nTABLE 7-1. Recommended torque values (inch-pounds). CAUTION: THE FOLLOWING TORQUE VALUES ARE DERIVED FROM OIL FREE CADMIUM PLATED THREADS.\nThread size: 3/8-16; Recommended for installation (bolts loaded primarily in shear): tension type nuts MS20365 and AN310 (40,000 psi in bolts): 160-185; Recommended for installation (bolts loaded primarily in shear): shear type nuts MS20364 and AN320 (24,000 psi in bolts): 95-100; Maximum allowable tightening torque: nuts MS20365 and AN310 (90,000 psi in bolts): 275; Maximum allowable tightening torque: nuts MS20364 and AN320 (54,000 psi in bolts): 170"
+    }
+   },
+   {
+    "index": 10,
+    "relevance_score": 0.06506959257492846,
+    "document": {
+     "text": "AC 43.13-1B, Acceptable Methods, Techniques, and Practices: Aircraft Inspection and Repair, chapter 7 (aircraft hardware, control cables, and turnbuckles)\n7-41 STANDARD AIRCRAFT HEX HEAD BOLTS (AN3 THROUGH AN20).\nTABLE 7-1. Recommended torque values (inch-pounds). CAUTION: THE FOLLOWING TORQUE VALUES ARE DERIVED FROM OIL FREE CADMIUM PLATED THREADS.\nThread size: 3/4-10; Recommended for installation (bolts loaded primarily in shear): tension type nuts MS20365 and AN310 (40,000 psi in bolts): 1150-1600; Recommended for installation (bolts loaded primarily in shear): shear type nuts MS20364 and AN320 (24,000 psi in bolts): 700-950; Maximum allowable tightening torque: nuts MS20365 and AN310 (90,000 psi in bolts): 2500; Maximum allowable tightening torque: nuts MS20364 and AN320 (54,000 psi in bolts): 1500"
+    }
+   },
+   {
+    "index": 11,
+    "relevance_score": 0.06454431476198684,
+    "document": {
+     "text": "AC 43.13-1B, Acceptable Methods, Techniques, and Practices: Aircraft Inspection and Repair, chapter 7 (aircraft hardware, control cables, and turnbuckles)\n7-41 STANDARD AIRCRAFT HEX HEAD BOLTS (AN3 THROUGH AN20).\nTABLE 7-1. Recommended torque values (inch-pounds). CAUTION: THE FOLLOWING TORQUE VALUES ARE DERIVED FROM OIL FREE CADMIUM PLATED THREADS.\nThread size: 5/16-24; Recommended for installation (bolts loaded primarily in shear): tension type nuts MS20365 and AN310 (40,000 psi in bolts): 100-140; Recommended for installation (bolts loaded primarily in shear): shear type nuts MS20364 and AN320 (24,000 psi in bolts): 60-85; Maximum allowable tightening torque: nuts MS20365 and AN310 (90,000 psi in bolts): 225; Maximum allowable tightening torque: nuts MS20364 and AN320 (54,000 psi in bolts): 140"
+    }
+   },
+   {
+    "index": 13,
+    "relevance_score": 0.06418356010729995,
+    "document": {
+     "text": "AC 43.13-1B, Acceptable Methods, Techniques, and Practices: Aircraft Inspection and Repair, chapter 7 (aircraft hardware, control cables, and turnbuckles)\n7-41 STANDARD AIRCRAFT HEX HEAD BOLTS (AN3 THROUGH AN20).\nTABLE 7-1. Recommended torque values (inch-pounds). CAUTION: THE FOLLOWING TORQUE VALUES ARE DERIVED FROM OIL FREE CADMIUM PLATED THREADS.\nThread size: 10-24; Recommended for installation (bolts loaded primarily in shear): tension type nuts MS20365 and AN310 (40,000 psi in bolts): 20-25; Recommended for installation (bolts loaded primarily in shear): shear type nuts MS20364 and AN320 (24,000 psi in bolts): 12-15; Maximum allowable tightening torque: nuts MS20365 and AN310 (90,000 psi in bolts): 35; Maximum allowable tightening torque: nuts MS20364 and AN320 (54,000 psi in bolts): 21"
+    }
+   },
+   {
+    "index": 12,
+    "relevance_score": 0.0639367760930545,
+    "document": {
+     "text": "AC 43.13-1B, Acceptable Methods, Techniques, and Practices: Aircraft Inspection and Repair, chapter 7 (aircraft hardware, control cables, and turnbuckles)\n7-41 STANDARD AIRCRAFT HEX HEAD BOLTS (AN3 THROUGH AN20).\nTABLE 7-1. Recommended torque values (inch-pounds). CAUTION: THE FOLLOWING TORQUE VALUES ARE DERIVED FROM OIL FREE CADMIUM PLATED THREADS.\nThread size: 3/4-16; Recommended for installation (bolts loaded primarily in shear): tension type nuts MS20365 and AN310 (40,000 psi in bolts): 2300-2500; Recommended for installation (bolts loaded primarily in shear): shear type nuts MS20364 and AN320 (24,000 psi in bolts): 1300-1500; Maximum allowable tightening torque: nuts MS20365 and AN310 (90,000 psi in bolts): 5000; Maximum allowable tightening torque: nuts MS20364 and AN320 (54,000 psi in bolts): 3000"
+    }
+   },
+   {
+    "index": 8,
+    "relevance_score": 0.06380081247898041,
+    "document": {
+     "text": "AC 43.13-1B, Acceptable Methods, Techniques, and Practices: Aircraft Inspection and Repair, chapter 7 (aircraft hardware, control cables, and turnbuckles)\n7-41 STANDARD AIRCRAFT HEX HEAD BOLTS (AN3 THROUGH AN20).\nTABLE 7-1. Recommended torque values (inch-pounds). CAUTION: THE FOLLOWING TORQUE VALUES ARE DERIVED FROM OIL FREE CADMIUM PLATED THREADS.\nThread size: 10-32; Recommended for installation (bolts loaded primarily in shear): tension type nuts MS20365 and AN310 (40,000 psi in bolts): 20-25; Recommended for installation (bolts loaded primarily in shear): shear type nuts MS20364 and AN320 (24,000 psi in bolts): 12-15; Maximum allowable tightening torque: nuts MS20365 and AN310 (90,000 psi in bolts): 40; Maximum allowable tightening torque: nuts MS20364 and AN320 (54,000 psi in bolts): 25"
+    }
+   },
+   {
+    "index": 4,
+    "relevance_score": 0.06008145289982666,
+    "document": {
+     "text": "AC 43.13-1B, Acceptable Methods, Techniques, and Practices: Aircraft Inspection and Repair, chapter 7 (aircraft hardware, control cables, and turnbuckles)\nSECTION 4. NUTS\nTABLE 7-2. Minimum prevailing torque values for reused self-locking nuts.\nFINE THREAD SERIES: THREAD SIZE; FINE THREAD SERIES: MINIMUM PREVAILING TORQUE"
+    }
+   },
+   {
+    "index": 6,
+    "relevance_score": 0.06008145289982666,
+    "document": {
+     "text": "AC 43.13-1B, Acceptable Methods, Techniques, and Practices: Aircraft Inspection and Repair, chapter 7 (aircraft hardware, control cables, and turnbuckles)\nSECTION 4. NUTS\nTABLE 7-2. Minimum prevailing torque values for reused self-locking nuts.\nFINE THREAD SERIES: THREAD SIZE; FINE THREAD SERIES: MINIMUM PREVAILING TORQUE"
+    }
+   },
+   {
+    "index": 7,
+    "relevance_score": 0.055082385964395277,
+    "document": {
+     "text": "AC 43.13-1B, Acceptable Methods, Techniques, and Practices: Aircraft Inspection and Repair, chapter 7 (aircraft hardware, control cables, and turnbuckles)\nSECTION 4. NUTS\nTABLE 7-2. Minimum prevailing torque values for reused self-locking nuts.\nFINE THREAD SERIES: COARSE THREAD SERIES; FINE THREAD SERIES: COARSE THREAD SERIES"
+    }
+   }
+  ],
+  "usage": {
+   "total_tokens": 4805,
+   "cost": 0
+  },
+  "provider": "Nvidia",
+  "id": "gen-rerank-1793459152-3gG9ByX8D6NXFP1xQ0XG"
+ }
+}

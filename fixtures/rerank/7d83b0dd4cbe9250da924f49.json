@@ -1,0 +1,131 @@
+{
+ "request": {
+  "model": "nvidia/nemotron-3.5-rerank-8b:free",
+  "query": "What traps in our own fleet does the training deck warn about?",
+  "documents": [
+   "Airworthiness directives at Anfa: training deck for new mechanics\n3 Check applicability before you sign\nCheck applicability before you sign\nModel and serial number range Installed equipment and part number Software version, modifications\nSpeaker notes: Two traps in our own fleet. CN-TFC is a 172S like CN-TFA and CN-TFB, but its serial number is above the range of AD 2013-11-11. CN-TFD has a KAP 140 autopilot, but its serial number is outside the range of the KAP 140 directives. Equipment alone is not enough, and serial numbers alone are not enough.",
+   "Airworthiness directives at Anfa: training deck for new mechanics\n1 Airworthiness directives at Anfa\nAirworthiness directives at Anfa\nNew mechanics, first month Quality: Karim Bennani\nSpeaker notes: This deck is for mechanics in their first month. It covers how we decide whether a directive applies and how we record it. Ask the quality manager about anything it does not cover.",
+   "Tadla Flight Academy fleet register, 26 October 2026\nSheet: Equipment\nRegistration: CN-TFB; Item: Integrated flight deck; Manufacturer: Garmin; Model / part number: G1000; Installed: 2006; Notes: Factory installed.",
+   "Tadla Flight Academy fleet register, 26 October 2026\nSheet: Equipment\nRegistration: CN-TFF; Item: Integrated flight deck; Manufacturer: Garmin; Model / part number: G1000 NXi; Installed: 2017; Notes: Factory installed.",
+   "Tadla Flight Academy fleet register, 26 October 2026\nSheet: Equipment\nRegistration: CN-TFC; Item: Integrated flight deck; Manufacturer: Garmin; Model / part number: G1000; Installed: 2013; Notes: Factory installed.",
+   "Airworthiness directives at Anfa: training deck for new mechanics\n5 Torque\nTorque\nMaintenance manual first AC 43.13-1B Table 7-1 when it gives no value Record the wrench number\nSpeaker notes: Read the notes printed with Table 7-1 before you use it: they limit when its values apply. If a value looks wrong, stop and ask; do not guess between two columns.",
+   "Airworthiness directives at Anfa: training deck for new mechanics\n2 Where directives come from\nWhere directives come from\nThe state of design issues them: the FAA for our Cessnas Published in the Federal Register Revisions and corrections follow\nSpeaker notes: Corrections are published as separate notices, sometimes weeks later. A correction can change the applicability or a compliance time. AD 2020-16-08 on the Aspen displays is an example: read the rule and its correction together.",
+   "Airworthiness directives at Anfa: training deck for new mechanics\n4 The engine oil pressure switch\nThe engine oil pressure switch\nP/N 83278, 3,000 hours Replace with a new, zero-time switch Record part number, date, and airframe hours\nSpeaker notes: The 50-hour allowance in paragraph (g)(6) of AD 2013-11-11 applied once, to switches that were already at or near the limit when the directive took effect on 1 August 2013. It is not a grace period you can use today. Our manual, section 3.2, applies the same 3,000-hour limit to every 172R and 172S we maintain.",
+   "AC 43.13-2B, Acceptable Methods, Techniques, and Practices: Aircraft Alterations\n1201 HAZARDS AND WARNINGS.\na. Structural failure may occur if aircraft floor loading limits are exceeded.\nb. Fire hazards may exist if materials do not meet flame resistant specifications.\nc. Exceeding manufacturer's weight and balance limitations create unsafe flight conditions.",
+   "Tadla Flight Academy fleet register, 26 October 2026\nSheet: Fleet\n| Registration | Model | Serial number | Year | Airframe total time (h) | Engine | Engine serial number | Engine time since overhaul (h) | Base | Notes |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| CN-TFA | 172S | 172S9488 | 2003 | 10140.6 | Lycoming IO-360-L2A | L-31456-51A | 1640.6 | Casablanca | Cessna SB04-28-03 and fuel return kit MK172-28-01 incorporated in 2005. |\n| CN-TFB | 172S | 172S10237 | 2006 | 8455.1 | Lycoming IO-360-L2A | L-33872-51A | 455.1 | Casablanca |  |\n| CN-TFC | 172S | 172S11290 | 2013 | 6210.3 | Lycoming IO-360-L2A | L-37115-51A | 2210.3 | Beni Mellal |  |\n| CN-TFD | 172R | 17281201 | 2003 | 11870.4 | Lycoming IO-360-L2A | L-31377-51A | 1370.4 | Casablanca |  |\n| CN-TFE | 172R | 17280744 | 1999 | 13520.8 | Lycoming IO-360-L2A | L-28940-51A | 1120.8 | Casablanca |  |\n| CN-TFF | 172S | 172S11845 | 2017 | 3980 | Lycoming IO-360-L2A | L-39552-51A | 3980 | Beni Mellal |  |\n| CN-TFG | 172N | 17272851 | 1978 | 14960.2 | Technify (Thielert) TAE 125-02-99 | 02-02-1173 | 610.2 | Beni Mellal | Converted from Lycoming O-320-H2AD under STC SA01303WI in 2011. |",
+   "Type Certificate Data Sheet 3A12, revision 89 (Textron Aviation 172 series)\nData Pertinent to Models 172 thru 172Q (cont'd)\nNOTE 2 (cont'd)\nSpin recovery: opposite rudder - forward elevator - neutralize controls.\nIntentional spins with flaps extended are prohibited. Flight into known icing conditions prohibited. This airplane is certified for the following flight operations as of date of original airworthiness certificate.\n\nModels 172M, 172N (Floatplane):\n(S/N 17265685 thru 17271034)",
+   "Airworthiness directives at Anfa: training deck for new mechanics\n6 Records\nRecords\n14 CFR 43.9 content in every entry AD compliance record for each aircraft Hours to one decimal place\nSpeaker notes: Check every number you copy. A swapped pair of digits in an installation time moves the next due time by 90 hours, and nobody notices until the records are audited.",
+   "AD 2007-05-10: Cessna Aircraft Company Models 172R, 172S, 182S, 182T, T182T, 206H, and T206H Airplanes\nComment Issue No. 4: Could the Seats Be Installed on Other Cessna Model Airplanes\nThe International Cessna 170 Association states a concern that the affected seats may be installed on other airplanes. Many operators of Cessna airplanes find seats of later models desirable due to features subsequently added by manufacturers, i.e., recline/ height-adjustment/mechanisms. The commenter also states that these seats usually have similar, if not identical, attachment to floor tracks and airframes; therefore, the possibility exists for installing the seats from the same manufacturer on other models of airplanes. These models may include Cessna 170, 170A, and 170B airplanes.\nThe commenter requests the applicability of the AD be specific to the crew seat model/part-number and not the airplane models.",
+   "FAA-H-8083-30A, Aviation Maintenance Technician Handbook: General, chapter 13 (mechanic privileges and limitations)\nFinal Observation\nA company culture of intimidation and distrust.\nMost of these conflicts could have easily occurred in the maintenance realm if the specifics are broadened, even a little.\nChange the word \"engineer\" to \"maintenance technician.\"\nInstead of brake failure during development testing, think of component test failure (with the shop norm of \"we don't follow the manual on this step; we have developed our own (unauthorized) procedure here.\")\nThe existence of a company culture of intimidation and distrust transcends all lines of business.\nFor a company to nurture a healthy ethical climate and longterm success, the element of trust is fundamental both inside and outside the organization. This trust boosts employee morale and usually boosts productivity and, therefore, profitability. It also aids and enhances long-term business relationships with customers and vendors.\nWhen differences of opinion do exist, ethical organizations pay close attention to those who are dissenting. Those companies that are committed to promoting an ethical climate encourage rather than punish dialogue and debate about policies and practices."
+  ]
+ },
+ "response": {
+  "model": "nvidia/nemotron-3.5-rerank-8b",
+  "results": [
+   {
+    "index": 0,
+    "relevance_score": 0.09690787622659847,
+    "document": {
+     "text": "Airworthiness directives at Anfa: training deck for new mechanics\n3 Check applicability before you sign\nCheck applicability before you sign\nModel and serial number range Installed equipment and part number Software version, modifications\nSpeaker notes: Two traps in our own fleet. CN-TFC is a 172S like CN-TFA and CN-TFB, but its serial number is above the range of AD 2013-11-11. CN-TFD has a KAP 140 autopilot, but its serial number is outside the range of the KAP 140 directives. Equipment alone is not enough, and serial numbers alone are not enough."
+    }
+   },
+   {
+    "index": 11,
+    "relevance_score": 0.04388056349852999,
+    "document": {
+     "text": "Airworthiness directives at Anfa: training deck for new mechanics\n6 Records\nRecords\n14 CFR 43.9 content in every entry AD compliance record for each aircraft Hours to one decimal place\nSpeaker notes: Check every number you copy. A swapped pair of digits in an installation time moves the next due time by 90 hours, and nobody notices until the records are audited."
+    }
+   },
+   {
+    "index": 7,
+    "relevance_score": 0.03848152111914328,
+    "document": {
+     "text": "Airworthiness directives at Anfa: training deck for new mechanics\n4 The engine oil pressure switch\nThe engine oil pressure switch\nP/N 83278, 3,000 hours Replace with a new, zero-time switch Record part number, date, and airframe hours\nSpeaker notes: The 50-hour allowance in paragraph (g)(6) of AD 2013-11-11 applied once, to switches that were already at or near the limit when the directive took effect on 1 August 2013. It is not a grace period you can use today. Our manual, section 3.2, applies the same 3,000-hour limit to every 172R and 172S we maintain."
+    }
+   },
+   {
+    "index": 5,
+    "relevance_score": 0.03838588517243284,
+    "document": {
+     "text": "Airworthiness directives at Anfa: training deck for new mechanics\n5 Torque\nTorque\nMaintenance manual first AC 43.13-1B Table 7-1 when it gives no value Record the wrench number\nSpeaker notes: Read the notes printed with Table 7-1 before you use it: they limit when its values apply. If a value looks wrong, stop and ask; do not guess between two columns."
+    }
+   },
+   {
+    "index": 1,
+    "relevance_score": 0.03693734930003194,
+    "document": {
+     "text": "Airworthiness directives at Anfa: training deck for new mechanics\n1 Airworthiness directives at Anfa\nAirworthiness directives at Anfa\nNew mechanics, first month Quality: Karim Bennani\nSpeaker notes: This deck is for mechanics in their first month. It covers how we decide whether a directive applies and how we record it. Ask the quality manager about anything it does not cover."
+    }
+   },
+   {
+    "index": 6,
+    "relevance_score": 0.032473930136218646,
+    "document": {
+     "text": "Airworthiness directives at Anfa: training deck for new mechanics\n2 Where directives come from\nWhere directives come from\nThe state of design issues them: the FAA for our Cessnas Published in the Federal Register Revisions and corrections follow\nSpeaker notes: Corrections are published as separate notices, sometimes weeks later. A correction can change the applicability or a compliance time. AD 2020-16-08 on the Aspen displays is an example: read the rule and its correction together."
+    }
+   },
+   {
+    "index": 9,
+    "relevance_score": 0.029905092949009268,
+    "document": {
+     "text": "Tadla Flight Academy fleet register, 26 October 2026\nSheet: Fleet\n| Registration | Model | Serial number | Year | Airframe total time (h) | Engine | Engine serial number | Engine time since overhaul (h) | Base | Notes |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| CN-TFA | 172S | 172S9488 | 2003 | 10140.6 | Lycoming IO-360-L2A | L-31456-51A | 1640.6 | Casablanca | Cessna SB04-28-03 and fuel return kit MK172-28-01 incorporated in 2005. |\n| CN-TFB | 172S | 172S10237 | 2006 | 8455.1 | Lycoming IO-360-L2A | L-33872-51A | 455.1 | Casablanca |  |\n| CN-TFC | 172S | 172S11290 | 2013 | 6210.3 | Lycoming IO-360-L2A | L-37115-51A | 2210.3 | Beni Mellal |  |\n| CN-TFD | 172R | 17281201 | 2003 | 11870.4 | Lycoming IO-360-L2A | L-31377-51A | 1370.4 | Casablanca |  |\n| CN-TFE | 172R | 17280744 | 1999 | 13520.8 | Lycoming IO-360-L2A | L-28940-51A | 1120.8 | Casablanca |  |\n| CN-TFF | 172S | 172S11845 | 2017 | 3980 | Lycoming IO-360-L2A | L-39552-51A | 3980 | Beni Mellal |  |\n| CN-TFG | 172N | 17272851 | 1978 | 14960.2 | Technify (Thielert) TAE 125-02-99 | 02-02-1173 | 610.2 | Beni Mellal | Converted from Lycoming O-320-H2AD under STC SA01303WI in 2011. |"
+    }
+   },
+   {
+    "index": 4,
+    "relevance_score": 0.027043682902649316,
+    "document": {
+     "text": "Tadla Flight Academy fleet register, 26 October 2026\nSheet: Equipment\nRegistration: CN-TFC; Item: Integrated flight deck; Manufacturer: Garmin; Model / part number: G1000; Installed: 2013; Notes: Factory installed."
+    }
+   },
+   {
+    "index": 2,
+    "relevance_score": 0.027036482033121798,
+    "document": {
+     "text": "Tadla Flight Academy fleet register, 26 October 2026\nSheet: Equipment\nRegistration: CN-TFB; Item: Integrated flight deck; Manufacturer: Garmin; Model / part number: G1000; Installed: 2006; Notes: Factory installed."
+    }
+   },
+   {
+    "index": 3,
+    "relevance_score": 0.02633660766764989,
+    "document": {
+     "text": "Tadla Flight Academy fleet register, 26 October 2026\nSheet: Equipment\nRegistration: CN-TFF; Item: Integrated flight deck; Manufacturer: Garmin; Model / part number: G1000 NXi; Installed: 2017; Notes: Factory installed."
+    }
+   },
+   {
+    "index": 13,
+    "relevance_score": 0.021078853082841256,
+    "document": {
+     "text": "FAA-H-8083-30A, Aviation Maintenance Technician Handbook: General, chapter 13 (mechanic privileges and limitations)\nFinal Observation\nA company culture of intimidation and distrust.\nMost of these conflicts could have easily occurred in the maintenance realm if the specifics are broadened, even a little.\nChange the word \"engineer\" to \"maintenance technician.\"\nInstead of brake failure during development testing, think of component test failure (with the shop norm of \"we don't follow the manual on this step; we have developed our own (unauthorized) procedure here.\")\nThe existence of a company culture of intimidation and distrust transcends all lines of business.\nFor a company to nurture a healthy ethical climate and longterm success, the element of trust is fundamental both inside and outside the organization. This trust boosts employee morale and usually boosts productivity and, therefore, profitability. It also aids and enhances long-term business relationships with customers and vendors.\nWhen differences of opinion do exist, ethical organizations pay close attention to those who are dissenting. Those companies that are committed to promoting an ethical climate encourage rather than punish dialogue and debate about policies and practices."
+    }
+   },
+   {
+    "index": 8,
+    "relevance_score": 0.019160233549573955,
+    "document": {
+     "text": "AC 43.13-2B, Acceptable Methods, Techniques, and Practices: Aircraft Alterations\n1201 HAZARDS AND WARNINGS.\na. Structural failure may occur if aircraft floor loading limits are exceeded.\nb. Fire hazards may exist if materials do not meet flame resistant specifications.\nc. Exceeding manufacturer's weight and balance limitations create unsafe flight conditions."
+    }
+   },
+   {
+    "index": 10,
+    "relevance_score": 0.01677338287690816,
+    "document": {
+     "text": "Type Certificate Data Sheet 3A12, revision 89 (Textron Aviation 172 series)\nData Pertinent to Models 172 thru 172Q (cont'd)\nNOTE 2 (cont'd)\nSpin recovery: opposite rudder - forward elevator - neutralize controls.\nIntentional spins with flaps extended are prohibited. Flight into known icing conditions prohibited. This airplane is certified for the following flight operations as of date of original airworthiness certificate.\n\nModels 172M, 172N (Floatplane):\n(S/N 17265685 thru 17271034)"
+    }
+   },
+   {
+    "index": 12,
+    "relevance_score": 0.016716581471939246,
+    "document": {
+     "text": "AD 2007-05-10: Cessna Aircraft Company Models 172R, 172S, 182S, 182T, T182T, 206H, and T206H Airplanes\nComment Issue No. 4: Could the Seats Be Installed on Other Cessna Model Airplanes\nThe International Cessna 170 Association states a concern that the affected seats may be installed on other airplanes. Many operators of Cessna airplanes find seats of later models desirable due to features subsequently added by manufacturers, i.e., recline/ height-adjustment/mechanisms. The commenter also states that these seats usually have similar, if not identical, attachment to floor tracks and airframes; therefore, the possibility exists for installing the seats from the same manufacturer on other models of airplanes. These models may include Cessna 170, 170A, and 170B airplanes.\nThe commenter requests the applicability of the AD be specific to the crew seat model/part-number and not the airplane models."
+    }
+   }
+  ],
+  "usage": {
+   "total_tokens": 2475,
+   "cost": 0
+  },
+  "provider": "Nvidia",
+  "id": "gen-rerank-1793459209-DYikiaduPLJrNZV7hm0h"
+ }
+}

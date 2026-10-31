@@ -1,0 +1,243 @@
+{
+ "request": {
+  "model": "nvidia/nemotron-3.5-rerank-8b:free",
+  "query": "Can we still use the 50-hour allowance in AD 2013-11-11 when a switch reaches 3,000 hours?",
+  "documents": [
+   "AD 2013-11-11: Cessna Aircraft Company Airplanes\nAuthority for This Rulemaking\n04-01 applies to the specified products. The SNPRM published in the Federal Register on March 7, 2013 (78 FR 14726). The NPRM (77 FR 60062, October 2, 2012) proposed to increase the applicability of the AD and place a life-limit of 3,000 hours time-in-service (TIS) on the engine oil pressure switch, requiring replacement when the engine oil pressure switch reaches its life limit. The SNPRM proposed to change the applicable serial numbers ranges and place a life-limit of 3,000 hours TIS on the engine oil pressure switch, requiring replacement when the engine oil pressure switch reaches its life limit.",
+   "AD 2013-11-11: Cessna Aircraft Company Airplanes\n(g) Actions\nIf after the inspection required in paragraph (g)(1) of this AD it is confirmed that P/N 83278 engine oil pressure switch is installed, through inspection of the airplane or engine logbooks determine the TIS of the engine oil pressure switch.\nIf after the inspection required in paragraph (g)(1) of this AD you cannot positively identify the hours TIS on the P/N 83278 engine oil pressure switch, before further flight, replace the engine oil pressure switch with a new, zero time, P/N 83278 engine oil pressure switch. Record the engine oil pressure switch part number, date, and airplane hours in the airplane log book. The recorded engine oil pressure switch TIS will be used as the benchmark for calculation of the 3,000 hour TIS limit on the engine oil pressure switch.\n(6) When the engine oil pressure switch is at or greater than 3,000 hours TIS or within 50 hours TIS after August 1, 2013 (the effective date of this AD), whichever occurs later, and repetitively thereafter at intervals not to exceed 3,000 hours TIS on the P/N",
+   "AD 2013-11-11: Cessna Aircraft Company Airplanes\nAirworthiness Directives; Cessna Aircraft Company Airplanes\nAGENCY: Federal Aviation\nAdministration (FAA), DOT.\nACTION: Final rule.\nSUMMARY: We are superseding AD 2000-04-01 that applies to certain Cessna Aircraft Company (Cessna) Models 172R, 172S, 182S, 182T, T182T, 206H, and T206H airplanes. AD 2000-04-01 currently requires an inspection of the engine oil pressure switch and, if applicable, replacement of the engine oil pressure switch. This AD increases the applicability of the AD, places a lifelimit of 3,000 hours time-in-service on the engine oil pressure switch, and requires replacement when the engine oil pressure switch reaches its life limit. This AD was prompted by new reports of internal failure of the engine oil pressure switch, which could result in complete loss of engine oil with consequent partial or complete loss of engine power or fire. We are issuing this AD to correct the unsafe condition on these products.\nDATES: This AD is effective August 1, 2013.\nThe Director of the Federal Register approved the incorporation by reference of certain publications listed in the AD as of August 1, 2013.",
+   "AD 2013-11-11: Cessna Aircraft Company Airplanes\n(e) Unsafe Condition\nThis AD was prompted by new reports of internal failure of the improved engine oil pressure switch, which could result in complete loss of engine oil with consequent partial or complete loss of engine power or fire. We are issuing this AD to increase the applicability of the AD and place a life-limit of 3,000 hours time-in-service (TIS) on the engine oil pressure switch, requiring replacement when the engine oil pressure switch reaches its life limit.",
+   "AD 2013-11-11: Cessna Aircraft Company Airplanes\n(g) Actions\n83278 engine oil pressure switch, replace it with a new, zero time, P/N 83278 engine oil pressure switch. Record the engine oil pressure switch part number, date, and airplane hours in the airplane log book. The recorded engine oil pressure switch TIS will be used as the benchmark for calculation of the 3,000 hour TIS limit on the engine oil pressure switch.",
+   "AD 2013-11-11: Cessna Aircraft Company Airplanes\n(g) Actions\nAt the next scheduled oil change, annual inspection, or 100-hour time-inservice (TIS) inspection after August 1, 2013 (the effective date of this AD), whichever occurs later, but in no case later than 12 months after August 1, 2013 (the effective date of this AD), inspect the engine oil pressure switch to determine if it is partnumber (P/N) 77041 or P/N 83278.\nIf after the inspection required in paragraph (g)(1) of this AD, P/N 77041 engine oil pressure switch is installed, before further flight, replace the engine oil pressure switch with a new, zero time, P/N 83278 engine oil pressure switch. Record the engine oil pressure switch part number, date, and airplane hours TIS in the airplane log book. The recorded engine oil pressure switch TIS will be used as the benchmark for calculation of the 3,000 hour TIS limit on the engine oil pressure switch.\nAfter August 1, 2013 (the effective date of this AD), do not install a P/N 77041 engine oil pressure switch on any affected airplane.",
+   "AD 2013-11-11: Cessna Aircraft Company Airplanes\nESTIMATED COSTS\n| Action | Labor cost | Parts cost | Cost per product | Cost on U.S. operators |\n| --- | --- | --- | --- | --- |\n| Inspection of the airplane or engine records ... | .5 work-hour \u00d7 $85 per hour = $42.50. | Not applicable .................. | $42.50 | $261,630 |\n| Inspection of the engine oil pressure switch installation. | .5 work-hour \u00d7 $85 per hour = $42.50. | Not applicable .................. | 42.50 | 261,630 |\n| Removal and replacement of the engine oil pressure switch and logbook entry. | .5 work-hour \u00d7 $85 per hour = $42.50. | $54 ................................... | 96.50 | 594,054 |",
+   "AD 2013-11-11: Cessna Aircraft Company Airplanes\n\u00a739.13 [Amended]\n\u25a0 2. The FAA amends \u00a739.13 by removing airworthiness directive AD 2000-04-01, amendment 39-11583 (65 FR 8649, February 22, 2000), and adding the following new AD:\nCessna Aircraft Company: 2013-11-11: Amendment 39-17471; Docket No. FAA2012-1052; Directorate Identifier 2012-CE014-AD.",
+   "AD 2013-11-11: Cessna Aircraft Company Airplanes\n(b) Affected ADs\nThis AD supersedes AD 2000-04-01, Amendment 39-11583 (65 FR 8649, February 22, 2000).",
+   "AD 2013-11-11: Cessna Aircraft Company Airplanes\nDiscussion\nWe issued a supplemental notice of proposed rulemaking (SNPRM) to amend 14 CFR part 39 to supersede AD 2000-04-01, amendment 39-11583 (65 FR 8649, February 22, 2000). AD 2000-",
+   "AD 2013-11-11: Cessna Aircraft Company Airplanes\nExamining the AD Docket\nYou may examine the AD docket on the Internet at http:// www.regulations.gov; or in person at the Docket Management Facility between 9 a.m. and 5 p.m., Monday through Friday, except Federal holidays. The AD docket contains this AD, the regulatory evaluation, any comments received, and other information. The address for the Docket Office (phone: 800-647-5527) is Document Management Facility, U.S. Department of Transportation, Docket Operations, M-30, West Building Ground Floor, Room W12-140, 1200 New Jersey Avenue SE., Washington, DC 20590.\nFOR FURTHER INFORMATION CONTACT: Jeff Janusz, Sr. Propulsion Engineer, Wichita Aircraft Certification Office, FAA, 1801 Airport Road, Wichita, KS 67209; phone: (316) 946-4148; fax: (316) 9464107; email: jeff.janusz@faa.gov.",
+   "AD 2013-11-11: Cessna Aircraft Company Airplanes\nPART 39-AIRWORTHINESS DIRECTIVES\n\u25a0 1. The authority citation for part 39 continues to read as follows:\nAuthority: 49 U.S.C. 106(g), 40113, 44701.",
+   "AD 2013-11-11: Cessna Aircraft Company Airplanes\nAirworthiness Directives; Cessna Aircraft Company Airplanes\nADDRESSES: For service information identified in this AD, contact Cessna Aircraft Company, Product Support, P.O. Box 7706, Wichita, Kansas 67277; telephone: (316) 517-5800; fax (316) 942-9006; Internet: www.cessna.com/ customer-service/technicalpublications.html. You may review copies of the referenced service information at the FAA, Small Airplane Directorate, 901 Locust, Kansas City, Missouri 64106. For information on the availability of this material at the FAA, call (816) 329-4148.",
+   "AD 2013-11-11: Cessna Aircraft Company Airplanes\n(c) Applicability\nThis AD applies to Cessna Aircraft Company Models 172R, serial numbers (S/N) 17280001 through 17281618; 172S, S/N 172S8001 through 172S11256; 182S, S/N 18280001 through 18280944; 182T, S/N 18280945 through 18282357; T182T, S/N T18208001 through T18209089; 206H, S/N 20608001 through 20608349; and T206H, S/\nN T20608001 through T20609079; certificated in any category.",
+   "AD 2013-11-11: Cessna Aircraft Company Airplanes\n(f) Compliance\nComply with this AD within the compliance times specified, following Cessna Service Bulletin SB 07-79-01, dated January 29, 2007, unless already done.",
+   "AD 2013-11-11: Cessna Aircraft Company Airplanes\n14 CFR Part 39\n[Docket No. FAA-2012-1052; Directorate Identifier 2012-CE-014-AD; Amendment 39-17471; AD 2013-11-11]\nRIN 2120-AA64",
+   "AD 2013-11-11: Cessna Aircraft Company Airplanes\n(i) Related Information\n(1) For more information about this AD, contact Jeff Janusz, Sr. Propulsion Engineer, Wichita ACO, FAA, 1801 Airport Road, Wichita, KS 67209 phone: (316) 946-4148; fax: (316) 946-4107; email: jeff.janusz@faa.gov.",
+   "AD 2013-11-11: Cessna Aircraft Company Airplanes\nComments\nWe gave the public the opportunity to participate in developing this AD. We received no comments on the SNPRM (78 FR 14726, March 7, 2013) or on the determination of the cost to the public.",
+   "AD 2013-11-11: Cessna Aircraft Company Airplanes\nCosts of Compliance\nWe estimate that this AD affects 6,156 airplanes of U.S. registry.\nWe estimate the following costs to comply with this AD:",
+   "AD 2013-11-11: Cessna Aircraft Company Airplanes\nAdoption of the Amendment\nAccordingly, under the authority delegated to me by the Administrator, the FAA amends 14 CFR part 39 as follows:",
+   "Airworthiness directives at Anfa: training deck for new mechanics\n4 The engine oil pressure switch\nThe engine oil pressure switch\nP/N 83278, 3,000 hours Replace with a new, zero-time switch Record part number, date, and airframe hours\nSpeaker notes: The 50-hour allowance in paragraph (g)(6) of AD 2013-11-11 applied once, to switches that were already at or near the limit when the directive took effect on 1 August 2013. It is not a grace period you can use today. Our manual, section 3.2, applies the same 3,000-hour limit to every 172R and 172S we maintain.",
+   "CN-TFA AD compliance record, 26 October 2026\nSheet: AD compliance record\nAD number: 2013-11-11; Effective: 2013-08-01; Subject: Engine oil pressure switch, 3,000-hour limit; Applies: Yes; Notes: Serial number in range.; Method of compliance: Replaced with new, zero-time P/N 83278 switch.; Date: 2024-02-14; Airframe hours: 7,210.4; Recurring: Every 3,000 h; Next due: 10,210.4 h; Signed: K. Bennani",
+   "CN-TFC AD compliance record, 26 October 2026\nSheet: AD compliance record\nAD number: 2013-11-11; Effective: 2013-08-01; Subject: Engine oil pressure switch, 3,000-hour limit; Applies: Yes; Notes: Oil pressure switch P/N 83278 installed.; Method of compliance: Replaced with new, zero-time P/N 83278 switch.; Date: 2022-11-21; Airframe hours: 3,350.7; Recurring: Every 3,000 h; Next due: 6,350.7 h; Signed: K. Bennani",
+   "CN-TFB AD compliance record, 26 October 2026\nSheet: AD compliance record\nAD number: 2013-11-11; Effective: 2013-08-01; Subject: Engine oil pressure switch, 3,000-hour limit; Applies: Yes; Notes: Serial number in range.; Method of compliance: Replaced with new, zero-time P/N 83278 switch.; Date: 2023-05-09; Airframe hours: 5,880.0; Recurring: Every 3,000 h; Next due: 8,880.0 h; Signed: K. Bennani",
+   "Procedures manual, revision 7 (excerpt)\n3 Life-limited and time-controlled parts\n3.1 Tracking. Time-controlled parts are listed in the fleet register, sheet Time-controlled parts, with the airframe hours at installation. The hours used on a part are the airframe's current total time minus the airframe hours at installation.\n3.2 Engine oil pressure switch. AD 2013-11-11 limits the engine oil pressure switch, P/N 83278, to 3,000 hours time-in-service on the airplanes within its applicability. Anfa applies the same 3,000-hour limit to every Cessna 172R and 172S it maintains, including those outside the directive's serial number ranges. Plan the replacement when a switch reaches 2,900 hours. Keep two switches in stock.\n3.3 When the records disagree. If the fleet register and a work order or logbook give different hours for the same installation, use the lower airframe hours at installation until the quality manager has resolved the difference. Never use the figure that gives the part more time.",
+   "CN-TFD AD compliance record, 26 October 2026\nSheet: AD compliance record\nAD number: 2013-11-11; Effective: 2013-08-01; Subject: Engine oil pressure switch, 3,000-hour limit; Applies: Yes; Notes: Serial number in range.; Method of compliance: Replaced with new, zero-time P/N 83278 switch.; Date: 2025-03-03; Airframe hours: 9,940.2; Recurring: Every 3,000 h; Next due: 12,940.2 h; Signed: K. Bennani",
+   "CN-TFE AD compliance record, 26 October 2026\nSheet: AD compliance record\nAD number: 2013-11-11; Effective: 2013-08-01; Subject: Engine oil pressure switch, 3,000-hour limit; Applies: Yes; Notes: Serial number in range.; Method of compliance: Replaced with new, zero-time P/N 83278 switch.; Date: 2021-08-30; Airframe hours: 10,650.2; Recurring: Every 3,000 h; Next due: 13,650.2 h; Signed: K. Bennani",
+   "Tadla Flight Academy fleet register, 26 October 2026\nSheet: Time-controlled parts\n| Registration | Part | Part number | Serial number | Installed (date) | Airframe hours at installation | Limit | Source of limit |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n| CN-TFA | Engine oil pressure switch | 83278 |  | 2024-02-14 | 7210.4 | 3,000 h | AD 2013-11-11 |\n| CN-TFB | Engine oil pressure switch | 83278 |  | 2023-05-09 | 5880 | 3,000 h | AD 2013-11-11 |\n| CN-TFC | Engine oil pressure switch | 83278 |  | 2022-11-21 | 3350.7 | 3,000 h | Procedures manual 3.2 |\n| CN-TFD | Engine oil pressure switch | 83278 |  | 2025-03-03 | 9940.2 | 3,000 h | AD 2013-11-11 |\n| CN-TFE | Engine oil pressure switch | 83278 |  | 2021-08-30 | 10560.2 | 3,000 h | AD 2013-11-11 |\n| CN-TFF | Engine oil pressure switch | 83278 |  | 2022-07-18 | 2410.5 | 3,000 h | Procedures manual 3.2 |\n| CN-TFA | ELT battery | 452-6505 |  | 2021-01-19 | 4755.3 | 6 years | ELT manufacturer |\n| CN-TFE | ELT battery | 452-6505 |  | 2020-11-25 | 9810 | 6 years | ELT manufacturer |"
+  ]
+ },
+ "response": {
+  "model": "nvidia/nemotron-3.5-rerank-8b",
+  "results": [
+   {
+    "index": 20,
+    "relevance_score": 0.13994694521070053,
+    "document": {
+     "text": "Airworthiness directives at Anfa: training deck for new mechanics\n4 The engine oil pressure switch\nThe engine oil pressure switch\nP/N 83278, 3,000 hours Replace with a new, zero-time switch Record part number, date, and airframe hours\nSpeaker notes: The 50-hour allowance in paragraph (g)(6) of AD 2013-11-11 applied once, to switches that were already at or near the limit when the directive took effect on 1 August 2013. It is not a grace period you can use today. Our manual, section 3.2, applies the same 3,000-hour limit to every 172R and 172S we maintain."
+    }
+   },
+   {
+    "index": 1,
+    "relevance_score": 0.0964448157256993,
+    "document": {
+     "text": "AD 2013-11-11: Cessna Aircraft Company Airplanes\n(g) Actions\nIf after the inspection required in paragraph (g)(1) of this AD it is confirmed that P/N 83278 engine oil pressure switch is installed, through inspection of the airplane or engine logbooks determine the TIS of the engine oil pressure switch.\nIf after the inspection required in paragraph (g)(1) of this AD you cannot positively identify the hours TIS on the P/N 83278 engine oil pressure switch, before further flight, replace the engine oil pressure switch with a new, zero time, P/N 83278 engine oil pressure switch. Record the engine oil pressure switch part number, date, and airplane hours in the airplane log book. The recorded engine oil pressure switch TIS will be used as the benchmark for calculation of the 3,000 hour TIS limit on the engine oil pressure switch.\n(6) When the engine oil pressure switch is at or greater than 3,000 hours TIS or within 50 hours TIS after August 1, 2013 (the effective date of this AD), whichever occurs later, and repetitively thereafter at intervals not to exceed 3,000 hours TIS on the P/N"
+    }
+   },
+   {
+    "index": 3,
+    "relevance_score": 0.07903316927021148,
+    "document": {
+     "text": "AD 2013-11-11: Cessna Aircraft Company Airplanes\n(e) Unsafe Condition\nThis AD was prompted by new reports of internal failure of the improved engine oil pressure switch, which could result in complete loss of engine oil with consequent partial or complete loss of engine power or fire. We are issuing this AD to increase the applicability of the AD and place a life-limit of 3,000 hours time-in-service (TIS) on the engine oil pressure switch, requiring replacement when the engine oil pressure switch reaches its life limit."
+    }
+   },
+   {
+    "index": 0,
+    "relevance_score": 0.0741164340388068,
+    "document": {
+     "text": "AD 2013-11-11: Cessna Aircraft Company Airplanes\nAuthority for This Rulemaking\n04-01 applies to the specified products. The SNPRM published in the Federal Register on March 7, 2013 (78 FR 14726). The NPRM (77 FR 60062, October 2, 2012) proposed to increase the applicability of the AD and place a life-limit of 3,000 hours time-in-service (TIS) on the engine oil pressure switch, requiring replacement when the engine oil pressure switch reaches its life limit. The SNPRM proposed to change the applicable serial numbers ranges and place a life-limit of 3,000 hours TIS on the engine oil pressure switch, requiring replacement when the engine oil pressure switch reaches its life limit."
+    }
+   },
+   {
+    "index": 4,
+    "relevance_score": 0.06976100418522033,
+    "document": {
+     "text": "AD 2013-11-11: Cessna Aircraft Company Airplanes\n(g) Actions\n83278 engine oil pressure switch, replace it with a new, zero time, P/N 83278 engine oil pressure switch. Record the engine oil pressure switch part number, date, and airplane hours in the airplane log book. The recorded engine oil pressure switch TIS will be used as the benchmark for calculation of the 3,000 hour TIS limit on the engine oil pressure switch."
+    }
+   },
+   {
+    "index": 24,
+    "relevance_score": 0.06782320455365425,
+    "document": {
+     "text": "Procedures manual, revision 7 (excerpt)\n3 Life-limited and time-controlled parts\n3.1 Tracking. Time-controlled parts are listed in the fleet register, sheet Time-controlled parts, with the airframe hours at installation. The hours used on a part are the airframe's current total time minus the airframe hours at installation.\n3.2 Engine oil pressure switch. AD 2013-11-11 limits the engine oil pressure switch, P/N 83278, to 3,000 hours time-in-service on the airplanes within its applicability. Anfa applies the same 3,000-hour limit to every Cessna 172R and 172S it maintains, including those outside the directive's serial number ranges. Plan the replacement when a switch reaches 2,900 hours. Keep two switches in stock.\n3.3 When the records disagree. If the fleet register and a work order or logbook give different hours for the same installation, use the lower airframe hours at installation until the quality manager has resolved the difference. Never use the figure that gives the part more time."
+    }
+   },
+   {
+    "index": 5,
+    "relevance_score": 0.06645875580088448,
+    "document": {
+     "text": "AD 2013-11-11: Cessna Aircraft Company Airplanes\n(g) Actions\nAt the next scheduled oil change, annual inspection, or 100-hour time-inservice (TIS) inspection after August 1, 2013 (the effective date of this AD), whichever occurs later, but in no case later than 12 months after August 1, 2013 (the effective date of this AD), inspect the engine oil pressure switch to determine if it is partnumber (P/N) 77041 or P/N 83278.\nIf after the inspection required in paragraph (g)(1) of this AD, P/N 77041 engine oil pressure switch is installed, before further flight, replace the engine oil pressure switch with a new, zero time, P/N 83278 engine oil pressure switch. Record the engine oil pressure switch part number, date, and airplane hours TIS in the airplane log book. The recorded engine oil pressure switch TIS will be used as the benchmark for calculation of the 3,000 hour TIS limit on the engine oil pressure switch.\nAfter August 1, 2013 (the effective date of this AD), do not install a P/N 77041 engine oil pressure switch on any affected airplane."
+    }
+   },
+   {
+    "index": 23,
+    "relevance_score": 0.06568140447045605,
+    "document": {
+     "text": "CN-TFB AD compliance record, 26 October 2026\nSheet: AD compliance record\nAD number: 2013-11-11; Effective: 2013-08-01; Subject: Engine oil pressure switch, 3,000-hour limit; Applies: Yes; Notes: Serial number in range.; Method of compliance: Replaced with new, zero-time P/N 83278 switch.; Date: 2023-05-09; Airframe hours: 5,880.0; Recurring: Every 3,000 h; Next due: 8,880.0 h; Signed: K. Bennani"
+    }
+   },
+   {
+    "index": 2,
+    "relevance_score": 0.06530166877114099,
+    "document": {
+     "text": "AD 2013-11-11: Cessna Aircraft Company Airplanes\nAirworthiness Directives; Cessna Aircraft Company Airplanes\nAGENCY: Federal Aviation\nAdministration (FAA), DOT.\nACTION: Final rule.\nSUMMARY: We are superseding AD 2000-04-01 that applies to certain Cessna Aircraft Company (Cessna) Models 172R, 172S, 182S, 182T, T182T, 206H, and T206H airplanes. AD 2000-04-01 currently requires an inspection of the engine oil pressure switch and, if applicable, replacement of the engine oil pressure switch. This AD increases the applicability of the AD, places a lifelimit of 3,000 hours time-in-service on the engine oil pressure switch, and requires replacement when the engine oil pressure switch reaches its life limit. This AD was prompted by new reports of internal failure of the engine oil pressure switch, which could result in complete loss of engine oil with consequent partial or complete loss of engine power or fire. We are issuing this AD to correct the unsafe condition on these products.\nDATES: This AD is effective August 1, 2013.\nThe Director of the Federal Register approved the incorporation by reference of certain publications listed in the AD as of August 1, 2013."
+    }
+   },
+   {
+    "index": 22,
+    "relevance_score": 0.06451728562241751,
+    "document": {
+     "text": "CN-TFC AD compliance record, 26 October 2026\nSheet: AD compliance record\nAD number: 2013-11-11; Effective: 2013-08-01; Subject: Engine oil pressure switch, 3,000-hour limit; Applies: Yes; Notes: Oil pressure switch P/N 83278 installed.; Method of compliance: Replaced with new, zero-time P/N 83278 switch.; Date: 2022-11-21; Airframe hours: 3,350.7; Recurring: Every 3,000 h; Next due: 6,350.7 h; Signed: K. Bennani"
+    }
+   },
+   {
+    "index": 21,
+    "relevance_score": 0.06431313801482398,
+    "document": {
+     "text": "CN-TFA AD compliance record, 26 October 2026\nSheet: AD compliance record\nAD number: 2013-11-11; Effective: 2013-08-01; Subject: Engine oil pressure switch, 3,000-hour limit; Applies: Yes; Notes: Serial number in range.; Method of compliance: Replaced with new, zero-time P/N 83278 switch.; Date: 2024-02-14; Airframe hours: 7,210.4; Recurring: Every 3,000 h; Next due: 10,210.4 h; Signed: K. Bennani"
+    }
+   },
+   {
+    "index": 25,
+    "relevance_score": 0.06421755075126852,
+    "document": {
+     "text": "CN-TFD AD compliance record, 26 October 2026\nSheet: AD compliance record\nAD number: 2013-11-11; Effective: 2013-08-01; Subject: Engine oil pressure switch, 3,000-hour limit; Applies: Yes; Notes: Serial number in range.; Method of compliance: Replaced with new, zero-time P/N 83278 switch.; Date: 2025-03-03; Airframe hours: 9,940.2; Recurring: Every 3,000 h; Next due: 12,940.2 h; Signed: K. Bennani"
+    }
+   },
+   {
+    "index": 26,
+    "relevance_score": 0.06412515771707883,
+    "document": {
+     "text": "CN-TFE AD compliance record, 26 October 2026\nSheet: AD compliance record\nAD number: 2013-11-11; Effective: 2013-08-01; Subject: Engine oil pressure switch, 3,000-hour limit; Applies: Yes; Notes: Serial number in range.; Method of compliance: Replaced with new, zero-time P/N 83278 switch.; Date: 2021-08-30; Airframe hours: 10,650.2; Recurring: Every 3,000 h; Next due: 13,650.2 h; Signed: K. Bennani"
+    }
+   },
+   {
+    "index": 8,
+    "relevance_score": 0.05166842846561783,
+    "document": {
+     "text": "AD 2013-11-11: Cessna Aircraft Company Airplanes\n(b) Affected ADs\nThis AD supersedes AD 2000-04-01, Amendment 39-11583 (65 FR 8649, February 22, 2000)."
+    }
+   },
+   {
+    "index": 9,
+    "relevance_score": 0.05000515520321001,
+    "document": {
+     "text": "AD 2013-11-11: Cessna Aircraft Company Airplanes\nDiscussion\nWe issued a supplemental notice of proposed rulemaking (SNPRM) to amend 14 CFR part 39 to supersede AD 2000-04-01, amendment 39-11583 (65 FR 8649, February 22, 2000). AD 2000-"
+    }
+   },
+   {
+    "index": 14,
+    "relevance_score": 0.04877649730907216,
+    "document": {
+     "text": "AD 2013-11-11: Cessna Aircraft Company Airplanes\n(f) Compliance\nComply with this AD within the compliance times specified, following Cessna Service Bulletin SB 07-79-01, dated January 29, 2007, unless already done."
+    }
+   },
+   {
+    "index": 15,
+    "relevance_score": 0.04849741147078579,
+    "document": {
+     "text": "AD 2013-11-11: Cessna Aircraft Company Airplanes\n14 CFR Part 39\n[Docket No. FAA-2012-1052; Directorate Identifier 2012-CE-014-AD; Amendment 39-17471; AD 2013-11-11]\nRIN 2120-AA64"
+    }
+   },
+   {
+    "index": 12,
+    "relevance_score": 0.047714103456872346,
+    "document": {
+     "text": "AD 2013-11-11: Cessna Aircraft Company Airplanes\nAirworthiness Directives; Cessna Aircraft Company Airplanes\nADDRESSES: For service information identified in this AD, contact Cessna Aircraft Company, Product Support, P.O. Box 7706, Wichita, Kansas 67277; telephone: (316) 517-5800; fax (316) 942-9006; Internet: www.cessna.com/ customer-service/technicalpublications.html. You may review copies of the referenced service information at the FAA, Small Airplane Directorate, 901 Locust, Kansas City, Missouri 64106. For information on the availability of this material at the FAA, call (816) 329-4148."
+    }
+   },
+   {
+    "index": 17,
+    "relevance_score": 0.04768575031072743,
+    "document": {
+     "text": "AD 2013-11-11: Cessna Aircraft Company Airplanes\nComments\nWe gave the public the opportunity to participate in developing this AD. We received no comments on the SNPRM (78 FR 14726, March 7, 2013) or on the determination of the cost to the public."
+    }
+   },
+   {
+    "index": 13,
+    "relevance_score": 0.04758517074084889,
+    "document": {
+     "text": "AD 2013-11-11: Cessna Aircraft Company Airplanes\n(c) Applicability\nThis AD applies to Cessna Aircraft Company Models 172R, serial numbers (S/N) 17280001 through 17281618; 172S, S/N 172S8001 through 172S11256; 182S, S/N 18280001 through 18280944; 182T, S/N 18280945 through 18282357; T182T, S/N T18208001 through T18209089; 206H, S/N 20608001 through 20608349; and T206H, S/\nN T20608001 through T20609079; certificated in any category."
+    }
+   },
+   {
+    "index": 16,
+    "relevance_score": 0.04739614342884238,
+    "document": {
+     "text": "AD 2013-11-11: Cessna Aircraft Company Airplanes\n(i) Related Information\n(1) For more information about this AD, contact Jeff Janusz, Sr. Propulsion Engineer, Wichita ACO, FAA, 1801 Airport Road, Wichita, KS 67209 phone: (316) 946-4148; fax: (316) 946-4107; email: jeff.janusz@faa.gov."
+    }
+   },
+   {
+    "index": 7,
+    "relevance_score": 0.04725749548591748,
+    "document": {
+     "text": "AD 2013-11-11: Cessna Aircraft Company Airplanes\n\u00a739.13 [Amended]\n\u25a0 2. The FAA amends \u00a739.13 by removing airworthiness directive AD 2000-04-01, amendment 39-11583 (65 FR 8649, February 22, 2000), and adding the following new AD:\nCessna Aircraft Company: 2013-11-11: Amendment 39-17471; Docket No. FAA2012-1052; Directorate Identifier 2012-CE014-AD."
+    }
+   },
+   {
+    "index": 19,
+    "relevance_score": 0.046628351858878626,
+    "document": {
+     "text": "AD 2013-11-11: Cessna Aircraft Company Airplanes\nAdoption of the Amendment\nAccordingly, under the authority delegated to me by the Administrator, the FAA amends 14 CFR part 39 as follows:"
+    }
+   },
+   {
+    "index": 11,
+    "relevance_score": 0.04649570879218696,
+    "document": {
+     "text": "AD 2013-11-11: Cessna Aircraft Company Airplanes\nPART 39-AIRWORTHINESS DIRECTIVES\n\u25a0 1. The authority citation for part 39 continues to read as follows:\nAuthority: 49 U.S.C. 106(g), 40113, 44701."
+    }
+   },
+   {
+    "index": 27,
+    "relevance_score": 0.0463867478710185,
+    "document": {
+     "text": "Tadla Flight Academy fleet register, 26 October 2026\nSheet: Time-controlled parts\n| Registration | Part | Part number | Serial number | Installed (date) | Airframe hours at installation | Limit | Source of limit |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n| CN-TFA | Engine oil pressure switch | 83278 |  | 2024-02-14 | 7210.4 | 3,000 h | AD 2013-11-11 |\n| CN-TFB | Engine oil pressure switch | 83278 |  | 2023-05-09 | 5880 | 3,000 h | AD 2013-11-11 |\n| CN-TFC | Engine oil pressure switch | 83278 |  | 2022-11-21 | 3350.7 | 3,000 h | Procedures manual 3.2 |\n| CN-TFD | Engine oil pressure switch | 83278 |  | 2025-03-03 | 9940.2 | 3,000 h | AD 2013-11-11 |\n| CN-TFE | Engine oil pressure switch | 83278 |  | 2021-08-30 | 10560.2 | 3,000 h | AD 2013-11-11 |\n| CN-TFF | Engine oil pressure switch | 83278 |  | 2022-07-18 | 2410.5 | 3,000 h | Procedures manual 3.2 |\n| CN-TFA | ELT battery | 452-6505 |  | 2021-01-19 | 4755.3 | 6 years | ELT manufacturer |\n| CN-TFE | ELT battery | 452-6505 |  | 2020-11-25 | 9810 | 6 years | ELT manufacturer |"
+    }
+   },
+   {
+    "index": 6,
+    "relevance_score": 0.044950247025145836,
+    "document": {
+     "text": "AD 2013-11-11: Cessna Aircraft Company Airplanes\nESTIMATED COSTS\n| Action | Labor cost | Parts cost | Cost per product | Cost on U.S. operators |\n| --- | --- | --- | --- | --- |\n| Inspection of the airplane or engine records ... | .5 work-hour \u00d7 $85 per hour = $42.50. | Not applicable .................. | $42.50 | $261,630 |\n| Inspection of the engine oil pressure switch installation. | .5 work-hour \u00d7 $85 per hour = $42.50. | Not applicable .................. | 42.50 | 261,630 |\n| Removal and replacement of the engine oil pressure switch and logbook entry. | .5 work-hour \u00d7 $85 per hour = $42.50. | $54 ................................... | 96.50 | 594,054 |"
+    }
+   },
+   {
+    "index": 18,
+    "relevance_score": 0.04342653944528785,
+    "document": {
+     "text": "AD 2013-11-11: Cessna Aircraft Company Airplanes\nCosts of Compliance\nWe estimate that this AD affects 6,156 airplanes of U.S. registry.\nWe estimate the following costs to comply with this AD:"
+    }
+   },
+   {
+    "index": 10,
+    "relevance_score": 0.042768019609116165,
+    "document": {
+     "text": "AD 2013-11-11: Cessna Aircraft Company Airplanes\nExamining the AD Docket\nYou may examine the AD docket on the Internet at http:// www.regulations.gov; or in person at the Docket Management Facility between 9 a.m. and 5 p.m., Monday through Friday, except Federal holidays. The AD docket contains this AD, the regulatory evaluation, any comments received, and other information. The address for the Docket Office (phone: 800-647-5527) is Document Management Facility, U.S. Department of Transportation, Docket Operations, M-30, West Building Ground Floor, Room W12-140, 1200 New Jersey Avenue SE., Washington, DC 20590.\nFOR FURTHER INFORMATION CONTACT: Jeff Janusz, Sr. Propulsion Engineer, Wichita Aircraft Certification Office, FAA, 1801 Airport Road, Wichita, KS 67209; phone: (316) 946-4148; fax: (316) 9464107; email: jeff.janusz@faa.gov."
+    }
+   }
+  ],
+  "usage": {
+   "total_tokens": 5996,
+   "cost": 0
+  },
+  "provider": "Nvidia",
+  "id": "gen-rerank-1793459485-UxSTlrYedU6rI3vAN97m"
+ }
+}

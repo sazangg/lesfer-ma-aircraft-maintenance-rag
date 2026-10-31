@@ -1,0 +1,75 @@
+{
+  "about": "Answers written to be right or wrong in known ways, each labelled: do the sources the assistant supplies for the question support every claim? Used to calibrate the judge before trusting it.",
+  "answers": [
+    {
+      "id": "J01",
+      "question": "What engine does the Cessna 172S have, and what is its rated power?",
+      "answer": "The Cessna 172S has a Lycoming IO-360-L2A engine, rated at 180 horsepower.",
+      "label": "supported",
+      "note": "Matches type certificate section XII."
+    },
+    {
+      "id": "J02",
+      "question": "What engine does the Cessna 172S have, and what is its rated power?",
+      "answer": "The Cessna 172S has a Lycoming IO-360-L2A engine, rated at 160 horsepower.",
+      "label": "unsupported",
+      "note": "160 horsepower is the 172R's rating."
+    },
+    {
+      "id": "J03",
+      "question": "Who approved CN-TFE's oil pressure switch replacement for return to service?",
+      "answer": "A. Tazi approved CN-TFE's oil pressure switch replacement for return to service.",
+      "label": "supported",
+      "note": "Matches the scanned work order WO-2021-0544."
+    },
+    {
+      "id": "J04",
+      "question": "Who approved CN-TFE's oil pressure switch replacement for return to service?",
+      "answer": "K. Bennani approved CN-TFE's oil pressure switch replacement for return to service.",
+      "label": "unsupported",
+      "note": "K. Bennani signed other work orders, not this one."
+    },
+    {
+      "id": "J05",
+      "question": "Can we still use the 50-hour allowance in AD 2013-11-11 when a switch reaches 3,000 hours?",
+      "answer": "No. The 50-hour allowance applied once, when the AD took effect; after that the switch is replaced at 3,000 hours.",
+      "label": "supported",
+      "note": "Matches the training deck's speaker notes and the AD's paragraph (g)(6)."
+    },
+    {
+      "id": "J06",
+      "question": "Can we still use the 50-hour allowance in AD 2013-11-11 when a switch reaches 3,000 hours?",
+      "answer": "Yes. A switch at 3,000 hours can always run 50 more hours before it must be replaced.",
+      "label": "unsupported",
+      "note": "The opposite of the deck's notes."
+    },
+    {
+      "id": "J07",
+      "question": "What does AD 2000-04-01 require?",
+      "answer": "AD 2000-04-01 requires replacing any P/N 83278 oil pressure switch with a P/N 77041 switch.",
+      "label": "unsupported",
+      "note": "The part numbers are reversed; every word is in the sources."
+    },
+    {
+      "id": "J08",
+      "question": "What must a maintenance record entry contain?",
+      "answer": "The entry must describe the work, give the date it was completed, and carry the name, signature, and certificate of the person who approved it.",
+      "label": "unsupported",
+      "note": "Says the approver's name is required; 43.9(a)(4) asks for their signature, certificate number, and kind of certificate. First labelled supported: the judge's disagreement found the labelling error."
+    },
+    {
+      "id": "J09",
+      "question": "How many hours remain before CN-TFE's engine oil pressure switch reaches its limit?",
+      "answer": "CN-TFE's switch has 39.4 hours left: 3,000 minus (13,520.8 minus 10,560.2).",
+      "label": "unsupported",
+      "note": "The right number, but the current hours (13,520.8) are not in the supplied sources."
+    },
+    {
+      "id": "J10",
+      "question": "Is CN-TFE's oil pressure switch within the limit of AD 2013-11-11, according to its records?",
+      "answer": "The records disagree: the fleet register gives 10,560.2 airframe hours at installation and the compliance record 10,650.2, and neither gives the current hours, so they don't establish it.",
+      "label": "supported",
+      "note": "States what the supplied records say and what they lack."
+    }
+  ]
+}

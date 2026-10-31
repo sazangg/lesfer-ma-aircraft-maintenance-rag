@@ -1,0 +1,155 @@
+{
+ "request": {
+  "model": "nvidia/nemotron-3.5-rerank-8b:free",
+  "query": "Which transponder does CN-TFA have, and what software does it run?",
+  "documents": [
+   "Tadla Flight Academy fleet register, 26 October 2026\nSheet: Equipment\nRegistration: CN-TFA; Item: Transponder; Manufacturer: Garmin; Model / part number: GTX 330; Serial number: 77412093; Software: 3.06; Installed: 2003; Notes: Software upgraded from 3.04 in March 2005.",
+   "CN-TFA AD compliance record, 26 October 2026\nSheet: AD compliance record\nAD number: 2004-10-15; Effective: 2004-07-09; Subject: Garmin GTX 330 transponder software; Applies: No; Notes: Superseded by AD 2005-01-19.",
+   "CN-TFA AD compliance record, 26 October 2026\nSheet: AD compliance record\nAD number: 2005-01-19; Effective: 2005-02-23; Subject: Garmin GTX 33 and GTX 330 transponder software; Applies: Yes; Notes: GTX 330.; Method of compliance: GTX 330 software upgraded from 3.04 to 3.06.; Date: 2005-03-22; Airframe hours: 477.2; Signed: Previous operator's records",
+   "AD 2005-01-19: GARMIN International Inc. GTX 33, GTX 33D, GTX 330, and GTX 330D Mode S Transponders\nCosts of Compliance\nHow many airplanes does this AD impact? We estimate that this AD affects 5,400 airplanes in the U.S. registry.\nWhat is the cost impact of this AD on owners/operators of the affected airplanes? Garmin International Inc. will provide warranty only for Service Bulletin No. 0409, dated July 19, 2004 (which incorporates Software Upgrade 3.06) installation as specified in the service information. Although Software Upgrade 3.03 is still in compliance with this proposed AD, if previously installed, Software Upgrade 3.03 is no longer available through Garmin.",
+   "AD 2004-10-15: GARMIN International Inc. GTX 330 Mode S Transponders and GTX 330D Diversity Mode S Transponders\nCost of Compliance\nHow many airplanes does this AD impact? We estimate that this AD affects 1,300 airplanes in the U.S. registry.\nWhat is the cost impact of this AD on owners/operators of the affected airplanes? Garmin International Inc. will reimburse the 1.0 hours required for this modification per the most current GTX 330 Software Service Bulletin. This reimbursement will follow Garmin's warranty Policies and Procedures stating that the most current software, which includes this update and all other updates, should be installed.",
+   "AD 2005-01-19: GARMIN International Inc. GTX 33, GTX 33D, GTX 330, and GTX 330D Mode S Transponders\nComments\nWas the public invited to comment? We provided the public the opportunity to participate in developing this AD. The following presents the comments received on the proposal and FAA's response to each comment:\nComment Issue: Direct the AD Only to Those Products That Have the Old SW Versions 3.00, 3.01, 3.02, 3.04, and 3.05\nWhat is the commenter's concern? The NPRM currently requires installation of GTX 330/330D Software Upgrade Version 3.03 or 3.06 to comply with the proposed AD, or later Software Versions by way of an AMOC. The commenter would like to direct the AD only to those products that have the old software versions 3.00, 3.01, 3.02, 3.04, and 3.05 installed; so that if the new software version 3.06 or later is installed the AD does not affect that product. The AD should not apply to future software versions.\nWhat is FAA's response to the concern? We concur. This was the intent of the NPRM, and we have reworded the AD to reflect this comment.",
+   "AD 2005-01-19: GARMIN International Inc. GTX 33, GTX 33D, GTX 330, and GTX 330D Mode S Transponders\nDiscussion\nWhat events have caused this AD? The GTX 330/GTX 330D may detect from other aircraft the S1 (suppression) interrogating pulse below the MTL and, in some circumstances, does not reply. The GTX 330/330D should still reply even if it detects S1 interrogating pulses below the MTL, and this caused FAA to issue AD 2004-10-15, Amendment 3913645 (69 FR 29212, dated May 21, 2004). AD 2004-10-15 currently requires the incorporation of GTX 330/ 330D Software Upgrade to at least Version, 3.03, 3.04, or 3.05 on certain GTX 330 and GTX 330D Mode S transponders that are installed on airplanes.\nWhat has happened since AD 2004-10-15 to initiate this action? After the issuance of AD 2004-10-15, GARMIN International Inc. discovered that minor changes made to GTX 330/330D Software Upgrades 3.04 and 3.05 inadvertently removed the correction to not suppress the S1 pulse below MTL. Garmin also discovered the Software Upgrade must be installed on GTX 33 and GTX 33D Mode S transponders as well as the GTX 330 and GTX 330D Mode S transponders.",
+   "Work order WO-2024-0210: CN-TFA, altimeter, static system, and transponder tests\nAnfa Aero Services: work order WO-2024-0210\n| Field | Value |\n| --- | --- |\n| Date completed | 14 May 2024 |\n| Registration | CN-TFA |\n| Aircraft | Cessna 172S |\n| Serial number | 172S9488 |\n| Airframe total time at completion (h) | 7,477.8 |\n| Station | Casablanca |",
+   "Work order WO-2026-0181: CN-TFA, altimeter, static system, and transponder tests\nAnfa Aero Services: work order WO-2026-0181\n| Field | Value |\n| --- | --- |\n| Date completed | 12 May 2026 |\n| Registration | CN-TFA |\n| Aircraft | Cessna 172S |\n| Serial number | 172S9488 |\n| Airframe total time at completion (h) | 9,643.4 |\n| Station | Casablanca |",
+   "FAA-H-8083-30A, Aviation Maintenance Technician Handbook: General, chapter 2 (regulations, maintenance forms, records, and publications)\nElectronic Records\nDoes it have a user-friendly template to enter the data for the form or must data be directly entered onto the form?\nCan it calculate weight and balance data?\nDoes it have adequate word search capabilities?\nIs it networkable?\nAre the updates sent via U.S. mail or downloaded from the Internet?\nWhat is the maximum number of aircraft that the system can handle?\nCan the system handle both single- and multi-engine aircraft? Fixed and rotary wing? Piston and jet?\nCan an item removed from an aircraft be tracked?\nIs the data from this system exportable to other electronic formats?\nCan it forecast items due for maintenance or inspection?\nSince no program can be considered the best, the technician must learn all he or she can about the numerous systems that exist. Exposure to the pros and cons of these different systems can be one of the benefits of attending various trade shows, maintenance seminars, or IA renewal sessions. Continuous learning and personal improvement is the goal of every professional maintenance technician.",
+   "Work order WO-2026-0181: CN-TFA, altimeter, static system, and transponder tests\nRequest\nAltimeter, static system, and transponder tests due.",
+   "14 CFR Part 39: Airworthiness Directives\n\u00a7 39.9 What if I operate an aircraft or use a product that does not meet the requirements of an airworthiness directive?\nIf the requirements of an airworthiness directive have not been met, you violate \u00a7 39.7 each time you operate the aircraft or use the product.",
+   "Work order WO-2024-0210: CN-TFA, altimeter, static system, and transponder tests\nRequest\nAltimeter, static system, and transponder tests due.",
+   "Airworthiness directives at Anfa: training deck for new mechanics\n3 Check applicability before you sign\nCheck applicability before you sign\nModel and serial number range Installed equipment and part number Software version, modifications\nSpeaker notes: Two traps in our own fleet. CN-TFC is a 172S like CN-TFA and CN-TFB, but its serial number is above the range of AD 2013-11-11. CN-TFD has a KAP 140 autopilot, but its serial number is outside the range of the KAP 140 directives. Equipment alone is not enough, and serial numbers alone are not enough.",
+   "Work order WO-2024-0210: CN-TFA, altimeter, static system, and transponder tests\nWork performed\nStatic system test and altimeter test per 14 CFR 91.411 and Part 43 Appendix E.\nTransponder test per 14 CFR 91.413 and Part 43 Appendix F.\nAll tests within limits. Next tests due within 24 calendar months.\nCertification: the work above was performed in accordance with 14 CFR Part 43 and the procedures manual. The aircraft is airworthy for the work performed.\nPerformed by: M. Chraibi\nReturn to service: A. Tazi, licence MA-B1-0457",
+   "AD 2001-06-17: Cessna Aircraft Company Models 172R and 172S Airplanes\nRegulatory Impact\nDoes this AD impact various entities? These regulations will not have a substantial direct effect on the States, on the relationship between the national Government and the States, or on the distribution of power and responsibilities among the various levels of government. Therefore, FAA has determined that this final rule does not have federalism implications under Executive Order 13132.\nDoes this AD involve a significant rule or regulatory action? The FAA has determined that this regulation is an emergency regulation that must be issued immediately to correct an unsafe condition in aircraft, and is not a significant regulatory action under Executive Order 12866. It has been determined further that this action involves an emergency regulation under DOT Regulatory Policies and Procedures (44 FR 11034, February 26, 1979). If it is determined that this emergency regulation otherwise would be significant under DOT Regulatory Policies and Procedures, a final regulatory evaluation will be prepared and placed in the Rules Docket (otherwise, an evaluation is not required). A copy of it, if filed, may be obtained from the Rules Docket.",
+   "CN-TFA airframe logbook extract, 2024 to 2026\nCN-TFA airframe logbook: entries from 1 January 2024 to 26 October 2026 (printed extract)\nDate: 2024-05-14; Airframe hours: 7,477.8; Work order: WO-2024-0210; Entry: Static system test and altimeter test per 14 CFR 91.411 and Part 43 Appendix E. Transponder test per 14 CFR 91.413 and Part 43 Appendix F. All tests within limits. Next tests due within 24 calendar months.; Signed: A. Tazi, MA-B1-0457"
+  ]
+ },
+ "response": {
+  "model": "nvidia/nemotron-3.5-rerank-8b",
+  "results": [
+   {
+    "index": 0,
+    "relevance_score": 0.16445114467609273,
+    "document": {
+     "text": "Tadla Flight Academy fleet register, 26 October 2026\nSheet: Equipment\nRegistration: CN-TFA; Item: Transponder; Manufacturer: Garmin; Model / part number: GTX 330; Serial number: 77412093; Software: 3.06; Installed: 2003; Notes: Software upgraded from 3.04 in March 2005."
+    }
+   },
+   {
+    "index": 2,
+    "relevance_score": 0.1105045442748169,
+    "document": {
+     "text": "CN-TFA AD compliance record, 26 October 2026\nSheet: AD compliance record\nAD number: 2005-01-19; Effective: 2005-02-23; Subject: Garmin GTX 33 and GTX 330 transponder software; Applies: Yes; Notes: GTX 330.; Method of compliance: GTX 330 software upgraded from 3.04 to 3.06.; Date: 2005-03-22; Airframe hours: 477.2; Signed: Previous operator's records"
+    }
+   },
+   {
+    "index": 1,
+    "relevance_score": 0.09012425075769247,
+    "document": {
+     "text": "CN-TFA AD compliance record, 26 October 2026\nSheet: AD compliance record\nAD number: 2004-10-15; Effective: 2004-07-09; Subject: Garmin GTX 330 transponder software; Applies: No; Notes: Superseded by AD 2005-01-19."
+    }
+   },
+   {
+    "index": 7,
+    "relevance_score": 0.05340030472919171,
+    "document": {
+     "text": "Work order WO-2024-0210: CN-TFA, altimeter, static system, and transponder tests\nAnfa Aero Services: work order WO-2024-0210\n| Field | Value |\n| --- | --- |\n| Date completed | 14 May 2024 |\n| Registration | CN-TFA |\n| Aircraft | Cessna 172S |\n| Serial number | 172S9488 |\n| Airframe total time at completion (h) | 7,477.8 |\n| Station | Casablanca |"
+    }
+   },
+   {
+    "index": 8,
+    "relevance_score": 0.05312675460983843,
+    "document": {
+     "text": "Work order WO-2026-0181: CN-TFA, altimeter, static system, and transponder tests\nAnfa Aero Services: work order WO-2026-0181\n| Field | Value |\n| --- | --- |\n| Date completed | 12 May 2026 |\n| Registration | CN-TFA |\n| Aircraft | Cessna 172S |\n| Serial number | 172S9488 |\n| Airframe total time at completion (h) | 9,643.4 |\n| Station | Casablanca |"
+    }
+   },
+   {
+    "index": 14,
+    "relevance_score": 0.051042637741308634,
+    "document": {
+     "text": "Work order WO-2024-0210: CN-TFA, altimeter, static system, and transponder tests\nWork performed\nStatic system test and altimeter test per 14 CFR 91.411 and Part 43 Appendix E.\nTransponder test per 14 CFR 91.413 and Part 43 Appendix F.\nAll tests within limits. Next tests due within 24 calendar months.\nCertification: the work above was performed in accordance with 14 CFR Part 43 and the procedures manual. The aircraft is airworthy for the work performed.\nPerformed by: M. Chraibi\nReturn to service: A. Tazi, licence MA-B1-0457"
+    }
+   },
+   {
+    "index": 12,
+    "relevance_score": 0.05101605999122558,
+    "document": {
+     "text": "Work order WO-2024-0210: CN-TFA, altimeter, static system, and transponder tests\nRequest\nAltimeter, static system, and transponder tests due."
+    }
+   },
+   {
+    "index": 10,
+    "relevance_score": 0.05091778313617523,
+    "document": {
+     "text": "Work order WO-2026-0181: CN-TFA, altimeter, static system, and transponder tests\nRequest\nAltimeter, static system, and transponder tests due."
+    }
+   },
+   {
+    "index": 16,
+    "relevance_score": 0.04843693670361105,
+    "document": {
+     "text": "CN-TFA airframe logbook extract, 2024 to 2026\nCN-TFA airframe logbook: entries from 1 January 2024 to 26 October 2026 (printed extract)\nDate: 2024-05-14; Airframe hours: 7,477.8; Work order: WO-2024-0210; Entry: Static system test and altimeter test per 14 CFR 91.411 and Part 43 Appendix E. Transponder test per 14 CFR 91.413 and Part 43 Appendix F. All tests within limits. Next tests due within 24 calendar months.; Signed: A. Tazi, MA-B1-0457"
+    }
+   },
+   {
+    "index": 13,
+    "relevance_score": 0.04002194081876455,
+    "document": {
+     "text": "Airworthiness directives at Anfa: training deck for new mechanics\n3 Check applicability before you sign\nCheck applicability before you sign\nModel and serial number range Installed equipment and part number Software version, modifications\nSpeaker notes: Two traps in our own fleet. CN-TFC is a 172S like CN-TFA and CN-TFB, but its serial number is above the range of AD 2013-11-11. CN-TFD has a KAP 140 autopilot, but its serial number is outside the range of the KAP 140 directives. Equipment alone is not enough, and serial numbers alone are not enough."
+    }
+   },
+   {
+    "index": 4,
+    "relevance_score": 0.031639141015763095,
+    "document": {
+     "text": "AD 2004-10-15: GARMIN International Inc. GTX 330 Mode S Transponders and GTX 330D Diversity Mode S Transponders\nCost of Compliance\nHow many airplanes does this AD impact? We estimate that this AD affects 1,300 airplanes in the U.S. registry.\nWhat is the cost impact of this AD on owners/operators of the affected airplanes? Garmin International Inc. will reimburse the 1.0 hours required for this modification per the most current GTX 330 Software Service Bulletin. This reimbursement will follow Garmin's warranty Policies and Procedures stating that the most current software, which includes this update and all other updates, should be installed."
+    }
+   },
+   {
+    "index": 3,
+    "relevance_score": 0.030788580501910388,
+    "document": {
+     "text": "AD 2005-01-19: GARMIN International Inc. GTX 33, GTX 33D, GTX 330, and GTX 330D Mode S Transponders\nCosts of Compliance\nHow many airplanes does this AD impact? We estimate that this AD affects 5,400 airplanes in the U.S. registry.\nWhat is the cost impact of this AD on owners/operators of the affected airplanes? Garmin International Inc. will provide warranty only for Service Bulletin No. 0409, dated July 19, 2004 (which incorporates Software Upgrade 3.06) installation as specified in the service information. Although Software Upgrade 3.03 is still in compliance with this proposed AD, if previously installed, Software Upgrade 3.03 is no longer available through Garmin."
+    }
+   },
+   {
+    "index": 6,
+    "relevance_score": 0.030173884913460645,
+    "document": {
+     "text": "AD 2005-01-19: GARMIN International Inc. GTX 33, GTX 33D, GTX 330, and GTX 330D Mode S Transponders\nDiscussion\nWhat events have caused this AD? The GTX 330/GTX 330D may detect from other aircraft the S1 (suppression) interrogating pulse below the MTL and, in some circumstances, does not reply. The GTX 330/330D should still reply even if it detects S1 interrogating pulses below the MTL, and this caused FAA to issue AD 2004-10-15, Amendment 3913645 (69 FR 29212, dated May 21, 2004). AD 2004-10-15 currently requires the incorporation of GTX 330/ 330D Software Upgrade to at least Version, 3.03, 3.04, or 3.05 on certain GTX 330 and GTX 330D Mode S transponders that are installed on airplanes.\nWhat has happened since AD 2004-10-15 to initiate this action? After the issuance of AD 2004-10-15, GARMIN International Inc. discovered that minor changes made to GTX 330/330D Software Upgrades 3.04 and 3.05 inadvertently removed the correction to not suppress the S1 pulse below MTL. Garmin also discovered the Software Upgrade must be installed on GTX 33 and GTX 33D Mode S transponders as well as the GTX 330 and GTX 330D Mode S transponders."
+    }
+   },
+   {
+    "index": 5,
+    "relevance_score": 0.0301006086997575,
+    "document": {
+     "text": "AD 2005-01-19: GARMIN International Inc. GTX 33, GTX 33D, GTX 330, and GTX 330D Mode S Transponders\nComments\nWas the public invited to comment? We provided the public the opportunity to participate in developing this AD. The following presents the comments received on the proposal and FAA's response to each comment:\nComment Issue: Direct the AD Only to Those Products That Have the Old SW Versions 3.00, 3.01, 3.02, 3.04, and 3.05\nWhat is the commenter's concern? The NPRM currently requires installation of GTX 330/330D Software Upgrade Version 3.03 or 3.06 to comply with the proposed AD, or later Software Versions by way of an AMOC. The commenter would like to direct the AD only to those products that have the old software versions 3.00, 3.01, 3.02, 3.04, and 3.05 installed; so that if the new software version 3.06 or later is installed the AD does not affect that product. The AD should not apply to future software versions.\nWhat is FAA's response to the concern? We concur. This was the intent of the NPRM, and we have reworded the AD to reflect this comment."
+    }
+   },
+   {
+    "index": 15,
+    "relevance_score": 0.01772897364516966,
+    "document": {
+     "text": "AD 2001-06-17: Cessna Aircraft Company Models 172R and 172S Airplanes\nRegulatory Impact\nDoes this AD impact various entities? These regulations will not have a substantial direct effect on the States, on the relationship between the national Government and the States, or on the distribution of power and responsibilities among the various levels of government. Therefore, FAA has determined that this final rule does not have federalism implications under Executive Order 13132.\nDoes this AD involve a significant rule or regulatory action? The FAA has determined that this regulation is an emergency regulation that must be issued immediately to correct an unsafe condition in aircraft, and is not a significant regulatory action under Executive Order 12866. It has been determined further that this action involves an emergency regulation under DOT Regulatory Policies and Procedures (44 FR 11034, February 26, 1979). If it is determined that this emergency regulation otherwise would be significant under DOT Regulatory Policies and Procedures, a final regulatory evaluation will be prepared and placed in the Rules Docket (otherwise, an evaluation is not required). A copy of it, if filed, may be obtained from the Rules Docket."
+    }
+   },
+   {
+    "index": 9,
+    "relevance_score": 0.01769234059243882,
+    "document": {
+     "text": "FAA-H-8083-30A, Aviation Maintenance Technician Handbook: General, chapter 2 (regulations, maintenance forms, records, and publications)\nElectronic Records\nDoes it have a user-friendly template to enter the data for the form or must data be directly entered onto the form?\nCan it calculate weight and balance data?\nDoes it have adequate word search capabilities?\nIs it networkable?\nAre the updates sent via U.S. mail or downloaded from the Internet?\nWhat is the maximum number of aircraft that the system can handle?\nCan the system handle both single- and multi-engine aircraft? Fixed and rotary wing? Piston and jet?\nCan an item removed from an aircraft be tracked?\nIs the data from this system exportable to other electronic formats?\nCan it forecast items due for maintenance or inspection?\nSince no program can be considered the best, the technician must learn all he or she can about the numerous systems that exist. Exposure to the pros and cons of these different systems can be one of the benefits of attending various trade shows, maintenance seminars, or IA renewal sessions. Continuous learning and personal improvement is the goal of every professional maintenance technician."
+    }
+   },
+   {
+    "index": 11,
+    "relevance_score": 0.015340443516641282,
+    "document": {
+     "text": "14 CFR Part 39: Airworthiness Directives\n\u00a7 39.9 What if I operate an aircraft or use a product that does not meet the requirements of an airworthiness directive?\nIf the requirements of an airworthiness directive have not been met, you violate \u00a7 39.7 each time you operate the aircraft or use the product."
+    }
+   }
+  ],
+  "usage": {
+   "total_tokens": 3201,
+   "cost": 0
+  },
+  "provider": "Nvidia",
+  "id": "gen-rerank-1793459241-Jy9tSjyqDBOuaDp3CcMj"
+ }
+}

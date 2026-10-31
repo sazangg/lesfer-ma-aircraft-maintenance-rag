@@ -1,0 +1,283 @@
+{
+ "request": {
+  "model": "nvidia/nemotron-3.5-rerank-8b:free",
+  "query": "What do I have to do under AD 2000-04-01?",
+  "documents": [
+   "AD 2000-04-01: Cessna Aircraft Company Models 172R, 172S, 182S, 206H, and T206H Airplanes\n14 CFR Part 39\n[Docket No. 2000-CE-07-AD; Amendment 39-11583; AD 2000-04-01]\nRIN 2120-AA64\nAirworthiness Directives; Cessna Aircraft Company Models 172R, 172S, 182S, 206H, and T206H Airplanes\nAGENCY: Federal Aviation Administration, DOT.\nACTION: Final rule; request for comments.\nSUMMARY: This amendment adopts a new airworthiness directive (AD) that applies to certain Cessna Aircraft Company (Cessna) Models 172R, 172S, 182S, 206H, and T206H airplanes. This AD requires that you accomplish the following:\n-Inspect the oil pressure switch to determine if the oil pressure switch is part-number (P/N) 77041 or P/N 83278; and\n-Replace any P/N 77041 oil pressure switch with a P/N 83278 switch.\nThis AD is the result of reports of failure of the oil pressure switch diaphragm. The actions specified by this AD are intended to prevent loss of engine oil through the failure of the oil pressure switch diaphragm, which could result in partial or complete loss of engine power.\nDATES: Effective March 11, 2000.\nThe Director of the Federal Register approved the incorporation by reference of certain publications listed in the regulation as of March 11, 2000.",
+   "AD 2000-04-01: Cessna Aircraft Company Models 172R, 172S, 182S, 206H, and T206H Airplanes\nDEPARTMENT OF TRANSPORTATION\nFederal Aviation Administration",
+   "AD 2000-04-01: Cessna Aircraft Company Models 172R, 172S, 182S, 206H, and T206H Airplanes\nThe FAA's Determination and an Explanation of the Provisions of the AD\nWhat has the FAA decided?: After examining the circumstances and reviewing all available information related to the incidents described above, including the relevant service information, the FAA has determined that:\n-An unsafe condition exists or could develop on Cessna Models 172R, 172S, 182S, 206H, and T206H airplanes;\n-The actions of the above-referenced service bulletin should be accomplished on the affected airplanes; and\n-AD action should be taken in order to prevent loss of engine oil through the failure of the oil pressure switch diaphragm, which could result in partial or complete loss of engine power.\nWhat does this AD require?: This AD requires you to accomplish the following:\n-Inspect the oil pressure switch to determine if the oil pressure switch is P/N 77041 or P/N 83278; and -Replace any P/N 77041 oil pressure switch with a P/N 83278 switch.\nWhat is the compliance time of this AD?: Within the next 25 hours time-inservice (TIS) after the effective date of this AD.",
+   "AD 2000-04-01: Cessna Aircraft Company Models 172R, 172S, 182S, 206H, and T206H Airplanes\n\u00a739.13 [Amended]\nPrior to further flight after inspection, replace this switch with a P/N 83278 (or FAA-approved equivalent part number) oil pressure switch; and\nAs of the effective date of this AD, do not install a P/N 77041 (or FAA-approved equivalent part number) oil pressure switch on any affected airplane.\nNo further action is required by this AD except that, as of the effective date of this AD, do not install a P/N 77041 (or FAA-approved equivalent part number) oil pressure switch on any affected airplane.\n(e) What procedures must be used to accomplish the actions of this AD?: You must use the procedures in Cessna Service Bulletin SB00-79-01, dated January 31, 2000, to accomplish this action.\n(f) Can I comply with this AD in any other way?: Yes.\nYou may use an alternative method of compliance or adjust the compliance time if:\n(i) Your alternative method of compliance provides an equivalent level of safety; and\n(ii) The Manager, Wichita Aircraft Certification Office (ACO), approves your alternative. Submit your request through an FAA Principal Maintenance Inspector, who may add comments and then send it to the Manager, Wichita ACO.",
+   "AD 2000-04-01: Cessna Aircraft Company Models 172R, 172S, 182S, 206H, and T206H Airplanes\n14 CFR Part 39\nThe FAA must receive any comments on this rule on or before April 17, 2000.\nADDRESSES: Submit comments in triplicate to the Federal Aviation Administration (FAA), Central Region, Office of the Regional Counsel, Attention: Rules Docket No. 2000-CE07-AD, 901 Locust, Room 506, Kansas City, Missouri 64106.\nYou may get the service information referenced in this AD from the Cessna Aircraft Company, Product Support, P.O. Box 7706, Wichita, Kansas\n67277; telephone: (316) 517-5800; facsimile: (316) 942-9006. You may examine this information at the FAA, Central Region, Office of the Regional Counsel, Attention: Rules Docket No. 2000-CE-07-AD, 901 Locust, Room 506, Kansas City, Missouri 64106; or at the Office of the Federal Register, 800 North Capitol Street, NW, suite 700, Washington, DC.\nFOR FURTHER INFORMATION CONTACT: Paul Pendleton, Aerospace Engineer, Wichita Aircraft Certification Office, FAA, 1801 Airport Road, Mid-Continent Airport, Wichita, Kansas 67209; telephone: (316) 946-4143; facsimile: (316) 946-4407.",
+   "AD 2000-04-01: Cessna Aircraft Company Models 172R, 172S, 182S, 206H, and T206H Airplanes\n\u00a739.13 [Amended]\nSection 39.13 is amended by adding a new airworthiness directive (AD) to read as follows:\n2000-04-01 Cessna Aircraft Company: Amendment 39-11583; Docket No. 2000-CE-07-AD.\n(a) What airplanes are affected by this AD?: The following model and serial number airplanes, certificated in any category:\n(b) Who must comply with this AD?: Anyone who wishes to operate any of the above airplanes on the U.S. Register.\n(c) What problem does this AD address?: The actions of this AD are intended to prevent failure of the engine oil pressure switch diaphragm, which results in loss of\nengine oil through the vent hole. This could lead to partial or complete loss of engine power.\n(d) What must I do to address this problem?: Within the next 25 hours time-inservice after the effective date of this AD, inspect the oil pressure switch to determine\nif it is part-number (P/N) 77041 (or FAAapproved equivalent part number) or P/N 83278 (or FAA-approved equivalent part number). Then accomplish the following, as applicable:\nIf Then\nP/N 77041 (or FAA-approved equivalent part number) oil pressure switch is installed,\nP/N 83278 (or FAA-approved equivalent part number) oil pressure switch is installed,",
+   "AD 2000-04-01: Cessna Aircraft Company Models 172R, 172S, 182S, 206H, and T206H Airplanes\n\u00a739.13 [Amended]\nActing Manager, Small Airplane Directorate, Aircraft Certification Service.",
+   "AD 2000-04-01: Cessna Aircraft Company Models 172R, 172S, 182S, 206H, and T206H Airplanes\nList of Subjects in 14 CFR Part 39\nAir transportation, Aircraft, Aviation safety, Incorporation by reference, Safety.",
+   "AD 2000-04-01: Cessna Aircraft Company Models 172R, 172S, 182S, 206H, and T206H Airplanes\nAdoption of the Amendment\nAccordingly, pursuant to the authority delegated to me by the Administrator, the Federal Aviation Administration amends part 39 of the Federal Aviation Regulations (14 CFR part 39) as follows:",
+   "AD 2000-04-01: Cessna Aircraft Company Models 172R, 172S, 182S, 206H, and T206H Airplanes\n\u00a739.13 [Amended]\n(h) What if I need to fly the airplane to another location to comply with this AD?: The FAA can issue a special flight permit under sections 21.197 and 21.199 of the Federal Aviation Regulations (14 CFR 21.197 and 21.199) to operate your airplane to a location where you can accomplish the requirements of this AD.\n(i) Are any service bulletins incorporated into this AD by reference?: Yes. Actions required by this AD must be done in accordance with Cessna Service Bulletin SB00-79-01, dated January 31, 2000. The Director of the Federal Register approved this incorporation by reference under 5 U.S.C. 552(a) and 1 CFR part 51. You can get copies from the Cessna Aircraft Company, Product Support, P.O. Box 7706, Wichita, Kansas 67277. You can look at copies at the FAA, Central Region, Office of the Regional Counsel, 901 Locust, Room 506, Kansas City, Missouri, or at the Office of the Federal Register, 800 North Capitol Street, NW, suite 700, Washington, DC.\n(j) When does this amendment become effective?: This amendment becomes effective on March 11, 2000.\nIssued in Kansas City, Missouri, on February 11, 2000.\nMichael K. Dahl,",
+   "AD 2000-04-01: Cessna Aircraft Company Models 172R, 172S, 182S, 206H, and T206H Airplanes\n\u00a739.13 [Amended]\nThis AD applies to each airplane identified in the preceding applicability provision, regardless of whether it has been modified, altered, or repaired in the area subject to the requirements of this AD. For airplanes that have been modified, altered, or repaired so that the performance of the requirements of this AD is affected, the owner/operator must request approval for an alternative method of compliance in accordance with paragraph (f)(1) of this AD. The request should include an assessment of the effect of the modification, alteration, or repair on the unsafe condition addressed by this AD; and, if you have not eliminated the unsafe condition, specific actions you propose to address it.\n(g) Where can I get information about any already-approved alternative methods of compliance?: Contact Paul Pendleton, Aerospace Engineer, Wichita Aircraft Certification Office, FAA, 1801 Airport Road, Mid-Continent Airport, Wichita, Kansas 67209; telephone: (316) 946-4143; facsimile: (316) 946-4407.",
+   "AD 2000-04-01: Cessna Aircraft Company Models 172R, 172S, 182S, 206H, and T206H Airplanes\nRelevant Service Information\nIs there service information that applies to this subject?: Yes. Cessna has issued Service Bulletin No. SB00-7901, dated January 31, 2000.\nWhat are the provisions of this service bulletin?: The service bulletin specifies and includes procedures for accomplishing the following:\n-Inspecting the oil pressure switch to determine if the oil pressure switch is P/N 77041 or P/N 83278; and\n-Replacing any P/N 77041 oil pressure switch with a P/N 83278 switch.",
+   "AD 2000-04-01: Cessna Aircraft Company Models 172R, 172S, 182S, 206H, and T206H Airplanes\nDiscussion\n| Model | Serial Nos. |\n| --- | --- |\n| 172R ................................................ 172S ................................................ 182S ................................................ 206H ................................................ T206H ............................................. | 17280001 through 17280830. 172S8001 through 172S8324, 172S8326 through 172S8333, 172S8340, 172S8342, 172S8344, 172S8345, and 172S8347. 18280001 through 18280660. 20608001 through 20608053, 20608055 through 20608071, and 20608073 through 20608076. T20608001 through T20608093, T20608095 through T20608103, T20608105 through T20608131, T20608133 through T20608137, T20608139, T20608141, T20608144, and T20608145. |",
+   "AD 2000-04-01: Cessna Aircraft Company Models 172R, 172S, 182S, 206H, and T206H Airplanes\nPART 39-AIRWORTHINESS DIRECTIVES\nThe authority citation for part 39 continues to read as follows:\nAuthority: 49 U.S.C. 106(g), 40113, 44701.",
+   "AD 2000-04-01: Cessna Aircraft Company Models 172R, 172S, 182S, 206H, and T206H Airplanes\nComments Invited\nAlthough this action is in the form of a final rule and was not preceded by notice and opportunity for public comment, the FAA invites comments on this rule. You may submit whatever written data, views, or arguments you choose. You need to include the rule's docket number and submit your comments in triplicate to the address specified under the caption ADDRESSES. The FAA will consider all comments received on or before the closing date. We may amend this rule in light of comments received. Factual information that supports your ideas and suggestions is extremely helpful in evaluating the effectiveness of the AD action and determining whether we need to take additional rulemaking action.",
+   "AD 2000-04-01: Cessna Aircraft Company Models 172R, 172S, 182S, 206H, and T206H Airplanes\n\u00a739.13 [Amended]\n| Model | Serial Nos. |\n| --- | --- |\n| 172R ................................................ 172S ................................................ 182S ................................................ 206H ................................................ T206H ............................................. | 17280001 through 17280830. 172S8001 through 172S8324, 172S8326 through 172S8333, 172S8340, 172S8342, 172S8344, 172S8345, and 172S8347. 18280001 through 18280660. 20608001 through 20608053, 20608055 through 20608071, and 20608073 through 20608076. T20608001 through T20608093, T20608095 through T20608103, T20608105 through T20608131, T20608133 through T20608137, T20608139, T20608141, T20608144, and T20608145. |",
+   "AD 2000-04-01: Cessna Aircraft Company Models 172R, 172S, 182S, 206H, and T206H Airplanes\nDiscussion\nWhat events have caused this AD?: We have received three reports of the diaphragm of the oil pressure switch failing on Cessna Modesl 172R, 182S, and 206H airplanes. The part number (P/N) of the failed oil pressure switch is 77041. The P/N 77041 oil pressure switch is utilized on the following Cessna airplanes:\nWhat are the consequences if the condition is not corrected?: Failure of the engine oil pressure switch diaphragm results in loss of engine oil through the vent hole. This could lead to partial or complete loss of engine power.",
+   "AD 2000-04-01: Cessna Aircraft Company Models 172R, 172S, 182S, 206H, and T206H Airplanes\nThe FAA's Determination and an Explanation of the Provisions of the AD\nWill the public have the opportunity to comment prior to the issuance of the rule?: No. Since a situation exists that requires the immediate adoption of this regulation, the FAA finds that notice and opportunity for public prior comment hereon are impracticable, and that good cause exists for making this amendment effective in less than 30 days.",
+   "AD 2000-04-01: Cessna Aircraft Company Models 172R, 172S, 182S, 206H, and T206H Airplanes\nRegulatory Impact\nThese regulations will not have a substantial direct effect on the States, on the relationship between the national Government and the States, or on the distribution of power and responsibilities among the various levels of government. Therefore, the FAA has determined that this final rule does not have federalism implications under Executive Order 13132.\nThe FAA has determined that this regulation is an emergency regulation that must be issued immediately to correct an unsafe condition in aircraft, and is not a significant regulatory action under Executive Order 12866. It has been determined further that this action involves an emergency regulation under DOT Regulatory Policies and Procedures (44 FR 11034, February 26, 1979). If it is determined that this emergency regulation otherwise would be significant under DOT Regulatory Policies and Procedures, a final regulatory evaluation will be prepared and placed in the Rules Docket (otherwise, an evaluation is not required). A copy of it, if filed, may be obtained from the Rules Docket.",
+   "AD 2000-04-01: Cessna Aircraft Company Models 172R, 172S, 182S, 206H, and T206H Airplanes\nComments Invited\nThe FAA is re-examining the writing style we currently use in regulatory documents, in response to the Presidential memorandum of June 1, 1998. That memorandum requires federal agencies to communicate more clearly with the public. We are interested in your comments on whether the style of this document is clearer, and any other suggestions you might have to improve the clarity of FAA communications that affect you. You can get more information about the Presidential memorandum and the plain language initiative at http:// www.plainlanguage.gov.\nThe FAA specifically invites comments on the overall regulatory, economic, environmental, and energy aspects of the rule that might suggest a need to modify the rule. You may examine all comments we receive before and after the closing date of the rule in the Rules Docket. We will file a report in the Rules Docket that summarizes each FAA contact with the public that concerns the substantive parts of this AD.\nIf you want us to acknowledge the receipt of your comments, you must include a self-addressed, stamped postcard. On the postcard, write ''Comments to Docket No. 2000-CE-07AD.'' We will date stamp and mail the postcard back to you.",
+   "AD 2005-13-10: Cessna Aircraft Company Models 172R, 172S, 182T, T182T, 206H, and T206H Airplanes\nWhat Must I Do To Address This Problem?\n(e) To address this problem, you must do the following:",
+   "AD 2004-10-15: GARMIN International Inc. GTX 330 Mode S Transponders and GTX 330D Diversity Mode S Transponders\nWhat Must I Do To Address This Problem?\n(e) To address this problem, you must do the following:",
+   "AD 2005-01-19: GARMIN International Inc. GTX 33, GTX 33D, GTX 330, and GTX 330D Mode S Transponders\nWhat Must I Do To Address This Problem?\n(e) To address this problem, you must do the following:",
+   "CN-TFD AD compliance record, 26 October 2026\nSheet: AD compliance record\nAD number: 2000-04-01; Effective: 2000-03-11; Subject: Engine oil pressure switch P/N 77041; Applies: No; Notes: Superseded by AD 2013-11-11.",
+   "AD 2005-05-53 R1: The Cessna Aircraft Company Models 172R, 172S, 182T, and T182T Airplanes\nWhat Must I Do To Address This Problem?\n(e) The following specifies action you must do per this AD and other pertinent information to address this problem:",
+   "AD 2004-15-18: Cessna Aircraft Company Models 172R, 172S, 182S, 182T, T182T, 206H, and T206H Airplanes\nWhat Must I Do To Address This Problem?\n(e) To address this problem, you must do the following:\n(f) You may request a revised flight manual supplement from Cessna at the address specified in paragraph (h) of this AD.",
+   "CN-TFA AD compliance record, 26 October 2026\nSheet: AD compliance record\nAD number: 2000-04-01; Effective: 2000-03-11; Subject: Engine oil pressure switch P/N 77041; Applies: No; Notes: Superseded by AD 2013-11-11.",
+   "AD 2003-24-13: Cessna Aircraft Company Models 172R, 172S, 182S, 182T, T182T, 206H, and T206H Airplanes\nWhat Must I Do To Address This Problem?\n(e) To address this problem, you must do the following:\n(f) You may request a revised flight manual supplement from Cessna or Honeywell at the address specified in paragraph (h) of this AD.",
+   "CN-TFF AD compliance record, 26 October 2026\nSheet: AD compliance record\nAD number: 2000-04-01; Effective: 2000-03-11; Subject: Engine oil pressure switch P/N 77041; Applies: No; Notes: Superseded by AD 2013-11-11.",
+   "CN-TFC AD compliance record, 26 October 2026\nSheet: AD compliance record\nAD number: 2000-04-01; Effective: 2000-03-11; Subject: Engine oil pressure switch P/N 77041; Applies: No; Notes: Superseded by AD 2013-11-11.",
+   "AD 2005-13-10: Cessna Aircraft Company Models 172R, 172S, 182T, T182T, 206H, and T206H Airplanes\nCosts of Compliance\nHow many airplanes does this AD impact? We estimate that this AD affects 778 airplanes in the U.S. registry.\nWhat is the cost impact of this AD on owners/operators of the affected airplanes? We estimate the following costs to do the inspection:\nWe estimate the following costs to do any necessary replacements that would be required based on the results of this inspection. We have no way of determining the number of airplanes that may need this replacement:",
+   "CN-TFG AD compliance record, 26 October 2026\nSheet: AD compliance record\nAD number: 2000-04-01; Effective: 2000-03-11; Subject: Engine oil pressure switch P/N 77041; Applies: No; Notes: Superseded by AD 2013-11-11.",
+   "AD 2013-03-15: Cessna Aircraft Company Airplanes\nON-CONDITION COSTS\nAccording to the manufacturer, some of the costs of this AD may be covered under warranty, thereby reducing the cost impact on affected individuals. We do not control warranty coverage for affected individuals. As a result, we have included all costs in our cost estimate."
+  ]
+ },
+ "response": {
+  "model": "nvidia/nemotron-3.5-rerank-8b",
+  "results": [
+   {
+    "index": 2,
+    "relevance_score": 0.14808692695363884,
+    "document": {
+     "text": "AD 2000-04-01: Cessna Aircraft Company Models 172R, 172S, 182S, 206H, and T206H Airplanes\nThe FAA's Determination and an Explanation of the Provisions of the AD\nWhat has the FAA decided?: After examining the circumstances and reviewing all available information related to the incidents described above, including the relevant service information, the FAA has determined that:\n-An unsafe condition exists or could develop on Cessna Models 172R, 172S, 182S, 206H, and T206H airplanes;\n-The actions of the above-referenced service bulletin should be accomplished on the affected airplanes; and\n-AD action should be taken in order to prevent loss of engine oil through the failure of the oil pressure switch diaphragm, which could result in partial or complete loss of engine power.\nWhat does this AD require?: This AD requires you to accomplish the following:\n-Inspect the oil pressure switch to determine if the oil pressure switch is P/N 77041 or P/N 83278; and -Replace any P/N 77041 oil pressure switch with a P/N 83278 switch.\nWhat is the compliance time of this AD?: Within the next 25 hours time-inservice (TIS) after the effective date of this AD."
+    }
+   },
+   {
+    "index": 5,
+    "relevance_score": 0.13916817887231542,
+    "document": {
+     "text": "AD 2000-04-01: Cessna Aircraft Company Models 172R, 172S, 182S, 206H, and T206H Airplanes\n\u00a739.13 [Amended]\nSection 39.13 is amended by adding a new airworthiness directive (AD) to read as follows:\n2000-04-01 Cessna Aircraft Company: Amendment 39-11583; Docket No. 2000-CE-07-AD.\n(a) What airplanes are affected by this AD?: The following model and serial number airplanes, certificated in any category:\n(b) Who must comply with this AD?: Anyone who wishes to operate any of the above airplanes on the U.S. Register.\n(c) What problem does this AD address?: The actions of this AD are intended to prevent failure of the engine oil pressure switch diaphragm, which results in loss of\nengine oil through the vent hole. This could lead to partial or complete loss of engine power.\n(d) What must I do to address this problem?: Within the next 25 hours time-inservice after the effective date of this AD, inspect the oil pressure switch to determine\nif it is part-number (P/N) 77041 (or FAAapproved equivalent part number) or P/N 83278 (or FAA-approved equivalent part number). Then accomplish the following, as applicable:\nIf Then\nP/N 77041 (or FAA-approved equivalent part number) oil pressure switch is installed,\nP/N 83278 (or FAA-approved equivalent part number) oil pressure switch is installed,"
+    }
+   },
+   {
+    "index": 3,
+    "relevance_score": 0.13818955089078333,
+    "document": {
+     "text": "AD 2000-04-01: Cessna Aircraft Company Models 172R, 172S, 182S, 206H, and T206H Airplanes\n\u00a739.13 [Amended]\nPrior to further flight after inspection, replace this switch with a P/N 83278 (or FAA-approved equivalent part number) oil pressure switch; and\nAs of the effective date of this AD, do not install a P/N 77041 (or FAA-approved equivalent part number) oil pressure switch on any affected airplane.\nNo further action is required by this AD except that, as of the effective date of this AD, do not install a P/N 77041 (or FAA-approved equivalent part number) oil pressure switch on any affected airplane.\n(e) What procedures must be used to accomplish the actions of this AD?: You must use the procedures in Cessna Service Bulletin SB00-79-01, dated January 31, 2000, to accomplish this action.\n(f) Can I comply with this AD in any other way?: Yes.\nYou may use an alternative method of compliance or adjust the compliance time if:\n(i) Your alternative method of compliance provides an equivalent level of safety; and\n(ii) The Manager, Wichita Aircraft Certification Office (ACO), approves your alternative. Submit your request through an FAA Principal Maintenance Inspector, who may add comments and then send it to the Manager, Wichita ACO."
+    }
+   },
+   {
+    "index": 0,
+    "relevance_score": 0.13347998052351978,
+    "document": {
+     "text": "AD 2000-04-01: Cessna Aircraft Company Models 172R, 172S, 182S, 206H, and T206H Airplanes\n14 CFR Part 39\n[Docket No. 2000-CE-07-AD; Amendment 39-11583; AD 2000-04-01]\nRIN 2120-AA64\nAirworthiness Directives; Cessna Aircraft Company Models 172R, 172S, 182S, 206H, and T206H Airplanes\nAGENCY: Federal Aviation Administration, DOT.\nACTION: Final rule; request for comments.\nSUMMARY: This amendment adopts a new airworthiness directive (AD) that applies to certain Cessna Aircraft Company (Cessna) Models 172R, 172S, 182S, 206H, and T206H airplanes. This AD requires that you accomplish the following:\n-Inspect the oil pressure switch to determine if the oil pressure switch is part-number (P/N) 77041 or P/N 83278; and\n-Replace any P/N 77041 oil pressure switch with a P/N 83278 switch.\nThis AD is the result of reports of failure of the oil pressure switch diaphragm. The actions specified by this AD are intended to prevent loss of engine oil through the failure of the oil pressure switch diaphragm, which could result in partial or complete loss of engine power.\nDATES: Effective March 11, 2000.\nThe Director of the Federal Register approved the incorporation by reference of certain publications listed in the regulation as of March 11, 2000."
+    }
+   },
+   {
+    "index": 9,
+    "relevance_score": 0.12488037434167015,
+    "document": {
+     "text": "AD 2000-04-01: Cessna Aircraft Company Models 172R, 172S, 182S, 206H, and T206H Airplanes\n\u00a739.13 [Amended]\n(h) What if I need to fly the airplane to another location to comply with this AD?: The FAA can issue a special flight permit under sections 21.197 and 21.199 of the Federal Aviation Regulations (14 CFR 21.197 and 21.199) to operate your airplane to a location where you can accomplish the requirements of this AD.\n(i) Are any service bulletins incorporated into this AD by reference?: Yes. Actions required by this AD must be done in accordance with Cessna Service Bulletin SB00-79-01, dated January 31, 2000. The Director of the Federal Register approved this incorporation by reference under 5 U.S.C. 552(a) and 1 CFR part 51. You can get copies from the Cessna Aircraft Company, Product Support, P.O. Box 7706, Wichita, Kansas 67277. You can look at copies at the FAA, Central Region, Office of the Regional Counsel, 901 Locust, Room 506, Kansas City, Missouri, or at the Office of the Federal Register, 800 North Capitol Street, NW, suite 700, Washington, DC.\n(j) When does this amendment become effective?: This amendment becomes effective on March 11, 2000.\nIssued in Kansas City, Missouri, on February 11, 2000.\nMichael K. Dahl,"
+    }
+   },
+   {
+    "index": 10,
+    "relevance_score": 0.11822372137819552,
+    "document": {
+     "text": "AD 2000-04-01: Cessna Aircraft Company Models 172R, 172S, 182S, 206H, and T206H Airplanes\n\u00a739.13 [Amended]\nThis AD applies to each airplane identified in the preceding applicability provision, regardless of whether it has been modified, altered, or repaired in the area subject to the requirements of this AD. For airplanes that have been modified, altered, or repaired so that the performance of the requirements of this AD is affected, the owner/operator must request approval for an alternative method of compliance in accordance with paragraph (f)(1) of this AD. The request should include an assessment of the effect of the modification, alteration, or repair on the unsafe condition addressed by this AD; and, if you have not eliminated the unsafe condition, specific actions you propose to address it.\n(g) Where can I get information about any already-approved alternative methods of compliance?: Contact Paul Pendleton, Aerospace Engineer, Wichita Aircraft Certification Office, FAA, 1801 Airport Road, Mid-Continent Airport, Wichita, Kansas 67209; telephone: (316) 946-4143; facsimile: (316) 946-4407."
+    }
+   },
+   {
+    "index": 11,
+    "relevance_score": 0.10576031140258058,
+    "document": {
+     "text": "AD 2000-04-01: Cessna Aircraft Company Models 172R, 172S, 182S, 206H, and T206H Airplanes\nRelevant Service Information\nIs there service information that applies to this subject?: Yes. Cessna has issued Service Bulletin No. SB00-7901, dated January 31, 2000.\nWhat are the provisions of this service bulletin?: The service bulletin specifies and includes procedures for accomplishing the following:\n-Inspecting the oil pressure switch to determine if the oil pressure switch is P/N 77041 or P/N 83278; and\n-Replacing any P/N 77041 oil pressure switch with a P/N 83278 switch."
+    }
+   },
+   {
+    "index": 4,
+    "relevance_score": 0.09975388908982337,
+    "document": {
+     "text": "AD 2000-04-01: Cessna Aircraft Company Models 172R, 172S, 182S, 206H, and T206H Airplanes\n14 CFR Part 39\nThe FAA must receive any comments on this rule on or before April 17, 2000.\nADDRESSES: Submit comments in triplicate to the Federal Aviation Administration (FAA), Central Region, Office of the Regional Counsel, Attention: Rules Docket No. 2000-CE07-AD, 901 Locust, Room 506, Kansas City, Missouri 64106.\nYou may get the service information referenced in this AD from the Cessna Aircraft Company, Product Support, P.O. Box 7706, Wichita, Kansas\n67277; telephone: (316) 517-5800; facsimile: (316) 942-9006. You may examine this information at the FAA, Central Region, Office of the Regional Counsel, Attention: Rules Docket No. 2000-CE-07-AD, 901 Locust, Room 506, Kansas City, Missouri 64106; or at the Office of the Federal Register, 800 North Capitol Street, NW, suite 700, Washington, DC.\nFOR FURTHER INFORMATION CONTACT: Paul Pendleton, Aerospace Engineer, Wichita Aircraft Certification Office, FAA, 1801 Airport Road, Mid-Continent Airport, Wichita, Kansas 67209; telephone: (316) 946-4143; facsimile: (316) 946-4407."
+    }
+   },
+   {
+    "index": 14,
+    "relevance_score": 0.09165619453269047,
+    "document": {
+     "text": "AD 2000-04-01: Cessna Aircraft Company Models 172R, 172S, 182S, 206H, and T206H Airplanes\nComments Invited\nAlthough this action is in the form of a final rule and was not preceded by notice and opportunity for public comment, the FAA invites comments on this rule. You may submit whatever written data, views, or arguments you choose. You need to include the rule's docket number and submit your comments in triplicate to the address specified under the caption ADDRESSES. The FAA will consider all comments received on or before the closing date. We may amend this rule in light of comments received. Factual information that supports your ideas and suggestions is extremely helpful in evaluating the effectiveness of the AD action and determining whether we need to take additional rulemaking action."
+    }
+   },
+   {
+    "index": 13,
+    "relevance_score": 0.09041770718986969,
+    "document": {
+     "text": "AD 2000-04-01: Cessna Aircraft Company Models 172R, 172S, 182S, 206H, and T206H Airplanes\nPART 39-AIRWORTHINESS DIRECTIVES\nThe authority citation for part 39 continues to read as follows:\nAuthority: 49 U.S.C. 106(g), 40113, 44701."
+    }
+   },
+   {
+    "index": 8,
+    "relevance_score": 0.09006526393495799,
+    "document": {
+     "text": "AD 2000-04-01: Cessna Aircraft Company Models 172R, 172S, 182S, 206H, and T206H Airplanes\nAdoption of the Amendment\nAccordingly, pursuant to the authority delegated to me by the Administrator, the Federal Aviation Administration amends part 39 of the Federal Aviation Regulations (14 CFR part 39) as follows:"
+    }
+   },
+   {
+    "index": 17,
+    "relevance_score": 0.08948414405765363,
+    "document": {
+     "text": "AD 2000-04-01: Cessna Aircraft Company Models 172R, 172S, 182S, 206H, and T206H Airplanes\nThe FAA's Determination and an Explanation of the Provisions of the AD\nWill the public have the opportunity to comment prior to the issuance of the rule?: No. Since a situation exists that requires the immediate adoption of this regulation, the FAA finds that notice and opportunity for public prior comment hereon are impracticable, and that good cause exists for making this amendment effective in less than 30 days."
+    }
+   },
+   {
+    "index": 1,
+    "relevance_score": 0.0862618554041752,
+    "document": {
+     "text": "AD 2000-04-01: Cessna Aircraft Company Models 172R, 172S, 182S, 206H, and T206H Airplanes\nDEPARTMENT OF TRANSPORTATION\nFederal Aviation Administration"
+    }
+   },
+   {
+    "index": 31,
+    "relevance_score": 0.08514709732218022,
+    "document": {
+     "text": "CN-TFG AD compliance record, 26 October 2026\nSheet: AD compliance record\nAD number: 2000-04-01; Effective: 2000-03-11; Subject: Engine oil pressure switch P/N 77041; Applies: No; Notes: Superseded by AD 2013-11-11."
+    }
+   },
+   {
+    "index": 19,
+    "relevance_score": 0.08385078029324482,
+    "document": {
+     "text": "AD 2000-04-01: Cessna Aircraft Company Models 172R, 172S, 182S, 206H, and T206H Airplanes\nComments Invited\nThe FAA is re-examining the writing style we currently use in regulatory documents, in response to the Presidential memorandum of June 1, 1998. That memorandum requires federal agencies to communicate more clearly with the public. We are interested in your comments on whether the style of this document is clearer, and any other suggestions you might have to improve the clarity of FAA communications that affect you. You can get more information about the Presidential memorandum and the plain language initiative at http:// www.plainlanguage.gov.\nThe FAA specifically invites comments on the overall regulatory, economic, environmental, and energy aspects of the rule that might suggest a need to modify the rule. You may examine all comments we receive before and after the closing date of the rule in the Rules Docket. We will file a report in the Rules Docket that summarizes each FAA contact with the public that concerns the substantive parts of this AD.\nIf you want us to acknowledge the receipt of your comments, you must include a self-addressed, stamped postcard. On the postcard, write ''Comments to Docket No. 2000-CE-07AD.'' We will date stamp and mail the postcard back to you."
+    }
+   },
+   {
+    "index": 29,
+    "relevance_score": 0.08343832917443261,
+    "document": {
+     "text": "CN-TFC AD compliance record, 26 October 2026\nSheet: AD compliance record\nAD number: 2000-04-01; Effective: 2000-03-11; Subject: Engine oil pressure switch P/N 77041; Applies: No; Notes: Superseded by AD 2013-11-11."
+    }
+   },
+   {
+    "index": 23,
+    "relevance_score": 0.08339104394801622,
+    "document": {
+     "text": "CN-TFD AD compliance record, 26 October 2026\nSheet: AD compliance record\nAD number: 2000-04-01; Effective: 2000-03-11; Subject: Engine oil pressure switch P/N 77041; Applies: No; Notes: Superseded by AD 2013-11-11."
+    }
+   },
+   {
+    "index": 28,
+    "relevance_score": 0.08315305627334253,
+    "document": {
+     "text": "CN-TFF AD compliance record, 26 October 2026\nSheet: AD compliance record\nAD number: 2000-04-01; Effective: 2000-03-11; Subject: Engine oil pressure switch P/N 77041; Applies: No; Notes: Superseded by AD 2013-11-11."
+    }
+   },
+   {
+    "index": 26,
+    "relevance_score": 0.08309140350737006,
+    "document": {
+     "text": "CN-TFA AD compliance record, 26 October 2026\nSheet: AD compliance record\nAD number: 2000-04-01; Effective: 2000-03-11; Subject: Engine oil pressure switch P/N 77041; Applies: No; Notes: Superseded by AD 2013-11-11."
+    }
+   },
+   {
+    "index": 16,
+    "relevance_score": 0.08296905711139044,
+    "document": {
+     "text": "AD 2000-04-01: Cessna Aircraft Company Models 172R, 172S, 182S, 206H, and T206H Airplanes\nDiscussion\nWhat events have caused this AD?: We have received three reports of the diaphragm of the oil pressure switch failing on Cessna Modesl 172R, 182S, and 206H airplanes. The part number (P/N) of the failed oil pressure switch is 77041. The P/N 77041 oil pressure switch is utilized on the following Cessna airplanes:\nWhat are the consequences if the condition is not corrected?: Failure of the engine oil pressure switch diaphragm results in loss of engine oil through the vent hole. This could lead to partial or complete loss of engine power."
+    }
+   },
+   {
+    "index": 6,
+    "relevance_score": 0.08287289262286777,
+    "document": {
+     "text": "AD 2000-04-01: Cessna Aircraft Company Models 172R, 172S, 182S, 206H, and T206H Airplanes\n\u00a739.13 [Amended]\nActing Manager, Small Airplane Directorate, Aircraft Certification Service."
+    }
+   },
+   {
+    "index": 7,
+    "relevance_score": 0.07830233530643112,
+    "document": {
+     "text": "AD 2000-04-01: Cessna Aircraft Company Models 172R, 172S, 182S, 206H, and T206H Airplanes\nList of Subjects in 14 CFR Part 39\nAir transportation, Aircraft, Aviation safety, Incorporation by reference, Safety."
+    }
+   },
+   {
+    "index": 18,
+    "relevance_score": 0.07497048965172877,
+    "document": {
+     "text": "AD 2000-04-01: Cessna Aircraft Company Models 172R, 172S, 182S, 206H, and T206H Airplanes\nRegulatory Impact\nThese regulations will not have a substantial direct effect on the States, on the relationship between the national Government and the States, or on the distribution of power and responsibilities among the various levels of government. Therefore, the FAA has determined that this final rule does not have federalism implications under Executive Order 13132.\nThe FAA has determined that this regulation is an emergency regulation that must be issued immediately to correct an unsafe condition in aircraft, and is not a significant regulatory action under Executive Order 12866. It has been determined further that this action involves an emergency regulation under DOT Regulatory Policies and Procedures (44 FR 11034, February 26, 1979). If it is determined that this emergency regulation otherwise would be significant under DOT Regulatory Policies and Procedures, a final regulatory evaluation will be prepared and placed in the Rules Docket (otherwise, an evaluation is not required). A copy of it, if filed, may be obtained from the Rules Docket."
+    }
+   },
+   {
+    "index": 15,
+    "relevance_score": 0.07066066973431251,
+    "document": {
+     "text": "AD 2000-04-01: Cessna Aircraft Company Models 172R, 172S, 182S, 206H, and T206H Airplanes\n\u00a739.13 [Amended]\n| Model | Serial Nos. |\n| --- | --- |\n| 172R ................................................ 172S ................................................ 182S ................................................ 206H ................................................ T206H ............................................. | 17280001 through 17280830. 172S8001 through 172S8324, 172S8326 through 172S8333, 172S8340, 172S8342, 172S8344, 172S8345, and 172S8347. 18280001 through 18280660. 20608001 through 20608053, 20608055 through 20608071, and 20608073 through 20608076. T20608001 through T20608093, T20608095 through T20608103, T20608105 through T20608131, T20608133 through T20608137, T20608139, T20608141, T20608144, and T20608145. |"
+    }
+   },
+   {
+    "index": 12,
+    "relevance_score": 0.06840698452748668,
+    "document": {
+     "text": "AD 2000-04-01: Cessna Aircraft Company Models 172R, 172S, 182S, 206H, and T206H Airplanes\nDiscussion\n| Model | Serial Nos. |\n| --- | --- |\n| 172R ................................................ 172S ................................................ 182S ................................................ 206H ................................................ T206H ............................................. | 17280001 through 17280830. 172S8001 through 172S8324, 172S8326 through 172S8333, 172S8340, 172S8342, 172S8344, 172S8345, and 172S8347. 18280001 through 18280660. 20608001 through 20608053, 20608055 through 20608071, and 20608073 through 20608076. T20608001 through T20608093, T20608095 through T20608103, T20608105 through T20608131, T20608133 through T20608137, T20608139, T20608141, T20608144, and T20608145. |"
+    }
+   },
+   {
+    "index": 24,
+    "relevance_score": 0.055578903890360756,
+    "document": {
+     "text": "AD 2005-05-53 R1: The Cessna Aircraft Company Models 172R, 172S, 182T, and T182T Airplanes\nWhat Must I Do To Address This Problem?\n(e) The following specifies action you must do per this AD and other pertinent information to address this problem:"
+    }
+   },
+   {
+    "index": 20,
+    "relevance_score": 0.05415440684724209,
+    "document": {
+     "text": "AD 2005-13-10: Cessna Aircraft Company Models 172R, 172S, 182T, T182T, 206H, and T206H Airplanes\nWhat Must I Do To Address This Problem?\n(e) To address this problem, you must do the following:"
+    }
+   },
+   {
+    "index": 25,
+    "relevance_score": 0.052809656292184676,
+    "document": {
+     "text": "AD 2004-15-18: Cessna Aircraft Company Models 172R, 172S, 182S, 182T, T182T, 206H, and T206H Airplanes\nWhat Must I Do To Address This Problem?\n(e) To address this problem, you must do the following:\n(f) You may request a revised flight manual supplement from Cessna at the address specified in paragraph (h) of this AD."
+    }
+   },
+   {
+    "index": 27,
+    "relevance_score": 0.0523131809692537,
+    "document": {
+     "text": "AD 2003-24-13: Cessna Aircraft Company Models 172R, 172S, 182S, 182T, T182T, 206H, and T206H Airplanes\nWhat Must I Do To Address This Problem?\n(e) To address this problem, you must do the following:\n(f) You may request a revised flight manual supplement from Cessna or Honeywell at the address specified in paragraph (h) of this AD."
+    }
+   },
+   {
+    "index": 21,
+    "relevance_score": 0.046886812090298866,
+    "document": {
+     "text": "AD 2004-10-15: GARMIN International Inc. GTX 330 Mode S Transponders and GTX 330D Diversity Mode S Transponders\nWhat Must I Do To Address This Problem?\n(e) To address this problem, you must do the following:"
+    }
+   },
+   {
+    "index": 22,
+    "relevance_score": 0.044514369379729225,
+    "document": {
+     "text": "AD 2005-01-19: GARMIN International Inc. GTX 33, GTX 33D, GTX 330, and GTX 330D Mode S Transponders\nWhat Must I Do To Address This Problem?\n(e) To address this problem, you must do the following:"
+    }
+   },
+   {
+    "index": 30,
+    "relevance_score": 0.04430840264351435,
+    "document": {
+     "text": "AD 2005-13-10: Cessna Aircraft Company Models 172R, 172S, 182T, T182T, 206H, and T206H Airplanes\nCosts of Compliance\nHow many airplanes does this AD impact? We estimate that this AD affects 778 airplanes in the U.S. registry.\nWhat is the cost impact of this AD on owners/operators of the affected airplanes? We estimate the following costs to do the inspection:\nWe estimate the following costs to do any necessary replacements that would be required based on the results of this inspection. We have no way of determining the number of airplanes that may need this replacement:"
+    }
+   },
+   {
+    "index": 32,
+    "relevance_score": 0.03786286776946002,
+    "document": {
+     "text": "AD 2013-03-15: Cessna Aircraft Company Airplanes\nON-CONDITION COSTS\nAccording to the manufacturer, some of the costs of this AD may be covered under warranty, thereby reducing the cost impact on affected individuals. We do not control warranty coverage for affected individuals. As a result, we have included all costs in our cost estimate."
+    }
+   }
+  ],
+  "usage": {
+   "total_tokens": 7173,
+   "cost": 0
+  },
+  "provider": "Nvidia",
+  "id": "gen-rerank-1793459636-uM7xidpzYW3NYpaXqnBl"
+ }
+}

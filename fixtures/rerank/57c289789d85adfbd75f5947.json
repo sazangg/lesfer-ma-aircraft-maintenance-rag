@@ -1,0 +1,131 @@
+{
+ "request": {
+  "model": "nvidia/nemotron-3.5-rerank-8b:free",
+  "query": "When was CN-TFB's last annual inspection?",
+  "documents": [
+   "Work order WO-2024-0260: CN-TFB, annual inspection\nRequest\nAnnual inspection.",
+   "Work order WO-2025-0249: CN-TFB, annual inspection\nRequest\nAnnual inspection.",
+   "Work order WO-2026-0232: CN-TFB, annual inspection\nRequest\nAnnual inspection.",
+   "Work order WO-2025-0249: CN-TFB, annual inspection\nParts used\nCertification: the work above was performed in accordance with 14 CFR Part 43 and the procedures manual. The aircraft is airworthy for the work performed.\nPerformed by: H. Ouazzani\nReturn to service: R. El Fassi, licence MA-B1-0618",
+   "Work order WO-2024-0260: CN-TFB, annual inspection\nParts used\nCertification: the work above was performed in accordance with 14 CFR Part 43 and the procedures manual. The aircraft is airworthy for the work performed.\nPerformed by: M. Chraibi\nReturn to service: K. Bennani, licence MA-B1-0212",
+   "Work order WO-2026-0232: CN-TFB, annual inspection\nParts used\nCertification: the work above was performed in accordance with 14 CFR Part 43 and the procedures manual. The aircraft is airworthy for the work performed.\nPerformed by: Y. Alaoui\nReturn to service: K. Bennani, licence MA-B1-0212",
+   "CN-TFB airframe logbook extract, 2024 to 2026\nCN-TFB airframe logbook: entries from 1 January 2024 to 26 October 2026 (printed extract)\nDate: 2025-06-14; Airframe hours: 7,439.0; Work order: WO-2025-0249; Entry: Annual inspection per 14 CFR 91.409(a) and the scope and detail of 14 CFR Part 43 Appendix D. Replaced trim tab actuator rod end bearings; free play within limits. Replaced left cabin door seal. Replaced all eight spark plugs. Oil and filter changed.; Signed: R. El Fassi, MA-B1-0618",
+   "CN-TFB airframe logbook extract, 2024 to 2026\nCN-TFB airframe logbook: entries from 1 January 2024 to 26 October 2026 (printed extract)\nDate: 2024-06-16; Airframe hours: 6,701.2; Work order: WO-2024-0260; Entry: Annual inspection per 14 CFR 91.409(a) and the scope and detail of 14 CFR Part 43 Appendix D. Replaced trim tab actuator rod end bearings; free play within limits. Replaced all eight spark plugs. Oil and filter changed.; Signed: K. Bennani, MA-B1-0212",
+   "CN-TFB airframe logbook extract, 2024 to 2026\nCN-TFB airframe logbook: entries from 1 January 2024 to 26 October 2026 (printed extract)\nDate: 2026-06-18; Airframe hours: 8,189.8; Work order: WO-2026-0232; Entry: Annual inspection per 14 CFR 91.409(a) and the scope and detail of 14 CFR Part 43 Appendix D. Serviced nose strut with hydraulic fluid and air. Oil and filter changed.; Signed: K. Bennani, MA-B1-0212",
+   "Work order WO-2026-0232: CN-TFB, annual inspection\nParts used\n| Part number | Description | Quantity | Serial number |\n| --- | --- | --- | --- |\n| CH48110-1 | Oil filter | 1 |  |",
+   "Work order WO-2025-0044: CN-TFB, 100-hour inspection\nParts used\nCertification: the work above was performed in accordance with 14 CFR Part 43 and the procedures manual. The aircraft is airworthy for the work performed.\nPerformed by: S. Idrissi\nReturn to service: R. El Fassi, licence MA-B1-0618",
+   "Work order WO-2025-0249: CN-TFB, annual inspection\nAnfa Aero Services: work order WO-2025-0249\n| Field | Value |\n| --- | --- |\n| Date completed | 14 June 2025 |\n| Registration | CN-TFB |\n| Aircraft | Cessna 172S |\n| Serial number | 172S10237 |\n| Airframe total time at completion (h) | 7,439.0 |\n| Station | Casablanca |",
+   "Work order WO-2025-0315: CN-TFB, 100-hour inspection\nParts used\nCertification: the work above was performed in accordance with 14 CFR Part 43 and the procedures manual. The aircraft is airworthy for the work performed.\nPerformed by: S. Idrissi\nReturn to service: A. Tazi, licence MA-B1-0457",
+   "Work order WO-2025-0384: CN-TFB, 100-hour inspection\nParts used\nCertification: the work above was performed in accordance with 14 CFR Part 43 and the procedures manual. The aircraft is airworthy for the work performed.\nPerformed by: S. Idrissi\nReturn to service: A. Tazi, licence MA-B1-0457"
+  ]
+ },
+ "response": {
+  "model": "nvidia/nemotron-3.5-rerank-8b",
+  "results": [
+   {
+    "index": 8,
+    "relevance_score": 0.14682375775650533,
+    "document": {
+     "text": "CN-TFB airframe logbook extract, 2024 to 2026\nCN-TFB airframe logbook: entries from 1 January 2024 to 26 October 2026 (printed extract)\nDate: 2026-06-18; Airframe hours: 8,189.8; Work order: WO-2026-0232; Entry: Annual inspection per 14 CFR 91.409(a) and the scope and detail of 14 CFR Part 43 Appendix D. Serviced nose strut with hydraulic fluid and air. Oil and filter changed.; Signed: K. Bennani, MA-B1-0212"
+    }
+   },
+   {
+    "index": 6,
+    "relevance_score": 0.14482423806586628,
+    "document": {
+     "text": "CN-TFB airframe logbook extract, 2024 to 2026\nCN-TFB airframe logbook: entries from 1 January 2024 to 26 October 2026 (printed extract)\nDate: 2025-06-14; Airframe hours: 7,439.0; Work order: WO-2025-0249; Entry: Annual inspection per 14 CFR 91.409(a) and the scope and detail of 14 CFR Part 43 Appendix D. Replaced trim tab actuator rod end bearings; free play within limits. Replaced left cabin door seal. Replaced all eight spark plugs. Oil and filter changed.; Signed: R. El Fassi, MA-B1-0618"
+    }
+   },
+   {
+    "index": 11,
+    "relevance_score": 0.14382592723998255,
+    "document": {
+     "text": "Work order WO-2025-0249: CN-TFB, annual inspection\nAnfa Aero Services: work order WO-2025-0249\n| Field | Value |\n| --- | --- |\n| Date completed | 14 June 2025 |\n| Registration | CN-TFB |\n| Aircraft | Cessna 172S |\n| Serial number | 172S10237 |\n| Airframe total time at completion (h) | 7,439.0 |\n| Station | Casablanca |"
+    }
+   },
+   {
+    "index": 7,
+    "relevance_score": 0.14054213393535667,
+    "document": {
+     "text": "CN-TFB airframe logbook extract, 2024 to 2026\nCN-TFB airframe logbook: entries from 1 January 2024 to 26 October 2026 (printed extract)\nDate: 2024-06-16; Airframe hours: 6,701.2; Work order: WO-2024-0260; Entry: Annual inspection per 14 CFR 91.409(a) and the scope and detail of 14 CFR Part 43 Appendix D. Replaced trim tab actuator rod end bearings; free play within limits. Replaced all eight spark plugs. Oil and filter changed.; Signed: K. Bennani, MA-B1-0212"
+    }
+   },
+   {
+    "index": 0,
+    "relevance_score": 0.11699972508525015,
+    "document": {
+     "text": "Work order WO-2024-0260: CN-TFB, annual inspection\nRequest\nAnnual inspection."
+    }
+   },
+   {
+    "index": 1,
+    "relevance_score": 0.11622967094257099,
+    "document": {
+     "text": "Work order WO-2025-0249: CN-TFB, annual inspection\nRequest\nAnnual inspection."
+    }
+   },
+   {
+    "index": 2,
+    "relevance_score": 0.11619369932711776,
+    "document": {
+     "text": "Work order WO-2026-0232: CN-TFB, annual inspection\nRequest\nAnnual inspection."
+    }
+   },
+   {
+    "index": 3,
+    "relevance_score": 0.10446411819784931,
+    "document": {
+     "text": "Work order WO-2025-0249: CN-TFB, annual inspection\nParts used\nCertification: the work above was performed in accordance with 14 CFR Part 43 and the procedures manual. The aircraft is airworthy for the work performed.\nPerformed by: H. Ouazzani\nReturn to service: R. El Fassi, licence MA-B1-0618"
+    }
+   },
+   {
+    "index": 4,
+    "relevance_score": 0.10440286392568646,
+    "document": {
+     "text": "Work order WO-2024-0260: CN-TFB, annual inspection\nParts used\nCertification: the work above was performed in accordance with 14 CFR Part 43 and the procedures manual. The aircraft is airworthy for the work performed.\nPerformed by: M. Chraibi\nReturn to service: K. Bennani, licence MA-B1-0212"
+    }
+   },
+   {
+    "index": 5,
+    "relevance_score": 0.0991434032852595,
+    "document": {
+     "text": "Work order WO-2026-0232: CN-TFB, annual inspection\nParts used\nCertification: the work above was performed in accordance with 14 CFR Part 43 and the procedures manual. The aircraft is airworthy for the work performed.\nPerformed by: Y. Alaoui\nReturn to service: K. Bennani, licence MA-B1-0212"
+    }
+   },
+   {
+    "index": 9,
+    "relevance_score": 0.08760223043971126,
+    "document": {
+     "text": "Work order WO-2026-0232: CN-TFB, annual inspection\nParts used\n| Part number | Description | Quantity | Serial number |\n| --- | --- | --- | --- |\n| CH48110-1 | Oil filter | 1 |  |"
+    }
+   },
+   {
+    "index": 12,
+    "relevance_score": 0.06805056538095626,
+    "document": {
+     "text": "Work order WO-2025-0315: CN-TFB, 100-hour inspection\nParts used\nCertification: the work above was performed in accordance with 14 CFR Part 43 and the procedures manual. The aircraft is airworthy for the work performed.\nPerformed by: S. Idrissi\nReturn to service: A. Tazi, licence MA-B1-0457"
+    }
+   },
+   {
+    "index": 10,
+    "relevance_score": 0.0679224409514969,
+    "document": {
+     "text": "Work order WO-2025-0044: CN-TFB, 100-hour inspection\nParts used\nCertification: the work above was performed in accordance with 14 CFR Part 43 and the procedures manual. The aircraft is airworthy for the work performed.\nPerformed by: S. Idrissi\nReturn to service: R. El Fassi, licence MA-B1-0618"
+    }
+   },
+   {
+    "index": 13,
+    "relevance_score": 0.0679221088834187,
+    "document": {
+     "text": "Work order WO-2025-0384: CN-TFB, 100-hour inspection\nParts used\nCertification: the work above was performed in accordance with 14 CFR Part 43 and the procedures manual. The aircraft is airworthy for the work performed.\nPerformed by: S. Idrissi\nReturn to service: A. Tazi, licence MA-B1-0457"
+    }
+   }
+  ],
+  "usage": {
+   "total_tokens": 1525,
+   "cost": 0
+  },
+  "provider": "Nvidia",
+  "id": "gen-rerank-1793459247-W1SVgFg7FSTC1vGHwdOK"
+ }
+}

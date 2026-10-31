@@ -1,0 +1,251 @@
+{
+ "request": {
+  "model": "nvidia/nemotron-3.5-rerank-8b:free",
+  "query": "Which Aspen software versions does AD 2020-16-08 cover?",
+  "documents": [
+   "AD 2020-16-08 (correction): Aspen Avionics, Inc.\n(c) Applicability\n18S ''135,'' PA-18S ''150,'' PA-19 (Army L18C), PA-19S, PA-20, PA-20 ''115,'' PA-20 ''135,'' PA-20S, PA-20S ''115,'' PA-20S ''135,'' PA-22, PA-22-108, PA-22-135, PA22-150, PA-22-160, PA-22S-135, PA-22S150, PA-22S-160, PA-23, PA-23-160, PA23-235, PA-23-250, PA-24, PA-24-250, PA-24-260, PA-24-400, PA-28-140, PA28-150, PA-28-151, PA-28-160, PA-28161, PA-28-180, PA-28-181, PA-28-201T, PA-28-235, PA-28-236, PA-28R-180, PA28R-200, PA-28R-201, PA-28R-201T, PA28RT-201, PA-28RT-201T, PA-28S-160, PA-28S-180, PA-30, PA-32-260, PA-32300, PA-32-301, PA-32-301FT, PA-32301T, PA-32-301XTC, PA-32R-300, PA32R-301 (HP), PA-32R-301 (SP), PA-32R301T, PA-32RT-300, PA-32RT-300T, PA32S-300, PA-34-200, PA-34-200T, PA-34220T, PA-39, PA-40, PA-44-180, PA-44180T, PA-46-310P, and PA-46-350P airplanes;",
+   "AD 2020-16-08 (correction): Aspen Avionics, Inc.\n(c) Applicability\n185, 185A, 185B, 185C, 185D, 185E, 206, 206H, 207, 207A, 210, 210A, 210B, 210C, 210D, 210E, 210F, 210G, 210H, 210J, 210K, 210L, 210M, 210N, 210R, 210-5 (205), 2105A (205A), 310, 310A (USAF U-3A), 310B, 310C, 310D, 310E (USAF U-3B), 310F, 310G, 310H, 310I, 310J, 310J-1, 310K, 310L, 310N, 310P, 310Q, 310R, 320, 320A, 320B, 320C, 320D, 320E, 320F, 320-1, 335, 336, 337, 337A, 337B, 340, 340A, A150K, A150L, A150M, A152, A185E, A185F, E310H, E310J, LC40-550FG, LC41-550FG, LC42-550FG, P172D, P206, P206A, P206B, P206C, P206D, P206E, P210N, P210R, R172E (USAF T-41B, USAF T-41C and D), R172F (USAF T-41D), R172G (USAF T-41C and D), R172H (USAF T-41D), R172J, R172K, R182, T182, T182T, T206H, T207, T207A, T210F, T210G, T210H, T210J, T210K, T210L, T210M, T210N, T210R, T303, T310P, T310Q, T310R, TP206A, TP206B, TP206C, TP206D, TP206E, TR182, TU206A, TU206B, TU206C, TU206D, TU206E, TU206F, TU206G, U206, U206A, U206B, U206C, U206D, U206E, U206F, and U206G airplanes;",
+   "AD 2020-16-08: Aspen Avionics, Inc.\nAirworthiness Directives; Aspen Avionics, Inc.\nTransportation, Docket Operations, M30, West Building Ground Floor, Room W12-140, 1200 New Jersey Avenue SE, Washington, DC 20590.\nHand Delivery: U.S. Department of Transportation, Docket Operations, M30, West Building Ground Floor, Room W12-140, 1200 New Jersey Avenue SE,\nWashington, DC 20590, between 9 a.m. and 5 p.m., Monday through Friday, except Federal holidays.",
+   "AD 2020-16-08 (correction): Aspen Avionics, Inc.\nAirworthiness Directives; Aspen Avionics, Inc.\nTransportation, Docket Operations, M30, West Building Ground Floor, Room W12-140, 1200 New Jersey Avenue SE, Washington, DC 20590.\nHand Delivery: U.S. Department of Transportation, Docket Operations, M30, West Building Ground Floor, Room W12-140, 1200 New Jersey Avenue SE, Washington, DC 20590, between 9 a.m. and 5 p.m., Monday through Friday, except Federal holidays.",
+   "AD 2020-16-08: Aspen Avionics, Inc.\n(c) Applicability\n(xxvii) Pilatus Aircraft Ltd. Model PC-6, PC-6-H1, PC-6-H2, PC-6/350, PC-6/350H1, PC-6/350-H2, PC6/A, PC-6/A-H1, PC6/A-H2, PC-6/B-H2, PC-6/B1-H2, PC-6/ B2-H2, PC-6/B2-H4, PC-6/C-H2, and PC-6/ C1-H2 airplanes;",
+   "AD 2020-16-08: Aspen Avionics, Inc.\n(c) Applicability\n(1) This AD applies to Aspen Avionics, Inc., Evolution Flight Display (EFD) EFD1000 Primary Flight Display part number (P/N) 910-00001-011, EFD1000 Multi-Function Display P/N 910-00001-012, and EFD1000 Emergency Backup Display P/N 910-00001017 units that meet both conditions in paragraphs (c)(1)(i) and (ii) of this AD.\n(i) Software version 2.10 or 2.10.1 is installed;\n(ii) Independent attitude, altitude, and airspeed back-up instruments are not installed.\nThese flight display units may be installed on, but are not limited to, the following airplanes, certificated in any category:\n(i) Aermacchi S.p.A. Model S.205-18/F, S.205-18/R, S.205-20/F, S.205-20/R, S.20522/R, S.208, and S.208A airplanes;\n(ii) Aeronautica Macchi S.p.A. Model AL 60 (previously designated as Model LASA 60), AL 60-B, AL 60-C5, and AL 60-F5 airplanes;\n(iii) Aerostar Aircraft Corporation Model PA-60-600 (Aerostar 600), PA-60-601 (Aerostar 601), PA-60-601P (Aerostar 601P), and PA-60-602P (Aerostar 602P) airplanes;\n(iv) Alexandria Aircraft, LLC (type certificate previously held by Bellanca, Inc.), Model 14-19, 14-19-2, 14-19-3, 14-19-3A, 17-30, 17-30A, 17-31, 17-31A, 17-31ATC, and 17-31TC airplanes;",
+   "AD 2020-16-08 (correction): Aspen Avionics, Inc.\n14 CFR Part 39\n[Docket No. FAA-2020-0723; Project Identifier AD-2020-00586-Q; Amendment 39-21192; AD 2020-16-08]\nRIN 2120-AA64",
+   "AD 2020-16-08: Aspen Avionics, Inc.\n(d) Subject\nJoint Aircraft System Component (JASC)/ Air Transport Association (ATA) of America Code 3410, FLIGHT ENVIRONMENT DATA; 3420, ATTITUDE AND DIRECTION DATA SYSTEM.",
+   "AD 2020-16-08 (correction): Aspen Avionics, Inc.\n(d) Subject\nJoint Aircraft System Component (JASC)/ Air Transport Association (ATA) of America Code 3410, FLIGHT ENVIRONMENT DATA; 3420, ATTITUDE AND DIRECTION DATA SYSTEM.",
+   "AD 2020-16-08 (correction): Aspen Avionics, Inc.\n(b) Affected ADs\nNone.",
+   "AD 2020-16-08: Aspen Avionics, Inc.\nFAA's Determination\nThe FAA is issuing this AD because it evaluated all the relevant information and determined the unsafe condition described previously is likely to exist or develop in other products of the same type design.",
+   "AD 2020-16-08 (correction): Aspen Avionics, Inc.\n(c) Applicability\nThis AD applies to Aspen Avionics, Inc., Evolution Flight Display (EFD) EFD1000 Primary Flight Display part number (P/N) 910-00001-011, EFD1000 Multi-Function Display P/N 910-00001-012, and EFD1000 Emergency Backup Display P/N 910-00001017 units that meet both conditions in paragraphs (c)(1)(i) and (ii) of this AD.\n(i) Software version 2.10 or 2.10.1 is installed;\n(ii) Independent attitude, altitude, and airspeed back-up instruments are not installed.\nThese flight display units may be installed on, but are not limited to, the following airplanes, certificated in any category:\n(i) Aermacchi S.p.A. Model S.205-18/F, S.205-18/R, S.205-20/F, S.205-20/R, S.20522/R, S.208, and S.208A airplanes;\n(ii) Aeronautica Macchi S.p.A. Model AL 60 (previously designated as Model LASA 60), AL 60-B, AL 60-C5, and AL 60-F5 airplanes;\n(iii) Aerostar Aircraft Corporation Model PA-60-600 (Aerostar 600), PA-60-601 (Aerostar 601), PA-60-601P (Aerostar 601P), and PA-60-602P (Aerostar 602P) airplanes;\n(iv) Alexandria Aircraft, LLC (type certificate previously held by Bellanca, Inc.), Model 14-19, 14-19-2, 14-19-3, 14-19-3A, 17-30, 17-30A, 17-31, 17-31A, 17-31ATC, and 17-31TC airplanes;",
+   "AD 2020-16-08: Aspen Avionics, Inc.\n(j) Related Information\nFor more information about this AD, contact Mahmood Shah, Aerospace Engineer, Fort Worth ACO Branch, FAA, 10101 Hillwood Pkwy, Fort Worth, TX 76177; phone: 817-222-5133; fax: 817-222-5960; email: mahmood.shah@faa.gov.\nIssued on July 24, 2020.",
+   "AD 2020-16-08: Aspen Avionics, Inc.\n14 CFR Part 39\n[Docket No. FAA-2020-0723; Project Identifier AD-2020-00586-Q; Amendment 39-21192; AD 2020-16-08]\nRIN 2120-AA64",
+   "AD 2020-16-08 (correction): Aspen Avionics, Inc.\nRelated Service Information\nThe FAA reviewed Aspen Operator Advisory OA2020-01, dated March 3, 2020. This document advises operators of the automatic reset event and provides recommended operating limitations.\nThe FAA also reviewed Aspen Service Bulletin Number: SB2020-01, dated April 1, 2020. This document provides instructions for updating the EFD software to correct the automatic reset issue. This AD does not apply to airplanes that are compliant with this service information.",
+   "AD 2020-16-08 (correction): Aspen Avionics, Inc.\n(f) Compliance\nComply with this AD within the compliance times specified, unless already done.",
+   "AD 2020-16-08 (correction): Aspen Avionics, Inc.\n(j) Related Information\nFor more information about this AD, contact Mahmood Shah, Aerospace Engineer, Fort Worth ACO Branch, FAA, 10101 Hillwood Pkwy., Fort Worth, TX 76177; phone: 817-222-5133; fax: 817-222-5960; email: mahmood.shah@faa.gov.\nIssued on August 11, 2020.",
+   "AD 2020-16-08 (correction): Aspen Avionics, Inc.\n\u00a739.13 [Corrected]\n\u25a0 2. The FAA amends \u00a739.13 by adding the following new airworthiness directive (AD):",
+   "AD 2020-16-08: Aspen Avionics, Inc.\nAD Requirements\nThis AD requires revising the AFM limitations section to add language restricting operations to Day VFR only, either by making a pen and ink change or by inserting a copy of this AD.",
+   "AD 2020-16-08: Aspen Avionics, Inc.\n(c) Applicability\n(type certificate previously held by Cessna Aircraft Company) Model 120, 140, 140A, 150, 150A, 150B, 150C, 150D, 150E, 150F, 150G, 150H, 150J, 150K, 150L, 150M, 152, 170, 170A, 170B, 172, 172A, 172B, 172C, 172D, 172E, 172F (USAF T-41A), 172G, 172H (USAF T41A), 172I, 172K, 172L, 172M, 172N, 172P, 172Q, 172R, 172RG, 172S, 175, 175A, 175B, 175C, 177, 177A, 177B, 177RG, 180, 180A, 180B, 180C, 180D, 180E, 180F, 180G, 180H, 180J, 180K, 182, 182A, 182B, 182C, 182D, 182E, 182F, 182G, 182H, 182J, 182K, 182L, 182M, 182N, 182P, 182Q, 182R, 182S, 182T, 185, 185A, 185B, 185C, 185D, 185E, 206, 206H, 207, 207A, 210, 210A, 210B, 210C, 210D, 210E, 210F, 210G, 210H, 210J, 210K, 210L, 210M, 210N, 210R, 210-5 (205), 2105A (205A), 310, 310A (USAF U-3A), 310B, 310C, 310D, 310E (USAF U-3B), 310F, 310G, 310H, 310I, 310J, 310J-1, 310K, 310L, 310N, 310P, 310Q, 310R, 320, 320A, 320B, 320C, 320D, 320E, 320F, 320-1, 335, 336, 337, 337A, 337B, 340, 340A, A150K, A150L, A150M, A152, A185E, A185F, E310H, E310J, LC40-550FG, LC41-550FG, LC42-550FG, P172D, P206, P206A, P206B, P206C, P206D, P206E, P210N, P210R, R172E (USAF T-41B, USAF T-41C and D), R172F (USAF T-41D), R172G (USAF T-41C and D), R172H (USAF T-41D), R172J, R172K, R182, T182, T182T, T206H, T207, T207A, T210F, T210G, T210H, T210J, T210K, T210L, T210M, T210N, T210R, T303, T310P, T310Q, T310R, TP206A, TP206B, TP206C, TP206D, TP206E, TR182, TU206A, TU206B, TU206C, TU206D, TU206E, TU206F, TU206G, U206, U206A, U206B, U206C, U206D, U206E, U206F, and U206G airplanes;",
+   "CN-TFC AD compliance record, 26 October 2026\nSheet: AD compliance record\nAD number: 2020-16-08; Effective: 2020-08-17; Subject: Aspen EFD1000 software 2.10 and 2.10.1 without independent backup instruments; Applies: No; Notes: No Aspen display installed.",
+   "CN-TFG AD compliance record, 26 October 2026\nSheet: AD compliance record\nAD number: 2020-16-08; Effective: 2020-08-17; Subject: Aspen EFD1000 software 2.10 and 2.10.1 without independent backup instruments; Applies: No; Notes: No Aspen display installed.",
+   "CN-TFF AD compliance record, 26 October 2026\nSheet: AD compliance record\nAD number: 2020-16-08; Effective: 2020-08-17; Subject: Aspen EFD1000 software 2.10 and 2.10.1 without independent backup instruments; Applies: No; Notes: No Aspen display installed.",
+   "CN-TFA AD compliance record, 26 October 2026\nSheet: AD compliance record\nAD number: 2020-16-08; Effective: 2020-08-17; Subject: Aspen EFD1000 software 2.10 and 2.10.1 without independent backup instruments; Applies: No; Notes: No Aspen display installed.",
+   "CN-TFB AD compliance record, 26 October 2026\nSheet: AD compliance record\nAD number: 2020-16-08; Effective: 2020-08-17; Subject: Aspen EFD1000 software 2.10 and 2.10.1 without independent backup instruments; Applies: No; Notes: No Aspen display installed.",
+   "CN-TFD AD compliance record, 26 October 2026\nSheet: AD compliance record\nAD number: 2020-16-08; Effective: 2020-08-17; Subject: Aspen EFD1000 software 2.10 and 2.10.1 without independent backup instruments; Applies: No; Notes: No Aspen display installed.",
+   "AD 2020-16-08: Aspen Avionics, Inc.\nRelated Service Information\nThe FAA reviewed Aspen Operator Advisory OA2020-01, dated March 3, 2020. This document advises operators of the automatic reset event and provides recommended operating limitations.\nThe FAA also reviewed Aspen Service Bulletin Number: SB2020-01, dated April 1, 2020. This document provides instructions for updating the EFD software to correct the automatic reset issue. This AD does not apply to airplanes that are compliant with this service information.",
+   "AD 2005-01-19: GARMIN International Inc. GTX 33, GTX 33D, GTX 330, and GTX 330D Mode S Transponders\nComments\nWas the public invited to comment? We provided the public the opportunity to participate in developing this AD. The following presents the comments received on the proposal and FAA's response to each comment:\nComment Issue: Direct the AD Only to Those Products That Have the Old SW Versions 3.00, 3.01, 3.02, 3.04, and 3.05\nWhat is the commenter's concern? The NPRM currently requires installation of GTX 330/330D Software Upgrade Version 3.03 or 3.06 to comply with the proposed AD, or later Software Versions by way of an AMOC. The commenter would like to direct the AD only to those products that have the old software versions 3.00, 3.01, 3.02, 3.04, and 3.05 installed; so that if the new software version 3.06 or later is installed the AD does not affect that product. The AD should not apply to future software versions.\nWhat is FAA's response to the concern? We concur. This was the intent of the NPRM, and we have reworded the AD to reflect this comment.",
+   "AD 2005-01-19: GARMIN International Inc. GTX 33, GTX 33D, GTX 330, and GTX 330D Mode S Transponders\nProcedures\nInstall GTX 33/33D/330/330D Software Upgrade for transponders with software version 3.00, 3.01, 3.02, 3.04, 3.05 to at least version 3.06. If version 3.03 is already installed, no further action is required. This version is no longer available from Garmin. This AD does not apply to software versions past 3.05.\nInstall the software upgrade within 180 days after February 23, 2005 (the effective date of this AD), unless already accomplished.\nFollow GARMIN Mandatory Software Service Bulletin No.: 0304, Rev B, dated June 12, 2003 accomplished. (Software Upgrade 3.03) or GARMIN Mandatory Software Service Bulletin No.: 0409, dated July 19, 2004 (Software Upgrade 3.06)."
+  ]
+ },
+ "response": {
+  "model": "nvidia/nemotron-3.5-rerank-8b",
+  "results": [
+   {
+    "index": 21,
+    "relevance_score": 0.1633924742869086,
+    "document": {
+     "text": "CN-TFG AD compliance record, 26 October 2026\nSheet: AD compliance record\nAD number: 2020-16-08; Effective: 2020-08-17; Subject: Aspen EFD1000 software 2.10 and 2.10.1 without independent backup instruments; Applies: No; Notes: No Aspen display installed."
+    }
+   },
+   {
+    "index": 25,
+    "relevance_score": 0.16250459856133775,
+    "document": {
+     "text": "CN-TFD AD compliance record, 26 October 2026\nSheet: AD compliance record\nAD number: 2020-16-08; Effective: 2020-08-17; Subject: Aspen EFD1000 software 2.10 and 2.10.1 without independent backup instruments; Applies: No; Notes: No Aspen display installed."
+    }
+   },
+   {
+    "index": 22,
+    "relevance_score": 0.1620376293463524,
+    "document": {
+     "text": "CN-TFF AD compliance record, 26 October 2026\nSheet: AD compliance record\nAD number: 2020-16-08; Effective: 2020-08-17; Subject: Aspen EFD1000 software 2.10 and 2.10.1 without independent backup instruments; Applies: No; Notes: No Aspen display installed."
+    }
+   },
+   {
+    "index": 23,
+    "relevance_score": 0.16189708339766415,
+    "document": {
+     "text": "CN-TFA AD compliance record, 26 October 2026\nSheet: AD compliance record\nAD number: 2020-16-08; Effective: 2020-08-17; Subject: Aspen EFD1000 software 2.10 and 2.10.1 without independent backup instruments; Applies: No; Notes: No Aspen display installed."
+    }
+   },
+   {
+    "index": 24,
+    "relevance_score": 0.1618087222151387,
+    "document": {
+     "text": "CN-TFB AD compliance record, 26 October 2026\nSheet: AD compliance record\nAD number: 2020-16-08; Effective: 2020-08-17; Subject: Aspen EFD1000 software 2.10 and 2.10.1 without independent backup instruments; Applies: No; Notes: No Aspen display installed."
+    }
+   },
+   {
+    "index": 20,
+    "relevance_score": 0.16102172823957392,
+    "document": {
+     "text": "CN-TFC AD compliance record, 26 October 2026\nSheet: AD compliance record\nAD number: 2020-16-08; Effective: 2020-08-17; Subject: Aspen EFD1000 software 2.10 and 2.10.1 without independent backup instruments; Applies: No; Notes: No Aspen display installed."
+    }
+   },
+   {
+    "index": 5,
+    "relevance_score": 0.1421693682683535,
+    "document": {
+     "text": "AD 2020-16-08: Aspen Avionics, Inc.\n(c) Applicability\n(1) This AD applies to Aspen Avionics, Inc., Evolution Flight Display (EFD) EFD1000 Primary Flight Display part number (P/N) 910-00001-011, EFD1000 Multi-Function Display P/N 910-00001-012, and EFD1000 Emergency Backup Display P/N 910-00001017 units that meet both conditions in paragraphs (c)(1)(i) and (ii) of this AD.\n(i) Software version 2.10 or 2.10.1 is installed;\n(ii) Independent attitude, altitude, and airspeed back-up instruments are not installed.\nThese flight display units may be installed on, but are not limited to, the following airplanes, certificated in any category:\n(i) Aermacchi S.p.A. Model S.205-18/F, S.205-18/R, S.205-20/F, S.205-20/R, S.20522/R, S.208, and S.208A airplanes;\n(ii) Aeronautica Macchi S.p.A. Model AL 60 (previously designated as Model LASA 60), AL 60-B, AL 60-C5, and AL 60-F5 airplanes;\n(iii) Aerostar Aircraft Corporation Model PA-60-600 (Aerostar 600), PA-60-601 (Aerostar 601), PA-60-601P (Aerostar 601P), and PA-60-602P (Aerostar 602P) airplanes;\n(iv) Alexandria Aircraft, LLC (type certificate previously held by Bellanca, Inc.), Model 14-19, 14-19-2, 14-19-3, 14-19-3A, 17-30, 17-30A, 17-31, 17-31A, 17-31ATC, and 17-31TC airplanes;"
+    }
+   },
+   {
+    "index": 11,
+    "relevance_score": 0.13599887022699228,
+    "document": {
+     "text": "AD 2020-16-08 (correction): Aspen Avionics, Inc.\n(c) Applicability\nThis AD applies to Aspen Avionics, Inc., Evolution Flight Display (EFD) EFD1000 Primary Flight Display part number (P/N) 910-00001-011, EFD1000 Multi-Function Display P/N 910-00001-012, and EFD1000 Emergency Backup Display P/N 910-00001017 units that meet both conditions in paragraphs (c)(1)(i) and (ii) of this AD.\n(i) Software version 2.10 or 2.10.1 is installed;\n(ii) Independent attitude, altitude, and airspeed back-up instruments are not installed.\nThese flight display units may be installed on, but are not limited to, the following airplanes, certificated in any category:\n(i) Aermacchi S.p.A. Model S.205-18/F, S.205-18/R, S.205-20/F, S.205-20/R, S.20522/R, S.208, and S.208A airplanes;\n(ii) Aeronautica Macchi S.p.A. Model AL 60 (previously designated as Model LASA 60), AL 60-B, AL 60-C5, and AL 60-F5 airplanes;\n(iii) Aerostar Aircraft Corporation Model PA-60-600 (Aerostar 600), PA-60-601 (Aerostar 601), PA-60-601P (Aerostar 601P), and PA-60-602P (Aerostar 602P) airplanes;\n(iv) Alexandria Aircraft, LLC (type certificate previously held by Bellanca, Inc.), Model 14-19, 14-19-2, 14-19-3, 14-19-3A, 17-30, 17-30A, 17-31, 17-31A, 17-31ATC, and 17-31TC airplanes;"
+    }
+   },
+   {
+    "index": 1,
+    "relevance_score": 0.10778565048122243,
+    "document": {
+     "text": "AD 2020-16-08 (correction): Aspen Avionics, Inc.\n(c) Applicability\n185, 185A, 185B, 185C, 185D, 185E, 206, 206H, 207, 207A, 210, 210A, 210B, 210C, 210D, 210E, 210F, 210G, 210H, 210J, 210K, 210L, 210M, 210N, 210R, 210-5 (205), 2105A (205A), 310, 310A (USAF U-3A), 310B, 310C, 310D, 310E (USAF U-3B), 310F, 310G, 310H, 310I, 310J, 310J-1, 310K, 310L, 310N, 310P, 310Q, 310R, 320, 320A, 320B, 320C, 320D, 320E, 320F, 320-1, 335, 336, 337, 337A, 337B, 340, 340A, A150K, A150L, A150M, A152, A185E, A185F, E310H, E310J, LC40-550FG, LC41-550FG, LC42-550FG, P172D, P206, P206A, P206B, P206C, P206D, P206E, P210N, P210R, R172E (USAF T-41B, USAF T-41C and D), R172F (USAF T-41D), R172G (USAF T-41C and D), R172H (USAF T-41D), R172J, R172K, R182, T182, T182T, T206H, T207, T207A, T210F, T210G, T210H, T210J, T210K, T210L, T210M, T210N, T210R, T303, T310P, T310Q, T310R, TP206A, TP206B, TP206C, TP206D, TP206E, TR182, TU206A, TU206B, TU206C, TU206D, TU206E, TU206F, TU206G, U206, U206A, U206B, U206C, U206D, U206E, U206F, and U206G airplanes;"
+    }
+   },
+   {
+    "index": 26,
+    "relevance_score": 0.09823710868826933,
+    "document": {
+     "text": "AD 2020-16-08: Aspen Avionics, Inc.\nRelated Service Information\nThe FAA reviewed Aspen Operator Advisory OA2020-01, dated March 3, 2020. This document advises operators of the automatic reset event and provides recommended operating limitations.\nThe FAA also reviewed Aspen Service Bulletin Number: SB2020-01, dated April 1, 2020. This document provides instructions for updating the EFD software to correct the automatic reset issue. This AD does not apply to airplanes that are compliant with this service information."
+    }
+   },
+   {
+    "index": 13,
+    "relevance_score": 0.09726405092549227,
+    "document": {
+     "text": "AD 2020-16-08: Aspen Avionics, Inc.\n14 CFR Part 39\n[Docket No. FAA-2020-0723; Project Identifier AD-2020-00586-Q; Amendment 39-21192; AD 2020-16-08]\nRIN 2120-AA64"
+    }
+   },
+   {
+    "index": 14,
+    "relevance_score": 0.09505594781889722,
+    "document": {
+     "text": "AD 2020-16-08 (correction): Aspen Avionics, Inc.\nRelated Service Information\nThe FAA reviewed Aspen Operator Advisory OA2020-01, dated March 3, 2020. This document advises operators of the automatic reset event and provides recommended operating limitations.\nThe FAA also reviewed Aspen Service Bulletin Number: SB2020-01, dated April 1, 2020. This document provides instructions for updating the EFD software to correct the automatic reset issue. This AD does not apply to airplanes that are compliant with this service information."
+    }
+   },
+   {
+    "index": 6,
+    "relevance_score": 0.09352488066116009,
+    "document": {
+     "text": "AD 2020-16-08 (correction): Aspen Avionics, Inc.\n14 CFR Part 39\n[Docket No. FAA-2020-0723; Project Identifier AD-2020-00586-Q; Amendment 39-21192; AD 2020-16-08]\nRIN 2120-AA64"
+    }
+   },
+   {
+    "index": 12,
+    "relevance_score": 0.0888945695491824,
+    "document": {
+     "text": "AD 2020-16-08: Aspen Avionics, Inc.\n(j) Related Information\nFor more information about this AD, contact Mahmood Shah, Aerospace Engineer, Fort Worth ACO Branch, FAA, 10101 Hillwood Pkwy, Fort Worth, TX 76177; phone: 817-222-5133; fax: 817-222-5960; email: mahmood.shah@faa.gov.\nIssued on July 24, 2020."
+    }
+   },
+   {
+    "index": 19,
+    "relevance_score": 0.08809886774928863,
+    "document": {
+     "text": "AD 2020-16-08: Aspen Avionics, Inc.\n(c) Applicability\n(type certificate previously held by Cessna Aircraft Company) Model 120, 140, 140A, 150, 150A, 150B, 150C, 150D, 150E, 150F, 150G, 150H, 150J, 150K, 150L, 150M, 152, 170, 170A, 170B, 172, 172A, 172B, 172C, 172D, 172E, 172F (USAF T-41A), 172G, 172H (USAF T41A), 172I, 172K, 172L, 172M, 172N, 172P, 172Q, 172R, 172RG, 172S, 175, 175A, 175B, 175C, 177, 177A, 177B, 177RG, 180, 180A, 180B, 180C, 180D, 180E, 180F, 180G, 180H, 180J, 180K, 182, 182A, 182B, 182C, 182D, 182E, 182F, 182G, 182H, 182J, 182K, 182L, 182M, 182N, 182P, 182Q, 182R, 182S, 182T, 185, 185A, 185B, 185C, 185D, 185E, 206, 206H, 207, 207A, 210, 210A, 210B, 210C, 210D, 210E, 210F, 210G, 210H, 210J, 210K, 210L, 210M, 210N, 210R, 210-5 (205), 2105A (205A), 310, 310A (USAF U-3A), 310B, 310C, 310D, 310E (USAF U-3B), 310F, 310G, 310H, 310I, 310J, 310J-1, 310K, 310L, 310N, 310P, 310Q, 310R, 320, 320A, 320B, 320C, 320D, 320E, 320F, 320-1, 335, 336, 337, 337A, 337B, 340, 340A, A150K, A150L, A150M, A152, A185E, A185F, E310H, E310J, LC40-550FG, LC41-550FG, LC42-550FG, P172D, P206, P206A, P206B, P206C, P206D, P206E, P210N, P210R, R172E (USAF T-41B, USAF T-41C and D), R172F (USAF T-41D), R172G (USAF T-41C and D), R172H (USAF T-41D), R172J, R172K, R182, T182, T182T, T206H, T207, T207A, T210F, T210G, T210H, T210J, T210K, T210L, T210M, T210N, T210R, T303, T310P, T310Q, T310R, TP206A, TP206B, TP206C, TP206D, TP206E, TR182, TU206A, TU206B, TU206C, TU206D, TU206E, TU206F, TU206G, U206, U206A, U206B, U206C, U206D, U206E, U206F, and U206G airplanes;"
+    }
+   },
+   {
+    "index": 17,
+    "relevance_score": 0.0876054510145479,
+    "document": {
+     "text": "AD 2020-16-08 (correction): Aspen Avionics, Inc.\n\u00a739.13 [Corrected]\n\u25a0 2. The FAA amends \u00a739.13 by adding the following new airworthiness directive (AD):"
+    }
+   },
+   {
+    "index": 16,
+    "relevance_score": 0.08529865648010548,
+    "document": {
+     "text": "AD 2020-16-08 (correction): Aspen Avionics, Inc.\n(j) Related Information\nFor more information about this AD, contact Mahmood Shah, Aerospace Engineer, Fort Worth ACO Branch, FAA, 10101 Hillwood Pkwy., Fort Worth, TX 76177; phone: 817-222-5133; fax: 817-222-5960; email: mahmood.shah@faa.gov.\nIssued on August 11, 2020."
+    }
+   },
+   {
+    "index": 9,
+    "relevance_score": 0.0840312887362631,
+    "document": {
+     "text": "AD 2020-16-08 (correction): Aspen Avionics, Inc.\n(b) Affected ADs\nNone."
+    }
+   },
+   {
+    "index": 10,
+    "relevance_score": 0.08366923494957267,
+    "document": {
+     "text": "AD 2020-16-08: Aspen Avionics, Inc.\nFAA's Determination\nThe FAA is issuing this AD because it evaluated all the relevant information and determined the unsafe condition described previously is likely to exist or develop in other products of the same type design."
+    }
+   },
+   {
+    "index": 0,
+    "relevance_score": 0.08346418776077484,
+    "document": {
+     "text": "AD 2020-16-08 (correction): Aspen Avionics, Inc.\n(c) Applicability\n18S ''135,'' PA-18S ''150,'' PA-19 (Army L18C), PA-19S, PA-20, PA-20 ''115,'' PA-20 ''135,'' PA-20S, PA-20S ''115,'' PA-20S ''135,'' PA-22, PA-22-108, PA-22-135, PA22-150, PA-22-160, PA-22S-135, PA-22S150, PA-22S-160, PA-23, PA-23-160, PA23-235, PA-23-250, PA-24, PA-24-250, PA-24-260, PA-24-400, PA-28-140, PA28-150, PA-28-151, PA-28-160, PA-28161, PA-28-180, PA-28-181, PA-28-201T, PA-28-235, PA-28-236, PA-28R-180, PA28R-200, PA-28R-201, PA-28R-201T, PA28RT-201, PA-28RT-201T, PA-28S-160, PA-28S-180, PA-30, PA-32-260, PA-32300, PA-32-301, PA-32-301FT, PA-32301T, PA-32-301XTC, PA-32R-300, PA32R-301 (HP), PA-32R-301 (SP), PA-32R301T, PA-32RT-300, PA-32RT-300T, PA32S-300, PA-34-200, PA-34-200T, PA-34220T, PA-39, PA-40, PA-44-180, PA-44180T, PA-46-310P, and PA-46-350P airplanes;"
+    }
+   },
+   {
+    "index": 4,
+    "relevance_score": 0.08238362185920485,
+    "document": {
+     "text": "AD 2020-16-08: Aspen Avionics, Inc.\n(c) Applicability\n(xxvii) Pilatus Aircraft Ltd. Model PC-6, PC-6-H1, PC-6-H2, PC-6/350, PC-6/350H1, PC-6/350-H2, PC6/A, PC-6/A-H1, PC6/A-H2, PC-6/B-H2, PC-6/B1-H2, PC-6/ B2-H2, PC-6/B2-H4, PC-6/C-H2, and PC-6/ C1-H2 airplanes;"
+    }
+   },
+   {
+    "index": 15,
+    "relevance_score": 0.08169682067629641,
+    "document": {
+     "text": "AD 2020-16-08 (correction): Aspen Avionics, Inc.\n(f) Compliance\nComply with this AD within the compliance times specified, unless already done."
+    }
+   },
+   {
+    "index": 7,
+    "relevance_score": 0.08068791800882287,
+    "document": {
+     "text": "AD 2020-16-08: Aspen Avionics, Inc.\n(d) Subject\nJoint Aircraft System Component (JASC)/ Air Transport Association (ATA) of America Code 3410, FLIGHT ENVIRONMENT DATA; 3420, ATTITUDE AND DIRECTION DATA SYSTEM."
+    }
+   },
+   {
+    "index": 2,
+    "relevance_score": 0.08047175035997127,
+    "document": {
+     "text": "AD 2020-16-08: Aspen Avionics, Inc.\nAirworthiness Directives; Aspen Avionics, Inc.\nTransportation, Docket Operations, M30, West Building Ground Floor, Room W12-140, 1200 New Jersey Avenue SE, Washington, DC 20590.\nHand Delivery: U.S. Department of Transportation, Docket Operations, M30, West Building Ground Floor, Room W12-140, 1200 New Jersey Avenue SE,\nWashington, DC 20590, between 9 a.m. and 5 p.m., Monday through Friday, except Federal holidays."
+    }
+   },
+   {
+    "index": 3,
+    "relevance_score": 0.07977870528215518,
+    "document": {
+     "text": "AD 2020-16-08 (correction): Aspen Avionics, Inc.\nAirworthiness Directives; Aspen Avionics, Inc.\nTransportation, Docket Operations, M30, West Building Ground Floor, Room W12-140, 1200 New Jersey Avenue SE, Washington, DC 20590.\nHand Delivery: U.S. Department of Transportation, Docket Operations, M30, West Building Ground Floor, Room W12-140, 1200 New Jersey Avenue SE, Washington, DC 20590, between 9 a.m. and 5 p.m., Monday through Friday, except Federal holidays."
+    }
+   },
+   {
+    "index": 8,
+    "relevance_score": 0.07863747514583742,
+    "document": {
+     "text": "AD 2020-16-08 (correction): Aspen Avionics, Inc.\n(d) Subject\nJoint Aircraft System Component (JASC)/ Air Transport Association (ATA) of America Code 3410, FLIGHT ENVIRONMENT DATA; 3420, ATTITUDE AND DIRECTION DATA SYSTEM."
+    }
+   },
+   {
+    "index": 18,
+    "relevance_score": 0.07681865368489325,
+    "document": {
+     "text": "AD 2020-16-08: Aspen Avionics, Inc.\nAD Requirements\nThis AD requires revising the AFM limitations section to add language restricting operations to Day VFR only, either by making a pen and ink change or by inserting a copy of this AD."
+    }
+   },
+   {
+    "index": 27,
+    "relevance_score": 0.0339636964505172,
+    "document": {
+     "text": "AD 2005-01-19: GARMIN International Inc. GTX 33, GTX 33D, GTX 330, and GTX 330D Mode S Transponders\nComments\nWas the public invited to comment? We provided the public the opportunity to participate in developing this AD. The following presents the comments received on the proposal and FAA's response to each comment:\nComment Issue: Direct the AD Only to Those Products That Have the Old SW Versions 3.00, 3.01, 3.02, 3.04, and 3.05\nWhat is the commenter's concern? The NPRM currently requires installation of GTX 330/330D Software Upgrade Version 3.03 or 3.06 to comply with the proposed AD, or later Software Versions by way of an AMOC. The commenter would like to direct the AD only to those products that have the old software versions 3.00, 3.01, 3.02, 3.04, and 3.05 installed; so that if the new software version 3.06 or later is installed the AD does not affect that product. The AD should not apply to future software versions.\nWhat is FAA's response to the concern? We concur. This was the intent of the NPRM, and we have reworded the AD to reflect this comment."
+    }
+   },
+   {
+    "index": 28,
+    "relevance_score": 0.029417956483781798,
+    "document": {
+     "text": "AD 2005-01-19: GARMIN International Inc. GTX 33, GTX 33D, GTX 330, and GTX 330D Mode S Transponders\nProcedures\nInstall GTX 33/33D/330/330D Software Upgrade for transponders with software version 3.00, 3.01, 3.02, 3.04, 3.05 to at least version 3.06. If version 3.03 is already installed, no further action is required. This version is no longer available from Garmin. This AD does not apply to software versions past 3.05.\nInstall the software upgrade within 180 days after February 23, 2005 (the effective date of this AD), unless already accomplished.\nFollow GARMIN Mandatory Software Service Bulletin No.: 0304, Rev B, dated June 12, 2003 accomplished. (Software Upgrade 3.03) or GARMIN Mandatory Software Service Bulletin No.: 0409, dated July 19, 2004 (Software Upgrade 3.06)."
+    }
+   }
+  ],
+  "usage": {
+   "total_tokens": 7379,
+   "cost": 0
+  },
+  "provider": "Nvidia",
+  "id": "gen-rerank-1793459642-6NTEGaOHsBbe72qrLJJ9"
+ }
+}

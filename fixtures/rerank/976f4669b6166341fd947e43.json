@@ -1,0 +1,163 @@
+{
+ "request": {
+  "model": "nvidia/nemotron-3.5-rerank-8b:free",
+  "query": "Who approved CN-TFC's muffler inspection for return to service?",
+  "documents": [
+   "Work orders WO-2021-0544, WO-2024-0071, WO-2026-0388 (scanned)\nWork order WO-2026-0388: CN-TFC, muffler inspection (scanned)\nWork performed\nCustomer request: inspect muffler for cracks after a carbon monoxide detector alert in flight.\nMuffler AWI P/N A1754001-23, S/N 34729. Not among the serial numbers listed in AD 2018-02-04, figure 1. Inspected the weld of the muffler body to the cuff following the method of AD 2018-02-04 paragraph (g)(1) anyway: no cracks, no broken welds.\nReplaced the carbon monoxide detector card (expired). Cabin heat checked on ground run.\nPerformed by: Y. Alaoui\nApproved for return to service: K. Bennani",
+   "Work order WO-2025-0203: CN-TFC, 100-hour inspection\nParts used\nCertification: the work above was performed in accordance with 14 CFR Part 43 and the procedures manual. The aircraft is airworthy for the work performed.\nPerformed by: S. Idrissi\nReturn to service: A. Tazi, licence MA-B1-0457",
+   "Work orders WO-2021-0544, WO-2024-0071, WO-2026-0388 (scanned)\nWork order WO-2026-0388: CN-TFC, muffler inspection (scanned)\nANFA AERO SERVICES\n| Date | 6 October 2026 |\n| Registration | CN-TFC |\n| Aircraft | Cessna 172S |\n| Serial number | 172S11290 |\n| Airframe total time at completion (h) | 6,184.9 |",
+   "Work order WO-2024-0135: CN-TFC, 100-hour inspection\nParts used\nCertification: the work above was performed in accordance with 14 CFR Part 43 and the procedures manual. The aircraft is airworthy for the work performed.\nPerformed by: M. Chraibi\nReturn to service: A. Tazi, licence MA-B1-0457",
+   "Work order WO-2025-0392: CN-TFC, annual inspection\nParts used\nCertification: the work above was performed in accordance with 14 CFR Part 43 and the procedures manual. The aircraft is airworthy for the work performed.\nPerformed by: S. Idrissi\nReturn to service: K. Bennani, licence MA-B1-0212",
+   "AD 2018-02-04: Aerospace Welding Minneapolis, Inc., Mufflers\nRequest We Allow the Use of Other Service Information for Muffler Replacement\nDavid McGhee requested we revise the AD to allow the use of other service information for installing a replacement muffler. Operators may choose to install an FAA-approved muffler from a source other than AWI. The service information proposed in the NPRM may not be appropriate for mufflers produced by a different manufacturer.\nWe agree with this comment. If an operator installs an FAA-approved muffler other than the AWI muffler, the installation instructions from that manufacturer should be used.\nWe have revised the language in this AD to allow the use of the manufacturer's installation instructions for the specific muffler that is being installed.",
+   "Work order WO-2026-0303: CN-TFC, 100-hour inspection\nParts used\nCertification: the work above was performed in accordance with 14 CFR Part 43 and the procedures manual. The aircraft is airworthy for the work performed.\nPerformed by: Y. Alaoui\nReturn to service: R. El Fassi, licence MA-B1-0618",
+   "AC 43-9D, Maintenance Records\nAPPENDIX B. BLOCK-BY-BLOCK INSTRUCTIONS FOR COMPLETING FAA FORM 8130-3 FOR AN APPROVAL FOR RETURN TO SERVICE\nTable B-1. FAA Form 8130-3 for Approval for Return to Service Block 11 Terms\n| Enter: | For: |\n| --- | --- |\n| \"OVERHAULED\" | A process that ensures the product or article is in complete conformity with the applicable service tolerances specified in the type certificate (TC) holder's or equipment manufacturer's ICA, or in the data approved or accepted by the responsible authority. The product or article will be at least disassembled, cleaned, inspected, repaired as necessary, reassembled, and tested in accordance with the approved standards and technical data or current standards and technical data acceptable to the Administrator, which have been developed and documented by the holder of a TC, Supplemental Type Certificate (STC), or a material, part, process, or appliance approval under 14 CFR part 21 (refer to 14 CFR \u00a7\u00a7 21.50, 43.2, and 91.421). |\n| \"REPAIRED\" | Repair of the defect(s) using an applicable standard. |\n| \"INSPECTED\" and/or \"TESTED\" | Examination or measurement in accordance with an applicable standard (e.g., visual inspection, functional testing, or bench testing). |\n| \"MODIFIED\" | Alteration of a product or article to conform to an applicable standard. |",
+   "Work order WO-2026-0235: CN-TFC, 100-hour inspection\nParts used\nCertification: the work above was performed in accordance with 14 CFR Part 43 and the procedures manual. The aircraft is airworthy for the work performed.\nPerformed by: Y. Alaoui\nReturn to service: A. Tazi, licence MA-B1-0457",
+   "Procedures manual, revision 7 (excerpt)\n5 Maintenance records and return to service\n5.1 Every maintenance record entry contains what 14 CFR 43.9 requires: a description of the work, the date it was completed, the name of the person who did it, and the signature and certificate number of the person approving the aircraft for return to service.\n5.2 Write airframe hours as read from the aircraft's hour meter, to one decimal place, and check the figure you copied from the work order into the register before signing.\n5.3 Work orders are scanned and kept with the aircraft records. The paper originals are kept for two years.",
+   "Work order WO-2024-0352: CN-TFC, 100-hour inspection\nParts used\nCertification: the work above was performed in accordance with 14 CFR Part 43 and the procedures manual. The aircraft is airworthy for the work performed.\nPerformed by: Y. Alaoui\nReturn to service: R. El Fassi, licence MA-B1-0618",
+   "AC 43-9D, Maintenance Records\n23.6 Information Relevant to the European Union (EU).\nAviation authorities in the EU may recognize FAA Form 8130-3 for approval for return to service only from 14 CFR part 145 repair stations or air carriers that also hold a European Union Aviation Safety Agency (EASA) Part-145 approval and that were rated for the product or article at the time the product or article was approved for return to service. When FAA Form 8130-3 is used as approval for return to service to meet the terms and conditions of the Maintenance Annex Guidance (MAG) under the Bilateral Aviation Safety Agreement (BASA), this is considered to be a \"dual release\" FAA Form 8130-3. The MAG can be viewed at https://www.faa.gov/aircraft/air_cert/internatio nal/bilateral_agreements/baa_basa_listing.\nA product or article approved for return to service with a dual release on FAA Form 8130-3 is eligible for installation on a U.S.- or EU-registered aircraft. For a dual",
+   "Work order WO-2025-0129: CN-TFC, 100-hour inspection\nParts used\nCertification: the work above was performed in accordance with 14 CFR Part 43 and the procedures manual. The aircraft is airworthy for the work performed.\nPerformed by: Y. Alaoui\nReturn to service: K. Bennani, licence MA-B1-0212",
+   "Work order WO-2025-0526: CN-TFC, 100-hour inspection\nParts used\nCertification: the work above was performed in accordance with 14 CFR Part 43 and the procedures manual. The aircraft is airworthy for the work performed.\nPerformed by: N. Berrada\nReturn to service: R. El Fassi, licence MA-B1-0618",
+   "Work order WO-2025-0272: CN-TFC, 100-hour inspection\nParts used\nCertification: the work above was performed in accordance with 14 CFR Part 43 and the procedures manual. The aircraft is airworthy for the work performed.\nPerformed by: Y. Alaoui\nReturn to service: R. El Fassi, licence MA-B1-0618",
+   "Work order WO-2026-0042: CN-TFC, 100-hour inspection\nParts used\nCertification: the work above was performed in accordance with 14 CFR Part 43 and the procedures manual. The aircraft is airworthy for the work performed.\nPerformed by: H. Ouazzani\nReturn to service: R. El Fassi, licence MA-B1-0618",
+   "Work order WO-2024-0064: CN-TFC, 100-hour inspection\nParts used\nCertification: the work above was performed in accordance with 14 CFR Part 43 and the procedures manual. The aircraft is airworthy for the work performed.\nPerformed by: N. Berrada\nReturn to service: R. El Fassi, licence MA-B1-0618",
+   "Work order WO-2024-0479: CN-TFC, 100-hour inspection\nParts used\nCertification: the work above was performed in accordance with 14 CFR Part 43 and the procedures manual. The aircraft is airworthy for the work performed.\nPerformed by: Y. Alaoui\nReturn to service: A. Tazi, licence MA-B1-0457"
+  ]
+ },
+ "response": {
+  "model": "nvidia/nemotron-3.5-rerank-8b",
+  "results": [
+   {
+    "index": 0,
+    "relevance_score": 0.1567486538092543,
+    "document": {
+     "text": "Work orders WO-2021-0544, WO-2024-0071, WO-2026-0388 (scanned)\nWork order WO-2026-0388: CN-TFC, muffler inspection (scanned)\nWork performed\nCustomer request: inspect muffler for cracks after a carbon monoxide detector alert in flight.\nMuffler AWI P/N A1754001-23, S/N 34729. Not among the serial numbers listed in AD 2018-02-04, figure 1. Inspected the weld of the muffler body to the cuff following the method of AD 2018-02-04 paragraph (g)(1) anyway: no cracks, no broken welds.\nReplaced the carbon monoxide detector card (expired). Cabin heat checked on ground run.\nPerformed by: Y. Alaoui\nApproved for return to service: K. Bennani"
+    }
+   },
+   {
+    "index": 2,
+    "relevance_score": 0.08089449280566986,
+    "document": {
+     "text": "Work orders WO-2021-0544, WO-2024-0071, WO-2026-0388 (scanned)\nWork order WO-2026-0388: CN-TFC, muffler inspection (scanned)\nANFA AERO SERVICES\n| Date | 6 October 2026 |\n| Registration | CN-TFC |\n| Aircraft | Cessna 172S |\n| Serial number | 172S11290 |\n| Airframe total time at completion (h) | 6,184.9 |"
+    }
+   },
+   {
+    "index": 4,
+    "relevance_score": 0.07002562124830174,
+    "document": {
+     "text": "Work order WO-2025-0392: CN-TFC, annual inspection\nParts used\nCertification: the work above was performed in accordance with 14 CFR Part 43 and the procedures manual. The aircraft is airworthy for the work performed.\nPerformed by: S. Idrissi\nReturn to service: K. Bennani, licence MA-B1-0212"
+    }
+   },
+   {
+    "index": 16,
+    "relevance_score": 0.0687895799733064,
+    "document": {
+     "text": "Work order WO-2024-0064: CN-TFC, 100-hour inspection\nParts used\nCertification: the work above was performed in accordance with 14 CFR Part 43 and the procedures manual. The aircraft is airworthy for the work performed.\nPerformed by: N. Berrada\nReturn to service: R. El Fassi, licence MA-B1-0618"
+    }
+   },
+   {
+    "index": 10,
+    "relevance_score": 0.06856178920536454,
+    "document": {
+     "text": "Work order WO-2024-0352: CN-TFC, 100-hour inspection\nParts used\nCertification: the work above was performed in accordance with 14 CFR Part 43 and the procedures manual. The aircraft is airworthy for the work performed.\nPerformed by: Y. Alaoui\nReturn to service: R. El Fassi, licence MA-B1-0618"
+    }
+   },
+   {
+    "index": 15,
+    "relevance_score": 0.06855015771094032,
+    "document": {
+     "text": "Work order WO-2026-0042: CN-TFC, 100-hour inspection\nParts used\nCertification: the work above was performed in accordance with 14 CFR Part 43 and the procedures manual. The aircraft is airworthy for the work performed.\nPerformed by: H. Ouazzani\nReturn to service: R. El Fassi, licence MA-B1-0618"
+    }
+   },
+   {
+    "index": 13,
+    "relevance_score": 0.06851568503092155,
+    "document": {
+     "text": "Work order WO-2025-0526: CN-TFC, 100-hour inspection\nParts used\nCertification: the work above was performed in accordance with 14 CFR Part 43 and the procedures manual. The aircraft is airworthy for the work performed.\nPerformed by: N. Berrada\nReturn to service: R. El Fassi, licence MA-B1-0618"
+    }
+   },
+   {
+    "index": 12,
+    "relevance_score": 0.06832908140170701,
+    "document": {
+     "text": "Work order WO-2025-0129: CN-TFC, 100-hour inspection\nParts used\nCertification: the work above was performed in accordance with 14 CFR Part 43 and the procedures manual. The aircraft is airworthy for the work performed.\nPerformed by: Y. Alaoui\nReturn to service: K. Bennani, licence MA-B1-0212"
+    }
+   },
+   {
+    "index": 14,
+    "relevance_score": 0.06818324594776434,
+    "document": {
+     "text": "Work order WO-2025-0272: CN-TFC, 100-hour inspection\nParts used\nCertification: the work above was performed in accordance with 14 CFR Part 43 and the procedures manual. The aircraft is airworthy for the work performed.\nPerformed by: Y. Alaoui\nReturn to service: R. El Fassi, licence MA-B1-0618"
+    }
+   },
+   {
+    "index": 6,
+    "relevance_score": 0.06795680303723596,
+    "document": {
+     "text": "Work order WO-2026-0303: CN-TFC, 100-hour inspection\nParts used\nCertification: the work above was performed in accordance with 14 CFR Part 43 and the procedures manual. The aircraft is airworthy for the work performed.\nPerformed by: Y. Alaoui\nReturn to service: R. El Fassi, licence MA-B1-0618"
+    }
+   },
+   {
+    "index": 3,
+    "relevance_score": 0.06721158870268396,
+    "document": {
+     "text": "Work order WO-2024-0135: CN-TFC, 100-hour inspection\nParts used\nCertification: the work above was performed in accordance with 14 CFR Part 43 and the procedures manual. The aircraft is airworthy for the work performed.\nPerformed by: M. Chraibi\nReturn to service: A. Tazi, licence MA-B1-0457"
+    }
+   },
+   {
+    "index": 1,
+    "relevance_score": 0.06659852825681584,
+    "document": {
+     "text": "Work order WO-2025-0203: CN-TFC, 100-hour inspection\nParts used\nCertification: the work above was performed in accordance with 14 CFR Part 43 and the procedures manual. The aircraft is airworthy for the work performed.\nPerformed by: S. Idrissi\nReturn to service: A. Tazi, licence MA-B1-0457"
+    }
+   },
+   {
+    "index": 17,
+    "relevance_score": 0.06658539818291294,
+    "document": {
+     "text": "Work order WO-2024-0479: CN-TFC, 100-hour inspection\nParts used\nCertification: the work above was performed in accordance with 14 CFR Part 43 and the procedures manual. The aircraft is airworthy for the work performed.\nPerformed by: Y. Alaoui\nReturn to service: A. Tazi, licence MA-B1-0457"
+    }
+   },
+   {
+    "index": 8,
+    "relevance_score": 0.06616539827185589,
+    "document": {
+     "text": "Work order WO-2026-0235: CN-TFC, 100-hour inspection\nParts used\nCertification: the work above was performed in accordance with 14 CFR Part 43 and the procedures manual. The aircraft is airworthy for the work performed.\nPerformed by: Y. Alaoui\nReturn to service: A. Tazi, licence MA-B1-0457"
+    }
+   },
+   {
+    "index": 9,
+    "relevance_score": 0.03382539236633976,
+    "document": {
+     "text": "Procedures manual, revision 7 (excerpt)\n5 Maintenance records and return to service\n5.1 Every maintenance record entry contains what 14 CFR 43.9 requires: a description of the work, the date it was completed, the name of the person who did it, and the signature and certificate number of the person approving the aircraft for return to service.\n5.2 Write airframe hours as read from the aircraft's hour meter, to one decimal place, and check the figure you copied from the work order into the register before signing.\n5.3 Work orders are scanned and kept with the aircraft records. The paper originals are kept for two years."
+    }
+   },
+   {
+    "index": 5,
+    "relevance_score": 0.03300539915110077,
+    "document": {
+     "text": "AD 2018-02-04: Aerospace Welding Minneapolis, Inc., Mufflers\nRequest We Allow the Use of Other Service Information for Muffler Replacement\nDavid McGhee requested we revise the AD to allow the use of other service information for installing a replacement muffler. Operators may choose to install an FAA-approved muffler from a source other than AWI. The service information proposed in the NPRM may not be appropriate for mufflers produced by a different manufacturer.\nWe agree with this comment. If an operator installs an FAA-approved muffler other than the AWI muffler, the installation instructions from that manufacturer should be used.\nWe have revised the language in this AD to allow the use of the manufacturer's installation instructions for the specific muffler that is being installed."
+    }
+   },
+   {
+    "index": 7,
+    "relevance_score": 0.03142218401363517,
+    "document": {
+     "text": "AC 43-9D, Maintenance Records\nAPPENDIX B. BLOCK-BY-BLOCK INSTRUCTIONS FOR COMPLETING FAA FORM 8130-3 FOR AN APPROVAL FOR RETURN TO SERVICE\nTable B-1. FAA Form 8130-3 for Approval for Return to Service Block 11 Terms\n| Enter: | For: |\n| --- | --- |\n| \"OVERHAULED\" | A process that ensures the product or article is in complete conformity with the applicable service tolerances specified in the type certificate (TC) holder's or equipment manufacturer's ICA, or in the data approved or accepted by the responsible authority. The product or article will be at least disassembled, cleaned, inspected, repaired as necessary, reassembled, and tested in accordance with the approved standards and technical data or current standards and technical data acceptable to the Administrator, which have been developed and documented by the holder of a TC, Supplemental Type Certificate (STC), or a material, part, process, or appliance approval under 14 CFR part 21 (refer to 14 CFR \u00a7\u00a7 21.50, 43.2, and 91.421). |\n| \"REPAIRED\" | Repair of the defect(s) using an applicable standard. |\n| \"INSPECTED\" and/or \"TESTED\" | Examination or measurement in accordance with an applicable standard (e.g., visual inspection, functional testing, or bench testing). |\n| \"MODIFIED\" | Alteration of a product or article to conform to an applicable standard. |"
+    }
+   },
+   {
+    "index": 11,
+    "relevance_score": 0.02834129582223798,
+    "document": {
+     "text": "AC 43-9D, Maintenance Records\n23.6 Information Relevant to the European Union (EU).\nAviation authorities in the EU may recognize FAA Form 8130-3 for approval for return to service only from 14 CFR part 145 repair stations or air carriers that also hold a European Union Aviation Safety Agency (EASA) Part-145 approval and that were rated for the product or article at the time the product or article was approved for return to service. When FAA Form 8130-3 is used as approval for return to service to meet the terms and conditions of the Maintenance Annex Guidance (MAG) under the Bilateral Aviation Safety Agreement (BASA), this is considered to be a \"dual release\" FAA Form 8130-3. The MAG can be viewed at https://www.faa.gov/aircraft/air_cert/internatio nal/bilateral_agreements/baa_basa_listing.\nA product or article approved for return to service with a dual release on FAA Form 8130-3 is eligible for installation on a U.S.- or EU-registered aircraft. For a dual"
+    }
+   }
+  ],
+  "usage": {
+   "total_tokens": 2694,
+   "cost": 0
+  },
+  "provider": "Nvidia",
+  "id": "gen-rerank-1793459234-1Ag7qeFUHDq4QicMWP2x"
+ }
+}

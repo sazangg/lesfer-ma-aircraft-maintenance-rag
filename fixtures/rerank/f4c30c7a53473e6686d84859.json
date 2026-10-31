@@ -1,0 +1,155 @@
+{
+ "request": {
+  "model": "nvidia/nemotron-3.5-rerank-8b:free",
+  "query": "Who signed off the oil pressure switch job on CN-TFE?",
+  "documents": [
+   "Work orders WO-2021-0544, WO-2024-0071, WO-2026-0388 (scanned)\nWork order WO-2021-0544: CN-TFE, oil pressure switch replacement (scanned)\nWork performed\nReplaced engine oil pressure switch with new, zero-time switch P/N 83278, per AD 2013-11-11 paragraph (g)(6) and Cessna Service Bulletin SB 07-79-01.\nRemoved switch P/N 83278 at 3,000.4 hours since installation. Ground run: oil pressure indication normal, no leaks.\nTorque per maintenance manual. Wrench T-014.\nPerformed by: Y. Alaoui\nApproved for return to service: A. Tazi",
+   "CN-TFE AD compliance record, 26 October 2026\nSheet: AD compliance record\nAD number: 2013-11-11; Effective: 2013-08-01; Subject: Engine oil pressure switch, 3,000-hour limit; Applies: Yes; Notes: Serial number in range.; Method of compliance: Replaced with new, zero-time P/N 83278 switch.; Date: 2021-08-30; Airframe hours: 10,650.2; Recurring: Every 3,000 h; Next due: 13,650.2 h; Signed: K. Bennani",
+   "Work orders WO-2021-0544, WO-2024-0071, WO-2026-0388 (scanned)\nWork order WO-2021-0544: CN-TFE, oil pressure switch replacement (scanned)\nANFA AERO SERVICES\nHangar 3, Casablanca | Work order WO-2021-0544",
+   "Tadla Flight Academy fleet register, 26 October 2026\nSheet: Time-controlled parts\n| Registration | Part | Part number | Serial number | Installed (date) | Airframe hours at installation | Limit | Source of limit |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n| CN-TFA | Engine oil pressure switch | 83278 |  | 2024-02-14 | 7210.4 | 3,000 h | AD 2013-11-11 |\n| CN-TFB | Engine oil pressure switch | 83278 |  | 2023-05-09 | 5880 | 3,000 h | AD 2013-11-11 |\n| CN-TFC | Engine oil pressure switch | 83278 |  | 2022-11-21 | 3350.7 | 3,000 h | Procedures manual 3.2 |\n| CN-TFD | Engine oil pressure switch | 83278 |  | 2025-03-03 | 9940.2 | 3,000 h | AD 2013-11-11 |\n| CN-TFE | Engine oil pressure switch | 83278 |  | 2021-08-30 | 10560.2 | 3,000 h | AD 2013-11-11 |\n| CN-TFF | Engine oil pressure switch | 83278 |  | 2022-07-18 | 2410.5 | 3,000 h | Procedures manual 3.2 |\n| CN-TFA | ELT battery | 452-6505 |  | 2021-01-19 | 4755.3 | 6 years | ELT manufacturer |\n| CN-TFE | ELT battery | 452-6505 |  | 2020-11-25 | 9810 | 6 years | ELT manufacturer |",
+   "Work orders WO-2021-0544, WO-2024-0071, WO-2026-0388 (scanned)\nWork order WO-2021-0544: CN-TFE, oil pressure switch replacement (scanned)\nANFA AERO SERVICES\n| Date | 30 August 2021 |\n| Registration | CN-TFE |\n| Aircraft | Cessna 172R |\n| Serial number | 17280744 |\n| Airframe total time at completion (h) | 10,650.2 |",
+   "AD 2013-11-11: Cessna Aircraft Company Airplanes\n(g) Actions\n83278 engine oil pressure switch, replace it with a new, zero time, P/N 83278 engine oil pressure switch. Record the engine oil pressure switch part number, date, and airplane hours in the airplane log book. The recorded engine oil pressure switch TIS will be used as the benchmark for calculation of the 3,000 hour TIS limit on the engine oil pressure switch.",
+   "AD 2013-11-11: Cessna Aircraft Company Airplanes\n(g) Actions\nIf after the inspection required in paragraph (g)(1) of this AD it is confirmed that P/N 83278 engine oil pressure switch is installed, through inspection of the airplane or engine logbooks determine the TIS of the engine oil pressure switch.\nIf after the inspection required in paragraph (g)(1) of this AD you cannot positively identify the hours TIS on the P/N 83278 engine oil pressure switch, before further flight, replace the engine oil pressure switch with a new, zero time, P/N 83278 engine oil pressure switch. Record the engine oil pressure switch part number, date, and airplane hours in the airplane log book. The recorded engine oil pressure switch TIS will be used as the benchmark for calculation of the 3,000 hour TIS limit on the engine oil pressure switch.\n(6) When the engine oil pressure switch is at or greater than 3,000 hours TIS or within 50 hours TIS after August 1, 2013 (the effective date of this AD), whichever occurs later, and repetitively thereafter at intervals not to exceed 3,000 hours TIS on the P/N",
+   "AD 2013-11-11: Cessna Aircraft Company Airplanes\n(g) Actions\nAt the next scheduled oil change, annual inspection, or 100-hour time-inservice (TIS) inspection after August 1, 2013 (the effective date of this AD), whichever occurs later, but in no case later than 12 months after August 1, 2013 (the effective date of this AD), inspect the engine oil pressure switch to determine if it is partnumber (P/N) 77041 or P/N 83278.\nIf after the inspection required in paragraph (g)(1) of this AD, P/N 77041 engine oil pressure switch is installed, before further flight, replace the engine oil pressure switch with a new, zero time, P/N 83278 engine oil pressure switch. Record the engine oil pressure switch part number, date, and airplane hours TIS in the airplane log book. The recorded engine oil pressure switch TIS will be used as the benchmark for calculation of the 3,000 hour TIS limit on the engine oil pressure switch.\nAfter August 1, 2013 (the effective date of this AD), do not install a P/N 77041 engine oil pressure switch on any affected airplane.",
+   "Work orders WO-2021-0544, WO-2024-0071, WO-2026-0388 (scanned)\nWork order WO-2021-0544: CN-TFE, oil pressure switch replacement (scanned)\nWork performed\nFigure description: The figure shows a blank oval outline containing only the word \"QUALITY\" in the center; there are no labels, values, units, part numbers, or notes printed in it.",
+   "CN-TFE AD compliance record, 26 October 2026\nSheet: AD compliance record\nAD number: 2000-04-01; Effective: 2000-03-11; Subject: Engine oil pressure switch P/N 77041; Applies: No; Notes: Superseded by AD 2013-11-11.",
+   "AD 2000-04-01: Cessna Aircraft Company Models 172R, 172S, 182S, 206H, and T206H Airplanes\n\u00a739.13 [Amended]\nSection 39.13 is amended by adding a new airworthiness directive (AD) to read as follows:\n2000-04-01 Cessna Aircraft Company: Amendment 39-11583; Docket No. 2000-CE-07-AD.\n(a) What airplanes are affected by this AD?: The following model and serial number airplanes, certificated in any category:\n(b) Who must comply with this AD?: Anyone who wishes to operate any of the above airplanes on the U.S. Register.\n(c) What problem does this AD address?: The actions of this AD are intended to prevent failure of the engine oil pressure switch diaphragm, which results in loss of\nengine oil through the vent hole. This could lead to partial or complete loss of engine power.\n(d) What must I do to address this problem?: Within the next 25 hours time-inservice after the effective date of this AD, inspect the oil pressure switch to determine\nif it is part-number (P/N) 77041 (or FAAapproved equivalent part number) or P/N 83278 (or FAA-approved equivalent part number). Then accomplish the following, as applicable:\nIf Then\nP/N 77041 (or FAA-approved equivalent part number) oil pressure switch is installed,\nP/N 83278 (or FAA-approved equivalent part number) oil pressure switch is installed,",
+   "Work order WO-2024-0374: CN-TFE, 100-hour inspection\nParts used\nCertification: the work above was performed in accordance with 14 CFR Part 43 and the procedures manual. The aircraft is airworthy for the work performed.\nPerformed by: Y. Alaoui\nReturn to service: R. El Fassi, licence MA-B1-0618",
+   "AD 2013-11-11: Cessna Aircraft Company Airplanes\nAuthority for This Rulemaking\n04-01 applies to the specified products. The SNPRM published in the Federal Register on March 7, 2013 (78 FR 14726). The NPRM (77 FR 60062, October 2, 2012) proposed to increase the applicability of the AD and place a life-limit of 3,000 hours time-in-service (TIS) on the engine oil pressure switch, requiring replacement when the engine oil pressure switch reaches its life limit. The SNPRM proposed to change the applicable serial numbers ranges and place a life-limit of 3,000 hours TIS on the engine oil pressure switch, requiring replacement when the engine oil pressure switch reaches its life limit.",
+   "Work order WO-2025-0122: CN-TFE, 100-hour inspection\nParts used\nCertification: the work above was performed in accordance with 14 CFR Part 43 and the procedures manual. The aircraft is airworthy for the work performed.\nPerformed by: H. Ouazzani\nReturn to service: A. Tazi, licence MA-B1-0457",
+   "AD 2000-04-01: Cessna Aircraft Company Models 172R, 172S, 182S, 206H, and T206H Airplanes\nDiscussion\nWhat events have caused this AD?: We have received three reports of the diaphragm of the oil pressure switch failing on Cessna Modesl 172R, 182S, and 206H airplanes. The part number (P/N) of the failed oil pressure switch is 77041. The P/N 77041 oil pressure switch is utilized on the following Cessna airplanes:\nWhat are the consequences if the condition is not corrected?: Failure of the engine oil pressure switch diaphragm results in loss of engine oil through the vent hole. This could lead to partial or complete loss of engine power.",
+   "Work order WO-2025-0032: CN-TFE, 100-hour inspection\nParts used\nCertification: the work above was performed in accordance with 14 CFR Part 43 and the procedures manual. The aircraft is airworthy for the work performed.\nPerformed by: M. Chraibi\nReturn to service: A. Tazi, licence MA-B1-0457",
+   "Work order WO-2024-0475: CN-TFE, 100-hour inspection\nParts used\nCertification: the work above was performed in accordance with 14 CFR Part 43 and the procedures manual. The aircraft is airworthy for the work performed.\nPerformed by: H. Ouazzani\nReturn to service: K. Bennani, licence MA-B1-0212"
+  ]
+ },
+ "response": {
+  "model": "nvidia/nemotron-3.5-rerank-8b",
+  "results": [
+   {
+    "index": 0,
+    "relevance_score": 0.13477152471730244,
+    "document": {
+     "text": "Work orders WO-2021-0544, WO-2024-0071, WO-2026-0388 (scanned)\nWork order WO-2021-0544: CN-TFE, oil pressure switch replacement (scanned)\nWork performed\nReplaced engine oil pressure switch with new, zero-time switch P/N 83278, per AD 2013-11-11 paragraph (g)(6) and Cessna Service Bulletin SB 07-79-01.\nRemoved switch P/N 83278 at 3,000.4 hours since installation. Ground run: oil pressure indication normal, no leaks.\nTorque per maintenance manual. Wrench T-014.\nPerformed by: Y. Alaoui\nApproved for return to service: A. Tazi"
+    }
+   },
+   {
+    "index": 1,
+    "relevance_score": 0.10636457029681842,
+    "document": {
+     "text": "CN-TFE AD compliance record, 26 October 2026\nSheet: AD compliance record\nAD number: 2013-11-11; Effective: 2013-08-01; Subject: Engine oil pressure switch, 3,000-hour limit; Applies: Yes; Notes: Serial number in range.; Method of compliance: Replaced with new, zero-time P/N 83278 switch.; Date: 2021-08-30; Airframe hours: 10,650.2; Recurring: Every 3,000 h; Next due: 13,650.2 h; Signed: K. Bennani"
+    }
+   },
+   {
+    "index": 4,
+    "relevance_score": 0.09294819805404762,
+    "document": {
+     "text": "Work orders WO-2021-0544, WO-2024-0071, WO-2026-0388 (scanned)\nWork order WO-2021-0544: CN-TFE, oil pressure switch replacement (scanned)\nANFA AERO SERVICES\n| Date | 30 August 2021 |\n| Registration | CN-TFE |\n| Aircraft | Cessna 172R |\n| Serial number | 17280744 |\n| Airframe total time at completion (h) | 10,650.2 |"
+    }
+   },
+   {
+    "index": 2,
+    "relevance_score": 0.08219212548534502,
+    "document": {
+     "text": "Work orders WO-2021-0544, WO-2024-0071, WO-2026-0388 (scanned)\nWork order WO-2021-0544: CN-TFE, oil pressure switch replacement (scanned)\nANFA AERO SERVICES\nHangar 3, Casablanca | Work order WO-2021-0544"
+    }
+   },
+   {
+    "index": 8,
+    "relevance_score": 0.07037332100286263,
+    "document": {
+     "text": "Work orders WO-2021-0544, WO-2024-0071, WO-2026-0388 (scanned)\nWork order WO-2021-0544: CN-TFE, oil pressure switch replacement (scanned)\nWork performed\nFigure description: The figure shows a blank oval outline containing only the word \"QUALITY\" in the center; there are no labels, values, units, part numbers, or notes printed in it."
+    }
+   },
+   {
+    "index": 13,
+    "relevance_score": 0.06361752278577111,
+    "document": {
+     "text": "Work order WO-2025-0122: CN-TFE, 100-hour inspection\nParts used\nCertification: the work above was performed in accordance with 14 CFR Part 43 and the procedures manual. The aircraft is airworthy for the work performed.\nPerformed by: H. Ouazzani\nReturn to service: A. Tazi, licence MA-B1-0457"
+    }
+   },
+   {
+    "index": 16,
+    "relevance_score": 0.06356544725311948,
+    "document": {
+     "text": "Work order WO-2024-0475: CN-TFE, 100-hour inspection\nParts used\nCertification: the work above was performed in accordance with 14 CFR Part 43 and the procedures manual. The aircraft is airworthy for the work performed.\nPerformed by: H. Ouazzani\nReturn to service: K. Bennani, licence MA-B1-0212"
+    }
+   },
+   {
+    "index": 11,
+    "relevance_score": 0.06345464235935235,
+    "document": {
+     "text": "Work order WO-2024-0374: CN-TFE, 100-hour inspection\nParts used\nCertification: the work above was performed in accordance with 14 CFR Part 43 and the procedures manual. The aircraft is airworthy for the work performed.\nPerformed by: Y. Alaoui\nReturn to service: R. El Fassi, licence MA-B1-0618"
+    }
+   },
+   {
+    "index": 15,
+    "relevance_score": 0.06335324120255054,
+    "document": {
+     "text": "Work order WO-2025-0032: CN-TFE, 100-hour inspection\nParts used\nCertification: the work above was performed in accordance with 14 CFR Part 43 and the procedures manual. The aircraft is airworthy for the work performed.\nPerformed by: M. Chraibi\nReturn to service: A. Tazi, licence MA-B1-0457"
+    }
+   },
+   {
+    "index": 9,
+    "relevance_score": 0.06105965443936981,
+    "document": {
+     "text": "CN-TFE AD compliance record, 26 October 2026\nSheet: AD compliance record\nAD number: 2000-04-01; Effective: 2000-03-11; Subject: Engine oil pressure switch P/N 77041; Applies: No; Notes: Superseded by AD 2013-11-11."
+    }
+   },
+   {
+    "index": 3,
+    "relevance_score": 0.052708259026781334,
+    "document": {
+     "text": "Tadla Flight Academy fleet register, 26 October 2026\nSheet: Time-controlled parts\n| Registration | Part | Part number | Serial number | Installed (date) | Airframe hours at installation | Limit | Source of limit |\n| --- | --- | --- | --- | --- | --- | --- | --- |\n| CN-TFA | Engine oil pressure switch | 83278 |  | 2024-02-14 | 7210.4 | 3,000 h | AD 2013-11-11 |\n| CN-TFB | Engine oil pressure switch | 83278 |  | 2023-05-09 | 5880 | 3,000 h | AD 2013-11-11 |\n| CN-TFC | Engine oil pressure switch | 83278 |  | 2022-11-21 | 3350.7 | 3,000 h | Procedures manual 3.2 |\n| CN-TFD | Engine oil pressure switch | 83278 |  | 2025-03-03 | 9940.2 | 3,000 h | AD 2013-11-11 |\n| CN-TFE | Engine oil pressure switch | 83278 |  | 2021-08-30 | 10560.2 | 3,000 h | AD 2013-11-11 |\n| CN-TFF | Engine oil pressure switch | 83278 |  | 2022-07-18 | 2410.5 | 3,000 h | Procedures manual 3.2 |\n| CN-TFA | ELT battery | 452-6505 |  | 2021-01-19 | 4755.3 | 6 years | ELT manufacturer |\n| CN-TFE | ELT battery | 452-6505 |  | 2020-11-25 | 9810 | 6 years | ELT manufacturer |"
+    }
+   },
+   {
+    "index": 5,
+    "relevance_score": 0.044845911933823465,
+    "document": {
+     "text": "AD 2013-11-11: Cessna Aircraft Company Airplanes\n(g) Actions\n83278 engine oil pressure switch, replace it with a new, zero time, P/N 83278 engine oil pressure switch. Record the engine oil pressure switch part number, date, and airplane hours in the airplane log book. The recorded engine oil pressure switch TIS will be used as the benchmark for calculation of the 3,000 hour TIS limit on the engine oil pressure switch."
+    }
+   },
+   {
+    "index": 7,
+    "relevance_score": 0.041282347375581285,
+    "document": {
+     "text": "AD 2013-11-11: Cessna Aircraft Company Airplanes\n(g) Actions\nAt the next scheduled oil change, annual inspection, or 100-hour time-inservice (TIS) inspection after August 1, 2013 (the effective date of this AD), whichever occurs later, but in no case later than 12 months after August 1, 2013 (the effective date of this AD), inspect the engine oil pressure switch to determine if it is partnumber (P/N) 77041 or P/N 83278.\nIf after the inspection required in paragraph (g)(1) of this AD, P/N 77041 engine oil pressure switch is installed, before further flight, replace the engine oil pressure switch with a new, zero time, P/N 83278 engine oil pressure switch. Record the engine oil pressure switch part number, date, and airplane hours TIS in the airplane log book. The recorded engine oil pressure switch TIS will be used as the benchmark for calculation of the 3,000 hour TIS limit on the engine oil pressure switch.\nAfter August 1, 2013 (the effective date of this AD), do not install a P/N 77041 engine oil pressure switch on any affected airplane."
+    }
+   },
+   {
+    "index": 10,
+    "relevance_score": 0.04107656540288841,
+    "document": {
+     "text": "AD 2000-04-01: Cessna Aircraft Company Models 172R, 172S, 182S, 206H, and T206H Airplanes\n\u00a739.13 [Amended]\nSection 39.13 is amended by adding a new airworthiness directive (AD) to read as follows:\n2000-04-01 Cessna Aircraft Company: Amendment 39-11583; Docket No. 2000-CE-07-AD.\n(a) What airplanes are affected by this AD?: The following model and serial number airplanes, certificated in any category:\n(b) Who must comply with this AD?: Anyone who wishes to operate any of the above airplanes on the U.S. Register.\n(c) What problem does this AD address?: The actions of this AD are intended to prevent failure of the engine oil pressure switch diaphragm, which results in loss of\nengine oil through the vent hole. This could lead to partial or complete loss of engine power.\n(d) What must I do to address this problem?: Within the next 25 hours time-inservice after the effective date of this AD, inspect the oil pressure switch to determine\nif it is part-number (P/N) 77041 (or FAAapproved equivalent part number) or P/N 83278 (or FAA-approved equivalent part number). Then accomplish the following, as applicable:\nIf Then\nP/N 77041 (or FAA-approved equivalent part number) oil pressure switch is installed,\nP/N 83278 (or FAA-approved equivalent part number) oil pressure switch is installed,"
+    }
+   },
+   {
+    "index": 6,
+    "relevance_score": 0.04102078077769703,
+    "document": {
+     "text": "AD 2013-11-11: Cessna Aircraft Company Airplanes\n(g) Actions\nIf after the inspection required in paragraph (g)(1) of this AD it is confirmed that P/N 83278 engine oil pressure switch is installed, through inspection of the airplane or engine logbooks determine the TIS of the engine oil pressure switch.\nIf after the inspection required in paragraph (g)(1) of this AD you cannot positively identify the hours TIS on the P/N 83278 engine oil pressure switch, before further flight, replace the engine oil pressure switch with a new, zero time, P/N 83278 engine oil pressure switch. Record the engine oil pressure switch part number, date, and airplane hours in the airplane log book. The recorded engine oil pressure switch TIS will be used as the benchmark for calculation of the 3,000 hour TIS limit on the engine oil pressure switch.\n(6) When the engine oil pressure switch is at or greater than 3,000 hours TIS or within 50 hours TIS after August 1, 2013 (the effective date of this AD), whichever occurs later, and repetitively thereafter at intervals not to exceed 3,000 hours TIS on the P/N"
+    }
+   },
+   {
+    "index": 14,
+    "relevance_score": 0.03852304849048913,
+    "document": {
+     "text": "AD 2000-04-01: Cessna Aircraft Company Models 172R, 172S, 182S, 206H, and T206H Airplanes\nDiscussion\nWhat events have caused this AD?: We have received three reports of the diaphragm of the oil pressure switch failing on Cessna Modesl 172R, 182S, and 206H airplanes. The part number (P/N) of the failed oil pressure switch is 77041. The P/N 77041 oil pressure switch is utilized on the following Cessna airplanes:\nWhat are the consequences if the condition is not corrected?: Failure of the engine oil pressure switch diaphragm results in loss of engine oil through the vent hole. This could lead to partial or complete loss of engine power."
+    }
+   },
+   {
+    "index": 12,
+    "relevance_score": 0.036165489868609506,
+    "document": {
+     "text": "AD 2013-11-11: Cessna Aircraft Company Airplanes\nAuthority for This Rulemaking\n04-01 applies to the specified products. The SNPRM published in the Federal Register on March 7, 2013 (78 FR 14726). The NPRM (77 FR 60062, October 2, 2012) proposed to increase the applicability of the AD and place a life-limit of 3,000 hours time-in-service (TIS) on the engine oil pressure switch, requiring replacement when the engine oil pressure switch reaches its life limit. The SNPRM proposed to change the applicable serial numbers ranges and place a life-limit of 3,000 hours TIS on the engine oil pressure switch, requiring replacement when the engine oil pressure switch reaches its life limit."
+    }
+   }
+  ],
+  "usage": {
+   "total_tokens": 3406,
+   "cost": 0
+  },
+  "provider": "Nvidia",
+  "id": "gen-rerank-1793459158-78wFiAyg4ugh1X3aj2Nm"
+ }
+}

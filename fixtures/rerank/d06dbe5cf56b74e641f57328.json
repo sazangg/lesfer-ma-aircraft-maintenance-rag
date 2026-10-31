@@ -1,0 +1,211 @@
+{
+ "request": {
+  "model": "nvidia/nemotron-3.5-rerank-8b:free",
+  "query": "Which airplanes does AD 2012-22-01 apply to?",
+  "documents": [
+   "AD 2012-22-01: Cessna Aircraft Company Airplanes\n(n) Material Incorporated by Reference\nAdministration (NARA). For information on the availability of this material at NARA, call gov/federal-register/cfr/ibr-locations.html.\nIssued in Kansas City, Missouri, on October 22, 2012.",
+   "AD 2012-22-01: Cessna Aircraft Company Airplanes\n14 CFR Part 39\n[Docket No. FAA-2012-0846; Directorate Identifier 2012-CE-021-AD; Amendment 39-17237; AD 2012-22-01]\nRIN 2120-AA64",
+   "AD 2012-22-01: Cessna Aircraft Company Airplanes\nAirworthiness Directives; Cessna Aircraft Company Airplanes\nADDRESSES: For service information identified in this AD, contact Cessna Aircraft Company, Customer service, P.O. Box 7706, Wichita, KS 67277; telephone: (316) 517-5800; fax: (316) 517-7271; Internet: http://www. cessnasupport.com. You may review copies of the referenced service information at the FAA, Small Airplane Directorate, 901 Locust, Kansas City, MO 64106. For information on the availability of this material at the FAA, call (816) 329-4148.",
+   "AD 2012-22-01: Cessna Aircraft Company Airplanes\n\u00a739.13 [Amended]\n\u25a0 2. The FAA amends \u00a739.13 by adding the following new airworthiness directive (AD):",
+   "AD 2012-22-01: Cessna Aircraft Company Airplanes\n(m) Related Information\nFor more information about this AD, contact Jeff Janusz, Aerospace Engineer, Wichita ACO, FAA, 1801 S. Airport Road, Room 100, Wichita, Kansas 67209; phone: (316) 946-4148; fax: (316) 946-4107; email: jeff.janusz@faa.gov.",
+   "AD 2012-22-01: Cessna Aircraft Company Airplanes\nCosts of Compliance\nWe estimate that this AD affects 55 airplanes of U.S. registry.\nWe estimate the following costs to comply with this AD:",
+   "AD 2012-22-01: Cessna Aircraft Company Airplanes\n2012-22-01 Cessna Aircraft Company:\nAmendment 39-17237; Docket No. FAA-2012-0846; Directorate Identifier 2012-CE-021-AD.",
+   "AD 2012-22-01: Cessna Aircraft Company Airplanes\nList of Subjects in 14 CFR Part 39\nAir transportation, Aircraft, Aviation safety, Incorporation by reference, Safety.",
+   "AD 2012-22-01: Cessna Aircraft Company Airplanes\n(a) Effective Date\nThis AD is effective December 28, 2012.",
+   "AD 2012-22-01: Cessna Aircraft Company Airplanes\nAirworthiness Directives; Cessna Aircraft Company Airplanes\nAGENCY: Federal Aviation Administration (FAA), DOT. ACTION: Final rule.\nSUMMARY: We are adopting a new airworthiness directive (AD) for certain Cessna Aircraft Company Models 172R and 172S airplanes. This AD was prompted by reports of chafed fuel return line assemblies, which were caused by the fuel return line assembly rubbing against the right steering tube assembly during full rudder pedal actuation. This AD requires you to inspect the fuel return line assembly for chafing; replace the fuel return line assembly if chafing is found; inspect the clearance between the fuel return line assembly and both the right steering tube assembly and the airplane structure; and adjust as necessary. We are issuing this AD to correct the unsafe condition on these products.\nDATES: This AD is effective December 28, 2012.\nDirector of the Federal Register approved the incorporation by reference of a certain other publication listed in this AD as of March 13, 2012 (77 FR 6003, February 7, 2012).",
+   "AD 2012-22-01: Cessna Aircraft Company Airplanes\nComments\nWe gave the public the opportunity to participate in developing this AD. We received no comments on the NPRM (77 FR 50054, August 20, 2012) or on the determination of the cost to the public.",
+   "AD 2012-22-01: Cessna Aircraft Company Airplanes\nPART 39-AIRWORTHINESS DIRECTIVES\n\u25a0 1. The authority citation for part 39 continues to read as follows:\nAuthority: 49 U.S.C. 106(g), 40113, 44701.",
+   "AD 2012-22-01: Cessna Aircraft Company Airplanes\n(c) Applicability\nThis AD applies to the following Cessna Aircraft Company (Cessna) airplanes, certificated in any category:\n(1) Model 172R, serial numbers (S/N) 17280001 through 17281187, that have incorporated Cessna Aircraft Company Service Bulletin SB04-28-03, dated August 30, 2004, and Engine Fuel Return System, Modification Kit MK172-28-01, dated August 30, 2004; and\n\n(2) Model 172S, S/N l72S8001 through 172S9490, that have incorporated Cessna Aircraft Company Service Bulletin SB04-28-03, dated August 30, 2004, and Engine Fuel Return System, Modification Kit MK172-28-01, dated August 30, 2004.\nchanges. We have determined that these minor changes:\nAre consistent with the intent that was proposed in the NPRM (77 FR 50054, August 20, 2012) for correcting the unsafe condition; and\nDo not add any additional burden upon the public than was already proposed in the NPRM (77 FR 50054, August 20, 2012).",
+   "AD 2012-22-01: Cessna Aircraft Company Airplanes\nAdoption of the Amendment\nAccordingly, under the authority delegated to me by the Administrator, the FAA amends 14 CFR part 39 as follows:",
+   "AD 2012-22-01: Cessna Aircraft Company Airplanes\nDiscussion\nWe issued a notice of proposed rulemaking (NPRM) to amend 14 CFR part 39 to include an AD that would apply to the specified products. That NPRM published in the Federal Register on August 20, 2012 (77 FR 50054). That NPRM proposed to require you to inspect the fuel return line assembly for chafing; replace the fuel return line assembly if chafing is found; inspect the clearance between the fuel return line assembly and both the right steering tube assembly and the airplane structure; and adjust as necessary.",
+   "AD 2012-22-01: Cessna Aircraft Company Airplanes\nExamining the AD Docket\nYou may examine the AD docket on the Internet at http://www.regulations. gov; or in person at the Docket Management Facility between 9 a.m. and 5 p.m., Monday through Friday, except Federal holidays. The AD docket contains this AD, the regulatory evaluation, any comments received, and other information. The address for the Docket Office (phone: 800-647-5527) is Document Management Facility, U.S. Department of Transportation, Docket Operations, M-30, West Building Ground Floor, Room W12-140, 1200 New Jersey Avenue SE., Washington, DC 20590.\nFOR FURTHER INFORMATION CONTACT: Jeff Janusz, Aerospace Engineer, Wichita Aircraft Certification Office, FAA, 1801 S. Airport Road, Room 100, Wichita, Kansas 67209; phone: (316) 946-4148; fax: (316) 946-4107; email: jeff.janusz@ faa.gov.",
+   "AD 2012-22-01: Cessna Aircraft Company Airplanes\n(d) Subject\nJoint Aircraft System Component (JASC)/ Air Transport Association (ATA) of America Code 2820, Aircraft Fuel Distribution System.",
+   "AD 2012-22-01: Cessna Aircraft Company Airplanes\n(b) Affected ADs\nNone.",
+   "AD 2012-22-01: Cessna Aircraft Company Airplanes\n(f) Compliance\nComply with this AD within the compliance times specified, unless already done.",
+   "AD 2012-22-01: Cessna Aircraft Company Airplanes\nConclusion\nWe reviewed the relevant data and determined that air safety and the public interest require adopting the AD as proposed except for minor editorial",
+   "AD 2020-16-08: Aspen Avionics, Inc.\nRelated Service Information\nThe FAA reviewed Aspen Operator Advisory OA2020-01, dated March 3, 2020. This document advises operators of the automatic reset event and provides recommended operating limitations.\nThe FAA also reviewed Aspen Service Bulletin Number: SB2020-01, dated April 1, 2020. This document provides instructions for updating the EFD software to correct the automatic reset issue. This AD does not apply to airplanes that are compliant with this service information.",
+   "AD 2020-16-08 (correction): Aspen Avionics, Inc.\nRelated Service Information\nThe FAA reviewed Aspen Operator Advisory OA2020-01, dated March 3, 2020. This document advises operators of the automatic reset event and provides recommended operating limitations.\nThe FAA also reviewed Aspen Service Bulletin Number: SB2020-01, dated April 1, 2020. This document provides instructions for updating the EFD software to correct the automatic reset issue. This AD does not apply to airplanes that are compliant with this service information.",
+   "AD 2012-22-01: Cessna Aircraft Company Airplanes\nDEPARTMENT OF TRANSPORTATION\nFederal Aviation Administration",
+   "CN-TFB AD compliance record, 26 October 2026\nSheet: AD compliance record\nAD number: 2012-22-01; Effective: 2012-12-28; Subject: Fuel return line chafing (airplanes with SB04-28-03); Applies: No; Notes: Serial number outside 172R 17280001 to 17281187 and 172S 172S8001 to 172S9490."
+  ]
+ },
+ "response": {
+  "model": "nvidia/nemotron-3.5-rerank-8b",
+  "results": [
+   {
+    "index": 12,
+    "relevance_score": 0.20871900828570175,
+    "document": {
+     "text": "AD 2012-22-01: Cessna Aircraft Company Airplanes\n(c) Applicability\nThis AD applies to the following Cessna Aircraft Company (Cessna) airplanes, certificated in any category:\n(1) Model 172R, serial numbers (S/N) 17280001 through 17281187, that have incorporated Cessna Aircraft Company Service Bulletin SB04-28-03, dated August 30, 2004, and Engine Fuel Return System, Modification Kit MK172-28-01, dated August 30, 2004; and\n\n(2) Model 172S, S/N l72S8001 through 172S9490, that have incorporated Cessna Aircraft Company Service Bulletin SB04-28-03, dated August 30, 2004, and Engine Fuel Return System, Modification Kit MK172-28-01, dated August 30, 2004.\nchanges. We have determined that these minor changes:\nAre consistent with the intent that was proposed in the NPRM (77 FR 50054, August 20, 2012) for correcting the unsafe condition; and\nDo not add any additional burden upon the public than was already proposed in the NPRM (77 FR 50054, August 20, 2012)."
+    }
+   },
+   {
+    "index": 9,
+    "relevance_score": 0.19207067606214562,
+    "document": {
+     "text": "AD 2012-22-01: Cessna Aircraft Company Airplanes\nAirworthiness Directives; Cessna Aircraft Company Airplanes\nAGENCY: Federal Aviation Administration (FAA), DOT. ACTION: Final rule.\nSUMMARY: We are adopting a new airworthiness directive (AD) for certain Cessna Aircraft Company Models 172R and 172S airplanes. This AD was prompted by reports of chafed fuel return line assemblies, which were caused by the fuel return line assembly rubbing against the right steering tube assembly during full rudder pedal actuation. This AD requires you to inspect the fuel return line assembly for chafing; replace the fuel return line assembly if chafing is found; inspect the clearance between the fuel return line assembly and both the right steering tube assembly and the airplane structure; and adjust as necessary. We are issuing this AD to correct the unsafe condition on these products.\nDATES: This AD is effective December 28, 2012.\nDirector of the Federal Register approved the incorporation by reference of a certain other publication listed in this AD as of March 13, 2012 (77 FR 6003, February 7, 2012)."
+    }
+   },
+   {
+    "index": 8,
+    "relevance_score": 0.19089345258255122,
+    "document": {
+     "text": "AD 2012-22-01: Cessna Aircraft Company Airplanes\n(a) Effective Date\nThis AD is effective December 28, 2012."
+    }
+   },
+   {
+    "index": 1,
+    "relevance_score": 0.1889347042596067,
+    "document": {
+     "text": "AD 2012-22-01: Cessna Aircraft Company Airplanes\n14 CFR Part 39\n[Docket No. FAA-2012-0846; Directorate Identifier 2012-CE-021-AD; Amendment 39-17237; AD 2012-22-01]\nRIN 2120-AA64"
+    }
+   },
+   {
+    "index": 17,
+    "relevance_score": 0.18400179125167304,
+    "document": {
+     "text": "AD 2012-22-01: Cessna Aircraft Company Airplanes\n(b) Affected ADs\nNone."
+    }
+   },
+   {
+    "index": 3,
+    "relevance_score": 0.17630465618299618,
+    "document": {
+     "text": "AD 2012-22-01: Cessna Aircraft Company Airplanes\n\u00a739.13 [Amended]\n\u25a0 2. The FAA amends \u00a739.13 by adding the following new airworthiness directive (AD):"
+    }
+   },
+   {
+    "index": 6,
+    "relevance_score": 0.17556452327396316,
+    "document": {
+     "text": "AD 2012-22-01: Cessna Aircraft Company Airplanes\n2012-22-01 Cessna Aircraft Company:\nAmendment 39-17237; Docket No. FAA-2012-0846; Directorate Identifier 2012-CE-021-AD."
+    }
+   },
+   {
+    "index": 22,
+    "relevance_score": 0.16865977648617864,
+    "document": {
+     "text": "AD 2012-22-01: Cessna Aircraft Company Airplanes\nDEPARTMENT OF TRANSPORTATION\nFederal Aviation Administration"
+    }
+   },
+   {
+    "index": 11,
+    "relevance_score": 0.16307740387924713,
+    "document": {
+     "text": "AD 2012-22-01: Cessna Aircraft Company Airplanes\nPART 39-AIRWORTHINESS DIRECTIVES\n\u25a0 1. The authority citation for part 39 continues to read as follows:\nAuthority: 49 U.S.C. 106(g), 40113, 44701."
+    }
+   },
+   {
+    "index": 5,
+    "relevance_score": 0.16210761537804158,
+    "document": {
+     "text": "AD 2012-22-01: Cessna Aircraft Company Airplanes\nCosts of Compliance\nWe estimate that this AD affects 55 airplanes of U.S. registry.\nWe estimate the following costs to comply with this AD:"
+    }
+   },
+   {
+    "index": 14,
+    "relevance_score": 0.160996800144866,
+    "document": {
+     "text": "AD 2012-22-01: Cessna Aircraft Company Airplanes\nDiscussion\nWe issued a notice of proposed rulemaking (NPRM) to amend 14 CFR part 39 to include an AD that would apply to the specified products. That NPRM published in the Federal Register on August 20, 2012 (77 FR 50054). That NPRM proposed to require you to inspect the fuel return line assembly for chafing; replace the fuel return line assembly if chafing is found; inspect the clearance between the fuel return line assembly and both the right steering tube assembly and the airplane structure; and adjust as necessary."
+    }
+   },
+   {
+    "index": 2,
+    "relevance_score": 0.1605555040235193,
+    "document": {
+     "text": "AD 2012-22-01: Cessna Aircraft Company Airplanes\nAirworthiness Directives; Cessna Aircraft Company Airplanes\nADDRESSES: For service information identified in this AD, contact Cessna Aircraft Company, Customer service, P.O. Box 7706, Wichita, KS 67277; telephone: (316) 517-5800; fax: (316) 517-7271; Internet: http://www. cessnasupport.com. You may review copies of the referenced service information at the FAA, Small Airplane Directorate, 901 Locust, Kansas City, MO 64106. For information on the availability of this material at the FAA, call (816) 329-4148."
+    }
+   },
+   {
+    "index": 0,
+    "relevance_score": 0.1578530560098682,
+    "document": {
+     "text": "AD 2012-22-01: Cessna Aircraft Company Airplanes\n(n) Material Incorporated by Reference\nAdministration (NARA). For information on the availability of this material at NARA, call gov/federal-register/cfr/ibr-locations.html.\nIssued in Kansas City, Missouri, on October 22, 2012."
+    }
+   },
+   {
+    "index": 18,
+    "relevance_score": 0.15715643239875826,
+    "document": {
+     "text": "AD 2012-22-01: Cessna Aircraft Company Airplanes\n(f) Compliance\nComply with this AD within the compliance times specified, unless already done."
+    }
+   },
+   {
+    "index": 13,
+    "relevance_score": 0.15650843221426972,
+    "document": {
+     "text": "AD 2012-22-01: Cessna Aircraft Company Airplanes\nAdoption of the Amendment\nAccordingly, under the authority delegated to me by the Administrator, the FAA amends 14 CFR part 39 as follows:"
+    }
+   },
+   {
+    "index": 16,
+    "relevance_score": 0.1543444476697251,
+    "document": {
+     "text": "AD 2012-22-01: Cessna Aircraft Company Airplanes\n(d) Subject\nJoint Aircraft System Component (JASC)/ Air Transport Association (ATA) of America Code 2820, Aircraft Fuel Distribution System."
+    }
+   },
+   {
+    "index": 4,
+    "relevance_score": 0.1517702443382718,
+    "document": {
+     "text": "AD 2012-22-01: Cessna Aircraft Company Airplanes\n(m) Related Information\nFor more information about this AD, contact Jeff Janusz, Aerospace Engineer, Wichita ACO, FAA, 1801 S. Airport Road, Room 100, Wichita, Kansas 67209; phone: (316) 946-4148; fax: (316) 946-4107; email: jeff.janusz@faa.gov."
+    }
+   },
+   {
+    "index": 7,
+    "relevance_score": 0.15145658219820285,
+    "document": {
+     "text": "AD 2012-22-01: Cessna Aircraft Company Airplanes\nList of Subjects in 14 CFR Part 39\nAir transportation, Aircraft, Aviation safety, Incorporation by reference, Safety."
+    }
+   },
+   {
+    "index": 19,
+    "relevance_score": 0.15055683956756274,
+    "document": {
+     "text": "AD 2012-22-01: Cessna Aircraft Company Airplanes\nConclusion\nWe reviewed the relevant data and determined that air safety and the public interest require adopting the AD as proposed except for minor editorial"
+    }
+   },
+   {
+    "index": 10,
+    "relevance_score": 0.14498639361363833,
+    "document": {
+     "text": "AD 2012-22-01: Cessna Aircraft Company Airplanes\nComments\nWe gave the public the opportunity to participate in developing this AD. We received no comments on the NPRM (77 FR 50054, August 20, 2012) or on the determination of the cost to the public."
+    }
+   },
+   {
+    "index": 23,
+    "relevance_score": 0.14329612363473454,
+    "document": {
+     "text": "CN-TFB AD compliance record, 26 October 2026\nSheet: AD compliance record\nAD number: 2012-22-01; Effective: 2012-12-28; Subject: Fuel return line chafing (airplanes with SB04-28-03); Applies: No; Notes: Serial number outside 172R 17280001 to 17281187 and 172S 172S8001 to 172S9490."
+    }
+   },
+   {
+    "index": 15,
+    "relevance_score": 0.12987455401981263,
+    "document": {
+     "text": "AD 2012-22-01: Cessna Aircraft Company Airplanes\nExamining the AD Docket\nYou may examine the AD docket on the Internet at http://www.regulations. gov; or in person at the Docket Management Facility between 9 a.m. and 5 p.m., Monday through Friday, except Federal holidays. The AD docket contains this AD, the regulatory evaluation, any comments received, and other information. The address for the Docket Office (phone: 800-647-5527) is Document Management Facility, U.S. Department of Transportation, Docket Operations, M-30, West Building Ground Floor, Room W12-140, 1200 New Jersey Avenue SE., Washington, DC 20590.\nFOR FURTHER INFORMATION CONTACT: Jeff Janusz, Aerospace Engineer, Wichita Aircraft Certification Office, FAA, 1801 S. Airport Road, Room 100, Wichita, Kansas 67209; phone: (316) 946-4148; fax: (316) 946-4107; email: jeff.janusz@ faa.gov."
+    }
+   },
+   {
+    "index": 21,
+    "relevance_score": 0.04415463501576506,
+    "document": {
+     "text": "AD 2020-16-08 (correction): Aspen Avionics, Inc.\nRelated Service Information\nThe FAA reviewed Aspen Operator Advisory OA2020-01, dated March 3, 2020. This document advises operators of the automatic reset event and provides recommended operating limitations.\nThe FAA also reviewed Aspen Service Bulletin Number: SB2020-01, dated April 1, 2020. This document provides instructions for updating the EFD software to correct the automatic reset issue. This AD does not apply to airplanes that are compliant with this service information."
+    }
+   },
+   {
+    "index": 20,
+    "relevance_score": 0.04302898492696144,
+    "document": {
+     "text": "AD 2020-16-08: Aspen Avionics, Inc.\nRelated Service Information\nThe FAA reviewed Aspen Operator Advisory OA2020-01, dated March 3, 2020. This document advises operators of the automatic reset event and provides recommended operating limitations.\nThe FAA also reviewed Aspen Service Bulletin Number: SB2020-01, dated April 1, 2020. This document provides instructions for updating the EFD software to correct the automatic reset issue. This AD does not apply to airplanes that are compliant with this service information."
+    }
+   }
+  ],
+  "usage": {
+   "total_tokens": 3220,
+   "cost": 0
+  },
+  "provider": "Nvidia",
+  "id": "gen-rerank-1793459615-Gs5UKSL5XSX2PsetEt29"
+ }
+}

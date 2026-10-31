@@ -29,3 +29,7 @@ jobs:
       - run: uv run python -m anfa ask "What must a maintenance record entry contain?"
       - run: uv run python -m anfa ask "List all airworthiness directives that apply to the Cessna 172S."
       - run: uv run python -m anfa check
+      - run: uv run python -m anfa measure
+      - run: uv run python -m anfa measure --held-out
+      - run: uv run python -m anfa measure --sweep
+      - run: uv run python -m anfa judge-calibration

@@ -1,147 +1,487 @@
 {
-  "about": "Questions a mechanic at Anfa Aero Services asks, with the behavior a correct system shows. 'expected_from' is the first checkpoint meant to pass the case. Checks inspect the evidence that reached the model, routing, and computed results; only cases about calculations and linked records check the answer itself.",
+  "about": "Questions a mechanic at Anfa Aero Services asks, with the behavior a correct system shows. 'expected_from' is the first checkpoint meant to pass the case. Checks inspect the evidence that reached the model, routing, and computed results; only cases about calculations and linked records check the answer itself. From Part 7, `kind` groups the questions for measuring, `relevant` lists the evidence each needs (a source, and phrases one supplied block from it must contain), and `variants` rewords it.",
   "cases": [
     {
       "id": "C01-record-entry",
       "question": "What must a maintenance record entry contain?",
       "expected_from": "part-01",
+      "kind": "regulation",
       "behavior": "The four items of 14 CFR 43.9(a) reach the model, from the regulation itself.",
       "checks": [
-        {"type": "includes_sources", "sources": ["CFR-14-43"]},
-        {"type": "includes_text", "text": "A description (or reference to data acceptable to the Administrator) of work performed"}
+        {
+          "type": "includes_sources",
+          "sources": [
+            "CFR-14-43"
+          ]
+        },
+        {
+          "type": "includes_text",
+          "text": "A description (or reference to data acceptable to the Administrator) of work performed"
+        }
+      ],
+      "relevant": [
+        {
+          "source": "CFR-14-43",
+          "texts": [
+            "A description (or reference to data acceptable to the Administrator) of work performed"
+          ]
+        }
       ]
     },
     {
       "id": "C02-price-access",
       "question": "What is the customer price of the engine oil pressure switch, P/N 83278?",
       "expected_from": "part-01",
+      "kind": "access",
       "behavior": "The price list is readable by management only. Asked by a mechanic, it never reaches the model, so the assistant says it can't answer.",
       "checks": [
-        {"type": "excludes_sources", "sources": ["PRICES-2026"]}
+        {
+          "type": "excludes_sources",
+          "sources": [
+            "PRICES-2026"
+          ]
+        }
       ]
     },
     {
       "id": "C03-torque-row",
       "question": "What is the recommended torque for an 8-36 fine thread bolt with an MS20365 tension nut?",
       "expected_from": "part-03",
+      "kind": "table row",
       "behavior": "The 8-36 row of AC 43.13-1B Table 7-1 reaches the model with its own values (12-15, 7-9, 20, 12), not with words of the sideways note printed across the table.",
       "checks": [
-        {"type": "includes_text", "text": "8-36 12-15 7-9 20 12"}
+        {
+          "type": "includes_text",
+          "text": "8-36 12-15 7-9 20 12"
+        }
+      ],
+      "relevant": [
+        {
+          "source": "AC-43.13-1B-CH7",
+          "texts": [
+            "8-36 12-15 7-9 20 12"
+          ]
+        }
+      ],
+      "variants": [
+        "How much torque does an 8-36 fine thread bolt take with an MS20365 tension nut?"
       ]
     },
     {
       "id": "C04-slide-notes",
       "question": "Can we still use the 50-hour allowance in AD 2013-11-11 when a switch reaches 3,000 hours?",
       "expected_from": "part-03",
+      "kind": "slide notes",
       "behavior": "The training deck's speaker notes, which state plainly that the allowance applied once, in 2013, reach the model. The directive implies it in paragraph (g)(6); the notes say it.",
       "checks": [
-        {"type": "includes_text", "text": "applied once"}
+        {
+          "type": "includes_text",
+          "text": "applied once"
+        }
+      ],
+      "relevant": [
+        {
+          "source": "TRAIN-AD",
+          "texts": [
+            "applied once"
+          ]
+        },
+        {
+          "source": "AD-2013-11-11",
+          "texts": [
+            "within 50 hours TIS after August 1, 2013"
+          ]
+        }
       ]
     },
     {
       "id": "C05-scanned-signature",
       "question": "Who approved CN-TFE's oil pressure switch replacement for return to service?",
       "expected_from": "part-03",
+      "kind": "scanned page",
       "behavior": "The scanned work order WO-2021-0544 reaches the model with the approver's name read correctly: A. Tazi.",
       "checks": [
-        {"type": "includes_text", "text": "Approved for return to service: A. Tazi"}
+        {
+          "type": "includes_text",
+          "text": "Approved for return to service: A. Tazi"
+        }
+      ],
+      "relevant": [
+        {
+          "source": "WO-SCAN",
+          "texts": [
+            "Approved for return to service: A. Tazi"
+          ]
+        }
+      ],
+      "variants": [
+        "Who signed off the oil pressure switch job on CN-TFE?"
       ]
     },
     {
       "id": "C06-engine-model-context",
       "question": "What engine does the Cessna 172S have, and what is its rated power?",
       "expected_from": "part-04",
+      "kind": "model-specific",
       "behavior": "The 172S section of the type certificate data sheet reaches the model with its model name: IO-360-L2A, 180 hp, 2,700 rpm.",
       "checks": [
-        {"type": "same_passage", "texts": ["172S", "Rated 180 Horsepower"]}
+        {
+          "type": "same_passage",
+          "texts": [
+            "172S",
+            "Rated 180 Horsepower"
+          ]
+        }
+      ],
+      "relevant": [
+        {
+          "source": "TCDS-3A12-R89",
+          "texts": [
+            "172S",
+            "Rated 180 Horsepower"
+          ]
+        }
       ]
     },
     {
       "id": "C07-exact-ad-number",
       "question": "What does AD 2000-04-01 require?",
       "expected_from": "part-05",
+      "kind": "exact code",
       "behavior": "AD 2000-04-01 itself ranks first, above the later directive that supersedes it and quotes its number.",
       "checks": [
-        {"type": "first_source", "source": "AD-2000-04-01"}
+        {
+          "type": "first_source",
+          "source": "AD-2000-04-01"
+        }
+      ],
+      "relevant": [
+        {
+          "source": "AD-2000-04-01",
+          "texts": [
+            "Replace any P/N 77041 oil pressure switch with a P/N 83278 switch"
+          ]
+        }
+      ],
+      "variants": [
+        "What do I have to do under AD 2000-04-01?"
       ]
     },
     {
       "id": "C08-part-number",
       "question": "Which airworthiness directive covers part number 2013142-18?",
       "expected_from": "part-05",
+      "kind": "part number",
       "behavior": "AD 2008-10-02, on the P/N 2013142-18 alternate static air source selector valve, reaches the model. The part number is an exact code that vector search doesn't see.",
       "checks": [
-        {"type": "includes_sources", "sources": ["AD-2008-10-02"]}
+        {
+          "type": "includes_sources",
+          "sources": [
+            "AD-2008-10-02"
+          ]
+        }
+      ],
+      "relevant": [
+        {
+          "source": "AD-2008-10-02",
+          "texts": [
+            "2013142-18"
+          ]
+        }
+      ],
+      "variants": [
+        "Is there an AD about P/N 2013142-18?"
       ]
     },
     {
       "id": "C09-engine-only-172S",
       "question": "What engine does the Cessna 172S have, and what is its rated power?",
       "expected_from": "part-06",
+      "kind": "model-specific",
       "behavior": "Only the 172S section's engine data reaches the model: no passage giving an engine rating for another model.",
       "checks": [
-        {"type": "every_passage_with", "contains": "IO-360-L2A, Rated", "also": "172S"}
+        {
+          "type": "every_passage_with",
+          "contains": "IO-360-L2A, Rated",
+          "also": "172S"
+        }
+      ],
+      "variants": [
+        "Which engine and how much horsepower does a 172S have?"
       ]
     },
     {
       "id": "C10-which-aircraft",
       "question": "Does the oil pressure switch AD apply to our 172S?",
       "expected_from": "part-06",
+      "kind": "aircraft not named",
       "behavior": "The fleet has four 172S with different serial numbers, and only some are inside AD 2013-11-11's range. Ask which aircraft instead of answering for all of them.",
       "checks": [
-        {"type": "status", "equals": "needs_details"}
+        {
+          "type": "status",
+          "equals": "needs_details"
+        }
+      ],
+      "variants": [
+        "Is our 172S affected by the oil pressure switch directive?"
       ]
     },
     {
       "id": "C11-every-ad",
       "question": "List all airworthiness directives that apply to the Cessna 172S.",
       "expected_from": "part-09",
+      "kind": "list",
       "behavior": "The 21 directives in the collection that name the 172S and are not superseded by another directive in it, with a guarantee that the list is complete rather than a lucky retrieval.",
       "checks": [
-        {"type": "includes_sources", "sources": [
-          "AD-2001-06-17", "AD-2004-15-18", "AD-2005-01-19", "AD-2005-05-53-R1", "AD-2005-13-10",
-          "AD-2007-05-10", "AD-2007-08-03", "AD-2008-02-18", "AD-2008-05-09", "AD-2008-10-02",
-          "AD-2008-26-10", "AD-2009-24-10", "AD-2010-04-06", "AD-2011-06-02", "AD-2012-02-02",
-          "AD-2012-22-01", "AD-2013-03-15", "AD-2013-11-11", "AD-2018-02-04", "AD-2019-01-02",
-          "AD-2020-16-08"]},
-        {"type": "complete_by", "route": "records"}
+        {
+          "type": "includes_sources",
+          "sources": [
+            "AD-2001-06-17",
+            "AD-2004-15-18",
+            "AD-2005-01-19",
+            "AD-2005-05-53-R1",
+            "AD-2005-13-10",
+            "AD-2007-05-10",
+            "AD-2007-08-03",
+            "AD-2008-02-18",
+            "AD-2008-05-09",
+            "AD-2008-10-02",
+            "AD-2008-26-10",
+            "AD-2009-24-10",
+            "AD-2010-04-06",
+            "AD-2011-06-02",
+            "AD-2012-02-02",
+            "AD-2012-22-01",
+            "AD-2013-03-15",
+            "AD-2013-11-11",
+            "AD-2018-02-04",
+            "AD-2019-01-02",
+            "AD-2020-16-08"
+          ]
+        },
+        {
+          "type": "complete_by",
+          "route": "records"
+        }
+      ],
+      "relevant": [
+        {
+          "source": "AD-2001-06-17"
+        },
+        {
+          "source": "AD-2004-15-18"
+        },
+        {
+          "source": "AD-2005-01-19"
+        },
+        {
+          "source": "AD-2005-05-53-R1"
+        },
+        {
+          "source": "AD-2005-13-10"
+        },
+        {
+          "source": "AD-2007-05-10"
+        },
+        {
+          "source": "AD-2007-08-03"
+        },
+        {
+          "source": "AD-2008-02-18"
+        },
+        {
+          "source": "AD-2008-05-09"
+        },
+        {
+          "source": "AD-2008-10-02"
+        },
+        {
+          "source": "AD-2008-26-10"
+        },
+        {
+          "source": "AD-2009-24-10"
+        },
+        {
+          "source": "AD-2010-04-06"
+        },
+        {
+          "source": "AD-2011-06-02"
+        },
+        {
+          "source": "AD-2012-02-02"
+        },
+        {
+          "source": "AD-2012-22-01"
+        },
+        {
+          "source": "AD-2013-03-15"
+        },
+        {
+          "source": "AD-2013-11-11"
+        },
+        {
+          "source": "AD-2018-02-04"
+        },
+        {
+          "source": "AD-2019-01-02"
+        },
+        {
+          "source": "AD-2020-16-08"
+        }
       ]
     },
     {
       "id": "C12-switch-hours",
       "question": "How many hours remain before CN-TFE's engine oil pressure switch reaches its limit?",
       "expected_from": "part-10",
+      "kind": "computation",
       "behavior": "39.4 hours: 3,000 minus (13,520.8 airframe hours now minus 10,560.2 at installation). The work order says 10,650.2; the procedures manual (3.3) says to use the lower figure until the records are reconciled.",
       "checks": [
-        {"type": "answer_contains", "texts": ["39.4"]}
+        {
+          "type": "answer_contains",
+          "texts": [
+            "39.4"
+          ]
+        }
+      ],
+      "relevant": [
+        {
+          "source": "FLEET-2026-10",
+          "texts": [
+            "CN-TFE",
+            "13520.8"
+          ]
+        },
+        {
+          "source": "FLEET-2026-10",
+          "texts": [
+            "10560.2"
+          ]
+        },
+        {
+          "source": "PROC-R7",
+          "texts": [
+            "use the lower airframe hours at installation"
+          ]
+        }
       ]
     },
     {
       "id": "C13-muffler-fleet",
       "question": "Which of our aircraft are affected by AD 2018-02-04?",
       "expected_from": "part-11",
+      "kind": "fleet-wide",
       "behavior": "CN-TFA (muffler S/N 34640) and CN-TFF (S/N 38190) had mufflers inside the AD's serial ranges; both were replaced in 2018, as their AD compliance records show, though the fleet register still lists CN-TFF's old one. CN-TFC's muffler (S/N 34729) is one above the range 34721 through 34728, so the answer must not count it among the affected aircraft (checked by reading the answer, not by this check).",
       "checks": [
-        {"type": "answer_contains", "texts": ["CN-TFA", "CN-TFF"]}
+        {
+          "type": "answer_contains",
+          "texts": [
+            "CN-TFA",
+            "CN-TFF"
+          ]
+        }
+      ],
+      "relevant": [
+        {
+          "source": "FLEET-2026-10",
+          "texts": [
+            "A1754001-25",
+            "38190"
+          ]
+        },
+        {
+          "source": "AD-2018-02-04",
+          "texts": [
+            "A1754001-25"
+          ]
+        }
       ]
     },
     {
       "id": "C14-records-trail",
       "question": "Is CN-TFE's oil pressure switch within the limit of AD 2013-11-11, according to its records?",
       "expected_from": "part-12",
+      "kind": "records trail",
       "behavior": "Follow the trail: the fleet register's hours and installation record, the work order for that installation, and the directive's limit all reach the model, so the disagreement between the register and the work order shows.",
       "checks": [
-        {"type": "includes_sources", "sources": ["FLEET-2026-10", "WO-SCAN", "AD-2013-11-11"]}
+        {
+          "type": "includes_sources",
+          "sources": [
+            "FLEET-2026-10",
+            "WO-SCAN",
+            "AD-2013-11-11"
+          ]
+        }
+      ],
+      "relevant": [
+        {
+          "source": "FLEET-2026-10",
+          "texts": [
+            "10560.2"
+          ]
+        },
+        {
+          "source": "WO-SCAN",
+          "texts": [
+            "WO-2021-0544",
+            "10,650.2"
+          ]
+        },
+        {
+          "source": "AD-2013-11-11",
+          "texts": [
+            "3,000 hours TIS"
+          ]
+        }
       ]
     },
     {
       "id": "C15-revision-diff",
       "question": "What changed between AC 43-9C and AC 43-9D?",
       "expected_from": "part-13",
+      "kind": "revision compare",
       "behavior": "Both revisions reach the model, including the section AC 43-9D adds on FAA Form 8130-3.",
       "checks": [
-        {"type": "includes_sources", "sources": ["AC-43-9C", "AC-43-9D"]},
-        {"type": "includes_text", "text": "Overview of FAA Form 8130-3"}
+        {
+          "type": "includes_sources",
+          "sources": [
+            "AC-43-9C",
+            "AC-43-9D"
+          ]
+        },
+        {
+          "type": "includes_text",
+          "text": "Overview of FAA Form 8130-3"
+        }
+      ],
+      "relevant": [
+        {
+          "source": "AC-43-9C"
+        },
+        {
+          "source": "AC-43-9D"
+        }
+      ]
+    },
+    {
+      "id": "C16-split-applicability",
+      "question": "Which airplanes does AD 2012-22-01 apply to?",
+      "expected_from": "part-07",
+      "kind": "exact code",
+      "behavior": "The 172S range of AD 2012-22-01 (172S8001 through 172S9490) reaches the model. Held-out question H12 found it missing in Part 7: the parser had split paragraph (c) across two columns, and its second half was supplied as costs. Fixed by a reviewed correction; the question moved here because it was used to make the fix.",
+      "checks": [
+        {
+          "type": "includes_text",
+          "text": "through 172S9490"
+        }
+      ],
+      "relevant": [
+        {
+          "source": "AD-2012-22-01",
+          "texts": [
+            "through 172S9490"
+          ]
+        }
       ]
     }
   ]

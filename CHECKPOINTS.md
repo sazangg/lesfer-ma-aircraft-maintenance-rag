@@ -370,3 +370,80 @@ KNOWN GAP -> part-13 C15-revision-diff          all 2 supplied; 'Overview of FAA
 - **The question back is coarse.** It asks whenever "our 172S" meets a directive, even one that applies to all four. Telling which side of a serial range each aircraft falls on needs the applicability as data, which is what Part 9 builds.
 
 **Stop here if** your users ask questions with one answer each, found in passages, tables, figures, or slides, including questions where the right evidence depends on which aircraft, model, or period they mean. This is the complete core. Parts 7 and 8 measure it and watch it in production; Parts 9 to 13 are modules, for the questions that need them.
+
+## part-07: Measuring whether it works
+
+**Article:** [Measuring Whether It Works](https://lesfer.ma/academy/reliable-ai-company-knowledge/measuring-whether-it-works)
+
+**Lands in:** around the pipeline (`anfa/measure.py`, `anfa/judge.py`), plus the two changes the measurements justified. The collection was full size from Part 1, so nothing is added to it.
+
+The check runner answers "does this case pass?". Measuring asks how well each stage works and where it is weak:
+
+- `python -m anfa measure`: per question, whether evidence it needs reached the model (**hit**), how much of that evidence did (**recall**), how much of what arrived is that evidence (**precision**), the rank of the first relevant block, and the prompt's approximate size in tokens. Then the same by kind of question, and whether rewordings of key questions keep their result.
+- What a question needs is written in the case as `relevant`: a source, and phrases that one supplied block from it must contain. Not a section number: most directives' sections have none, and "the 172S section" is told apart from "the 172R section" by its text.
+- `cases/held_out.json`: 16 questions written after Parts 1 to 6 and never used to tune them. `measure --held-out` scores them separately.
+- `python -m anfa judge-calibration`: a judge (the free answering model, asked whether the sources support every claim) checks answers whose labels are known, `cases/judged_answers.json`.
+- `measure --export-ragas FILE`: the same questions as a Ragas dataset (`user_input`, `retrieved_contexts`, `response`, `reference`).
+- Measuring stops before the answer (`Assistant.prepare`), so it costs an embedding and a rerank per question, no answer.
+
+**What the runner measured:**
+
+```
+PASS                 C01-record-entry           all 1 supplied; 'A description (...) of work performed' supplied
+PASS                 C02-price-access           none supplied
+PASS                 C03-torque-row             '8-36 12-15 7-9 20 12' supplied
+PASS                 C04-slide-notes            'applied once' supplied
+PASS                 C05-scanned-signature      'Approved for return to service: A. Tazi' supplied
+PASS                 C06-engine-model-context   ['172S', 'Rated 180 Horsepower'] together in one passage
+PASS                 C07-exact-ad-number        first is AD-2000-04-01
+PASS                 C08-part-number            all 1 supplied
+PASS                 C09-engine-only-172S       every passage with 'IO-360-L2A, Rated' names '172S'
+PASS                 C10-which-aircraft         status needs_details
+KNOWN GAP -> part-09 C11-every-ad               missing 18 of 21; completeness not guaranteed
+KNOWN GAP -> part-10 C12-switch-hours           answer lacks ['39.4']
+KNOWN GAP -> part-11 C13-muffler-fleet          answer lacks ['CN-TFA', 'CN-TFF']
+KNOWN GAP -> part-12 C14-records-trail          missing 1 of 3: ['WO-SCAN']
+KNOWN GAP -> part-13 C15-revision-diff          all 2 supplied; 'Overview of FAA Form 8130-3' not supplied
+PASS                 C16-split-applicability    'through 172S9490' supplied
+
+11 passing, 5 known gaps, 0 regressions
+```
+
+C01 to C09 pass as in Part 6. C16 is new: it was held-out question H12 (below).
+
+**What `measure` reported:**
+
+| | Questions | Hit | Recall | Precision |
+| --- | --- | --- | --- | --- |
+| Development | 13 | 1.00 | 0.84 | 0.48 |
+| Held-out | 16 | 1.00 | 1.00 | 0.31 |
+
+- Every question gets some of its evidence. Recall falls only where later parts are due: the list of directives (C11, 0.14), the hours calculation (C12, 0.67: the Fleet sheet with the current hours never arrives), the fleet-wide muffler question (C13, 0.50), the records trail (C14, 0.67).
+- Precision is low everywhere, 0.20 for most single-answer questions: one block of five is the one needed. The model copes, but each prompt carries up to 7,000 tokens it doesn't use.
+- All six rewordings keep their result ("Who signed off the oil pressure switch job on CN-TFE?", "Is there an AD about P/N 2013142-18?", ...).
+
+**What the held-out questions found.** On the first run, two of the sixteen missed, both "exact code" questions. Neither was what it looked like.
+
+- **H16, "Which Aspen software versions does AD 2020-16-08 cover?"**, was a mistake in the measurement. The AD-number lookup supplied the directive's correction notice, which republishes the whole rule: "Software version 2.10 or 2.10.1 is installed" was in the prompt. The annotation accepted only the original directive. A need can now name several sources.
+- **H12, "Which airplanes does AD 2012-22-01 apply to?"**, found a parsing error. The page is printed in three columns, and paragraph (c) runs from the bottom of page 2's third column to the top of page 3's first. The parser read another column's "Costs of Compliance" in between, so "(1) Model 172R ... that have" stayed under "(c) Applicability" and "(2) Model 172S, S/N l72S8001 through 172S9490" was searched and supplied as costs. A reviewed correction, checked against the page image, puts the paragraph back together (`corpus/corrections.json`). The page itself prints "l72S8001" with a letter l; the correction keeps it.
+- **The corrected paragraph still wasn't found.** Vector search ranks every piece of a directive about the same; it put the applicability section 13th of the directive's 35 pieces, and the lookup took the nearest two. The reranker, reading all 35 against the question, puts it first. So the lookup now gives the reranker the named directive's 20 nearest pieces, and the two it scores best come first. C07 and C04 still pass, and C07 now receives three blocks of AD 2000-04-01 instead of four.
+- H12 was used to make both fixes, so it moved into the development cases as **C16** and a fresh question (H17, AD 2007-05-10's 172S range) replaced it. After the fixes, all sixteen held-out questions hit.
+
+**The threshold decision.** A minimum reranker score, tried with `measure --sweep`:
+
+| Minimum score | Development recall | Development precision | Held-out recall | Held-out precision |
+| --- | --- | --- | --- | --- |
+| 0 | 0.84 | 0.48 | 1.00 | 0.31 |
+| 0.1 | 0.75 | 0.65 | 0.94 | 0.54 |
+| 0.2 | 0.33 | 0.35 | 0.19 | 0.16 |
+| 0.3 | 0.26 | 0.27 | 0.12 | 0.09 |
+
+This reranker's scores are low: of 860 recorded, the median is 0.078 and the highest 0.224. A threshold that sounds small is not; a threshold chosen for another reranker means nothing here. At 0.1, single-answer questions get clean, short prompts (C05 from 1,832 tokens to 218). The questions that need several records lose them: C12 and C14 fall to recall 0.33, and H04, about the training deck's speaker notes, receives no sources at all. Those are the questions the next parts are about, so **the default stays at no threshold**: the measured cost of noise is tokens, the measured cost of the threshold is missing evidence.
+
+**What the judge showed.** It disagreed with one label of ten, and the judge was right. J08, written as a correct paraphrase of 14 CFR 43.9(a), says the entry carries "the name, signature, and certificate of the person who approved it"; the regulation asks for that person's signature, certificate number, and kind of certificate, and the name of whoever did the work only when that is someone else. The label is corrected, with a note. It also caught every wrong answer written to fool it: another model's horsepower, another inspector's name, reversed part numbers (every word of which is in the sources), and the right number from a source that wasn't supplied. Ten answers written by the person who labels them are a start, not a calibration: they show the judge isn't fooled by matching words, not how often it errs on real answers.
+
+**What real models and infrastructure added:**
+- Labels are measurements too. Of the first three surprises, one was the system (the parse), one was the annotation (H16), and one was the label (J08).
+- A section without a number cites as its document: C07's answer cites "[AD-2000-04-01]" for three different sections. The label check proves the block was supplied, not which part of the directive a claim comes from.
+
+**Not a stopping point.** Keep measuring whatever you build. Part 8 watches the same system once real users arrive.

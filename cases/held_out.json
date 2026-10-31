@@ -1,0 +1,221 @@
+{
+  "about": "Held-out questions: written after Parts 1 to 6 were built and never used to tune them. `measure --held-out` scores them separately, to show how the system handles questions it wasn't built around. Don't tune on these; when you do, move them to cases.json and write new ones.",
+  "cases": [
+    {
+      "id": "H01",
+      "kind": "paraphrase",
+      "question": "How long does the owner have to keep the record of a 100-hour inspection?",
+      "relevant": [
+        {
+          "source": "CFR-14-91E",
+          "texts": [
+            "1 year after the work is performed"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "H02",
+      "kind": "regulation",
+      "question": "How often does an airplane need an annual inspection?",
+      "relevant": [
+        {
+          "source": "CFR-14-91E",
+          "texts": [
+            "within the preceding 12 calendar months"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "H03",
+      "kind": "table row",
+      "question": "What torque should I use on a 10-32 fine thread bolt with a tension nut?",
+      "relevant": [
+        {
+          "source": "AC-43.13-1B-CH7",
+          "texts": [
+            "10-32 20-25 12-15"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "H04",
+      "kind": "slide notes",
+      "question": "What traps in our own fleet does the training deck warn about?",
+      "relevant": [
+        {
+          "source": "TRAIN-AD",
+          "texts": [
+            "CN-TFD has a KAP 140 autopilot"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "H05",
+      "kind": "company procedure",
+      "question": "How often must torque wrenches be calibrated?",
+      "relevant": [
+        {
+          "source": "PROC-R7",
+          "texts": [
+            "calibrated every 12 months"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "H06",
+      "kind": "company procedure",
+      "question": "Which hours do I use when the fleet register and a work order disagree about an installation?",
+      "relevant": [
+        {
+          "source": "PROC-R7",
+          "texts": [
+            "use the lower airframe hours at installation"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "H07",
+      "kind": "scanned page",
+      "question": "Were there cracks in CN-TFC's muffler in October 2026?",
+      "relevant": [
+        {
+          "source": "WO-SCAN",
+          "texts": [
+            "no cracks, no broken welds"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "H08",
+      "kind": "scanned page",
+      "question": "Who approved CN-TFC's muffler inspection for return to service?",
+      "relevant": [
+        {
+          "source": "WO-SCAN",
+          "texts": [
+            "WO-2026-0388",
+            "Approved for return to service: K. Bennani"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "H09",
+      "kind": "aircraft-specific",
+      "question": "Which transponder does CN-TFA have, and what software does it run?",
+      "relevant": [
+        {
+          "source": "FLEET-2026-10",
+          "texts": [
+            "CN-TFA",
+            "GTX 330",
+            "3.06"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "H10",
+      "kind": "aircraft-specific",
+      "question": "When was CN-TFB's last annual inspection?",
+      "relevant": [
+        {
+          "source": "LOG-CN-TFB",
+          "texts": [
+            "2026-06-18",
+            "Annual inspection"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "H11",
+      "kind": "model-specific",
+      "question": "What is the maximum takeoff weight of a Cessna 172R in the normal category?",
+      "relevant": [
+        {
+          "source": "TCDS-3A12-R89",
+          "texts": [
+            "172R",
+            "2,450 lb"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "H13",
+      "kind": "part number",
+      "question": "Which directive replaced the P/N 77041 oil pressure switch?",
+      "relevant": [
+        {
+          "source": "AD-2000-04-01",
+          "texts": [
+            "77041"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "H14",
+      "kind": "regulation",
+      "question": "Can we propose a different way to comply with an airworthiness directive?",
+      "relevant": [
+        {
+          "source": "CFR-14-39",
+          "texts": [
+            "alternative method of compliance"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "H15",
+      "kind": "paraphrase",
+      "question": "How much recent experience does a mechanic need to use their certificate?",
+      "relevant": [
+        {
+          "source": "AMTH-CH13",
+          "texts": [
+            "6 of the preceding 24 months"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "H16",
+      "kind": "exact code",
+      "question": "Which Aspen software versions does AD 2020-16-08 cover?",
+      "relevant": [
+        {
+          "source": [
+            "AD-2020-16-08",
+            "AD-2020-16-08-CORRECTION"
+          ],
+          "texts": [
+            "2.10 or 2.10.1"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "H17",
+      "kind": "exact code",
+      "question": "Which 172S serial numbers does AD 2007-05-10 cover?",
+      "relevant": [
+        {
+          "source": "AD-2007-05-10",
+          "texts": [
+            "172S8001 through 172S9994"
+          ]
+        }
+      ]
+    }
+  ]
+}
