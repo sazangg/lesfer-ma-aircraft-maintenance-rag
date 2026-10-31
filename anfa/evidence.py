@@ -17,9 +17,17 @@ work order ("Replaced engine oil pressure switch...") doesn't name the aircraft;
 Search returns small pieces. Each piece points to the block it belongs to (`parent_id`), and the
 model receives that block. A block is at most 6,000 characters: a section or table longer than
 that is supplied in consecutive parts, each with its heading, and a table part with its header.
+
+Part 6: a piece also records what it applies to, when that is narrower than its document, so a
+search can leave out what doesn't apply (anfa/situation.py):
+
+    models    a section headed "Model 172S, Skyhawk SP" or "Models 172D, 172E, ..." (type certificate)
+    aircraft  a table row with a Registration column; a page a reviewer recorded (`page_meta`)
 """
 
 from __future__ import annotations
+
+import re
 
 from anfa.chunking import Chunk, _pieces
 from anfa.convert import Element, StructuredDocument
@@ -28,6 +36,9 @@ SEARCH_CHARS = 1200
 BLOCK_CHARS = 6000
 # A table with more rows than this is searched row by row: a whole logbook in one vector finds nothing.
 WHOLE_TABLE_ROWS = 12
+# A heading that names the models its section is about. "Models 172 thru 172Q" names a range: untagged.
+MODELS_HEADING = re.compile(r"^(?:Data Pertinent to )?Models? 172")
+MODEL = re.compile(r"\b172[A-Z]?\b")
 
 
 def evidence_units(doc: StructuredDocument) -> tuple[list[Chunk], list[Chunk]]:
@@ -40,15 +51,18 @@ def evidence_units(doc: StructuredDocument) -> tuple[list[Chunk], list[Chunk]]:
         heading = f"{section.number} {section.title}".strip()
         context = "\n".join(x for x in (title, section.context, heading) if x)
         prefix = f"{doc.source_id}-s{s}"
+        meta = {**doc.meta, **section.meta}
+        if MODELS_HEADING.match(section.title) and " thru " not in section.title:
+            meta["models"] = MODEL.findall(section.title)
 
         def block(suffix: str, body: str, kind: str) -> Chunk:
             b = Chunk(f"{prefix}{suffix}", f"{context}\n\n{body}", doc.source_id, section.number,
-                      {**doc.meta, "element": kind})
+                      {**meta, "element": kind})
             blocks.append(b)
             return b
 
-        def piece(parent: Chunk, n: int, text: str, search: str) -> None:
-            searchable.append(Chunk(f"{parent.id}-{n}", text, doc.source_id, section.number, dict(doc.meta),
+        def piece(parent: Chunk, n: int, text: str, search: str, row: dict | None = None) -> None:
+            searchable.append(Chunk(f"{parent.id}-{n}", text, doc.source_id, section.number, {**meta, **(row or {})},
                                     parent_id=parent.id, search_text=f"{context}\n{search}"))
 
         # Paragraphs: the section is supplied whole, or in parts that each fit a block.
@@ -87,8 +101,11 @@ def _table(element: Element, suffix: str, block, piece) -> None:
             continue
         first = sum(len(x) for x in parts[:p])
         for n, row in enumerate(d["rows"][first:first + len(part)]):
-            labelled = "; ".join(f"{h}: {c}" for h, c in zip(d["header"] or [], row) if c) or " ".join(row)
-            piece(parent, n, "| " + " | ".join(row) + " |", "\n".join(x for x in (d.get("scope"), labelled) if x))
+            cells = list(zip(d["header"] or [], row))
+            labelled = "; ".join(f"{h}: {c}" for h, c in cells if c) or " ".join(row)
+            registration = next((c for h, c in cells if h == "Registration" and c), None)
+            applies = {"aircraft": registration} if registration else None
+            piece(parent, n, "| " + " | ".join(row) + " |", "\n".join(x for x in (d.get("scope"), labelled) if x), applies)
 
 
 def _pack(texts: list[str], limit: int) -> list[list[str]]:

@@ -297,3 +297,76 @@ KNOWN GAP -> part-13 C15-revision-diff          all 2 supplied; 'Overview of FAA
 - No new service: the Postgres image (ParadeDB) has carried `pg_search` since Part 1, next to pgvector. Keyword search is one more index on the same table.
 
 **Stop here if** the questions use the words of the documents and name no codes. Once people ask by directive number, part number, or registration, plain vector search ranks the right document below ones that merely look like it.
+
+## part-06: Choosing the evidence that applies
+
+**Article:** [Choosing the Evidence That Applies](https://lesfer.ma/academy/reliable-ai-company-knowledge/choosing-the-evidence-that-applies)
+
+**Lands in:** retrieval and context assembly (`anfa/situation.py`, `Assistant.ask`), plus what each piece records at ingestion. Every question still takes the same path.
+
+```
+question -> situation: which aircraft, or which model (read by code, checked against the fleet register)
+         -> every search filtered to pieces that apply to it
+         -> "our 172S", several match, the best evidence differs per aircraft? -> ask which, stop
+         -> blocks labelled [S1], [S2] ... -> model
+         -> code checks each label and turns it into a source reference
+```
+
+- **What a piece applies to.** A piece now records it when that is narrower than its document:
+  - a type certificate section records the models its heading names ("Model 172S, Skyhawk SP");
+  - a row of a table with a Registration column records that aircraft;
+  - each page of the scanned file records its aircraft, written down by the reviewer next to its page title (`page_meta` in `corpus/corrections.json`).
+  - Records, logbooks, and work orders already carried their `aircraft` from the document management system; nothing used it.
+- **The situation is read by code.** Registrations, serial numbers, and model designators have fixed shapes, and each is checked against the fleet register (stored at ingestion) or the models the type certificate names. An unknown registration is ignored, not guessed. The reference design has a model propose the facts and code validate them; here no request is needed, and a question still takes three.
+  - "CN-TFE's switch": that aircraft, and its model.
+  - "the Cessna 172S": that model. Sections about other models, and records of aircraft of other models, are left out.
+  - "our 172S": one of our aircraft. Four match.
+  - "which of our aircraft": the whole fleet, nothing to filter.
+  - A piece that records neither aircraft nor models applies to everything, so the filter only removes what is known not to apply.
+- **The evidence decides when to ask.** When the question means one of our aircraft, several match, and the best evidence is a directive (it applies by serial number and installed equipment) or one aircraft's record, the assistant asks which aircraft, naming each with its serial number. When the best evidence is the type certificate, the same for every 172S, it answers.
+- **Citations.** The prompt labels the blocks `[S1]`, `[S2]`; the model cites labels, and `resolve_citations` replaces each with its source and section. A label that wasn't supplied withholds the answer. The model was asked for "[S1]" and also wrote "[S1, S3]" and "(S1)"; the check reads all three. A valid label doesn't prove the block supports the claim; Part 7 measures that.
+
+**What the runner measured:**
+
+```
+PASS                 C01-record-entry           all 1 supplied; 'A description (...) of work performed' supplied
+PASS                 C02-price-access           none supplied
+PASS                 C03-torque-row             '8-36 12-15 7-9 20 12' supplied
+PASS                 C04-slide-notes            'applied once' supplied
+PASS                 C05-scanned-signature      'Approved for return to service: A. Tazi' supplied
+PASS                 C06-engine-model-context   ['172S', 'Rated 180 Horsepower'] together in one passage
+PASS                 C07-exact-ad-number        first is AD-2000-04-01
+PASS                 C08-part-number            all 1 supplied
+PASS                 C09-engine-only-172S       every passage with 'IO-360-L2A, Rated' names '172S'
+PASS                 C10-which-aircraft         status needs_details
+KNOWN GAP -> part-09 C11-every-ad               missing 18 of 21; completeness not guaranteed
+KNOWN GAP -> part-10 C12-switch-hours           answer lacks ['39.4']
+KNOWN GAP -> part-11 C13-muffler-fleet          answer lacks ['CN-TFA', 'CN-TFF']
+KNOWN GAP -> part-12 C14-records-trail          missing 1 of 3: ['WO-SCAN']
+KNOWN GAP -> part-13 C15-revision-diff          all 2 supplied; 'Overview of FAA Form 8130-3' not supplied
+
+10 passing, 5 known gaps, 0 regressions
+```
+
+**Closed gaps:**
+- **C10**, "Does the oil pressure switch AD apply to our 172S?", now gets "Which aircraft is this about? The evidence differs from one aircraft to the next, and these match: CN-TFA (S/N 172S9488), CN-TFB (S/N 172S10237), CN-TFC (S/N 172S11290), CN-TFF (S/N 172S11845)." Part 5 answered for one of them: "No, AD 2000-04-01 does not apply to your 172S (serial number 172S11845)", from CN-TFF's record, which happened to rank high. CN-TFA and CN-TFB are inside AD 2013-11-11's range.
+- **C09** passes by design, not because the heading travels with the passage (its Part 4 early pass). Part 5 supplied the type certificate's 172D and 172L sections with the 172S one; now only section XII arrives.
+
+**What else changed:**
+
+| Case | Part 5 supplied | Part 6 supplies |
+| --- | --- | --- |
+| C05, who signed CN-TFE's switch replacement | CN-TFE's scanned page, CN-TFA's scanned page, CN-TFD's work order | CN-TFE's scanned page and its record, nothing about other aircraft |
+| C12, hours left on CN-TFE's switch | CN-TFE's compliance record, the register's parts sheet, and the records of CN-TFA, CN-TFC, CN-TFD | CN-TFE's record, the register's parts sheet, procedures manual section 3, CN-TFE's scanned work order, AD 2013-11-11 |
+| C14, is CN-TFE within the limit | AD 2013-11-11, CN-TFE's record, the records of CN-TFA and CN-TFC | AD 2013-11-11, CN-TFE's record, the fleet register |
+
+- **With the other aircraft gone, the model sees the disagreement.** For C12 and C14 it now receives both of CN-TFE's installation figures and says so: the register's 10,560.2 hours against the compliance record's 10,650.2, "a 90-hour discrepancy". It still says the current hours aren't supplied. They are in the register's Fleet sheet (13,520.8), which ranks below the parts sheet. Part 10 computes from the register instead of reading passages.
+- **C14 is one document closer** (missing 1 of 3, was 2): the fleet register now arrives. The scanned work order still doesn't.
+
+**What the real documents and infrastructure added:**
+- **A filter can stop the keyword index from being used.** With the situation's conditions on `meta` in the same query, Postgres planned the BM25 search without ParadeDB's scan, and `pdb.score` exists only in that scan: the query failed. The score is now computed in a subquery and the conditions applied outside it.
+- **Answers ran out of tokens.** With labelled sources, the longest prompt (4,400 tokens) made the model reason for 3,476 of its 4,000 tokens, and the answer was cut off. The answering model's limit is now 8,000. That also exposed a Part 4 slip: the figure describer's rule "a reply that hit the limit is a loop, return nothing" had been copied into the answering model, where it turned a cut-off answer into no answer.
+- **Applicability is uneven.** The type certificate's section IV is headed "Model 172D" but covers 172D to 172H, so a 172E question would lose it. Directives carry no models at all: their applicability is in their text, by serial number, equipment, or part number, too varied to tag reliably. For the 172S engine question, AD 2011-06-02 (172 models converted to a diesel engine) still arrives.
+- **The question back is coarse.** It asks whenever "our 172S" meets a directive, even one that applies to all four. Telling which side of a serial range each aircraft falls on needs the applicability as data, which is what Part 9 builds.
+
+**Stop here if** your users ask questions with one answer each, found in passages, tables, figures, or slides, including questions where the right evidence depends on which aircraft, model, or period they mean. This is the complete core. Parts 7 and 8 measure it and watch it in production; Parts 9 to 13 are modules, for the questions that need them.

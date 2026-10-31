@@ -109,6 +109,7 @@ def _save(case_id: str, trace: Trace) -> None:
         "retrieved": trace.retrieved,
         "context": [{"ref": c.ref, "id": c.id, "text": c.text} for c in trace.context],
         "prompt": trace.prompt,
+        "raw_answer": trace.raw_answer,
         "answer": trace.answer,
         "status": trace.status,
     }

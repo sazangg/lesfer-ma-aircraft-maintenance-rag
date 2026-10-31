@@ -44,8 +44,8 @@ class OpenRouterEmbedder:
 
 class OpenRouterGenerator:
     # The model reasons before it answers, and its reasoning counts against max_tokens: at 1,500 a long
-    # list answer was cut off mid-sentence.
-    def __init__(self, model: str = SETTINGS.chat_model, max_tokens: int = 4000):
+    # list answer was cut off mid-sentence, and at 4,000 a 4,400-token prompt was (Part 6).
+    def __init__(self, model: str = SETTINGS.chat_model, max_tokens: int = 8000):
         self.model, self.max_tokens = model, max_tokens
 
     def generate(self, prompt: str) -> str:
@@ -53,12 +53,7 @@ class OpenRouterGenerator:
             "model": self.model, "messages": [{"role": "user", "content": prompt}],
             "max_tokens": self.max_tokens, "temperature": 0,
         })
-        choice = response["choices"][0]
-        # A description that ran to the token limit is a loop ("81 IN. CABLE, 81-1/4 IN. CABLE, ..."),
-        # not a transcription: 9 of 170 figures. None tells the converter to ask a person.
-        if choice["finish_reason"] == "length":
-            return None
-        return (choice["message"].get("content") or "").strip()
+        return (response["choices"][0]["message"].get("content") or "").strip()
 
 
 DESCRIBE = """This figure is from {document}.{caption}

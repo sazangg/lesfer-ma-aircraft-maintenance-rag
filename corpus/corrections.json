@@ -1,5 +1,5 @@
 {
-  "about": "Corrections a person made after checking the page image. Keyed by source ID, then parser element ID. 'was' is the fingerprint of the element the correction was written against: if a new parse changes that element, the correction is not applied and the ingestion report asks for another look. 'reviewed_pages' lists the scanned pages checked against the image. 'page_titles' names what each page is when one file holds several documents.",
+  "about": "Corrections a person made after checking the page image. Keyed by source ID, then parser element ID. 'was' is the fingerprint of the element the correction was written against: if a new parse changes that element, the correction is not applied and the ingestion report asks for another look. 'reviewed_pages' lists the scanned pages checked against the image. 'page_titles' names what each page is when one file holds several documents, and 'page_meta' records what it applies to.",
   "corrections": {
     "AC-43.13-1B-CH7": {
       "e102": {
@@ -82,6 +82,13 @@
   },
   "reviewed_pages": {
     "WO-SCAN": [1, 2, 3]
+  },
+  "page_meta": {
+    "WO-SCAN": {
+      "1": {"aircraft": "CN-TFE"},
+      "2": {"aircraft": "CN-TFA"},
+      "3": {"aircraft": "CN-TFC"}
+    }
   },
   "page_titles": {
     "WO-SCAN": {

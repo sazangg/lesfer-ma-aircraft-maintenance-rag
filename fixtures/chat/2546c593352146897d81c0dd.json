@@ -1,0 +1,78 @@
+{
+ "request": {
+  "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+  "messages": [
+   {
+    "role": "user",
+    "content": "Answer the question using the supplied sources.\nCite the source label, for example [S1], beside each claim it supports.\nIf the sources don't establish an answer, say so.\n\nQuestion:\nWhat changed between AC 43-9C and AC 43-9D?\n\n[S1] AC-43-9D\nAC 43-9D, Maintenance Records\nAdvisory Circular\n\nSubject: Maintenance Records and FAA Form 8130-3 Return to Service\n\nDate: 9/22/25\n\nAC No: 43-9D\n\nInitiated by: AFS-300 Change:\n\n1 PURPOSE OF THIS ADVISORY CIRCULAR (AC). This AC provides information relevant to the public for the maintenance recordkeeping and record-making requirements of Title 14 of the Code of Federal Regulations (14 CFR) parts 43 and 91. This AC provides one means, but not the only means, of ensuring that the contemplated maintenance, alterations, or continue-in-service condition is in compliance with applicable regulations and existing policy.\n\nNote 1: The information in this AC, with the exception of that information related to Federal Aviation Administration (FAA) Form 8130-3, Authorized Release Certificate, Airworthiness Approval Tag, does not apply to air carrier maintenance programs under 14 CFR \u00a7\u00a7 121.367 and 135.425.\n\nNote 2: This is a guidance document. Its content is not legally binding in its own right and will not be relied upon by the Department as a separate basis for affirmative enforcement action or other administrative penalty. Conformity with the guidance document is voluntary only. Nonconformity will not affect rights and obligations under existing statutes and regulations.\n\nFAA Form 8130-3. The FAA has transferred the information regarding FAA Form 8130-3 from FAA Order 8130.21, Completion of FAA Form 8130-3 Under Part 21, into this AC. Furthermore, the FAA will incorporate the same information into FAA Order 8900.1, Flight Standards Information Management System, which is a comprehensive aviation safety inspector's (ASI) guide. The details moved to this AC and Order 8900.1 outline the instructions for FAA Form 8130-3 and the Airworthiness Approval Tag for approving return to service under 14 CFR part 43 of the regulations.\n\n2 AUDIENCE. The audience of this AC is persons authorized by 14 CFR \u00a7 43.7(b)-(e) to approve aircraft, airframes, aircraft engines, propellers, appliances, or component parts for return to service after maintenance, preventive maintenance, or alteration and FAA personnel tasked with the review and oversight of said entities.\n\n3 WHERE YOU CAN FIND THIS AC. You can find this AC on the FAA's website at https://www.faa.gov/regulations_policies/advisory_circulars and the Dynamic Regulatory System (DRS) at https://drs.faa.gov.\n\n4 WHAT THIS AC CANCELS. AC 43-9C, Maintenance Records, dated June 8, 1998, is canceled.\n\n5 RELATED REGULATIONS. Title 14 CFR parts 1, 43, 65, 91, and 145.\n\n[S2] PROC-R7\nProcedures manual, revision 7 (excerpt)\nAnfa Aero Services: procedures manual, revision 7 (excerpt)\n\n| Revision | Date | Change |\n| --- | --- | --- |\n| 7 | 2026-06-01 | Section 3.2 extended to every Cessna 172R and 172S; section 3.3 added. |\n| 6 | 2025-09-29 | Section 2.4 and section 7 refer to AC 43-9D, which replaced AC 43-9C. |\n| 5 | 2024-01-15 | Section 4.2: torque wrench calibration every 12 months instead of 24. |\n\n[S3] AC-43-9C\nAC 43-9C, Maintenance Records (cancelled 22 September 2025)\nAdvisory Circular\n\nSubjet: MAINTENANCE RECORDS\n\nDate:\n\n6/8/98\n\nAC No: 43-9C\n\nInitiated by: AFS-340\n\nChange:\n\nPURPOSE. This advisory circular (AC) describes methods, procedures and practices that have. been determined to be acceptable means of showing compliance with the general aviation maintenance record making and record keeping requirements of Title 14 of the Code of Federal Regulations (14 CFR) parts 43 and 91. This material is not mandatory, nor is it regulatory and acknowledges that the Federal Aviation Administration (FAA) will consider other methods that may be presented. It is issued for guidance purposes and outlines several methods of compliance with the regulations.\n\nNOTE: The information in this AC does not apply to air carrier maintenance records made and retained in accordance with 14 CFR part 121.\n\nCANCELLATION. AC 43-9B, Maintenance Records, dated January 9, 1984, is canceled.\n\nRELATED REGULATIONS. 14 CFR parts 1, 43, 91, and 145.\n\nDISCUSSION. The Code of Federal Regulations state that a U.S. standard airworthiness certificate is effective until it is surrendered, suspended, revoked, or a t\u00e8rmination date is otherwise established by the Administrator. In addition to those terms, a U.S. standard airworthiness certificate is effective only as long as the maintenance, preventive maintenance, and alterations are performed in accordance with parts 43 and 91, and the aircraft are registered in the United States. These terms and conditions are further restated, in block 6, on the front of FAA Form 8100-2, Standard Airworthiness Certificate. Qualified persons, who perform the maintenance, preventive maintenance and alterations, shall make a record entry of this accomnplishment, thus maintaining the validity of the certificate of airworthiness. Adequate aircraft records provide tangible evidence that the aircraft complies with the appropriate airworthiness requirements. In accordance with the terms and conditions listed in block 6 of the Standard Airworthiness Certificate, insufficient or non-existent aircraft records may render that standard airworthiness certificate invalid."
+   }
+  ],
+  "max_tokens": 8000,
+  "temperature": 0
+ },
+ "response": {
+  "id": "gen-1793458258-DmCVJgx2LagVRJGw1s0U",
+  "choices": [
+   {
+    "finish_reason": "stop",
+    "index": 0,
+    "logprobs": null,
+    "message": {
+     "content": "Based on the provided sources, the following changes occurred between AC 43-9C and AC 43-9D:\n\n**1. Publication date and issuing office**\n- AC 43-9C was dated June 8, 1998, and initiated by AFS-340 [S3].\n- AC 43-9D is dated September 22, 2025, and initiated by AFS-300 [S1].\n\n**2. Inclusion of FAA Form 8130-3 guidance**\n- AC 43-9D explicitly states that the FAA transferred information regarding FAA Form 8130-3 (Authorized Release Certificate, Airworthiness Approval Tag) from FAA Order 8130.21 into this AC, and will incorporate the same information into FAA Order 8900.1 [S1]. This transfer is not mentioned in AC 43-9C [S3].\n\n**3. Expanded list of related regulations**\n- AC 43-9C lists related regulations as 14 CFR parts 1, 43, 91, and 145 [S3].\n- AC 43-9D adds 14 CFR part 65 to that list (parts 1, 43, 65, 91, and 145) [S1].\n\n**4. Applicability to air carriers**\n- AC 43-9C notes that its information does not apply to air carrier maintenance records made under 14 CFR part 121 [S3].\n- AC 43-9D narrows the exception: it does not apply to air carrier maintenance programs under 14 CFR \u00a7\u00a7 121.367 and 135.425, except for the information related to FAA Form 8130-3 [S1].\n\n**5. Audience description**\n- AC 43-9D provides a more detailed audience definition: persons authorized by 14 CFR \u00a7 43.7(b)-(e) to approve articles for return to service and FAA personnel tasked with review/oversight [S1]. AC 43-9C does not include a comparable audience section in the excerpt provided [S3].\n\n**6. Explicit non-binding guidance statement**\n- AC 43-9D includes a detailed note stating it is a guidance document, not legally binding, and conformity is voluntary [S1]. AC 43-9C states the material is not mandatory nor regulatory and is issued for guidance, but does not include the same detailed disclaimer [S3].\n\n**7. Cancellation**\n- AC 43-9D cancels AC 43-9C (dated June 8, 1998) [S1].\n- AC 43-9C canceled AC 43-9B (dated January 9, 1984) [S3].\n\n**8. Procedures manual update**\n- An external procedures manual (Revision 6, dated 2025-09-29) notes that sections were updated to refer to AC 43-9D, which replaced AC 43-9C [S2].\n\nThe sources do not provide the full text of either AC, so additional content changes (e.g., in recordkeeping procedures, examples, or appendices) cannot be determined from the excerpts given.",
+     "refusal": null,
+     "role": "assistant",
+     "annotations": null,
+     "audio": null,
+     "function_call": null,
+     "tool_calls": null,
+     "reasoning": "The user is asking what changed between AC 43-9C and AC 43-9D. I need to compare the two advisory circulars based on the provided sources.\n\nFrom [S1] (AC 43-9D), I can see:\n- Date: 9/22/25 (September 22, 2025)\n- Initiated by: AFS-300\n- Purpose: Provides information for maintenance recordkeeping and record-making requirements of 14 CFR parts 43 and 91\n- Note 1: Exception for FAA Form 8130-3 information\n- Note 2: Guidance document, not legally binding\n- FAA Form 8130-3: The FAA transferred information regarding FAA Form 8130-3 from FAA Order 8130.21 into this AC, and will incorporate same into FAA Order 8900.1\n- Audience: Persons authorized by 14 CFR \u00a7 43.7(b)-(e) to approve aircraft for return to service and FAA personnel\n- Cancels: AC 43-9C dated June 8, 1998\n- Related regulations: 14 CFR parts 1, 43, 65, 91, and 145\n\nFrom [S3] (AC 43-9C):\n- Date: 6/8/98 (June 8, 1998)\n- Initiated by: AFS-340\n- Purpose: Describes methods, procedures, practices acceptable for showing compliance with general aviation maintenance record making and record keeping requirements of 14 CFR parts 43 and 91\n- Note: Does not apply to air carrier maintenance records under 14 CFR part 121\n- Cancellation: AC 43-9B dated January 9, 1984\n- Related regulations: 14 CFR parts 1, 43, 91, and 145 (no part 65)\n- Discussion: Talks about airworthiness certificate validity and record entries\n\nKey differences I can identify:\n1. Date: 1998 vs 2025\n2. Initiating office: AFS-340 vs AFS-300\n3. AC 43-9D includes FAA Form 8130-3 information transferred from FAA Order 8130.21\n4. AC 43-9D adds 14 CFR part 65 to related regulations\n5. AC 43-9D explicitly mentions it will incorporate information into FAA Order 8900.1\n6. AC 43-9D has more detailed audience description\n7. AC 43-9D has explicit note about not being legally binding (though both are guidance)\n8. AC 43-9C has a \"DISCUSSION\" section about airworthiness certificates that doesn't appear in the excerpt of 43-9D\n9. AC 43-9C note says it doesn't apply to air carrier maintenance records under part 121, while 43-9D says exception for FAA Form 8130-3 info and doesn't apply to air carrier maintenance programs under 121.367 and 135.425\n\nFrom [S2], I see a procedures manual revision 6 (2025-09-29) notes \"Section 2.4 and section 7 refer to AC 43-9D, which replaced AC 43-9C.\"\n\nI should cite the sources for each claim. Let me structure the answer.",
+     "reasoning_details": [
+      {
+       "type": "reasoning.text",
+       "text": "The user is asking what changed between AC 43-9C and AC 43-9D. I need to compare the two advisory circulars based on the provided sources.\n\nFrom [S1] (AC 43-9D), I can see:\n- Date: 9/22/25 (September 22, 2025)\n- Initiated by: AFS-300\n- Purpose: Provides information for maintenance recordkeeping and record-making requirements of 14 CFR parts 43 and 91\n- Note 1: Exception for FAA Form 8130-3 information\n- Note 2: Guidance document, not legally binding\n- FAA Form 8130-3: The FAA transferred information regarding FAA Form 8130-3 from FAA Order 8130.21 into this AC, and will incorporate same into FAA Order 8900.1\n- Audience: Persons authorized by 14 CFR \u00a7 43.7(b)-(e) to approve aircraft for return to service and FAA personnel\n- Cancels: AC 43-9C dated June 8, 1998\n- Related regulations: 14 CFR parts 1, 43, 65, 91, and 145\n\nFrom [S3] (AC 43-9C):\n- Date: 6/8/98 (June 8, 1998)\n- Initiated by: AFS-340\n- Purpose: Describes methods, procedures, practices acceptable for showing compliance with general aviation maintenance record making and record keeping requirements of 14 CFR parts 43 and 91\n- Note: Does not apply to air carrier maintenance records under 14 CFR part 121\n- Cancellation: AC 43-9B dated January 9, 1984\n- Related regulations: 14 CFR parts 1, 43, 91, and 145 (no part 65)\n- Discussion: Talks about airworthiness certificate validity and record entries\n\nKey differences I can identify:\n1. Date: 1998 vs 2025\n2. Initiating office: AFS-340 vs AFS-300\n3. AC 43-9D includes FAA Form 8130-3 information transferred from FAA Order 8130.21\n4. AC 43-9D adds 14 CFR part 65 to related regulations\n5. AC 43-9D explicitly mentions it will incorporate information into FAA Order 8900.1\n6. AC 43-9D has more detailed audience description\n7. AC 43-9D has explicit note about not being legally binding (though both are guidance)\n8. AC 43-9C has a \"DISCUSSION\" section about airworthiness certificates that doesn't appear in the excerpt of 43-9D\n9. AC 43-9C note says it doesn't apply to air carrier maintenance records under part 121, while 43-9D says exception for FAA Form 8130-3 info and doesn't apply to air carrier maintenance programs under 121.367 and 135.425\n\nFrom [S2], I see a procedures manual revision 6 (2025-09-29) notes \"Section 2.4 and section 7 refer to AC 43-9D, which replaced AC 43-9C.\"\n\nI should cite the sources for each claim. Let me structure the answer.",
+       "format": "unknown",
+       "index": 0
+      }
+     ]
+    },
+    "native_finish_reason": "stop"
+   }
+  ],
+  "created": 1793458258,
+  "model": "nvidia/nemotron-3-ultra-550b-a55b:free",
+  "object": "chat.completion",
+  "metadata": null,
+  "moderation": null,
+  "service_tier": null,
+  "system_fingerprint": null,
+  "usage": {
+   "completion_tokens": 1581,
+   "prompt_tokens": 1463,
+   "total_tokens": 3044,
+   "completion_tokens_details": {
+    "accepted_prediction_tokens": null,
+    "audio_tokens": 0,
+    "reasoning_tokens": 605,
+    "rejected_prediction_tokens": null,
+    "text_tokens": null,
+    "image_tokens": 0
+   },
+   "prompt_tokens_details": {
+    "audio_tokens": 0,
+    "cache_write_tokens": 0,
+    "cached_tokens": 0,
+    "image_tokens": null,
+    "text_tokens": null,
+    "video_tokens": 0
+   },
+   "cost": 0,
+   "is_byok": false,
+   "cost_details": {
+    "upstream_inference_cost": 0,
+    "upstream_inference_prompt_cost": 0,
+    "upstream_inference_completions_cost": 0
+   }
+  },
+  "provider": "Nvidia"
+ }
+}

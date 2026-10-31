@@ -13,7 +13,8 @@ It has one tagged checkpoint per part, like the companion repository, and record
 | 3 | From raw files to structured documents | `part-03` |
 | 4 | From documents to evidence | `part-04` |
 | 5 | When search misses the evidence | `part-05` |
-| 6–14 | | coming |
+| 6 | Choosing the evidence that applies | `part-06` |
+| 7–14 | | coming |
 
 ## Run it without a key
 

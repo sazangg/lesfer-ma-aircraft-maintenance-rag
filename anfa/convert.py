@@ -75,6 +75,8 @@ class Section:
     elements: list[Element] = field(default_factory=list)
     # What the page is, when one file holds several documents (a reviewer's page title).
     context: str = ""
+    # Part 6: what the section applies to, when that differs from the document (a page's aircraft).
+    meta: dict = field(default_factory=dict)
 
 
 @dataclass
@@ -201,6 +203,7 @@ def convert(doc: ParsedDocument, describer: Describer | None, corrections: dict)
     fixes = corrections.get("corrections", {}).get(doc.source_id, {})
     checked_pages = set(corrections.get("reviewed_pages", {}).get(doc.source_id, []))
     page_titles = corrections.get("page_titles", {}).get(doc.source_id, {})
+    page_meta = corrections.get("page_meta", {}).get(doc.source_id, {})
     source = CORPUS_DIR / "source" / doc.file
     notes = slide_notes(source) if doc.format == "pptx" else {}
     sheets = sheet_names(source) if doc.format == "xlsx" else []
@@ -216,9 +219,13 @@ def convert(doc: ParsedDocument, describer: Describer | None, corrections: dict)
         report.removed_furniture += len(outside) - report.removed_neighbours
         elements = elements[first:last + 1]
 
+    def new_section(number: str, title: str) -> Section:
+        page = str(raw.get("page"))  # the element being placed
+        return Section(number, title, context=page_titles.get(page, ""), meta=page_meta.get(page, {}))
+
     def section() -> Section:
         if not sections:
-            sections.append(Section("", "", context=page_titles.get(str(raw.get("page")), "")))  # the element being placed
+            sections.append(new_section("", ""))
         return sections[-1]
 
     read_by_ocr = ocr_pages(doc, elements)
@@ -256,7 +263,7 @@ def convert(doc: ParsedDocument, describer: Describer | None, corrections: dict)
 
         if kind == "heading":
             number, title = _heading(text)
-            sections.append(Section(number, title, context=page_titles.get(str(raw.get("page")), "")))
+            sections.append(new_section(number, title))
             continue
         if kind == "slide":
             # 6. The parser keeps a slide's title and text and drops its notes; the source file has them.
